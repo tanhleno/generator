@@ -1,0 +1,1 @@
+program q : main : F : integer array; u, BxL0, P4, u, a0F : boolean array; E0, f : integer; h8 : integer array; t : boolean array; s, s : boolean; B57 : boolean; e7 : boolean; let D9 = array Ma60a(23300, 916); pop - 30 - 520 - 6190; pop; pop end

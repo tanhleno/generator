@@ -1,0 +1,1 @@
+program r : he : takes W : boolean; Ev, A, a, W, L, Y940a : boolean; F, m, M, T, dw, FwS : boolean array; f : integer returns nothing S1 : boolean; l : integer array; pop 0 > 80200; input bfj[1840 - 35] end main : G5C, DZ, H57aa, sH8, B2 : boolean array; Q : boolean; v7, j6L, T : integer; chillax end

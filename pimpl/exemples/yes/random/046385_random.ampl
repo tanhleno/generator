@@ -1,0 +1,1 @@
+program g : P : takes BGG0 : boolean returns boolean when case not 8 >= - 6 : chillax end case 9 - 762 /= 7240 : chillax end case 9 = 419 : chillax end otherwise : do I(699); while 65 : chillax end; pop end end main : z, Bg, j : boolean array; chillax end

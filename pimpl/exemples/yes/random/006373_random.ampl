@@ -1,0 +1,1 @@
+program q : N : takes q, gR, m, L : integer; P4B0a, b, Sc : boolean array returns boolean array A, _h, o : boolean; g, P97, B : boolean array; j7b : boolean array; chillax end Pcq : takes Z, O, NK, O3p, X, Z24, RCj0a : boolean array returns nothing le, yQl : integer array; v, wM, be : integer; chillax end main : do x(- F / false - false > 7) end

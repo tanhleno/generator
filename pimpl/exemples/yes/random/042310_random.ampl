@@ -1,0 +1,1 @@
+program A9 : R : takes f : boolean array returns boolean let M = array - false; do W7Sa(78 <= 34, 2, 748, 5) end D : takes d, l3, h, y : integer array; o, j, oC, Q, Q : integer returns boolean array zC, t, Q2, r : integer; chillax end main : g8, F2, n5 : boolean; chillax end

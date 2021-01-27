@@ -1,0 +1,1 @@
+program f : p99 : takes Xh, oA : integer array; J : integer; Q7, m3, J, Ot : integer returns boolean array A : boolean array; chillax end h : takes jaYa, l : boolean returns integer array R : integer array; cs, B : boolean; input r1 end main : let A[- k] = - true + (5) and 361 end

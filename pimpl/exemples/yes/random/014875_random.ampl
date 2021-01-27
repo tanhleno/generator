@@ -1,0 +1,1 @@
+program k : B8 : takes E, uX3, j : integer array returns boolean when case - m1 or 4 - 8 : let I = array 072 end case - 54 /= 96700 : input NZ end otherwise : chillax end end P0 : takes ax, pTj0 : boolean array returns boolean pop 1; input r4[96500]; let P69[5] = 6; let S = 4 end main : chillax end

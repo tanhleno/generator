@@ -1,0 +1,1 @@
+program E : Z1 : takes wP8 : boolean; X7Na, sFK, O, ifZ0, S5Jaa, E9Haa : boolean array; KQ, i, q, J40aa, UA : boolean returns integer chillax end main : output "" . "\\Xa"; input M[- false and false - (4) and 55300]; while false and 9 : chillax end; let D[4 - 4] = array 12; output "" end

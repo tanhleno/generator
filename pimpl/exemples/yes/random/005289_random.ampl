@@ -1,0 +1,1 @@
+program iwpaa : S3 : takes t6, z, G2D0a, y : boolean array returns boolean array S : integer; P0, B3 : boolean array; pop end DZ : takes F48a, O, uH20 : integer returns nothing E : boolean; chillax end main : let U = array - true or not false; output - Z and 1350 or 70 - 9 end

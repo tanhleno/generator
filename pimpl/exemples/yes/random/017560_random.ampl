@@ -1,0 +1,1 @@
+program Pi9 : jX : takes fP, WB1 : boolean; e, Z : integer returns integer array Y, G, U8, TQ90, J : boolean array; chillax end cm40 : takes Hj : integer array; DXf : boolean array; V6, f3, G : integer returns boolean array chillax end main : S8, JJp : boolean; chillax end

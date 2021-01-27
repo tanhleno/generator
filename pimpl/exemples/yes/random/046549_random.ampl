@@ -1,0 +1,1 @@
+program X : J : takes j : boolean returns integer array R2Da, x, V : boolean; y, o : integer; p : integer array; F1 : boolean; Q : boolean; f : boolean; input wa6a end main : w : integer; chillax end

@@ -1,0 +1,1 @@
+program fa : H : takes c_g0a : boolean returns integer while not 59 and 885 > - 0 : pop end end G : takes sEFa, t, k8G0a : boolean; UqPaa : integer returns nothing chillax end main : q : integer; _, gV80, D : integer; T : integer array; pop; pop end

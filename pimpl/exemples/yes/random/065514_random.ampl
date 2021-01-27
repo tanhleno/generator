@@ -1,0 +1,1 @@
+program Z : gE5a : takes l6 : integer returns nothing when case 5 and 11 or 68300 /= - 1 : chillax end end n : takes x : boolean array; y : integer returns nothing h, fl3a : boolean array; jNk0, S5z0a, p : integer array; chillax end main : cfI, a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program n950 : main : F8, k, j4 : boolean array; do X3(1); when case true and not 0 and 138 + I or 9 : pop end otherwise : chillax end; output 4 - 69600; while 5 - 330 : chillax end; let fT2 = 9; when case 36 : pop end case 81 : chillax end end

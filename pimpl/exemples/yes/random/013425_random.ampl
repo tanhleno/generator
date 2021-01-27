@@ -1,0 +1,1 @@
+program k8y : J : takes h, h0, zE : integer; b : integer array; s11, o, I0, I, e, Li7 : boolean returns nothing chillax end main : when case - true * false <= - true + true and 7 : input vZ; pop; output "" end otherwise : chillax end; output t and 5 + 693 - 98 . "" . "" . 03 end

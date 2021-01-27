@@ -1,0 +1,1 @@
+program D : main : when case not 39 / false or cr3aa(0) + true + 58 : pop 1 = 0 end case - 0 * 9 : chillax end case Z : input wf end; do z(- V(53) / (3) and 2860 or false and 791 + 55 - 48 /= - true and 977 - 2) end

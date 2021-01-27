@@ -1,0 +1,1 @@
+program bF : main : TJ, z, R0g0a : integer; y : integer array; when case 5 / false or(66) * true or true and 920 or 623 > 2 or I : let bz[- 93 - 1] = 8 = 2; input o03a[3]; pop; while 2 : chillax end end; do f7T0(not false and false and 60500 + not 24) end

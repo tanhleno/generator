@@ -1,0 +1,1 @@
+program G2J : c1y : takes sN5, P82, n9, R : boolean returns boolean a8Faa : integer; V : boolean; y43, j9 : integer; Y8 : boolean; y : boolean; bD6 : boolean; input u; input M end main : output true; do Oe(- 5 or(9) - 9) end

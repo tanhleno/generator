@@ -1,0 +1,1 @@
+program W : K : takes M, M, O4m0a : integer; In, s : integer array returns nothing R : boolean array; KD3a : integer array; chillax end main : let h[false or h[8] * 0 or not 445 - 8] = y rem not 94 and 5; input aA[true rem true and 9480 + (3) and 18] end

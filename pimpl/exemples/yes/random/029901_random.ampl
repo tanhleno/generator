@@ -1,0 +1,1 @@
+program B1 : TnT : takes gA, AM : integer array returns integer array when case(486) - 6 - 269 >= - 3 - 045 : pop 3 end case 1 - 4 > 8 : do G(5) end; when case - 7 >= 8 : input V end end main : chillax end

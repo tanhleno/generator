@@ -1,0 +1,1 @@
+program c890 : UrR0a : takes tau, w : integer; O : boolean returns boolean array while true - 251 - 728 >= - 4 - 6 : let Q[86] = array 6; when case 811 : chillax end; input B end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program k : Z5 : takes W, _9oaa : integer returns boolean array chillax end main : let cJ1[not(97) / (6) or false and g and 699 - true and 22 or 6] = (95) and false <= 768 and 3090; input U82a[- true rem not 49 and 62200] end

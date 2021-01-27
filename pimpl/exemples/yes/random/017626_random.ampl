@@ -1,0 +1,1 @@
+program r : J : takes l, nFE : boolean; c : boolean; xW1, t, Qz : boolean array; z : boolean array returns integer m, M, K2X : integer; Cd, g8I, T : integer array; bbLa : boolean array; M : boolean; chillax end main : do j4(- not false and not 2 and not 0 = false / false) end

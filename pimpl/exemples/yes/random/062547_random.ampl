@@ -1,0 +1,1 @@
+program KP9a : F : takes U : integer returns boolean A : integer; F : integer; do K(not 68 and 9 /= - 52 - 3) end GD70a : takes q, F : boolean; x, _b, E : integer returns nothing pop; input z; output "" . ""; when case 196 : chillax end; output ""; pop end main : pop end

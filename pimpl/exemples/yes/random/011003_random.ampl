@@ -1,0 +1,1 @@
+program B7c : sH9a : takes c, l4, Q : boolean array returns integer input J2w; while 3 - 886 <= 59 : chillax end; let Ml[873] = 5 end main : do s03(- true = 77, false * not 3 and 91900 + not 3 or 6 <= false and 703 or 4 - 804) end

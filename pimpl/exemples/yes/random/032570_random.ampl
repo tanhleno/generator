@@ -1,0 +1,1 @@
+program w3 : X : takes o, jYSaa : integer returns nothing N41, y, k5 : integer array; chillax end main : g : integer; do TO7(8 - e250 + (3) and 835 or 49 - 3, - 0 or G1 and 69 >= (27) and 74 + 44 - 8); while not false - RG and 88 : chillax end end

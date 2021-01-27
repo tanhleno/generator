@@ -1,0 +1,1 @@
+program V : L : takes f, b0 : boolean array returns nothing mE : integer array; fr50, ks5 : boolean array; o : integer; chillax end mpnaa : takes m : boolean array returns nothing input f; pop end main : ge : boolean; cs : integer array; B : boolean array; chillax end

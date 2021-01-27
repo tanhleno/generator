@@ -1,0 +1,1 @@
+program sfv0a : L : takes F0Naa, F : boolean array returns integer array chillax end I : takes g : boolean array returns boolean array while 9 : chillax end; let L[540] = 079; input a5d0[89] end main : p : integer array; b4 : boolean; I, H : integer; output false / true or 8 >= - O_4 and 95 . - true and 0 end

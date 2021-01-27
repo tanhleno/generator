@@ -1,0 +1,1 @@
+program f4g : U : takes Y : integer returns boolean array when case 86 and 2 : input W4[92] end case 93 - 6 < 1 : chillax end case 2 : chillax end otherwise : let Z3L = 473; input G end; input g1; input N[5230]; pop 83; output "\""; while 67600 : chillax end; pop end main : r : integer array; pop - not q; pop; let M = array - true and 235 + 17300 - 4 end

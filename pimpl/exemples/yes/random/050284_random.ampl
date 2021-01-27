@@ -1,0 +1,1 @@
+program bjy0a : My0 : takes T : integer; C, o7 : boolean; d, p0, r, Df, C, _l0aa : boolean array returns integer f4, G : boolean; chillax end b : takes N : boolean array; i5, x22, Q, yN : integer array returns nothing J6, O66, J : integer; chillax end main : input n; input m; output "" end

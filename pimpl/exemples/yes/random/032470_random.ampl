@@ -1,0 +1,1 @@
+program e : W2 : takes m, bJ : integer returns nothing _78, qL9aa, G, nF, s410a : integer; e, p, g, E : integer; A, B, O : boolean array; ZjH0a : boolean; chillax end main : when case 2 / (8790) - true or 4 < - false * not 6750 and 4920 or false and 68 or 1 : pop 58500 = 59 end end

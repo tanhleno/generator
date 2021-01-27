@@ -1,0 +1,1 @@
+program tY : yq5 : takes M7L0a, a : boolean returns nothing H : integer; v : boolean; F0, Ix5, G : integer array; Z7Aaa : boolean; R9 : boolean; do u160a(- (8) and 8 + 50 - 7, - 7550 - 97); let v[92] = 8; pop 1; input J8; output ""; input pLI0a; pop end main : sa0, w1i0a, qZ10, s, M : boolean array; pop; do j5U(9 - (28000)) end

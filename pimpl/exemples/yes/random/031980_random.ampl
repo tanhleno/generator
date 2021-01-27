@@ -1,0 +1,1 @@
+program H8 : X : takes n, A : integer returns integer chillax end main : Y : boolean array; r, G, oU0, q : integer; output - (0) * true and 66; when case true and false and 19800 - true and 93 /= - not 52 : while 0 : chillax end end case - true /= 98 : let l[7870] = array 038; pop end case - 3 - 15400 : chillax end; do K(F8 and 6, - 60); do b03a(- 0 /= 5) end

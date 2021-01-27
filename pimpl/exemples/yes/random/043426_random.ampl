@@ -1,0 +1,1 @@
+program bJ : OJI0 : takes V : boolean array returns nothing chillax end h : takes t, Q7, i4, S : integer; g460a, q8Q : boolean returns boolean array chillax end main : Ella : boolean array; pop true < - false; when case(85) and 777 and 2 : chillax end end

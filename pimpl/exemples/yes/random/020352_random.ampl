@@ -1,0 +1,1 @@
+program r : RC : takes V, v : boolean array; UI : integer; W : integer array; b : integer; M : integer array returns integer array chillax end main : it, tgg : boolean; n1T0 : boolean; output "6"; do x1K0a(false >= (2) and 7 + 7); let Y5Gaa[- u and 4220 - 5] = array not 0 or 9 end

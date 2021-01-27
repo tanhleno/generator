@@ -1,0 +1,1 @@
+program uj2 : VT20 : takes V : boolean array; b9 : boolean; v3 : integer array returns nothing chillax end main : do w6(2 rem 034 or false * 5 and 8, false - false and 3 or 8 - 94200 <= false and 37 + 5 - 0) end

@@ -1,0 +1,1 @@
+program qDZa : main : while - not F5[2] : do Axe0a(- 2 - 8, 0); output 9 . "" end; when case - (7) / w5 or j and 857 = - false and 8 : chillax end otherwise : while 4 : chillax end; let B = 3 end end

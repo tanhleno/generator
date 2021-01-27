@@ -1,0 +1,1 @@
+program o : main : do yOsaa(- (79 = 65) + a25 - false - 6 - 4410 > - false rem(1) and 90 + (1) and 03 or 5 - 70, not false rem false or true and 1); let MD0a[- not not 33] = array - m(77) rem(2); let F9 = array 8 and 9; let vuf0a[- 09100] = 9 end

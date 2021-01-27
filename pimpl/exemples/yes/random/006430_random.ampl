@@ -1,0 +1,1 @@
+program D8 : xOA : takes P, fV, R9Z, m : integer; v6, dBm0a : boolean array; c3, ph, Q : boolean returns integer array while 33 and 9 > 98 - 139 : output 1 . ""; pop; do w7(0); pop end; let v[0] = array - 3 end main : chillax end

@@ -1,0 +1,1 @@
+program a : DD : takes w, M : integer array; r6, t : integer; d, Q : integer array returns integer t1 : boolean array; let I4 = - 9 - 8 /= 61; do X0(422 < 32400) end main : r, o : integer; output y[6]; pop end

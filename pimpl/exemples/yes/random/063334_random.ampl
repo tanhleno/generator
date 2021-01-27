@@ -1,0 +1,1 @@
+program aR : q : takes e : integer returns integer M05, z, lhe, Y : integer array; n : boolean array; pop end G : takes m64, d, kD80 : integer array returns nothing chillax end main : t, P43 : boolean array; jK5, k7U0, KX6 : boolean array; W, _ : boolean; pop; while Z[97] + true and 347 : chillax end end

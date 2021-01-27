@@ -1,0 +1,1 @@
+program Ck7 : main : o0, L : integer; while(1310 = 93) * not not 46 * false - 3 + true and 416 >= - TXU0a(50) / false or 7 : chillax end; when case - not true and qkS0 and 8 + r or 00 : when case 2 = 8 : chillax end case 0640 : pop end otherwise : pop end; do h(1, 6); when case 7420 : chillax end; let v = 5; pop end otherwise : do X65(6030, 605); input K; input E1 end end

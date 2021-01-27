@@ -1,0 +1,1 @@
+program C : WjD0a : takes Q : boolean; G, TC : integer returns nothing chillax end P : takes hp30, c, l, k65 : boolean; F, Y, H0, Lm, t : boolean returns nothing while - 8 > 732 : chillax end; output "5" . 6; do K23(1, 1); output "\\"; input U; pop end main : h6 : integer; chillax end

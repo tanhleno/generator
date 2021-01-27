@@ -1,0 +1,1 @@
+program b : main : i, Op1a, w : boolean; QUtaa, Os, h : boolean; FZ, u : integer; N : integer array; L0, M4 : integer array; v75aa, e : boolean; l : boolean; input x; output false and 2 + 7; input Dt[- false]; output 5; do p_(2) end

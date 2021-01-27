@@ -1,0 +1,1 @@
+program k : main : N56a, n : integer; ec9aa, K, T53, J, M9uaa : integer; U8 : boolean; k0w : boolean; U9, P : integer; O7 : boolean; B5 : boolean; input f[- not false / (5560) or 23500 rem 354 and 42]; input vq50a end

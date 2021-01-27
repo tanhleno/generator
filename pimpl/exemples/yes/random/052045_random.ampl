@@ -1,0 +1,1 @@
+program p8P : jD : takes J : integer; R : boolean array returns nothing I, z52 : boolean; N15a, c : integer; e : integer; let T = 1 - 723; while 5110 - 4 < 1 : chillax end; pop 97100 end main : chillax end

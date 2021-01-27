@@ -1,0 +1,1 @@
+program L7 : u : takes nyt : boolean array; K, xrP0 : integer returns nothing h, N : integer; let A = 7 - 60 > 84 end C3 : takes U4 : integer array; a, V, M : integer; U : integer; H9 : integer returns integer array Ph5 : boolean; chillax end main : pop end

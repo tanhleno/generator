@@ -1,0 +1,1 @@
+program R : f8 : takes n : integer returns integer chillax end main : when case - 48400 - R[1] * MM - (1) and 2 /= - false * t2 and 16 - true and 7 or 1 : pop 5 = 49; output 8 . 2 . "]\t" end case not w / true and 84 : chillax end case - true and 7 : when case 0 : pop end; when case 482 : chillax end; output ""; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Cp : l : takes B6s : boolean returns nothing eg, N : boolean; when case 728 > - 4 : do bk3(5); input _i end otherwise : output "64!" end; while 88 - 71500 : input r end; when case 3370 : chillax end case 7 : pop end case 9290 : chillax end otherwise : pop end end main : E, rQ, m : boolean array; chillax end

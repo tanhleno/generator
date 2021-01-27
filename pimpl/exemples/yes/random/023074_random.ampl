@@ -1,0 +1,1 @@
+program _5 : Lo0a : takes MEh, _0 : boolean returns boolean array output ""; output "1" end c : takes U, hcG, apWaa, k130a, Lp, Q, wnV0 : integer array returns nothing chillax end main : output - 371 / v and 18; do w(- true and true + true and 8 or 3 - 2, not 3 and 84) end

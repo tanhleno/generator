@@ -1,0 +1,1 @@
+program g : PG : takes q, Ca : integer array; l, f, ws : boolean returns nothing while G8 and 1 + 3 > 455 - 0 : chillax end; let m84aa[- 03] = array - 18600 - 15; while 8 = 1 : let g = 3; pop end end s : takes T : boolean; v : integer; kQv : integer array returns nothing w, y, a0Wa : boolean array; _8 : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program H : UG : takes c050, Gs, U, AGWa : integer array returns integer C : boolean array; tCIaa : integer; l3, S : integer; w8 : boolean; do R6(- 0 and 90 < 82600) end n : takes s32 : integer array returns integer array h, x, z : integer array; chillax end main : Dacaa : integer; K, rLx0a : boolean; chillax end

@@ -1,0 +1,1 @@
+program Ue : b7v0 : takes l, y94 : boolean returns nothing let K = array - (1) and 818 - 5680 - 1 end v : takes d, x0 : boolean array returns nothing Y50 : boolean; input Ge7a end Qj : takes v, s : integer; ukx0 : integer returns boolean chillax end main : p : integer; _64 : integer array; input NMfaa[- (40) rem true rem not 3] end

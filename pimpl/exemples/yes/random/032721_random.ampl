@@ -1,0 +1,1 @@
+program M : KHH : takes Ug, _zl : integer returns nothing Q : boolean; chillax end main : output(5) * not 2 or f + 3 > not 8 and 33 or 5580 . G9 and 714 or 4750 . 505 <= 83; let Vm[not H / true] = array - Z(2940) or not 3 and 67 end

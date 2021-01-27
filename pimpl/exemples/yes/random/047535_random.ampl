@@ -1,0 +1,1 @@
+program a : z : takes G : boolean returns nothing chillax end B : takes N3G0a : boolean returns boolean chillax end TI : takes I : boolean returns nothing chillax end C7 : takes M : integer array returns nothing _6 : boolean; Pa : boolean; Cu8aa : boolean; pop 311; input lF60a; output "2"; pop end main : p5 : integer; pop end

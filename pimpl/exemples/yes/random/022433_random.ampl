@@ -1,0 +1,1 @@
+program ekHaa : r : takes e, u : boolean array returns nothing a9 : boolean array; chillax end n : takes TX : boolean returns nothing l46a : integer; when case - 9 = 329 : output "4"; let q = 0 end; do B(71500 = 4) end n7c : takes P3, f5 : boolean returns nothing do I(4) end main : chillax end

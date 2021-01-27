@@ -1,0 +1,1 @@
+program k : p4 : takes F6ha, X4, tz : integer; DO, V : boolean array; Y1, WN : boolean returns nothing M, j : integer array; z : boolean; chillax end m34 : takes UHI : boolean array returns nothing while 1380 = 8 : chillax end end W : takes wUW, kY50, x : integer array returns integer let Os[0] = array 4520 end main : Y, Y : boolean array; chillax end

@@ -1,0 +1,1 @@
+program tK9aa : kM6 : takes m, x7 : boolean array; dV : boolean returns boolean array let Z[3] = - 1 - 79 /= 5 end main : G3 : boolean; yti0a : boolean array; Z, vr2aa, A : boolean; when case - not not not 20100 + (076) * true and 7 + true : output 1 . ""; while 2 : output ""; pop end end; output "k" end

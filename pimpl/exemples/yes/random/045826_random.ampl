@@ -1,0 +1,1 @@
+program s4 : p : takes s060a : boolean returns boolean array output "/Ba" end Bpzaa : takes vZ : integer array returns nothing n, t : boolean array; m3, TZ : boolean; c, h4 : boolean; _z7 : boolean; input S[1 - 748] end main : _, q, G : integer array; chillax end

@@ -1,0 +1,1 @@
+program dVNa : S : takes b : boolean returns integer US, F, F : boolean array; Y : boolean; T, K, w : boolean array; while - F : do oo1(47, 1) end; pop; when case 387 : chillax end case 4 : chillax end otherwise : chillax end; do Z(4, 435); output "" end main : while - (74 = 7) - false = - true * K : let n46a = 0 = 65100 end end

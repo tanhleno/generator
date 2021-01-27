@@ -1,0 +1,1 @@
+program T : main : do _Y(- not true + y(1) * (2) and 30 - not 2); input Y[not true - not 5]; let ulo[- (2) or 3570] = array - true and 66; output ""; when case 6 = 8 : output "$"; pop end; when case 37 : pop end case 9 : chillax end otherwise : chillax end end

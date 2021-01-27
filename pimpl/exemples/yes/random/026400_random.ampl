@@ -1,0 +1,1 @@
+program MA : R3 : takes E, x8 : integer; w : boolean returns integer array while not 67 : when case 4 : pop end end; input C end main : Z, I_20a : boolean array; while - hu4[29] < true / true and 6 + false and 2 - 47 - 099 : pop; input oJ30a[78] end end

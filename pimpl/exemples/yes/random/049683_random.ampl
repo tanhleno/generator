@@ -1,0 +1,1 @@
+program E : s : takes u53 : integer; jnea, A, ZP, NH0a : integer array; m2 : boolean array returns nothing chillax end Q790a : takes z7, g, v6, _, d : boolean returns nothing i07a : integer; chillax end main : when case - (3 = 4) : chillax end end

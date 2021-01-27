@@ -1,0 +1,1 @@
+program L : main : F, m, zK1 : boolean; G30, J, S : boolean; El : boolean array; tJT, V : boolean array; o, h : integer array; do H((3 = 2) / true or not(8) / not 3 or 93400 and 79 or 4 - 9 /= - false and not 6 - l5 + 6 - 8, - false / true >= - true and 846 or 594, - (57) and 64 >= 99 - 1880); while - 0330 /= - true and 2 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program mI : t9 : takes NGCaa : integer array returns nothing h : integer; chillax end Q : takes A : integer returns boolean array output 1 . 3690 . 6 . "\n=!"; while 1 = 7 : input n; pop end end main : q : integer array; pop - not true or(26) - 69 - 3; do ikK0(- (08500) * (5) and 1440 + 6 + 13 - 27500); while - 0 : chillax end end

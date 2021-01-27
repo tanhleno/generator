@@ -1,0 +1,1 @@
+program C : main : while true or false = - 4 and not 2 : do q(86 - 88 > 3, 524 = 6, 5, 880) end; when case - (96100) / not 277 : chillax end case 3 and 4 or 1 - 72 /= - 8 - 65 : input TD[1] end case 86 - 548 <= 2 : chillax end otherwise : pop; let lZ = 3; let R2 = 2020 end end

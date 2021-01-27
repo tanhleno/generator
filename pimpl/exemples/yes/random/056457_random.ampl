@@ -1,0 +1,1 @@
+program Pe30 : Z : takes Dt : integer array; LMo : boolean returns nothing j1 : boolean array; h4m0 : boolean array; ba, t7u0, j : integer; output "\n" end main : K : boolean; g6Eaa, A8, w, Cj : boolean array; chillax end

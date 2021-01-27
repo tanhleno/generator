@@ -1,0 +1,1 @@
+program WM90 : main : m : boolean; _ : boolean array; do D1(- true and(922) * false and 00 + not not 05 = (9), - (299) rem true and 5 or(9) and 1 or 619); let r_ = array C29(86) / true and 5 + not 6 end

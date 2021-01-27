@@ -1,0 +1,1 @@
+program gD : main : jd, Y650 : boolean; p : boolean array; while false * 4 + Q38 : chillax end; when case - true or not 4880 and 429 or 7 - 84 = - true and 6 + 45 - 1 : chillax end case 46 and 20 or 36 - 0 : chillax end case - 8 : pop end otherwise : chillax end end

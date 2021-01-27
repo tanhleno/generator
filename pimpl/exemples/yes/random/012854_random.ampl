@@ -1,0 +1,1 @@
+program y5 : G : takes ny, K, G55 : integer; H, N : boolean array; D, BEAaa : integer returns integer array let v22 = 4 = 610 end main : while false + 8 + false and 8 /= - W / 2 and 4890 : while 3 : while 7 : chillax end; input g; pop end; input D[8]; do Y8(709) end end

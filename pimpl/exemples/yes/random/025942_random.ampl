@@ -1,0 +1,1 @@
+program W82 : w : takes n6, Sqz : integer; M, F130 : integer returns integer chillax end C : takes j, S, r, bQ, e40, T_, Q : integer array; L, t350a : integer array; e3U : boolean returns nothing chillax end main : M460 : boolean array; U : boolean; o, n : boolean array; m3Y, X : boolean array; U : boolean; let bp2a[- not(1) rem(103)] = array - true end

@@ -1,0 +1,1 @@
+program b : R : takes r, Suna, c, Sj10a, v5, pp20a : boolean array returns nothing X, Ms4 : integer array; chillax end O : takes s : boolean array; r0 : boolean returns nothing chillax end main : n : integer array; chillax end

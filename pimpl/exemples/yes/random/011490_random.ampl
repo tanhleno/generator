@@ -1,0 +1,1 @@
+program C : ue : takes x1, uWc, P : boolean array returns nothing pop 5 - 5; output 07 = 8030 end O : takes O4 : integer; cIE0 : integer returns integer d, E, Xd, k : integer; p : integer array; chillax end main : chillax end

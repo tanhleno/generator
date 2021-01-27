@@ -1,0 +1,1 @@
+program lQ : main : when case - 8 + S(165) - not 0 or 46 : let y0[33 - 21700] = 0 = 3; when case 6 = 4 : chillax end case 32 : chillax end otherwise : pop end end otherwise : chillax end; do qE2(6 * 80 and 3410 - true + 53 - 2 /= - 54 and 2310 + 0600) end

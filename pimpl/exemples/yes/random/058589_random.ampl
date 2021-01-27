@@ -1,0 +1,1 @@
+program h : K4 : takes W : integer array returns integer array chillax end pFS0a : takes f, k81aa : boolean array; u, Z, X7 : boolean returns boolean array output "" end main : do r3(not false / 09 /= not false, 62, - k6 - 6 - 5970 >= - 44700); while k76a[45] : chillax end; while 5 and 4 or 75 : output 9 end end

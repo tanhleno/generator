@@ -1,0 +1,1 @@
+program m : wbS : takes i : integer array; T_, A : integer; ho, WQ : boolean array returns integer while R8 - 51 - 1 : pop; while 67700 : chillax end; output "-\n0"; pop end; input fz50a[- 11100 - 41]; pop 07 end main : F, Y43 : boolean; chillax end

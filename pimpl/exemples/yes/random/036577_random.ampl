@@ -1,0 +1,1 @@
+program l5 : K_A : takes i : boolean; t6 : integer; q1 : integer; y, _ : integer returns integer output - 4 . ""; do H0(- 746 - 1 < 07) end G1 : takes oU : integer array returns boolean array O, E0e, K : boolean array; pop 35 = 6; input j[018] end main : chillax end

@@ -1,0 +1,1 @@
+program jRJa : a540 : takes Tu : integer returns boolean w : boolean; k : boolean; chillax end D : takes Uz, Py : integer returns nothing while - 4 - 21 > 150 : when case 0 : chillax end; output ".6!" end end main : a7La, v, K : boolean array; pop - (0) * (8) - q18 and 0 - 519 - 6 /= 8 and 09; input q980a[false or false and 6 - 0 - 05] end

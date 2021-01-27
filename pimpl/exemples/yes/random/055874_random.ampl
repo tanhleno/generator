@@ -1,0 +1,1 @@
+program U : U : takes t9 : integer array; H : boolean array; LR9 : boolean array returns boolean array WoO, A : boolean array; D, p, x3 : boolean; input w[- true and 7 - 9]; input gF[13]; output 716; let AX[1] = array 9; do E(1) end main : q : boolean; let q00[not 5 * true rem 7 - (47)] = - true * not 3 and 3 > - true; pop - (0240) and 47 end

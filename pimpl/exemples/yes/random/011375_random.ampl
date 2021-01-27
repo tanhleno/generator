@@ -1,0 +1,1 @@
+program W : x : takes NQ30a, DG, Tny0a : boolean array returns nothing q1 : integer; J, F : boolean array; y07aa, LW : boolean array; fm00, WD30a : boolean; H6p : boolean; chillax end main : y, w7ga, FP, v1saa : boolean; _, ys : boolean; F0y0 : integer; y : boolean array; let l[- true] = array - true * (8); do K8u(67400 and 8 and 5 or 17 or 4 /= 8) end

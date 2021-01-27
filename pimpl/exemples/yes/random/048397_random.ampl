@@ -1,0 +1,1 @@
+program S : t1ma : takes h2 : boolean returns nothing d9 : boolean; k : integer array; Dc : boolean; t : boolean; f : boolean; v : boolean; when case - 0 and 60 or 3 = - 2 - 796 : when case 46 : pop end; let A = 9 end case - 2 : chillax end end main : e3n0a, Fe : boolean; uQ6a : boolean; while - not true : input z[- 25600 - 0] end; let A[not(624) and not 843] = (6) + 7 >= 9 end

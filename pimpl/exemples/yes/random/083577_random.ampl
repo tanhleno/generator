@@ -1,0 +1,1 @@
+program A9 : main : I : integer; Z330, i : boolean; when case(9 = 09200) - 4040 and 42 and 97 + not 8 and 90 or 8 : input u58[2 - 89] end case not i55 - G59 - 7 - 7 : chillax end otherwise : when case 9 : chillax end case 67100 : chillax end otherwise : chillax end end; pop end

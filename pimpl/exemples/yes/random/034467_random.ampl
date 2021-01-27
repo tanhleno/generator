@@ -1,0 +1,1 @@
+program I : Je : takes z : boolean; C, y5 : boolean array; i : integer; d9i : integer array; Faa0a, z3 : boolean array; A760 : integer returns nothing pop 517 - 3 >= 05800; do M15a(157 - 3 <= 08) end main : H, T1 : integer array; when case(975) and not true + false : let O[3] = array 93 - 3; input R end; pop not 6 or 1 end

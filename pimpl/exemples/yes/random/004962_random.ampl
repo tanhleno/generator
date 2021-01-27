@@ -1,0 +1,1 @@
+program GO : T : takes rM, M, e, J : boolean array; E, t : integer array returns integer array while(32) and 3 : while 54 : chillax end; when case 7 : chillax end end end j : takes J, b : integer array; y, D4, r, _XX0a : integer; P, q : boolean returns boolean G63a : boolean; N : integer; chillax end main : K8, l : integer; chillax end

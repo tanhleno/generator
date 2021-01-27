@@ -1,0 +1,1 @@
+program Lf10 : m8 : takes t, w, SMc : integer array returns boolean array u1q : boolean; output ""; output 62 end main : _1 : integer array; Z9, e5 : boolean; T : integer array; output "" . - (7) and 8 /= - 9 . 368; while 37 * false or true - 573 <= false + 676 - 31 : while 4 = 88 : chillax end end end

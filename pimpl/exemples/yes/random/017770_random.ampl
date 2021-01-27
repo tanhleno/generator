@@ -1,0 +1,1 @@
+program L : WH2 : takes Y1E, h : boolean; L3 : boolean array; n36, _7 : integer; X : boolean returns boolean pop 7 - 9; input L4V end main : output "''" . "\""; do ap(- 77 - true and 72 > false and 85, (2) + 070 - 3 >= - 8490, - 3 - 29200 = 4); input v44 end

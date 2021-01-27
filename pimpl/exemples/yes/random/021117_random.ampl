@@ -1,0 +1,1 @@
+program Zd : eh : takes v, w : boolean array returns boolean SP3, Zt30 : boolean array; k : integer array; chillax end Y : takes LFa : boolean; DVx, Gk5a, y080a : boolean returns nothing a : boolean; p4 : boolean; t : boolean; chillax end main : input AR[not 2 or false and false] end

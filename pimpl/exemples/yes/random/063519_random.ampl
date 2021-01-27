@@ -1,0 +1,1 @@
+program JM3 : d1 : takes Q : integer returns integer R : integer array; when case not 1 : when case 5 : pop end end case - 849 - 437 : do zB(127) end case 9 : let cjlaa = 1 end case 0 : pop end end main : Z1 : integer array; chillax end

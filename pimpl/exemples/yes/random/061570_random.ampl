@@ -1,0 +1,1 @@
+program h34aa : d : takes mM : integer array returns nothing when case false and 9 + 16 : chillax end otherwise : let d9Faa = 2; do N(8) end end ka10a : takes H0z, MRW : boolean returns integer array chillax end t : takes f, xk, X : integer array; p2, hc, J : boolean array returns integer chillax end main : pop - false > - 20 and 7; while not true or false : chillax end end

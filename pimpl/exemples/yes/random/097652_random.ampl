@@ -1,0 +1,1 @@
+program Q4 : main : when case true and(11) * false - true rem 9 or true and 3 <= false rem fc - false : do dKM0(- 9); input rU end case - not k : chillax end otherwise : while 82 = 64100 : chillax end; when case 33000 : pop end otherwise : chillax end end; output - Z; let DU80[(51)] = array - true and 6 end

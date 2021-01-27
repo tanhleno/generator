@@ -1,0 +1,1 @@
+program t : main : A, JA : boolean; f9, fO60 : integer array; _, J : boolean; cc, L : boolean array; when case 4 / true rem 22 and 823 : chillax end case true > true : when case 294 : chillax end otherwise : pop end; when case 9970 : pop end end; when case - EC(1) / not 1900 and 7630 : chillax end case - 1 and 30 >= - 201 : chillax end otherwise : while 2 : chillax end end end

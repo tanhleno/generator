@@ -1,0 +1,1 @@
+program d : _ : takes I, Q, w : integer array; sg, J : integer array; J : integer; K74, t91 : integer returns integer array R : boolean array; R : integer array; _eyaa, Z : boolean array; chillax end Au9 : takes u, KN : integer array returns nothing k : boolean; chillax end main : k : integer; chillax end

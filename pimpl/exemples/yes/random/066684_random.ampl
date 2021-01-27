@@ -1,0 +1,1 @@
+program W16 : main : do K6p(- 28 < true - false or 720 - 53800); while true : pop 557; do e63a(14); when case 89 : chillax end end; input Ek; do VF(- 82 - 1 < 0, 863 = 5, 87, 05); when case 16 : while 9 : chillax end end end

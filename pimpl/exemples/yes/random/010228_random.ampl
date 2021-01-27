@@ -1,0 +1,1 @@
+program Wv : AP : takes Pi, AGna, kU3aa : boolean array; B : boolean returns nothing M7 : integer array; f, m, z, Cf : boolean; chillax end M6t : takes V : integer array; F : integer returns integer array m, a8v, f : boolean; Dc : integer array; zwD : boolean; H : boolean; J : boolean; while 11 - 91 : chillax end end main : chillax end

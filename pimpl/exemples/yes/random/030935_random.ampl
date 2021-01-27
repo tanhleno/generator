@@ -1,0 +1,1 @@
+program f : d : takes V0e0a, a7u0 : integer array returns nothing f : integer array; l : boolean array; x, U1, w : boolean array; b : boolean; YL : boolean; H0s0 : boolean; output 96 end main : chillax end

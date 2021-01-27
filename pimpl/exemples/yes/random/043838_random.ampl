@@ -1,0 +1,1 @@
+program i : D3 : takes Y : boolean array returns nothing do j(- (4) and 42); when case - 4 - 74 >= 296 : chillax end case 7 : chillax end case 90 : chillax end end main : hK, a, u : boolean; chillax end

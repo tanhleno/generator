@@ -1,0 +1,1 @@
+program ax : wL : takes ZU : integer array returns integer array output "\t0" end U : takes Tqg : integer array returns nothing XLr : integer array; C1, s, G : boolean array; input U8 end main : chillax end

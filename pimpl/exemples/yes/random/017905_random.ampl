@@ -1,0 +1,1 @@
+program u7 : U : takes y, ATF0 : boolean; h : boolean array returns integer G : boolean array; RB, F0 : integer array; chillax end f : takes E : boolean; wn8, g : integer array; d, Y : boolean array returns nothing B, H : integer; while - 8160 /= 825 : chillax end end main : chillax end

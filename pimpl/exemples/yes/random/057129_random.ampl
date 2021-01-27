@@ -1,0 +1,1 @@
+program d4G : k : takes r2 : integer array; Y : integer array returns boolean pop 89 >= 0 end qt : takes b, K6P, h17aa, AYm0, V7Aaa : boolean returns nothing R : boolean array; let i19[- 97] = 9420; do u(1 = 42) end main : v : boolean array; while false or 4 = - not(6) * true and 4 : chillax end; do p(- g2 >= - fPD and 1 - 9); let tU2 = array 1 and 73 or 2 - 7 end

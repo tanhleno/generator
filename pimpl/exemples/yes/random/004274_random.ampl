@@ -1,0 +1,1 @@
+program x : w : takes m, G, N60aa, f : boolean; y81, z0Paa, s4 : boolean returns nothing pop end main : R4Na : integer; do bJ0a(962 or true / (046) or false or 2 - 12, - 150 and(2), false and 630, 08 - 1 /= 9, 294 = 49) end

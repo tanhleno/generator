@@ -1,0 +1,1 @@
+program Q4 : R : takes f73 : boolean array; z : boolean; n, vU70a : integer; o, XL, P04a, cI60a, YL6 : boolean array; K, iJ : boolean array returns nothing input zI end main : I : integer array; chillax end

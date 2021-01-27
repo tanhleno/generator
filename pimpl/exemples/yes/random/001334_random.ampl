@@ -1,0 +1,1 @@
+program O : WH : takes o, S, pQ, TV0, Ir, O : boolean array; u : integer array returns integer array chillax end main : let e8[- Xr6a / true and(2) or true / (0) and 55 - not 07 and 053 or 1 - 1] = N / false - M1 + 38 end

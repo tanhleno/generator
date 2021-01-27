@@ -1,0 +1,1 @@
+program q : y4u : takes H, M5F : integer array returns nothing nX : integer; Xt : boolean array; v : boolean array; while - not 6 and 32 + 22 - 4 <= 365 : chillax end; while 412 : pop end; when case 3 : chillax end case 3500 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program u : M : takes h160, L, K26 : boolean returns nothing M, m5 : integer array; do To5(589 - 3 - 79, 7); output "" . 4780 . "" . "-?"; input Mo3 end main : P : boolean; q, bo : integer; Dq8 : boolean; Tv : boolean; jt4 : boolean array; k, t1 : boolean; L3 : boolean; L74 : boolean; do M(- (6 = 934) <= - 34, - false * false, - not 1 and 6150 + 7 - 32900) end

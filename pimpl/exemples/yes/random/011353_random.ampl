@@ -1,0 +1,1 @@
+program xQzaa : QP1 : takes L0l0a, p, V : boolean array returns nothing w : boolean array; input HT; let H[2 - 6] = 8 = 5; when case 917 : do tR(199) end end main : DFF0a : integer; Of, q, j1eaa, jF, F3 : integer; od, aYI, u7, E : boolean; chillax end

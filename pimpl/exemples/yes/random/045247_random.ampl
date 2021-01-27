@@ -1,0 +1,1 @@
+program I2 : p : takes lV : boolean array returns nothing when case - true and 6 : chillax end case 516 : chillax end case 58 : when case 6 : chillax end end end main : ms5, g : integer array; output - i[38200] - false and 542 or 6 - 9 > - (9370) . - false and 02 + 32 - 080 <= 7; let Z[- not(408) or false + 4 - 997] = l0 and 72700 or 62 - 372 = 5 - 8 end

@@ -1,0 +1,1 @@
+program K : u : takes IJ : integer array returns nothing t : integer array; yc8, T : integer array; U, i : integer array; chillax end y : takes L : integer returns nothing do z(1 - 44 <= 88, 0 = 0); when case 8 : chillax end case 8 : pop end case 28 : chillax end otherwise : pop end; while 21 : pop end; input T; input ws end main : chillax end

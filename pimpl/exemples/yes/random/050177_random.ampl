@@ -1,0 +1,1 @@
+program f : A : takes Za : integer; R, H, i5 : integer array returns nothing chillax end main : tl, A23 : integer array; h, y : boolean; do N(- 8 - not false and _2Gaa and 815); do E(- not not 1 * 3 + ZI70a and 7 <= - false and 0930 - 967 - 5, false - 95700 /= - 766); when case - 2 + 7 - 33 < - 3 : chillax end case - 56 : chillax end; do C(8 >= 283, 13, 34200, 9) end

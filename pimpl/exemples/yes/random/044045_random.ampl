@@ -1,0 +1,1 @@
+program Y9c : F : takes oQy0 : boolean array returns nothing u7, Vl50a, M : boolean; PiK, Ct : boolean array; C, h, f210a : integer; output "ZNaa" . "" . "" . 5; pop end main : pop - nMqaa[42] - 4 and 18 + 9; do q0(- not(6) and 38500 - false and 46 - 8 <= U and 79 or 45 - 74); while - (7740) < 4540 : input j6R end; input H end

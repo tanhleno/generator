@@ -1,0 +1,1 @@
+program a : G : takes u : integer; XD5, No : boolean returns integer r : integer array; u6, Kr : boolean array; B, Sa1aa, l7 : boolean array; _3 : boolean; let I[- false + 15700] = 60 = 26; input Z7; input wRK; while 6 : chillax end end main : pop true /= (16500) and 14 end

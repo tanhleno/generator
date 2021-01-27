@@ -1,0 +1,1 @@
+program U6 : main : do lL(false - (90) + true or 96, false * 257 and 5 or false); when case - y[83] < 01 : chillax end case(23) and 7220 : chillax end case - 38200 <= 8 : output ""; input M; pop end case 9 = 187 : output "F\"" end end

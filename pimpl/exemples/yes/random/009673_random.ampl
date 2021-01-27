@@ -1,0 +1,1 @@
+program qkk0 : jn : takes u, Y, L : boolean array; Y, I, q5 : integer; w, R : integer returns boolean array R : boolean array; output "" end main : Dp30a : integer array; Z3g : integer; t72a : boolean; do Pu(- not 8 * y[93] * (4) - false / (5) and 318 + 06 and 6070 /= - true - l9 and 05700, - not not 97 * true, not 7 <= 10, 14200 - 357) end

@@ -1,0 +1,1 @@
+program w : v : takes m, qE : boolean returns boolean c : boolean array; when case - true and 6 <= - 0 - 16100 : chillax end otherwise : chillax end end A : takes M4, E, jE : integer array returns integer chillax end main : chillax end

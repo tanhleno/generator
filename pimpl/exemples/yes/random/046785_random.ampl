@@ -1,0 +1,1 @@
+program r : J6 : takes N100 : boolean returns integer array input I[true and 786]; when case 46 : chillax end case 64200 : output ""; pop end case 4 : pop end otherwise : while 095 : chillax end; pop end end main : c, B, R7R : integer; E, l, kV90a : boolean; X : boolean array; chillax end

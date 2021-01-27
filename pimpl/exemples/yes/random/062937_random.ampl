@@ -1,0 +1,1 @@
+program D9 : g1 : takes z : integer returns integer array Z, cN90a : integer array; t0 : integer array; pop end main : u, D4v0, q, f, N7 : boolean; f6 : boolean; input A; while - not true + 5 - 8180 - 5 : chillax end; pop end

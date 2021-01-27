@@ -1,0 +1,1 @@
+program d5 : main : Ms, p, a1, L, M7, K : integer; when case - not 8 and 54 or false : when case - 2 > 8 : chillax end case 68 = 95100 : chillax end otherwise : chillax end; output 4; input V5 end case(7) < - false or 8 : when case 223 = 38 : chillax end; pop; output ""; output "S"; pop end otherwise : pop 88; output 81 . "" end end

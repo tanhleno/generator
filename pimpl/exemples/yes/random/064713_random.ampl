@@ -1,0 +1,1 @@
+program o3 : P : takes z5 : integer returns nothing ug : boolean; W : integer; P : integer; chillax end main : output - false . - 2 and 9540 + 511 - 2 = - 5 - 8; let mD = - (27) > - 35500 - 1; output "8" . "9C" . ""; let A[1 - 67] = array - 9 - 1; input o; output 65 end

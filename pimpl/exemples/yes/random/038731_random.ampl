@@ -1,0 +1,1 @@
+program E : J : takes F2_ : boolean array; X, T : boolean array returns boolean chillax end main : s : boolean; k, v : integer; let b[- d3m + 8 + true and 9 or 6 - 98] = - not not 0 and false and 3 + 59 and 4 - 212 - 8 < uG2 and 579; input F7; do FfQ(false and 0 < - 212) end

@@ -1,0 +1,1 @@
+program av50a : u7 : takes Ox, D2 : integer; b380, v, uQb0a, E, K, Q : integer array returns nothing pop; while - 0 : while 9 : chillax end end; input cA40a[4]; when case 4 : chillax end; do W_(3); let eb = 3 end main : chillax end

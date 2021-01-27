@@ -1,0 +1,1 @@
+program mpQ : WLD : takes b, T, z2U0, C : boolean returns nothing tF0aa, HUDaa : integer; do m(true and 39 - 77 - 0 > 91); pop end g4M0 : takes p3 : integer returns integer array lf00a : integer array; do o(183 - 3810 > 0); output 3660; output "\"g0a" . "" end main : chillax end

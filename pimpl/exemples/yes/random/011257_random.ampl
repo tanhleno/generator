@@ -1,0 +1,1 @@
+program e : N : takes Ue0, Y, w : boolean array returns nothing S0, B8o : integer; L4 : integer; do o(- 25 and 0 - 71 - 57700); while - 0 - 5 /= 70000 : while 4 : chillax end; do A(79700) end end main : W : boolean; chillax end

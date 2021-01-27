@@ -1,0 +1,1 @@
+program W : h : takes nUN0, qt7 : boolean array returns nothing chillax end main : d, BX3 : boolean; when case - 7 and(55900) / not 62 + M(772) * not 85400 and 78 : output "" . "" . "" . "E" end case - 0 rem not 4 + (5) and 8 = (20300) or 1 : chillax end; input AR end

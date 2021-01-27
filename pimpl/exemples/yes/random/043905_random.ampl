@@ -1,0 +1,1 @@
+program u : I : takes l3 : boolean array returns nothing do L(true /= 597, - 8 - 62, 41 = 1); do A2(5530 - 80 >= 5); pop 2110 end _ : takes U3 : boolean returns boolean input KY8[16 - 9]; pop 4; input u[3]; let c = 8; let _ = 6; pop end T : takes uy3aa, p : integer array returns integer pop; pop 2 end main : chillax end

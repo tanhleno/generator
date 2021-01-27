@@ -1,0 +1,1 @@
+program p : main : when case(9 = 944) - true : when case - 29 - 7 : chillax end otherwise : when case 822 : chillax end; pop end; input r[59] end case - 6 / h4 + true and 16 : while 958 = 4 : let o1 = 20; pop end end end

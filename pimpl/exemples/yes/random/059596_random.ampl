@@ -1,0 +1,1 @@
+program D82 : Loi : takes Q74 : integer array returns integer when case not 123 : chillax end case - 5 : while 8 : chillax end; when case 8 : chillax end; pop end case 763 : pop end; input df0; output 7 . 799 . "" end main : Bs : boolean array; j : integer array; o5, J : boolean array; _, _, gc0aa, z : boolean; ik3 : integer; input t01aa end

@@ -1,0 +1,1 @@
+program g0 : m1 : takes J, hB, Q, f : boolean; W3 : integer array; Z80, XN, lq3 : boolean returns nothing do n(D - 2) end main : when case true = (1) + false - 179 : chillax end otherwise : chillax end end

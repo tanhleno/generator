@@ -1,0 +1,1 @@
+program x6 : g : takes Y : integer; W, Nfc, c : boolean; N : integer array returns boolean array k : integer array; pop end main : Y, M : boolean; Y : boolean array; p02, Fsc0 : integer array; input q[I * true or not false or true or 98] end

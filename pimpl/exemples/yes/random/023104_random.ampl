@@ -1,0 +1,1 @@
+program w19 : an : takes jt, pMpa : boolean returns boolean chillax end z5 : takes p, T, A, v94 : boolean returns nothing chillax end Q3 : takes N : integer; tG4aa, be, Z, B36a, w1 : boolean array returns integer array while 0 = 5 : chillax end end dW : takes iP, t74, Ie : boolean returns nothing while 10 : pop end; output "\\" end main : ua, r : boolean array; chillax end

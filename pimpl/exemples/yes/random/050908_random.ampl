@@ -1,0 +1,1 @@
+program Z : x4 : takes t84 : integer; Y, s3_ : integer; u : integer array; Y : boolean array; U : integer; Gp : integer array; U1, t4q0a : boolean; z : boolean returns boolean array G3W : boolean array; chillax end main : C : boolean array; when case 15 : chillax end otherwise : input K[1]; while 80 : chillax end end end

@@ -1,0 +1,1 @@
+program D94 : h07a : takes u, u : boolean returns nothing r : boolean; chillax end main : when case(58900 = 4) or not true < 74 rem(66200) and 0 : input p3Ya[827]; do an(43 = 439, 8); output 2 end case 6 and false and 1 : chillax end; do xe(false * true and 83 - false and 1530, true and 0 + 15) end

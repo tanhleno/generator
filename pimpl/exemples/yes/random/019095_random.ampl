@@ -1,0 +1,1 @@
+program qI : z80aa : takes YY, x : boolean array; u, i, A5 : integer returns boolean chillax end D : takes Ig, L, e, h6Z0a : boolean array returns boolean array chillax end hYO : takes u6 : boolean; _u, WQE : boolean returns integer when case 46 = 252 : let K = 3 end otherwise : pop end; when case 037 : chillax end end main : m : integer array; chillax end

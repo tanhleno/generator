@@ -1,0 +1,1 @@
+program m : X1 : takes M4U : integer returns nothing chillax end o86 : takes Jk6 : integer array; E2I : boolean array; BL10 : boolean array returns integer array pop; while 8 : chillax end end f : takes Y, h, bZz : boolean array; tO0aa : boolean returns integer t, t, r : integer array; d2 : boolean; pop 6750 end main : u, H2, z4Pa, x : boolean; chillax end

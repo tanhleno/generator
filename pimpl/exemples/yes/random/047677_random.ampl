@@ -1,0 +1,1 @@
+program S : hv : takes VT : boolean returns nothing chillax end main : Z, o4 : integer array; c, bL, JN : integer; t, v8 : integer; let h0W0 = - L * false or(5); while - not M : when case 9 = 0 : chillax end case 81 : pop end case 76 : chillax end end; do Wt6aa(- true - 42 - 6 = - 8 - 9, - 9 - 560 < 06500); while - 589 - 6 <= 4 : do e7(01) end; while 4 : chillax end end

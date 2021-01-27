@@ -1,0 +1,1 @@
+program PN6 : i : takes _6 : integer array returns nothing w : integer; output - 375 - 9 . 3060 = 46700; let f[2 - 57] = 4 end main : p1P : boolean; while - w1e(9850, 23400) / false or not R65 : chillax end end

@@ -1,0 +1,1 @@
+program J : T09 : takes s21 : boolean array returns nothing E : boolean; T, f, O, D : boolean array; chillax end C : takes _ : integer array; r : integer; V, T : integer array returns nothing do Q03a(3 - 6 /= 98, 33500) end main : B, y7c, W4, rn0, q : integer; g : boolean array; chillax end

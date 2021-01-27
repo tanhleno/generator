@@ -1,0 +1,1 @@
+program R : l : takes _X : integer array; b0 : boolean array; U, Y, i : boolean array; a8 : boolean array; y5 : integer array; f, gjq : integer returns boolean array pop - 2 - 5 end main : Q3P : integer array; input S end

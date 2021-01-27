@@ -1,0 +1,1 @@
+program Y6C : main : when case 5 or not r + a6Y0 and 5 > not not 4 + false : let y = 0; input Mi[42]; do z(9, 5); output "c"; input L; pop end case true / (1) or not 18000 and 41400 : let b = 8730; while 5 : pop end end case false : chillax end otherwise : when case 7 : chillax end case 4 : pop end case 0 : chillax end otherwise : pop end; pop end; output 8 and 8460 end

@@ -1,0 +1,1 @@
+program z : main : k : boolean; H : boolean; U8, f : integer array; x, J : integer array; aJ, hL : boolean array; k, YkC0 : boolean; do yy5aa(A(7) rem true - false * true and 27800, N[3530] or 334 and 5 <= - qv7 or 5); do gH(not 9) end

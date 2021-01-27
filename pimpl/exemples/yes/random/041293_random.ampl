@@ -1,0 +1,1 @@
+program C : Z : takes Z2 : boolean array; qT : integer returns integer gD, AIHa : integer; do k940(- not 4 and 44 + 760 - 27) end a : takes Q, B : integer; r, z : integer array; F : integer returns integer output "\\E" . "" . "1\\!" . "" end main : uc, U, X_7aa : boolean; chillax end

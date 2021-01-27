@@ -1,0 +1,1 @@
+program KC : ra5 : takes sM7 : integer returns boolean ok1, o4 : boolean; chillax end t : takes J : integer; mr, BN, T : boolean array returns boolean Ug2, n, P16aa, w4 : boolean array; C, N, _ : integer; a : boolean; t6 : boolean; p : boolean; chillax end main : u, Ko3 : boolean; let M[J5m(2) + true or true] = - 91 / false and 827 + false and 1 = not 31 end

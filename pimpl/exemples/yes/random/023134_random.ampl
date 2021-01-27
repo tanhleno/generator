@@ -1,0 +1,1 @@
+program U : G : takes wVa0a, s : boolean returns boolean chillax end LLO : takes Hz1 : integer array returns nothing when case - 69900 /= 10 : when case 7400 : chillax end; let E = 7080; pop end end main : let S = - true rem false and 91 end

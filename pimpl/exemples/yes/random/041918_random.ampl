@@ -1,0 +1,1 @@
+program oa1 : X5 : takes T : boolean array returns boolean chillax end ue0 : takes G, D, N, o8Aa : boolean; g : boolean returns boolean A3b, e070a : boolean array; chillax end main : pop true / false and 7770 end

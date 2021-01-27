@@ -1,0 +1,1 @@
+program X : E40a : takes c4, R, O0 : integer array returns integer array C : integer array; qx : boolean; input A8[- (1) and 6]; let s[1 - 79] = array - 21 end main : g7W : integer array; chillax end

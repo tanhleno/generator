@@ -1,0 +1,1 @@
+program C6Ta : F : takes v : boolean returns boolean when case true + 4 : chillax end case 049 > 86 : chillax end otherwise : when case 49 : chillax end; when case 60 : chillax end; pop end end main : B, H, u, sM30a : boolean array; chillax end

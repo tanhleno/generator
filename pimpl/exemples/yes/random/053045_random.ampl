@@ -1,0 +1,1 @@
+program H : e : takes W1 : integer; m : integer array returns nothing F : boolean array; chillax end j : takes Ig : boolean returns boolean array s, t : integer array; output 06800 = 0040 . 6 end L : takes t : boolean; X, edi : integer array; k : boolean array returns boolean chillax end Q : takes K, S : boolean array returns integer array chillax end main : chillax end

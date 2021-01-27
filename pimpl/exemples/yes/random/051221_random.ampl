@@ -1,0 +1,1 @@
+program u : J4 : takes r : integer; a, G : integer returns integer JU, dA3 : integer; when case true /= - 3 : chillax end case - 9 > 2 : chillax end otherwise : output "" end end main : a, q03aa, w : integer; while H and false : while 6 - 5780 : chillax end end; let Vv[- y[2] - false] = array(39) end

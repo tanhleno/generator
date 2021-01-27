@@ -1,0 +1,1 @@
+program S : bc80a : takes Z, l16 : boolean array; q, Npn : boolean; ND, l8, L, S : integer returns integer do i(- not 08) end E8 : takes i1v : integer returns boolean RN3a : boolean; input J[14 - 9]; input uUS end main : RJ, L5 : integer array; chillax end

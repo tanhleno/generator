@@ -1,0 +1,1 @@
+program m : Z : takes N : integer returns integer array chillax end main : fR, iV, HI : boolean array; output(412) and false and 3040 < - Gg - 757 - 39 . - (145) >= 09 - 8 . "\"3" . "" . 2 . 0 . "?"; pop - true + 78 /= 20 - 2 end

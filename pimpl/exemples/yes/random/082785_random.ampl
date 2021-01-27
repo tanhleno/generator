@@ -1,0 +1,1 @@
+program mK2a : main : C : boolean array; when case true and 9 : let m9 = 52 end case h(8) or W > - M6 and 3 or 728 : pop 604; while 4 : chillax end end case - not 0 and 09 < - 9 - 28600 : chillax end case - 3 <= 2 : when case 9 : chillax end; when case 60700 : chillax end; pop end case 495 : chillax end otherwise : when case 7 : let u23aa = 191 end otherwise : pop end end end

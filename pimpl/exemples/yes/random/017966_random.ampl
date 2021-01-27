@@ -1,0 +1,1 @@
+program oDp0 : Jv : takes Q58a, m : boolean; SB5 : boolean array returns nothing while not 90 : chillax end; output "S" . "6" . "@"; output 26 end main : DG, a : boolean array; d1Ka, I : boolean array; do v(- false rem false); input a[s[40] + true and 2] end

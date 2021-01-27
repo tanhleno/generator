@@ -1,0 +1,1 @@
+program T : qN6a : takes c : integer returns nothing chillax end cR : takes t : integer array returns integer u5 : boolean array; while - 3740 < 82900 : chillax end end main : while - true : let d36a[435 - 992] = 939 = 14 end; do u(Oo[2]) end

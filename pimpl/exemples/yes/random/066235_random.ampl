@@ -1,0 +1,1 @@
+program Y : main : do fL(- q(2, 708) * not not 07 and p and 43 < - 01 and _ or dZ and 8); output "" . "#"; let VQ[true and 0770] = array - not 5 or 8; do Y(2 - 3 <= 5); input a; while 8 : chillax end; when case 74 : chillax end end

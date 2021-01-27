@@ -1,0 +1,1 @@
+program f2 : q7 : takes j1, y, H : boolean returns nothing _W5, RP : boolean array; do k(Sr and 0 < 3); do i(2 - 0) end main : D : boolean array; W, Y, ft, a, F1 : boolean array; k, Q, kc3a : integer; chillax end

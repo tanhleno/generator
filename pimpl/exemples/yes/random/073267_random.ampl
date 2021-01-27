@@ -1,0 +1,1 @@
+program J : main : W9Oaa, H : boolean; do d(- not not not 9 * pk, - i8(57100) / D and 61500 - 78 and 277 < - 0 or 681, true and 6 > - 66, 37); input y; output ""; do MB(- 9 - 2); while 2 : while 8190 : chillax end; pop end end

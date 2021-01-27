@@ -1,0 +1,1 @@
+program U : main : e : boolean array; kj40a, GE6, fT1, p, Wx30a : integer array; input DMo[- b(7, 3750) * (9) or de40a(2)]; do Z87(- true + b0, - false and 4 or 9 - 7); when case 6 or 8 - 82100 < - 70 : chillax end case - 77200 = 1 : chillax end otherwise : when case 1360 : chillax end end; pop 548 = 4 end

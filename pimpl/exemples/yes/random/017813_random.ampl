@@ -1,0 +1,1 @@
+program GL : z7 : takes x4, rly : boolean; d : boolean array; DK3 : boolean returns nothing m9 : integer array; m : integer; A, Oyq : integer array; xh : boolean; input u; while - 9 - 4 : chillax end end main : pop; pop - 4 or 9 = - 5 - 43; output 2; when case - 893 - 0 <= 20 : output "2" end case 9 : chillax end otherwise : pop end end

@@ -1,0 +1,1 @@
+program y : H : takes B7b : boolean array; o : boolean array returns nothing chillax end JiH0a : takes Y200a : boolean returns nothing chillax end main : output - 698 * true + 595 or 839 - 4130 = (91900) end

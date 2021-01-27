@@ -1,0 +1,1 @@
+program m18 : main : pop; when case - not true + (1) and 3370 - 621 - 145 : output "" . 88300 . "Q\taa"; let l = array 51; when case 8850 : chillax end; when case 563 : chillax end; pop end case - 8 >= - 9460 - 6370 : let o[22] = array 4 end otherwise : chillax end end

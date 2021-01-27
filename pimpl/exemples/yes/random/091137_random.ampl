@@ -1,0 +1,1 @@
+program g : main : let p[- 8410 and true] = array(46300 = 933) / true and not 63400 and 0 or 1 and T5 - true - 81; do mE(- true * A and 149, (8) - 25 - 9); while false and 99 or 0 : pop 8; output "\n"; let V = 909 end; let P = 0 end

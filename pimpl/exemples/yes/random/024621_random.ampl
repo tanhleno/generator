@@ -1,0 +1,1 @@
+program u : B1 : takes h, I : boolean returns nothing O36 : integer array; p, o, s0 : integer; input e5N0a[- (63) and 79] end main : z : integer; S25, q, A0f0a : integer; m, htS, k8 : integer array; chillax end

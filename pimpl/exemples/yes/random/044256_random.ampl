@@ -1,0 +1,1 @@
+program U : n : takes z : boolean array returns nothing Z, J8 : boolean array; ld, G : integer; Q : boolean array; X, r : boolean; output 698 - 41700 > 10 . "" . "" end main : k, W1, h2, Q : boolean; pop 6 * 0 and 46; input m end

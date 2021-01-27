@@ -1,0 +1,1 @@
+program _z : B : takes K, H9, Jxca : integer; Lo : integer returns nothing D9, C : integer array; A, F, bH7, Nj : integer; chillax end Pqy0 : takes p, W4, Ym, yq8aa, M : boolean array returns boolean array output 81 = 45 . "" end main : I7 : boolean array; do e(- (377) / not 131 * true or(8)) end

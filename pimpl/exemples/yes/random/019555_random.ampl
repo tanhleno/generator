@@ -1,0 +1,1 @@
+program E1 : jmR0a : takes M_f0a, _ : boolean array; l8, q : integer array returns nothing chillax end main : _, s : integer array; u : boolean; M, LTf0a, h : boolean; l, V4, Y : integer array; pop - true / false end

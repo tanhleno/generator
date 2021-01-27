@@ -1,0 +1,1 @@
+program s : main : when case F2 / 2 - false rem false and 1 or 2 : while - 7 : input y end end case false / true > IZ10 and 6 : input H end case - Dx and 2 or 6 : chillax end; do v((5) * V and 09100 - (731) + 902 - 5870 /= - true or 82 - 7) end

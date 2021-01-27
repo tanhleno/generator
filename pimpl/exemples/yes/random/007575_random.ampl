@@ -1,0 +1,1 @@
+program V2 : NGua : takes O0a0a, G, Rx, p : integer array returns integer array while - true - 0 - 5 : chillax end end L : takes F : boolean array returns nothing chillax end e : takes i8 : boolean returns nothing c9, mQwaa, bJ7 : integer; chillax end main : y, c030a, V, Gtr : boolean; E, DsG : boolean; u1 : integer array; do h(11 / false > 6 / not 060 and 9) end

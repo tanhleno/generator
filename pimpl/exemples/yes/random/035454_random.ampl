@@ -1,0 +1,1 @@
+program p : hm3 : takes IG : boolean; o : boolean; E : boolean; Ck30 : boolean; Ts, y, U, c : boolean array returns boolean array chillax end HN : takes L, N, W : integer array; Oa : boolean; uM8, p : boolean array returns nothing UG : boolean; b : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program p3 : lWa : takes JQD, Q, t : integer array returns integer array do C(not 02, 940 - 5, 48); pop end n : takes Fo, P8q, j : boolean returns nothing I0uaa : boolean; chillax end main : let C = array - not 82 rem true + 1700; input YK7[false]; output "" . 586 . "" . "" end

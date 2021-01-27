@@ -1,0 +1,1 @@
+program j : c6Va : takes f7, zB8 : integer returns boolean array chillax end x : takes D : boolean array returns integer K6 : boolean array; C36, u2 : integer; chillax end main : H, Wd : boolean array; SF4a : integer; V860 : boolean array; n : integer; z, C, DZ6 : integer array; b9 : boolean; L4 : boolean; chillax end

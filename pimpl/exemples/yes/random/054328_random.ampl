@@ -1,0 +1,1 @@
+program U : b : takes v : integer array; L, o, Zw20a : integer returns integer array ue30, W : boolean; output "\"" . "" . "5" . 7 end s44aa : takes i : integer; a : integer; i, IRLaa : boolean array returns nothing chillax end main : output - true / not 75000 end

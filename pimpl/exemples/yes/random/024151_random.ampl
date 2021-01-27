@@ -1,0 +1,1 @@
+program v : Az : takes Zp20, S : boolean returns nothing n, W3, _, s, A : integer; chillax end main : do E7(D[4] and true + 21 rem g + false - 78900 = - not not 56 rem false and 80 or 78900 and 7 + 6, q * true >= - false); do y(- (1) rem true and 2 + _ and 0 - 6); pop end

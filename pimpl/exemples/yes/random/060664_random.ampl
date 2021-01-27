@@ -1,0 +1,1 @@
+program h : P : takes d : integer array returns nothing z, o : integer array; Af, q7H : integer array; output ""; while - 6 : do Kc(7); pop; pop end; when case 3 = 65 : chillax end case 5 : pop end case 1 : chillax end; let nA = array 651; output ""; when case 8 : chillax end; pop end main : F6 : boolean; mzN : boolean; let A4Baa = - (4) + 8 and 43 or 4 end

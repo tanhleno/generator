@@ -1,0 +1,1 @@
+program P2 : z : takes F : boolean array returns nothing chillax end a : takes p : boolean array returns boolean E, o : integer; C, OG : boolean array; chillax end X : takes X, U8 : integer; cpl : integer array returns nothing while 6 = 3 : chillax end end main : chillax end

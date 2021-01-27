@@ -1,0 +1,1 @@
+program c47 : vQ : takes mK, Ei, PW9aa : integer; A4, u7, C4W : integer array returns nothing g1 : integer array; v0 : boolean; chillax end t : takes DI : integer array returns nothing G, h85 : boolean; let O = 8; pop 3; pop 06; output "\t"; pop end main : I, w1, w, I, C06 : integer; l60aa : integer array; chillax end

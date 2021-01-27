@@ -1,0 +1,1 @@
+program H : Q : takes v4 : integer array; q, J, y, O, _72, m, q : integer; uy5 : boolean returns nothing let C290a = array - not 172 + 7 - 30500 end main : while p8u(58) / true : chillax end; let K[false] = - false - 5; output "\"" . "" . 5790; let L4g[- 04300 - 4] = 4; input g end

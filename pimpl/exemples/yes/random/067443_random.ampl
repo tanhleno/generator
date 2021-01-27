@@ -1,0 +1,1 @@
+program O : main : do jT0aa(not not(2) rem not true or 41900, - true >= (45900) and 1, not 1 and 527); when case not false <= - true and 3 + 3 - 13200 : do VWq(60); when case 1 : pop end case 9 : chillax end; output "" end case false - 2 - 5 >= - 5640 - 469 : pop 09 end otherwise : chillax end end

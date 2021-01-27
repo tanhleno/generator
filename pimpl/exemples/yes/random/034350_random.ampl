@@ -1,0 +1,1 @@
+program gF : T : takes X : boolean; u, e : boolean array; CmFa, h, c, iX, hYW0, n : boolean array; f : boolean array returns nothing chillax end Wg0a : takes l5J0a : boolean array returns nothing w, W, Z, kE : boolean; chillax end B : takes YO, G, F : integer array returns nothing n, yhI : integer; input x3f[34] end main : Fi, kp : boolean array; chillax end

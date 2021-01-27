@@ -1,0 +1,1 @@
+program t : zGa : takes f : integer array; y, TK : boolean array; g80 : integer array; o, g, c, H8 : integer returns nothing S : integer; t2, l41, k, G43 : integer; X0, Jo, l : boolean; z : boolean; chillax end p : takes f8 : boolean; ZT : boolean; eW : boolean; rB : integer array; U, iqz0a : integer array returns boolean let f[7 - 6] = 3 end main : pop - not false or false end

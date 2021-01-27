@@ -1,0 +1,1 @@
+program T : d : takes m0 : integer array returns nothing pop 51800 - 013 < 9; while 7 > 8 : chillax end end main : P9, n, z : boolean; i, a, D, r8faa : integer array; let v[- 76] = array - false * G(86); output "" end

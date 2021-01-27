@@ -1,0 +1,1 @@
+program h : dUU : takes i, o17, G, v : integer returns nothing E : boolean array; chillax end E9 : takes J, c2, b : integer array; C7 : integer array; Y : integer; f : integer returns nothing output 47500 = 1; let _ = 4; output "u\\" . "$9a"; let d6v = 7; when case 0 : chillax end; pop end main : b5 : integer array; A : integer array; while - ny(43, 539) : chillax end end

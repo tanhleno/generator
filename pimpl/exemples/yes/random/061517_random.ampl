@@ -1,0 +1,1 @@
+program ZO0 : r1 : takes W : integer array returns nothing when case(32) or 55 : let u2 = 1 end; when case - 538 - 5330 = 60 : pop; pop end case 0 = 77 : do j2(63) end case 5 : pop end case 8 : chillax end otherwise : output "#["; pop end end main : input dYEa; output "?"; while true and 7 : pop; when case 0990 : chillax end; while 5 : chillax end; pop end; pop; input i end

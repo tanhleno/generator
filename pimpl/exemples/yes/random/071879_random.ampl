@@ -1,0 +1,1 @@
+program EF : main : o7, d, Z : boolean array; when case - not false rem true or true * 75600 and 5 + 3 and 77 : pop 1 end case - 4 and true and 8 + true and 05 : chillax end otherwise : chillax end; input V8h[- 20 - false and 67800 - 8 - 44]; input K[KNZ and 7]; output "" . "" end

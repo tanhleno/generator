@@ -1,0 +1,1 @@
+program p : main : a8ra : integer array; let yE[- not true or 39 or u or 80] = array(9700 = 9) rem n(4) - v(9) / 23900 and 2; while false rem true + not 79 and 9 /= - u or 39100 : chillax end; input Q[true and 8 or 58] end

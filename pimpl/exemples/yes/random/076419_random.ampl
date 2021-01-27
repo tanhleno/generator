@@ -1,0 +1,1 @@
+program q : main : s_, Hg : integer; B3Ia : integer; Qbsa, G, zV, Z : integer array; when case true /= - (23600) * GX or not 8 or 0 - 4 : chillax end; while 99 and c - true or 44 - 0440 : output 00 . "\nj" . ""; input cv2aa; output "$+"; input TX end; pop - 3 - 0 = 50; while 92 <= 74 : let URD = 2 end end

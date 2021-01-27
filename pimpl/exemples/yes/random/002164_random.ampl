@@ -1,0 +1,1 @@
+program F2 : H : takes iCY, D7D0a, i110a, s, Z : boolean; v66, J : boolean; B, A8, FcG0, e1Oa, u63, a : boolean array returns integer array n4 : integer; chillax end main : g, CZw, sVxaa, a, AS : boolean array; do y(- false - true and true < true, - true rem(3) > - 8 and 50 or 7, false) end

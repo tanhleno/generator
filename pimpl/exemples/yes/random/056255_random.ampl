@@ -1,0 +1,1 @@
+program v : J5 : takes UtE : integer array; w : boolean returns boolean array P : integer array; chillax end g : takes C : integer; I : integer array returns nothing while - 498 : do pG9(2); input hc; pop end end main : chillax end

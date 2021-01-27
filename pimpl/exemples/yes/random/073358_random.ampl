@@ -1,0 +1,1 @@
+program Kd : main : MP, i16a : boolean; n3, t0, R9m, Y66, t : integer array; D8 : integer array; q : boolean; when case not 2 * not J9 and(2900) and 747 : let Id = array - 696; when case 8 : chillax end end; input hM[6 - 25400 - 7 - 1]; pop 98; when case 77700 : pop end end

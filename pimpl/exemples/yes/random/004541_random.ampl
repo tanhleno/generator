@@ -1,0 +1,1 @@
+program Mr : PqI : takes ag, i5, ng, p0 : boolean; d5Maa : boolean array returns nothing chillax end V2 : takes S8Eaa, L : integer; p, tN, e : boolean array; N : boolean; IX : integer array; u5 : boolean array returns nothing Mg, K : integer array; chillax end main : ui2, t4, M : integer array; chillax end

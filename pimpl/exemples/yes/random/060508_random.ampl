@@ -1,0 +1,1 @@
+program X : P : takes S : integer array returns nothing s15, k : boolean; when case - true and 59 - 303 : chillax end otherwise : let e = 4; output "" end; let m8 = array - 3 - 2; while 11 : chillax end end K : takes Lx, oyH0a, m : boolean returns nothing chillax end main : output "5"; input V; while x3m0 - 9 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program Dbf : D : takes u : boolean; m : integer returns nothing do Byy(87 - 1 > - 55 - 9, 312 > 4) end R460 : takes g, l, M, d : integer array; s : integer returns nothing S : boolean; u, lQ : integer; V, D : boolean; do e(- 9, 0 = 39); do lX(3); input J end main : chillax end

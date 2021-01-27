@@ -1,0 +1,1 @@
+program OYs : x2 : takes P9, c, j, X : boolean array returns nothing U : boolean array; while not 33 and 78500 : chillax end end k9 : takes A09a, r8C : integer; q8, z0, x9, OL, n : integer array returns integer L : boolean; chillax end main : let zXp = gm(66); output "" . - 88 - 9 >= 42800 end

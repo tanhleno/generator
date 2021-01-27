@@ -1,0 +1,1 @@
+program PD : l8U : takes C53, b : integer array; e, Qg, u, o5P0, C : boolean; gP, ue, r, L : integer array; P, n, AXPaa, J, l : boolean; O : integer; c50a : integer array returns nothing chillax end main : p7 : boolean; do x4_0a(false + Jt < not false and false and 37 + 06 and 07 + 4) end

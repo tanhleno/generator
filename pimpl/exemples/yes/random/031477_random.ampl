@@ -1,0 +1,1 @@
+program C : LGPa : takes ZL, Vk : integer returns boolean chillax end main : Mb90 : boolean; when case true <= - not 00 and not 40 + (7) : chillax end case - (8660) / 8 : chillax end; let A[- (7) and T and 34] = array - (35) / false and 94 or 2 and 439 end

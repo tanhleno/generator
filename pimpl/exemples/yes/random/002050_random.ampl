@@ -1,0 +1,1 @@
+program J : Y : takes L8m, Tlp0a, _7, Y, n, U : integer returns nothing chillax end main : output "Z60"; when case not 624 * false and 6 or(3250) and 68000 : pop 0; do Y(2, 32); input D3 end case false and 5 - 15 - 63 : chillax end case 2 : chillax end otherwise : chillax end; output "<" . 9 = 5140; let y = 478 = 5 end

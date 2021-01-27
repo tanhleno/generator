@@ -1,0 +1,1 @@
+program Q73 : B : takes rQX0a : integer; V : integer array returns nothing jOh : boolean; output 0 - 2 < 96 . 9 . 145; do M(- 7 - 3); do r0r(598, 8, 6) end EpFaa : takes Lo, B : boolean; T, zma, y3t, T9 : boolean array; B, F, b1pa : boolean; h, N, r4F, ew : boolean returns nothing chillax end main : J : integer; u : boolean array; chillax end

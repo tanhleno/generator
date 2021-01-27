@@ -1,0 +1,1 @@
+program GZF0 : main : _ : integer array; let Z7M[- true / (5) * true and 62 - (0)] = array(9800) and 1 or false - W or 2; input S[- 354 + not 7690]; while - false - 7 - 1 /= 9 - 5750 : output 7; when case 9670 : chillax end; input j end end

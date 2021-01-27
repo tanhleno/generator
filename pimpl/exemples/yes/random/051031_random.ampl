@@ -1,0 +1,1 @@
+program i : a24 : takes F5 : integer; Q2, E : integer array; L : boolean returns nothing M0, h : integer; v1Saa : boolean; when case - true : chillax end otherwise : when case 2420 : chillax end; while 7 : chillax end; pop end end main : chillax end

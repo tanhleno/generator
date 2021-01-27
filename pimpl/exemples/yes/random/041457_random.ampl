@@ -1,0 +1,1 @@
+program h7w : R : takes Zv : boolean array returns boolean array chillax end ZTL : takes p, d : boolean array returns nothing n45, sxm, f, l0 : integer; pop 6 = 20 end N : takes t : boolean returns nothing chillax end main : P6 : integer; while y(3, 15) / true /= - r7(0) or not 731 - 98500 : chillax end end

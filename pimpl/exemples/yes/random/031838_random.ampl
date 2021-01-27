@@ -1,0 +1,1 @@
+program I : s : takes Q7y0, o : integer returns integer array OH6 : boolean array; output "" . "\\\t\"a"; pop; input J95 end PGm : takes Z : boolean array returns integer B7za, E0 : integer array; a, y580 : boolean; chillax end main : EEf : boolean; while L : chillax end end

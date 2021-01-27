@@ -1,0 +1,1 @@
+program C : vI : takes G9 : integer returns boolean array y, Q : integer array; BOIa : boolean; b, T : integer; R7 : boolean; u : boolean; do q3(- not 4 > 9 - 2, - 3 - 391 /= 69, 1 = 0, 146) end main : while - true or 02200 - D and 7 : when case 9 - 6 : chillax end case 4 = 78 : while 5 : chillax end; pop end; output "3\\a"; pop; input j; while 5 : chillax end end end

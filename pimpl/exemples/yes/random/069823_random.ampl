@@ -1,0 +1,1 @@
+program I : main : G, m, S, MC9 : boolean array; Y, Qpz : integer; t17, IW : integer array; z250 : boolean; when case - false : chillax end; input is60; let W2Q = 1 - 19 > 2; input E[15200 - 7]; input q[00] end

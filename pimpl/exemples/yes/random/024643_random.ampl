@@ -1,0 +1,1 @@
+program WK : G : takes e, d0 : boolean returns nothing t : integer array; c5ya : integer array; chillax end P : takes K1 : boolean array; b : integer returns integer let K = 77; while 79 = 025 : input _3 end end main : chillax end

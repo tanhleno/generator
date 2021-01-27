@@ -1,0 +1,1 @@
+program P : M : takes V : integer array; G, vAZa, r, T, y : integer returns integer array let rr4aa[- 1 and 8 or 018] = - 640 >= 8140; let a3[- 7] = array 810 - 27 end t : takes Q : integer; HZF, d, Pz0 : integer array returns boolean array while - 251 - 1 : chillax end; do dF(9, 6, 97) end main : chillax end

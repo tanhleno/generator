@@ -1,0 +1,1 @@
+program U7A : BI : takes v : integer array returns boolean output - 8 - 4 <= 1; pop end eb : takes u : boolean array; R61aa : integer array returns nothing buaa, e : boolean array; chillax end main : Q8 : integer array; input F end

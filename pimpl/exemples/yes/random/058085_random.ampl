@@ -1,0 +1,1 @@
+program fc : Z : takes o6u : integer array returns boolean chillax end X : takes u : integer array returns nothing g31a : boolean array; input S; let V[8] = array 54; when case 056 : chillax end case 6 : chillax end otherwise : chillax end end main : v : integer array; chillax end

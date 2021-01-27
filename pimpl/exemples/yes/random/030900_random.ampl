@@ -1,0 +1,1 @@
+program q5 : r : takes K, D86a : integer array returns nothing w : integer array; chillax end L : takes U, TK4, T1W0 : integer; R : integer array; X, r : boolean array; f2, C2, T8, hE : boolean returns nothing do Lx(- 948, 27300 = 28, 4); let h[4] = array 06; when case 9 : chillax end case 80 : chillax end; let e4p0a = 047 end main : chillax end

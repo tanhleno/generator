@@ -1,0 +1,1 @@
+program Z : main : while wpnaa[29] : when case 4 - 6 /= 37 : let v7E = 0; do V(17) end case 70200 = 25100 : when case 5720 : chillax end end otherwise : pop; pop end; while 6450 : output ""; pop end end end

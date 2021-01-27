@@ -1,0 +1,1 @@
+program X : X : takes A3 : integer array returns boolean do a(- not 38 > 6); while 8 - 55 : chillax end end main : input l0Ra[- z8K * 2 or true and 646 and 10 + 39500 + 934]; when case(5) > true and 51000 or 7 - 123 : chillax end end

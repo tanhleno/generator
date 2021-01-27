@@ -1,0 +1,1 @@
+program P : C : takes XtAa : integer returns nothing pop; do _(2 >= 35) end w : takes P03aa, Q : boolean returns boolean Q : integer; w, tH : integer; M : boolean; Pd : boolean; chillax end main : A : integer array; a : integer array; h3 : boolean; q : boolean array; v : integer array; Y : boolean; m0 : boolean; C93 : boolean; pop end

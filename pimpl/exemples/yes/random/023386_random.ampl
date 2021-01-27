@@ -1,0 +1,1 @@
+program Y : J30aa : takes L, oS1aa : boolean returns integer array chillax end c1 : takes I9ra, w02aa : boolean returns boolean input D0[- 38]; pop 88; while 7150 : pop end; when case 0 : chillax end end o : takes Vyj0 : integer array returns nothing C : integer array; input uX8aa; input m83aa[11000] end main : output "\"" . "\n"; output - 10 + 35 /= - 4 - 9 . - 9 - 41 end

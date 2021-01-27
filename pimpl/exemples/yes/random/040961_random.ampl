@@ -1,0 +1,1 @@
+program e : cSd0 : takes Hy : boolean array; H : integer array; ya : integer returns nothing E : integer; X, TK20 : boolean; N : boolean array; do I2Z(not 283 - 4 - 309 <= 2, 760 = 0430) end main : Q0, _ : boolean; E : boolean; N : integer array; w, ISG : boolean; chillax end

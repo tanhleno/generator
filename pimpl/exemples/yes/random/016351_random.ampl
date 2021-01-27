@@ -1,0 +1,1 @@
+program sXo0 : c : takes b1, q, U : integer returns nothing JqK, r : boolean; W, D, X, H4 : boolean array; chillax end main : when case j(2) rem false - false and d - (71) + 46 >= - W5pa : chillax end case - V0 + (6) and 0 : chillax end otherwise : chillax end; input g[- false]; let E = 52400 - 2 end

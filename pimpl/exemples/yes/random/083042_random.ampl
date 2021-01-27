@@ -1,0 +1,1 @@
+program F6 : main : l00aa : integer; do g(C + H, - M[68400] and V74a and 0); when case - false - false and 6 : chillax end case false + 2 > 56 - 8 : chillax end otherwise : input kj7[945]; do Y(3); pop end end

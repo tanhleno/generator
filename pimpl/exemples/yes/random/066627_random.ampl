@@ -1,0 +1,1 @@
+program P : main : do Gr8(- 784 - (8) or true and 5850 or 4, - (12) - false or 9 - 17 < co and 9180, nGH and 2 - 194 - 6870 = - 3, 8 <= 816); while false rem true and 9640 : input R1; let F18a[6] = array 1 end end

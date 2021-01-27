@@ -1,0 +1,1 @@
+program h : r7 : takes kDC : boolean array returns boolean array v, j, Q7, g, Re : integer array; while false and 730 or 1 < 4 - 70 : chillax end end main : c, v, E : boolean; I7H : boolean; L1, F4, E, L, v : integer; c : boolean; A6t0 : integer; chillax end

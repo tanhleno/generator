@@ -1,0 +1,1 @@
+program n : S : takes EKa0a, P, m83, oE : integer; h, j : boolean array; j, R0qa, f : integer returns nothing sW8, M05, h : boolean; s1s0a, O, uF : integer; lk60a, E : boolean; chillax end main : output ""; output "\t\t0" . 21 . "j" . "\\\t0"; do pPua(- true and 6 > 925 - 3, 8 - 09 > 1) end

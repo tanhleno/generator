@@ -1,0 +1,1 @@
+program p10a : t890 : takes w : integer array returns boolean array output - 58 - 6 <= 24300; when case 6860 - 2 : when case 9 : chillax end end otherwise : input NI; pop end end t8 : takes c4 : integer array returns nothing chillax end main : y : boolean; chillax end

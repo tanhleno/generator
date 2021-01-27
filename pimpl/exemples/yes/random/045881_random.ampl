@@ -1,0 +1,1 @@
+program nj : O : takes mv : boolean returns boolean array while not 6540 or 6 - 5660 : when case 543 : pop end otherwise : chillax end end end main : while(0) : let Xs5a[- 5] = array 40700 - 7 end end

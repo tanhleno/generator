@@ -1,0 +1,1 @@
+program _S : Z : takes UNZaa, C : boolean returns boolean Tv_ : boolean; y, G1Fa, t : integer; let P2[- H4Naa and 66600] = 73; input M2; pop 89; let ix[463] = array 831; input Np end I60aa : takes J0 : boolean array returns integer V8 : integer array; input Ct[- 47]; input W end main : chillax end

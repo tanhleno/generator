@@ -1,0 +1,1 @@
+program kH : Pc : takes n : integer; y6 : boolean; Q, v, z : boolean array; f : boolean; jk5 : integer returns boolean array B, v, S, T2Qa : boolean array; do G(- true and 7 = - 8 - 2, - 3570, 19500 = 8, 3, 64) end main : c, O, Y, A8, F0, h, i : boolean array; let v[true rem p(89)] = array - (7); let Y = array false / not 54 and 286; output ""; do E(986 - 01 >= 5) end

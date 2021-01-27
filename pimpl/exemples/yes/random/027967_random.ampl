@@ -1,0 +1,1 @@
+program t : VTK : takes v, N : integer array; z, h0 : integer array; Z9 : integer array; Mo9, X : boolean; n0S : integer returns nothing when case - (3) : chillax end case 0 : chillax end; pop; pop 1 end a : takes VRoa : boolean array returns boolean array while 0 > 2 : pop; input x; pop end; while 8260 : chillax end end main : chillax end

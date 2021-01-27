@@ -1,0 +1,1 @@
+program I : f : takes C, r : integer; y1, l8A, qw, T1 : integer; Y3, h : integer returns nothing z, G1 : boolean; let vm[not 602] = - 089 - 53 >= 3 end zM : takes E : boolean returns nothing do V(380, 4 = 98) end main : g : integer array; chillax end

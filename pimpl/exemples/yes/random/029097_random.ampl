@@ -1,0 +1,1 @@
+program ARJa : qZ : takes S64, Ic3a : integer array; z : integer returns integer array Bz : boolean; M, L9 : integer; x660a : boolean array; let K[(48) and 48] = array 4 + 6 - 1; output 7 = 06800 . 9310 end I : takes T6 : boolean array returns nothing H, B8 : boolean; chillax end main : output - true end

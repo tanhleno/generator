@@ -1,0 +1,1 @@
+program U2g : l : takes m, cVW : integer array; vi : boolean array returns integer array s, Z, t79, fS : integer; output 5 - 038; let A3Gaa = array 5; when case 4060 = 9270 : chillax end end Fxg0a : takes fZ3, f : boolean array returns integer array H6 : boolean array; e, u6 : integer array; chillax end main : S9l : integer; chillax end

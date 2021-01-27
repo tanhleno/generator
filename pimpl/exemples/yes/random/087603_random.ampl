@@ -1,0 +1,1 @@
+program I : main : X : integer array; when case 4 / 78 rem true /= - (8) / V and 1 or q and 5 : pop 8120 = 4730; input XEV[85100]; input xv9; when case 5 : chillax end end otherwise : input z9; let H[79] = 4460 end end

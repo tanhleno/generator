@@ -1,0 +1,1 @@
+program R : A : takes Uj : integer returns boolean array chillax end main : YU, k, v : boolean; output "" . - 7 and 8 or 1380 < 1 . "+"; pop not 6 and 6 = 41300; pop; let q = array 3420 - 54; input g6[9]; when case 5 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program ya : q4 : takes UD, j6, u : boolean returns boolean array pij, Rl : boolean array; while 80 and 4180 or 23000 - 87 > - 2 - 60 : when case 6 : pop end; while 9 : chillax end end end main : Mp, N1, v : integer; O : boolean array; o : boolean array; pop end

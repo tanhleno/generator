@@ -1,0 +1,1 @@
+program B52a : s : takes xV, Q, t : integer array; vq2 : boolean; lm, s6 : integer; L9T : integer returns nothing F2naa, EiC, z, GzMaa : boolean; chillax end main : output false . "h"; pop - (787) and 84 /= - 3 - 6 end

@@ -1,0 +1,1 @@
+program B : N03 : takes se, w5, HO, C6Ja, W : boolean returns nothing u : integer; chillax end main : pop - not(09) rem not 5 and 457 < - not 729; let pD7a = array - true + not 5 and 69000; do Q20a(false and 729 or 2500); do X(95 <= 9) end

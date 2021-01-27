@@ -1,0 +1,1 @@
+program m : nS : takes rc, c : boolean array returns nothing u : boolean array; W, S : boolean; let JEX0a[(38) - 0 - 18] = array true; do o(- 9 - 5 = 2, 37) end main : v1I0a : boolean array; input m24a end

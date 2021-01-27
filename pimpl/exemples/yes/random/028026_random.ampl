@@ -1,0 +1,1 @@
+program _ : v : takes Q26, i : integer array; f0O0a, m : integer array returns nothing L2 : boolean; pop 03100 - 75 = 29 end LJ : takes E71 : integer array returns boolean af1a, j1, z : boolean array; output "64" . "?" . 6100; let E = 162 end main : chillax end

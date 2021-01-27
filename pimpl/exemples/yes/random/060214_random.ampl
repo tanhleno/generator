@@ -1,0 +1,1 @@
+program c : X : takes b4 : integer array returns nothing M, L, UV, N4, e : boolean array; F : boolean array; V72a : boolean; J, t : boolean; Y : boolean; while false and 25 : chillax end end R4 : takes y : integer; rc : boolean returns boolean array chillax end main : K03aa, AJ, H11a, PS50a, P4h0a : integer array; O : boolean; chillax end

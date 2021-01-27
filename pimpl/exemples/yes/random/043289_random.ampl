@@ -1,0 +1,1 @@
+program O : U2P : takes S640 : boolean array returns integer input j end main : E3 : integer array; V77 : integer array; j0 : integer array; S6, _l, qV10 : integer array; when case 5 - (429) rem false < h(68) and false and 9 : chillax end case true : do K(35700) end case(4) and 2 : pop 6; while 565 : chillax end end case 7 /= 8 : chillax end otherwise : chillax end end

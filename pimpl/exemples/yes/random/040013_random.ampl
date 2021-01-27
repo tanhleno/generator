@@ -1,0 +1,1 @@
+program s6yaa : t8V : takes L84 : boolean array; S : boolean array returns boolean array i, p : boolean; input WQ2[- false - 5 - 7]; let v[- 1] = 086 = 7; when case 87 : chillax end case 9 : chillax end case 60 : chillax end; pop 73600 end main : WP : integer array; K : boolean array; chillax end

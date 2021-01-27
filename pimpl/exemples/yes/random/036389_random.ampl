@@ -1,0 +1,1 @@
+program E4L : e6 : takes c3 : boolean; X5xaa : integer; K3, zHZaa, R, f9 : boolean; z9 : boolean; C, f, W, F79 : integer; wZ, Z0Y : boolean returns nothing chillax end k : takes d, e : integer; B5 : integer; Lg, X : boolean array returns nothing Tn, U, vD, KmU0 : boolean; input U[- 21 - 79]; output 008 . ""; input P[15300] end main : chillax end

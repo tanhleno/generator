@@ -1,0 +1,1 @@
+program c7 : F : takes A7T, g : boolean returns integer h1h : boolean array; r4 : integer; chillax end main : eC, w, dW : integer array; G : integer; LT9 : integer array; input r; let Y = array 66 / not 8 + false and 5770; output "" . 67200 end

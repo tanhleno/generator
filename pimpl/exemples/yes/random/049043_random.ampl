@@ -1,0 +1,1 @@
+program f : gm : takes R : boolean returns nothing pop; do m(- 31 - 378 < 952, 3); input T end h0 : takes n : integer array returns boolean array pop 22900; pop 98200; pop end O : takes y0, Q, V2h, u7 : integer array; sW, o : boolean array; z : boolean returns boolean array W : integer; while 9 : chillax end end main : _, C, P, d4 : integer; input Q2[false]; pop end

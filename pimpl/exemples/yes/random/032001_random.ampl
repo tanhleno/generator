@@ -1,0 +1,1 @@
+program A : X0 : takes el10a, a : integer returns integer do o(false or 86, 239 - 4, 1 = 65, 86, 2140); output "" . ""; while 4 : chillax end end M1 : takes I, MK9aa : boolean array returns nothing when case - 7 - 4720 : pop end otherwise : chillax end end main : H : boolean array; chillax end

@@ -1,0 +1,1 @@
+program E : V : takes TZv0a, Uw2 : integer array; I : integer returns boolean let O[- tr2 or 6 - 99] = array - false and 45 - 0 end main : up6, C : boolean array; z, O : boolean array; bQ, CA : integer array; b, p, Zj50a : boolean; while - false and s[965] rem not 3 + true / false or(9) and 7 - 7 : chillax end end

@@ -1,0 +1,1 @@
+program XV8aa : H9 : takes E, j : boolean; k, dh30a, i : boolean; xl, l : integer; _ : integer array; j, J, w : integer array returns nothing input x; when case 86 - 55 : pop end otherwise : do TJQa(9); pop end end N5 : takes Hvb0a : integer array; K7, G : boolean; D, Xd60a, e, ul : boolean returns nothing input Z end main : n : integer; chillax end

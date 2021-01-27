@@ -1,0 +1,1 @@
+program RBZ0a : main : when case not false and false /= g(2) * 30400 and 7 : let T[- 7 - 0] = 04 = 6 end otherwise : when case 457 = 0 : chillax end case 3710 : pop end; let d[9] = 95 end; output false and 95600 + 4 - 2 <= - 6 . ""; while not 0 : chillax end; do H(4 < 89, 337); output 0; input qJ9a; output "\"" end

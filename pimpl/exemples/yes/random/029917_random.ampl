@@ -1,0 +1,1 @@
+program Y : Xwb : takes oO5, F : integer array returns integer array while 7 and 8 : pop; let y = 4; while 42300 : chillax end end; while - 2 - 7 : let c8 = 37; pop end; while 1 : do c(3); pop end end main : b, MT, J : boolean; chillax end

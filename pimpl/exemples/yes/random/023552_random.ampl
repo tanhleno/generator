@@ -1,0 +1,1 @@
+program Gn80a : k : takes u, p : boolean returns integer array kL8 : integer; lk4 : boolean; chillax end c5t : takes i : integer returns integer B, L, w : integer array; Phn0 : boolean array; M, N : boolean; chillax end main : input WFfa end

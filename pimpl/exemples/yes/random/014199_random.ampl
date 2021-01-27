@@ -1,0 +1,1 @@
+program Ek8 : c : takes ou, Z3, r : integer array; A : boolean; Eor : integer array returns boolean array l : integer array; p, g3, db : integer; id20 : integer array; T, u : boolean; V : boolean; chillax end main : chillax end

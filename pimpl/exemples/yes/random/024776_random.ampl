@@ -1,0 +1,1 @@
+program f : d6 : takes D2, J : boolean returns nothing pop - 680; let F[66 - 60900] = array 8 - 959; input o[6] end j : takes V : boolean array; CUk0, JfKa, r : integer returns integer array F6Baa, Y : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program q : s : takes Q : boolean array; z, i, c62 : boolean returns integer array O5 : boolean; let X2 = 28 - 3 > 7 end u : takes Re : boolean array; Rc, H : integer; N2 : boolean array returns boolean array c : integer array; h5, b : boolean; pop end main : Q : boolean; M3 : integer; input z6l[not n3j[23] and true + 907 - false] end

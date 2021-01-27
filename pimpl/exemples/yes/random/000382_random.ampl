@@ -1,0 +1,1 @@
+program Jv : oS : takes uh6, n, Z8, kFz0, q, E0, g, q : integer array; s, B, a : integer; p3, S0na, B5Jaa : boolean returns nothing chillax end Q1 : takes W, R : boolean; E, C, Q57aa : integer; v : integer; Om70a : boolean array returns nothing input J[- 110 - 1] end main : chillax end

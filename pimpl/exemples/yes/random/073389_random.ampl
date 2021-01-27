@@ -1,0 +1,1 @@
+program v : main : P, hR : boolean; ZU, a19, kN, W300a : integer; b, dU, bb4, P : integer array; while h[0] * 8730 + false / 2 and 0 : output "" . 67; input m; do l(1); while 77 : chillax end end; pop end

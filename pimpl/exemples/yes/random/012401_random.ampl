@@ -1,0 +1,1 @@
+program Z0 : k : takes kQ, B, P : boolean returns nothing F : integer array; zo : integer array; chillax end main : when case not false / true / g3 <= - Xf3 / true and 6 or O5Raa - 5 : chillax end end

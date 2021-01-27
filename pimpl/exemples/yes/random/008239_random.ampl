@@ -1,0 +1,1 @@
+program D : ro : takes Px, zP, i, X0 : integer returns nothing Q11, C5, T : boolean; j5 : integer; input B88; output 48 end main : KC : integer; o460a, B, N7 : integer array; t, pT, C8 : integer array; G, qr, N : boolean array; pop; input R5 end

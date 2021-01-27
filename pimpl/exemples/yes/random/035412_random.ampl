@@ -1,0 +1,1 @@
+program q : Bl : takes _ : boolean; b2 : boolean; P, L : boolean array returns nothing Ji, k, Hk8aa, L8 : integer array; chillax end main : do c(- (890 = 881) * 4 or 68800 <= - K(2) / (3) or not 92 and 52300 - 3850 - 53, (2) /= (10800)); input RJ[- not false rem T2T] end

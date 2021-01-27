@@ -1,0 +1,1 @@
+program c2 : Q : takes D4 : integer; e4 : integer array returns boolean array chillax end F6da : takes gp0 : integer array returns integer while 59 = 368 : chillax end; let q = 2 end main : k : integer array; chillax end

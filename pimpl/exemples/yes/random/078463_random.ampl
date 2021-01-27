@@ -1,0 +1,1 @@
+program E43a : main : Lf : boolean; g2, aJ, rB1, w7, T : integer array; F, n : boolean; G, R, pk : integer array; L : boolean; while - false + false * Z3 and 61 - false and 8 - 7270 - 61 : while - 138 - 136 : when case 177 : chillax end end; while 3 = 50000 : chillax end end end

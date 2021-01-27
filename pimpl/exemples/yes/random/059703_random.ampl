@@ -1,0 +1,1 @@
+program U9_a : ti1 : takes W08 : integer array returns nothing chillax end a : takes T, s : boolean; iNj0a : integer array; A : integer returns boolean array chillax end L7 : takes Z68 : boolean returns nothing pop; pop 4; pop; pop end main : g : boolean; let Q = array Q[8120] + false rem false and 75; while not 0 - true = yI9aa and 6 + 42900 : chillax end; input I end

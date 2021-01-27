@@ -1,0 +1,1 @@
+program B : Z : takes F : integer returns boolean array while 184 and 51 - 26 <= - 4 - 7 : when case 2 : pop end case 60 : chillax end end end V9Q : takes cl00 : boolean array; V, S6 : boolean array returns boolean array output 204 = 5; while 29 = 7 : chillax end end main : oO1 : boolean array; s : integer; chillax end

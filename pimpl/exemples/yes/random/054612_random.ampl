@@ -1,0 +1,1 @@
+program g0d0a : I7 : takes K9 : integer array; X, m : boolean array; q : integer returns boolean chillax end main : w : integer; y0oaa, HD : boolean; L, P : integer array; A : boolean array; chillax end

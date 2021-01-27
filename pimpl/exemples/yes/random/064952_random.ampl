@@ -1,0 +1,1 @@
+program q : D : takes o5 : integer returns nothing GP : integer; OW, l00aa : boolean; let i8 = array - not 9 end main : when case b6 * 4 + B / (00) and 69700 >= false : while - 43 : chillax end; while 547 : when case 65 : chillax end end; input h; let M = 0 end case 209 / (9) + true and 1 : chillax end end

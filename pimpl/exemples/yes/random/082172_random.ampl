@@ -1,0 +1,1 @@
+program J5 : main : s7 : boolean array; jy : integer array; when case q(9, 6) or not l and(2) and 1 /= - false : when case 8 < 5 : while 5270 : chillax end end case 9 : input O3; pop end case 2 : chillax end case 0 : chillax end; output "" . "" . "" end; while - Ny[3] / true : chillax end; do tnuaa(- not 10 and 88 = - 3); output "\\" . 74; pop end

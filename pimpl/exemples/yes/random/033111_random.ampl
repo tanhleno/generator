@@ -1,0 +1,1 @@
+program tz : Q : takes C2, H : integer returns nothing when case(1890) and 2 or 7 > - 4170 : chillax end case 636 - 4 > 1460 : chillax end otherwise : output "" end; do K(- 090 - 95 /= 5, 9 = 8, 04, 9500); when case 9 = 704 : chillax end case 3 : chillax end case 048 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program E7 : p : takes Z, y0 : boolean returns nothing F, yieaa, ZO, O, Dl : boolean; l : integer array; chillax end main : O : integer array; NJ9 : boolean array; let _r7aa[- true] = array(5 = 20); do X((6) * s400a and 6 < 15 and 6, x6 and 15 = - 2 - 2, - 41) end

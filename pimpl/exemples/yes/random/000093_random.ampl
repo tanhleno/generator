@@ -1,0 +1,1 @@
+program g : m : takes JZ, E4Y, HdDa, K, _, x2b, hU, c : boolean array; b, H : integer; w : integer array returns integer array pop end main : K8 : boolean array; while - xp(10500) * not 3 and false or true * Tk : output 7 end end

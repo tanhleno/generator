@@ -1,0 +1,1 @@
+program TW00 : h12 : takes Lu7aa : boolean array; Eh6 : integer array; Kw, q_6a, X5ja : integer; L2 : boolean array; Q360a, Z81 : boolean returns integer array C : integer; C, GOeaa, R, D : boolean; y, h, V : boolean array; chillax end main : B : integer; when case - true > t(062) - false and 57500 + 8 : let P5[2] = 5 = 8 end otherwise : pop end end

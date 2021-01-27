@@ -1,0 +1,1 @@
+program l : main : when case - false * false >= - false - false - 5 : do IV5aa(- 5 - 8 /= 7, 47, 1, 59) end case 6 : chillax end; do y(- false and F6 or(721) or 61); let Y[- not 5 and 916 + 5] = - 296 /= 3 end

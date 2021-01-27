@@ -1,0 +1,1 @@
+program E : main : M, t, BQ70a, y4, Q, p5, yl : integer; N, pL, g, B, db : boolean array; _l, M8 : boolean array; let X[- not(82) - false] = - 892 = - not 06 and 611; do uy(- (7) > true - 7, RU90 = 6, 8); pop - 903 end

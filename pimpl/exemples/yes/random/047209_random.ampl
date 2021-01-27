@@ -1,0 +1,1 @@
+program S : k32 : takes Iw5 : boolean returns integer p : integer; i9, K : integer array; Ij70 : integer; pop end p : takes N16 : boolean returns integer array J3eaa : boolean array; chillax end QE : takes O59 : integer; U : integer; m22 : boolean; N2, Xj : boolean array returns nothing output "\"o0" . "E2" . ""; pop end main : chillax end

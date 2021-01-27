@@ -1,0 +1,1 @@
+program h2 : main : D : boolean array; f4 : boolean array; when case - true + not true * Lh and 0 - true /= - not false and not 44 and 4 : input A[- 5]; output "u" . "" . "" end case(4) and false and 1 + true and 41600 : chillax end otherwise : chillax end end

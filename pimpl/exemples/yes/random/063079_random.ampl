@@ -1,0 +1,1 @@
+program D : L6e : takes N : integer returns integer array input s; output 0760 . "4" end A : takes I : boolean; r : boolean; f72 : boolean returns integer array e7 : boolean array; r1, ka : integer array; y_ : boolean; output "e" . "" . 0 . "0m"; output "" . 824 end main : JZta : integer array; chillax end

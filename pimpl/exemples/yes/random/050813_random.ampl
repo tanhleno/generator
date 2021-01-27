@@ -1,0 +1,1 @@
+program fo3 : G : takes l_ : integer; W, Z : integer; R00a, e4, X3Ta : boolean; P, s2 : boolean; U, W : integer returns nothing chillax end main : z, S : integer; input H[- (13) - not true / Ir or true and 38 + 50]; do Sj(not(254) * not 63 /= not 02500 and 3 + 3, true and 52) end

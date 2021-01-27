@@ -1,0 +1,1 @@
+program B : main : N, n9X0a, x : boolean array; when case not(7) - (8160) and 1 and 5 + false and 0 = not(4580) : while - 0 < 73800 : output ""; do O1(58); pop end end case(1) : output 62 . 0 . "Kn\""; output "" end case - (1) and 298 > - 8 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program t : S : takes Av8 : boolean array returns boolean when case - false + 4 < - 8 : output 9 . "_"; output "" end end V : takes f : boolean array returns nothing LU40, V0 : boolean; do y(2) end main : chillax end

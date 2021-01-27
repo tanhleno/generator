@@ -1,0 +1,1 @@
+program t : main : q : boolean array; Q : integer; s, FO : integer array; input PN[false and true and 6 and 59]; do g89(- 74400 / (1) - not 8 and 86 - 09); when case false - 45 - 5 >= 5 : when case 9 : pop end otherwise : chillax end end case - 5 - 5140 : chillax end otherwise : let QcD = 48; input j380a; pop end; do r7(03 - 83400); do f(57 = 9) end

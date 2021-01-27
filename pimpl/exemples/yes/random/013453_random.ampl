@@ -1,0 +1,1 @@
+program Q : i : takes p, CY4aa, J : integer; FG : integer array; z : boolean array; Y7, VF : boolean array; Gl : boolean; D, HNI0, f42a : integer array; i : boolean returns nothing when case 673 - 71 : chillax end case - 2 - 150 < 3 : chillax end otherwise : when case 8 : chillax end end; do h(- 4) end main : q3w, k : integer; chillax end

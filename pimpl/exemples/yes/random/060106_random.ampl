@@ -1,0 +1,1 @@
+program f4 : r : takes B : integer array returns nothing do h((67) and 4 > 7 - 1, 0 - 43) end Uc : takes J47 : boolean; ue, f7 : integer array returns nothing e, PO : boolean array; chillax end main : Lm1 : integer; let r[false + true] = false; output true and 8 > 013 . - 5 . "" . 71600 . "" . "" end

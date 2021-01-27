@@ -1,0 +1,1 @@
+program qJ6aa : main : Lws0 : boolean array; e : boolean; g6, xL4 : integer array; input s[- (20 = 48) rem 8 and not 0]; while D5[40] * true and 3 /= 1110 + 582 - 2 : chillax end; let yCK = - 9 - 6 > 84 end

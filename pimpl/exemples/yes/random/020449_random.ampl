@@ -1,0 +1,1 @@
+program m : nr : takes w, u : boolean array; PO : integer array; mF : boolean array; f, N, n850a, v : boolean returns nothing No : boolean array; chillax end rp : takes S : boolean returns nothing pL, W0, n2, eSJ0 : integer; chillax end main : output - b(9610); pop; input z[- true]; pop; let L = array 2; do Z0Z0(3); while 3 : chillax end; input hkn0 end

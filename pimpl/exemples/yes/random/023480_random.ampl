@@ -1,0 +1,1 @@
+program MTQ0 : Ym : takes U, E : boolean returns integer array I, k : boolean; output "" . "" . "0" . 3; pop 83 end m : takes q2P0a : integer array returns nothing w, LFb : boolean array; E : integer array; output ""; do H4(809) end main : aci0a : boolean; WP : boolean; L_30 : boolean; input T[(9 = 3) * (3) and 5 - 8] end

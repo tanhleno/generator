@@ -1,0 +1,1 @@
+program S : N : takes FF3, pH : boolean array; Z : integer; D5, RsR0 : boolean returns nothing ex : integer array; B54, e4 : integer array; I : boolean; pop - 5 - 841 <= 4 end main : n : boolean array; chillax end

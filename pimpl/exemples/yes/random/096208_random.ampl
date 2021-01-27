@@ -1,0 +1,1 @@
+program Q : main : when case - not Ou3(7) / (5) / B0F and 15 or false + (0) : chillax end otherwise : output 2; pop 445 end; when case false rem false and 913 /= r or 0 : pop end case not 7 : chillax end case - 2 : input e; pop end case 27200 = 58 : while 1 : chillax end end case 5 : chillax end; input C; let n[9 - 0] = array - 2 end

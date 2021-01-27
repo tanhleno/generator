@@ -1,0 +1,1 @@
+program S : main : while - w(035, 9) * (52) rem(4) and 7 - 5 or 2 and 45000 <= - true / false + 40 and 00 or 5 - 5580 : chillax end; pop - 2 and 316 > 1 - 7; let g3[- (73200)] = array(5) + 7410 - 731 end

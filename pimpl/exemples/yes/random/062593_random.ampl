@@ -1,0 +1,1 @@
+program t6c : vVAaa : takes B860 : integer returns boolean input i end h : takes Q, ZI, x2E, N12a : integer; NTX0a, k : boolean array returns nothing let x = 29 = 11; do O(23); input J[4] end main : chillax end

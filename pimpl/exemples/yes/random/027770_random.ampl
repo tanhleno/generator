@@ -1,0 +1,1 @@
+program t : Q : takes S, R6 : integer array; kZ, d : boolean array returns nothing when case true - 9 : pop 8; output "" end case 76 - 1 : while 1 : chillax end; when case 79 : chillax end; pop end case 4 = 25 : chillax end end main : k : boolean array; Mu : boolean array; e7 : integer; let G3[not 65000] = array true and not A5 - (9) or c and 04 end

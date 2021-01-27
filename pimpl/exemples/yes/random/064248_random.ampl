@@ -1,0 +1,1 @@
+program X : y : takes H : integer returns nothing Z46, A, v, a3 : integer; wI40a, u, ez : integer array; let Hg6 = 5 >= 4 end b25 : takes G, l2 : integer returns boolean let lk = array - 2 - 4 end main : PiCaa, C : integer; T : boolean array; chillax end

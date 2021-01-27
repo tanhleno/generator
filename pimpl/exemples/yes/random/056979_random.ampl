@@ -1,0 +1,1 @@
+program EzE : Q : takes C : integer array; w : integer array; f : boolean returns boolean when case Q4jaa and 83 - 788 - 9 : chillax end otherwise : pop; do v3w(968); pop end end main : p : boolean array; a9r0a : integer array; e, sL, e : boolean; chillax end

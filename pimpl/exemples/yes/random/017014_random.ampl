@@ -1,0 +1,1 @@
+program T : W4 : takes s0, a8 : boolean; a, x890a, Jn : boolean returns nothing x : boolean; chillax end main : while T / not true rem(58) + false or(280) or 7100 - 0 /= - true * 08 and 3 : chillax end; pop - 9 >= - 63900 - 9 end

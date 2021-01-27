@@ -1,0 +1,1 @@
+program y : z520a : takes g : integer; T : boolean array returns boolean array output 7 = 145; output 58 = 5 . "9\\"; output "\"" . "" . "7Waa" end R : takes R : boolean array; hYs0a, Z1o0a : integer returns integer chillax end main : chillax end

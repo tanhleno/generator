@@ -1,0 +1,1 @@
+program G : F1 : takes O, v8Ka, L1, h : integer array returns nothing W7w, l : boolean array; xj2aa, NV : boolean array; kKo : integer; chillax end Z12 : takes L, T, ux : boolean array returns nothing chillax end w : takes d0, Y, ctH, yPn : boolean array returns nothing do UP(10 = 2, 22); do x62(3, 260); do pZ(3); pop; pop end main : chillax end

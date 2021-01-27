@@ -1,0 +1,1 @@
+program ahR0a : Y : takes E, I : integer; R5, T, H : boolean array; c4g : integer array; t, F : integer array; CV : boolean returns boolean array J : integer array; output - 7 - 5 < 2 end j : takes w, h : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program O : main : JM : boolean; when case - 9 + k8(1) rem false and 07000 - false and 08 + 0 > - (03200) or false and 7 + 33 : when case - 0 - 93 : chillax end case 82700 : output "" end otherwise : input B end; pop 9; input onB[7]; while 1 : chillax end end case not g05 : chillax end otherwise : chillax end end

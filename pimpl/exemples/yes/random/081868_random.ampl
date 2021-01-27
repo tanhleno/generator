@@ -1,0 +1,1 @@
+program _9 : main : t : boolean array; pi : integer; N3, o6, A, g : boolean; output - not(2) . 033 and 4 . ""; when case - (4) > true and 0 : when case 46500 : chillax end case 0 : chillax end case 817 : chillax end end case(6) = 6 : chillax end case 86 = 8 : chillax end; do eB(- not 9 and 11 + 714 - 7 <= 8370, 75 > 2, 4) end

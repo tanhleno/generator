@@ -1,0 +1,1 @@
+program Bt : C : takes O, P2f, rY : boolean returns nothing chillax end T : takes G9yaa : integer; o, qO, B, O : integer array; v9 : boolean returns nothing chillax end main : rX50 : integer; J : integer; chillax end

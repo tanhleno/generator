@@ -1,0 +1,1 @@
+program S7 : f : takes W, WG9 : integer; AwB : integer array returns nothing let S[- true and 6 or 1 - 1] = - 8 - 6; pop; while 6 : chillax end; while 3 : pop end end LM5 : takes Ab, y, K, h, R : boolean; Z, G : integer array returns integer do eQ4a(- 8 - 3 > 4, 5) end main : chillax end

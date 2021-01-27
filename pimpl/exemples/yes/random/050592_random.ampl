@@ -1,0 +1,1 @@
+program O : _n : takes e : integer; o8na, C2X : boolean array returns integer Et, j : boolean array; y, r, k, Lg : integer; pop - 8; output 63 . 5 end TM3 : takes t3E : integer returns nothing k, ov, D : integer; output 699 end A5G : takes C : integer array returns nothing Tqy0a, W : integer array; chillax end main : chillax end

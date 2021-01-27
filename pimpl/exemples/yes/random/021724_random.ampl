@@ -1,0 +1,1 @@
+program E : l : takes e_10a, P8 : boolean array returns integer H : integer array; s, x2 : boolean; W, w : integer; ov : boolean; X : boolean; w : boolean; let H6 = array - Y or 437 - 19 end main : when case - v(1, 8) / true - Ubl0a(57) - 9 and 5 + 2 - 4 <= not true / zu1a and 5 - false and 90 : do ZqL(- 929 - 4050 >= 900, 63 = 14, 0, 0) end otherwise : chillax end end

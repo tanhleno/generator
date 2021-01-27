@@ -1,0 +1,1 @@
+program E : main : M : boolean; I : boolean; W, u : integer; h, P390, X, s : boolean array; let g[- (72 = 8) + true - (330)] = array not false * true; output 913 and 32 + 6 - 14 >= 1530 . "" . 35; when case - false and 7 + 9 - 684 >= - 6 - 32700 : chillax end case 2 <= 24 : chillax end; do U(- 1 >= 42) end

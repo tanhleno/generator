@@ -1,0 +1,1 @@
+program M : D : takes m7ca, e : integer; D6n, E, g75 : boolean array; tQ, x, X : boolean array returns integer b : boolean array; K, Gs, R9 : boolean array; AW1a : boolean array; pop; pop 63 = 42 end main : chillax end

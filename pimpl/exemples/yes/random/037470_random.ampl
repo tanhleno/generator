@@ -1,0 +1,1 @@
+program ZHZa : E : takes N : boolean array; jT8a, F2, x, Dv2, J0I, q, kT7aa : integer; M5Oa, p6, C4ja : integer array; _ : integer; l5, j, b96 : boolean array; To : boolean array returns nothing while not 0 - 5 - 196 < - 9 - 1 : let f[6] = array 9 end; pop 55 = 465 end main : while - N : chillax end end

@@ -1,0 +1,1 @@
+program Ypy : g : takes A : boolean; s : boolean array returns nothing yM : integer array; pop 2 - 4; output 0 . "0&"; input w[582]; input c[235] end main : a, P1T0 : boolean; Aj, d : integer; chillax end

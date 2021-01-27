@@ -1,0 +1,1 @@
+program Wh : C : takes td1a, K2, NR7 : integer returns nothing o : integer; let H = 2 >= 628; let X = array - 0 - 90 end B : takes h7 : boolean array returns boolean e6 : integer array; output "2"; let U[37] = 79; do o(94, 4); when case 6 : chillax end end main : when case not(347) * (1) - true or l and 8 : do c(283 - 69) end; input q end

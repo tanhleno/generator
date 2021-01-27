@@ -1,0 +1,1 @@
+program v550 : H : takes IX9 : boolean returns nothing let m[not 2 and 8] = array(62); while 1650 - 81800 : output "}0"; when case 04 : chillax end end end main : pop - not(4) / 5 and 7; let Ucp = not 43 end

@@ -1,0 +1,1 @@
+program a : vU9a : takes F : integer; i6, I, i, W0x, YN, Ne80a : boolean array; w, j, x, o, K : integer array returns nothing when case - true and 2 : output 180; while 494 : chillax end end case - 18 = 36 : chillax end end main : chillax end

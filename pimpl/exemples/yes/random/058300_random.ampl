@@ -1,0 +1,1 @@
+program n : j97 : takes g : integer array returns boolean Y : boolean; chillax end R : takes c3i0a, D63, E : integer array returns boolean a : integer; chillax end main : while - (164) * j[5] / not 2 + L(00800) and true < - not 52 - 3 : chillax end end

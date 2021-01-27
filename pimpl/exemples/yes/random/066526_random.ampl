@@ -1,0 +1,1 @@
+program i : main : do c(- not 989 and false <= false); when case 5 / not 27 and 6 /= 3 and 0 or 47 - 48 : chillax end case - false and 2 or 153 - 3 : chillax end case 15 - 6 <= 00 : do TA4aa(6) end otherwise : let Y3 = 49 end; when case not 7 and 23 : while 565 : pop end; pop end case - 4 > 3 : chillax end case 3 : chillax end; do w(6 < 2, 0 = 1); do I0oa(18600) end

@@ -1,0 +1,1 @@
+program y : main : dU5, f6Faa, Q : integer; _Ho : boolean array; while - true : chillax end; when case - false / not 8 or false : chillax end case not 04800 and 61 : chillax end otherwise : chillax end; when case true and 6 >= 98 - 8 : input Z0[5] end case - 57 - 8 < 7 : chillax end case 6 : chillax end otherwise : input h; input je0a end end

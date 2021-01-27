@@ -1,0 +1,1 @@
+program X_ : o : takes i, e, Jd60a, Ep, y : boolean array; z0 : integer returns nothing h, D4 : boolean; a : integer array; E, O97 : boolean array; d2M : boolean; chillax end main : input t[- a(8, 74100)] end

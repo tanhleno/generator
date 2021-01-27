@@ -1,0 +1,1 @@
+program n39 : _ : takes _, APe0 : integer array; xJ : boolean array; s870a, Y, m, p, aF : boolean; x0P0a, y, M : integer; I : integer array returns integer array let y = array(1) and 8 end p8 : takes R, Rq7aa : boolean returns boolean j, v : boolean array; chillax end R0 : takes O7P : integer array; f : integer returns integer chillax end main : P : boolean array; chillax end

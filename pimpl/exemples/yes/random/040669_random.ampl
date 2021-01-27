@@ -1,0 +1,1 @@
+program AR : e : takes O4 : boolean array; n : integer; G : integer; z, o : boolean array; I, tCY, x, E3 : integer; Pw, R : integer; q, e : boolean returns nothing chillax end main : while - not false rem U(2280) * not 8 : chillax end; pop end

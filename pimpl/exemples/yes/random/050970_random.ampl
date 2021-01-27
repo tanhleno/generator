@@ -1,0 +1,1 @@
+program f8 : pT : takes z5h : integer; Rg, y0 : integer array; hS, g2O : boolean; A0A, C, e, D9 : boolean array; r, mh2 : boolean returns nothing r, a : integer; H : integer; K, J, o : integer; J7, K : boolean; l : boolean; LOl0 : boolean; output - 23 - 4 >= 66 end main : let c = array - (78100) rem true * true end

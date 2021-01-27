@@ -1,0 +1,1 @@
+program l1_ : main : when case - not d[6] - A_[9] or true and 8 : when case 4 - 2 < 6900 : chillax end case 67600 = 6 : chillax end; when case 11000 : chillax end end case - 41 or not 38 >= false and 233 - 2 : when case 764 = 5 : chillax end otherwise : chillax end end case - F10 : chillax end otherwise : output ""; output 4 . "Z"; pop end end

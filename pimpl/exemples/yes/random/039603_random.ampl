@@ -1,0 +1,1 @@
+program x : ag : takes RC40 : boolean array; a : boolean; e, m : integer array returns boolean array Cq, P, z, R, S : integer array; o5Ga, Of, n : integer array; chillax end main : pop - false rem false end

@@ -1,0 +1,1 @@
+program oU : a : takes K : boolean; k : integer array; T : boolean array returns integer array CK : integer array; R : integer array; yG : boolean array; chillax end main : J52 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program j : Z5Z0a : takes p : boolean array returns integer pop 723 - 6; input X[98 - 7]; while 2 : chillax end; input N4[9]; while 63300 : chillax end end main : C : boolean array; output "B" . - true . "" . "" . "" end

@@ -1,0 +1,1 @@
+program g7 : c85 : takes L, xy4 : boolean array returns nothing chillax end T : takes F8pa, F7 : boolean; D, iDl0a : integer array returns boolean array qXx0a, y4, T2iaa, Sg5a : boolean array; p, _I2 : boolean; chillax end main : chillax end

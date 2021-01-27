@@ -1,0 +1,1 @@
+program r : W8 : takes X : integer returns nothing let g2[- true + 57] = - 48 - 02; input U[2 - 946]; when case 16 : when case 24 : chillax end; pop end case 6 : chillax end otherwise : pop end end main : chillax end

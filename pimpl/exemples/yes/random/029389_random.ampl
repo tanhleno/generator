@@ -1,0 +1,1 @@
+program N : j : takes K2, G : integer array returns boolean array S : integer array; let c[7] = 741 <= 852 end s : takes E : integer array; a4, j, B, p, T : integer returns nothing chillax end Xe : takes i4, N3 : integer; E0R0, Tbl : integer array returns nothing let V = 465; pop; when case 651 : chillax end end main : chillax end

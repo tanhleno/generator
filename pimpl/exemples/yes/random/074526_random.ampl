@@ -1,0 +1,1 @@
+program EZ20a : main : t, r6 : boolean array; do k(false + not false rem(2) and 5040 or 48, - (0), - 24200 and 094 + 0 > 17100 - 1, 4 = 8); when case - (3) : pop end case - (1) < - 83 : chillax end; while - 7 and 2 > 5 : chillax end end

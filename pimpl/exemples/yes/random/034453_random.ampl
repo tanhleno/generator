@@ -1,0 +1,1 @@
+program W : C9 : takes NG70 : boolean; H, n : boolean array; C : boolean returns nothing chillax end C : takes q : integer array; AGQ0 : integer array returns integer while 42 : while 245 : chillax end; output "" end; output "<\"a"; do P(593) end main : rrw, w : boolean; l : integer; hY0, T5 : integer array; chillax end

@@ -1,0 +1,1 @@
+program BN : _4 : takes s, XHN : boolean; to : integer array; M7, E5z, t, N : boolean array; Y40, i : boolean array; qZ6 : integer; E, O, UN : integer array; x7, k : boolean returns nothing _, G : integer; output "!`!a"; do B(- 50, 5 = 7); when case 0100 : chillax end case 519 : chillax end case 2 : chillax end otherwise : pop end; while 44 : chillax end; pop end main : pop end

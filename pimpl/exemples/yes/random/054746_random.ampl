@@ -1,0 +1,1 @@
+program z9w : A : takes f : integer array; C, p : boolean array returns nothing input n[- true - 42400 - 0] end bu : takes F9 : boolean array; PQNa, b4, h, D : integer returns nothing chillax end main : AE, j : integer array; chillax end

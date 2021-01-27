@@ -1,0 +1,1 @@
+program Y : B : takes s110, s8 : integer; N, TY, RmAa : boolean; j, k3 : boolean; F7va : boolean returns nothing L : boolean array; do p3(- A > - 0 - 576) end main : when case - not true rem not S rem false < N * true + (9) and 12 : let v38[334] = 8990; output 000 end case - not not 36 rem false > A and 06 - 87 : chillax end end

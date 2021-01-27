@@ -1,0 +1,1 @@
+program R : Y : takes OM70 : boolean array returns boolean array when case - true and 32700 < 38 - 65 : chillax end case 3 - 79 /= 42200 : chillax end case 9870 = 5 : chillax end end main : C65aa : integer; chillax end

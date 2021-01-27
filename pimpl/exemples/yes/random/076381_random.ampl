@@ -1,0 +1,1 @@
+program MKJ : main : h, b95 : integer; V : boolean array; input H; while L5[04] / not 67100 and 65 - not 3 - 42 < true + 9980 : do W(5, 7); do q(6) end; do Xo(false and 5 or 33 - 1, - 336 - 1, 4 = 6) end

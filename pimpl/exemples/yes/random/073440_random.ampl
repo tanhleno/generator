@@ -1,0 +1,1 @@
+program Vm : main : b, c8 : boolean; h, e, m66 : boolean; while 6 - (6) + B and 49 + 01100 < - 1800 : let g[9] = 9 = 43; while 9 : input Fa; pop end; while 6 : pop end; input s7; when case 0800 : chillax end; pop end; while not M rem(9) and 8 + true and 35 + 5 : when case 10 : pop end case 30400 : pop end otherwise : pop end; do Y4(9) end end

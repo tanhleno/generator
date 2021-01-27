@@ -1,0 +1,1 @@
+program Rk5aa : H3k : takes _7 : integer; D50, gPD0 : integer array returns nothing H : integer; C : boolean array; q6, z0, P : boolean array; do V2((21) and 88000 - 3 = - 22); output "\"\n" end main : D, Md : integer array; chillax end

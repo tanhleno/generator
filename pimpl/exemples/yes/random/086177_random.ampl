@@ -1,0 +1,1 @@
+program O : main : E : integer array; _, tA : integer; O : integer array; input X69aa[not false or false * Tf]; output "" . 12 - 0 . "%" . 5; while true - 0 - 84600 = 1 : chillax end; let n[- 3120 - 2] = 79 end

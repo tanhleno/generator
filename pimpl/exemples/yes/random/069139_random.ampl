@@ -1,0 +1,1 @@
+program Kh1 : main : FR, n, e, D5j, L8 : integer; let f0[true - not 7] = - (1) or true + 9 - 3; when case - not true /= - V and 7 or 8 - 4 : chillax end otherwise : chillax end; do r(- false, 72200 - 655 /= 82, 2, 9) end

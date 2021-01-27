@@ -1,0 +1,1 @@
+program M : K2 : takes mp, C, zn : integer; EEk : boolean returns nothing while true + 333 = - 39 - 036 : chillax end; when case - 1 - 27500 < 9050 : chillax end otherwise : chillax end end main : do Gq(lJ[72] <= not 37, J[6] + 03 and 05, - (50600) and 9490 = - 8); while - true >= 5 + 5810 - 24 : chillax end end

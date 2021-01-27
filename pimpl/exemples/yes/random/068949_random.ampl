@@ -1,0 +1,1 @@
+program PkKaa : main : M, U, z1u, x4G, hrq : boolean array; a : integer array; while true * true : chillax end; output ","; when case true : output 98200; output ""; while 0 : chillax end end case - 76300 - 20 < 66 : chillax end end

@@ -1,0 +1,1 @@
+program H09a : main : N, K, o2 : boolean; input A[- false and 19 and not 28 and 8 - not true - M and 3 - 2120]; do Juf0(- v or not 07 and 822 <= (3770) and 12 + 5 - 25, - true, - 8 >= 6, 79000 = 6, 6650) end

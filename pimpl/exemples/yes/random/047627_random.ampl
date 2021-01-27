@@ -1,0 +1,1 @@
+program c : J8 : takes P40a : boolean returns nothing chillax end main : G2, len0, c, H, NBU, S, N98 : integer; f15aa, Al, Nvr0a : integer array; when case x_(6, 243) and 6 : pop; let Q6[4] = 61; input mn end otherwise : chillax end end

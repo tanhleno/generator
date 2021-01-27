@@ -1,0 +1,1 @@
+program H8 : t : takes l, b : boolean array; O6 : boolean returns nothing tDt : boolean; R5, d5 : integer array; while - true + 2 = 77 - 1 : input X; do C5F(0) end; output "u\\\"" . 3; pop end Szi : takes n74a, Z, N430a : integer; b : boolean array returns boolean pop end main : rNa, hR, w : integer array; z7 : boolean array; g, UJf, F1, X_1, BJ : boolean array; chillax end

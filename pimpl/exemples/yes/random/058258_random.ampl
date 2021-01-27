@@ -1,0 +1,1 @@
+program b : YA8 : takes L4d : integer array returns boolean Fa, P : boolean array; O : integer array; h_ : integer array; k7, i : boolean; chillax end op : takes a2 : integer array returns integer chillax end main : chillax end

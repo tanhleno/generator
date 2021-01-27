@@ -1,0 +1,1 @@
+program F9 : b30 : takes W0l : boolean; HL : integer; AMa, z, PA : boolean array; W : integer returns boolean do eiV(- Z75a - 98, 93000, 94300); while 3 - 0 : do P65a(09); let q = 42; pop end end uI : takes U : boolean array returns boolean array s : integer; chillax end main : chillax end

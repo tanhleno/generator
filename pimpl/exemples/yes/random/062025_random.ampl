@@ -1,0 +1,1 @@
+program F : to50a : takes L1 : integer returns boolean array d350 : integer array; chillax end i : takes QH : boolean array returns integer do nb(675 <= 0650); output 7 end main : while - (388 = 5) : chillax end end

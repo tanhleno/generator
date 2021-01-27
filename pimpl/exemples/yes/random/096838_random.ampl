@@ -1,0 +1,1 @@
+program P : main : when case false and(9) * not 2 : chillax end otherwise : while 384 : chillax end; output "" end; do A(not true rem false and 00 - false and 4 - 2 - 8 < not 87 and 78100 + 28 - 0) end

@@ -1,0 +1,1 @@
+program nVdaa : LG : takes F2u0a, U, u, Kd, qHnaa : boolean array; U3g, F680a, A : integer returns nothing chillax end Wu : takes FVw0a, D, xQ, Nj5 : integer array returns nothing let S[- 71 - 7] = array - 53 - 3 end main : YM1aa, J940a, XKr0a, X310a : integer array; chillax end

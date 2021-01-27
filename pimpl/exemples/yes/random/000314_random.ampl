@@ -1,0 +1,1 @@
+program _l30a : N : takes M, I, eV, j, U, g_ja, C4w, P0 : integer; mwh, f, t800 : integer array returns nothing let qli = array - 2 and 9 or 4 - 0 end main : L : integer array; r : integer array; chillax end

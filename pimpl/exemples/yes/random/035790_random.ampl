@@ -1,0 +1,1 @@
+program X : b : takes y : boolean; v6 : boolean array; E : integer array; B : integer array returns nothing input ZRM0a end xT : takes QE0, t, Q4 : integer; z : integer array returns nothing chillax end main : F63aa : integer array; input J[- not 0 + true + true - 24 - 3] end

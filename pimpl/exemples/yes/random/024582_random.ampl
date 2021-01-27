@@ -1,0 +1,1 @@
+program V : I : takes b3N, u : boolean returns nothing L : integer; let a = array - false and 53500 or 9; let O[- 2] = array 3 - 2 end L7 : takes Xm9, E : integer; g, tR : integer array returns nothing f : boolean array; chillax end main : chillax end

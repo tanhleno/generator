@@ -1,0 +1,1 @@
+program D : h : takes W : boolean array returns nothing do o2M(- (0620) and 21800 > 9 - 3); do h(4 - 19) end _1 : takes q : boolean array returns boolean array output "3`"; do e(9 = 1, 4, 064) end d : takes Yy, z, t, z4Z : boolean; W860 : integer returns nothing input y end main : input p[- J(4)]; pop - not 04 or 6 - 437; pop; do C(9 - 5) end

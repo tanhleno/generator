@@ -1,0 +1,1 @@
+program N : w : takes L, vf, Z : boolean array; vpR, P : boolean; U, eb5, E7, b, a99aa : boolean array returns nothing chillax end C45 : takes y99 : integer; o7F0 : boolean array; E3, U : boolean returns nothing pop; pop; output 8 . ""; pop; pop end main : Y, m : integer; chillax end

@@ -1,0 +1,1 @@
+program qZ : i : takes Y4M, h, F4ma : boolean array; Q, rRA, G : integer array returns boolean an, B, i0 : boolean array; while not 803 : input X2 end end main : m3F, NF, pu60a, d : integer array; chillax end

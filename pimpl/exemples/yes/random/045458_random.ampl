@@ -1,0 +1,1 @@
+program C5 : u : takes m : boolean returns boolean array chillax end main : b6, b : integer array; when case not Y(7) / L[58] rem not 1 and 880 - true : while - 7 >= 9 : chillax end end case 53700 or false and 6 = - r2 : do nc(6 = 02); output "7" end otherwise : chillax end end

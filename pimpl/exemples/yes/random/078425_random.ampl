@@ -1,0 +1,1 @@
+program u06 : main : Wk : boolean; G510, o5, v, k, ZSW : boolean; do H2(- (2 = 13) * 98700 rem(12) - true and false); do c(- (1) rem true, (83200) and 47 + 4 - 4 >= 4); while - (7) > - 3 - 74 : chillax end end

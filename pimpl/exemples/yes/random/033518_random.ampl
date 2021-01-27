@@ -1,0 +1,1 @@
+program M : O7T : takes Bi : boolean; y, Xos0, h, A : boolean array; U : integer array; hqO : boolean array; C : boolean; q : integer array; Lj, y6h0 : boolean; _ : boolean; dG : boolean returns integer do O4(true or 4 >= - 0) end main : chillax end

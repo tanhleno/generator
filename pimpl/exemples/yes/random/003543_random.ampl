@@ -1,0 +1,1 @@
+program T : o : takes B1, b, G, P5E0a, W : integer array; z : boolean array; b : integer returns integer u, Q, M : integer; chillax end main : U : boolean array; when case - true : let g = array 2 - 9 end end

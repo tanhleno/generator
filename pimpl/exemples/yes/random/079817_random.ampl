@@ -1,0 +1,1 @@
+program R0 : main : W : boolean; p7 : integer array; while true * 9 = true / 51 and 6 - Mu90 and 8 : when case - 549 - 98 >= 858 : input z end; when case 47 = 89 : output "@\\" end case 0350 : chillax end case 38 : chillax end; output "4-" . "0" end end

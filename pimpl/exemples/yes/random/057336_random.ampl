@@ -1,0 +1,1 @@
+program qmC0a : x06 : takes g : integer array; u : integer returns boolean array q7 : boolean; NJc : integer; when case - (717) and 5 + 6920 - 100 /= 407 : input A[0460] end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program r : K : takes BP : boolean; c, N5r, b8, q7 : boolean array returns integer n, It : integer; output "\n" . 08 . "\t" . 0 end v : takes V : boolean; Z0N : integer; kw5 : boolean returns boolean array pop; output 2 . "" end main : chillax end

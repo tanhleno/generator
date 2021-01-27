@@ -1,0 +1,1 @@
+program cD : i : takes _0 : boolean; D, u : integer; Q, j, F, NO4aa : integer returns nothing chillax end main : when case(7) + cn(89) and Q and 90 : pop 43 = 1 end otherwise : chillax end; input R4A end

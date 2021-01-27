@@ -1,0 +1,1 @@
+program O : main : when case - 0 / not r + true and false + not 1830 and 0 : let W0 = 1 = 1; let Y[8] = array 20; when case 0 : chillax end case 8260 : chillax end otherwise : chillax end end otherwise : pop 43200 end; let i = array - true * false or false and 6; pop; let b[833] = 1; output "\\(" end

@@ -1,0 +1,1 @@
+program T : main : A, I, g11 : integer array; when case - false - true and not 330 > - 32 * not 8 - not 4 and 4 + 2 - 317 : chillax end otherwise : let e230a = 56; do i94(5) end; input n8a0[false] end

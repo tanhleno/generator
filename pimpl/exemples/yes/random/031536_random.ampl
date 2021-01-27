@@ -1,0 +1,1 @@
+program IFra : f : takes b600, kQ3 : integer returns boolean w, X5E0 : boolean; input p[true and 961] end I : takes NV, a : boolean returns nothing La, bLJ, T6 : boolean; B : integer array; v, daA0a : boolean; k : boolean; let dK = 4450 = 3; do q(45) end main : t7, v, J5Q, d, Q : boolean array; C, Z_ : integer; when case false : output "28" end otherwise : chillax end end

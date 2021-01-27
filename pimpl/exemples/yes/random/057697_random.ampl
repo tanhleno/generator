@@ -1,0 +1,1 @@
+program E39 : Q : takes r4u : integer array returns boolean array b1, Z2, u, L5 : integer array; l : integer; C, mP, W : boolean array; SGy0 : boolean; let u[- (29) and 75300 or 9] = 37; input Be; input m end main : pop true and(6) and 1 - false and 8 <= - 32 and 85 or 8 - 9 end

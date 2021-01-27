@@ -1,0 +1,1 @@
+program J : M : takes h, P6O, xr : integer; l8 : boolean array; O : boolean array returns nothing pop; do k(6, 0 = 5) end ui : takes P, Uq : integer array returns boolean array output "~M" end main : chillax end

@@ -1,0 +1,1 @@
+program U3 : FW : takes Y4 : boolean array; Re, M : boolean; e : integer returns nothing Sg9 : integer; A3p : boolean; chillax end main : when case(292 = 8980) / 59 rem dAd >= - not 880 and true : when case - 2 - 7 : output "\n" end case 7 : chillax end; pop 7 end otherwise : do LAE(6 = 8, 7); do d(00, 0) end end

@@ -1,0 +1,1 @@
+program _8 : o : takes q : integer array returns nothing do M74(- false - 8); let l72a = 0 end l : takes ox : integer; j0 : boolean; UL, cc : integer returns integer array b : integer array; pO, Pg8aa : integer; r, Z : boolean; S : boolean; T : boolean; chillax end main : b : integer array; t, yE, j, Z : boolean; chillax end

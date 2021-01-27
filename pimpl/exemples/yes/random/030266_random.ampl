@@ -1,0 +1,1 @@
+program RL : yS0aa : takes K, no0 : integer array returns nothing chillax end hKN : takes xU1 : boolean array; t7 : boolean returns nothing U1u : integer array; let I = array 46 - 16 end main : when case(2 = 19) + not true < - (67) : input m9Ia[- 394 - 5230]; pop end otherwise : do C(7, 33700, 6) end end

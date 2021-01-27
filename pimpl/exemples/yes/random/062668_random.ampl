@@ -1,0 +1,1 @@
+program E0 : Uy : takes Wu4 : integer returns boolean while(0) or 1 - 4 >= 898 - 46 : chillax end; let z[- 8] = array 7 - 5; when case 0 = 0 : input u end; while 0 : chillax end end main : pop; when case false * D and 4640 + true and 6 + 0 > - not 96 and 23200 - 9 : chillax end otherwise : while 4 : pop end end; input Z01aa end

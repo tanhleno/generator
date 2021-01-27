@@ -1,0 +1,1 @@
+program r9D0 : Q : takes c, M : integer array; z9, h : integer array returns nothing do k(- not 4) end main : _, y10 : boolean; while - true rem 29 / not 6 and 8900 - false - K and 950 - 9 : chillax end; while - (59) /= false + 65 : chillax end; let i = array - (09) and 7200 + 0; do P(- 3 - 09 /= 49, 9 = 8); input n4[5]; input N6 end

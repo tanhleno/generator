@@ -1,0 +1,1 @@
+program d8W : e : takes u, fUe, X, Z : integer array; RD10a, _3, o, I : integer array; Q6, D, M7ca : boolean array; c : integer; xi, k : integer array; AmL, bXY0 : integer array returns integer array do E((2820) and 9); pop; while 946 : do B(813) end; when case 6 : pop end case 74 : chillax end otherwise : chillax end end main : Ny : integer; i : boolean array; chillax end

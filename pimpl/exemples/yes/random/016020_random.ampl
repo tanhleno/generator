@@ -1,0 +1,1 @@
+program vp : S : takes U, Fb7, u1X0a : integer returns integer chillax end main : E1V, Z : integer array; weR0a, S : boolean; z : integer; let h9[- (9 = 805) rem true * (010)] = array not 10 / not 4 and not 748; input n; input W end

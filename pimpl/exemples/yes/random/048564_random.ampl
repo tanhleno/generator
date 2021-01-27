@@ -1,0 +1,1 @@
+program p82 : X : takes y : boolean returns nothing A : boolean array; output "\nWa" end main : q1, R0L, CG, We : boolean; j, l, C, G, Cyvaa, C : integer array; a : integer array; output "X*" . - false or 46 - 4 . ""; let SR = array - not not 8 end

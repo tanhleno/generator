@@ -1,0 +1,1 @@
+program W9 : main : pzn : integer array; bc8 : integer; O : boolean array; I : boolean array; K8, Su2 : boolean; w : boolean; WMSaa : boolean; do Q(- true and false - (7), - 0 rem c < - 1); while false : let Q95 = 7; input O8; do u0ma(186); pop; pop end end

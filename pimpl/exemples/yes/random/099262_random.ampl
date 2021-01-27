@@ -1,0 +1,1 @@
+program OM : main : while W4b(367, 77) * false / not 6 and 21 : when case 05 - 5 > 4 : chillax end case 74 = 5 : input L; pop end case 7 : chillax end case 7 : chillax end otherwise : when case 1 : chillax end end end end

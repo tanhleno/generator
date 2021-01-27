@@ -1,0 +1,1 @@
+program d7 : J : takes m : boolean; x4 : boolean array returns boolean array output "\t4\"a" . ""; output 2 = 48; do c(6) end main : f : boolean; f : integer; when case - false rem false / I and 7 or true - x or 3 > (8340) rem not 733 and 903 : chillax end case l[9] or false > g : output 5 . "]1" . "4}0a" end case - false - 55 - 931 > 9 - 0 : chillax end end

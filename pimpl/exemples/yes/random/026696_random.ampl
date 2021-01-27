@@ -1,0 +1,1 @@
+program R3 : h9 : takes W, mY9 : integer; C : integer array; A4 : boolean array returns nothing _V : integer; pop; let o = 2; do AN3(251); output 3670 . "" end main : u : integer; m97aa, Dfxaa : boolean; E, e, TU6aa, V2paa, LB : boolean; h, B, E, Xk5 : boolean array; fV, LJAaa, C3U0 : boolean; input P[true] end

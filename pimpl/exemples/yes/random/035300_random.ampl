@@ -1,0 +1,1 @@
+program i : yml : takes jw : boolean; u, o : integer returns nothing input y[- 77 and 4] end O : takes n6 : boolean array; F, g : boolean; L7 : integer; n66, E : integer returns nothing when case - 7 : let U = 710 end; let qz9aa = 60; do p(887) end main : UZ : boolean array; chillax end

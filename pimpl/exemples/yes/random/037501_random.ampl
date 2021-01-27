@@ -1,0 +1,1 @@
+program P4 : K : takes DcI0a : boolean array; p, a, Qo, o, b, p9 : boolean; x9N0, eRe, VO, H, a, K : boolean returns integer array chillax end main : output 9 and r and 98 or(2) and 7 + 78 . - false > - 1 - 9 end

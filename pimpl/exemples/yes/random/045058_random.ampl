@@ -1,0 +1,1 @@
+program f : y_50a : takes j : boolean array returns nothing let ZV[o and 12] = 9420 - 80300 /= 18; when case 3570 > 706 : chillax end case 11 : let h = 864 end otherwise : when case 0040 : chillax end; pop end end main : input wt[- l[3] and false * not 0] end

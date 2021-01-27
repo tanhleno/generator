@@ -1,0 +1,1 @@
+program Q : QX : takes k : integer; GXMaa, o : integer; a : boolean returns nothing while - true - 1 - 97 : chillax end end main : Hc, D73 : boolean; when case true * false - false or true and 654 = (4) or Y and 1 : chillax end end

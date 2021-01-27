@@ -1,0 +1,1 @@
+program Gd : V0 : takes q : integer array; QT : integer array returns boolean when case(3) or 9 - 9 : chillax end case - 34 : do Qg(82); output "\"" end; output "8}" end d2 : takes Z, D : boolean; V, N, N3 : boolean; iA, ng, dR, D760a, hh : boolean array returns boolean array chillax end main : o, n3r : boolean array; n, Hv, O : integer; chillax end

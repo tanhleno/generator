@@ -1,0 +1,1 @@
+program ix : main : a, B060, I, M0Ca, Z8, m, sC2 : boolean array; while - not not false * false + oeJ(02) + true + 7 > - false : chillax end; when case false or P > 2 : pop 0 end; while - 2 and 9 + 3 - 23 : chillax end end

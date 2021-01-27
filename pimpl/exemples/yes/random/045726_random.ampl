@@ -1,0 +1,1 @@
+program Lu20a : tOo0a : takes C : boolean returns boolean array h03 : integer; Z23 : boolean array; o : integer array; iS : boolean; chillax end main : while - h rem false : let m[- 11 - 7] = array - 2 end end

@@ -1,0 +1,1 @@
+program G : J : takes Djr0a : integer returns nothing chillax end main : U, c : integer array; V1 : boolean; H : boolean; b6 : integer array; j9jaa, e49 : integer; g3la, A21a : boolean; H : boolean; when case - 6 * true rem W and 2 - 2 and fz > - 1 + false : chillax end case 0000 + true and 9 : when case 95 : pop end case 438 : pop end end end

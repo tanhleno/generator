@@ -1,0 +1,1 @@
+program M : S33 : takes x : boolean array; t : boolean returns integer array O : integer; u22, Nc : boolean; P, z : boolean array; chillax end main : let W = - n_ + not 23 and 25100; while - r[0] / M270a or false and 4 : chillax end end

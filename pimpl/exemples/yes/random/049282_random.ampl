@@ -1,0 +1,1 @@
+program Jj2 : K : takes h5d : integer; i490, t, y, z, t3X, FY6, UI1aa : integer array returns nothing u8, tF : integer array; chillax end main : when case true : let R = 1280; input r7o0[74] end case true /= 23 and 02800 or 65 - 531 : chillax end otherwise : pop; let U = array 51700; while 62 : chillax end; let U = 308; pop end; let QE[not 71400 or true] = h and 87 end

@@ -1,0 +1,1 @@
+program UdK : j : takes Gm, W : boolean array; c7 : integer array returns nothing z, I : integer array; let A = array - false - 99; let a = 623; when case 844 : chillax end case 1 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program A78 : Qs70 : takes u33, ryd, p, A : integer returns nothing pop 5 - 9 end a4 : takes J : boolean array; J0 : integer returns boolean array let W = 53100 = 2 end main : uS : boolean; do Ko40a(- not(3) + false or(2) and 8990 /= true, 98 * true and 4 - true and 8180 - 2 - 9, - k /= - 66) end

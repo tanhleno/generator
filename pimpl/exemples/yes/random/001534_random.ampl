@@ -1,0 +1,1 @@
+program p0Gaa : k : takes R4, mR, Wx, GC5, i, g : boolean returns nothing chillax end e : takes p3y0, V96, oE : boolean array; W : boolean returns nothing chillax end main : h, W, E, U, _, Y, D7 : boolean; G, Q, k : boolean array; a : boolean; k, c, B : boolean; BBp : boolean; output - (6) > false and 6 - 25; pop; pop end

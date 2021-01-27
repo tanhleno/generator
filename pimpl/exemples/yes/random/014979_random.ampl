@@ -1,0 +1,1 @@
+program k : Q : takes k, wh2a, g : integer array returns integer array NXCa : integer array; while - false - 1 : chillax end; input v1; do L(23 = 2) end main : Y60aa : integer array; output not false and false and 38 or not 61 + 3 . (9) /= 0 - 9650 end

@@ -1,0 +1,1 @@
+program N93 : Z7 : takes u : integer returns boolean array when case - false or 95900 = - 8 : let H = array 9; when case 7 : chillax end; let nfLaa = 4 end otherwise : when case 7 : chillax end; output "" end end Y : takes Snh : boolean array returns boolean array input V0Z end J : takes A : boolean returns integer array C : boolean; IT5 : boolean; chillax end main : chillax end

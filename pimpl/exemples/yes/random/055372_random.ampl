@@ -1,0 +1,1 @@
+program o3 : T : takes g2 : integer array; u, x : integer returns integer when case(6) - 5 - 21 >= 834 : output "{"; let s = 37 end case - 79 /= 52 : input B4a; input L200a end case 55000 = 1 : chillax end case 7 : chillax end case 3 : chillax end end qtz : takes Q, HB8 : boolean array returns boolean array chillax end main : output ""; input bcI[false / true and 62600 + c] end

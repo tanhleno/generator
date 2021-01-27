@@ -1,0 +1,1 @@
+program fKOa : u8 : takes d : boolean array returns nothing let N[false and 99 - 91 - 3] = - 79 - 0150 end N0 : takes c5J, f7, X : boolean; Xj2a : boolean returns nothing F1 : integer array; s3Ea, D, i : boolean; BK, nh : boolean; S : boolean; F : boolean; do ZB(- 5 - 69); do f(5 = 82200); input z end main : chillax end

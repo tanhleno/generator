@@ -1,0 +1,1 @@
+program J9a : main : do d8(- not true rem false rem not 1 and 675 + 1570 or Vd9aa - 5790 - 57 /= - 4 - 3); let e = array - not Ej * (67) and 0 or 722 or 24600 - 0; do i9(g and 6 or 288 - 030 >= 0420 - 059); pop end

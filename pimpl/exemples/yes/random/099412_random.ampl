@@ -1,0 +1,1 @@
+program ig : main : while ZX6 rem false or 9 rem true and 1 + not 646 and 1 : when case 06 <= 0 : chillax end case 80 = 590 : chillax end; while 177 = 9 : chillax end; do eb(37, 07); when case 7 : chillax end end end

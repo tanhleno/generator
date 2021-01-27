@@ -1,0 +1,1 @@
+program Dg : e : takes Q, W : boolean returns boolean K : boolean array; M, e, DQ10, a : boolean; t : boolean; L, K2 : boolean; I3 : boolean; chillax end main : while true < - true and(5) and 4 : chillax end end

@@ -1,0 +1,1 @@
+program EBE : E2b0 : takes b, MyLa, t, y : integer array returns nothing chillax end main : let s8[o rem true - false] = array - h rem M and(11000) and 5; input x[- not(53)]; do Xs(- (03900) or 4 >= - 2) end

@@ -1,0 +1,1 @@
+program MF : p : takes lw : integer array; Tf : boolean array; a_w0, c, P, wk40 : integer returns nothing p : integer array; f : boolean array; n, iP, K : integer; chillax end main : x, Z, W : boolean; chillax end

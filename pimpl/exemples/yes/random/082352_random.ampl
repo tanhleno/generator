@@ -1,0 +1,1 @@
+program NX : main : E : boolean array; let Wt9aa = array true - 8 or x3E and 1; when case - not 03 / not 382 : let tS[01] = 4 end case - S - 7 : chillax end case - 3 <= 4 : while 2 : chillax end end; pop - 6 - 339; let p = array 31 end

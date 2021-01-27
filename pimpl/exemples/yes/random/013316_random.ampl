@@ -1,0 +1,1 @@
+program N : G : takes fj8, nn60, ZTZ : integer; l8 : boolean returns nothing V, u, L : boolean; nH1aa : boolean; pop - 69 - 62 < 36; let Xn = 9; while 7 = 593 : chillax end; pop; input btR end main : FXz, Z, T : integer array; chillax end

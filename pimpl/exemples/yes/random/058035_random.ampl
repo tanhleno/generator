@@ -1,0 +1,1 @@
+program i : t : takes c : integer array returns boolean chillax end E6D : takes na8aa, K_2, h4H, W2 : integer; i370a, Wk : boolean array returns boolean array tj, nREaa : integer array; do L(316 < 644); output "" . "9!0" end main : when case cx9 / (8) - (1420) - 1 or 8 - 2 : chillax end case - false : output 4; while 63 : pop end; output ""; input Z3; pop end end

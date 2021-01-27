@@ -1,0 +1,1 @@
+program By : wgx : takes f5 : boolean array returns boolean array Z : boolean array; z, N8 : integer array; o5y, m, J : integer array; chillax end main : when case not _Xe0a(9) = true + 6 and 509 : let o85a = array 8 - 7 end case - (6) or(2) + 32 - 19 /= - false - 6 - 3 : chillax end case - false or 4 - 83 : chillax end end

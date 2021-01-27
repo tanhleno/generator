@@ -1,0 +1,1 @@
+program ob : main : output "" . mj and 325 or 2 - 163 /= 10900; when case false rem true and 35 : when case 8 = 9 : chillax end case 4 : chillax end case 4 : chillax end end case - not 655 - 3030 - 69 : chillax end otherwise : chillax end end

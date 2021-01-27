@@ -1,0 +1,1 @@
+program x : main : when case - (01) : do zY1(3 - 8, 3 = 640, 47, 1) end otherwise : chillax end; while(5) >= H : let l[2] = array 0; do fbJ0(509, 0) end; let E[- not 256 and 2950 - 9 - 5] = - 4 - 4 end

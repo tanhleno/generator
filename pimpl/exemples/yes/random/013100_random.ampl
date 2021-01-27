@@ -1,0 +1,1 @@
+program M : x8e0 : takes H, _F7a, jr : integer; L : boolean; WI0, x : boolean array returns nothing eX0, G, Q : integer array; output "d"; pop 5; do dD5(6); do f9(64, 50) end main : let w[false - (7) or l and 9 - 0670 - 9] = - 4 - false <= - true and 6 end

@@ -1,0 +1,1 @@
+program s : F : takes S : integer array; Ao, jq, P, G : boolean array returns nothing do i(true + 1140 < 36 - 22100, - 1, 665 = 571, 05) end g : takes z3, H : boolean returns integer array E2, e, P, n : integer; output 5 = 3740 . "" end main : v, x, W : integer; M : boolean array; chillax end

@@ -1,0 +1,1 @@
+program N : N : takes U_0a, i7 : integer; K : boolean returns integer array while - (96200) and 210 - 7 - 5900 >= 03200 - 08 : chillax end; output 4260 . ""; let Jp[9] = 589 end _z8 : takes y, fg, P, A : boolean array; n : integer; p1 : boolean array returns nothing output "q|"; pop 3; do P(2); do b9(1) end main : S, q2taa, HW : boolean; chillax end

@@ -1,0 +1,1 @@
+program E : iK : takes me : boolean; _H2a, l : integer array returns integer array pop; while - 04 - 3 : let Z = 0 end end f : takes q4ya, jI0 : boolean array returns boolean array chillax end main : v38a, J : boolean array; chillax end

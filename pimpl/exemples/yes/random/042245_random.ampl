@@ -1,0 +1,1 @@
+program W6S : db9a : takes j : boolean array returns boolean Y94 : integer; input d end main : X : boolean; X, tk : integer array; qYJ, t : integer; n, I : integer array; do Q3(- CRL(78) or q9(801) - (585) and 0) end

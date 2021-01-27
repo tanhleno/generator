@@ -1,0 +1,1 @@
+program z : j : takes az, X2w : integer; j, V, E2 : boolean array returns nothing chillax end F : takes O, x8k0a, D, I : boolean; E, sg : integer array returns nothing Nl4, s : boolean array; do s(344 = 6) end main : L, h : boolean; x, z : boolean; Sg : integer; k, Ju : boolean array; n, J, x : boolean; chillax end

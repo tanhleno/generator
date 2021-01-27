@@ -1,0 +1,1 @@
+program J : ng : takes S34aa, i : integer array returns nothing A, v850, E0, Nr, w : boolean array; chillax end main : output false * Ozr0 and 5 - true and 58900 - 2 - 7 . ".t!" . ","; let yi60a = array not(30) - 1 and 34 or 9 end

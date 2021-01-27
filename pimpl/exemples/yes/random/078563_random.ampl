@@ -1,0 +1,1 @@
+program iIv0a : main : d950a : boolean; q, g6A, _, WL : integer array; z, N : integer array; v680a, GF, b : integer; u : integer array; xlra : boolean; output "lN"; when case - (8) rem false and 6 + 33 and 9 : let a = array 4; do Oed(9) end; when case not 0 : chillax end; when case 331 - 5 : pop end case 72 = 87 : output ""; pop end; output "6" end

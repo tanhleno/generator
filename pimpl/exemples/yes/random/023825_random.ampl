@@ -1,0 +1,1 @@
+program p0A0 : _ : takes M, _ : boolean returns integer input j08a; input H[4 - 05]; when case 718 = 565 : output ""; pop end otherwise : pop end end qZ : takes xT8 : boolean array returns nothing K : integer array; p : boolean array; g6, r : boolean; while - 7 : chillax end end main : f, V : boolean; chillax end

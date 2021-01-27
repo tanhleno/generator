@@ -1,0 +1,1 @@
+program UN6 : x : takes s, k1 : boolean returns nothing iEV : boolean; chillax end main : av60a, u2 : integer array; r6 : integer array; pop - (9); when case 2 or false and 04 + 83300 = (921) and 5 or 0 - 2170 : while 7 : chillax end; while 75 : chillax end; let p = 9; pop; pop end end

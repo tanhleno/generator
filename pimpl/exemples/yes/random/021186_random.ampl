@@ -1,0 +1,1 @@
+program m1Ka : P : takes x, n : boolean array returns boolean kj : integer array; input qnG; let C = array 37 - 698; do Q43a(1 = 04, 7) end main : DZ4aa : boolean; input S[4 and n(586) rem true - (1)]; output - not 4 . - 4 . "1" . 8 end

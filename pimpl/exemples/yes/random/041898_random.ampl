@@ -1,0 +1,1 @@
+program r : F : takes b6 : boolean array returns boolean array when case true and 952 + 512 - 7950 <= - 96 : chillax end otherwise : chillax end; do d(- 48 = 0, 48400 = 20, 85) end main : when case - true or(3) and false : output ""; pop 1 end otherwise : chillax end; when case - true - Im or 1 - 9 > true - 050 - 92500 : do BW(4 = 6) end end

@@ -1,0 +1,1 @@
+program l : H9 : takes J : integer returns boolean array chillax end W : takes TK0 : integer returns nothing K4 : boolean array; JDE0a : boolean array; output "4"; while 548 = 7 : chillax end; let Q4C = 97700; pop end main : l, P, Cyea : integer; chillax end

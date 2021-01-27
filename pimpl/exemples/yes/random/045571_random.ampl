@@ -1,0 +1,1 @@
+program c : H : takes D : boolean returns boolean array UM, ql4a, o : integer; kzta, l3 : boolean; chillax end XiWa : takes G : integer; Lp : boolean returns boolean array T : integer; input B4 end main : let c = not false * (7) and 38500 + not 2 or 55 end

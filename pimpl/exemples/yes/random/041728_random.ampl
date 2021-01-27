@@ -1,0 +1,1 @@
+program zj : s2 : takes m5 : boolean array returns boolean array E36a : boolean array; X : integer; k4, gy, G6 : boolean; pop 366 - 5 end main : oox, k, l, K48, vCPa, l : integer; do xt6(Yo80a(5), false, not 8 = 5); while(6) and false and 71 or false and 44 : while 88 : chillax end end end

@@ -1,0 +1,1 @@
+program q : I : takes r, u450a : boolean; XB6aa : integer array; Y : integer array; eB, g : boolean returns boolean pop; when case - 8 - 8410 = 3 : do Rc3(4); output ""; pop end case 7 = 7 : chillax end case 787 : chillax end case 54 : chillax end otherwise : output "[\"!a" end; pop 25100; output 29; input M; while 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program y9 : p1 : takes jCzaa : integer; S : boolean array returns integer Z : integer; c, I : boolean; h7K, Q : integer; when case - 6 and 8 : chillax end end main : zI : boolean array; while - 9 and false or not not 5 = (32) * MR and 2 : do B(4 - 414 <= 198) end end

@@ -1,0 +1,1 @@
+program h : A : takes o : boolean returns nothing when case 39 and 32600 : pop 311 end; while - 5 <= 94 : do G4(26); do d4(75) end; let gFx[4] = array 6; pop 9870 end main : let ln = 52600 and 38 and 8 < - (4) or 3 end

@@ -1,0 +1,1 @@
+program l390 : wvA : takes Nt : boolean array; V : boolean returns nothing i0J : integer array; J : integer array; l4qaa, Q : boolean array; U, W : boolean; input p[false - 13 - 539]; while 2 < 4 : chillax end end main : while false * false / U7 and 0330 : chillax end end

@@ -1,0 +1,1 @@
+program p : X3 : takes w : boolean array; d : integer returns nothing chillax end main : F9 : integer; when case true and T2 / false : when case 7 : when case 1 : chillax end; output "" end otherwise : output "5"; pop end; input g[85] end end

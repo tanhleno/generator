@@ -1,0 +1,1 @@
+program Kj : m : takes VO5a, s : boolean returns nothing r : boolean array; j, F, I7R, v : integer; chillax end W2L0a : takes F : boolean array; jm : boolean array; O0La : boolean array; i9, B : integer array returns integer chillax end J : takes A : integer array returns nothing q : boolean array; y : boolean; F : boolean; do h(36) end main : chillax end

@@ -1,0 +1,1 @@
+program FWK : A5 : takes l, zL2a, H, r : integer array; g5u, P, n96 : integer returns integer array chillax end Vo : takes s, gC : boolean array; cO, p700 : boolean array; O : integer; B, fB, n, n : integer returns nothing output 7 = 3 end main : while - E(9, 946) * (5) * n and 9 or true * not 2 = false or not 6 and 1 : chillax end; input U28 end

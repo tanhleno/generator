@@ -1,0 +1,1 @@
+program Z_ : jn : takes Q, wR80, PUe, I, k : boolean array returns nothing x5, V, E : integer array; chillax end T9 : takes q, t : integer; c : boolean array returns nothing chillax end L7 : takes P : integer returns integer B : boolean; chillax end main : pop false > - not 4 + 3 end

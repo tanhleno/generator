@@ -1,0 +1,1 @@
+program w : J4 : takes Ou, l3, W_5 : boolean array returns boolean array while - (61) and 78 + 14400 <= - 3 - 029 : when case 6 : chillax end otherwise : chillax end; pop; do gI70(3) end; input B57[390] end main : h, uw7 : integer array; A : integer; while 56 * (0) : when case 04 : chillax end otherwise : chillax end; when case 5 : chillax end; pop end end

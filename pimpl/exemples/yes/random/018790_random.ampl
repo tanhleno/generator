@@ -1,0 +1,1 @@
+program g : M : takes y, o : boolean array; Imsa, E6, jQc0a, e8Xa : integer array; w, u76, Z3 : integer array; J, w4 : integer returns boolean array while - false >= - 15 - 13 : output "&" . "N" end; when case - 49 : chillax end end main : IT8aa, Ekw, Sc, x5y : integer; while - Oj4a[01000] - 9 rem false and 4 : chillax end; input Ek; output "" . 9 = 0 . "8" . 75 end

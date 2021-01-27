@@ -1,0 +1,1 @@
+program g : Q : takes r53, I : integer returns boolean h, p6u, H : integer; kp, a, R_, x : integer; J0 : integer array; v : boolean; k : boolean; pop 0 - 3; output 3 end main : when case not(390) - 5 or 4 and 212 > - (291) : while - 48 > 78 : pop end; input hx[0]; input e2Wa[8] end case - Y7 and true and 7 - qFL and 2 or 63 > - (64) + 4 : chillax end otherwise : chillax end end

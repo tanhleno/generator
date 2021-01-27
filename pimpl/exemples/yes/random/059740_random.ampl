@@ -1,0 +1,1 @@
+program BK : Io : takes k : integer array returns nothing chillax end W : takes hm6aa, f : integer; c : integer; R : integer; kg, _ : boolean array; f : boolean returns nothing d : integer array; chillax end main : let p[(5 = 322)] = array - true end

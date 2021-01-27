@@ -1,0 +1,1 @@
+program v1 : L : takes W, A : integer array; C4Qaa, qF, Y : boolean array returns nothing let a = 4 - 4 end y : takes CQ10, pA : integer; Nzw : boolean array; e, u9, O5, m : boolean array returns boolean array chillax end main : u : integer; input u890a end

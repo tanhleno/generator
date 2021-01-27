@@ -1,0 +1,1 @@
+program UV4 : main : u : boolean; when case(6 = 3650) * m(879) rem true and 824 + not 380 / (49) = false rem not 87 and 56 : while - 2 /= 8 : while 4610 : chillax end end; let x = 75 end otherwise : do _(5780, 8); when case 3 : pop end otherwise : chillax end end end

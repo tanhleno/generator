@@ -1,0 +1,1 @@
+program z : main : do G5(- (1) * (53) / true); do c(true = - (7) or 4, 582 and 2 >= - 578, 2 - 3); output - 4 <= 41 . "" . "\\" . 9 . "\""; while - 1 - 7 : chillax end; while 22 : chillax end; do T(9, 8); when case 87 : chillax end end

@@ -1,0 +1,1 @@
+program R3 : VNs : takes N : boolean array returns nothing let B[false or 220 - 2] = array - not 6 and 85 end H340a : takes y : boolean array; P, S : boolean array; zx : boolean array returns nothing chillax end main : chillax end

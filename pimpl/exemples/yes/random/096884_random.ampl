@@ -1,0 +1,1 @@
+program pwx : main : when case false rem false and true : when case 50 - 4 : output "7" end case 36 = 6 : let yyN0 = 25; pop end case 7 : chillax end; while 4 : chillax end end case - not v8 * false + u : output ""; when case 375 : pop end otherwise : chillax end end end

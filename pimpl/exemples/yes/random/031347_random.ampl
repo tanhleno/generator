@@ -1,0 +1,1 @@
+program P4laa : Z : takes l, h9 : integer returns boolean array s : integer; C : integer; R : integer array; E, s : boolean; nfN0 : boolean; chillax end main : while S[89] / m5O <= false rem w7 : chillax end; let xH = - not 14 <= 66 - 9; let LK = array(5) + 796; output ""; output 3320 end

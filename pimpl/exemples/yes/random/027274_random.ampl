@@ -1,0 +1,1 @@
+program l5 : zw : takes RuH, h : integer array; k, F7l0, o, I72 : integer array returns integer chillax end main : do U2n(- 9 or(70) * true and 3 < (456), false / not 23 and 3 = - true and 88000, true + 2310) end

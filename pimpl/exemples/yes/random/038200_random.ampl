@@ -1,0 +1,1 @@
+program zq0a : Bk : takes h : boolean array; nH4a, OE90a, N3 : boolean returns nothing while z : chillax end end U : takes V : integer array returns boolean q, lm0 : integer; D : boolean; w, l : boolean; PM : boolean; gRL : boolean; chillax end main : L : boolean; g, H : boolean array; pop - j[027]; let E[- not Dr4a and(06) and 74] = array(4) end

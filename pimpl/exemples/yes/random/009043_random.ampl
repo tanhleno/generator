@@ -1,0 +1,1 @@
+program i : w : takes v, i0Va, DKe0 : boolean; _E : boolean array; D, d6 : integer array; Y, x32, y : integer array; J : integer array returns nothing p7g, y : integer; chillax end main : y53, _87aa : integer array; while - 2 rem true / true or Gh4a(696) or Zt or 3 - 63 : chillax end; while N * true or true and 9 - 2 : pop 3; input Ru end end

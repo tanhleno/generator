@@ -1,0 +1,1 @@
+program s : b6l : takes z50, x : integer; _ : boolean; ZO, r210a : integer array returns nothing PJ, q, uk : integer array; while 71 : when case 86 : chillax end case 031 : chillax end end end main : xl : integer array; chillax end

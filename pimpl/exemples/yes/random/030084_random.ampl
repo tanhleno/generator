@@ -1,0 +1,1 @@
+program x : z64 : takes Gt, m : integer array returns integer Z : integer; _a00a : boolean array; o : integer; output - 9 = 7 . "`\"" end main : while 9 /= j(7) : chillax end; let X[- (1) - 1 and 9 or 4 - 050] = (4) < - 343 - 7 end

@@ -1,0 +1,1 @@
+program I : vvl : takes b : boolean returns integer array chillax end q1I : takes N5e : integer array; i, qQ6aa : integer; g2iaa : integer; o5z, Dn : boolean array; bQ, K, Am : integer; R : boolean returns integer array F6, t3laa, o8 : boolean; output 13400 . 2 end main : gP8, V, Q : boolean; chillax end

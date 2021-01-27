@@ -1,0 +1,1 @@
+program c : E : takes sh : boolean array; q : boolean returns nothing G6, BJ8 : boolean array; when case - 5 and 6 + 5 >= 18 - 01 : chillax end end b9u : takes me9, uJ, r4 : boolean; r : boolean array returns nothing output "" . 12 end main : when case false and(979) : chillax end otherwise : chillax end end

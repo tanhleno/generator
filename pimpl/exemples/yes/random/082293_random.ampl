@@ -1,0 +1,1 @@
+program i9 : main : fWQ : boolean array; let ty = - false / true or 2 and 95 or 877 - 4 > - not 59 - 50; when case - (1) - 799 and 882 : when case 9 : while 30 : chillax end; pop end case 73 : chillax end; output 6 . "8" end; when case - not 45 and 71900 or 72 > - 36 - 31700 : chillax end case 003 /= 500 : chillax end end

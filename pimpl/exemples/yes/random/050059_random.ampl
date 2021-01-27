@@ -1,0 +1,1 @@
+program h : RK40 : takes L : integer; vT9, E050, K : integer; nU9a : boolean returns integer let p2d = array false and 728; input KdE0a[- 6 - 1]; let A = 2; input r[6450] end main : Z, G23, p, H : boolean array; output "" . "" end

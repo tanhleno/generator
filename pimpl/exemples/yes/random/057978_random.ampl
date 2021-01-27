@@ -1,0 +1,1 @@
+program vM : Q : takes C : integer array returns boolean array pop end c : takes m25, V, t : integer array; b3taa : integer; j4 : boolean; P1, c : integer array returns boolean while 8 - 12 : chillax end; input L[361] end main : jc, k6 : integer array; Ll4a : boolean; cOs : boolean array; y : integer; E7O, H : boolean array; chillax end

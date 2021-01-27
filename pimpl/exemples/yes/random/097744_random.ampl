@@ -1,0 +1,1 @@
+program vY80a : main : while(2810) + 8 - true and 7 < 13 * true or(6) or 1 : output 6 . 5 . 70; pop; when case 4870 : pop end case 175 : chillax end end; while s[2] * w or(3340) or 303 - 66 : chillax end end

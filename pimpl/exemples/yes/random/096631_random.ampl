@@ -1,0 +1,1 @@
+program n : main : when case - true : when case 9 - 3 : chillax end case 5 = 6 : chillax end otherwise : input M end; when case 67 = 7 : input rOC; pop end otherwise : chillax end end otherwise : input u; pop 9 end; do a1taa(- 0 <= - O + 5, w and 96 + 5 - 2) end

@@ -1,0 +1,1 @@
+program d6 : fG2aa : takes y3, C, f : integer array returns nothing r, b : boolean; chillax end W : takes JY_aa, Y : boolean returns nothing Z : boolean; chillax end m : takes wK, lG40a, e, a : boolean array returns integer array L310a, q, D6 : boolean array; chillax end main : output "\tW\"a" . ""; let F = not 9 and 15 or 74 - 0 end

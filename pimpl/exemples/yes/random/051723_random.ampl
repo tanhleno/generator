@@ -1,0 +1,1 @@
+program M : ek : takes PT8 : integer; aB : boolean array; X5e : boolean; RIVa, k3, w : boolean returns nothing Ha, h8p0a : boolean; chillax end main : pop - 6 = - not 9 or 9 - 7; output ""; let EPfa[3 + 1 - 1] = array - (8) and 3; pop 482 end

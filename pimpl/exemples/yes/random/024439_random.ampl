@@ -1,0 +1,1 @@
+program cg : j : takes o3, z31 : boolean returns nothing c : boolean; r3 : boolean; R : boolean array; do NF3(true and 09700 >= - 33) end main : Y, GHaaa : integer; O5, Uu, L, O, Q, c39 : boolean; while(9) / (27) / (9) - e - 092 < qt[4] : chillax end; pop end

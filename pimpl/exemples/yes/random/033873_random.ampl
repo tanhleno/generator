@@ -1,0 +1,1 @@
+program p : i4o0 : takes BF4aa : boolean; hD, g, Fc7a : boolean array returns integer array pKkaa, F9Aaa : boolean; RQ, G : boolean array; let iIQ = array not 7 and 78 end main : when case not 86 or 0 * false and 4 + not 0 - 778 - 7 : output "}8" . 4 . ""; input pE1 end case - true and t + 49 or 78700 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program d : K3 : takes N3 : boolean array returns integer array chillax end z0 : takes T : integer; W : integer array; G : integer returns boolean chillax end main : x : boolean; do f1(false + not not 9, (8) and(0) - not 996 /= - not 1 and 0, (2) and 3 > 5, 422 - 25, 4) end

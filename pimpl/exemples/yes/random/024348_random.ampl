@@ -1,0 +1,1 @@
+program U : e : takes ST, O : boolean returns nothing b2X, J1v : integer; input I; when case - 0280 < 1 : chillax end case 8 : when case 6 : chillax end; pop end case 0360 : pop end case 79 : chillax end; while 99 = 282 : chillax end end main : chillax end

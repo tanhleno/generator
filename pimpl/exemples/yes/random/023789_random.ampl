@@ -1,0 +1,1 @@
+program A : L : takes Y, A : boolean returns integer y : integer; E : boolean; j : integer; T0Uaa, j : boolean; w : boolean; k : boolean; pop - 53100 - 433 <= 2 end main : do cU(- false * true / true and 5 = - not true and w and 94); while - false rem not 2 and 3 or false : input Li end end

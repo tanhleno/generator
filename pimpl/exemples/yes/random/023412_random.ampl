@@ -1,0 +1,1 @@
+program a : m : takes W, sSm0a : boolean returns integer array chillax end main : t39, b6, a6 : integer; DB : integer array; when case - false rem true - false or(71) and 32200 : let FA[2 - 47] = 27900; while 9 = 9 : chillax end end end

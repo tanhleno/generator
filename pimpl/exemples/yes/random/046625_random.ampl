@@ -1,0 +1,1 @@
+program X6 : q2 : takes B : boolean returns integer array bD, aH0 : integer array; chillax end main : fh, i, A, m : boolean; pop - not false / false + (20) = (3) + 9; output(5); pop - 2 - 6 > 5; do c(5 > 55, 0890) end

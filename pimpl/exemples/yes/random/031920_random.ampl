@@ -1,0 +1,1 @@
+program J7 : L : takes qW, lA : integer returns integer array when case - true and 05 > - 34 - 7 : chillax end otherwise : pop end end main : input p[not H(1) and not not 2]; pop; output - 64500 < 992 . 8; pop end

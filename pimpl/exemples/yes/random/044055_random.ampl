@@ -1,0 +1,1 @@
+program Sd5 : br : takes q : boolean array returns nothing U, N4, k : boolean; jL6 : boolean; Y, q, z1 : boolean; L : boolean; let m6[- not 9 or 5] = array - true and 9 + 6 - 70 end main : chillax end

@@ -1,0 +1,1 @@
+program j8p : main : R : boolean; when case - (7 = 9) and f(8) - Q[0] or not 26 + 8 : input b[0] end case - uB6 and true and 509 - false and 6 <= - true and 1 : chillax end; output - false and 9160 < - 0 - 2 . - 3 <= 59800 . "" . 5100; do d(- A + 6 < 14500, 08) end

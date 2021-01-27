@@ -1,0 +1,1 @@
+program C2 : main : while(9 = 40400) and(3) - (8390) + true : pop 1 = 75; do Q(65, 9); let Tu[70] = array 5; do IEd(31); output ""; pop end; while T + (85400) and 5 + 1 : output 2; input E[10600]; while 7 : chillax end end; output ""; let q[- 1] = 3; output "}"; when case 35 : chillax end case 8 : chillax end otherwise : chillax end; when case 7570 : chillax end end

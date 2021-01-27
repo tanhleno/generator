@@ -1,0 +1,1 @@
+program BM : main : h : boolean array; e : integer array; e, i6 : integer array; aK, KAw : integer array; M, p, I : integer array; P, lBha : boolean; pop true - not 00500 and 3 <= C and 05 + 54 - 877; pop; pop; while - 62 - 54 : output "X"; let o = 2 end; when case 8 = 3 : output "Z" end; do b(71700); let pS = 4 end

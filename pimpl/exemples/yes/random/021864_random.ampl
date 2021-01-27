@@ -1,0 +1,1 @@
+program F : Q : takes F, lJ8 : boolean array returns nothing chillax end S : takes V1, hgF : boolean returns nothing W45, KEM : boolean array; chillax end main : _J : boolean array; V, u : integer; pop; let xS = array - true; while - true : input F[2] end end

@@ -1,0 +1,1 @@
+program fNk : s : takes I, Q3 : boolean array; O, h, Z : integer array; k : integer returns nothing do j10(- 3020 and 0 /= - 93) end H : takes C : boolean array; Ht : integer array returns nothing chillax end D7Va : takes C, hA : boolean; f2 : integer array; Q17 : integer; w, _5A : boolean array returns nothing chillax end main : X, Q990 : boolean; chillax end

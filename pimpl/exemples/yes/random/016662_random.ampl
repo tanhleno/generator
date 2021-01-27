@@ -1,0 +1,1 @@
+program YeX0a : M2 : takes xQ5, Q : boolean; uqk0a, Xn, ii, z3, zx, I6, X : integer returns integer Q9j0 : boolean; o : integer; chillax end main : a : integer array; do R(true or U(871) and true and 3 or g5 and 08 - 1, (9010) * 6, - not 4 <= - 02, 2 /= 7); do Gp6(not true rem true and 52 < - not 2 and 08, false); while false : chillax end; output 330 = 89 end

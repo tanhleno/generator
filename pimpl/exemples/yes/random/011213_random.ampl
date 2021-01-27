@@ -1,0 +1,1 @@
+program D : d : takes g, D, y3E0 : boolean array returns nothing U, Rny, M : integer array; chillax end Z : takes ra : integer array returns integer array input h; pop 28500 end O : takes J : integer array; a, E4Kaa : boolean array; H, H0u, z : boolean array returns boolean array chillax end main : f : boolean array; input V; input Vr[- not 49 or not 5 and 2 + 1 - 1] end

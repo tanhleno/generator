@@ -1,0 +1,1 @@
+program T : f : takes FW, q : integer returns integer g : integer; X8 : integer array; E, c, j1c0a : integer array; while - not 850 and 861 < - 5 - 8 : chillax end end r : takes c : integer array; Fy : integer array; U5, I : boolean array; K9 : integer array; n, J0, f : boolean array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program t2 : main : d, w62a, Z, O : boolean array; t, n320a : integer array; pop; while - not(6) * true : do c(98100 = 89, 6, 5) end; when case - not 1 or 6 : pop; input v6; while 19 : chillax end; pop end case 97 >= 8 : do i(94400) end end

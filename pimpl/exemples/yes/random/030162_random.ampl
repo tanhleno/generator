@@ -1,0 +1,1 @@
+program M8 : t6 : takes q3q, a : integer array returns integer while - (6) and 20 > - 133 - 0 : do O(0, 6) end; let G = 0 = 7 end main : pop - F; let v[- true rem 4820 and 69 + true and 04 - 4] = array D(683) end

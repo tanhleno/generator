@@ -1,0 +1,1 @@
+program Db : A : takes o5 : integer; K3A : integer array returns boolean q : integer array; let K = 419 - 036 <= 44; pop 7 end t : takes R1, JKvaa : integer array; Hi, v : boolean; K3 : integer; F3W0, D : integer returns nothing when case - 995 - 16 : input B end case 44 : chillax end case 4 : chillax end otherwise : chillax end end main : chillax end

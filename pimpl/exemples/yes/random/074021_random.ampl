@@ -1,0 +1,1 @@
+program q : main : m, p : boolean; Z9 : integer array; U, h : integer; m_ : boolean; X, Gx, g : boolean; i19aa, lj : boolean; let i = array - 8 rem true / true or true; pop - 3 or 708 /= - 1 - 84 end

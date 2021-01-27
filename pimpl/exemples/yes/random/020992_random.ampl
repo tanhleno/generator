@@ -1,0 +1,1 @@
+program rU : N2faa : takes J, H : boolean array returns boolean array pop; pop end bF : takes F3, u : integer array returns nothing w7, a, i : integer; rO6a, w : boolean; z, khAaa : boolean; chillax end main : W450, b : boolean array; pop false rem 11 and 4 end

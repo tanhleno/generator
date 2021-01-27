@@ -1,0 +1,1 @@
+program l : p1 : takes j, j, B : boolean; o6i, e_9 : boolean; uM, x, B, X5 : boolean array; y83a : boolean array returns integer N, sb90a, d, u : integer array; chillax end C9 : takes a, t9B, s1 : integer; k, q, qPk, xC, GbW, wk : integer array; q, o : boolean; d : boolean array returns boolean array chillax end main : L, r : boolean array; output "\"3!a" end

@@ -1,0 +1,1 @@
+program y : main : q, dl, W, J, U : integer; zT, J : boolean; P, u, K62, t8, h4E0 : boolean array; D : boolean array; a : integer array; u : boolean; do X8S0a(not false / not true * 36 and 9, nt(5) * 9 and 11 + not 5 and 5 - 2 <= false and 3, false + 3 - 742 /= 6); pop end

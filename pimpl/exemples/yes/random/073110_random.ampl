@@ -1,0 +1,1 @@
+program pO : main : c2, X03, pmw : integer array; output 4 rem X79a <= not 4 and 7 + 781 . - true or 5 - 78 > - 46 - 2; let R = - false > - 11 - 9; do UVt(- not 4, 7770 /= 6, 510); while 754 : chillax end; pop 30; when case 38 : pop end otherwise : chillax end end

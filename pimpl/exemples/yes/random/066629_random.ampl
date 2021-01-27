@@ -1,0 +1,1 @@
+program t3 : main : do H(- 6 - false); when case 2160 - not 544 and 2 or 3 < - not 5310 and 44000 : pop end case true and 8 - 3 = - 02 - 9 : chillax end case 409 - 476 >= 4 : do tgd(0750) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program gkB : main : n : integer; k, h3, h : boolean array; while 4 or fx(80) + not 17 : chillax end; do b7(- true and false = - 9 and 68, not 67000 and 2 - 6 - 34 > - 0); let L[- d and 765 + 05 - 8470] = 15 >= 09; pop 89900 end

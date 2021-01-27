@@ -1,0 +1,1 @@
+program N : y9vaa : takes O, Z4 : boolean array; a0D : boolean array returns nothing cQ3a, u : boolean array; C, D, hs90 : integer; c4 : integer array; B : boolean; QF : boolean; Zy : boolean; chillax end main : v0 : integer; let K[- 5270 + not not 21 or i] = array true and 04; let I[- (7) - false + 3780 - 7] = array(18900) and 8 and 875 or true and 497 - 189 end

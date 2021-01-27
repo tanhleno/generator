@@ -1,0 +1,1 @@
+program q : main : nS_0a, D8 : integer; X : integer array; bm20 : boolean; h, R4D0a : integer; Y : boolean; while - false and(47) / V98aa and 1 : chillax end; output "" . "\"&" . 7; do Z9(- (172) and 2); input F[- 39400 - 55]; let I = array 6310 end

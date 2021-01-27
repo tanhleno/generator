@@ -1,0 +1,1 @@
+program b : main : L6 : boolean array; when case - not true - not false / 62900 and 01 : when case 93 - 2 : while 96 : chillax end; input w1ca; pop end otherwise : pop end end otherwise : chillax end end

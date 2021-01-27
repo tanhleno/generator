@@ -1,0 +1,1 @@
+program F6 : H : takes A5u, q : boolean array; z : boolean; E, V5, K : boolean returns nothing s : boolean; chillax end cToaa : takes K : integer; _Q0a, GE, g : boolean; E : integer array returns nothing do A(- 1130 < 0, 781, 0, 1); while 9 = 9 : let b = 8; pop end end main : chillax end

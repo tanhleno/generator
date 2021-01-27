@@ -1,0 +1,1 @@
+program G : l : takes T6Q : boolean returns boolean e, f : integer array; output "" . 86 = 1 . 2 . 264; do F(1 - 1330, 8); input gS[0]; while 28 : chillax end end ga : takes RS : integer returns integer X : boolean; A, S97a : integer; chillax end main : I, V6 : integer; chillax end

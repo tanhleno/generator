@@ -1,0 +1,1 @@
+program V : D0 : takes RBX : boolean; d6, JO3 : boolean array; e, G70, N, N, r, B : boolean array; C : boolean array returns nothing let QqB0a[- true or 2 - 25] = array 9 and 9 - 7 - 75 end j29 : takes M9 : integer; f, S7 : boolean returns nothing chillax end W : takes u1 : boolean returns nothing while 2 : chillax end end main : nlw : boolean array; chillax end

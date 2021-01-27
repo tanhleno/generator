@@ -1,0 +1,1 @@
+program p : A : takes b : integer; x, A : boolean returns nothing yn, x, leK, E4 : integer; Q, w36 : boolean array; let bt[true and 9 - 7] = array - P0 and 0; when case 5 > 96 : chillax end otherwise : output "F5"; pop end end main : ky : boolean; A, pQy0, i : boolean; output "\\X!" end

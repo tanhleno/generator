@@ -1,0 +1,1 @@
+program lW : Xa2 : takes a, SGO, Iv : integer; Q, BY, xXU0a, PD9 : boolean; t6, ck60, v : boolean array returns integer array let P[- (3) and 8] = array - true and 5 + 7 - 6 end main : U : boolean array; pop; while true * (09) and 596 = - false and 24700 or 981 - 74000 : output "{"; input t9[2]; when case 595 : chillax end end end

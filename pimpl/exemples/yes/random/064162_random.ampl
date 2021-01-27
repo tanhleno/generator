@@ -1,0 +1,1 @@
+program hP : zIZ : takes Ep : integer returns nothing D, y, IW, cB, W4 : boolean; do g5(- false and 0 + 1 - 91 >= 520); let tEJa = 887 end na6 : takes c : boolean array returns integer array F26aa : integer array; rp : integer; B : boolean; A : boolean; J : boolean; chillax end main : x0 : boolean array; A : integer array; z, c2 : integer; chillax end

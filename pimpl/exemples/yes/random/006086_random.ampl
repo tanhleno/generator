@@ -1,0 +1,1 @@
+program Y : D : takes L, o2, K0m, C : boolean returns nothing chillax end h8 : takes o, On50a : integer returns nothing while - 3 - 80500 : chillax end end main : K : integer; y, T06aa, RVEaa, h : boolean; do L(- 29 rem(7) rem 0210 and 635 - i or 4 and 194 or 222 >= 6 - (38)) end

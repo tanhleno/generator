@@ -1,0 +1,1 @@
+program D : n19 : takes iiX, N, p, f, XN6, iR2aa : boolean returns boolean c, X1, G3na, C : boolean array; chillax end g : takes A : integer; z01aa : boolean array returns nothing w, S : boolean; y, Ft : integer; do Ab(- 56 - 27 /= 8) end main : chillax end

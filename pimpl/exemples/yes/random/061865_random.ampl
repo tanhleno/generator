@@ -1,0 +1,1 @@
+program p : X : takes E7T : integer returns boolean array sW, f6 : boolean; when case - not 77000 and 5020 : input zP end otherwise : pop; let QG = 395; pop end; when case - 14 /= 4440 : do bP(63000) end case 5 : chillax end otherwise : pop; pop end end xb : takes t : boolean returns integer chillax end main : kJ, I11aa : integer array; chillax end

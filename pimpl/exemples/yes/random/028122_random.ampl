@@ -1,0 +1,1 @@
+program N : bz : takes S, B0 : integer array; j7U : boolean; I, vI, oe, Q : boolean returns nothing chillax end k : takes b, J, w : boolean array returns nothing chillax end main : output - true or not 219 + 841 end

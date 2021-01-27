@@ -1,0 +1,1 @@
+program hD9 : F7F : takes v, g : integer array returns integer XL : integer; when case - false /= 084 : input C[1] end case 47 >= 7 : chillax end end main : B, wn : boolean; do N7ea(true and not true / not 9) end

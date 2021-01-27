@@ -1,0 +1,1 @@
+program I : C : takes U, U, i : boolean returns integer array chillax end main : hr : boolean; while 8 and rz4(0) /= 1 / false and 4 : chillax end; do J(- (7) or(8) or 23); output "" . "F" . "" . 5; output 61800; do YyW(8); pop 89300 end

@@ -1,0 +1,1 @@
+program T : I : takes X6i, s, ur, Ha1aa, U : boolean array; V9h, G, G3, D5, z : boolean; gtq, JXg : boolean array returns nothing a, G, b : boolean array; E : boolean; he : boolean array; U, j : boolean; j : boolean; do g950((299) /= - 594 - 363, - 87 < 6590, 0 = 2) end main : q, t, k, sV : boolean array; chillax end

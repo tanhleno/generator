@@ -1,0 +1,1 @@
+program r8 : o2 : takes F, p : boolean array returns boolean array chillax end _J : takes M9W, x8aaa, S, r, C, K3 : integer array returns boolean array output 8 . "" end main : do F(not true < - P or false - 18 - 8) end

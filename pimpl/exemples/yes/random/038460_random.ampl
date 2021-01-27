@@ -1,0 +1,1 @@
+program u : pAZ0a : takes x : boolean array; W, C : boolean; R, n930, Av, YC : integer array returns nothing chillax end A6h0a : takes Sq : boolean; I6 : integer array; vXO0a, w, w : boolean array returns nothing cE, a, h : boolean array; w2, g51a, E : integer array; do O8(- 6, 38) end main : chillax end

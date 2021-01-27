@@ -1,0 +1,1 @@
+program brr : main : z : integer; Z : boolean; when case - true or false : chillax end otherwise : when case 9 = 5 : output "*" end case 1 : chillax end case 2 : chillax end otherwise : pop end end; do g(32 + 61000 and 3 /= l2 + 0); input U9[- true and 9 or 0 - 3] end

@@ -1,0 +1,1 @@
+program _ : X : takes D : integer array returns integer chillax end Z : takes l4, I : integer returns boolean array chillax end main : q470, aIoa : boolean array; when case - (69 = 09100) <= true and 8 and 51 or not 027 : output "0" . 2 . "0" end end

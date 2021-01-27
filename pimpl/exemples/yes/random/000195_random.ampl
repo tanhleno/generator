@@ -1,0 +1,1 @@
+program q : l : takes R25, P, l, x, D, f4, L9, Y : boolean array returns nothing Q, t, r4, y, F3x : boolean array; N : boolean array; chillax end main : let S[- not false] = array - (6 = 92) or true and 2 and 5360 + dr or 2 end

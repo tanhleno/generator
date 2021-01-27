@@ -1,0 +1,1 @@
+program j : VFta : takes bv, v2 : integer array returns nothing chillax end main : pop - c[1] <= G0; while - not true / 49 and 91 - false > - X and 6 : while 9 = 53 : while 53 : chillax end; pop end; let D[0840] = 2 end; let Y = 09 > 9; input f; do v(8); when case 3040 : chillax end; pop; when case 4 : chillax end; pop end

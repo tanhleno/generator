@@ -1,0 +1,1 @@
+program U7 : WOe : takes e4g0 : boolean; a, t1, F, x, N9xa : boolean array returns boolean array chillax end U : takes lsZ0 : integer returns nothing chillax end main : do o310(- c1c[2], - 3 /= (1) and 3) end

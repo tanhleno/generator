@@ -1,0 +1,1 @@
+program U8U0 : Z : takes R, V : integer returns boolean array chillax end Hvu0 : takes KB, AS : boolean; n, C, C51, E, Y4 : integer array returns integer array a, Bp00 : boolean array; pop 04 end main : Q : integer array; chillax end

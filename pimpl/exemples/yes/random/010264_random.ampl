@@ -1,0 +1,1 @@
+program Sn : Km : takes b, A6, Q010 : boolean array; w : integer; VU3, o : integer array; dn, j56, U, C : integer; M : integer array; I34 : boolean; C, n : boolean returns integer array Kn, m0, m4ea : integer array; chillax end main : V, H4Maa, c0, t, Z : integer array; chillax end

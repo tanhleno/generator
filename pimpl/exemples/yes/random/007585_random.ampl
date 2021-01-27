@@ -1,0 +1,1 @@
+program O7 : rK60 : takes Ev, H8, s, f : integer array returns integer chillax end a8 : takes xK : boolean array returns nothing h, L : boolean array; Z : boolean; Y, l600a : boolean; e4 : boolean; chillax end main : chillax end

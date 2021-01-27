@@ -1,0 +1,1 @@
+program L4 : main : j6 : boolean array; output "" . "7" . ""; do D65(b + not 3 and 4 < - (88), - true, - 0 = 9); when case not 5 and 41600 + 71 - 84900 >= 9 : chillax end case - 38 - 5 >= 0 : when case 15 : chillax end; pop; pop end end

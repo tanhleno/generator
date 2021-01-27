@@ -1,0 +1,1 @@
+program i : jG : takes L, F, g, a43aa : boolean; A, r, Y440a : boolean array; Cp3, N : boolean; oy, Z8, r, G, glI : integer returns nothing tV40a : boolean; do u83aa(- (4) and 66, 04 <= 934); while 556 - 59 > 70700 : while 8 : chillax end; input X; pop end; do q(52); when case 6 : chillax end case 20 : chillax end otherwise : chillax end end main : g : boolean; chillax end

@@ -1,0 +1,1 @@
+program YE : main : when case - N or(9) - false - 8 - 03 : let J = 834 = 2; do A(90, 95); input BZE0[22700] end otherwise : while 733 = 73 : chillax end end; do d(false, false and 1 <= 416 - 726) end

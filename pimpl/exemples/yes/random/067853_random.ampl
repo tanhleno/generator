@@ -1,0 +1,1 @@
+program o : main : do RRe0a(true > not not 4 - true, - true or OCE0 + 8); when case - not not 85 and(84) - true and 1 + 8 - 7 : chillax end case O - 4 : chillax end otherwise : chillax end; pop 119 - 6 end

@@ -1,0 +1,1 @@
+program kQ : PJ2 : takes T2 : integer array returns nothing x : integer; while - false and 14 : chillax end; do B(631 - 403 <= 9, 65700 = 761) end r : takes i : boolean returns boolean array J900 : integer; input S; output "" end main : chillax end

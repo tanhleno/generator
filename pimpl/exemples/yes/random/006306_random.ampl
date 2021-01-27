@@ -1,0 +1,1 @@
+program V : z : takes jQ50a, s, o, O : integer; JB0, aF1, WX, J, C, nZx : boolean array; H, RDo0a : integer array returns nothing H4, Pwp0a, a : boolean array; z, J : integer array; chillax end main : output "0,"; input p[- true and 18 and 62] end

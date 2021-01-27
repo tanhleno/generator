@@ -1,0 +1,1 @@
+program T : U : takes pk10 : boolean array returns nothing I : integer; chillax end main : ta : boolean; while - not true or M[6] and true or not 89400 and 5 > - (4) and not 28 and 2 : while 22 >= 12 : output "" end; pop; when case 0 : chillax end case 7 : chillax end otherwise : chillax end; input R; do k(99); pop end; let R = array 3 / not 2 - false and 94 end

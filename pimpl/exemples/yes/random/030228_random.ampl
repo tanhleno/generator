@@ -1,0 +1,1 @@
+program R : Qis : takes D, D4 : integer array returns nothing chillax end qgD : takes mwq, w : boolean array returns integer pop 6810; let J1[9] = array 32; output 63 . "k" end main : S, od, w : boolean array; xUiaa, Kq4aa, zQ, E : integer; N, u : boolean; j3h, O : boolean; output "" . ""; do vVA(- 93500 + true and 09300 or 72 <= - (9) and 2 + 48) end

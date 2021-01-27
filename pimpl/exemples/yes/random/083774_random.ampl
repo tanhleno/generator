@@ -1,0 +1,1 @@
+program V : main : hz0aa : integer; O, S : integer array; K4, l, T, F1, b4E0a : boolean array; RZ : boolean; O, Q, T65 : boolean array; m, y : boolean; z7 : boolean; I : boolean; output - true / (4860) . ""; input l[- true / true]; while r and 1640 - 262 - 1 : chillax end end

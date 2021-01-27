@@ -1,0 +1,1 @@
+program a0 : A : takes c : integer returns boolean array chillax end U : takes W : integer; a : boolean returns integer array chillax end main : hU : integer array; B3, p : integer array; output - (1) - not 0 - 6; input B end

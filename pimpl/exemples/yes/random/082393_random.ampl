@@ -1,0 +1,1 @@
+program WX : main : yj20 : boolean array; let N9p[- not false rem true rem not 1 and 24] = array - not 4 and 6 / 0 and 18 or true / ev and 76 - false or 9 - 4; let oz7[- false and(3) and 38] = not 295 and 1 end

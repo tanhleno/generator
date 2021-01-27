@@ -1,0 +1,1 @@
+program W : Q : takes R, h : boolean array; yT4aa, W5 : boolean array; a : boolean array returns nothing m : boolean array; A, HL : integer array; while - not 048 : input PP end end main : T, o : boolean; p290a : boolean array; lhe, t9 : boolean array; chillax end

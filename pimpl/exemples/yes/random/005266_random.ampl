@@ -1,0 +1,1 @@
+program r : g : takes P, m5k0, U9, ZLHa : boolean array returns boolean array S, H, r, o5W : boolean; when case Zf : chillax end case 6 <= 42 : chillax end case 2 : input i; pop end case 6 : pop end end main : chillax end

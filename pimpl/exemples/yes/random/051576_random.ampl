@@ -1,0 +1,1 @@
+program K : U : takes R58aa : integer; nl : boolean array; d, WT, b, d, r, Uj : integer array returns integer array let DCt[- 11 and 6] = array not 23; pop 3 = 8 end i : takes f, MV3, GT, F : integer array; y, m : boolean returns integer pop 6 end main : chillax end

@@ -1,0 +1,1 @@
+program t : main : b0 : integer; when case - 52 rem 73 : let QZ70a[03200 - 35700] = 8 end case - not not 3 / false and 49 or true : chillax end otherwise : chillax end; let A = array - false or(4) + 61; output 1500 <= 80 . 03 = 9 end

@@ -1,0 +1,1 @@
+program tpL : main : P, r, yd3, U : integer array; c, G, _0, _V : integer; N : integer array; t, p550a : boolean; when case j(290) < true rem(74) : while - 9 - 734 = 6 : chillax end; let M = array 36400; pop; input uQ30a end otherwise : let P = 5; when case 37600 : pop end end end

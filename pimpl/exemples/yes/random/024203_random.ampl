@@ -1,0 +1,1 @@
+program m : iQAaa : takes N, F : boolean returns nothing a, sa, z, a : integer array; K, B : boolean array; b, N, n1 : integer; r4a : boolean; chillax end bUr0a : takes x5, r, Oh3, D3r : boolean; t1, R, k_h : boolean returns nothing do E2n(140 = 4, 65700 = 6); do K3H(78 = 4, 701) end main : Q5, H : integer array; output - (5) + (28) and 5820; input VVJ end

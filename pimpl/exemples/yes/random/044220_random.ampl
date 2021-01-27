@@ -1,0 +1,1 @@
+program cp : O : takes IV : boolean array returns nothing hQ, g : boolean; when case 6 and 5 + 9 - 7 : when case 20700 : pop end case 828 : chillax end otherwise : chillax end; while 330 : chillax end end; input F[- 2 - 63] end H43aa : takes gO : boolean array; xl2aa : integer array returns nothing n, rv9 : integer; input Rti end main : chillax end

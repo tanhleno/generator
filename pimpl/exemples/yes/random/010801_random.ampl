@@ -1,0 +1,1 @@
+program L8 : g : takes RK9, e0, G0aa : boolean array returns integer array chillax end main : x98 : integer; WZ6 : boolean; do U7(l_p0a[1010] / (51) rem false = - true + 6 + 364 - 2); pop - true and 0250 or 5; input F[- false] end

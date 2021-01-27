@@ -1,0 +1,1 @@
+program qR : main : Re5a, b : boolean; K800a : integer; input _2; when case not q2 : output 02 . "K" . ">40a"; let k = array 6; input Hb end case W and 7 > - 53500 - 00 : chillax end case - 4 - 0 < 0 : when case 0 : chillax end; when case 2 : chillax end; pop end otherwise : chillax end end

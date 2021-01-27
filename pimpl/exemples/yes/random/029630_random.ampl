@@ -1,0 +1,1 @@
+program r : _7 : takes dd, J : integer array returns boolean let m[- not 5 and 3 + 4] = array 2 end Dyoa : takes V, e5 : integer array returns nothing let G5 = array - 5 end main : W : boolean array; m, Z, y5o : integer array; I, r : boolean; chillax end

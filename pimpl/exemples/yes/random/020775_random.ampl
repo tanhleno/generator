@@ -1,0 +1,1 @@
+program b : exs0a : takes d1, m : boolean array returns boolean array chillax end vqP : takes k3, Y, y84 : boolean array returns nothing _ : boolean; _ : integer; B : boolean; K : boolean; J : boolean; pop; let X3Ua[3] = 0980; input L9 end main : S3, N, g3 : boolean array; chillax end

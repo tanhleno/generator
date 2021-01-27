@@ -1,0 +1,1 @@
+program T : main : when case true or 13 rem true and 0180 < false / (6) or true or 48 - 8 : pop 43 = 66400; let J[1] = array 27700; let Msx[35] = array 8; output "*"; while 5 : chillax end end case false - 03 and 7 or 43 = - true or 56 : input p28 end otherwise : while 0570 : chillax end; do H(3740, 38) end end

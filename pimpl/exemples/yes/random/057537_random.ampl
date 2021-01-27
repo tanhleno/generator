@@ -1,0 +1,1 @@
+program K2 : S0g : takes z : integer array; t : integer returns nothing g : integer array; I3, xj : integer; output - 71 - 7 > 74; while - 75 : let D = 633 end; do f(0810 = 3, 0) end main : J, W : boolean; h, bYI : integer array; while - false rem(15400) rem(16) and 26 : chillax end; do N(- 3 + false and 05 - 3 > true - 3) end

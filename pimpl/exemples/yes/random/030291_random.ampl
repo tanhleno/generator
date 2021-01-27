@@ -1,0 +1,1 @@
+program GyG : V : takes o0, S : integer array returns nothing chillax end B : takes uCw : integer array; y0la, cS20, EX : integer; Yf, j, U, Z, T4 : boolean; A52a : integer; vsM : integer returns nothing chillax end main : h, x, x : boolean array; A : integer array; X9z : integer array; y, H3, x : boolean array; Fi : boolean array; V : boolean; chillax end

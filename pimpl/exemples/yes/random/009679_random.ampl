@@ -1,0 +1,1 @@
+program UWga : i3 : takes C, eW, Lh9 : boolean array; os10a, L, e94 : integer array; G, dv80a, g, P, w, e5 : boolean returns nothing O5Da, my : boolean; output 3 - 83 <= 22 . 48 = 1 . 09 . "j" . "\n/!a" end Z : takes d, z, RMMaa : boolean returns integer array t1x0 : integer array; pop 8 end main : iZ5 : boolean array; A9 : integer array; chillax end

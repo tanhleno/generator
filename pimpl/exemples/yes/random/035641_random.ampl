@@ -1,0 +1,1 @@
+program f : Q9 : takes gS : boolean; E60 : boolean array; f, o1 : boolean; O, U, e0, TI : boolean array returns nothing let r4 = - 6 end h : takes K7jaa, m, C : boolean array; iE : boolean array returns nothing h, b0 : boolean; pop; output 8 end main : _, K : integer array; input G[- RJ6aa[17800] / true or not(65) / m and 302] end

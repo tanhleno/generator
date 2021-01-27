@@ -1,0 +1,1 @@
+program U09 : eaV : takes Y : boolean array; q : boolean array returns nothing z, WLI : integer; chillax end main : let o[- (46 = 3) + true rem false and 869] = array NJq(5) rem h65(1) rem not 7 and 8420; output "" end

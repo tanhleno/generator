@@ -1,0 +1,1 @@
+program H : I : takes o : integer array; l8 : integer array; Z : boolean array returns boolean input U4 end l1 : takes iO : integer array; H, q : boolean array; g, X, n4, cF50 : integer; F : integer array; l : boolean array returns integer output 2 = 7 . 9 end main : chillax end

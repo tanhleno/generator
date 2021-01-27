@@ -1,0 +1,1 @@
+program t : _Mb : takes u : integer; S : boolean; A, w, w : integer; V2Q, IHl : boolean array; m, j : integer array; x, Fo1 : integer returns nothing W : integer array; eQ70, pLB0a, q08a : boolean array; P0, M, N7 : boolean array; do G(- 6340 and 1, 3 - 3) end main : chillax end

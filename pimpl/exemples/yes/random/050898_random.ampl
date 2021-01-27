@@ -1,0 +1,1 @@
+program Jg : T : takes V : integer; F, b : integer; Q4 : integer; H, O : integer array; Y9 : boolean; m : boolean; z, d : boolean returns integer array while - false and 2 - 6 : chillax end end main : a70, fz, U : boolean array; DrY : boolean array; output "" . false and 84 + 0 - 5 . - 81 . "" . "" end

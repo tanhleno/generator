@@ -1,0 +1,1 @@
+program oo : fI : takes BX : integer array; l, x : integer; f : boolean array returns nothing Y, YyI : integer; chillax end V : takes ogs0a, Y, Q8, v, g9 : boolean returns integer vi, r18, G, TQ9 : boolean; u1, H, Pr8a : boolean; u7o0a : boolean; O : boolean; x : boolean; let J = 1 = 69; input EUm[57]; when case 047 : pop end case 5 : chillax end; pop end main : chillax end

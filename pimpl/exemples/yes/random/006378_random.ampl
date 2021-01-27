@@ -1,0 +1,1 @@
+program n4F : Ywwa : takes c, M, e, L60 : integer; k, M, dl90a : boolean array returns nothing d, R : boolean array; pop - 4 > 1; do E(58 - 21, 5 = 5, 7, 60); pop end main : Hf, HEj, K83 : integer array; when case - 9740 : chillax end otherwise : let s[18] = array 4860; when case 686 : chillax end case 8 : chillax end; when case 5 : chillax end; output "\n" end end

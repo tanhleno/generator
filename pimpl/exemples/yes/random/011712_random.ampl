@@ -1,0 +1,1 @@
+program Ud90a : h : takes G, EW8a, ZV5a : boolean returns boolean h : boolean; R8 : boolean; pop - 8 - 3; let Z38a = 58; pop end main : P3_a, _, Ut9, D, I : boolean; aA, d, Uh0, w6taa : integer array; chillax end

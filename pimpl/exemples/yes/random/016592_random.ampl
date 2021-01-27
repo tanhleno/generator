@@ -1,0 +1,1 @@
+program _ : a : takes N, J, Vv0 : integer returns nothing pop end main : I3n : integer array; l5, Ym : boolean; g8, k, R5, Rc4 : integer; fE, l, IB2, k : integer; l88 : boolean array; when case - not 79 : do Q(- 11 < 4); input z[3]; when case 25 : chillax end end otherwise : chillax end; output "" end

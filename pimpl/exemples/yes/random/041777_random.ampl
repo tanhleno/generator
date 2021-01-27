@@ -1,0 +1,1 @@
+program x : o : takes d : boolean array returns boolean array zv : integer array; w, u, x2A, y : boolean; z : boolean array; cLu : boolean; t : boolean; do Hg(54 >= - 9 - 5, 1 <= 4, 38 = 9, 58, 190) end main : chillax end

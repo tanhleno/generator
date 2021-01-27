@@ -1,0 +1,1 @@
+program S : _90 : takes h0C : boolean array returns boolean array T, r : boolean array; input N6[5 and 7] end main : j, Z060 : integer; FL6, Im, E : boolean; tF0, a, RSX0 : boolean array; when case - (57) or false = false + false and 0 : chillax end case aq[682] or false > _nk0a : chillax end otherwise : chillax end end

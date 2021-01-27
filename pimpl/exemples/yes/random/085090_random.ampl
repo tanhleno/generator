@@ -1,0 +1,1 @@
+program f : main : J : integer; pop 2 /= - (7) and 25 + 3; do Ft(C1 rem I and 70 or false and 16, - true and 6 < - 18); output 1 - 3 /= 826 . "" . 5 . 75200; do C080a(- 12800, 03 = 6); do u(79, 09, 0); while 98 : chillax end; let fZ3 = 20 end

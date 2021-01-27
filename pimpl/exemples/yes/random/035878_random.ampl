@@ -1,0 +1,1 @@
+program t : M : takes RH : boolean; j : boolean array returns boolean Y, L : boolean; pop; when case - 4 - 40 : let d430 = 4 end case 1 = 5 : do j(6); pop end case 8 : pop end case 306 : chillax end otherwise : chillax end end A : takes l2X, Ovs : boolean array returns nothing I : integer array; chillax end main : output "" end

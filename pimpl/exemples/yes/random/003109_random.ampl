@@ -1,0 +1,1 @@
+program H6 : Q : takes b, B3Aaa, F, G, V : integer; C, L, E7U, BY3a, c5, b, B : integer; oK, a04, rW, AS : integer array; Bmj : integer array; P, X6Q, a : boolean; F, IDOaa, f : boolean array; Hit : boolean returns integer array X : integer; chillax end main : P : integer; let F[false] = r5[6990] or(8) and 0 or 5 end

@@ -1,0 +1,1 @@
+program Gnz0 : i : takes ZPfaa : integer returns nothing R810 : integer array; chillax end main : e : integer array; bG : integer array; a890 : integer array; pop - 3 < false and 6; output "ea" . "" end

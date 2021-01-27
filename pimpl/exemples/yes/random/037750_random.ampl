@@ -1,0 +1,1 @@
+program kJ3 : Y : takes h : boolean array; Zo0, N, a3D, x2Z : boolean array; _8g : boolean array returns integer array _, j1 : boolean array; input L end f : takes r, v410 : boolean; g, n, v76 : boolean array; B, m, oD : boolean returns integer array chillax end main : chillax end

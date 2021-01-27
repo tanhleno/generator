@@ -1,0 +1,1 @@
+program Y : u : takes X, P3, g : boolean returns nothing E640a : boolean; while true and 1 : chillax end end main : V : integer array; X6 : integer; when case true * qA[1] * true + (7) / true or true and 20600 /= - true + false and 6 - 8 : chillax end end

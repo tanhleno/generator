@@ -1,0 +1,1 @@
+program i85 : E : takes TR, B : integer returns boolean p : boolean array; ixm : boolean array; input u end main : pop; when case false - (8) or 1 = (4) or 44 - 01 : chillax end case not 9 or 21 : when case 61 : chillax end case 6 : chillax end; while 63 : chillax end; do U(7); pop end otherwise : chillax end end

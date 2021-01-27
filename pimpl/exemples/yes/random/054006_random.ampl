@@ -1,0 +1,1 @@
+program PH7 : s : takes d4 : integer array; r, G, be : boolean array returns boolean array output 11 - 8 . ""; input B4Y[8] end main : q : boolean array; d4K, f : boolean array; w8 : boolean; chillax end

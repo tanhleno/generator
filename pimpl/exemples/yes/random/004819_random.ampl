@@ -1,0 +1,1 @@
+program _0r0 : h24 : takes beRa, J1s, e, I : boolean array; x, ea, e0 : integer; q2 : integer returns nothing chillax end main : qW8, J : integer; L, N, CR : boolean; let zs = - 1 and 68 and 4 = - HJ; let Q1[- not T rem true] = array k6ga - W end

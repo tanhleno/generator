@@ -1,0 +1,1 @@
+program v : uoca : takes _ : integer; Z, m1, V : integer array returns integer array n1vaa, y, Y, D : integer array; g7, h98 : boolean; chillax end W : takes N, GZR, z1 : integer array returns nothing chillax end main : X150 : integer array; Cr1 : integer; W, xc : boolean; chillax end

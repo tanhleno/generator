@@ -1,0 +1,1 @@
+program H : CJ : takes K, UOW : boolean array returns integer chillax end N : takes nh, v1y, c2 : integer returns nothing chillax end Z5 : takes s, _, S : boolean array; g6 : boolean returns integer X : boolean; F, v1 : boolean; _ : boolean; chillax end Qi : takes cW : boolean returns nothing input x end main : pop(3) or not 1230 and 11600; input y7 end

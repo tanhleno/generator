@@ -1,0 +1,1 @@
+program Z : N : takes U, C : integer; f40 : boolean array; U2y : boolean array returns nothing Z : boolean; f2Ea : boolean; R, R : boolean array; chillax end main : pop(5) and(2) - (34) and 411 <= - true; when case(1) and not 6 : chillax end end

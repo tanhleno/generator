@@ -1,0 +1,1 @@
+program fP : KO : takes g, Bg0, K : integer array; T8, x : boolean array; _, uQ0, Ti, ZN, U : boolean returns nothing chillax end J : takes r : boolean array returns integer chillax end s6 : takes U : integer; I : boolean returns boolean input w1; pop end main : pop - LyHa[30] * false or not 2 and 310 or 3 end

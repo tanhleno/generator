@@ -1,0 +1,1 @@
+program i560 : LC : takes Z7 : integer; U, a, N : boolean returns nothing chillax end r1M : takes Xl, y : integer array; H87aa, T, r : integer array returns integer j : integer array; Gw, b, q6 : integer; pop end main : Y1, y : integer; pop - true /= (03) end

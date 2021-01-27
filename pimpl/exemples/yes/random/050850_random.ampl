@@ -1,0 +1,1 @@
+program A : ns80a : takes k : integer; Qa, i90 : integer; p, ij : integer; d, zH60 : boolean; K9, n : boolean array; c2, s : integer array returns integer array M : integer array; do y(- true and 2, 38, 9 = 8, 76) end main : chillax end

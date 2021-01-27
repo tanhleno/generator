@@ -1,0 +1,1 @@
+program W : main : o : boolean; w7O : integer; A790, y520 : boolean; U, K, i3 : integer; Z : boolean array; G : boolean; M : boolean; let pD = - true or J or 88 - 7; pop; when case false and 702 > 7 : output ""; input r1b; output ">" end otherwise : do Z(94); output "\"" end end

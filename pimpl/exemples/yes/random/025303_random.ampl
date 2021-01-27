@@ -1,0 +1,1 @@
+program Jb : _ : takes _, l : integer; j910, f, u : integer; p, e, QbA : integer; C33aa, Vwo, u0, R4 : integer returns integer while - false or 9 - 2 = 1 - 2 : pop end end main : when case not(484) + (3) / K - true - 69 : pop 9 = 95000 end; input I; let b = array true; do OX3(7 <= 5); when case 3 : when case 11400 : chillax end end; output 505 . "" end

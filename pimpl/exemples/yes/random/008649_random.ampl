@@ -1,0 +1,1 @@
+program c : C : takes o, H, W : boolean; E, PU4, Q2Xaa : integer array returns integer while 7 or 82 - 9 > 8 - 96 : chillax end; pop 381; input X1[230] end main : do k(63 > - x or false, - false / 212 - 43100); do P(- false or true >= - false and 216 - 7, false and 46 - 7) end

@@ -1,0 +1,1 @@
+program lO : b6 : takes m, u : boolean array returns nothing do WRra(- (2) >= 60900 - 825) end w : takes x8 : boolean array returns nothing _, tS4aa : boolean; chillax end w3 : takes V, a : boolean; l, L : boolean array returns nothing u, SY7 : integer array; ti : boolean; _ : boolean; pop 8 end main : chillax end

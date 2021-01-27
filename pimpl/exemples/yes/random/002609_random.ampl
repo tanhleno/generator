@@ -1,0 +1,1 @@
+program oz : W : takes L6, f, x, tB3, l : boolean array; C91a : integer array returns integer U, Y98 : integer array; f : boolean array; V : integer; f : boolean; chillax end main : z : integer array; a : boolean array; do hSj(false / 6 /= - 8) end

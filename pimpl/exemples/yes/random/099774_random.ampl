@@ -1,0 +1,1 @@
+program f710a : main : while 89 or not true rem(7) >= (0) / (9640) or false and 4 : input q8 end; while - 7 and UJ or sg00a and 0 = - 63 - 2950 : input J4[16]; while 04 : pop end end; output 8 - 9 >= 17900; input Q end

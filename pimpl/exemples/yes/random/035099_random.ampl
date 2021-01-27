@@ -1,0 +1,1 @@
+program b5c : t7H : takes U27 : boolean; D, DGQ0a : integer array returns nothing chillax end j7 : takes n48a : integer; e, H, O6d0, ekY, _ : integer; K : boolean array returns boolean chillax end main : chillax end

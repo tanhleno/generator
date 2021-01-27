@@ -1,0 +1,1 @@
+program n : Y : takes s, B3waa : boolean array; n4 : integer array; U9 : integer; O8, u2, X : boolean array returns boolean when case 872 or 9 - 1 >= - 89 : chillax end otherwise : chillax end; input v; when case 24800 : chillax end; do B(5) end main : chillax end

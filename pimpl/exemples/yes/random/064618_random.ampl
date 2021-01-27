@@ -1,0 +1,1 @@
+program U35 : Nd : takes R : integer returns nothing cN, I : integer array; input qe_0a; output "-"; when case 64800 : when case 9 : chillax end; pop end; pop end hT10a : takes rd : integer returns nothing chillax end main : chillax end

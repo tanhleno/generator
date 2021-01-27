@@ -1,0 +1,1 @@
+program v1 : KY70 : takes u7 : integer; E, Nf00, G, y1Z0a : integer; S, K : boolean returns nothing N : integer; pop 46 > 4; when case - 6 >= 67 : chillax end case 994 = 9 : pop; pop end otherwise : let zau0a = 09 end end main : chillax end

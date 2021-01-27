@@ -1,0 +1,1 @@
+program z : B : takes n : boolean array; p : boolean returns boolean array y, S6, X7 : boolean array; when case 75 and 184 : output "" end otherwise : chillax end end main : do H(- true, - H[92] rem SH and 400 < - true or 39200, true, - 558) end

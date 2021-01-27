@@ -1,0 +1,1 @@
+program S8 : F : takes Av, W : boolean array; O, i, q3 : boolean; ds0aa : boolean returns nothing x, oR, R : integer; q, x : integer array; chillax end xtk : takes A : boolean returns nothing while 9 < 1 : let S46 = 65; output "X" end; when case 15 : chillax end end main : o1g, ep : integer; do j(false) end

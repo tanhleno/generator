@@ -1,0 +1,1 @@
+program q75 : _ : takes b, d58aa, W9y0a, c, uQ30, p : boolean returns boolean chillax end B : takes c9 : boolean array returns nothing let b[- 2] = 25; while 66 = 82 : do X(0) end end main : Y : boolean; l : boolean; i : integer; uy : boolean; M1Y0a, Zl60 : boolean array; chillax end

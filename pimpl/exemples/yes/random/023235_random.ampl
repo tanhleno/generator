@@ -1,0 +1,1 @@
+program Gk7a : g3ga : takes B, W : boolean returns boolean KG8, i8 : integer array; while - not 6 and 4 + 7 <= - 509 : chillax end end main : do omH(- (7 = 1) < - E - (84) or 16 - 38, - true + true and 40 + 1 - 4 <= - true) end

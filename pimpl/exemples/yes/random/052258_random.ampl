@@ -1,0 +1,1 @@
+program ar : qU : takes xl : integer; P : boolean returns nothing chillax end s : takes mL, Wc : integer returns integer array m80, f : integer array; y, f4 : boolean array; w, B6T0a : boolean; kMM : boolean; chillax end main : T41, K, H, Au : boolean array; while - not(00) or(4) : chillax end; do teI(- 7 - (9) = q and 340 + 37600); do X(- true) end

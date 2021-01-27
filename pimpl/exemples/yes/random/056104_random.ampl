@@ -1,0 +1,1 @@
+program I2 : G9 : takes F : integer array; GU : boolean array returns nothing chillax end e : takes du50 : integer array returns integer array chillax end main : R7C0 : integer; ZZ4a : integer array; chillax end

@@ -1,0 +1,1 @@
+program H : g : takes BP10a : integer array returns integer array B6 : integer array; f, D : boolean array; I7, yLE0 : boolean; naP0 : boolean; cG : boolean; RF70a : boolean; chillax end main : output - true and not 1 and 08 - (81) and 3; while(5680) + rb and 6 - 9 - 2 : input P; while 66 : pop end; input Z; output ""; pop end; pop end

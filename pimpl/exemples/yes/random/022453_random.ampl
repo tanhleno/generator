@@ -1,0 +1,1 @@
+program nN : y : takes qN, z : boolean array returns nothing M7b : boolean array; G, XX, FFM : integer array; input N; when case 69 - 6 >= 149 : output "" end otherwise : chillax end; do S6(1 = 39500); input w[9]; while 4 : chillax end end main : input I7c[- p or 29 * 2400] end

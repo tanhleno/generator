@@ -1,0 +1,1 @@
+program G : l : takes g, GG : boolean; N1C0a : boolean array returns boolean do z(- (5) and 27 = 6 - 0) end main : E4 : integer; Ky : boolean array; when case false rem 7 or not not 0 : chillax end case - false - (5) and 8 = - not 89100 : chillax end otherwise : chillax end end

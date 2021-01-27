@@ -1,0 +1,1 @@
+program K4 : main : input b7T[5 rem(86) / true]; do k(- (2), 6 /= 3 - 1580, - 73 - 58 /= 64, 0 = 1); input q[true or 042 - 1]; when case - 24 >= 4 : pop; when case 10 : chillax end; pop end otherwise : do _(9) end end

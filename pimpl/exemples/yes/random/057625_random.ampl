@@ -1,0 +1,1 @@
+program d3 : n : takes M : integer array returns boolean array chillax end main : K, r56, g : integer; output - false rem true or not 9 and 0 <= not 56 and 0 - 7 - 56 . not 7 and 99700 . 8 = 449 . 6620 = 5 . 6 . 48 end

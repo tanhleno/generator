@@ -1,0 +1,1 @@
+program w : main : By, s : integer; gD6, i6 : boolean array; kN : boolean array; output - false . - 42100 and 0 > 4 - 6 . - 7 >= 9570; while false + not 5 - 2 < true - 199 : input eq3; do p(0, 8); input nk end; when case - true and 4 - 7 - 2 : output "]("; input NJ7a end otherwise : chillax end end

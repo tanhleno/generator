@@ -1,0 +1,1 @@
+program K1 : main : while - (697 = 63) and false + true or false and 6 or 0 - 0 : when case 8 >= 81 : chillax end end; do v(27 / (1)); while(8) and 6 + 0 : do QT_(1); when case 407 : chillax end end end

@@ -1,0 +1,1 @@
+program t : main : while - 897 : output 0; pop 28 end; do v(- 61000 and io6 and 3300 + false and 4 + 1 > - true, false and 74500, - 1340 <= 4); when case - true and 5 - 46 - 99 /= 0 : chillax end; pop; pop 55; input WN[5]; pop end

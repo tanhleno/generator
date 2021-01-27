@@ -1,0 +1,1 @@
+program bF : G8f : takes J330a, R : boolean; Btp, AzM0, GC10 : integer; U, b0 : boolean array; u : integer; i : boolean returns boolean array chillax end main : E : boolean; q6z0, K : integer; s, jX : boolean; Z : boolean; chillax end

@@ -1,0 +1,1 @@
+program To : main : Mto, K0, yA, p : integer array; output - true . - V and 9 or 5 <= - 0 . - 5 >= 6 . 481 = 8 . 9; input UD7a[- 550 rem s]; output - 8 . "`=!" . 9310; do g1(- 81 - 99, 2); input X1 end

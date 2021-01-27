@@ -1,0 +1,1 @@
+program E : w6 : takes fq, C, pj, oZ : integer; v : boolean returns integer n, Ag1, a, L : boolean; H, Mxy : integer; output 77 - 1 > 939 . "" end main : c, O : integer array; S, P : integer; yI : integer; J, Ai : integer array; chillax end

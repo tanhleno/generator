@@ -1,0 +1,1 @@
+program ab : main : d, h, o, QT, D3L0a : boolean; when case - 3 / not false * not 722 and 5 or not Pm80 - false and 7 - 3 - 65 : output "" . ""; output "" . ""; input Hd80 end otherwise : pop end; input x end

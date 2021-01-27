@@ -1,0 +1,1 @@
+program p3q : c7 : takes tF60, e : integer array returns nothing fqW, u : boolean; pop 25 <= 3 end x2 : takes q, Am : boolean array; x : integer; N, yG : boolean; w : integer array returns nothing output 5 = 9 end main : d7 : integer array; chillax end

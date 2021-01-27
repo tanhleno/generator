@@ -1,0 +1,1 @@
+program i : main : _, I2, Ur20 : integer array; g, u82, F : boolean; gh0aa : integer array; input R[- 04 * not 8 and false and 9 + not 60200 and true and 6110 or true or 9 - 11]; while - (6) : chillax end; when case false and 188 : while 6 : pop end; let A44 = 6 end case 0 : chillax end case 756 = 79 : chillax end case 4 : pop end case 0 : chillax end end

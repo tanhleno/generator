@@ -1,0 +1,1 @@
+program xB : main : when case r[5850] > 69000 : when case - 7 = 4 : chillax end otherwise : do E88a(75400); pop end end case true / 5 + false + 1 = true + 9 : chillax end case false - 3 = 2 : chillax end case 714 > 67 : when case 3 : chillax end end case 9 = 6 : while 76 : chillax end end otherwise : chillax end end

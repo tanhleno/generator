@@ -1,0 +1,1 @@
+program Nc1 : M9 : takes M, nl : boolean; oc : boolean array returns boolean array OA4aa, Gdr : integer array; j : boolean array; U : boolean array; i : boolean; chillax end main : do C(8 * not(86) / 628 and 0520 or false + not 7); while - false + false and 69 - 152 >= 97 : while 9 = 5 : output ""; pop end end end

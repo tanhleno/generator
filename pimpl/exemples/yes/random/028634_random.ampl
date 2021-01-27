@@ -1,0 +1,1 @@
+program q1o0a : _Ug : takes B, J : integer array; b : integer; V, K, J, Cld, Z, i : boolean returns nothing input K[K8 - 62 - 0]; while - 0 - 72 < 81 : chillax end; let P8 = 4; do O(45, 0); output "" end main : _, d, N : integer array; Le60 : boolean; input Nb; do F1x(- not false < - not 17400) end

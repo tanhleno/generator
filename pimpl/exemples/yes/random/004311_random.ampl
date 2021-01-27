@@ -1,0 +1,1 @@
+program o3 : y : takes ZM, P32aa, o, F5v : boolean; g, Kk : boolean; S12, pw, t, W : integer; K, C3t : boolean; t6r, I440 : integer array returns boolean array N : integer array; p, q : boolean array; while(5) and 916 + 2 - 3 : do g(99100) end; let yi[- 703 - 19] = array - 2; while 7 : chillax end end main : B85 : boolean; chillax end

@@ -1,0 +1,1 @@
+program y : HNd : takes _0 : boolean array returns integer input z[false and 4]; pop 6; input X[96] end main : input b[16]; pop; do j4(- false or 6 - 71 /= - 7 - 3); when case - 44500 - 50 : input Gp; while 8290 : chillax end end case 3 : while 60 : chillax end; pop end; input zc; when case 80 : pop end otherwise : chillax end end

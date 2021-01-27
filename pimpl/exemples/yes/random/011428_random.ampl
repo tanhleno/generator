@@ -1,0 +1,1 @@
+program lI : FS : takes p600, n, qz : boolean array returns nothing input M210; input xzK[- 6] end main : t : integer array; let r[(04 = 5190)] = array 1 and not(772); output true + 7 > - 2740 - 3 end

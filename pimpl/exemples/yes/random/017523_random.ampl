@@ -1,0 +1,1 @@
+program x : Kb_ : takes y7, R : boolean; W, q7Q0 : integer array returns nothing z, b, L850a : boolean array; chillax end main : while - 27 /= - (07) / not 33 and 1050 + J and 30 : chillax end; while - false * (2) and 471 = - Qw : chillax end; while(57) and 7 + 804 - 4 < 9 : chillax end end

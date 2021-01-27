@@ -1,0 +1,1 @@
+program E8 : N8w : takes M57 : boolean returns integer array da : integer array; Cg, e8na : boolean array; s : integer array; q : boolean; Y : boolean; D : boolean; do o(- G330a or 2 - 554 /= 74, - 668 - 68 /= 196) end main : chillax end

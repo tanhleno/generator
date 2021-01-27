@@ -1,0 +1,1 @@
+program Xh00a : g : takes N, D6, a : boolean array; y : boolean array returns boolean chillax end main : while J * true * true and 12 - (8) - 5 and 8 : let d = array - 20 - 7; when case 36 = 08 : chillax end case 12 : chillax end; while 29 : pop end end end

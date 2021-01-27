@@ -1,0 +1,1 @@
+program fWI0a : C54a : takes K : boolean; k4k0a, ujF : boolean array returns integer when case - 1 or 2 - 2490 /= - 3 - 9 : chillax end otherwise : chillax end end Z : takes U920, X, t : boolean array; e5, o_ : integer array returns nothing chillax end main : T5 : integer; k : boolean array; Z, H69 : boolean; input K end

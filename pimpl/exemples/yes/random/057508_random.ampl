@@ -1,0 +1,1 @@
+program tr : OP : takes g : integer array; U8 : integer returns nothing H : boolean; t : boolean array; chillax end x : takes L3D, L : integer; h9 : boolean array returns nothing chillax end main : t : integer array; chillax end

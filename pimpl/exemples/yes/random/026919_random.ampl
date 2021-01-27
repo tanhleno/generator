@@ -1,0 +1,1 @@
+program X : DC : takes I0, VI : integer; n7 : integer returns integer array output "" . "5" . 5 end N : takes m1l, H : integer array; d8 : integer returns nothing pop 072 = 8; input d4I0 end I5R : takes wZ5a, D : integer array; a9 : integer array returns integer chillax end main : d : integer; chillax end

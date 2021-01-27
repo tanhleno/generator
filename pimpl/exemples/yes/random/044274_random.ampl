@@ -1,0 +1,1 @@
+program Q : A : takes a2H : boolean array returns nothing fU, g : boolean array; B : integer array; chillax end main : output "U@" . - (3) . 2; when case not true : chillax end case - true - 59 - 90 : chillax end case - 47 - 091 > 187 : while 01700 : chillax end end case 5 = 2 : while 2 : chillax end; pop end case 95 : chillax end; output 245 >= 3 end

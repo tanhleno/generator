@@ -1,0 +1,1 @@
+program S5 : sT20 : takes ri, W0, Zu, lRcaa : boolean returns nothing chillax end K : takes P : integer returns integer while - 65 : chillax end end S5 : takes C63aa : integer array returns integer array chillax end main : while - Q3(12) * false or false and t26 and 9 : do Z4(- 3) end; let y[(4)] = array false end

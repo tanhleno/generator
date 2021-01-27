@@ -1,0 +1,1 @@
+program qm : U3c : takes r, w35a : boolean array returns integer output 45 = 9 end Xg : takes U, u, M : integer; f6, z : integer array returns boolean output "'\t\"" . "v/\"a" . "\"1" end main : input L8; input WH; pop - 5 end

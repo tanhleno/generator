@@ -1,0 +1,1 @@
+program c : U : takes g35 : boolean array; bO, ZH : integer array; Z, n2h : integer array; jY : integer; S : integer; X : integer; z, xK : boolean returns integer array do KC(- (8700) <= - 1 - 96, - 93 >= 9, 7, 44200) end main : w, Z, S : integer array; e, K5ja, U71 : boolean array; R : boolean array; output "" . "`\t"; output - (7) /= 6; output 2510 . 862 . "#E" end

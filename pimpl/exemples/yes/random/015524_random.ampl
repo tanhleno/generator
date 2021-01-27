@@ -1,0 +1,1 @@
+program b : J : takes I, u, S5 : integer array returns nothing E : integer array; CZo : integer; et9a, v : integer array; when case - not 5 and 3 or 399 : chillax end; do z(607 - 4, 2) end main : jP, A4, B, I, Q : integer array; w, V : boolean; chillax end

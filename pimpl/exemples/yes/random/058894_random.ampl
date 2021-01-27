@@ -1,0 +1,1 @@
+program KH : Z : takes w : integer array returns integer array Z3q : boolean array; while(905) /= - 99800 : chillax end end main : input DY; do m(- not(53900) / (1) and 3 /= 0 + 1 - 32); input q[- (2) and 7 - 04 - 09] end

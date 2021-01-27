@@ -1,0 +1,1 @@
+program K8L : u : takes joe0a : integer array; d7s, N, b6 : integer; v, w1t0a : boolean; RL1, X : integer array; O0 : boolean; i : integer returns integer array fI : integer array; g43, N040, k, P : integer; Hl, _360a, P : boolean array; chillax end main : k : integer array; output "2" . ""; let q = array true - true; input Q[- true and 9] end

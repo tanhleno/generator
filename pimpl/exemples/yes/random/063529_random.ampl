@@ -1,0 +1,1 @@
+program Ad : u6 : takes F : integer returns integer input u7w[- not 2 and 69] end M8 : takes K7, W0 : integer array; h2, N77, X3ra, HP, Dr : integer array; j9, n, s3, Vr, D : integer array returns boolean chillax end main : z, y : boolean array; chillax end

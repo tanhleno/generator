@@ -1,0 +1,1 @@
+program p : main : w, k7t : boolean array; QU4 : integer array; while yWi0[47] / (81) rem false and 4 - D5n[9] / (5) + f <= (080) / true and 4 or 9 : while 30 >= 3 : chillax end; do tsha(3, 50500, 9); do CkKa(3, 3) end end

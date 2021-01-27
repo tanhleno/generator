@@ -1,0 +1,1 @@
+program Kc : main : j : boolean array; n : integer; I, R : boolean array; j, M, FX : boolean array; pop; output 90 and 0 - 7900 - 40 /= - 386 - 80300 . 7; when case - (79) and 0 >= 0 - 8 : output ""; while 40 : chillax end; let R = 0; pop end end

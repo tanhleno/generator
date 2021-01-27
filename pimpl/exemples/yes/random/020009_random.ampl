@@ -1,0 +1,1 @@
+program nVW : p : takes HS, HN : boolean array; _8 : boolean array returns integer D, E, lP, K, w170a : boolean; l : boolean; q : integer array; chillax end e99 : takes S2L : boolean returns integer array B : integer array; chillax end main : input b[not gIOa rem(81) - (43) / 4 - 8 + 4 - 34]; output - (2) end

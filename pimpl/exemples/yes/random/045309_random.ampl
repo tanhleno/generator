@@ -1,0 +1,1 @@
+program o580 : S : takes XRS : boolean array returns nothing while - X : when case 4 : chillax end case 353 : chillax end end end j56aa : takes Yv : integer returns nothing chillax end O : takes g, i, fW, w : integer; G, ii : integer array; x, W5Ha : boolean returns nothing chillax end main : chillax end

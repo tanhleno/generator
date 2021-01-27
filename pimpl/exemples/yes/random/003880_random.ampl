@@ -1,0 +1,1 @@
+program Qc8 : W3e : takes i, U9ba, c, _, I6m0a : integer array returns nothing P0 : integer; chillax end nNxa : takes O : integer array returns integer B, i : integer array; chillax end Sd : takes SX : boolean array; d : boolean; M : boolean returns integer when case 9410 = 52800 : chillax end otherwise : pop end end main : chillax end

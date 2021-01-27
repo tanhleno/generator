@@ -1,0 +1,1 @@
+program z : NQ : takes BT : integer array; J24aa : integer array; H0 : integer array returns nothing p1 : integer; tL7, Z56, r5 : boolean; when case zsa0 - 0 - 7 : output "" . ""; let s = 5; let c1sa = 0 end case - 94500 /= 76400 : chillax end case 4 : input Z; pop end end main : chillax end

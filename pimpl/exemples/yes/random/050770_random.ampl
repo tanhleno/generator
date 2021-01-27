@@ -1,0 +1,1 @@
+program x : C : takes wf : integer; VBu0, v : boolean returns nothing I48a, MOi : integer; output - 07; do R(- 56 = 91); output 7; input dh; while 49 : chillax end; do b62(15700); pop end R : takes i : boolean returns nothing Q8, fW, A, P : integer; n : integer; t : boolean; do D(8) end main : I2 : integer; f, p : integer array; chillax end

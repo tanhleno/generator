@@ -1,0 +1,1 @@
+program pt : mra : takes sz : boolean array returns integer array N100 : boolean; G, F8 : boolean array; s : boolean; Y : boolean; do d(false, 3) end main : t7 : boolean; z9, X : boolean; chillax end

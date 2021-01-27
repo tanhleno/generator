@@ -1,0 +1,1 @@
+program E : Oe7a : takes E, B : boolean returns integer array a : boolean; when case false and 3 : pop; let b = 6 end case 33 : chillax end end C : takes U4w0, y, s : boolean returns integer array II : integer; O, bfZaa : integer; output "M" end main : chillax end

@@ -1,0 +1,1 @@
+program vC : j : takes m2g, C : boolean array returns boolean y, h64a : boolean; u, wz7, xU, r : integer; P : boolean; A : boolean; K8Y : boolean; W8 : boolean; input G[not 7 and 03]; let A[- 3] = 81 end main : chillax end

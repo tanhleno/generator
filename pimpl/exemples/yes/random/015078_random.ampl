@@ -1,0 +1,1 @@
+program y : uF50 : takes w, oo8, X10 : integer array returns integer r : boolean array; M, Q, y1, o : integer array; chillax end kosaa : takes A, Z0d : integer returns integer uJ : boolean; kW6a, q : integer; do x3(- 0 - 4 /= 47800) end main : chillax end

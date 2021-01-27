@@ -1,0 +1,1 @@
+program T : W : takes ys : integer returns nothing r8, X : integer; K, l, qXRa : boolean; chillax end v810a : takes sVE0 : boolean array returns boolean F0R0 : integer array; f : integer; W0 : boolean; Fz2a : boolean; input go[3 - 002]; when case 42 = 88 : pop end otherwise : pop end end main : s, R4, A : boolean array; m : boolean; chillax end

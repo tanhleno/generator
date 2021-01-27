@@ -1,0 +1,1 @@
+program Y5 : main : l, j, OR : boolean array; y, l_7, z : integer array; input r[- false * 6810 * R and 33 - false]; let d = array - (887) - false; when case - 0 and 53 <= 4 - 0 : chillax end otherwise : chillax end; output "" end

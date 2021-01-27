@@ -1,0 +1,1 @@
+program X : ii : takes Vr : boolean array; H, z : integer array; v7 : boolean returns nothing B : integer array; chillax end main : u, R300 : boolean; output "&" . false - 13; do L(false and not 8 and 70500 or(87) and 6830 > - 172); pop; do _3(23 - 04 <= 5, 385 = 757, 4) end

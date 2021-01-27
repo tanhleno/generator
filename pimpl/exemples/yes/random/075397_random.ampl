@@ -1,0 +1,1 @@
+program Qt5 : main : S, F250 : boolean array; input sG[- i - (59) / 53 and 18 - (560) or 87]; when case(23) / (483) - 98 >= wbhaa - 549 - 103 : let te9 = array 05; input s6[1]; let izH = 2; pop end; pop - 81 > 10 end

@@ -1,0 +1,1 @@
+program tg : I : takes SJ : integer array returns nothing V, w : integer; P, a, q : boolean array; when case - not 118 /= - 0 - 9 : while 4 : chillax end; do b(875) end case 55 - 1 < 2 : output "8/" end otherwise : chillax end end main : input t6; output - not 15 + 8 - 17400 <= 728 . "" . "\t"; let T = array true + 301 - 91 end

@@ -1,0 +1,1 @@
+program B7 : X3 : takes nED, w, i1, h7, f : boolean; o, U : boolean array returns boolean V, _Ws0a : boolean; Z71aa : integer; H, P : integer array; R : boolean; U : boolean; w : boolean; let ma[not 8 and 4 - 65 - 769] = - 19; output "2|!a" . "" end T : takes I8 : integer returns nothing chillax end main : chillax end

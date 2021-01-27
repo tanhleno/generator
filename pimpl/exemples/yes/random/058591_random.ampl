@@ -1,0 +1,1 @@
+program w9 : s : takes f : integer array returns integer array chillax end oJ1a : takes f44, Pd : boolean array; T : integer; J, z08, H : boolean array; iB, m4 : integer returns nothing let z09[- 2 - 48800] = array 6 end main : chillax end

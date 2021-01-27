@@ -1,0 +1,1 @@
+program H : W1 : takes mX, O, zh : integer array returns boolean array r, N, Z, r : boolean array; let PI[true] = array not 5 and 2 end s3L : takes uIU : integer array returns integer array u, J : boolean; chillax end main : chillax end

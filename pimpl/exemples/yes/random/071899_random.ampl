@@ -1,0 +1,1 @@
+program tw3 : main : Q7, V20, f8 : boolean array; when case not not false * (76) * wV5 and 8220 - (74) * true and 8440 + (1) - 08 - 91 <= 3 and not 5 and 3 : chillax end case 93 / false /= not 4 - 90 - 77 : pop end case - 9 or 28 - 4 : chillax end case 27 <= 5 : let O = 2 end; input N9[false * l - 1] end

@@ -1,0 +1,1 @@
+program D : main : do J(- not 20 rem true or true and true and 4 - true + 9 - 35 = false and false + false and 75 - 44 - 9, - (02300) + (0140) and 2 + 8 - 2 > v and 586 or 1 - 021, bHka and 8 - 2 - 6 <= 79800); output - true /= - 9 end

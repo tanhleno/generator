@@ -1,0 +1,1 @@
+program p6Paa : Jk : takes Y2 : integer array; o, X, ZmI0a : boolean returns nothing input i1 end e2 : takes E, k, Zr : integer; O1 : boolean returns nothing e13 : boolean; S5h0a, K : integer; QHKaa : boolean; when case - 14 /= 5 : chillax end case 96 = 8300 : let U = 57 end case 77 : pop end case 0 : chillax end; input D end main : u0A : integer array; chillax end

@@ -1,0 +1,1 @@
+program t2 : vF : takes Jh : boolean returns nothing E4Za : integer; pop; do T(267 - 8 > 956, 0) end main : zDK0a : integer array; H, x24aa, Io2, SJ : integer; E42, tA : boolean array; X : integer array; while true : chillax end; output - true and 74600; output "" . 497 end

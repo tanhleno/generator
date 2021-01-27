@@ -1,0 +1,1 @@
+program O : De : takes g3K0, G, K : boolean array returns integer output 28 - 700; output 3 . "" end sV8a : takes J : integer array returns nothing m82, b25a : boolean; input X[33 - 7]; while 1 = 4 : chillax end; when case 999 : chillax end; input C; do q(02); pop end main : input Q8u[- not w6]; input f[9690 + true and 2]; let I28 = array(431) + 0 end

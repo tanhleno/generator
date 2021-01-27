@@ -1,0 +1,1 @@
+program vm2aa : U : takes GUMa, T, E, Bte, B, k4, n2 : integer; Q : integer array returns nothing i : boolean array; chillax end x : takes n, y : integer array returns boolean array ps, Q : integer; q : integer; input su1aa[00] end j : takes L, i6 : boolean; y : boolean; R700, Q : boolean returns nothing output "d" . "" end main : chillax end

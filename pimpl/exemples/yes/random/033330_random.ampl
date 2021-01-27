@@ -1,0 +1,1 @@
+program v990a : c : takes DZ : boolean; y1, lj3, Y, U, IK3 : boolean; NH2 : boolean array; T17aa, N210 : boolean; N, h1 : integer array; S4E : integer array returns nothing while - 20 and 11 <= 3 : when case 2 : pop end end end main : XI : integer array; lS6 : boolean; do c(1 * u(8) or(099) + (7820) or 02400 - 66900) end

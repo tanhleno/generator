@@ -1,0 +1,1 @@
+program m : Gw : takes W : integer; K : boolean array returns integer S, on : integer; chillax end _5Caa : takes Y67, b, z : integer array returns nothing chillax end W8 : takes n50 : integer returns nothing R : boolean; chillax end main : m : boolean; chillax end

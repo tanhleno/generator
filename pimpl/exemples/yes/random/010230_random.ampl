@@ -1,0 +1,1 @@
+program g0 : F : takes k1Ha, F, T : boolean array; n : boolean returns nothing let r85[(3)] = 20900 - 05 < 2110 end Z : takes cw : boolean array; D1Jaa, F : boolean array; l : boolean; xs4, C : integer; CR50 : integer; l : boolean returns boolean input g[1]; pop 51; while 3 : pop end end main : YR40, F : boolean; chillax end

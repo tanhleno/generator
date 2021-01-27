@@ -1,0 +1,1 @@
+program a78 : X : takes K5, JV : boolean array returns boolean U2, l, _, f9 : integer; K4, T : boolean array; V : boolean; chillax end main : input m1b[- not 08 rem not true and true and 6]; let O9[- 3 or _] = - not 2 and 17 + 3 - 2; when case j and 1 <= - 503 : output "" . ""; when case 89 : chillax end end otherwise : chillax end; while 53 - 72 : chillax end end

@@ -1,0 +1,1 @@
+program g : L : takes U02, pT, R : boolean array returns integer array J01, S, l06a : boolean; s_, Hi : integer; chillax end main : let q = 2 * not 7 and 07 + (1) >= - (1) and 342; let f[- not(65) and z + not 1 - 1600 - 27] = array - true rem not 1 - RR - 57800 end

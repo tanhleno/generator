@@ -1,0 +1,1 @@
+program lx40 : s : takes I, rz30a, u : integer array returns boolean array R97, S, _, ZUo : integer array; P6 : integer; r : boolean array; do G140a(- false - 49 /= - 575 - 9550) end main : C6 : integer; let o = array not false / true end

@@ -1,0 +1,1 @@
+program _0 : q69a : takes C8t : integer; y4O : integer; v : integer returns nothing i, LB : boolean; input c9[- j16aa and 4 + 7570]; input jXe0; do xv(5) end main : when case - (8470 = 59) + false > not false and not 627 and 2 : chillax end case 10 - true and 00 <= - false : chillax end case U9 and 29 + 3 - 1 : chillax end end

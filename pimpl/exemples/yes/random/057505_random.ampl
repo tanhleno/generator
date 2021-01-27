@@ -1,0 +1,1 @@
+program L : t9 : takes yW1 : integer array; Q3m : integer returns nothing a : boolean; do uf((60) and 99); let Fcs0a = array - 43 - 028; input Z end main : r : integer; AW, o : boolean array; Oz : integer; chillax end

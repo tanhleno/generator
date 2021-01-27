@@ -1,0 +1,1 @@
+program h1 : H : takes q, b, X : integer array returns integer S, fMf : boolean; q, Hu, a : boolean; let m[- (9) and 23500] = - 4 <= 98700 end WY : takes n : integer returns integer array do t(- 67 - 2, 4) end main : jA : integer array; t : boolean array; X7f, _H9 : integer; A, Ld, q : integer; hL2 : boolean; chillax end

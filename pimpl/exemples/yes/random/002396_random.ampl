@@ -1,0 +1,1 @@
+program t : C : takes a, S, S, ot, r : boolean array; pMxa, w80, W, G8Naa : integer returns nothing U : boolean array; chillax end main : mR4, d, S : integer; when case - V[9] + B[6] : chillax end case - (94) + not 57 or 1 - 077 <= not 48 and 0 : chillax end end

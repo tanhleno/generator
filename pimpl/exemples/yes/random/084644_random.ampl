@@ -1,0 +1,1 @@
+program x : main : m : integer; input ha3[- true * (2)]; when case - R(0) and 4 and 9 + not 9 and 19 <= - mL : chillax end case - (89) and 34 - 5 : chillax end case - 0 - 5530 >= 61 : chillax end case 5 = 01 : while 42600 : chillax end; pop end case 0 : pop end end

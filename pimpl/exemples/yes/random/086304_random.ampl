@@ -1,0 +1,1 @@
+program wKs0a : main : gQ : integer array; F : boolean; e, x6Z0, M, mG90a, s : boolean; AZ : boolean; output "" . - not 61 . ""; do s(false + true and 96 = u and 40, true + 992 - 2); when case false and 7 or 6 : chillax end otherwise : input m; let n = 5 end; pop end

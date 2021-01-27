@@ -1,0 +1,1 @@
+program k7 : SV : takes QiS, mGO : boolean array returns integer array hf, d31 : integer array; o : integer; while - true /= 0 - 21 : when case 1 : chillax end; when case 64 : chillax end; when case 7 : chillax end; pop end; input IPH0a; pop 7; when case 0 : pop end otherwise : chillax end; pop end main : gbpa : integer; I, z : integer; chillax end

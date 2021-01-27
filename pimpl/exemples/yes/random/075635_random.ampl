@@ -1,0 +1,1 @@
+program S12 : main : l8q, ENJ : boolean array; when case - 2 : input j[0 - 5]; pop 7; pop; output "" end; let I1[(3) or 35600 and 0] = array not KN * false - M59 and 6 or 8 - 32; let O8[false and 0 - 79 - 1] = 5880 - 9; input v[- 0 - 343]; let f[93] = 5; pop 10 end

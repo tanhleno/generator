@@ -1,0 +1,1 @@
+program g : main : j, H, a : boolean; y7 : boolean; V, Q : integer array; Fk90a : integer array; pop not 79 * dOx and 053 - true and 9 - 9 - 8 <= - true; input hpI[true]; let Q = array 40 and 1 - 263 - 0120 end

@@ -1,0 +1,1 @@
+program V : d3 : takes hR3a : boolean array returns nothing output ""; when case 486 - 67 : when case 3 : chillax end end case 1 : pop end case 3 : pop end; input Z[90]; when case 54 : chillax end end main : chillax end

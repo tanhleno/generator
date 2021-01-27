@@ -1,0 +1,1 @@
+program S : V : takes a5_a : boolean array; R : integer array returns integer array let v9[- true or 8] = array true or 8990 - 25800; do y10a(- 299 - 52 /= 3) end o : takes J : integer array; r, e, grL : boolean array; u66, W4 : boolean returns nothing iQ, C : integer array; l, Iu00a, V0 : boolean; chillax end main : chillax end

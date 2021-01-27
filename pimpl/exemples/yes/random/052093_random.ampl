@@ -1,0 +1,1 @@
+program jt : o0O : takes Zfz0 : integer; f : boolean array returns nothing when case - 3 : chillax end case 659 : chillax end case 66 : output "" end case 107 : chillax end case 45 : chillax end otherwise : do HZ(1); pop; pop end end main : c, w4U0, D2 : boolean array; output "" end

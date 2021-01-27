@@ -1,0 +1,1 @@
+program s : main : Ts, T, N, s07, Q5, Z4, N : integer array; Z, z, HF, c39 : integer array; input k1; input N[not true + not 0 and 2 or 1]; do oy1aa(not 90 and 7 - 4580 - 4, - 16 - 6 = 76, 87, 377, 70); let Xk = array - 0 - 98; output 4 . 67 . ""; let T[590] = array 2; output "" end

@@ -1,0 +1,1 @@
+program l : main : while - (30900 = 1) + R * not 24 + false and 7 + 3 /= - not AU9aa : chillax end; when case - 58 : chillax end case - not 82800 and 5 >= 577 : when case 04 : chillax end case 65 : chillax end; when case 56 : chillax end end end

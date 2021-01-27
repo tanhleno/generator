@@ -1,0 +1,1 @@
+program y : Eg : takes L : integer; M : integer; twz : boolean array; f4 : boolean; Y9 : integer; i, u : boolean returns integer array while - false and 2 + 6 - 4 <= 35 - 55 : output 5 end end C : takes M : integer returns boolean pop 65000 = 34 end main : g, B5, t, k : integer array; V, l : integer array; uU : boolean array; chillax end

@@ -1,0 +1,1 @@
+program TI0 : u : takes n1w0a, w, q7H0, BL9 : boolean array; s : boolean array returns nothing let BQS0a[V5 and 90 - 18 - 4] = array - (74); while - 6 - 84200 : chillax end; when case 7 : chillax end; let M = 84; let GQ = 9; do z(1) end main : chillax end

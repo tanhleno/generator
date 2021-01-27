@@ -1,0 +1,1 @@
+program p : main : while - not false / true / M : when case 91100 - 2 : let v = 9; let IF = 9; pop end case 836 = 43 : chillax end case 2 : pop end case 932 : chillax end otherwise : when case 98 : chillax end; pop end end; let a = array - (10700) end

@@ -1,0 +1,1 @@
+program O : V : takes T9t0, A, b : integer; o7, q50 : integer; p : integer array returns nothing A6o0, m, K : boolean; z, x, U, G7d0a : boolean; chillax end main : _ : boolean array; wM1 : integer array; ES, Mawa : boolean array; do j(false > (62100) * not 7 and 6, - 7 - false <= u4 or 22000 - 2, m1 and 31800 /= 45, 1 /= 40); output Uz >= - 6 - 3980 . "" . 25 = 8 . 595 end

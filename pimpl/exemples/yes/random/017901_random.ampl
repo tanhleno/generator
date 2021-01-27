@@ -1,0 +1,1 @@
+program vcU : Ek : takes UF, lu90 : boolean; y : boolean array returns integer V, C, c : boolean array; while - D_V0 and 88 or 50 - 6 : chillax end; input k end main : V, o : integer; pop; when case q : chillax end otherwise : chillax end end

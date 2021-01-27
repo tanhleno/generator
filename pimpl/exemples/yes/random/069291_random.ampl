@@ -1,0 +1,1 @@
+program z1 : main : h, qr, LFG, W, m8G0a : integer array; i : integer array; k : boolean array; output "" . "\n"; when case not(09) / 2710 and 8 or(1) /= - false : chillax end case - not 9 and 9 + 13 : chillax end case - 36 : chillax end otherwise : output "" end; output "}K!" end

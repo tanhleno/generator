@@ -1,0 +1,1 @@
+program JR : S : takes K, L : integer returns nothing output - 8 - 8; output 7 = 0 end h : takes b, T : boolean array; r, px : integer returns boolean array e, tPy, H, E : integer array; when case - 3 : while 93 : chillax end; output ""; pop end; do k(545) end main : l7, Q : boolean array; chillax end

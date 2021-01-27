@@ -1,0 +1,1 @@
+program f4g : c9 : takes S, q : boolean array returns boolean array output "" . "_" . ">"; do Z54(- 4 - 7, 7 = 6, 4, 2); when case 8 = 22 : chillax end otherwise : chillax end end main : pop 4 + 8 and 2 - 80 >= 10 and 310 or 671 - 96; input km50[- not not 7130 rem false]; while - not 1 : output "" . "" end end

@@ -1,0 +1,1 @@
+program DNK : l : takes x : integer array returns integer when case h and 1 or 15 < - 4 - 5 : chillax end case - 99 - 8 : chillax end case 7 : chillax end; let c[- 6] = 9; output 63 end g : takes i : integer returns nothing d0aaa, YbS : boolean; J, s : integer; FQL : boolean; h : boolean; while - 5 : chillax end; input J end main : ZW : integer; input D[R + (1)] end

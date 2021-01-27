@@ -1,0 +1,1 @@
+program q : vH3 : takes m : boolean returns nothing sMi, V, c, hzp0a, c : integer array; chillax end NY : takes e2 : boolean array returns boolean array do _(- 4560 - 89 /= 13) end main : yP2 : boolean array; E, z : integer array; chillax end

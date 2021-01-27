@@ -1,0 +1,1 @@
+program U : N : takes u8i, yJp : boolean array; Z : boolean array returns integer array let O7 = 3; when case 5 : chillax end case 31900 : chillax end case 9 : chillax end otherwise : do B(2); pop end; while 85 : chillax end end main : pop true / true - e; when case - (51400) / true and 756 : chillax end case 3840 : chillax end; while - (72) - 9 : do l(643) end end

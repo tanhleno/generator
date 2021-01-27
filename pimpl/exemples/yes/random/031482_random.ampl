@@ -1,0 +1,1 @@
+program q9_ : a7f0a : takes k, w : integer returns boolean chillax end main : v : integer; x : boolean array; w8, L : boolean; P : integer; eo : integer; LYma : boolean; u : boolean; pop; input P[- true and(2)]; do u9j(1 = 21700 - 2, - 62); pop; let Z = array 218; pop 663 end

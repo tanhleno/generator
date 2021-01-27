@@ -1,0 +1,1 @@
+program I : A : takes z3I : integer; x1, Aj, CHia, zb, _30, Npt0, O1I : integer array returns nothing fB, U4, d1, L5, E40 : integer; N7 : boolean; KgI, OYN0 : integer; nI9aa : boolean; chillax end SG7 : takes z, uk8, W : boolean; E0 : integer array; h, H0A0, T, P2t0a : integer; R, z_ : integer array returns nothing E2 : boolean; chillax end main : input bB[- r] end

@@ -1,0 +1,1 @@
+program i : D : takes M : integer array; oi : integer; W41a, x, dt : integer array; Et, tfM, t, z6 : integer; W : boolean array returns nothing y, t7fa, tlba : integer array; w, A51aa : boolean; chillax end main : pHJ0 : integer; do v4o0(- 72 / XH[9] rem true and 2 - true or not 96 and 034 - 865 - 31, - not 6 or 7 and 55400 < - false, - 6 or 2 <= 94, 5) end

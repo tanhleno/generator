@@ -1,0 +1,1 @@
+program f : main : when case(99 = 8) * (7) / not 2 and 3 <= - true / 79 : chillax end otherwise : chillax end; let C58 = true or 9 - 18 = 6050 - 1; do Q67(F6Z and 8850 = - 6 - 0, - 1 >= 7, 0 = 9510); while 6 : while 8 : chillax end end; when case 59 = 1 : chillax end; while 8 : chillax end end

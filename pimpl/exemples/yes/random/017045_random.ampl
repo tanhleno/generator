@@ -1,0 +1,1 @@
+program p : Q33aa : takes s, T9 : boolean; Lw, c, S5r : integer; rD : integer array returns boolean array be5 : integer array; let g[true - 514] = - 5; input kR end vF : takes m : integer array returns nothing chillax end main : chillax end

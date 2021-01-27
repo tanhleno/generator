@@ -1,0 +1,1 @@
+program j : f3 : takes N : integer; o : integer array returns boolean p, O : boolean; E : integer; let Ea = - 4 - 1; while 4 - 6 : chillax end; when case 6 = 8 : pop end otherwise : chillax end; pop 53 end main : a : integer array; chillax end

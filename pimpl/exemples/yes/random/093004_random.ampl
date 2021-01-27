@@ -1,0 +1,1 @@
+program i : main : output "5" . false + 2 < - 7; do J((789) - 7, not 40 and 3 + 47 - 0 > - 72 - 015); when case false and 37 - 2 >= 4 : chillax end case - 2 : do T900a(0) end case 7 : chillax end case 9 : pop end case 6120 : chillax end otherwise : let i = 659 end; input F end

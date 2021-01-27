@@ -1,0 +1,1 @@
+program B8 : X58a : takes l, uQ : boolean array; M : boolean array; RL40a, gEa : integer array returns boolean chillax end S : takes m : integer returns integer array WUVa : boolean; k, R, FKJa : integer; Ql : boolean; n : boolean; U : boolean; when case 941 : chillax end case 9 : chillax end otherwise : chillax end; output "" end main : Vt : boolean; chillax end

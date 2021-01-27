@@ -1,0 +1,1 @@
+program NV10a : w1 : takes w5faa, KC9a : integer array returns integer while - (0) + 0 - 385 /= 2 - 3 : chillax end end main : W, o, r : boolean array; H4taa : boolean array; f6 : boolean array; H82, e, A : integer array; r, khr0a, bUF0 : integer array; chillax end

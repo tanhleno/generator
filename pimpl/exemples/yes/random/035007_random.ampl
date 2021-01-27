@@ -1,0 +1,1 @@
+program _870a : Sa : takes n1 : boolean; R, Z : integer array; I : integer array returns nothing chillax end q : takes I, V74, p, e : boolean returns boolean array c, v, x : boolean array; chillax end main : let k[not true * 4 / 8 or false * true or 3 and 044 + 7 - 0] = (5) and 39 >= true or 7; do x6B(- (5)); input s end

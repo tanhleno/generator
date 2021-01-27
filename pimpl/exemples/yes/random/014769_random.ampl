@@ -1,0 +1,1 @@
+program K : Ul : takes m, A0, f82 : integer array returns boolean array while true and 4 >= 49 : output "\\"; do C(7); input x end end AP : takes _, S : integer array; N : integer array returns nothing qp, t : boolean array; while - 4 - 3 /= 03 : let S5 = 1; input j5z0; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program pl8 : DDu : takes h : boolean array returns nothing K, _ : boolean array; R, Z : boolean array; do D(- 4 = 709 - 4, 6 - 7 < 2) end Zul : takes u, S : boolean array returns boolean array chillax end main : Zq : boolean; N, Byx, al, r660a, O, I : integer array; N : integer array; pop true / 5000 end

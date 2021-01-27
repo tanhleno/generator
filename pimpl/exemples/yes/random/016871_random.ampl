@@ -1,0 +1,1 @@
+program Y : J5 : takes b, nu : boolean; o6, Hg5aa, Q920, i : integer returns integer array r, s8 : boolean array; pop - 5170 - 87; when case 49 : chillax end; while 95 : chillax end end main : lj : integer; let s[- 18 / (7) - not false - (8) and 9] = array 85 * 876 / false and 97 - true + true; input Z[- Q[8] rem d and 586 or not 8200 and 7 - 3630 - 68] end

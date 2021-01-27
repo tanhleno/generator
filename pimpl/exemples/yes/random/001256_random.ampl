@@ -1,0 +1,1 @@
+program fj : E : takes b, Y, yY, Xk0, R, o580a : boolean array; o, Z4 : boolean array returns boolean array chillax end main : A, p, s77 : boolean; when case - (6480) rem(2) = not false + true - 78 : chillax end end

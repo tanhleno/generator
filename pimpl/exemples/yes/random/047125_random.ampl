@@ -1,0 +1,1 @@
+program V : Z : takes eb : boolean returns integer _8n, l : integer array; x : integer array; d : boolean; O, y : boolean; let b41[- (12) + 41800] = array 50200 and 63; input P end main : QL7a, Df, bW : integer array; d, lR, G6 : integer array; chillax end

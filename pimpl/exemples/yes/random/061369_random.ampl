@@ -1,0 +1,1 @@
+program Xd : LYm0 : takes t5 : integer array returns nothing output 2; input Jd8[- 6 - 45] end main : u7 : integer array; output 55; when case 18 : pop 1; let B2O0 = 3; do Gv(7) end case not 67 or 597 = 0 - 98 : chillax end end

@@ -1,0 +1,1 @@
+program EB0 : p : takes x : integer array returns nothing u : boolean; G8waa, T : integer; Y30, w, y5 : boolean; pop; input S38aa; when case 2 : output ""; pop end case 298 : pop end case 4 : chillax end end main : pop - (5); do v(- (0) * true and 4) end

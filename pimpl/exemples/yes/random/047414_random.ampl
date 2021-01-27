@@ -1,0 +1,1 @@
+program F : nx : takes _M : boolean returns nothing chillax end Ol8 : takes Z, y, X4 : integer; F, Xb8, n : boolean; O3H, dt, u, b, u00 : integer returns nothing chillax end main : while false * false >= false / true or not 3 : chillax end end

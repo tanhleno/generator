@@ -1,0 +1,1 @@
+program J4i : p6 : takes lL0, s9, J, B : integer; r : boolean array returns nothing g1, Ek, z2wa, O4, z : boolean; pop 9; input Q[50200 - 2] end p : takes T020, _, em1a, y : integer array; LZT, D : integer; i7, v5 : integer array returns nothing U7, e : integer; C : boolean; p0j0a : boolean; chillax end main : pop end

@@ -1,0 +1,1 @@
+program Z7 : a : takes M, k : integer returns boolean array S0 : boolean array; O41 : integer; j, l, i5 : boolean; output - 4 - 17 >= 909 end G : takes C, t : boolean returns boolean chillax end main : _Z3aa, J, d : integer array; v900a, a, b1 : boolean; chillax end

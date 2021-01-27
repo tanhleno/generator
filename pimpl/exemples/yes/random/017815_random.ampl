@@ -1,0 +1,1 @@
+program s : K : takes Rji, dd : boolean; c : boolean array; Q : integer; p, aw9a : boolean returns boolean Z94 : boolean array; chillax end main : _ : integer array; input T2[- not not not 93 or 8] end

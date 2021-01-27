@@ -1,0 +1,1 @@
+program Y : main : while - R(8, 873) rem 40 and z750a or s3 and(00) and 8 > (30000) / not 85200 and 03 : when case - 1 - 10 : chillax end; let UK8a = 22; when case 41400 : pop end case 946 : chillax end; let bK = 7; output "\n\t\"a" end end

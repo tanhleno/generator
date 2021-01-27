@@ -1,0 +1,1 @@
+program xG : O : takes uT : integer array returns nothing m13a, L6D0, b, v4, _5 : boolean array; KT, sU : integer; sj : integer; let jj[- (6)] = array - (72) end u : takes c860a, Dr9aa : boolean array returns nothing do u2(- 2, 7 = 1, 7) end main : Hn : boolean; A2 : integer; do s(K[5] and U(56), - 6 * not 46) end

@@ -1,0 +1,1 @@
+program T1eaa : rH2 : takes x, VW3, b, y, ow4 : integer; zB, l : integer returns nothing e7, ql30 : boolean array; X : integer; f580a : boolean; o, s23 : boolean; while - m and 1 + 36 /= - 8 - 4 : pop end; let sd40 = 3 = 6 end M : takes R7U0a, z : integer array returns nothing V, K5, v98, HJ : integer; chillax end main : let S = array - not true end

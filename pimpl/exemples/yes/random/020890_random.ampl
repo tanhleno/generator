@@ -1,0 +1,1 @@
+program W : C : takes p, E : boolean array returns boolean array I, G8 : integer; q : integer; chillax end main : F, Sg6a, G, g : boolean; w0, l : boolean; Tn8 : boolean; PN, u : boolean; o : integer; FGs0a : boolean; let b[8 and(70) and(6) and 0390 - f(85)] = array - 4 + true end

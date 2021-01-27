@@ -1,0 +1,1 @@
+program P : jO80 : takes sn, u : boolean array returns nothing ILp : integer array; f, rgb, V8, s7 : boolean array; U : boolean array; when case 2440 and 1 : chillax end case 236 - 5 : pop end case 7 : chillax end end main : let A8R0a[not not 6 + not false * 11 and 1] = - true rem 1 or(3) and 415 end

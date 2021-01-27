@@ -1,0 +1,1 @@
+program R : main : s : integer array; N950 : integer array; when case 90 and e9[457] * F and 5 > (5) * 3 : let i9 = 13 end case - v(4) or false = not 67 + 69 : chillax end; do o(61 * (3) and 44 + false and 34); pop - 6 >= 65; do f(- 4, 2) end

@@ -1,0 +1,1 @@
+program R : main : Sa, u6, u, z, Ya, Cz3aa : integer array; g43, qJc0a : boolean array; S, J5, i83 : boolean array; do V(not true - g(3670) rem not 8 - (1) and 4 + 408 - 6 < - 62 / 66, L[304] / not 26 and 4 = 22 - 5) end

@@ -1,0 +1,1 @@
+program me : um6 : takes t : integer array returns nothing _0, V2, r : integer; J55a : integer array; em, x : integer array; when case not 36 and 9 : chillax end case - 0 - 6 > 931 : chillax end case 332 = 74 : do MV80a(80); pop end end main : chillax end

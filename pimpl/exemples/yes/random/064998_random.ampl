@@ -1,0 +1,1 @@
+program zN90a : B : takes G : integer returns nothing ABY : integer; d : integer array; when case - not 49200 and 1010 >= 671 : chillax end otherwise : pop end end Qo : takes B5 : boolean array returns nothing k, h : integer array; chillax end p : takes u : boolean returns nothing chillax end main : K9 : boolean array; chillax end

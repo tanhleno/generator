@@ -1,0 +1,1 @@
+program _ : n_1 : takes h : integer; J43 : boolean; h_, LXCa : integer returns boolean chillax end v : takes s, XS : boolean array returns integer array O, T, M8ua : integer; y : boolean; X, m : boolean; oJ : boolean; p : boolean; chillax end qk : takes U : boolean array; QWG : boolean returns boolean chillax end main : do r3(- true * false) end

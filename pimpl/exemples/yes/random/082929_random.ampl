@@ -1,0 +1,1 @@
+program INZ : main : h : boolean array; while 9 < - true : chillax end; when case - (1630) rem 5 and 99 or 52 or 63600 <= 91 and 7 - 7910 : while 24 = 3 : pop end; while 272 : chillax end; when case 7 : chillax end; pop; pop end otherwise : chillax end; do r(true or 180 - 4 = - 1); do S7(45900 - 3630 <= 6, 0 = 17); input NQ end

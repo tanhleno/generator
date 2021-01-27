@@ -1,0 +1,1 @@
+program x : F : takes k2, gLO0a, _, N : integer array; W : boolean returns nothing R0 : boolean array; chillax end N : takes uF, N44, v6_0, R : boolean array; L1E : integer returns nothing O, _ : integer array; Y, c6Oa : integer array; hkp : boolean; do q6(- 8 - 44); output 0 . 8; pop 94; input C end main : chillax end

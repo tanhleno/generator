@@ -1,0 +1,1 @@
+program Fs : main : k8X, WYl0a : integer; when case - (7 = 91) * 8 > - q(1) and false - true and 3 or 7 - 7 : chillax end case false or 5 and 63 + 3 - 2700 >= true and 4 or 8 : let m[33800] = array 65300; when case 0 : pop end case 0 : chillax end otherwise : chillax end; output "" end; while - (5) / (9) > q5 or 0660 - 8 : chillax end end

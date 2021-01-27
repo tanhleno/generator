@@ -1,0 +1,1 @@
+program V : c52a : takes H1k0a : integer array; I39a : boolean array; Q : integer array returns nothing chillax end XAZ0a : takes X : boolean array returns boolean n : integer; chillax end main : l, Q, f, J : integer; let rFGa[true / true] = array - not Qn50a(4) and 5840 - j * j7Raa; do Z(true - true or 646 <= false - 906 - 2, - false and 12 > - 1) end

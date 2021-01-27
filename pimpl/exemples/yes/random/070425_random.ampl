@@ -1,0 +1,1 @@
+program a3 : main : ev, C4, T, L27 : integer array; V, I3, FTZ0a : integer array; h : integer array; NHl : boolean array; R : boolean array; do S(- gNq0 rem 93, 28100 and 383 > - 6 and 7 - 7, k - 45, 3, 7); output "" . - 420 - 42; do kI(- (9) and 0 = - 51) end

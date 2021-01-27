@@ -1,0 +1,1 @@
+program ZQ : main : C : integer array; when case false or not false : chillax end case(9) and false and 753 - false + 70 - 6790 : chillax end case - false and 22 : do U9L0(77800, 2350); while 6 : chillax end; when case 118 : chillax end end case 61800 : let o = 6 end otherwise : chillax end end

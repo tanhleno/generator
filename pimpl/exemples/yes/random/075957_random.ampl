@@ -1,0 +1,1 @@
+program l : main : k5, n3 : integer; lF, rlK, H : boolean; e : boolean array; I : integer; ef, k : integer; I, i8 : boolean; pop - not false / false + not 4 and 705 + 9; input Eajaa[- not not 38 * (3)] end

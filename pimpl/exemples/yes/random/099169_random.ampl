@@ -1,0 +1,1 @@
+program j2 : main : while false >= - 5 or y : chillax end; while 57900 / 95 and 5 or not 0 and 9 < - not 74500 : when case 4 : output "" end case 2 : pop end otherwise : chillax end; output ""; input eu; while 2 : chillax end; pop end; let UvTaa[- PJ] = 280 - 8; pop; pop 4 end

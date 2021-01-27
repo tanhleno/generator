@@ -1,0 +1,1 @@
+program i : l7w : takes vPSaa : integer array; aA, wY : integer array returns nothing _19a, R94 : boolean; s5U, _ : boolean; output "4" end r : takes I, r95aa : boolean returns boolean array input Yz[0] end PL7 : takes b : boolean array returns integer do z(65, 8, 7); while 9 : pop end; let d_ = 0 end main : pop - 719; let r = 7 - 66400 end

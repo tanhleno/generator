@@ -1,0 +1,1 @@
+program CKW : main : when case - (236 = 8) : pop 0 = 5; when case 91 = 6 : when case 01 : chillax end end case 9 : pop end; let M[6] = array 0 end case - 6 or 0780 and 91 - 07 - 592 = - not 6150 and 2 - 2 : while 2 = 2 : chillax end; input g2P end case - true and 8 or 0 - 26 : chillax end otherwise : chillax end; do r(- (350) / true and 7430 < - 8 and 765 - 730 - 66) end

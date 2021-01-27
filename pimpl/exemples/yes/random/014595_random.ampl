@@ -1,0 +1,1 @@
+program TL : _2m0a : takes F, C, Uc : integer array; dY50 : integer returns integer V : boolean array; E9 : boolean; f, yd5 : boolean; chillax end main : output "" . "3(" . - 450 - 3 = 470 . "" . "" end

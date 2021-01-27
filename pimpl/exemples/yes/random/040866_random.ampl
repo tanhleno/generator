@@ -1,0 +1,1 @@
+program hR : H3 : takes b1 : boolean array; Pz : integer array; n : boolean array; k : boolean returns integer array w9, y8, X, Sc9aa, A8 : integer array; output - 81 - 22400 <= 0 end ZG7a : takes nJ20a, P1, sk : boolean array returns nothing let a[2 - 77] = array - 956; do K(3 = 800) end main : s : integer array; chillax end

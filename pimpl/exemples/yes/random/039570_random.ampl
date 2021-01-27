@@ -1,0 +1,1 @@
+program l : Gh4 : takes x1 : boolean array; C2 : boolean; R6, h30 : boolean array returns nothing C, B, P9, k0c : integer array; chillax end main : z9, af9, t, J : integer; g : boolean; y, E : integer array; V11, Z, ic : integer array; input h2; input x03[- 93 rem IS] end

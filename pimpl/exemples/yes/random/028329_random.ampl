@@ -1,0 +1,1 @@
+program i86 : Gz8 : takes w, z : integer array; a : boolean array; cOU0a : integer; h, gR : boolean returns nothing while - Y - 0 - 9 >= - 1560 - 6 : chillax end; while - 6 > 35 : do Q(9); let w = 93; pop end; when case 32 = 29 : chillax end case 5 : chillax end case 8 : chillax end; output ""; pop; pop; pop end main : output "\"" . ""; pop end

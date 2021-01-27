@@ -1,0 +1,1 @@
+program egf : main : do Y(true and false or not n * (4) <= - 415 * not 5 and 055 - (9), 63 / false, FJ and 921 + 9 - 7660 > - 24, - 35 - 5940 < 65, 3, 0, 2); do s8b(- false * not 8 - true and 8 - 3 = (0), 1 < 88200, - 1 - 7, 322) end

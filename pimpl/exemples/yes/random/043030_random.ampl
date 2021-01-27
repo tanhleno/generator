@@ -1,0 +1,1 @@
+program MjY : U : takes yW4a : boolean array returns integer do V2S0a(not 6440 and 39); do FC8(896 > 04, 8 = 76, 86800) end main : Pz : boolean array; input NI; do L(- Z(25) rem not 1 > - en or 6, - false, - 5 <= 258, 0, 2); input _S[- (2)] end

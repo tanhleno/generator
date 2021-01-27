@@ -1,0 +1,1 @@
+program J1 : y : takes e, e : integer array; E3, Y, hQ : boolean; LO, K : integer returns integer array chillax end C0 : takes B9jaa : integer array returns integer Zf7 : boolean array; eQ, YdMaa, I : boolean; let R[1] = array - 781; do B(975); when case 8 : chillax end otherwise : chillax end; pop; while 5 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program r : KB80a : takes pl : boolean array; S, ww, P37, t33, U, b, y : integer array; Z0raa : integer array returns integer pop; pop 9920 = 5 end main : b : boolean array; input ed; input O; pop end

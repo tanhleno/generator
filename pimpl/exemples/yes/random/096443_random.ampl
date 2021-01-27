@@ -1,0 +1,1 @@
+program D : main : when case - 384 : chillax end case true and false + true + 6 - 6 : chillax end otherwise : chillax end; output ""; let km9[- G3 - 0 - 0] = 8 - 4 >= 9; when case - 7 - 2 = 5540 : chillax end case 381 = 7 : chillax end case 9 : chillax end; while 45 : pop end end

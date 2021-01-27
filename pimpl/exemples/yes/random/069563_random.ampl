@@ -1,0 +1,1 @@
+program L6R0a : main : kY2, H, n, ty : boolean; G : integer array; Q, E : boolean array; V : integer array; do ze(- not 1 * O_(32) / not 3, - true * false and 9 + not 44 <= false and 7, - a and 20 or 70 >= - 9 - 91) end

@@ -1,0 +1,1 @@
+program qLI : main : x6, Li6aa, j4I0a, p : integer; N, u : integer array; W, n : integer; W, u : integer array; output(1) + true and 6 /= - false and 8 - 1 - 0; do CX(true or 8 and 052 >= 3 and 890, (40) + 7, 8, 3430, 0) end

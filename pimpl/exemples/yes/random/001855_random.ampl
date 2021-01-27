@@ -1,0 +1,1 @@
+program U : Mh : takes wH, p, uD_, o, e9Q0, o1va : integer array returns boolean array do dD9(- not 5 and 7490 - 8 - 9020 >= - 38, - 2) end h2 : takes k130a, dD1, A, Lty, E8G : integer; UT, e : boolean returns nothing when case 6 - 8 : chillax end otherwise : input PI end end main : VZKaa : boolean array; s7, M6o : boolean array; R : boolean; O : integer array; chillax end

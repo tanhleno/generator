@@ -1,0 +1,1 @@
+program n : D45aa : takes D : integer array returns nothing o, H, BA : boolean; rJ7a, _4, D : integer; while - o and 19 + 5 : while 6600 : chillax end; output "\"1\""; do yM(1); pop end end main : let a = true * true and 6340 end

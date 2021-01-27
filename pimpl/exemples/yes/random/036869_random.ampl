@@ -1,0 +1,1 @@
+program N : Y : takes WE1 : boolean; M : integer array; v7 : integer array returns integer array chillax end main : B4, K7, B : integer; Zr9a, MC, N, XB : boolean; m0, ZH, N, p36 : boolean; when case - false rem false and not 3 and 6 : chillax end; do b(w(99)); pop 0090 - 8 >= 817 end

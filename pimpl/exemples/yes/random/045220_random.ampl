@@ -1,0 +1,1 @@
+program YnO : RIYa : takes s7G0 : boolean array returns nothing when case - (9) - 1 - 6 < - 3 - 225 : output "1<"; while 0 : chillax end end otherwise : input hZL end; do kG(- 4 - 8); output "" . 23500 . "@" end main : W22a : boolean; input V[- Z3n]; when case - (44) : do m(991 = 6, 5) end case - false and 8 + 8 - 7 : chillax end end

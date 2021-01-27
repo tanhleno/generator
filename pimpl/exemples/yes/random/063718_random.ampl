@@ -1,0 +1,1 @@
+program d : A : takes GV : integer returns nothing chillax end R : takes f, y : boolean returns nothing pop; let sz6[5] = array 6 end Ju : takes m, f79a, n5 : integer returns nothing chillax end main : q : boolean array; chillax end

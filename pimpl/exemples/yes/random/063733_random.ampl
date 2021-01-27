@@ -1,0 +1,1 @@
+program Y : y9_a : takes k : integer returns nothing chillax end Iu3 : takes e280a, n19 : integer array returns nothing let C = array - 87; do R(63 = 42, 4, 3); let m0[8] = array 0 end main : chillax end

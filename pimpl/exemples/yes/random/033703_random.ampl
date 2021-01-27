@@ -1,0 +1,1 @@
+program _ : zs2 : takes v3 : boolean; _, M95aa, hWfa, q : integer returns integer array chillax end main : Y, uRs0, t, Ge : boolean; jo, X, f : integer; O : boolean; I570a : boolean; d, T80 : boolean array; Y, vF6aa : boolean; d2 : boolean; chillax end

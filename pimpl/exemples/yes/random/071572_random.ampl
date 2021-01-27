@@ -1,0 +1,1 @@
+program aWb : main : h, m0, W : boolean array; fjb0a : boolean; d : integer array; while - 2 /= - not not 47 and GB and 04 or false : pop; output 3 . "" . "t^!"; when case 702 : pop end otherwise : chillax end end end

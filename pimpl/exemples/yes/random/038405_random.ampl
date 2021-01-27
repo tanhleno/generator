@@ -1,0 +1,1 @@
+program uK : N : takes v : boolean array; kg, i, o0 : integer returns integer array while - true - 3 > 431 : do S(96) end end K : takes U60a : integer returns boolean x, Js2 : integer array; while 7 - 6 : input M end; do I5(83) end main : chillax end

@@ -1,0 +1,1 @@
+program B : N : takes S2 : boolean returns nothing X, D : integer; B : boolean array; v8 : integer array; chillax end I : takes W : boolean returns nothing Mr8 : integer; input dxM; while 737 : output "" end; input O; output ""; while 8 : chillax end end main : chillax end

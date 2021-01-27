@@ -1,0 +1,1 @@
+program C : main : r, h, H : boolean; when case - false rem 4 * false or true >= E(38) rem not 84 and 9 - x55 + 44 - 1 : pop 3 end otherwise : while 57 : do w(1); pop end; when case 2 : chillax end case 70 : chillax end otherwise : chillax end end end

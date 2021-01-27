@@ -1,0 +1,1 @@
+program R : main : wZ, _vB : boolean array; z : integer; H, m, Q, o : integer; G5 : boolean array; J8x, yK, f40 : integer; B : boolean; let Yi[- (8) / not 0] = 9 * true and 3340 or B5 or 0 - 2 = false and 361 + 14; do J9v0(- false rem Yl and 73) end

@@ -1,0 +1,1 @@
+program W : main : k0, D890, cC : integer; Q, aD, p50aa, a : integer; C : boolean array; q, a : integer array; m, V, y : integer array; q3 : boolean; u : boolean; input F[U rem not false and not 0790 and 308] end

@@ -1,0 +1,1 @@
+program MM : R : takes LR, X : integer array; s : integer array returns nothing chillax end e6 : takes OU, _28aa, l, b, h, K : integer array returns nothing H : boolean; chillax end main : while(07) : input g8 end end

@@ -1,0 +1,1 @@
+program l : OC : takes f9, zV, V, b_3 : integer array returns integer chillax end dU : takes X : boolean; s0 : boolean array returns boolean array pop 1 = 6; while 3390 : chillax end end main : f, FD : boolean array; chillax end

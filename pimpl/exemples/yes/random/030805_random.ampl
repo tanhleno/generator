@@ -1,0 +1,1 @@
+program S : t : takes K, K3 : integer array returns nothing x : boolean array; Rh : integer; HP, T7O, z : boolean array; output "oe" . 82 end m9 : takes k5, V, p : integer returns nothing F, D : integer array; P, m9, XW : integer; w : boolean; do B9(9, 03 = 19); let Q = array 81 end main : chillax end

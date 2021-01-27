@@ -1,0 +1,1 @@
+program J3 : h : takes d, M : integer array returns boolean array s, o390 : integer array; when case - false and 29000 + 839 : chillax end; when case 7 >= 6 : when case 2 : chillax end end end main : c5 : integer; chillax end

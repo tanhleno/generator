@@ -1,0 +1,1 @@
+program _6 : w : takes Pe, y, AT : boolean returns boolean _ : boolean; Y : integer array; chillax end e : takes k, _10, t : boolean array; jy30a, S : boolean; Clt0a : boolean; J9f, w, N, skm : boolean array returns integer chillax end main : R, K4 : boolean array; chillax end

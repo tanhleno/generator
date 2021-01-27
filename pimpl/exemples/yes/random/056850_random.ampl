@@ -1,0 +1,1 @@
+program f3 : l : takes OV : integer array; A4oaa : integer array; y, HQs, g3 : integer array returns nothing chillax end main : J9k : integer array; iNvaa : boolean array; _ : boolean array; let e[- not true] = array - true rem(40) - 09500; output - not 7 or 5070 >= 07 end

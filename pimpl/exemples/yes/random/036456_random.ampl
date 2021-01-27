@@ -1,0 +1,1 @@
+program L : w : takes t : boolean; Co20a : integer; o, b8 : boolean array; f : integer array; Q, Sv : boolean returns integer chillax end _VT : takes t : integer; e : boolean array returns nothing do I0X0a(- 74600 = 20, 834 = 7, 9, 8) end v : takes Tx : integer returns nothing pop end main : chillax end

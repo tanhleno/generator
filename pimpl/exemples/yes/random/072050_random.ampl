@@ -1,0 +1,1 @@
+program L : main : V4, e, _2y0a : integer; y8, X08aa, _ : boolean array; when case - false * (93) rem not 7 - not not 82300 rem false < - not true / (387) + true : chillax end otherwise : chillax end end

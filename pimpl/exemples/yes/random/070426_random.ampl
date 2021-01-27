@@ -1,0 +1,1 @@
+program f5Ra : main : P, v, U13, g : integer array; i, x42, d : integer array; pop - true >= w and 96; pop; output 251 - 77 . ">"; input uY9a; when case 7 = 2 : chillax end case 9320 : chillax end case 4750 : chillax end end

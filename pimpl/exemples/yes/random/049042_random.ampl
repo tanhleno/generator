@@ -1,0 +1,1 @@
+program G3 : N : takes W : boolean returns nothing pop; do x(- 3 >= 27); input A6Ea[7]; output 80 end NZ : takes R6 : integer array returns boolean output "\n" . "" . "" end main : while - 0 rem true and 05300 and 887 <= (8) : do D4(3, 3) end end

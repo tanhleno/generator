@@ -1,0 +1,1 @@
+program AFB : K : takes h, B, dq : integer returns nothing DU, V7, pm8aa, L : integer; Z, E : boolean; YsQ0a, O : integer array; r2, r8 : boolean; R26 : boolean; chillax end K : takes glz, V2, y : integer returns integer chillax end J7 : takes p, J, k0Na, ie, P8 : boolean array; r : boolean array returns nothing j4, a6, v : boolean; chillax end main : input U9 end

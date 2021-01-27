@@ -1,0 +1,1 @@
+program UwN : main : x : boolean; pop(1) or not 6; when case - Y(8) + true and 5 : chillax end case - true and 93 : do x(038, 4); output "" end case - 48 - 7 > 4 : do d(7); output "" end case 5 = 2290 : when case 8 : chillax end end case 8 : pop end case 9 : chillax end; let B = - 25 - 9 = 9380 end

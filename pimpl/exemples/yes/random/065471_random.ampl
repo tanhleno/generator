@@ -1,0 +1,1 @@
+program y4 : X : takes J0Oaa : integer returns nothing when case - D8 and 93200 - 02 <= - 915 - 1 : chillax end case 12 - 412 <= 5 : let w = 1 end; let d = array 4 end main : x44a, _Q80, V : boolean; t : boolean; input Up3a end

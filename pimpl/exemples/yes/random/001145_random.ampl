@@ -1,0 +1,1 @@
+program p : a : takes U, I, tv, A490, _, o : boolean; R_Q : boolean array; _, J, E, P4 : integer array returns nothing q : integer array; input V[R9 and 730] end main : LYT : boolean array; A, J, f : boolean; output - 29000 and not 6 and 3 >= - (93) and 8 . - (6) > - 1 . "" . "3" end

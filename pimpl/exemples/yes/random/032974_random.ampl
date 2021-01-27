@@ -1,0 +1,1 @@
+program D : b : takes R, u : integer returns nothing input h6; pop 8430 = 8 end I : takes S, D : boolean; DV : boolean returns boolean d : integer array; while 34 : chillax end; input R0 end main : G89aa : integer; pop 16 or not 4 and 552 or 935 end

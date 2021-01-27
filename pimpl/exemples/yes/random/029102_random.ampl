@@ -1,0 +1,1 @@
+program E : o : takes eV9aa, A05 : integer array; S : integer returns integer array pop; input z end main : when case(9810 = 205) rem(3) <= (29) / 44 + true : chillax end case - N5d0a[35] + not 1 : chillax end case - sy2 and 6 : do Z(15); when case 30 : chillax end; while 5 : chillax end; pop end; when case - not not 290 rem gJ and 0 : output "=" . "" end end

@@ -1,0 +1,1 @@
+program Y : i : takes F0 : boolean; U : boolean returns nothing chillax end main : when case not 6 <= true : while 598 - 306 >= 4 : pop end; pop; while 2 : pop end end case b17 - HdV0 and 6 - 6 - 6 <= - false and 1170 + 12 - 8 : when case 0 : chillax end; input mF70; let E = 354 end case - not 0 and 1 : chillax end otherwise : chillax end; pop end

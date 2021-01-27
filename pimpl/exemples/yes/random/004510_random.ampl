@@ -1,0 +1,1 @@
+program a : t : takes S2, FZ, I, r : boolean; AU : boolean array; D : boolean array; N10 : boolean returns nothing chillax end G : takes BWD0a : integer; OR : boolean returns nothing g, p5m0, _xmaa : integer; chillax end main : let i = array 5 or(243) rem Aa and 5 - (6) and 8 - 039; while - (92) / not 8 and 9 : chillax end; let M6 = array 01 and 1 or 594 - 1 end

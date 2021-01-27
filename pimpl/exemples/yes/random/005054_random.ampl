@@ -1,0 +1,1 @@
+program y : V : takes I, d0, P, T4 : boolean array; _ : boolean array returns boolean array chillax end main : pop - 5 and E62 and 12; do j(- 08500, - false and 0 >= 011 - 970); output "" . 1 = 40 end

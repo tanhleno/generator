@@ -1,0 +1,1 @@
+program L : e : takes P, l, _, YS, E : integer array; s, n : integer returns nothing input ad; output 7 = 4 . "\n" . "" end main : input I5; let j3[(06) rem false + (5) and 28] = array h(488) + false and 3; let n[(2) and 66 - 4 - 2] = - 24500; let F[71 - 53] = array - 59300 end

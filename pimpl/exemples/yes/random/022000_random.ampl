@@ -1,0 +1,1 @@
+program i : N77 : takes q, ON : boolean array returns nothing chillax end main : jC, Cj : integer; zQ : integer array; C61a, C3 : boolean array; y, br3aa, dw7, u : boolean; do D(- false and Y[8] rem(8290) and 7); when case - true / not 0 and 05 < d and 671 : let i = 2 end otherwise : let N[4] = array 7 end; do Z(- (9) - 91 > 9250, - 2 - 81 <= 1) end

@@ -1,0 +1,1 @@
+program o : o58aa : takes T, N, j : integer returns integer output 9 /= 0090 . "ybaa" . 76 . "" . ""; do V(- 9 /= 54) end main : pB80a : boolean; while(84) rem not not 925 + not false - (9) : input A7[0] end; input s end

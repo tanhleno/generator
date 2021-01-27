@@ -1,0 +1,1 @@
+program s : BK : takes z410a : integer array; D : boolean returns nothing let U = array - 95 end main : P4Xaa, X : boolean; Hv : boolean array; Nh, J, Q6 : boolean array; eg6aa : boolean; when case false * 87100 * S - x / 18600 and 4 + true >= 2 and true + (93) and 677 or 2 - 0 : output "6" . "(" end case - not 8860 < - false and 47 : output 57 . 0 . "z5" end end

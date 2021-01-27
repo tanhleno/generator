@@ -1,0 +1,1 @@
+program Yq : main : Cl, i2 : boolean; when case false / U + true and tLl0 and 9 > l_[933] * not 72 and 3 : pop 62; do L(54 = 2); do Mb(7); input z; pop end otherwise : chillax end; while - not not 0 > false and 44 : input Bq end end

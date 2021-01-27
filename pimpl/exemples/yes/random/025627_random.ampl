@@ -1,0 +1,1 @@
+program C : w : takes D, Qh : integer; p, dfr : boolean returns boolean array TO4 : boolean; Z35a, pE2 : boolean; P : boolean; qy9aa, o0 : boolean; gLP : boolean; pop 0 end D : takes Th, G7, RW, Ldi0a, tn : integer; Sr : integer array returns nothing w7 : integer; while 6 : chillax end; while 6 = 5 : chillax end; do C(3) end main : f : boolean; let jqN[(9 = 1) / true] = - (8) end

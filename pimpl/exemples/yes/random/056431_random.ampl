@@ -1,0 +1,1 @@
+program q : a : takes K : integer array; o : boolean returns nothing NcGa, k_3 : boolean array; chillax end V : takes q, Q7C0a, e63, E : boolean returns integer input IPna[- 80] end main : chillax end

@@ -1,0 +1,1 @@
+program B : r95 : takes sI1, l, m9, V : boolean; q8, n : integer returns nothing when case not 65800 and 88900 or 5 = - 6 - 7 : let K6t0a = array 3; output "" end otherwise : chillax end end main : while false - true - (5) > 4 * true and 8 : chillax end end

@@ -1,0 +1,1 @@
+program zq : Q3m0 : takes B2V, qQ2, k, A1 : integer array returns nothing Q, f, p, X7 : boolean array; input aR6[- U or 1]; when case 8 - 6020 : chillax end; while 5 : input a; pop end; while 74 : chillax end; when case 89 : chillax end; input Up end Gp : takes f : boolean array; m33a : boolean returns boolean array chillax end main : q : boolean; chillax end

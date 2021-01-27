@@ -1,0 +1,1 @@
+program m_90 : z : takes x : integer; c9X : boolean array returns nothing q, a : boolean array; chillax end Xs : takes r : boolean array returns nothing input Ak end O : takes CN5 : integer array; QG0a, C23, M : boolean array returns integer array chillax end main : do Ss7(- false or false); pop; while 8 and 98200 : chillax end; output 5 = 7 . 682 . "" end

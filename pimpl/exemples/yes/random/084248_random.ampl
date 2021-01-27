@@ -1,0 +1,1 @@
+program N : main : KJ2 : integer; DU : integer; k730a, n8, fv : boolean array; while - true <= - Bar * false and 9 : pop 56; output "6w!" . "" . "" end; do i(- n(7) /= - true and 758 or 84 - 1); let Fzx0a = - 874 - 50 /= 64500; let Pe[7] = array 9380 end

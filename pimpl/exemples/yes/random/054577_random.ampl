@@ -1,0 +1,1 @@
+program _ : v : takes A : integer array; e, D800a : boolean array; u : boolean array returns nothing l5, t, F, s590a, q : integer array; while - 2 or 88 > 288 - 0 : chillax end end main : h : boolean array; chillax end

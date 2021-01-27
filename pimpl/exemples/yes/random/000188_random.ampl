@@ -1,0 +1,1 @@
+program P8 : y : takes Y, YK, s, RZ_0a, Ihaaa, Z4r, T, g : boolean array returns integer pop; when case - 38 - 117 : chillax end case 229 = 7 : output "F"; pop end; do o(3, 3); do q(3, 8) end main : y : integer; pKG, I, O, zpH : integer; chillax end

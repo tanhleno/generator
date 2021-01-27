@@ -1,0 +1,1 @@
+program S : S7 : takes W : boolean returns boolean array D : integer array; p : integer array; NR : integer array; output 68 <= 5 end main : V : boolean array; p : integer array; pop - false and true /= (4) or 1 end

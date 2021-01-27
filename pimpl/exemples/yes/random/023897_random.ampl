@@ -1,0 +1,1 @@
+program r : U1ba : takes d, O8 : boolean returns nothing chillax end T : takes AP, S9, vv90 : boolean array returns integer array do rI(8 - 2 > 943, 8, 568); do C1(74) end N2 : takes xJz, F : boolean returns nothing pop 88700 end Evc0 : takes VW0a : boolean returns nothing O, gd : boolean; when case 4 : pop end case 95 : chillax end; input L end main : chillax end

@@ -1,0 +1,1 @@
+program q4 : e6 : takes a : integer; H, y6, c7, h1 : boolean; o8 : integer array; w070 : integer array; S : boolean array returns nothing bq, yZ8, _0, u : boolean; output 16 - 07 end A : takes Tc3a, USIaa : boolean returns integer array let q[59] = 0; pop end main : W7, r, b : boolean array; y : boolean array; do K(- not false * false rem(98400) and 8, true); pop end

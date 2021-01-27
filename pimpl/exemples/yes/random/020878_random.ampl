@@ -1,0 +1,1 @@
+program S2paa : X : takes l, Yuyaa : boolean array returns boolean array Q8, v : boolean array; do z(- 26 and 7 > 92 - 94200) end q0Y : takes j, V : integer; r, E, i : boolean returns integer array G, i, g65, s : integer; um : boolean array; t : boolean; s8 : boolean; chillax end main : V, c, n, T3 : integer; M63, i : boolean; Z : integer; C : boolean array; chillax end

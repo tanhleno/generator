@@ -1,0 +1,1 @@
+program F3 : P : takes T, Ov1a : boolean array returns boolean array e4Z, L : boolean; Ka, Y : integer array; while false /= 44400 : chillax end end main : pop(3) and 2 - true and 01 or 740 <= (67) and 1; while(4) : let R9[69] = array 224 end; pop; while 8 /= 5 : when case 2310 : chillax end end; output "" end

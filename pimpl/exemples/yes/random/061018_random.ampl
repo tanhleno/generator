@@ -1,0 +1,1 @@
+program w6 : a : takes n : integer array returns nothing I03 : integer; S : boolean; output "" end main : J, p : integer; t : integer array; b : boolean; n6 : integer array; joQ0a : integer; when case not true / 9 or true : pop; while 9 : chillax end; when case 08 : chillax end otherwise : chillax end; do PS(8); output ""; pop end otherwise : pop 98100 end end

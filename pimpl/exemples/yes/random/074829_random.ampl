@@ -1,0 +1,1 @@
+program _H : main : P, j030a : boolean array; Q4b, d : boolean array; c66aa, Y4, S, b, m6 : integer; input j[- not true + g[4]]; while - F62(66) : let _M[34] = array 7120 end; input H; let m[14] = 11; pop 35 end

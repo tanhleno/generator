@@ -1,0 +1,1 @@
+program l : g : takes d : boolean returns boolean Zh, o9 : integer array; J15, V : boolean array; let zku[false] = array true and 6 + 7 - 0 end MC : takes m, Y2k0, N, TyG0 : boolean returns nothing B4 : boolean array; do I(87 - 58300 = 8, 3) end main : chillax end

@@ -1,0 +1,1 @@
+program u : gF : takes i3 : integer array; m, a : boolean returns integer when case false and 059 + 72 - 0 : chillax end case - 2750 : input Y2 end case 7070 = 0 : when case 69 : chillax end end end main : h4, Vn : integer array; chillax end

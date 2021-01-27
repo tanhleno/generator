@@ -1,0 +1,1 @@
+program E1 : L : takes t1laa, az, N : integer array; y8X : integer array returns nothing chillax end BEk : takes X8 : integer array; ssv0, YeW, Pg : boolean array; T, Sl : integer; x, pE7 : boolean; Y1E, EM : boolean array returns integer do mr3(6 - 6, 3370, 9, 91); do b(85 = 494, 9, 3); input f[1]; let c6 = 2; let lv = 9; pop end main : B, s : boolean array; chillax end

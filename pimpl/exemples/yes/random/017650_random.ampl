@@ -1,0 +1,1 @@
+program y : Az : takes T, u : boolean; t0jaa : boolean; An7a, o : integer returns nothing chillax end Z : takes k, iI : boolean array returns nothing when case 928 >= 676 : do x(640) end otherwise : when case 9 : chillax end end; let p7A0a[494] = 198 end main : chillax end

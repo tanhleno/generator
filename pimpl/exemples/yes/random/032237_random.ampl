@@ -1,0 +1,1 @@
+program RQ : T : takes D, N : integer returns nothing chillax end fRo0a : takes PO, n : boolean returns nothing a, R, R9 : boolean; P1 : integer array; chillax end x : takes H : boolean array returns integer output 89 end main : output 25700 * false and 43 . "e\"" . "6F" . "j?" end

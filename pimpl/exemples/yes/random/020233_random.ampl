@@ -1,0 +1,1 @@
+program j0 : k : takes QPMaa, d : boolean array; c : integer; uG7, Q, Pj9, l : boolean array returns integer array input LY[(1) and 9]; let x[836] = array 00; pop 85; let sUU = array 6; output ""; when case 75 : chillax end; pop end j : takes T : integer returns nothing p : boolean; chillax end main : chillax end

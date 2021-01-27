@@ -1,0 +1,1 @@
+program T9 : ZZ : takes RH4 : boolean array; rq9, L, vw, w : boolean returns integer array when case true and 51 + 43 : chillax end; while - 084 - 9 : do z(7); input vw end end main : e, d : integer; chillax end

@@ -1,0 +1,1 @@
+program V4 : main : J : boolean; lk, cy, W, l5, o, O1 : integer array; G, Js, l8 : boolean array; j : integer array; input v3[- false / not false]; when case - true rem true and 2 or e + 15 : output 1; output "" . ""; input g; let X = 9 end otherwise : chillax end; let r1i = array - S or 90 - 2 end

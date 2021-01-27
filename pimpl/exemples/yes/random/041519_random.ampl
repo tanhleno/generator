@@ -1,0 +1,1 @@
+program s7 : R3 : takes vn : boolean array returns boolean array chillax end main : W8 : boolean array; pop; while - true * FY and 05 + false - 414 < - not 00 and 70100 : chillax end; pop; let F = array 4 end

@@ -1,0 +1,1 @@
+program n : x : takes o, t, uT, o, N : boolean array; S5, xi : integer returns boolean array o : boolean; K4 : boolean; chillax end main : f, M : integer; pop - (869) and 0 and 4 - 35 and 8 > not 6 and 41 or 9; let Z = array ce7; when case RAxaa and 260 <= - 361 : chillax end; when case 308 - 099 > 591 : chillax end end

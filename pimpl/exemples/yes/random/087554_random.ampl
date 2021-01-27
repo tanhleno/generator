@@ -1,0 +1,1 @@
+program L : main : d9 : integer array; when case false * 84 + not true and not 16 = - not(19) and true and 2 - true - 42 : chillax end case - not not 9 < true and 6 - 9 : chillax end; pop true and 0 end

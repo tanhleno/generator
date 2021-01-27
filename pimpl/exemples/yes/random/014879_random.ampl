@@ -1,0 +1,1 @@
+program t6j0a : R : takes F, Z0, H : integer array returns boolean while - true or 1240 : chillax end end F8 : takes v : boolean array returns integer F : integer; x : integer; rG0 : boolean; pop 2 = 8 end main : j, yJ9a, I0 : boolean; b1, O4Eaa : integer array; tl6, Y : boolean; D1, Od4, Q3T : integer; chillax end

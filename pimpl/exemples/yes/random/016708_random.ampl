@@ -1,0 +1,1 @@
+program Q : F : takes z9Za, q : boolean; g, w3k, Uv, PW9, K2 : boolean array; q : boolean; Hg, El, E : integer array returns nothing D, EC20a, j : boolean; output "" . "" . 3; when case 3 - 01 : chillax end case 6190 = 1 : let j = 84 end case 392 : pop end otherwise : chillax end; input r[0] end main : I : integer; AT0aa : boolean array; chillax end

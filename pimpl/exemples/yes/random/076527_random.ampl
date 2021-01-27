@@ -1,0 +1,1 @@
+program A : main : m, N : integer; y : integer array; O, K : integer array; when case - 0 or N(0480) / (1) = - H8I - q1daa and 2 + 3 - 3 : let uq = array 91 - 18 end case - not 415 * not 8 : chillax end otherwise : output 79 end end

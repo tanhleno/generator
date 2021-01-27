@@ -1,0 +1,1 @@
+program S : main : output g; when case - 93 or true - 27 = - false : do G(98000, 77) end case(27) or 6 - 6 : chillax end case 1 /= 6500 : when case 806 : chillax end end case 46 : chillax end; when case x + 6 - 72200 <= 6 - 952 : chillax end case - 36 - 8 : chillax end case 7 : output "1" end; do D(0 - 9, 5 = 9) end

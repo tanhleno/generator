@@ -1,0 +1,1 @@
+program R : K1z : takes Y, r, N : boolean returns boolean nd : integer; do A(- true, - 5 - 96000 >= 3, 83 = 5, 6); pop; while 865 : chillax end; when case 928 : pop end case 1 : chillax end end main : B : boolean; g61 : boolean array; output "\n\t\"a"; output "ks\"" . "6\ta"; input d9[false and 7] end

@@ -1,0 +1,1 @@
+program i : I : takes Z, X, n6zaa : boolean array; M510a, A46aa : integer; n3, i : boolean returns integer array input t86[- q] end A0 : takes N, l290 : boolean array returns boolean array chillax end main : chillax end

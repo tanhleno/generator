@@ -1,0 +1,1 @@
+program S800a : main : uO, S8_ : boolean; z, Ru : boolean; er : integer; T4, L : boolean array; Q5 : integer array; let d[- false + not not 9 - 5 and 41 or 07 - 97] = array - n[204] and true rem true; when case(11) <= - not 589 + 729 : chillax end otherwise : chillax end; output "" . 1 . 529 . 3 . "\""; while 92 - 99 /= 5 : pop; while 2 : chillax end end end

@@ -1,0 +1,1 @@
+program L4 : a : takes b3 : boolean array; c5 : boolean array; h, e : boolean array returns nothing c4, a : boolean array; when case(73400) and 6 /= - 44 : chillax end case 8 > 3 : chillax end otherwise : chillax end; when case 40 - 794 >= 7 : chillax end otherwise : let a = 0500 end end KhH : takes cQ : boolean returns nothing chillax end main : chillax end

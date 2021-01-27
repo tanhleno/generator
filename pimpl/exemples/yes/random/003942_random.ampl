@@ -1,0 +1,1 @@
+program U : v6v : takes l4, R, m, E, jN6 : integer returns boolean array Q : boolean; when case z3 and 49 > 2 : chillax end case - 0 : input W end otherwise : let x = 216; when case 0 : chillax end end; let m = 0 end RH1 : takes bvH0a, R, H3, x, i7 : boolean array returns nothing F, G : integer; hMu0a, VyQ0a, kN2 : integer; k4G : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program aM8a : F : takes _ : integer; X : integer returns boolean y16, U, vOY, m85 : integer array; hr, q : integer array; e, XwB, r2 : integer array; R : boolean; chillax end main : while o or true * not 14500 + H and 7 : chillax end; when case true + (061) + 0 - 89 : do C9(8, 7, 7) end case 556 >= 18 - 5 : output "" . ""; output ""; input L; pop end end

@@ -1,0 +1,1 @@
+program aO : main : EV, D, r, t, x : boolean array; BW : boolean array; CP10a : integer array; let ir = - false > 945 + 5050; do p1(- 75 * false and 74 or 6 - 28 - 9 >= 5, - US and 10200 or 54300, 76 /= 0); output "q" . 87400 . "" . "" end

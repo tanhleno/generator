@@ -1,0 +1,1 @@
+program N : main : LYg, gsyaa : integer array; C, tZ : boolean array; output "Q" . 97 - 130; let V[true * 64 and 0 + not 0 and 1] = array false - true + 44 - 6; when case a78 and 8 < 262 - 053 : input J0L end end

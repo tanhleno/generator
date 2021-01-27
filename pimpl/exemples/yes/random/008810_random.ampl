@@ -1,0 +1,1 @@
+program l : R55 : takes t, F, J3Z : boolean; l, h3 : integer; p2, b, M7kaa : integer array returns boolean array G : boolean array; dN : boolean; chillax end main : let k5 = - not(98) + not 43 and 0; input Il[false * false - not 878 - 4] end

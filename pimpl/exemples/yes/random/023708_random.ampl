@@ -1,0 +1,1 @@
+program s1 : Z : takes h74, s : boolean returns integer i, x, l : boolean array; R, C : integer array; chillax end main : output - not 3 - true + 7 < O6; when case Ou50(9) or not 16 <= true or 19200 : chillax end otherwise : pop; pop end end

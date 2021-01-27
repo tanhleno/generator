@@ -1,0 +1,1 @@
+program f : main : c : boolean array; do V(false rem(8) / false - Haga * 7 and 3060 /= 71 rem not 99600 and 3, 72 * not 584 and 3 or N - 759 - 01300 < false and 4 or 4 - 114); output - rW7 + 44 - 1810 <= 1 . 0 - 39 . 1 end

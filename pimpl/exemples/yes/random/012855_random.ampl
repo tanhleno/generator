@@ -1,0 +1,1 @@
+program D6 : G7 : takes G, R, F : integer; SB70a, LhMa : boolean array; K8 : boolean; v, vb6a : boolean array; r0, o, R : boolean returns integer pop; let q9 = array 4 - 9; do jb(08 = 22, 2740, 3); let b[9] = 31100; let z = 97 end main : do h4Q0(- (1620 = 5270) < - (592)) end

@@ -1,0 +1,1 @@
+program w : d : takes A : boolean; P, a3, i, i, Ny : boolean array returns integer chillax end main : TLi0, lR : integer; while not not false / true rem false and 7 or false / not 94 and 239 - n or 9 = - true : output 5 = 8 end end

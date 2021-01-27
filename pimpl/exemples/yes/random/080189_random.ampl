@@ -1,0 +1,1 @@
+program q : main : T : boolean; output "\\"; output ""; when case - jH and 59 - 0 - 930 < 85 : output "\n" end otherwise : output ""; while 183 : chillax end; pop end; do a0ta(3); when case 8 = 521 : chillax end case 4 : chillax end otherwise : pop end; while 30100 : chillax end; input g9; output "" end

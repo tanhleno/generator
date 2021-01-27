@@ -1,0 +1,1 @@
+program P3 : MhS : takes Q : integer; F, BK : integer; kW, k_0, ZT, Sd : integer returns boolean array C : boolean array; chillax end r9zaa : takes x : boolean returns boolean chillax end R9 : takes v5Ca, QF6aa, O, S8 : integer array; m0ba, H : boolean array returns nothing p : boolean array; x : boolean; while 7 : while 4 : chillax end; pop end end main : chillax end

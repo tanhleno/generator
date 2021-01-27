@@ -1,0 +1,1 @@
+program Jmt : Z : takes t3, x, GY : integer returns nothing ua : boolean array; msK : integer; pop end I : takes Al : integer returns nothing XvKaa : boolean; n, d0 : integer; output 8 = 0 end main : output "\\" . - false and 20 . "" . "2" . 9; output - true - 8 end

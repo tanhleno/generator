@@ -1,0 +1,1 @@
+program k : d3 : takes zb30a : boolean array returns boolean output "" . "4" . "" end tO : takes b : boolean array; kb, S6 : boolean array returns nothing z580, Z5x0a, aD1 : integer array; chillax end rih0a : takes T6 : boolean; YD, F, cH : boolean returns boolean array do Gg(65700 = 10) end main : chillax end

@@ -1,0 +1,1 @@
+program T : j : takes I : boolean array returns nothing a, Y, z2 : boolean; c7O : boolean; while - C90 and 417 : chillax end end S36 : takes Gj : boolean array returns integer array chillax end b : takes i, E31aa, T_70a : integer array returns nothing SO : integer array; Lg, sK : boolean; do O(915 = 2) end main : while false / true : chillax end end

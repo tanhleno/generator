@@ -1,0 +1,1 @@
+program P : Kx0 : takes Sd : boolean; leIaa : integer; y7 : boolean array returns nothing input J[- false and 59 - 57] end main : aX, n : boolean array; vd, w5, R : boolean array; let i[g] = false * e4da and 9 - YC or 40; do e(not cnG0 rem 4 and 6 - not 2 = - (49) and 5, (7), 8130 < 91, 038, 15, 51) end

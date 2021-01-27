@@ -1,0 +1,1 @@
+program H8F0a : main : pop; do j(true rem 9 or not 7 + 03, (8660) and 442 or 5 >= 20 - 029); while - (759) and 01500 = - 51900 - 1 : when case 1 : chillax end; do bMmaa(8); while 0 : chillax end end; input V end

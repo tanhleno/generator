@@ -1,0 +1,1 @@
+program Y : WfE : takes MU : boolean returns nothing F : integer; do U(- 2570 and 2 - 2 - 2580 /= 2) end N : takes J, X, i : integer; uO, P : integer returns nothing chillax end A5 : takes au : integer array returns nothing pop 3; when case 51 : pop end case 1880 : chillax end end main : chillax end

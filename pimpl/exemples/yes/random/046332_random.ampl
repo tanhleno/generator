@@ -1,0 +1,1 @@
+program i : O94aa : takes W : boolean returns boolean let Z59[- (411) and 5070 or 9] = - 625; output "91!" . "" . "" . ""; while 4 = 49500 : output "\"\\0"; pop end end main : j, H : integer array; LH : integer array; hz : integer; chillax end

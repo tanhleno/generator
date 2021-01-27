@@ -1,0 +1,1 @@
+program b : Od : takes N : integer returns nothing chillax end L0k : takes d89, d : boolean returns nothing chillax end ta20 : takes D : integer returns integer k, CT, AO8 : boolean; output "" . 7 . ""; while 339 : pop end end main : when case not w(7) : chillax end otherwise : chillax end end

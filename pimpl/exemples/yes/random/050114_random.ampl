@@ -1,0 +1,1 @@
+program D : w : takes I58 : integer; t, p, XP20a : integer array; L : boolean; U : integer; v, LZd : boolean array; _8K : boolean array; r, I : boolean returns integer array I, g8, Z3Da : integer; g1, J, AJZ, _ : integer array; chillax end main : chillax end

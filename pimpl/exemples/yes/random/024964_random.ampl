@@ -1,0 +1,1 @@
+program i : t : takes v, p5S : integer; sY10, j, MW, a, D : boolean array; r9 : boolean returns nothing when case 62 and 176 > - 1 : input tvaaa[9] end case 751 - 822 : chillax end end main : chillax end

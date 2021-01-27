@@ -1,0 +1,1 @@
+program d : l : takes k, W, g, _6O, j, C0, J2, a : boolean array returns nothing input tL10[- 0 and 2]; input m end main : Lj : integer array; output - (5) - 1 <= - false and 6; when case - true : while 2 = 85 : input up end; pop 1; pop; let UD20a = 6 end case Ao - 4 - 1 = - 4 : chillax end otherwise : chillax end end

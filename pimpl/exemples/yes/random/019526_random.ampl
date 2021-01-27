@@ -1,0 +1,1 @@
+program f : y : takes Q, B : boolean array; h9, H2 : integer array returns boolean pop - 64 >= 2; while - 2 - 95 /= 41 : chillax end end main : while false and false rem not 47 < true / not 5 + false + 15900 : output "!" . "\n1\"a" . "" end; output true and 9 end

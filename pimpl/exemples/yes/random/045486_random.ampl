@@ -1,0 +1,1 @@
+program J3 : q4 : takes C : boolean returns boolean array chillax end main : when case - xHl(2, 0) / true / not 436 <= - false : chillax end case not Rix0 * S and 1 /= (46) and 0150 : pop 7 end case(83) and 6830 : output 14 end case - 64600 - 4 : chillax end; when case not N_1a + false : chillax end case - (1) < 6 : chillax end case - 9810 : chillax end end

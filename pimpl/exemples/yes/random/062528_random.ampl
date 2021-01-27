@@ -1,0 +1,1 @@
+program d : W6 : takes m : integer returns boolean VqM0a : integer; chillax end main : dz, d : integer; let p8[not true * 6 * true and 8] = array - 4 / not 4 and not 5; let z = array 1 or 8260 and 887 - 66; input v end

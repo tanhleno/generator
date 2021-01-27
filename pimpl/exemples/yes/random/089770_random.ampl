@@ -1,0 +1,1 @@
+program E : main : let g = array(65 = 705) / 5 * false or false rem false; pop; when case - not 8 and 88000 - 095 - 4 < - 0 - 71 : input Hz; when case 80 : chillax end end otherwise : chillax end end

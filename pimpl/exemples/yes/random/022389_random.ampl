@@ -1,0 +1,1 @@
+program xT3aa : u5 : takes ZU1, p : boolean array returns nothing F5 : boolean; do R(- 59 - 125 = - 5, 9 - 27 /= 9); pop; do pQw0(02400 = 2, 75, 0); do Na(1, 6) end main : let l = - true or true + 8 - 23 end

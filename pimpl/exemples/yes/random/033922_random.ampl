@@ -1,0 +1,1 @@
+program F5 : q9 : takes dqda : boolean; k, X94, _f90 : boolean returns integer array i7, d : boolean; p7, J : boolean; output "9" . "," end main : input x[- not true and not Qg6]; when case - true + not 64 and 0 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program P : KW : takes P, s : integer; G4 : boolean; E5oaa : integer array; c430a, S47, a, I9 : integer array returns nothing while - not 4 and 2 : when case 678 : chillax end case 0 : chillax end end; do K(- 3 < 5490, 2) end main : gkyaa : integer array; let Z = not false and true + true and 2 - 299 /= bLm end

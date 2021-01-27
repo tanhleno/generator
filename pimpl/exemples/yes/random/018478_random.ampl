@@ -1,0 +1,1 @@
+program j4 : N32aa : takes D8, J : boolean; b : integer returns boolean array chillax end Ikva : takes M, T, GH, F : integer array; s7 : integer array; g : boolean returns boolean chillax end main : let jL = array - 62900; do piW(- not w + (5) - 8 - 379 /= - (9)); let L = array - true and 6 end

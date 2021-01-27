@@ -1,0 +1,1 @@
+program G : _ : takes A620a, R, y : boolean returns integer array DN70a : boolean array; when case - p and 7 < - 80 : while 72 : chillax end end case 4 - 111 : output ")"; when case 2 : chillax end end otherwise : let b = 69; when case 2 : chillax end end; let g4 = 0; pop end main : chillax end

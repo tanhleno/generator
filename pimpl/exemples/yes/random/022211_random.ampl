@@ -1,0 +1,1 @@
+program l : Cs : takes _7q, kb : boolean array returns nothing Q, Z0, n_ : integer array; chillax end x : takes aa : integer array returns nothing X : boolean array; let uG[- 4] = array - 0 - 20 end main : chillax end

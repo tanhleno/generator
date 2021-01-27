@@ -1,0 +1,1 @@
+program c : Ucd : takes o : boolean array returns integer array chillax end K4 : takes B : boolean array; o1, I : boolean returns nothing while - 377 - 5 : while 6 : chillax end; do JN(0); pop end end main : output "" end

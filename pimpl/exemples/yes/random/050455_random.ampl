@@ -1,0 +1,1 @@
+program V8 : j : takes jjp : integer; N, G : boolean array; D, j, L : integer array; m : integer array; f7, K : integer; j : integer array returns nothing pop; when case 49 - 87800 <= 3 : let c = 5; output ""; pop end otherwise : pop end end J8 : takes V, k6 : integer array returns nothing input m1 end main : chillax end

@@ -1,0 +1,1 @@
+program F : m : takes l, E, o : boolean array returns nothing U, JlIa, u : integer; uE : boolean; while - (504) and 2 : input ois[99]; do p08(0410); when case 46 : chillax end end end main : V, A43 : integer array; while - false and 7 * false and 128 = o[8920] * not 75 and 4 - (0) and 2 or 86 : input e end end

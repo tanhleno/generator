@@ -1,0 +1,1 @@
+program Rm : i : takes n9 : integer array; q4z0, s : integer; N0xa, H, FL, u : boolean array returns nothing chillax end main : VuEa, L : boolean; XIN, U8, O7, p, f : integer array; while - not false / true / not 9 : let J4 = array - 3; while 138 : when case 77800 : chillax end end; pop; let a = 57 end end

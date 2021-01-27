@@ -1,0 +1,1 @@
+program Z : main : ZK, Oz10 : boolean; Pa2, J6, T17 : integer; input A7L[not false and false - false + false and 0 or 1 - 816]; let A[- true rem false] = - (42) and 9 - 4 /= - 24; output 0 = 53700 . "3" . 53 end

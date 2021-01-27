@@ -1,0 +1,1 @@
+program qa5 : G4 : takes R5, K, t, K, yg90, xlQa : boolean returns nothing input L5z[- false and 5]; when case 9 /= 641 : chillax end case 0 : chillax end end Ry : takes k60a : boolean returns integer chillax end main : I4, YGw0 : integer array; Y : integer; K5v : boolean array; chillax end

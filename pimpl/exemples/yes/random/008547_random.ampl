@@ -1,0 +1,1 @@
+program V : Df : takes yhh, u, P21 : boolean; Z, iI, m, htW0a : integer array returns integer array pop end main : let vDB0a[- (82 = 32) - (05)] = - true; let uv1[- 6 and c3I0 and 2] = array - true / not 38 or false and 0; do OW9a(- false /= 3, 2 - 5) end

@@ -1,0 +1,1 @@
+program H96aa : y : takes i : integer; Z : integer; p1 : integer returns boolean array do z(- R and 804 or 32); do k(6 - 3 < 3) end YI5 : takes k, bS, rSt : integer array returns boolean array M : integer array; chillax end main : B : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Z9 : C87aa : takes v : integer array returns integer c7, y160a, sD : integer array; chillax end Y0D : takes X, wf : boolean returns boolean Yc5, w : boolean array; while 7 > 7 : chillax end end main : pop - Mpj rem true end

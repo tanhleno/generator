@@ -1,0 +1,1 @@
+program L3 : g : takes I3, g39a, K : integer array; z : boolean returns boolean array do lV(- 5 and 1 < - 2 - 85, - 22 - 25 > 3, 2, 71500, 3) end _7 : takes Z9 : boolean; P5 : integer returns nothing jG80a : boolean array; chillax end main : xE, O19 : integer; chillax end

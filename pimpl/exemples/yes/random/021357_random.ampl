@@ -1,0 +1,1 @@
+program o : aU : takes K, m : boolean array returns integer array cR, ry, Z : integer array; o3Na, a : boolean array; j17aa, l, y : integer; when case - true or 5 - 17 <= - 844 : while 3 : chillax end end otherwise : when case 1 : chillax end; let e = 7; pop end end nG : takes Kt, yh : integer array returns nothing chillax end main : O46a : integer; chillax end

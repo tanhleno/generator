@@ -1,0 +1,1 @@
+program W9L : main : when case 5 / D : chillax end case - not ej <= - not 20800 and 2580 - 3 : chillax end otherwise : when case 10 : pop end case 76 : chillax end case 94 : chillax end otherwise : chillax end end; do k93a(- false or LLH = false and 67 or 23) end

@@ -1,0 +1,1 @@
+program N : G : takes za1, O : boolean array returns integer Qi4, X : boolean; aD : integer array; n, Q, F : integer; when case - true and 7 or 76 - 0 = 95 : chillax end; let i9 = array - 18 end main : F, WKYa : boolean array; W, A : integer; F : boolean; chillax end

@@ -1,0 +1,1 @@
+program g6 : l : takes ms5a, K : boolean; L : boolean array; u, J2, t : boolean array; M, y : integer array; Aj0 : boolean array returns nothing chillax end main : I : integer array; R2 : integer array; input k end

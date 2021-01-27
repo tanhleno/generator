@@ -1,0 +1,1 @@
+program CwG : e : takes R, wp8 : boolean; B : integer array; f7 : boolean array; g, Cb, P : boolean; nnT, ox2, K : integer; W1, W : integer array returns nothing chillax end o : takes S : boolean returns nothing chillax end main : Qi, WSTaa : boolean array; chillax end

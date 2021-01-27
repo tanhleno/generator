@@ -1,0 +1,1 @@
+program e : main : output "" . - u or 26 - 7; when case - false / true : pop 3630 end case x : when case 38 : pop end case 9 : chillax end otherwise : chillax end; do f90(9) end otherwise : pop 1 end; when case g and 56 : input w850a; pop; pop end otherwise : pop end; when case 0 - 78000 : pop; when case 1040 : chillax end; pop end end

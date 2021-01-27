@@ -1,0 +1,1 @@
+program J4 : Vb : takes bT : boolean; r : integer returns nothing chillax end main : while - 9 = false / 8 and 4 : chillax end; when case M[54] or 283 + 7370 - 57 : chillax end case - 8 and 2 = - 8 - 2790 : chillax end; while - false and 5 : chillax end; let C = 73 end

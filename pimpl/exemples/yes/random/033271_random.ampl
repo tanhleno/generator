@@ -1,0 +1,1 @@
+program zBg0 : n : takes k : boolean; f, G2, hD4, Wm, c6, z : boolean array returns integer when case - (1) and 1 > - 195 - 1 : do g(0, 04); do wS(75); pop; pop end case - 87 : chillax end end LP8aa : takes F3, kY70 : integer array; N : integer; _5 : boolean returns integer array B : integer array; X : boolean; chillax end main : G : boolean; chillax end

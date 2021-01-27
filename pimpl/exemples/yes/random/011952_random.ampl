@@ -1,0 +1,1 @@
+program AS20a : t : takes u, O, z : boolean returns integer S, j : integer array; chillax end main : M : integer array; Ug, _YO, a : boolean array; when case - not 5 rem vj7(197) and false - P1K(753) - true and 2 : pop; do j1(343) end case - (0) : input ee end end

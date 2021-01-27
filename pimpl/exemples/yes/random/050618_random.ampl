@@ -1,0 +1,1 @@
+program S : x8r : takes u : integer; Lsf0, t2w0 : boolean array returns nothing chillax end main : while true * 9 / Ra : while - 44 > 39000 : output "k" end; pop; when case 8 : pop end case 101 : chillax end otherwise : chillax end; do Y(939); output ""; pop end; output x - 8; pop - 9 - 5 end

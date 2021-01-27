@@ -1,0 +1,1 @@
+program _ : mt : takes S : integer array; p29 : integer array; du90 : boolean array; qc, Q, A2, I, Y7Da : integer array; W0 : integer array returns nothing chillax end main : when case(9350) / true rem 59 and 28 or 31400 <= 4 * not 9 and 2 - true : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program JSC : w : takes W : boolean returns integer array do r(false and 6 or 69500 - 20, - 81400 - 7, 5790, 7, 5); let s4[42 - 45000] = array 4 - 0; output 7 . "<F" end main : Y, X3, d, i, r : integer; do LX((5 = 03) > false / 3 and 490 + false and 01900 or 6210) end

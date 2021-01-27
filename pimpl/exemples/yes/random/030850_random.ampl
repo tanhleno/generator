@@ -1,0 +1,1 @@
+program w : s2 : takes vr4, kQAaa : integer array returns nothing Wi7aa : integer; u, C, M : integer; chillax end main : l : integer; pop ZMGaa[31] >= - (62) and 8 - 28; let C5ya[false] = array true / false and 374 end

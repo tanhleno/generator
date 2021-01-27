@@ -1,0 +1,1 @@
+program MP0aa : BM6a : takes d : integer; n : boolean returns nothing chillax end R : takes x4, P : boolean array; lj, Vz4a, zsK, v3Eaa : boolean; n : integer array returns nothing R3V : boolean array; w, B1 : boolean array; chillax end main : chillax end

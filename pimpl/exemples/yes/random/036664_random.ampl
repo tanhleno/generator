@@ -1,0 +1,1 @@
+program N : V810a : takes R : boolean; Z : integer array; o1N0, b, T, Fd : integer returns boolean chillax end K : takes uO3, t : boolean returns nothing input kb2[- 2 - 3]; let H = array 7 end AY00 : takes K4t, O5M0, _f, R : integer array returns boolean chillax end main : x : integer array; c, e49 : boolean; input A; pop - true and 24 - 44; pop end

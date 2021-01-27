@@ -1,0 +1,1 @@
+program O : a1 : takes t, v : integer returns boolean array input e; do j(2 /= 06) end b : takes uH7 : integer; j9 : integer; zF : boolean array; NaD : integer; dX, Ka, V9 : boolean array; B, K560a : boolean returns nothing output 75 . "" . "LG" . "" end main : pop; input I end

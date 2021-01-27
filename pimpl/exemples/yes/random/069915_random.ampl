@@ -1,0 +1,1 @@
+program C3 : main : L, X31, b8, j : boolean array; VBU : integer; when case - 91600 / (56) - (87) rem not 5 : do ay(0 - 4870 = 57) end case - not lZ rem not 3 and 65 or true : while 4 = 329 : chillax end end otherwise : chillax end end

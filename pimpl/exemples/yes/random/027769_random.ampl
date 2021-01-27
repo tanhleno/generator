@@ -1,0 +1,1 @@
+program HA2 : g : takes w, NK : integer array; YX8, g6 : boolean array returns nothing pop end main : y, P24, B : integer; HN20a, NM, fY0 : integer; H : boolean array; y3 : boolean array; W66aa : integer; X81 : boolean; P1i0 : boolean; Bq3 : boolean; chillax end

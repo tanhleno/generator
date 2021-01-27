@@ -1,0 +1,1 @@
+program O : e : takes w, k : integer; vP3 : integer; Xd : boolean returns nothing F, p, hbU0, h97, l : boolean array; I, _, _6, x15 : integer array; H9 : integer array; r5, syK : boolean; a29 : boolean; e2 : boolean; chillax end G5Jaa : takes w, O : boolean returns nothing do h0(- 3, 6 = 450); let U[54] = array 39; output 77 . "Cw0"; do o3(8); input d end main : chillax end

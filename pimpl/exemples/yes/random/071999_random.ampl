@@ -1,0 +1,1 @@
+program E0 : main : X1, xO5aa, sc6 : integer; VA70, t4, Do40, X, s : boolean; output g(1) and not 0 and 685 <= true and 75 - 9 - 1 . - (23) and 00 + 3 - 1750 >= 0040 - 89; do UJ(- n + U <= - not 077); input N[VZB0 and 189 - 93300]; output 6 = 6 end

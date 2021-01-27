@@ -1,0 +1,1 @@
+program cp7a : U4 : takes J : boolean array; O5 : boolean array returns integer z, g110a, TD40 : boolean array; YDv0 : boolean array; when case(62) or 09 : chillax end otherwise : chillax end; while - 78 >= 8 : chillax end end main : nV, n6 : boolean; chillax end

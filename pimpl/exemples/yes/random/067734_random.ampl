@@ -1,0 +1,1 @@
+program n : main : do XS4(46500 rem true - true / a and 05 + (0) and 5680 or 7 - 1 <= true * 12 and 64, not true rem(8010) and 9 or(49) and 7 >= - C2Q and 89); while - false rem false or(25) and 8 - 9 - 0 <= - true + 258 - 51 : output "{" . 186; do s(8, 7); input y; when case 4 : chillax end; pop end end

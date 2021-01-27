@@ -1,0 +1,1 @@
+program t2A : main : pop - 4 rem false and 1 + Q or 20 - 2 /= - rWz or 0250 - 73; let J4[- D(6)] = 5 and 0220 - 9980 < - 67; when case - (06) or 5 - 636 : input d; output "" end case 0 - 3 < 0 : chillax end case 6 = 0 : while 6 : chillax end; pop end case 9 : pop end; while 9 - 7 : output ""; do x(3250) end end

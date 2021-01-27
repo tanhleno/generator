@@ -1,0 +1,1 @@
+program V : s : takes R : boolean returns boolean array pB8a, Z, G : boolean array; input J[- (37) and 9]; do ta7(6 - 375, 6 = 4690); output "7" end X5 : takes K, f, I7 : boolean array; P : integer; U : boolean array; j : integer returns nothing chillax end main : chillax end

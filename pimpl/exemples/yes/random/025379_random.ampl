@@ -1,0 +1,1 @@
+program d7D : SP : takes m, w : integer; O6qa, y7r0, Ym : integer array returns nothing chillax end y : takes u, H : boolean returns integer array H8 : boolean array; while 9 - 46 : when case 8 : chillax end; do cM(85) end; pop 7 end main : chillax end

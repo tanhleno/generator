@@ -1,0 +1,1 @@
+program D4 : b : takes y, d7W, o, j, l : boolean array; t : boolean returns boolean array when case - true and 4 : chillax end case - 7 - 3 >= 1 : chillax end; do l0I(- 037) end main : UU4 : boolean; h : integer; chillax end

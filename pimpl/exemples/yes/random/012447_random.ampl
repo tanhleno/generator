@@ -1,0 +1,1 @@
+program L : Nyqa : takes A_8, O, y : boolean returns nothing output - 6 . 7 . 97 . 985; let t[- 1 - 07] = 954 end jke0 : takes x0, t63 : boolean returns boolean array chillax end main : oN : integer array; chillax end

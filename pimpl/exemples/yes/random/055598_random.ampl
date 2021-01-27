@@ -1,0 +1,1 @@
+program I : w : takes n : integer array; m3 : boolean; EG1, g : integer returns nothing pop - 0 - 336 >= 33; when case 2730 = 0 : do z(6) end case 1 : chillax end case 581 : pop end case 0 : chillax end end e : takes u8J, b : integer; M, _z, R : boolean returns nothing chillax end main : chillax end

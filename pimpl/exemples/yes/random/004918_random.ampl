@@ -1,0 +1,1 @@
+program in8aa : N : takes M, w210a, z, w : boolean array; Y5y, BWd0 : boolean returns nothing WS, c, s : boolean array; a, U : integer array; while 164 - 3 : while 709 : chillax end end end main : y, e1, WS10a, g : integer array; chillax end

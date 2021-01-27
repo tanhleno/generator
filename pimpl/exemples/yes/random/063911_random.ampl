@@ -1,0 +1,1 @@
+program H : L9_0a : takes mgA : integer returns nothing chillax end main : K, s, K : integer; G, Cb, odW0, w7 : integer array; z : boolean; let _[(6) rem true rem R7 and 6] = array - (89 = 18) and not(9) * false and 767 end

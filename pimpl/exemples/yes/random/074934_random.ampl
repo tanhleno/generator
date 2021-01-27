@@ -1,0 +1,1 @@
+program Kd9aa : main : XB, l : boolean array; E, p : integer array; ln, X : integer array; pop(1) / true and 2 or true and 1 < - not 92 and 26; output not 03 and 597 - 2 - 3 . - 31 > 87900 . 3 = 33 end

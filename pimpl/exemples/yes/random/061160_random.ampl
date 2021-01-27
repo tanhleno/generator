@@ -1,0 +1,1 @@
+program i : a : takes c : integer array returns nothing T : integer array; oH9 : integer; do Z(- NQ + 6 - 3); input o end main : Ud, AW70a : integer; XD : integer array; input K[true * U * false and 4] end

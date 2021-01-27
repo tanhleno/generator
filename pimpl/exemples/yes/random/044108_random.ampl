@@ -1,0 +1,1 @@
+program q : N : takes C7 : boolean array returns nothing R, aM3, m : integer; chillax end main : let Ne[- false and true] = array - false rem true; while - z8 > true or 2 : let r = 86; when case 48 : pop end; input m8 end end

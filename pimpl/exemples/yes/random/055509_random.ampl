@@ -1,0 +1,1 @@
+program Z : ha5 : takes FS : integer array; n120 : boolean; tIna, J, j : integer array returns nothing FN0 : integer array; tg : boolean; output "6y" end main : W, p, Op : boolean; _ : boolean array; chillax end

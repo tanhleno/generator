@@ -1,0 +1,1 @@
+program a01 : T9Xaa : takes W, QY, BA : boolean; Y63 : integer array returns nothing O5, Z : boolean; U : integer; chillax end cIe : takes TR : boolean array returns integer array chillax end main : pop; do l(- t0, ud and 37 < - 2, - 45 - 3 < 98, 2); pop; when case - 6 > 5 : let FF = 215 end case 60 = 4 : output "\\"; pop end; input B[0] end

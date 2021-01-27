@@ -1,0 +1,1 @@
+program WK7 : main : b5 : boolean; t71, g480 : boolean; AL, E, D : integer array; Fh, u : boolean; f2, n : boolean array; j : boolean; me : boolean; dYi : boolean; output true or(2) + 981 - 6 > - false . ""; input t7D0a; output "1`" end

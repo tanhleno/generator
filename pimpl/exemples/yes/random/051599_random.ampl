@@ -1,0 +1,1 @@
+program eG : X : takes y : integer; K : boolean array; a2f, Fc, m2Da : boolean; s : boolean; J : boolean returns boolean array GV : integer; T : integer array; r82, M : integer array; b, Wm : boolean; Xp : boolean; g : boolean; do W7faa(true or 6840 >= 5, - 833 - 545, 5 = 4, 8, 4); while - 7 - 5 : chillax end end main : chillax end

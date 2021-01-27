@@ -1,0 +1,1 @@
+program d : I : takes O3E, l : integer; i : boolean returns nothing when case false and 8 <= - 2 - 18 : let W2 = 3; while 78 : chillax end; output ""; pop end case - 400 <= 6 : input Bl9; input Z; pop end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program KBuaa : cW : takes aW, g, d : boolean array returns nothing while - false - 4 - 130 : while 2 : pop end; input v; output "-"; pop end end wX : takes b8ka : integer; M, NS, MD, UK : boolean array; c : integer returns integer when case 38100 : input M7; output "cU"; pop end; pop 1 end xE : takes ow7, XA : integer array returns nothing output ""; pop end main : chillax end

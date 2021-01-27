@@ -1,0 +1,1 @@
+program o910a : R : takes qL, d51 : integer array; U : integer array returns nothing chillax end b : takes IjS, K : boolean array returns integer array S56 : integer; chillax end i : takes z : integer array returns integer while 5530 : chillax end; pop end main : E, f7Na, g39, h : integer array; b4 : integer array; R, u, t : integer array; A31 : boolean array; chillax end

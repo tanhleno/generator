@@ -1,0 +1,1 @@
+program fK2a : k : takes c : integer array returns integer when case(7) + 3 > - 7 - 0 : chillax end case 4 - 60 : chillax end case 0 = 0 : chillax end case 6 : pop end otherwise : when case 115 : chillax end end end zd : takes f9 : boolean array returns boolean array g : boolean; Q, j6, T : integer array; M, S : boolean; chillax end main : chillax end

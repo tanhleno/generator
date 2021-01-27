@@ -1,0 +1,1 @@
+program q : u : takes w, b : boolean array; Y82 : integer returns boolean array chillax end R : takes a : integer array returns boolean _, Y6, G, H : boolean array; do uVg0a(- 0 - 9) end main : P, k1, F50a : boolean; T, vW, ts5, W3, jy : integer; chillax end

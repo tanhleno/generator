@@ -1,0 +1,1 @@
+program Cj : i : takes Q : boolean; x : boolean returns integer K, RR : boolean; k0S0a : integer array; QMsaa : boolean; chillax end main : do E(- not a[22] / not(3) - false > - 325 rem 03300 and 68 or 51 and 5, - true, EU3, - 9); let pk[- false and not 400 and 522] = array not not 11 / false end

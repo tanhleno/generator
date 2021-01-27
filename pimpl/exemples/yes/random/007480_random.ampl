@@ -1,0 +1,1 @@
+program hW : h : takes g, G, V4, L : integer array returns boolean B0 : integer; uG0, dp5, L : integer array; H1x, s63a, t : integer array; l6, g86 : boolean; i : boolean; chillax end main : do T(false + true / 274 > - (385) / (81) and 9 - F0 or 176 - 43500) end

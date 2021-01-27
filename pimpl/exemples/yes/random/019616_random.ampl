@@ -1,0 +1,1 @@
+program D2 : oon : takes Z, o : boolean array; k9, b2 : integer returns integer array I : integer; P9Naa, L : integer array; while - not 1 or 1 : let o0 = 6 end end r : takes o, M, gU, qY : integer array; F12a, iosaa, aw, o4, C4 : boolean; z6N, H8Aaa, Y : integer returns nothing chillax end main : chillax end

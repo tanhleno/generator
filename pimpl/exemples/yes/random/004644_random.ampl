@@ -1,0 +1,1 @@
+program H : K9Raa : takes h, N, hC_0, BD8a : boolean; D4l : integer array; ePa : boolean array returns nothing chillax end main : s : integer; output 26 * true or(60600) and 784 = not 76 and 68 or 93600; input f end

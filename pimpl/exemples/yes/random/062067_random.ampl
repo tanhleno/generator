@@ -1,0 +1,1 @@
+program N7t0 : x9 : takes zj : integer returns boolean array input w end q : takes i5h, G, T : integer returns integer chillax end b43a : takes k : integer array; xd : integer returns boolean when case 80 = 469 : chillax end end main : m, s, kYe : integer; QqX : integer; iG, x9 : integer array; chillax end

@@ -1,0 +1,1 @@
+program GP : N7 : takes S, o4 : integer array returns nothing _, Q : boolean; E, xY : integer array; y : boolean array; input n9[not 997 + 97400] end main : J, U : boolean; M, Xg8 : integer; qE, I, yL4aa, KdW : boolean; chillax end

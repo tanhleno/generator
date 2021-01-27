@@ -1,0 +1,1 @@
+program l : t : takes T, H0, c, T0_ : integer; O2L0a, s6 : boolean returns nothing while - (2) or 00 /= 493 : output "9\t" . "" end; let aO[- 356 - 4] = array - 5380 - 983; do w9(09, 36) end main : e7 : integer array; z : boolean; e, R, v0, A, MI : integer; do ms(X - false * (04) and 2 or e or 4, - r(72) <= - FR + 29) end

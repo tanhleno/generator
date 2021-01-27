@@ -1,0 +1,1 @@
+program Y : S : takes KT : integer returns nothing chillax end main : ZTk, z, G, P7, S34aa, Iz : integer; J, Bgka : integer; when case 5 < - g5U(6) / 52 - true : chillax end case - not not 7 rem iZ and 67 : output "F" . 745 . "h" end otherwise : input J end end

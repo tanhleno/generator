@@ -1,0 +1,1 @@
+program e5 : p : takes K : boolean; g, qv80 : integer returns nothing Pq, g : integer; C, pn : integer; NP : boolean array; chillax end main : let C8h[true + true - not 0 and 227 - 23 - 4] = array - false; do P(not 4 / 16700 and 23400 < 59 and 2, - false and 5 - 4610 - 00, 38 - 090, 32, 0) end

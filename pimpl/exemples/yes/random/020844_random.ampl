@@ -1,0 +1,1 @@
+program S7n0 : gl : takes V, h : boolean array returns boolean array vG4, x, h3Aa, F5u : boolean array; W : boolean; qT : integer array; V, q : boolean; k3a : boolean; output "}Daa" . 8; do JA(4340, 0, 4) end main : pop; pop - false; when case pu or 884 - 6 = 4 - 6 : let r[0] = 7; output "@\n0"; do d(28); pop end end

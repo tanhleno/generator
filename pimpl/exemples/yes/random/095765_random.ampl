@@ -1,0 +1,1 @@
+program Lb : main : when case - false * true > (31) : pop 7 = 4 end case - (863) + (8) and 6440 < - false : chillax end case 20 and 9 - 0 - 13 >= - 08 - 35 : while 1 : pop end; output "" end case - 97 - 2 /= 6 : input y end case 7 = 11 : let mF = 8; pop end; input D4; when case false and 2 : chillax end otherwise : chillax end; input J8 end

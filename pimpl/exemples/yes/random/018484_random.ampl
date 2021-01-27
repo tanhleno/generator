@@ -1,0 +1,1 @@
+program g9y0 : vC6 : takes M370, x : boolean; uPZ0a : integer returns boolean array mP : boolean array; output - 10 >= 782; input aj end wu : takes z, HO, V, NN : boolean array returns nothing WY : boolean array; let q[- 972 - 2] = 40200 = 90 end main : O, FMy : boolean; chillax end

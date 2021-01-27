@@ -1,0 +1,1 @@
+program S9 : q : takes A7 : boolean array; s, pC5, i : integer returns nothing output "~"; while 7 - 3 >= 0 : let _ = 1 end; do J8T(3 = 4, 29) end S : takes BX, IcQaa : integer; s, mt, AI : boolean returns integer array chillax end main : chillax end

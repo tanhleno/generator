@@ -1,0 +1,1 @@
+program z : d : takes N, k : boolean; K69 : integer array returns nothing Z8, V : integer array; chillax end main : S : integer; when case(6 = 3) - not WR or 7 - 3 - 6 : chillax end case - true / false and 2 > - 248 - 71 : chillax end case false and 6080 : pop 5; pop; pop end otherwise : input c2[6]; input J[14]; do D(7640) end end

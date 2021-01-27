@@ -1,0 +1,1 @@
+program Ul : J : takes g1 : integer array returns nothing n5 : integer; input q[not 2 and 1 + 97 - 0]; while - 2 - 72 : let r1 = 97 end; let Wz = array 3 end main : P410a, f : integer array; q : boolean array; chillax end

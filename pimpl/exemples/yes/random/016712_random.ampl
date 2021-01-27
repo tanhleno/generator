@@ -1,0 +1,1 @@
+program M : j1 : takes O0, q4u : boolean; T4V, fc, K9V0, Vm4aa, _ : boolean array returns boolean O4 : boolean; chillax end e880 : takes K : boolean; g0S0a, D : boolean; u, s9, R : integer returns integer output "" . 06; while 892 = 8 : input N; pop end end main : A_n, j : integer array; while - cg(6) * not J93a - true + 0 - 9 - 0 >= 1 + 7 or 07 : input o[- 0] end end

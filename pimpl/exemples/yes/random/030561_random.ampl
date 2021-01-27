@@ -1,0 +1,1 @@
+program E : w : takes z4, VT : integer array returns nothing Q7baa, a, vw : integer; let a[false and 7] = array - true; let G[- 9] = 2 = 8 end main : do q(24200 * true rem X and 28 or false + not 5850, - not 5 or not 95 and 0 or 58 - 56, not 2610 and 11, 0) end

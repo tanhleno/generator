@@ -1,0 +1,1 @@
+program ce : Ow : takes x : integer; I : integer returns nothing chillax end d890 : takes I, u : integer; Z, Y5l0 : boolean returns nothing v26 : boolean; when case - 64800 /= 6 : do H4(397); let d = 9 end; when case 6 : chillax end otherwise : pop end; output "\t" . ""; do tT(2) end main : output false >= (2) and 335 end

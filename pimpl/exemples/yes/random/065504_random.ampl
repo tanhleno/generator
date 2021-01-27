@@ -1,0 +1,1 @@
+program cK90a : m_8a : takes M : integer returns nothing when case not 0 - 9060 - 641 : input a end; input k[0080]; pop; pop 04 end main : B4, q : boolean; Bb60a, A1, tn1a, P : boolean array; V8eaa, f6, O070, q : integer array; do EfF((99 = 0), not not 1 / true and 913 or 17300 and 5 + 0) end

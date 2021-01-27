@@ -1,0 +1,1 @@
+program iy : fL : takes t : boolean returns nothing w : boolean; output "x\""; while - 10900 - 0 : let L = 7; let j = 6 end end Q21aa : takes S2P, k : integer array returns boolean input a0 end main : chillax end

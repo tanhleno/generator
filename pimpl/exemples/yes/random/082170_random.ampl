@@ -1,0 +1,1 @@
+program o8Y0a : main : G : boolean array; c4 : integer array; when case - 5 or not true < - false * not 9 or(71) : while - 4 : chillax end end case not g rem true or 23 + 0 /= - 111 and 8 : chillax end case - E + 97200 : do J9(0, 50500); input u7; output "\n" end case 96 /= 73 : chillax end case 50 = 4 : chillax end; let L0 = z05 + 96200 /= 26600 end

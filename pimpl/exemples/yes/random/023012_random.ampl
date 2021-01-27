@@ -1,0 +1,1 @@
+program LRLa : n : takes h, c0 : boolean returns boolean array O : integer; chillax end bG : takes Q : boolean; xa3, U_, Fu6 : boolean; j : boolean; d, p : integer array returns boolean chillax end main : let _ = array - false rem GF or tA5[034]; pop end

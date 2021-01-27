@@ -1,0 +1,1 @@
+program a : URWa : takes a7 : integer returns integer G : integer array; a3 : boolean; chillax end main : uEm, D60 : integer; do S_0(true or true or not 54 and 6 - 5 - 7, d95aa, - (8) or 3 - 098, - 9 - 6) end

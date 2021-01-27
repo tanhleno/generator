@@ -1,0 +1,1 @@
+program n8 : j : takes b : boolean; k, K290a : boolean returns integer array when case X55a or 638 - 4 : chillax end; pop; when case 74 : chillax end case 0 : chillax end otherwise : pop end end main : chillax end

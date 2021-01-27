@@ -1,0 +1,1 @@
+program T4 : z : takes SQ1, z8 : integer array returns nothing tVr : boolean array; chillax end Iag : takes b : integer; qDl0 : integer; F : integer array returns nothing let X[- 9 - 2] = 75 = 1; while 4 = 3 : output "730a"; pop end end main : lR : integer; e, n : integer array; chillax end

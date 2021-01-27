@@ -1,0 +1,1 @@
+program C : Q4 : takes G : integer array returns nothing e : integer; nY3aa, c4, l31, LX2a : integer; let A4[49 - 5] = 5350 - 6 >= 13; output "\"I0" end w : takes X37, H : integer returns nothing do h(- 82 - 38 /= 7); output "" . "\\t0" . "5"; pop end main : output ""; output "\t" . - 15 - 48600; let G6[- true and 859 + 6] = array - not 60 and 4; output "" . "" end

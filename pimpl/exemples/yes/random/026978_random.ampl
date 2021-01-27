@@ -1,0 +1,1 @@
+program JC : h : takes aU0, omla : integer; H : integer returns nothing W, V77aa : integer; let y[- true] = array a - 01 - 9; let A = array 366 - 664 end main : S6 : boolean array; x, eP, M9c0, J, I0, R1 : boolean array; om, b3 : boolean; pop; when case not(3) and(20) - (4) = (1) and 1 : input C end otherwise : output "\n\\" . "" end end

@@ -1,0 +1,1 @@
+program D : B9b0 : takes OV : boolean array; R : boolean; I : boolean returns nothing let T6l = array H4 + 04 - 75 end f72a : takes L : integer array; eH : integer; WW, B, E, e : boolean array returns nothing chillax end E : takes HJ, L, qG : boolean returns nothing nZ9a : integer array; chillax end main : j : boolean; chillax end

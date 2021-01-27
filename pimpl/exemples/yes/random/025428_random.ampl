@@ -1,0 +1,1 @@
+program A : e : takes P61aa, r9 : integer; T, k : boolean; X, E, K : boolean returns boolean array c35, w, r : integer array; VD, Z54, yOAa, ZL8 : boolean; qJ : boolean array; sn : boolean; chillax end main : S0ha, U : integer array; O : boolean; while(8) * (4) : chillax end end

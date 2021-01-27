@@ -1,0 +1,1 @@
+program R : I3 : takes j, c5, B_ : boolean; LN20, M, lY90a, TP : boolean; O, jJ1 : integer array returns nothing wKh : boolean; b, d : boolean; chillax end main : DG_ : boolean array; while false : chillax end end

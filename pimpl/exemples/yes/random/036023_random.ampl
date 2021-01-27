@@ -1,0 +1,1 @@
+program _EX0 : x : takes Un : boolean; OG : boolean array returns nothing J, M6 : integer; let t9 = array - false end main : C69aa : boolean array; w : integer; w3 : boolean; A : integer array; D : integer array; Xn0aa : boolean; m6 : boolean; V : boolean; chillax end

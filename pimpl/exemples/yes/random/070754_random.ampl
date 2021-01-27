@@ -1,0 +1,1 @@
+program e9s : main : v6, H95, t2t0a : boolean; c5Aaa, C7H, G, KW, Po : integer array; n, m, dlD0a : boolean array; e : boolean array; when case(989) + true / true and 6 + 2 or 1 : pop 2 end otherwise : chillax end end

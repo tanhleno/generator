@@ -1,0 +1,1 @@
+program _0 : main : dS5a : integer; AK0, L, C, P, K : integer array; si60 : integer array; v, x : integer array; z8Ha : integer array; n8, j4 : boolean; j : boolean; NN : boolean; let D[(63600 = 12)] = array not 85; when case v180[2] * not 7 - M - 46 - 4 : when case 221 = 36500 : chillax end case 6 : chillax end case 69500 : chillax end end otherwise : chillax end end

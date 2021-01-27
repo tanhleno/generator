@@ -1,0 +1,1 @@
+program R : main : when case not true and not true or true / not 06700 or false : input E end case - false / F and 6 + true : when case 4 = 6 : do E96(6980); pop end otherwise : chillax end end; input dV[- (523)] end

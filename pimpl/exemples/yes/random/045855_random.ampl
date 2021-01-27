@@ -1,0 +1,1 @@
+program j : v : takes F : boolean returns boolean array when case - 7 and 541 + 5 - 4 : do q640(564); input gA1a end otherwise : chillax end; pop; input R[145] end main : W110, R7 : integer; pt, v : boolean array; chillax end

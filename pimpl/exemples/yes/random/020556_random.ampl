@@ -1,0 +1,1 @@
+program H : FZ1 : takes u, I5d : boolean array; C : integer array returns integer array Yc9a, NNj, j_, y : integer array; M : boolean array; oUe0 : integer array; chillax end main : output "9"; let k = array - false rem(4) end

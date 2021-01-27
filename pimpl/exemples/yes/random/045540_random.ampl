@@ -1,0 +1,1 @@
+program z : k : takes q : boolean returns boolean array kk, S, i, P6 : boolean array; let J00 = array false; output "\\" . 4 . "" . "\""; output 9 end o7 : takes c, rj8a, v : boolean returns nothing chillax end main : do s(- a(1, 27) rem(348) * false and 9 or 49 rem not 1, - 44 or not 4530 and 5 /= - 6 + 31300, true and 00200); output "" . - 52 = 2930 . "94" . "M" . "" . "" end

@@ -1,0 +1,1 @@
+program I4 : H7 : takes a, A6_0a : boolean returns boolean array pop end main : when case - e[87] / 2 and(51900) : chillax end case not false : chillax end case(883) and 1 = - 51 : chillax end otherwise : chillax end end

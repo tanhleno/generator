@@ -1,0 +1,1 @@
+program K0 : UG : takes A, VgQa, C2Y0a : boolean; J : boolean array returns boolean k : integer array; chillax end main : while(0 = 85) or hv : input N end; when case - (1) and(1) and 3 > - true or 3 : while 2 = 0480 : when case 593 : chillax end; pop end end case - (4000) and 693 >= - 1 : chillax end end

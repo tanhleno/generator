@@ -1,0 +1,1 @@
+program mNJ : yMAaa : takes m, w99a, I : boolean array returns boolean GdT0a : boolean array; n2Da, TP : integer; input I[- 6] end main : hx : boolean array; let U[- true and not 2640 rem false and 9 - (37) and(696) - not 4380 and 4 + 5] = array true end

@@ -1,0 +1,1 @@
+program i : z4 : takes A, p1, h : integer; U, _, B : boolean array returns nothing yx50a : integer array; chillax end main : H2f0 : integer; i0c : boolean array; while - (9 = 69) >= (86200) and not 1 and 2 - true : pop; input j[63]; do G(7); let D = 31700 end; pop end

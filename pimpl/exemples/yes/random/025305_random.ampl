@@ -1,0 +1,1 @@
+program r1p0 : a : takes L, D : integer; g, V7, z : integer; b, s : boolean; xXC0a, z : boolean array returns nothing pop; output "[" . "" . ""; do c5(48, 893); when case 5 : pop end case 5 : chillax end otherwise : chillax end end main : d : boolean array; b : integer; chillax end

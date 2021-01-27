@@ -1,0 +1,1 @@
+program p3 : H8 : takes L, T230a, U2Da, V : boolean array; W5, Bj : boolean; IL : integer returns integer array pop - 9 - 5 end main : iBeaa : boolean; r, J7, Yl, X : boolean; N9, h, _7Y0, K : boolean; output - false <= - _ end

@@ -1,0 +1,1 @@
+program V : y : takes L : boolean returns boolean v : boolean; T6 : integer array; pop; while - 2 - 1 : chillax end end L : takes T : integer array returns nothing c : integer array; let NY = array - 3 end G : takes T5Eaa : integer array returns nothing chillax end main : e : integer; H, q4, t4 : integer; hE90a, e2K0a : integer array; chillax end

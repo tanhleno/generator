@@ -1,0 +1,1 @@
+program i : m : takes UV, _91 : boolean array; B, R13, Z1A, s : boolean returns integer array pop; input u end main : pop - false rem VS1a and 4; do Nqc(- not false, - (6) and 538); let I[- not 4] = array - true end

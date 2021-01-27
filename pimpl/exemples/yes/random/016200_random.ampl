@@ -1,0 +1,1 @@
+program v : Z : takes i, tU, m5 : integer returns nothing chillax end _l : takes h : integer array returns nothing Ahr : integer; H : boolean array; Z3B, JM : boolean; o8 : boolean; chillax end f : takes S36aa, p, S : integer array returns boolean array let N = array 7; do c2(4) end main : JX : boolean array; U7J0, n : boolean array; chillax end

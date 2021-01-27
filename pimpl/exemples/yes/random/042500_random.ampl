@@ -1,0 +1,1 @@
+program o : aCz : takes J : boolean array returns integer array chillax end main : when case - 6 rem not not 14 rem(66) and 7 : chillax end case(85) >= false : when case 4 : pop; pop end case 054 : pop end case 7 : chillax end otherwise : pop end; output ")"; pop end case - not 7 and 0 >= 3280 - 229 : chillax end case - 096 : chillax end otherwise : chillax end end

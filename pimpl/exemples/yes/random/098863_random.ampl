@@ -1,0 +1,1 @@
+program pRQaa : main : while - true * J(6) : do b6W(684 - 3 < 6, 1440, 1) end; when case - true /= (8) and 8560 or 6 : when case 5 : chillax end otherwise : chillax end; let rBGa[9] = 03; pop end end

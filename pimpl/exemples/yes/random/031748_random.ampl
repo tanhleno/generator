@@ -1,0 +1,1 @@
+program eP : l0 : takes D, FDL : integer returns integer array do T(not 4 and 5 - 61) end G9H : takes nZ, z2Qa : boolean; _9, E80 : integer; X, fg, W, dW2, j : boolean; L3 : integer array returns boolean V2, P : boolean array; let GD8 = array 0170 end r1K : takes W, k, b5 : boolean returns boolean array chillax end main : chillax end

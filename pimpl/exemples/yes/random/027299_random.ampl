@@ -1,0 +1,1 @@
+program l : s : takes s, u6 : integer array; RVy, TSi, Lz0, WRh : integer returns nothing k : boolean array; Fc, R : integer array; while - 4 = - 54 : while 3 : chillax end; pop; output ","; pop end; do f(- 23 - 54 < 7750, 0) end main : J : integer array; let y1[- 01 + t2[5] and(84) - false and 4] = array - _ end

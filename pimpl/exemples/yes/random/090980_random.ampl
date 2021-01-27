@@ -1,0 +1,1 @@
+program p : main : let mM9[- not s(631) / true - true / true and 40] = array - Th9[5] or not true + false; do j(- (7) / not 89 and 89 - not 02 - 96 < xm and 7 - 419 - 9590); let r[- true and 07] = array true and 54; do o3(2 - 364 < 9) end

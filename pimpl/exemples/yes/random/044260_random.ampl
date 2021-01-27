@@ -1,0 +1,1 @@
+program k : u : takes V : boolean array returns nothing M, fw : boolean array; SHm : boolean; Mclaa : integer; PPX, Q : boolean; chillax end E4 : takes E5, sq, BB : integer; U, s : boolean returns nothing A, j0P : integer array; output 6 end main : output - not not 8 and(0) + (74) and 10 > vjY and 14 or 045 - 80 end

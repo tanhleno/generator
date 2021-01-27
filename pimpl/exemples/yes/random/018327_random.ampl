@@ -1,0 +1,1 @@
+program i0 : J : takes _flaa, MPV : boolean; t : integer array; V : integer; Kuja : boolean array returns nothing T, X : boolean; o9C, c, I, V2G : boolean; R_ : boolean; input Q; do P8(- 1 - 50 > 7); let f8[966] = array 9580 end main : F1, dM, F : integer array; while not(3) and true / not 1 and 9 - 0 rem(9) - not 5 /= - not false and S : input G41[- 1]; input n end end

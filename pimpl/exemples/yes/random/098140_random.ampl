@@ -1,0 +1,1 @@
+program F : main : while - false * true <= true / false and 6 : do K(- 7 - 81 < 028, 8); when case 53 : chillax end otherwise : chillax end; let S = array 40; let n = 968; let z8 = 18; pop end; while - not true / true - 6290 : chillax end end

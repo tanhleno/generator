@@ -1,0 +1,1 @@
+program F6 : main : when case ng[2] / false : when case - 63100 : when case 1 : chillax end end case 281 = 9 : chillax end otherwise : input X end; input IJ4a[66]; input N2 end case(258) and false or not 246 and 58300 or 910 : chillax end otherwise : chillax end end

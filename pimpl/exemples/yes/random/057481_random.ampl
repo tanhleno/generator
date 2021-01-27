@@ -1,0 +1,1 @@
+program fv : TN : takes L : integer array; l8 : integer returns nothing l2_, lf9aa, F4, X : integer array; chillax end O9 : takes A, e3laa, O : integer returns boolean while - 6 >= 02 : chillax end; when case 9 = 8 : pop; pop end case 15100 : chillax end case 45 : chillax end; when case 43 : pop end; pop; let r = 97; pop end main : chillax end

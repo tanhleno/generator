@@ -1,0 +1,1 @@
+program N : r78 : takes u : boolean; e : integer array; B : boolean returns integer array i : boolean array; chillax end main : i : integer array; f : integer; h410a, Xd : integer; output ""; do G(- (27600) and true); while - not 3 - 0 - 0 /= 31 - 7 : chillax end; output 85500 . 4 end

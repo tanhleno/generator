@@ -1,0 +1,1 @@
+program i : a : takes W, L3 : boolean returns integer g3, i, cv6 : integer; pop end I : takes km : integer returns integer y60a, b, m8Q0, d : boolean; Y, U, p : boolean; Jc9, o1I : boolean; let w[- 24 - 6] = array - 0; input X end H : takes bh, s3, n270, U, H1Aaa : boolean array returns integer Q : boolean; chillax end main : chillax end

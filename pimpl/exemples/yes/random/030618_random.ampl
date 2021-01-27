@@ -1,0 +1,1 @@
+program c93 : rD7 : takes MCx, k9 : integer array returns nothing N, X1 : boolean array; chillax end A : takes G : boolean array returns nothing i : boolean array; W : boolean array; K : boolean; T76 : boolean; t550 : boolean; chillax end main : p9 : integer array; input VZR[true * (23) * (6940) and 7300 + 3860 or(209) and 8680 - 0] end

@@ -1,0 +1,1 @@
+program _tL0 : H : takes PA5a : boolean returns boolean array while - (5) : pop 15; let w_ = 8; pop; pop end; output 8 . "f`aa" . 56900 . "{"; let Y[7] = array 7310 end main : while - A * true <= not false : chillax end; input H[- 57]; while - not 9 + 48 : chillax end; input f end

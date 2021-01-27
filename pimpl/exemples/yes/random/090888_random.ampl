@@ -1,0 +1,1 @@
+program dHRaa : main : let L2[- N1 / true] = array - false rem true / (2) + O and true and 6 + false + 0 - 5; when case L(0) or 9 : do nw6(0 = 14) end; do yg(- u and 6 + 9 > 2, - 8 - 7, 019 = 7, 2); input F; when case 8 = 280 : chillax end otherwise : chillax end end

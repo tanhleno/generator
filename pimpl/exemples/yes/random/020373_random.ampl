@@ -1,0 +1,1 @@
+program V7 : YI : takes s, R : boolean array; z : integer array; Fa2, o, n70, ET, k, Q : boolean array; i : integer; E : boolean array; yh : integer array; S, BDJa : boolean returns boolean chillax end main : b2, DP8aa, e1w : integer; b3s0a : integer; output "\"\""; pop - true end

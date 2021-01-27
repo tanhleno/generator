@@ -1,0 +1,1 @@
+program _Wr : main : Mxy : integer array; when case - not(03300) * false + true rem true and 5 : while - 82000 - 3 : chillax end; when case 6 : chillax end case 108 : chillax end case 92 : chillax end; input C9[07] end otherwise : chillax end; input s[- false or(66) - 20]; input b78a; input V20[91] end

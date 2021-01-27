@@ -1,0 +1,1 @@
+program A : Rg : takes H, b : boolean array returns integer array do D(true and 7 <= 82) end main : N, L3, sVf0a, B6, O9Paa, i, N : boolean; do v(- 80 rem true); while 0 / true - (6) or 026 : chillax end; input I[true and 7020 + 21 - 063] end

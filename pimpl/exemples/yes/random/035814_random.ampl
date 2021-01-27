@@ -1,0 +1,1 @@
+program S : F : takes z : boolean; D : boolean array; H : integer array returns nothing while - (407) - 0 < - 00 - 9 : chillax end; when case 44 : output ""; when case 723 : chillax end end case 8 : chillax end case 6 : chillax end end main : chillax end

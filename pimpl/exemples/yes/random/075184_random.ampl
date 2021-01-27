@@ -1,0 +1,1 @@
+program d : main : I6U, O4sa : boolean array; Ro : integer; Y, B1, I : boolean array; X, fRJ0, e6k, m0ua : integer array; yr3a : integer; l : boolean; let ja = array - j(9) - not not 7 or 2 + 0; do rM20(2, true - 068 < - 30, 27, 5850, 52) end

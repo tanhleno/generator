@@ -1,0 +1,1 @@
+program Lg : QV : takes u : integer array; R : boolean array; L9, N8, W : boolean array; H0, R9 : integer; l, u : integer; d8 : integer array returns integer array chillax end main : let tXq0[- false] = - y and true and 89 = - (3) and 0 - 5 - 66 end

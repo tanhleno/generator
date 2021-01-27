@@ -1,0 +1,1 @@
+program Wn : b : takes k, h : integer returns integer array chillax end e59aa : takes _, E0, r6 : integer array; K9R, Z, l : integer array; i, s95, HP, B8r, e : boolean returns nothing Yc, w : integer array; d : integer; Eq0, UI : boolean; chillax end main : K : boolean; output "" . - not 3 or 1970 - 7 /= 1 end

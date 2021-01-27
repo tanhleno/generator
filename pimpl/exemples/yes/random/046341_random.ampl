@@ -1,0 +1,1 @@
+program G : d : takes y : boolean returns boolean let J[Q4 + 83 - 4] = 1 /= 5490 end aG40a : takes _700a, k3 : boolean array; z46 : integer array; F, a : boolean array; f, I : boolean array; T, _v_aa, d3t0a : integer array returns nothing chillax end main : do v((0 = 77) > not u67); let J = (5) <= 1 end

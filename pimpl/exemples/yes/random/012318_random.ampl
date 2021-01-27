@@ -1,0 +1,1 @@
+program g : A : takes J02, w1, A : boolean returns nothing xx : boolean; I7 : integer array; chillax end a : takes lo, R, I, Y : boolean array returns boolean while 21200 : input M; while 1 : chillax end end; when case 71 : output "~" end; when case 7 : chillax end case 78 : chillax end end main : wH, k, m5, sE : boolean array; PIe0 : integer array; chillax end

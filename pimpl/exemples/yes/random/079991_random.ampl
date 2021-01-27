@@ -1,0 +1,1 @@
+program V : main : o : boolean; let Al6a = not 55 / 8 > - true and 2; while not not 071 * (1) and 04 + not 446 or 6890 - 1860 <= O : chillax end; output "m50" . ""; output 7620 = 445 . ""; input k[8]; while 2 : pop end end

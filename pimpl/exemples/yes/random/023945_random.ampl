@@ -1,0 +1,1 @@
+program r : N : takes g, F : boolean returns nothing chillax end wi3 : takes j : boolean array; o : boolean; g : integer array returns integer array chillax end U64 : takes Hq6, a, hgZ : boolean; kW : boolean array; d, e : integer array returns nothing chillax end main : input m5[o(7)] end

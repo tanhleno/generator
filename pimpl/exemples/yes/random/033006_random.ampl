@@ -1,0 +1,1 @@
+program n : K : takes e, F : integer returns nothing input Ong end main : l1, lsRa : integer; let nVo0a[not UZ rem M[6] / 5 or not true] = false + (84) <= Q0; input D; do O6(false - 1 - 79 >= 5 - 8) end

@@ -1,0 +1,1 @@
+program v : S : takes G, m, F71aa : integer; QY : boolean array; Z : boolean; H : integer array returns boolean pop; let G[043 - 89] = 922 = 766; when case 17 = 467 : do c(62) end; let n = array 95; when case 9 : chillax end end main : chillax end

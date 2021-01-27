@@ -1,0 +1,1 @@
+program oUaaa : main : input F; when case - true : output "" . "" . "9"; input f end case true <= 134 : let p24 = array 9 end case 9 >= 01 : do XYZ(0) end otherwise : chillax end; do C((26) and 69, 7); input fc end

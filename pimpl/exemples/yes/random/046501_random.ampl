@@ -1,0 +1,1 @@
+program Iu2 : Xj : takes q : boolean returns integer array do b_Q(- false, - 4600 = 7, 0 = 7) end main : Jl, u9, S : boolean array; b, V, y : integer array; o : boolean array; D, V : boolean; let Z = - true / false >= - Op8 end

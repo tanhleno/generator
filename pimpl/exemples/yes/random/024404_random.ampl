@@ -1,0 +1,1 @@
+program FX4 : K : takes j, u6 : boolean returns nothing osUaa : boolean; chillax end main : do n(- not true + true <= not not 5 and false, not(7) * T8 and 5 <= - false and 19, - 7 and 99 >= 67400, 14); let b5O0a = array - (1) * false + true end

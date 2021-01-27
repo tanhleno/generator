@@ -1,0 +1,1 @@
+program i : main : Z, b, d : boolean; U9Oa : boolean; V : integer; do r(E7 >= false rem 18600 and 801); let a[false] = - false; input a[2 and 11700 - 53]; while 4 <= 8 : chillax end; output 2 . 195 end

@@ -1,0 +1,1 @@
+program i : KT0 : takes zk4aa : integer returns nothing pop; while 681 - 113 : chillax end; while 05 : while 560 : chillax end; pop end; input N; let Twca = 8; output "["; pop end P : takes h : boolean; q7, i, s : integer; d : integer returns nothing H56aa : boolean array; D : boolean; input p6 end main : I, y : boolean; S3k, juJaa, p, y : boolean; J8 : boolean array; chillax end

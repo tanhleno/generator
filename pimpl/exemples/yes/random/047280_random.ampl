@@ -1,0 +1,1 @@
+program B : e14 : takes q : boolean returns integer let N[- false and 30100 - 56] = array(655) or 506 - 8 end H43 : takes l : integer returns nothing chillax end R : takes Xi : integer returns boolean u : integer; when case 8 = 07 : chillax end case 62 : pop end end main : pop end

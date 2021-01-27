@@ -1,0 +1,1 @@
+program kT0 : main : output - not true; let h[- vG(22)] = - not 8 = 1; when case pN /= - 98500 : do oH(0830, 0); let L = 866 end case - 9 - 18 : while 9 : chillax end; output "2"; pop end; let T = 6; input M end

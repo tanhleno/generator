@@ -1,0 +1,1 @@
+program E1 : main : when case - I(2090, 29) rem k[3] / (2) + not false and not 5 /= (9) / false and 81 or true and 88 : input dQ0a[- 21]; do D(3320 = 65); let z700[272] = 23; output "0d!" end otherwise : chillax end end

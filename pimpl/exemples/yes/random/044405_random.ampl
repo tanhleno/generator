@@ -1,0 +1,1 @@
+program z7 : n52 : takes P760 : boolean array returns nothing u, F : integer array; pop; do T0Y(1, 63 = 381) end S2 : takes n18, oU : boolean returns nothing let e[481] = 4 = 7 end main : R : boolean; while true + 7 + not 64 or 0 >= not(81) and 03 or true and 5 or 3 : chillax end; input sE[rN]; while(7640) < - 2 : chillax end; do Q(- 23 - 75 /= 44) end

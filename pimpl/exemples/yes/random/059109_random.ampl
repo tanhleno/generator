@@ -1,0 +1,1 @@
+program A : l : takes F : integer array returns integer chillax end K_2 : takes wN, E : integer returns boolean U1ha : boolean; do h3(- 0580 < 4, 40, 37800); let Hy[7] = 5 end main : let u = - not(807) * false end

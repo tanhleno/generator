@@ -1,0 +1,1 @@
+program jo : n : takes _ : integer; y : boolean array returns nothing _nq0, k7 : boolean; f8, I : integer; KAJ0a, Lq, p6l : boolean array; output 6 - 4 . 0 = 93 . "5"; output ""; when case 02 = 4 : chillax end otherwise : chillax end; input FL end main : chillax end

@@ -1,0 +1,1 @@
+program c : N : takes gBd0a, V, Q, NA, z40, y8, j, d0e0a : boolean; uLKa, Y : boolean array returns nothing chillax end main : k64, j : boolean; Zmh, RLZ : boolean array; pop; input N1; when case true and 2080 or 29 : chillax end; input H5 end

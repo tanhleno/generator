@@ -1,0 +1,1 @@
+program w : main : e, Q5 : integer array; when case S480(2, 6) / 0 * (9) - (6) < - false + Dm5a + 1390 - 7 : do d7(- 009 - 644 <= 4, 44); while 4 = 1 : chillax end end case - true - false and 09 or 948 - 860 : input e[9]; output "" . "" end case - not 41300 or 4 - 0 : chillax end otherwise : output "\"\\" end end

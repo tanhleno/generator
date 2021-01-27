@@ -1,0 +1,1 @@
+program Y : f : takes K3 : boolean returns boolean chillax end main : Q7ia : integer array; when case - 6430 rem(3) / true : chillax end otherwise : chillax end; while - sz - 8 /= K and 69 : chillax end; when case I and 6 - 488 : let p = 9500; when case 58 : chillax end; output "'"; pop end otherwise : chillax end; while 7 /= 87 : chillax end; let h080[8] = 79200 end

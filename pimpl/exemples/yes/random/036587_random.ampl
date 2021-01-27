@@ -1,0 +1,1 @@
+program w : _05a : takes VL : boolean; Q : integer; Y : integer array; ei, M0r : integer array; c, _ : integer array; P, t, ZS5aa : integer array; c6, b : boolean; Xgka : boolean returns boolean output "Ix0a" end main : hQu : integer; chillax end

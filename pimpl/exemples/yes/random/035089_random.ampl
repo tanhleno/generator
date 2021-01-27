@@ -1,0 +1,1 @@
+program s4 : jS9aa : takes F : boolean; tI4a, Y940 : integer array returns integer W : boolean array; chillax end main : S, D, d3, P : integer; C, G : boolean array; let N[N0a - true] = array - 7; when case false or(5) and 87 >= - (9) + 86 : chillax end case - false and 6 : let L = array 1 end; let x = - 28 - 564 > 76; while - 0 - 8 : while 74900 : chillax end end end

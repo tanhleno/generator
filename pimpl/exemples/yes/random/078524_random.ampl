@@ -1,0 +1,1 @@
+program m7 : main : U : boolean; P, by, t6A0a, x : integer; PUx, zF9, VG : boolean array; let D5Laa[(1) / false rem true and 271 + 32 rem not 91 - 0 and 5] = - r rem 33 and 14 + false > b and 7 - 5 - 293; when case - not not 8 /= - not 845 : chillax end otherwise : chillax end end

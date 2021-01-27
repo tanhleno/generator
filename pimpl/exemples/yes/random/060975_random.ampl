@@ -1,0 +1,1 @@
+program voq0 : A : takes kll0a : integer array returns nothing w : integer; chillax end main : RJ3a, P : integer array; L, s4 : boolean; Y : boolean array; p500a : integer; f, r61aa : integer; do z(- false / false and(968), yd, - M and 9 or 41, 55600 - 0 = 34) end

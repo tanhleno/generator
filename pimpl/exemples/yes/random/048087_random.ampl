@@ -1,0 +1,1 @@
+program N : rR : takes X : boolean returns nothing S, X : boolean; chillax end main : X : integer array; Rk9a, _2, l, Z, r, a : boolean array; X9, y1 : boolean array; output - true * (7) or D and 0 - 1 - 7 . - false and 62600 or 04 >= - 75 end

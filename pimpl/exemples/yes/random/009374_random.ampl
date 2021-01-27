@@ -1,0 +1,1 @@
+program Lv3 : M : takes O, _8, Y12 : boolean; N : integer array returns integer I, n2 : boolean; output "ES" end i : takes i, S, e, OE, s : boolean returns boolean input J9 end main : input Mx0; input X end

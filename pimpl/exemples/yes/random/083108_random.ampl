@@ -1,0 +1,1 @@
+program I : main : t5 : integer; l, yt, Ns, _U1, dUt, Wy : boolean array; vu7aa, Za, Z, D, O : integer array; pop - false <= 0; when case false /= - 8 or 2 - 75 : do b(4) end case - true < - 3 : do J(98, 7) end otherwise : when case 8 : chillax end; while 347 : chillax end end end

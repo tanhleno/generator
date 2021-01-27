@@ -1,0 +1,1 @@
+program G1naa : w : takes n : integer array returns nothing p : integer array; Z : integer array; chillax end O : takes wr0aa, ni, _, n, c : integer array returns integer chillax end main : M880 : integer array; while - uf(8) and true or false rem not 3 - r and 9 : chillax end end

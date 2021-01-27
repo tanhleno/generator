@@ -1,0 +1,1 @@
+program D9 : yCe : takes v, W, b : integer returns integer array P, J43aa, Tf : integer; chillax end main : do y350(- not(717) or Q[07500], - (581) and vIm and 4950 or false, - false and 69 + 65 - 2, - 0 - 6 = 8) end

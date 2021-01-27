@@ -1,0 +1,1 @@
+program ku : L : takes Z8 : boolean array returns boolean array I, UE, T5 : integer; z : boolean; while - (7) and 6 : let Ly[3] = array 3; when case 1 : chillax end; let T6_a = 73; pop end; let xLp0a[9] = array - 9 - 9 end main : while false or false < - true rem false or not 3 and 928 or 9 - 6710 : chillax end end

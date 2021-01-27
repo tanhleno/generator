@@ -1,0 +1,1 @@
+program B : w : takes m : boolean array; j4 : boolean; L, E : boolean array; O : integer; U, c, u : integer array; d6 : boolean array; T, m : boolean returns nothing pop; when case - 8 : chillax end case 61 = 9 : pop; pop end; when case 8 = 0 : chillax end case 27 : pop end end main : chillax end

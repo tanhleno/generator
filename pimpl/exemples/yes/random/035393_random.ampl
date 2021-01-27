@@ -1,0 +1,1 @@
+program y : L : takes i6P0a : boolean; a : boolean; h, J3 : boolean; g66 : boolean array; X9, m : integer returns integer chillax end b : takes a, F0 : boolean array returns nothing pop end main : output false > (30300) - 75 . not 7 and 61 >= - 3 end

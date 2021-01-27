@@ -1,0 +1,1 @@
+program Qr : main : when case - not true and true and false and 4 or not r > false / n and 1 - 1 : pop end case - true - W and 9 : chillax end case - not 6 and 3 or 13 - 5 /= - 0 : chillax end case 1 : chillax end end

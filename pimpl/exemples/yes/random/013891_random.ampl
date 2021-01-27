@@ -1,0 +1,1 @@
+program f : H : takes aOP0a, a5, X : integer array; V, D : boolean; NO5 : integer returns integer array J8 : boolean array; chillax end main : H : boolean array; while - 781 + not true : chillax end end

@@ -1,0 +1,1 @@
+program A7 : E : takes Zx9 : integer array returns integer G, Fj5 : boolean array; chillax end main : q : boolean; when case 90 or(6) /= m : chillax end case(708) - false + 6 = - not 0 : when case 9 = 9 : chillax end end case - not 7400 - 77 : chillax end case - 13 - 2 : chillax end case 0 = 51 : while 3 : chillax end; pop end; input O[false - 99 - 7] end

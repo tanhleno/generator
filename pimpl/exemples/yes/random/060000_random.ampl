@@ -1,0 +1,1 @@
+program V : D : takes AsQaa : integer array returns nothing chillax end main : WYL0 : boolean; while 09400 and 49 / 85 or not false * cu : while - 660 : while 85 : chillax end; output "" end end; pop; when case not 3 and 0 or 7 - 27 : pop end case - 33 < 3 : do y(093) end otherwise : output "" end end

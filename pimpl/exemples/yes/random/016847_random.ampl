@@ -1,0 +1,1 @@
+program _ : N : takes aR, Y : boolean; E2a, L, v2, c90 : integer array; P, lbE : integer returns boolean array pop; pop 69800 = 6; pop; do C(18400, 3) end main : while M[9] - not true or(9) - 70100 : chillax end end

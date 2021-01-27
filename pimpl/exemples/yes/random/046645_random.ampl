@@ -1,0 +1,1 @@
+program C4e : X : takes WQu : boolean returns integer array C : boolean; chillax end w : takes J, U : boolean array; w, LU, o, u, V, DZ1 : integer array returns boolean array Y4 : integer array; pop 6 = 5 end b : takes nG4, S, BoQ, t, w, D : integer; H5 : boolean; L, w3 : integer returns nothing I7V : boolean; do m(7) end main : G : integer array; Cq : integer array; chillax end

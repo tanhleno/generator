@@ -1,0 +1,1 @@
+program DZv0a : q1 : takes yjJ : integer array; q : boolean array returns integer array chillax end main : VB9aa, z62a, T6, E4, tj, p : integer; while - Y + true - X and 92 + 369 >= (4) + false : chillax end; pop - true + 5 >= - 5 - 43; let C810a[6 - 3 - 6] = array - (99) and 8 - 0 - 28700; let H[51 - 1] = 01; when case 25500 : chillax end end

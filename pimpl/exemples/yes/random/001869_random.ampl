@@ -1,0 +1,1 @@
+program RY : U : takes K, s, L, f7, A0za, RvS0 : integer array returns boolean E1Xaa : integer; Bv, g, x, HiJa : integer array; z, W : integer array; output ""; while 3 - 721 <= 52 : pop end; pop 89; output "2" . "" end B : takes o : integer returns nothing chillax end main : chillax end

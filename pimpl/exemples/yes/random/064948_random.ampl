@@ -1,0 +1,1 @@
+program i : iQ : takes c : integer returns nothing I : integer; Q, n : boolean; chillax end V : takes c, g : boolean array; f4o : boolean array returns nothing chillax end main : ADc0a, yW40, U4D0a : integer; chillax end

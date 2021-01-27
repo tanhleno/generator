@@ -1,0 +1,1 @@
+program K : FP1a : takes j : integer array; M9Xaa, iEza, FE, T : integer; N, c, lc, o, T, f : integer array; QPq, HZ : integer array; R, h, V8 : boolean returns nothing q, VJ6 : boolean array; let l = 8 - 848 <= 0 end main : n, Y100 : integer; n5 : boolean; do P((67 = 8)) end

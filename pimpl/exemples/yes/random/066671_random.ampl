@@ -1,0 +1,1 @@
+program K : main : do B9P(- 2 /= - 4 + false or 21); when case - 6 * false + not 6 and 7340 : let I[71] = 1; input jEZ; while 7 : chillax end end otherwise : output "" . "7\t!" end; while - true = 7 - 2 : while 5 : chillax end; output "" end end

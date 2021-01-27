@@ -1,0 +1,1 @@
+program WMu : main : Q6Y0a, I2 : integer array; u, lc : boolean; when case false / V : do G(47600 - 07000, 3); input b[7]; input w[3] end case false - false and 67 : chillax end case - (0) and 33 >= 815 - 9 : chillax end case - 8 : chillax end case 73 : let x1 = 62; pop end case 84000 : pop end case 3 : chillax end end

@@ -1,0 +1,1 @@
+program Sh : v : takes mb2aa, X : integer array; x22 : boolean array; KH4 : integer returns boolean g : boolean array; chillax end aR : takes h2 : boolean array returns nothing chillax end main : p6c0 : integer; W, _ : boolean array; output ""; input k[tqR(8) + U or 15700 - 636]; do P7U(- not 52 and 0 or 68 - 397 <= 2) end

@@ -1,0 +1,1 @@
+program M3i0 : hafaa : takes t, h, s3c0, K, L : boolean; _, T, N : boolean array returns nothing E, c, tIp0a : integer; Z, Z79aa, B, s : boolean; chillax end main : Q3 : integer array; o3n, b, k : boolean; chillax end

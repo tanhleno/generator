@@ -1,0 +1,1 @@
+program Q : main : F, J, R : integer; k2 : boolean; t, J3, G, F5 : boolean; while - p(79, 1440) >= - not(78) : while - 03 - 324 : chillax end; when case 862 = 869 : pop; pop end otherwise : chillax end; pop end end

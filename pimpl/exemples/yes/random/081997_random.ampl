@@ -1,0 +1,1 @@
+program vs40a : main : o32 : boolean array; xGO : integer; output false or not 44 and 975 . "" . "" . 19300 . "\"\taa"; let e[(4) and(38) - d - 26] = - not 22 and 4; let d2Za = array - false + 6 - 7 end

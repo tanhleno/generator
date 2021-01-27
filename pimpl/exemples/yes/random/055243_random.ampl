@@ -1,0 +1,1 @@
+program mM8 : _ : takes c : integer array; n, Xm1 : integer array returns nothing chillax end R : takes r0 : integer returns boolean chillax end J : takes pV : integer array; k : boolean array returns boolean array o, Q06aa, YP : boolean; pop 4; pop 38; output "" end C : takes V : boolean array returns integer x7, P : boolean; chillax end main : input Y end

@@ -1,0 +1,1 @@
+program u9 : a : takes h8, r, ht40a, __ : integer array; mH : boolean array returns nothing chillax end main : while - false = true : input w end; do M100a(- (4) <= - (07000) or 1 - 9, (5) or 5 - 04); input s[- rv and 2]; input Fk8[81 - 4]; input l end

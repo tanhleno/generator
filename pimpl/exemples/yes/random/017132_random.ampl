@@ -1,0 +1,1 @@
+program oO : I89 : takes e, i : boolean; E9p, X : boolean; p, aU, j : boolean; y, O5 : boolean array returns nothing chillax end PA3a : takes N1 : boolean returns integer array R2, B : boolean array; chillax end _z : takes JX6 : boolean array returns integer do toJ0a(5, 747) end main : chillax end

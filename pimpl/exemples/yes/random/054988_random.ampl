@@ -1,0 +1,1 @@
+program Ct : yv : takes i : integer array; oho, H : integer; a : boolean array returns nothing chillax end main : pop; let j2 = array true / false and 48200 or not 6 and 4; input V; when case 1 - 6 < 12 : chillax end; output 95; pop 08200 end

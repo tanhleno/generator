@@ -1,0 +1,1 @@
+program n : y6h : takes G, CC : boolean array; Rb, rV : boolean returns integer array dP, e5, X : boolean; let XTX = - 9 - 6 end H : takes V5 : integer; C0 : integer array returns nothing Zt, mX1, hB5, xn : integer; while - 3 : chillax end end main : let G[g] = array - true * (1) + (13) * not 4 end

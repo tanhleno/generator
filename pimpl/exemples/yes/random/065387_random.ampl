@@ -1,0 +1,1 @@
+program ja : RV : takes A : integer returns nothing pop; output "\t1" end h : takes I, a, S, M9 : integer array; b : boolean array returns nothing E, E, B66 : integer; chillax end Q : takes y : boolean array returns integer q : boolean; chillax end main : u, F77 : boolean array; O, ifC0, D, MB : integer array; o, b9 : integer; chillax end

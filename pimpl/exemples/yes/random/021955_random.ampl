@@ -1,0 +1,1 @@
+program i : w : takes c0, c : boolean array returns nothing chillax end S : takes hh : integer array returns nothing H : boolean; U : boolean array; pop end main : LU8, x, x : boolean array; T9, o, Q, C : integer; K9u : integer array; pop end

@@ -1,0 +1,1 @@
+program b : Z4 : takes F0, q7i, v : integer; z : integer array; y6 : boolean; S, Pic, z : integer array; E : boolean array returns boolean array chillax end j : takes K : boolean array returns nothing io60a, kN : boolean; chillax end main : do u(false rem A / not 905 and 5 or true > false or 96 or 1970) end

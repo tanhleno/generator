@@ -1,0 +1,1 @@
+program xF : F : takes k9 : integer array; hb5, o20a, W, y4, K : integer array returns integer z : boolean; w04a : integer; dW10, MB0a, y : integer; do Bx(- 483, 4) end lI5 : takes a, q1oa : integer; UO : boolean; o : integer array returns boolean array C7G : boolean array; input W15 end main : w6, b3 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program BXD : Wsf : takes R, q : boolean; H : boolean returns nothing chillax end HS80a : takes z : boolean array returns boolean chillax end main : H7, n : boolean; V, r : integer; qZ3aa : integer; v : integer; R22, r, a : boolean; let Q = array true / (93) - Q rem(45000) and 81 + (72) and 7 + 3 - 4 end

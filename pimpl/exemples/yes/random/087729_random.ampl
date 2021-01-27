@@ -1,0 +1,1 @@
+program lz5a : main : TE8aa : integer array; while not(71) / true - true = - 49 : input _[- 746 - 9] end; while(0) rem(827) and 5 - 6 or 8 - 714 <= true + 4760 : chillax end; while 8 : input u[3]; when case 74 : chillax end end end

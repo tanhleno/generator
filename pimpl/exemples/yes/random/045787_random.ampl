@@ -1,0 +1,1 @@
+program P : F : takes I : boolean returns boolean array let I6Q = array(8) and 798 or 30 - 04; while - 1 - 933 : while 0 : chillax end end; output "."; let o = 3960; output ""; do o(9); pop end main : AZE, Wp8, A, v560 : boolean array; y : integer array; Y0Z0, i7, V : boolean array; chillax end

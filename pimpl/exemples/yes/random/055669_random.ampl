@@ -1,0 +1,1 @@
+program D : J : takes g : integer array; V7 : boolean; U : integer array; xN : boolean array; TX, A, Q, h : boolean; t, S : boolean; oS90a : boolean; g : boolean; N : boolean returns boolean array l : integer array; while 3 : chillax end; let KQ = array - 5 end main : output - (558) / true + (9) and 585 <= - false and 5 or 2 . "" . "0U\"a" end

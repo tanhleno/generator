@@ -1,0 +1,1 @@
+program e : main : OI : integer array; o : boolean; G : integer array; u : boolean array; Z : integer; Gc : boolean; when case - (2 = 571) > - (53) + (53800) or 0 - 7 : pop end case _260a rem true : chillax end case - false and 4 + 859 - 9 : chillax end otherwise : chillax end; output "" end

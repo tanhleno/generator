@@ -1,0 +1,1 @@
+program n : ebZ : takes o : boolean; U6h0 : integer array; o0, X65, D : integer; I, s, M, b : boolean; K, n1 : integer returns nothing l, C : integer array; chillax end main : uB, T, W : boolean array; A, B1, t1Ca : integer; _ : integer array; pop; output "0" end

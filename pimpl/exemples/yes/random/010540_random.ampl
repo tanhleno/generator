@@ -1,0 +1,1 @@
+program O : sE1 : takes X6, wB, T : boolean array returns boolean array rA, Mw, d6, r, Rb : integer; chillax end main : let N[07] = array - true rem i3T and(348); let d[false] = (8) + 413 /= - 6; while(816) and 96300 > - 19 : chillax end; when case - 4 >= 79 : output "9(!a" end otherwise : chillax end; output "9" . "" . ":."; output 74 . ""; output "" end

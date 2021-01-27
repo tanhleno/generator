@@ -1,0 +1,1 @@
+program W7 : main : VTy, Q : integer array; let Vms[- false rem true or false rem true + (3) and 703 - 1 - 629] = - false and QQ or true and 8 >= Y7r; do e(- not not 8 rem s7, true or 16 - 09400, 691 /= 8, 3210, 4, 5) end

@@ -1,0 +1,1 @@
+program x5 : G : takes _, L : boolean; E84aa : integer array; J, OZ, D, NQH : integer array returns nothing let Z8 = array - (38900) and 8; when case 3 - 9 : while 1 : chillax end; do BRT(1); pop end otherwise : chillax end end main : S8Oa : integer; input W[- (16) rem not 1 + not false]; let jL[(9) rem PG + not 6] = - (3) and 9 + 0190 > - 7; input s end

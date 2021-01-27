@@ -1,0 +1,1 @@
+program X4 : Q0 : takes raT0 : integer; e : integer array returns boolean chillax end main : input Z42[not 52000 and 04 / true and 02800]; do s((69000) * false <= - not 0620); when case - true = 7440 - 34 : chillax end end

@@ -1,0 +1,1 @@
+program s : main : v59, bd3a : integer; let vC = - v[2] - 7; when case - false / not 6 and 4 or P570a and 7660 = - _ : chillax end case - false and 71 or 1 - 9 /= 26800 : pop 26 end case 6 = 49 : chillax end; do GZ5a(265 and 80 or 5 = - 08); let J = 3 = 390 end

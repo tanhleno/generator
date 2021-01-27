@@ -1,0 +1,1 @@
+program lB50 : L970a : takes Q : boolean array returns boolean array _J5aa, r1l, z, w57, eG8 : integer array; when case - true + 4 <= 3 - 93 : input ilY0a[112] end otherwise : pop; input XCA; pop end; let q[2] = array - 0; output "O\naa" . "4" . ""; do R(7); input k0; while 58 : chillax end end main : T, C0q : integer array; i, WS, t9 : integer; chillax end

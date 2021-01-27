@@ -1,0 +1,1 @@
+program t2V0a : b : takes L, u, V0, B, K, R, H3 : integer returns integer array p, r6h : boolean; when case - (67) - 8 - 80600 : chillax end case 010 = 01 : chillax end case 42700 = 5 : input G; pop end otherwise : output "" end; pop end main : y, DG : integer; let p = array - 82 / false or false and 8 and 7 or(88) - 9 end

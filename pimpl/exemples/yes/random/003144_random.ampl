@@ -1,0 +1,1 @@
+program eX : I : takes Asyaa, I1, _, _4, jd : integer; _M, k8, B : boolean returns boolean chillax end main : oci : boolean array; D : integer array; let y = - true and true or false and 4 = - (2) and 2; let A = array false or false end

@@ -1,0 +1,1 @@
+program p25aa : upU0a : takes Xz3 : integer array; B, I : integer array returns integer u : boolean array; s, P3baa, L : integer; PQ4 : boolean; chillax end main : d : boolean array; _ : integer; when case true : let O[- 56800 - 48] = 6 = 453; pop end end

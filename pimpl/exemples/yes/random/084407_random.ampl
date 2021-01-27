@@ -1,0 +1,1 @@
+program k64 : main : k7 : integer; vq8 : integer array; do zL(- true * (5) * true and 03 + (8) and 420 and 4 - true, (5) < not 15 and 4 or 7 - 9340, - (5) and 8330 or 8600 - 6, - 4 = 9, 84 = 7); pop end

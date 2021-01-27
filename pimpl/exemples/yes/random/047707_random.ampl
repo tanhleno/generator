@@ -1,0 +1,1 @@
+program Q : a : takes o4ra : boolean returns nothing chillax end main : J3 : integer; D, G : boolean; O35aa, JY50a, P3, d9R : integer; L, Db : boolean array; p : integer array; tO, o : boolean; when case - (6920) or true - 6 and 23700 : chillax end otherwise : chillax end; let I5 = array - true end

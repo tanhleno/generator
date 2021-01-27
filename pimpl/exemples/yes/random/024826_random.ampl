@@ -1,0 +1,1 @@
+program L1 : u : takes KS, dj : boolean returns nothing when case - not 478 >= - 04 : chillax end case 5 - 3 >= 2 : when case 83 : chillax end end otherwise : chillax end end Qn9 : takes lG : boolean; lxa : boolean returns nothing chillax end main : chillax end

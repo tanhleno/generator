@@ -1,0 +1,1 @@
+program mnva : main : HE, D2, Ra6, z : integer; sQH, g68, ja, b : boolean; let gC = - true <= 96 and 71 or 9 - 4; when case(708) and(0) < - (7) : output 04000 . "" . "" end case 91 : chillax end; while 1 and 3 + 8 - 595 : pop 57; pop; when case 70 : chillax end end end

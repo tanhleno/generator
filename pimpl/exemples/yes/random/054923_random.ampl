@@ -1,0 +1,1 @@
+program L3 : _u : takes jb0a : integer array; l0, i : integer; K, nyP0a, Mxuaa : integer array returns boolean e : boolean; chillax end e : takes o, B : boolean array returns boolean output 344; output 939 end main : chillax end

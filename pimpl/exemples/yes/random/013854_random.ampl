@@ -1,0 +1,1 @@
+program G : U8 : takes DA90, v, j : integer array; n, w, gw : integer returns boolean when case - false : pop; output "" end otherwise : while 2 : chillax end; when case 2 : chillax end; pop end end main : do u(- true / (247) rem 2 and 3 > - true) end

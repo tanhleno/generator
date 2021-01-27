@@ -1,0 +1,1 @@
+program tg : MmH0 : takes X960 : boolean array; z, m : integer array returns nothing D2 : integer array; chillax end h : takes C : integer returns nothing X : integer; while 73800 : chillax end end m : takes oe : integer returns integer array chillax end main : output false + false and 839 + 50 /= - true end

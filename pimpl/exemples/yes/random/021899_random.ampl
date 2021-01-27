@@ -1,0 +1,1 @@
+program a : X : takes v, qTK : boolean array returns nothing chillax end w : takes JBuaa : boolean array; G4F0, Ug_0 : integer array returns nothing chillax end main : let Mz5 = - e / 3 and 0 or not 928 and 1 - 9 - 56; pop false and 82 + 15 > 8 - 7; let q[- false and 26] = 8 < 2; input x[- 83] end

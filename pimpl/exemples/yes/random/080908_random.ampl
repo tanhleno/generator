@@ -1,0 +1,1 @@
+program eU4 : main : v : boolean array; T, k34a, W, d6xa : integer; P, H, BE, YZaaa, Z6 : integer; let l0[false or not not 295] = array - j[95800] and true * false or v / (2); do kf(- 7 and(0) <= - false and 94 + 05 - 163); output 16 - 86; do J8(- 31) end

@@ -1,0 +1,1 @@
+program zJ : Tj0a : takes X4 : boolean returns nothing input N12 end O : takes q : boolean array returns nothing l98, J7T0, e : integer array; W, N : boolean array; while - 910 - 48500 : output ""; output ""; pop end; while 842 : pop end; input c[88] end main : do W4(not false /= - 0 + (87) - 9) end

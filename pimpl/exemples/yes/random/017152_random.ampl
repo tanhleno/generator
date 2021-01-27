@@ -1,0 +1,1 @@
+program m52a : HMA : takes P, r1 : boolean; R, y2 : boolean; e : boolean; Q : integer array; gn : integer returns nothing pop - 2 <= 69 end uhAaa : takes e, w6p, Wp, J : boolean; zX2, J, V : integer returns integer a : boolean; g : integer; k : boolean; H : boolean; input z25 end main : Us6 : boolean; do Yl3aa(- om6aa[2] / not 805, sB2(30) / 632 - not 6 and 2) end

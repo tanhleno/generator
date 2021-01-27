@@ -1,0 +1,1 @@
+program F0 : i3 : takes D1, c, G0L, S : boolean returns integer F, T, l8I : integer; US : boolean; pop 7 > 91; output "\""; input O0 end main : J, j, U : boolean; w : boolean array; z4 : integer array; U2 : integer; y77, H, z : integer; output "" end

@@ -1,0 +1,1 @@
+program w9 : F : takes O : boolean array returns boolean A, E : boolean; chillax end main : pop - not not 566 + Y170 or 7; input J[- 37 - not 56800 - 0]; when case - 30 : chillax end otherwise : chillax end end

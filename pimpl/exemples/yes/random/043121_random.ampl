@@ -1,0 +1,1 @@
+program gP : U : takes WP7 : boolean array returns integer IZ, L : boolean; pop; do pPQ(- 27); while 85100 : input X; pop end; do k6(5) end main : B, n : integer; l : integer array; D3J0, G : boolean array; chillax end

@@ -1,0 +1,1 @@
+program NX : d : takes H, T, f, Y, XG, W : boolean returns boolean array while 659 + 28 - 0 : output 96 . ""; pop; when case 6 : chillax end; pop end; let EM0[54] = 6 = 64; output "" . 9 end l8n0a : takes r : boolean array; M, L, y4 : boolean; c : boolean returns nothing I : boolean; WG : integer array; r0, L : boolean; chillax end main : input PL end

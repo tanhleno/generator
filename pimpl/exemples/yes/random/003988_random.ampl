@@ -1,0 +1,1 @@
+program h : sE : takes ic, q, z, z, zsIaa : integer returns integer array chillax end main : do P(- Al3(4) rem V38(996) * true - SX6(4350) * not 9 = - 9 or true and 5 + 3830 - 0); do m(- false or true and 2560 - 96); input z[0 or 9 - 73]; while - 3 : while 93 : chillax end end end

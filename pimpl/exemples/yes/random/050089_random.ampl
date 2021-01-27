@@ -1,0 +1,1 @@
+program T2 : x : takes t : integer; HcQ, A, F6 : integer array; Tp80a, i, CB : boolean; d : boolean; j59, e0, H78aa : boolean; C, U : boolean returns nothing chillax end l3 : takes B7o, Dm7aa : boolean; V0, B, NQ9, x3 : boolean array returns nothing chillax end main : pop end

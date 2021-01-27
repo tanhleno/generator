@@ -1,0 +1,1 @@
+program p : h : takes N : integer array; b : integer array returns nothing when case - true : chillax end end SX : takes P1 : integer; Bh, n610a : integer; Dd : boolean; F, f4 : integer array returns boolean input UxX[81700] end main : chillax end

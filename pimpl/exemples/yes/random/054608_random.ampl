@@ -1,0 +1,1 @@
+program aQ : F_5 : takes g : integer array; D, nw8 : boolean array; m4e : integer array returns nothing Z : boolean; when case - 4 + 2290 - 8 < - 1 : chillax end case - 342 - 037 <= 567 : chillax end case 5 : chillax end case 3600 : chillax end case 33 : chillax end otherwise : input MTz end; while - 931 > 15 : input Q0; let A2 = 52 end end main : input s2R0a end

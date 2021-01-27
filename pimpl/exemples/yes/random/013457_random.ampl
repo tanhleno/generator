@@ -1,0 +1,1 @@
+program V : L : takes VBg0, f980a, H0K0 : integer; Vw : integer array; b9k : boolean array; nb : integer array; D, k270a, A, W4 : boolean returns integer array p : integer array; let m = array not 6340 or 4; do L8(- 0 - 44 <= 0); output "\\\\\"a" . 8 . "" end main : e9 : integer; P3 : boolean; v43 : integer; chillax end

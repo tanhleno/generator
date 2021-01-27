@@ -1,0 +1,1 @@
+program s9 : X : takes pdF, a, V : boolean; n4, V : boolean array; c53aa, k8 : integer returns nothing o, I6, G : integer; G, T, Vm70, F : integer array; chillax end GCxaa : takes M : integer array returns integer i : boolean array; fI20a : boolean array; while 1 >= 5 : let N = 983 end; pop end main : chillax end

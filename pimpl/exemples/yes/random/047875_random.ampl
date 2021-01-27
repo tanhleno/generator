@@ -1,0 +1,1 @@
+program F : x : takes lJA0a : boolean returns nothing c, CK4a, wN, c3I, I8Haa : boolean array; d, _4, Q, m3H0 : integer; input bf8aa[- 08400]; while 4 - 8 : chillax end; do R5(2, 81, 33); do M(9, 3) end wO2a : takes P, Q1L, h0_a : boolean array returns nothing let PG[- 4] = array - 0730; pop end main : chillax end

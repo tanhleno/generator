@@ -1,0 +1,1 @@
+program n9 : u : takes v : integer returns nothing c5T0a : integer array; pop end main : vNPaa, c : boolean; w, rTB, J8 : integer array; while false rem(67) >= not true - (8) : let m = array - 5940; pop end; do J(- not true); when case H : chillax end case - 34 /= 3 : chillax end end

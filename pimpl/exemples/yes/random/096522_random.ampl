@@ -1,0 +1,1 @@
+program K : main : when case - 6 rem R(20) * 0 + true - not 96400 and 7 - 2 : chillax end case - not true / 26 <= false and 077 or 6090 - 3 : do R6Q0(95 = 903, 89, 29); pop; when case 6 : chillax end end; output - true and 3 = 34900 end

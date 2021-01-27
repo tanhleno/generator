@@ -1,0 +1,1 @@
+program gmN0a : Z : takes J8 : integer; A, dbx0, w, J, Y : integer returns boolean array F : integer array; input W end main : when case true * nMf[8] * not 1 : do pL6(- 264 = 44700) end otherwise : chillax end end

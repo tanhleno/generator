@@ -1,0 +1,1 @@
+program PZN0a : k : takes h : boolean returns nothing while - j >= - 7 - 0 : let c0[868] = array 7 end; pop; let J[043] = array 122; input _; pop end main : while true and(1) - Q[0] / false + not 2830 : chillax end end

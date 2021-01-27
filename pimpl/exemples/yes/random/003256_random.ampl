@@ -1,0 +1,1 @@
+program y : Q : takes B, J, Eu8, xmg, An70a : integer; f : boolean; hH : boolean; hV8aa : integer array returns integer array bY, Ka1aa : boolean array; chillax end main : Mrc0, E : boolean array; p, l5r, tJ, Q : boolean array; do Ml(- not true rem not(6)) end

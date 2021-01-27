@@ -1,0 +1,1 @@
+program Xk60 : wRR : takes bnMa, k : boolean array returns integer array chillax end o : takes c : boolean returns nothing chillax end main : I3, o3 : boolean; output true rem(064) . 7 and 357 . ""; input m1[false * true] end

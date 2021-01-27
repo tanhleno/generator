@@ -1,0 +1,1 @@
+program y8Raa : O : takes Q770a, n3 : boolean array returns integer while false /= - 01 - 766 : chillax end end N : takes L : integer; G3R0a, r_, R : integer returns integer array chillax end main : a0 : boolean; _1 : integer array; J510 : integer array; pop end

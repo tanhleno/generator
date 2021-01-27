@@ -1,0 +1,1 @@
+program n83 : O : takes F260, X75aa : integer; Y, E3 : boolean array returns nothing output "700a" . "Z"; while 5 : chillax end end main : pop - 8 / (7) and 5; while G * Nh or not 5 <= - X + 8 : when case 6 : while 7 : chillax end end end end

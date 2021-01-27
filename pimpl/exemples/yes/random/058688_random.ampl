@@ -1,0 +1,1 @@
+program M : Y : takes k : integer array returns integer array chillax end main : when case - D0 / (25700) rem(5) and 626 - true : let x97[9] = 2 = 58 end case - (0) : output "\tT" . 0 . "o" end case false + 7 < 111 - 73600 : do k(42); do sCE(83) end otherwise : pop; let zk[6] = array 89 end end

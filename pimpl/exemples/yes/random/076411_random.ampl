@@ -1,0 +1,1 @@
+program D : main : G, x : integer; Q : integer; do b(971 * 5 and(9350) >= not(36) - not 907 and 1); while true rem true and 53000 - QJ and 7 or 1 - 968 : do z2(27, 8, 3); while 22 : chillax end; output "" end end

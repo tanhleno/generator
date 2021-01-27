@@ -1,0 +1,1 @@
+program O : main : h, iP, M : boolean; I, G, s, H, m : integer array; while false * true and H > (5) rem E and 37 + true + 0 - 6 : when case 2 - 080 : when case 3 : chillax end end case 7 = 8 : do z(0) end case 8350 : pop end otherwise : while 09 : chillax end end; input ABJ[86]; output 3 . "" end; output - P0u0a and 49 /= 94400 end

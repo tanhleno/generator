@@ -1,0 +1,1 @@
+program C65a : q9e : takes _g : integer array; jg2aa : integer array; l4T : integer array; J, D : boolean; n : integer; nR7 : integer; hF1, h7 : boolean; n : boolean returns integer Q : integer array; do mUEaa(H and 5, 6, 4) end main : chillax end

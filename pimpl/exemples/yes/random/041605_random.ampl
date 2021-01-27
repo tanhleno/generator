@@ -1,0 +1,1 @@
+program r7 : m73 : takes a9 : boolean array returns boolean array b, GZ, O : integer; let F7[- 7120] = 29; while - 570 - 0 : while 7 : chillax end end; do C7(1 = 8680); pop; let B9n0a = 687; when case 30 : chillax end; pop end P480a : takes f6h0 : boolean array returns integer array chillax end main : chillax end

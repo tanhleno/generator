@@ -1,0 +1,1 @@
+program vT3a : xo : takes q, o7_0a : integer array returns nothing chillax end u : takes U : boolean array; O, s : boolean returns boolean chillax end I : takes L8, J9d : integer returns nothing C, NZ8aa, W : boolean array; qo3aa, w : boolean; while 167 = 6 : let k = 9 end end main : when case false or 031 / true and 71 + false and 02 : chillax end end

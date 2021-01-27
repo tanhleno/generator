@@ -1,0 +1,1 @@
+program WTUaa : Z6 : takes R, eq, C : boolean; C : boolean returns nothing a0 : boolean; _3P0a : integer; chillax end main : P, A : integer array; PH : integer; h, tS, K, Fba, p : integer; hf6 : integer; o, A : boolean; chillax end

@@ -1,0 +1,1 @@
+program Pm : main : _, T, STXaa, J : boolean; TGy : integer; XW6, G, f : boolean; e : boolean array; H : integer; when case - false rem not true and(87) and 5 : pop 71; pop 4 end case - not true + not 9 /= 36 : while 39 : chillax end; input GcSaa[5] end case true : chillax end case - 5 - 218 : pop end end

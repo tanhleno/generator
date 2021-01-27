@@ -1,0 +1,1 @@
+program j080a : G : takes D71aa, QCJ0, C : integer array; Od, nWH : boolean array returns nothing chillax end _ : takes v340a, a9 : integer returns nothing y : boolean array; P, _ : integer array; chillax end main : q10 : integer array; v3 : integer array; input YwI[- not 17 rem false rem 6 and 404 - n(6)] end

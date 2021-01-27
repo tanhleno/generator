@@ -1,0 +1,1 @@
+program S : main : a, W, D66 : integer; pop; when case not(0) / u01 or(25) + 118 - 6 > - false : let b[2] = array 23600; let W = 63 end otherwise : let q6y = array 68; input k; let s = 4; pop end end

@@ -1,0 +1,1 @@
+program h45 : Z : takes A92, _5, V, t05, Y, Y, UL : boolean array; J, Ah, eO : boolean array; wj, S : integer array; g, O2 : integer array returns nothing let _ = array - false; pop end main : K0, L, qg2 : boolean; input U[- not true]; input ds[not 129 / not 92] end

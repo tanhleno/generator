@@ -1,0 +1,1 @@
+program P_60 : C640 : takes m, _, xT, nT0a, B18 : integer array returns nothing yS, d, h : boolean; chillax end hL : takes R, y6, Du : integer; DQ, Z8 : boolean array returns nothing T, E : integer; D5jaa, r, Q4 : integer array; chillax end main : chillax end

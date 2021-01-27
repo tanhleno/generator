@@ -1,0 +1,1 @@
+program C : j : takes N, n : boolean; u, Pj0, p, K : integer returns nothing v2 : integer array; input S[- true or 8440] end U : takes O, N, pj1, d : integer returns integer array let NPo = array - 5; input dO7[6] end main : BF : boolean array; chillax end

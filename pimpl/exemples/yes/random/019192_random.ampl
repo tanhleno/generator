@@ -1,0 +1,1 @@
+program V : D : takes x, qI50 : boolean array; M, qj : boolean array; o, o1C : boolean; p, L5M0a : integer returns nothing chillax end main : when case true or true or x - 07 = true + (79) + 636 : output 1400; let n3[1] = 6 end case - false rem c and 3320 - false and 4 + 954 - 7230 : do I(6 = 5); when case 79 : chillax end otherwise : chillax end; let W = 4 end end

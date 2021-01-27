@@ -1,0 +1,1 @@
+program Z : zava : takes Mv8 : integer array returns nothing eEia, epU, P : boolean array; _, C, y0, WMv0 : boolean; a7 : integer; chillax end main : when case 0 : chillax end; do t(- not X / (2) + Z and 28 /= (9) and 5 + 98); pop - 7; while - 3 - 63300 > 027 : chillax end; when case 765 : while 89 : chillax end; pop end case 69 : chillax end otherwise : pop end end

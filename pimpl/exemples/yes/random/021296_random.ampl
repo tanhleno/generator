@@ -1,0 +1,1 @@
+program f : Hc : takes N, q : boolean array returns integer array chillax end main : j, n : integer; pop 5 + not 729 and 47 + 0 - 6 = 89 and 1 - 7 - 009; while - false * (04) and 7330 >= true : chillax end end

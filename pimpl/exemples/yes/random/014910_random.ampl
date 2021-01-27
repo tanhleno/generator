@@ -1,0 +1,1 @@
+program BRG : u92aa : takes a, f770, K4 : integer array returns integer array do h(false and 8 = 9, - 10) end Be : takes K, z, Y7, T, W, f3c, g7F : integer; r : boolean returns integer st2 : integer array; X : boolean; JXJ, X6 : boolean; d : boolean; F34 : boolean; input S0 end main : chillax end

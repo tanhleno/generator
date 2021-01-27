@@ -1,0 +1,1 @@
+program S3oa : M5 : takes B3Ua : boolean returns integer xx5 : boolean; let w = - 4 < 8 end m : takes A : integer array returns boolean array IZ9a, V : integer; output "0"; when case 4 : input a5Yaa; pop end case 0 : chillax end otherwise : pop end end main : Nu, Q : boolean; chillax end

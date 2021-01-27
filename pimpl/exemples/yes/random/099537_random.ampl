@@ -1,0 +1,1 @@
+program rg4 : main : while not not not 3 : pop 5 = 78; pop 5 end; do I5(false - 6 and 48 or 8 - 3 < - false and 43600 or 60); while - false and 0 - 4 - 7 /= 21900 - 57 : when case 06 : chillax end otherwise : chillax end end; pop end

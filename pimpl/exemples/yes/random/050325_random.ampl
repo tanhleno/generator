@@ -1,0 +1,1 @@
+program A : B : takes h : integer; A2, y45aa : boolean; m, N1Pa : boolean; r : integer array returns integer array OS : integer; while not 12 and 9 + 26 - 1 /= - 57 : chillax end; let j = 4 end main : o, VY1 : integer array; chillax end

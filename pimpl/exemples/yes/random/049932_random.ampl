@@ -1,0 +1,1 @@
+program _I3 : jd3 : takes x8a : integer; d7, FN9, p : boolean array returns nothing SAkaa : integer array; l, xZUaa, u6, A : boolean; l : boolean array; chillax end main : E6 : integer; GG, DyY0, n : boolean array; N, R8, z, A75 : integer; S, t8, T : integer; R, C : integer; nD, eey : boolean; chillax end

@@ -1,0 +1,1 @@
+program j7 : r3 : takes xgk0, h : integer returns nothing X : boolean; K : boolean; T, xL : boolean array; input V[(7)]; when case - 49 - 2 : output "" end case 9 : pop end case 163 : pop end; while 03 : let ed10 = 85 end; let QVsa[9] = 8; let D = 6 end main : input L; let Dz[79] = array - 3 or false + 3 - 8 end

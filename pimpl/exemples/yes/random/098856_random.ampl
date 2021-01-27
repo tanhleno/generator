@@ -1,0 +1,1 @@
+program Rrb0 : main : while - true * false / 9390 + F and L >= - false + not 2 and 46 or 60 : chillax end; pop(9) and 81 or 87; let le6 = - 8 - 3; while - 3 - 2 : chillax end; output "\n" . "~30" end

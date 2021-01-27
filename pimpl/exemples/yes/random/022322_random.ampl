@@ -1,0 +1,1 @@
+program x : qb : takes w0i, m_10 : boolean array returns nothing UU5a, xevaa : integer; let e = - 19 - 1; input X3[- 3]; output "" end main : Y, z, E : boolean; v39, A4Ya, U, h, J7, S : boolean array; input e[02300] end

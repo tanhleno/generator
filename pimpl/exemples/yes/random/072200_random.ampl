@@ -1,0 +1,1 @@
+program S : main : z, XZ3a, y63 : integer; q8S, Oz : integer array; while - n(87, 1) * OnK0(1) or not 28 + X > - 8 * not 4370 and 981 : when case - 7 - 83 /= 8 : when case 7 : chillax end end otherwise : chillax end end end

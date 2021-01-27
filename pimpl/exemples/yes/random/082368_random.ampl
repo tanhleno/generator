@@ -1,0 +1,1 @@
+program V : main : p : boolean array; let Y[(9 = 7) + false rem x and 405 - false and 781 + 90 - 4] = array not true and true and true + true; when case(5) or true and 8 - 2 = - not 8 : input H[9] end; when case - 92 and 8 : chillax end case - 140 - 943 : chillax end; let aU[87 - 1] = array - 00 - 2; pop end

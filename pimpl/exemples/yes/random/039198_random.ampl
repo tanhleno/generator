@@ -1,0 +1,1 @@
+program v : vk : takes w : boolean array; Q, R : integer array; v9 : integer array returns boolean h890a, bZ, g : integer; output - 7 - 24 . "9"; while - 7 - 1 : chillax end end main : while - 6930 + do8(4) * t and 2240 : chillax end end

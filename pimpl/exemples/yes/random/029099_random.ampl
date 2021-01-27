@@ -1,0 +1,1 @@
+program Z0J : p6 : takes WV, uX : integer array; T4 : integer returns integer array R5V : integer; t890a : boolean; k : integer array; M, MbC : boolean; input J[1 and 2] end main : while 7 : chillax end; input c84[- true + not 5 and 8]; output ""; let nN50a[- 34400] = array 87 - 7; output 53; when case 8 : pop end case 0 : chillax end otherwise : chillax end end

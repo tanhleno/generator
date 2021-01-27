@@ -1,0 +1,1 @@
+program V : y : takes pi : integer; M9 : boolean array; t : boolean array; b : integer returns boolean Hsca, v, c : integer; do x(- not 9 + 3 - 9080); output 5 = 5 . 12 . "/" . "p" end main : G9L, P_, M : boolean; P : integer array; chillax end

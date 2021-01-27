@@ -1,0 +1,1 @@
+program w8 : Y : takes iGd : integer array returns boolean array B, e93, l64aa, J : boolean; chillax end y65 : takes v4, r : integer returns nothing output 7 = 397 . "\t" end main : while - c0 - false * not 6 and 9 : output "" . 2 . "X"; output "" . 15 end end

@@ -1,0 +1,1 @@
+program QWla : v74 : takes Z88, Hm, t : integer array; o, G, R : boolean array returns integer J : boolean array; G, jL, r : integer; pop end main : YA, p, d : integer array; let r[not not false or true and true and 62 or 750 and 8580] = - not not 18000 /= not 2; pop - 28 <= - 4 - 1; output 88800; output "" . 3 end

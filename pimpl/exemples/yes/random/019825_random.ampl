@@ -1,0 +1,1 @@
+program n58 : E : takes Y, _ACaa : boolean array; c : boolean array; n, N, C : boolean returns nothing chillax end w : takes t, c8t0a : integer array; sk, X : boolean array; M : integer array; x, m : integer returns nothing chillax end ph : takes c4, O4 : integer returns integer chillax end o2 : takes R, d76a, k9 : boolean array returns boolean chillax end main : chillax end

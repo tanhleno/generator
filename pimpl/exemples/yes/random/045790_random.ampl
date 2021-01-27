@@ -1,0 +1,1 @@
+program Y : r : takes KQp0a : boolean returns boolean array let W5 = array 3; output 0 = 9 . ";40a" end h44 : takes m, da2 : integer array; O27a, d, hGVaa : integer array returns boolean array q, C : boolean array; h1e0a, p9 : integer array; M2k0, R1 : boolean; output "]}!a" end main : chillax end

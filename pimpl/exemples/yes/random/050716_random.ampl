@@ -1,0 +1,1 @@
+program Q7 : i : takes E : integer; y9T0, B : boolean returns integer X, S, W : boolean; Hi : boolean array; n2 : integer array; chillax end m : takes qF : boolean returns integer array chillax end main : while - not not Ic / false > - not(30) and 8 - false : chillax end end

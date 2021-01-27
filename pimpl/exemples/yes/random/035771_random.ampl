@@ -1,0 +1,1 @@
+program MDl : q : takes J : boolean; M : boolean array; s : integer; Z, Fjta : boolean array; dqf : integer array; P, B, w : boolean array returns nothing pop - 564 - 77300 end main : do n((860) - SaF, (0) - M + 00, B6 + 97800 - 45 = - 73 - 9) end

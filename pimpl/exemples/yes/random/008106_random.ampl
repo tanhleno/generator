@@ -1,0 +1,1 @@
+program L4uaa : xT90 : takes Hm, N, t, T : integer returns integer w8, W0, L : boolean; Ea0 : integer array; I : boolean; GW : boolean; chillax end _ : takes c : integer returns boolean d, K8, qqE, t : boolean; B, Y0n : integer; chillax end O1O : takes B : boolean array returns nothing E880a : boolean array; U610 : boolean; p : boolean; let Za90a[57] = 2 end main : chillax end

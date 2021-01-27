@@ -1,0 +1,1 @@
+program sdx : QgU0 : takes O : boolean; S9K, os : boolean array; V, Uq, I : boolean array; g, V2 : boolean returns nothing I, Ve8aa, N150 : boolean; pop - 157 end main : do J7(- true and false + not not 96 + true > - R - W - 50, - not 35, n - 778, 47000 - 5 <= 1, 18100) end

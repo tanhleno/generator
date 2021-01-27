@@ -1,0 +1,1 @@
+program s : S : takes F, n, X : boolean; R30a : integer; aX, t, v : integer; Rf9 : integer returns nothing l40, h, J, hh : boolean; chillax end main : d, p, pf : integer; K, _3Ta, c8, x, h3N0, fGga : boolean; let P = false or not 01 + 65; output "" . - 40 - 0 < 9790; do O(false) end

@@ -1,0 +1,1 @@
+program ba : _ : takes z : integer returns boolean array W9, V, J64a, nW1aa, O70 : integer; chillax end Nwn0 : takes I0 : integer returns nothing rK : integer array; chillax end main : V2x : boolean array; input z4; do bL(- 9 rem false < - not 927 - 29, O and 3030 > - 9 - 858) end

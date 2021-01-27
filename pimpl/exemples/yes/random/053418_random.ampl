@@ -1,0 +1,1 @@
+program N8u0 : v : takes z : integer array; u2, XK, w, t0qaa, gg7aa, B7, M3 : integer array returns integer chillax end D : takes b3E : integer array; C : boolean array returns nothing J5 : boolean array; when case 3 - 6 /= 4 : output "qq" end; while 511 : when case 57 : chillax end end end main : c46aa : integer array; chillax end

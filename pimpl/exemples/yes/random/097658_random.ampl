@@ -1,0 +1,1 @@
+program P : main : when case true and(2) and not 12 and 7 >= - false : pop; when case 32 : output "Y8\""; pop end; do P(0); while 1770 : chillax end end case not true - Wo - 28 - 25 : output "U"; do pxlaa(0, 5); while 937 : chillax end; while 1 : chillax end end case - not 47200 - 03900 - 9 > 79 - 0 : chillax end end

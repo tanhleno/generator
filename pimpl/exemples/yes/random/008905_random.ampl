@@ -1,0 +1,1 @@
+program K : t : takes N, V, P : boolean; m1, y : integer array returns nothing Qu90a, V, S : boolean array; when case - wI and 8 : chillax end case - 3 = 2 : chillax end case 538 : chillax end case 28 : pop end end main : F91, Su, h7ka, M, XE : boolean; EyX0, U : boolean array; chillax end

@@ -1,0 +1,1 @@
+program u8 : SME : takes w, y : integer array; Kqq, X : integer; Zt : integer array returns integer while - 21500 - 4 /= 6 - 9 : chillax end; input u; input X[005]; pop 4820; while 91 : chillax end end main : N2 : boolean; Gg : integer; input K; let yF = array true / 157; pop end

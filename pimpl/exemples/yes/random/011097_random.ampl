@@ -1,0 +1,1 @@
+program A : E67aa : takes l, e5g, YX : boolean array returns nothing chillax end main : jL6, WBW : boolean array; when case - 60 and 85 : do q1(0 - 7 < 051, 0 = 11, 64, 6) end case(137) >= - (8) or 568 : when case 650 = 55 : chillax end; while 8 : pop end end end

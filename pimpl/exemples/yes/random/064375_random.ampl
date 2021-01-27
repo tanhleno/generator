@@ -1,0 +1,1 @@
+program vl7 : B : takes E : integer returns nothing L, g5w, u : integer array; L2q, X, wjha : boolean; when case(0) and 27 : when case 61 : chillax end end end main : n : integer array; b, V6h : boolean array; output "" . "7R0"; while - (97800) - true and 7 - 5 - 1 > - not 413 or 8 : output 44 . 45; do Q3r(8, 3) end end

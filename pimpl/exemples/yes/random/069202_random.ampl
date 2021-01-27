@@ -1,0 +1,1 @@
+program N : main : l1R, Zh, u3, g, K : integer array; _Y, iq, d : boolean array; q5k0a : boolean; input Z[- (466) rem false rem 1 and 5 - (670)]; when case true + (004) : pop 4 end; let O = 9 = 318; do _(23 = 186) end

@@ -1,0 +1,1 @@
+program f : H9 : takes G5i : boolean; Af, Sr : integer; q8, Am5 : boolean array returns boolean array when case(263) : pop; output "e" end otherwise : chillax end; when case 1 - 5 /= 11 : chillax end case 9 : input G8; pop end; pop 17 end main : L7i : boolean array; input Zl end

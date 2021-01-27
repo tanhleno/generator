@@ -1,0 +1,1 @@
+program d : main : B : integer array; oe6, Jh, f, AJ, y65 : integer array; Y7Ta : integer array; L : boolean array; while f and(8) * true and 6 : while 2 : input A end end; input J5Y; let ExT = 31 /= 9 end

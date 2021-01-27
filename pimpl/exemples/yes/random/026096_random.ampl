@@ -1,0 +1,1 @@
+program XS : X71 : takes A, h : integer; a : boolean; E : integer array; I, m, Rz, af : boolean array; o : integer array returns nothing B : integer array; while - false and 6 : chillax end end main : C91a : boolean; I : integer array; let yz[not M(49700) + false or 142 and 98] = array - false / false and l36 or true and false + not 0 and 9260 - 9 - 60; pop end

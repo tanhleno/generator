@@ -1,0 +1,1 @@
+program o : C : takes w01aa, j3maa, X : integer; K7_ : boolean returns boolean b, u, s4M : integer; m : boolean; chillax end lO : takes w, d31a : boolean array returns nothing chillax end main : output true rem i and 7 - true and 5 + 0; output - false and 7; input m[- C and 9]; do l(4 = 745); do Q(5) end

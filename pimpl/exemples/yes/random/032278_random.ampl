@@ -1,0 +1,1 @@
+program g : h : takes u, fc20a : integer returns nothing chillax end z2 : takes f : boolean array returns nothing W, V, M : boolean array; MR, u, K : integer; chillax end main : a, q2 : integer; chillax end

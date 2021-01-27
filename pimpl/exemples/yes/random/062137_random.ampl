@@ -1,0 +1,1 @@
+program x : x380a : takes l : integer returns boolean array when case - false and 08 + 596 : input R[02000]; let R = 065; let b = 4 end otherwise : input Y; when case 8 : chillax end end; while - 42 - 1 : pop end end main : E3 : integer; a3 : integer; Lu : boolean array; _Y8, J, F : boolean; v, n, N : integer; chillax end

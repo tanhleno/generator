@@ -1,0 +1,1 @@
+program ht60a : M62 : takes P, tc7a : integer array; QB : boolean returns nothing chillax end main : when case(58 = 92) rem true or false = Pj : chillax end otherwise : while 3 = 23 : do P(5) end end; let NAd0[1 + true and 725 + 9 - 39900] = - true >= - 2 - 89 end

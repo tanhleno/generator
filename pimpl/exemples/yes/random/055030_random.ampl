@@ -1,0 +1,1 @@
+program St : Uj : takes D : integer array; l, V : integer; w : integer returns nothing chillax end E : takes E7, I : boolean returns integer B8 : integer; output 68 = 6 end KPTa : takes C, T6, W, yP, f350a : boolean returns boolean chillax end main : chillax end

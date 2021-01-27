@@ -1,0 +1,1 @@
+program Z9v : main : e : boolean array; X, H9e0a : boolean; i, xoraa : integer array; wJ, D4y0a : boolean array; e3, f : boolean array; r40, i : boolean; tF : boolean; lL : boolean; when case 260 < L1Paa[9] rem(8) and 6 - false : pop 73; let f3[9570] = 9 end case - not g : input BH end; input O end

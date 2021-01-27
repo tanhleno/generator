@@ -1,0 +1,1 @@
+program h : C7 : takes M, z, jic, D18a, OI : integer array; q : boolean; Z, jh, p79 : boolean array returns nothing S40, hQ : integer array; aF40, j2 : integer array; chillax end main : _5, a : boolean array; t, v : integer array; r, s7, F : boolean array; t5, HY : integer; output ";\\"; do PE(- false rem false and 687) end

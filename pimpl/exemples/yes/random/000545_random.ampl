@@ -1,0 +1,1 @@
+program r : Ju : takes q, B, j, ut90, O, C, h6, mY : integer returns nothing pop 3 = 7; pop 2410 = 483 end Z : takes dn_ : integer array; J6 : integer; K : integer array; K : boolean array returns integer a2, O13, j7, q6 : boolean; L, y1, Q : boolean array; pop end main : yi : boolean; let A2 = array true and(5) end

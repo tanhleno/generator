@@ -1,0 +1,1 @@
+program Be8 : n97a : takes l : boolean returns boolean while - false : pop; do M990(19) end; pop; pop 50; do S(8, 922); let W = 36800 end Wn9 : takes t : boolean array returns integer array input T[- 93 - 83]; pop 0 end main : while - not(04) < - 354 : chillax end end

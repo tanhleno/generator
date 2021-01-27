@@ -1,0 +1,1 @@
+program i : q0 : takes H, w, u : boolean array returns integer let m2daa = array - (6) and 4; input b68 end l : takes J, e : boolean returns nothing i : integer array; H : boolean; j64, E6 : boolean; chillax end main : pop - cC[5] * true + false and 6; do A1(- not true <= - 8 + 7 - 6, true < - 4 - 005); do o(- true - 2 - 2, 3 - 71, 4, 8, 957) end

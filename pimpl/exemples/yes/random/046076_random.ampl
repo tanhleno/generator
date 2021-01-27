@@ -1,0 +1,1 @@
+program I4 : xl : takes Nc7 : boolean returns boolean c6B0, nv, c : boolean; j : integer; output "" . "" . 79 . "8"; pop; pop end main : _tE : integer array; d : boolean; when case - 94 > true rem false and 7 - 2 and 0 + 1 - 35100 : do V(- 5 - 0); input O1; pop; do j1(0) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program nu : zh : takes U, y : integer; n, m8n0, C : boolean; n5 : integer array; M08a, R6 : integer returns nothing L6Z0, X6 : integer; chillax end main : b, so : boolean array; let J[- false] = - true and(02) < (7) and 29; output(6) and 47 or 5 < 33; do vsm(- false and 033); let e850 = 41 end

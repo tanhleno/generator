@@ -1,0 +1,1 @@
+program XM8 : Wg : takes Tv0 : integer array; D : boolean returns integer w, _3 : boolean array; let fH60[false] = array 30 or 10 - 8 end main : Q4, f : boolean; while - 6 / false - true and false >= (8) : chillax end end

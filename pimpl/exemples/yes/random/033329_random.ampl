@@ -1,0 +1,1 @@
+program XL : i : takes D2B : boolean; OUfa, U, _, J6, P9 : boolean; lAUaa, J2 : integer returns nothing pop end U : takes sH, U, n, Rq, l, R3, T : boolean array returns nothing chillax end main : bL, g, J, g11, N, JG : boolean; while 1 : output 64 = 68 . 1 . 24; let t3[6] = 0; pop 0; let f = 87; pop; pop end end

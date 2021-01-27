@@ -1,0 +1,1 @@
+program m : Lg : takes m, wl, Wk : integer; U, J, Bmp0a, f, WwSa, C64a : boolean returns nothing T0 : boolean array; do z(- (85), - 504 - 3); when case - 1 : chillax end otherwise : do s(1); pop end end main : chillax end

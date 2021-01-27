@@ -1,0 +1,1 @@
+program v : main : g, s : integer; OH : integer array; u, R : boolean; dhm0, x6, qO7aa, Wr : integer array; while - not true : when case 52 = 1 : chillax end case 982 : chillax end case 56 : pop end end; while - not false : chillax end end

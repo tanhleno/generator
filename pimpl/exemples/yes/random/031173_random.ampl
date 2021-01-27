@@ -1,0 +1,1 @@
+program R0 : AN80a : takes G7, H : integer returns boolean array chillax end V7r0 : takes D : boolean; I, L, c2, r730, Y, xk : integer returns boolean let O7 = 087 = 0; while 5 : chillax end end main : output "/" end

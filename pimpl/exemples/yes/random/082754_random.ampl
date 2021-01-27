@@ -1,0 +1,1 @@
+program T : main : h : boolean array; when case not mp10 and not not 6 + 6 /= - false or not 8790 and 1 - 52300 : chillax end case not l2 - j and 3 >= (00200) and 6 : do m7V(5, 0, 4400); input M9 end otherwise : chillax end end

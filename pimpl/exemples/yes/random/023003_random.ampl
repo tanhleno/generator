@@ -1,0 +1,1 @@
+program Ft : Gb : takes y, Q : boolean returns boolean array D : boolean array; chillax end x : takes C : integer array returns nothing pop; pop; when case 4 : pop end otherwise : chillax end; output ""; pop; pop end main : chillax end

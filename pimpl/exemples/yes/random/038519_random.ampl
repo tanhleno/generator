@@ -1,0 +1,1 @@
+program y4 : q : takes I0da : boolean array; k3, j : boolean; n5 : boolean; iY : boolean array; b : boolean; u23, A : boolean returns integer e : integer array; let O = 35 = 8 end main : output true + 2 <= - true and 33600 or 8 . "@"; output false and 603 . "\"" . "" . 7; pop end

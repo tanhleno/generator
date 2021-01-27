@@ -1,0 +1,1 @@
+program UqQ0a : I : takes B : integer array returns nothing while - not 8 or 5 - 1 >= - 8 - 4300 : chillax end end lF : takes z5g0, H, Q5A, _8e0, x, SC, f : boolean array; Y : integer returns boolean chillax end main : C3, kRma : boolean; chillax end

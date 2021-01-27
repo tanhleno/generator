@@ -1,0 +1,1 @@
+program Q : N : takes k7 : boolean array; N : boolean returns integer array w, x72 : boolean array; h : integer; gFSa, p4v, H : boolean array; let vH0[- true] = - 09500 - 72 >= 3; input DGD[- 91] end main : output not(5) * not 591 and 58 . "sU" . "" end

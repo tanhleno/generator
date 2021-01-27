@@ -1,0 +1,1 @@
+program N : n : takes i : boolean array returns integer Xw, J, X2V0a : integer; V : boolean array; SZ2 : boolean; when case 81500 and 83 or 58 : chillax end end main : v : boolean; g, G, P : integer; few0a, hS : boolean; chillax end

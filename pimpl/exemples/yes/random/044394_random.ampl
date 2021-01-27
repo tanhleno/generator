@@ -1,0 +1,1 @@
+program ffqaa : h : takes X : boolean array returns nothing S, Ri : integer array; q : integer array; F3, M, _w0 : integer array; chillax end main : D3, ZV : boolean array; S, E : boolean array; e, K : boolean; do VB(- (29) - c7[7] and L and 02100 or true + 9 - 64 <= - false / 93 and 10500, U and(5) and 1, (99)) end

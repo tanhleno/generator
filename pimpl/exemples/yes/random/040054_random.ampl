@@ -1,0 +1,1 @@
+program S86aa : zj : takes U0 : boolean array; A : boolean array returns integer array b0, l9, K, Y : boolean array; M : boolean array; when case - f and 6500 or 06 : chillax end case 3 - 7 <= 9 : chillax end case 0 : chillax end; while 73 - 7310 : chillax end end main : u : integer; chillax end

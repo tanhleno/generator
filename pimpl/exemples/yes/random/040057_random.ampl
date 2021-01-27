@@ -1,0 +1,1 @@
+program H : YN : takes R1M0 : boolean array; Ur : boolean array returns integer array x8, h8, mk : integer array; pop 76 - 36 < 98 end main : Rq, i6Pa, o : boolean array; H : boolean array; k : boolean; Y, J, R5, N8 : boolean; qe4a, Y, v0x : integer array; q : boolean; chillax end

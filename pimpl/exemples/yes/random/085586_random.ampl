@@ -1,0 +1,1 @@
+program C9p : main : k : integer array; v, fg, sA, m, Ux, W : integer array; i, Y : boolean; do Cu(false rem 51 or(2) < 572 rem true - not 3 - 1, - not(8) and not 4, - not 74400 and 75 <= 7 - 33700, 9410 - 7 < 7, 484) end

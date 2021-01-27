@@ -1,0 +1,1 @@
+program Dm : oC : takes WWf0, s : boolean array; Q6, D, lx : boolean returns integer array let Xg80a = 8 - 32 = 256 end main : H : integer array; when case(57 = 2) + true * 0 and 990 - not 875 + 18 - 819 : output 020 = 92 end otherwise : let I7G0a = array 4; when case 3 : chillax end case 0820 : chillax end end end

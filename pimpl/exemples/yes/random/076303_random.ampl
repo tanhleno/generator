@@ -1,0 +1,1 @@
+program v : main : rB, J : integer; f : boolean; when case - not true * true and not 7 and 3 : let v = 45300; output 4; while 8430 : chillax end end case - false + true < true - 32 - 7 : when case 8 : chillax end case 507 : chillax end case 1 : chillax end otherwise : pop end end otherwise : do F(251, 95, 7) end end

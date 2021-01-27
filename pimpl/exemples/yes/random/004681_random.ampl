@@ -1,0 +1,1 @@
+program mY : Yi_ : takes w, rL, v, q : boolean; x : integer array returns nothing I810a, p, _ : integer; let QN9a[- (3) and 8 - 9850] = - 910 /= 4 end main : r, iV : boolean array; let xVO0 = array false end

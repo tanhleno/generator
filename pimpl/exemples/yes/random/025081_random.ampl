@@ -1,0 +1,1 @@
+program di : BF : takes _5, c : integer; UN20, c, e, w : boolean returns nothing N0 : boolean; chillax end z : takes eb, E, S : integer array returns nothing k370a, A : boolean array; chillax end main : when case - (6) and(1) / 16 : chillax end otherwise : pop 5 end; while true : input e7; do s(9); pop end end

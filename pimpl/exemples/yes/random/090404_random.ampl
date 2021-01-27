@@ -1,0 +1,1 @@
+program P : main : let Aj = not not 7460 and false - 1 and 3 + 1 /= K and 6 + 7 - 01500; do A6Uaa(9 - not 9540, - false and 2 - 58600 - 37); when case false or 1 - 7230 : chillax end otherwise : chillax end; let P5[- 32 - 9] = array - 5 - 5090 end

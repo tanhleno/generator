@@ -1,0 +1,1 @@
+program _ : main : p : boolean array; J : integer; O5, l, ey2, H00 : boolean array; when case not true : pop 1 = 63 end case V[428] rem not 6 and 78 or not 9 < - false and 2 + 7 - 6 : chillax end case - true < - 3 : chillax end case - 6 : do GA(3) end otherwise : pop end; when case - not i6 and true - 748 : pop 2; let M = 79; let T = 2; input r end end

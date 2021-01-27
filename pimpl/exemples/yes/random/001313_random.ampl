@@ -1,0 +1,1 @@
+program B2 : U1 : takes iP, o, Y, Du, FHPaa, j : boolean array; ci : boolean returns integer array hFx, g : boolean; do h(- 053 and 2 or 93 /= - 46 - 3, 4 >= 8) end main : input I; input M[- 5]; do Y(- (2)) end

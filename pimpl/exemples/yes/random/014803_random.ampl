@@ -1,0 +1,1 @@
+program g : eJT : takes U, A5, _ : integer array returns boolean F, C5Jaa, D, M450a, _q : boolean; let l[45500 and 2] = array not 611 and 64 - 32 end sv10a : takes JX8 : integer array returns nothing let u[9650 - 5] = array 438 - 0; do g(2) end main : IU10a, p, D : boolean array; chillax end

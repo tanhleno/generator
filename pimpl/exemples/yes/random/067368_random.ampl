@@ -1,0 +1,1 @@
+program qU90a : main : do ez(not false * false / 7); when case 68 + NN9 - 482 : chillax end case T and 72 : when case 2 : chillax end case 82200 : chillax end otherwise : chillax end; input _Y; output "" end otherwise : let R[5] = array 7 end; while not 849 and 57 /= 1 : chillax end end

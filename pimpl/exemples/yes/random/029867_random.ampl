@@ -1,0 +1,1 @@
+program o9 : n : takes P, A30a : integer array returns integer array LO : integer array; when case - true /= 98 - 1 : while 1 : pop end end case - 47100 - 3 < 695 : chillax end case 883 : chillax end; output "" . 4; let r7 = 0; do Z_3a(4); do H0(80); input Q; pop end main : v4Pa, i8, G95, D39 : boolean; output - 5 - not 4 . "Q" end

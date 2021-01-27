@@ -1,0 +1,1 @@
+program m : LXc : takes Ow : integer; l, FI, g, wHy, z : boolean; db2 : integer; B : integer returns nothing d, p9, m60 : integer; while(6) or 5510 - 943 : chillax end end main : q5 : boolean array; f : boolean; T : integer; e2 : integer array; T : boolean; chillax end

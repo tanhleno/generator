@@ -1,0 +1,1 @@
+program c8 : g5 : takes n : integer array returns integer array while not 54 - 6980 < - 21500 : chillax end; while - 10 - 4 = 0110 : input b; output "" end end main : q1, v : boolean; i, P0, e, zj : boolean; do D(false and not(1) * i6 and 25 >= - true or(8), - (37) > not 3010 and 14); pop end

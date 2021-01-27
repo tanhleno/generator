@@ -1,0 +1,1 @@
+program T4C : main : ky : integer; PK, gIR : boolean; Tg, m1b, Z, uM, B : boolean array; when case - false : do M(- 63 - 96) end case N * T3K < - false : when case 79 = 6 : chillax end case 18 : pop end case 4 : chillax end; pop end case R2aa : when case 640 : chillax end otherwise : chillax end; while 9 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program E : D : takes K : integer array returns integer chillax end F : takes s : integer returns nothing l : boolean; chillax end u4k : takes pA0, cd : boolean; OY, AV : integer array returns boolean array n : integer; chillax end main : VJ30a, wG4 : integer array; pop; input s[- false + S and 4670] end

@@ -1,0 +1,1 @@
+program l : G : takes J : integer returns nothing Z : boolean array; x : integer; output - 394 - 8 <= 8; input x66aa[26200] end main : K : boolean; Xs : boolean array; input PQ1aa[- false - not W9Xa / true or true and 78] end

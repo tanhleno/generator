@@ -1,0 +1,1 @@
+program j9 : I : takes X0k : boolean; p7jaa : boolean array; o : integer; i : boolean returns boolean output 4 - 1 > 7230; while - 189 - 3 /= 7 : do b(52) end end main : G580 : integer; O, p0I : boolean array; chillax end

@@ -1,0 +1,1 @@
+program C : main : output "{oaa" . "" . ",:"; do W0(false and false and 42 or not 76 or 513 /= - 03 or 41, - (3) and 74); when case - Rw8 and 9 or 2 - 8 : chillax end case 4 - 72 : chillax end; do gP(- 480, 14, 1, 5720) end

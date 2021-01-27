@@ -1,0 +1,1 @@
+program o : I51a : takes H : boolean; u, y : integer returns nothing chillax end w : takes Y77a, P, _ : boolean array; R, f8h, g : integer; G : integer array returns nothing V65 : boolean; chillax end on : takes v, O : integer returns boolean array P8, x, I : integer; chillax end main : do x(- false >= - (1) or false, y[84] * 8 < - true, - not 84 and 85 + 03 - 60600 > - 6) end

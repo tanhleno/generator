@@ -1,0 +1,1 @@
+program L : L : takes pK : integer; W6 : integer array; u : boolean array returns nothing S, qAh : integer array; chillax end main : output "5O0a" . "64a" . 339 <= 59 . ""; while true / (9) and 2 + U4 - 051 - 92 : input j23; while 8 : pop end; let D = 6; pop end end

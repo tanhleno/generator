@@ -1,0 +1,1 @@
+program i : I78aa : takes s : boolean array; b60 : boolean returns integer array k, l, G6 : integer array; k, u7S0a, n240, z : boolean; P, C3 : boolean; chillax end main : do I5(true rem false >= 862 or 79200, (5) and not 4 and 6 + true and 7 /= 0310 or 88 - 7390) end

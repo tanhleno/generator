@@ -1,0 +1,1 @@
+program D : z7oa : takes h, p : boolean array; I : integer array; _74 : integer; s, WMo0a, Q : boolean returns integer array output 374 - 747 /= 45 . "\\" . 3 . ""; let x = array - 579 - 30 end main : n0F, M22 : boolean array; do q5(- (4 = 667) > false and T or 6 and 85 - 2 - 1) end

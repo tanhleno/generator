@@ -1,0 +1,1 @@
+program y : y9 : takes D5laa, x_8, y, k : integer returns integer array chillax end X : takes kN, R65 : boolean array returns nothing R3, a, F, r : boolean; t : integer; chillax end main : output - false or not 5 and 8 < - t09a and 6 . - 7 and 57 or 9 end

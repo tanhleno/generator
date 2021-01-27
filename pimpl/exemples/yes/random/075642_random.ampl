@@ -1,0 +1,1 @@
+program l6 : main : F, s : boolean array; when case - true * false + not(1850) - (1) > - false rem 436 - E2 : do D(- 2 <= 5); while 5 : chillax end end case(944) * k7 and 55 - 1 and 6 or 1 < true : chillax end case - true : chillax end otherwise : chillax end end

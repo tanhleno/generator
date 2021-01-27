@@ -1,0 +1,1 @@
+program D : k : takes v2, q, P7, T, s, O, X1 : integer array returns integer array LxWaa : boolean; k : integer; n, _ : boolean; do E(B and 3 + 04, - 8, 1420); pop 8; pop end s : takes L4T : boolean returns nothing r4 : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program A7 : y : takes Zo, g : integer; F2, v4s : boolean returns nothing f, vq, U, r : boolean array; wK9aa, Z, J0 : integer; A06 : integer; output 8 > 772 . "" . ""; input N[0 - 1]; when case 0 = 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program m3 : k : takes Tvw0a, r, Q7K0, p940a : boolean array returns boolean l, pO9 : integer; let lS = array - 80400 end main : px : integer array; B, D, e, u : boolean array; let _ = array not(37) * H(71) or not not 0 / false or not 24; when case not(0) * (4050) : input a1[78] end case not 75100 and 5 <= 9200 : chillax end otherwise : chillax end; output "" . 4 = 1 end

@@ -1,0 +1,1 @@
+program N7L0a : o : takes q, o, oB0 : integer; K49 : integer array; li : integer array returns nothing c5 : boolean; R, R16 : integer array; do N(- 8 >= 67, - 91 - 5 <= 85200) end ys : takes h5, f, C8t0 : integer array returns boolean b3, HF : boolean array; w32aa, kG : integer array; do i(1 - 3 = 25000) end main : F : integer array; k, x, Ep70a, I : integer; chillax end

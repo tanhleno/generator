@@ -1,0 +1,1 @@
+program o : Hd : takes lkB0a : integer array; X : boolean array; yuR : boolean; iC, h : integer; c, E380 : boolean array returns nothing x7 : integer; da70a, E, r980, AZ1 : integer array; do w(84 and 28 - 0 - 3 <= - 2); while 59 : chillax end; pop 7 end main : do gg(- (5) < - 2600 * false and 53) end

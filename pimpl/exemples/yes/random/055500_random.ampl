@@ -1,0 +1,1 @@
+program t6d : u : takes C : integer array; f71 : boolean; u, i, b : integer; s, _, n, i : integer array returns boolean M2C, J : integer; CM : boolean; do O(- true <= - 73 - 17500); let b[87500 - 9] = array 9 end main : chillax end

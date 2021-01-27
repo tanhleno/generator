@@ -1,0 +1,1 @@
+program NK7aa : VF : takes Q, N950a, h, qBh, w, p, f, m : boolean array; f : boolean array; g, Coe : boolean; m : boolean array returns integer array input x end oe : takes lC90a, kl1, vT8 : integer returns nothing chillax end main : j6y0, n : boolean array; e : integer array; chillax end

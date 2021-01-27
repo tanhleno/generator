@@ -1,0 +1,1 @@
+program ke : main : _9, w : boolean array; EJ1, wr : boolean array; l1 : integer array; v : boolean; _, m, xG : boolean array; z : boolean; a8 : boolean; b : boolean; do h(- not true and true, ZD1 + true and 5 = m and 1) end

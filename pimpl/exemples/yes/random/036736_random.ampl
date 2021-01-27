@@ -1,0 +1,1 @@
+program d : K : takes lt : boolean; ds4 : integer array; w, s : integer array; y : integer array returns nothing T03 : integer; w, VN0, JL, P : integer array; _ : integer array; x : boolean; do H(- true and 393 - 671 - 09800 > - 965, - 1 - 3 > 6, 440 = 492, 931) end main : chillax end

@@ -1,0 +1,1 @@
+program oW : Z : takes n, z2, Z, Gy : integer returns boolean array do EU60a(not 753 and 18400); while - 9 : output ""; pop; pop end end j : takes _N : integer array; J_x0 : boolean array returns integer E, G0, J : integer; chillax end main : S1Y : boolean; K, HGXa : boolean; chillax end

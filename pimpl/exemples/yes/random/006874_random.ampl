@@ -1,0 +1,1 @@
+program MYV : o : takes VPa, bF, t, o4 : integer array; x, Sy, G, m300a : integer array returns integer do Q7D0(1 and 75 + 7 <= 4, 25 /= 1); while 68300 = 650 : chillax end; input F; output "\"" . "o"; do k7b(60); input w; pop end main : chillax end

@@ -1,0 +1,1 @@
+program D00 : r : takes x51aa, F, k, w : integer; Mk : integer array returns boolean array tK6a : boolean; chillax end main : nHG : integer array; while - (9) or(4) = - (6) - not 71200 or 39 - 29 : do j6E(- 25 - 55300) end; while - (0) >= - X and 2 - 1 - 7 : when case 6 : when case 425 : chillax end; pop end case 9 : chillax end end; do p((16) < 3 - 47200, - 817) end

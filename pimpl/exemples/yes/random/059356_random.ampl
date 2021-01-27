@@ -1,0 +1,1 @@
+program O31a : U3 : takes gO : integer array returns integer m, Z : integer array; D, I : boolean; t, Q : integer; let M5 = 1 - 88300; let NF90a = array - 7 - 5 end b : takes J0 : boolean array; b : integer; V, ck4a : boolean array returns nothing C8t, j310, m : integer array; output "{z" . 42 end main : x, z6 : boolean; q, v1 : integer; j : boolean array; chillax end

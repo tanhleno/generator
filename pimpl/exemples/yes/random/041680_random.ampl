@@ -1,0 +1,1 @@
+program _ : f560a : takes Z : boolean array returns boolean array O7G, z : integer array; c : boolean array; while - not 71 /= - 75 - 8 : pop 50 end; input ts[- 0]; output 9 end T : takes k, qR : boolean; g : integer; c : boolean; r4 : boolean array returns nothing chillax end main : WHx0a, V1B, y : integer array; o5sa : boolean; chillax end

@@ -1,0 +1,1 @@
+program H : WH2 : takes VAx : integer array returns boolean a4, f7, i59 : integer array; chillax end main : when case 4 - false and(2) and 36 - 80 : chillax end otherwise : while 87 = 7 : while 652 : chillax end end end; when case(07) * (24) and 808 + r45a >= j64 and 352 or 8 : when case 9 = 86 : chillax end; input dQ3[9] end end

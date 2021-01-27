@@ -1,0 +1,1 @@
+program k : H : takes B8, ya90a, r : integer; T : boolean array returns nothing Z, C : boolean; do RTf(- u8 and 36 < 5 - 0); when case 48 > 3 : input A3; do Y(4) end case 6 : chillax end case 4 : pop end; when case 155 = 40400 : while 2760 : chillax end end case 57 : pop end end main : chillax end

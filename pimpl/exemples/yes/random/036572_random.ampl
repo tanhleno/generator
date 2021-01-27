@@ -1,0 +1,1 @@
+program k : gD : takes xf0 : boolean; a250a : integer; P6 : integer; A, F : boolean; B : integer returns nothing chillax end E : takes z, n : integer returns nothing ks5 : boolean array; mCP0a, Q, s3 : integer array; chillax end main : while 58 / 6 : do T(540 - 361 < 736); pop 0 end; input f; output - 4 >= 6 . "" . 5 . 2 . "5*a"; output "I" . 73; output 9; pop end

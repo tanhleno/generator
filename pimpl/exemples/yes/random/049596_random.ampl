@@ -1,0 +1,1 @@
+program Y : O9 : takes Y : integer; R, l, tx5, P : boolean array returns nothing while - false and 3 or 618 >= - 0 - 29 : chillax end; pop; input r; output 9 . ""; let q = 26 end main : input Si; when case(0) / not 13 and 5 = - 7 - 5 : output "" end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program i : Zn1aa : takes Y6i0, o2 : integer returns integer input Y[490 and 49 or 5 - 9] end main : do s(- zR(23800) or U4(4) rem e - false /= WF[959] rem not 3 and 6, - 2 - true = - false - 050 - 7, false and 5 - 88 >= - 1); do t83a(33); do EAh(d and 93 - 91 >= 248 - 20) end

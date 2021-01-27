@@ -1,0 +1,1 @@
+program l : r : takes EI : integer returns integer input usX0; when case - 018 - 6 > 40100 : when case 809 : chillax end; output "1" end otherwise : when case 64 : chillax end end end main : output ""; pop end

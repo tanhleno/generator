@@ -1,0 +1,1 @@
+program y : s : takes f : boolean returns nothing P : integer; do s(g > - 7); pop 822; while 9 : chillax end end i : takes s : boolean array; b : integer array returns nothing pop 7 end main : Q, X30a : integer array; let X = array false + 0 end

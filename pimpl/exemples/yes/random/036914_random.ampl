@@ -1,0 +1,1 @@
+program U60 : W : takes T : boolean; J2 : integer array returns boolean array YHJ0a, a, Q, E8m : integer; b : integer array; hx : integer; x, b : boolean; d : boolean; output 2 - 68 /= 5 end main : NRd : boolean array; chillax end

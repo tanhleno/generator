@@ -1,0 +1,1 @@
+program j : H9z : takes F07, P : boolean array; wQqaa : boolean array returns integer Z : integer array; _yG : integer array; while - false and 4 >= 6 - 0 : pop end; input SS6; let L = 7 end main : U : boolean; q24 : integer array; zP8 : boolean; Zog0a : boolean; input G3f0a[not 7 rem true rem(6)] end

@@ -1,0 +1,1 @@
+program ZR : q8 : takes u : boolean returns nothing do F(not 2 <= - 76, 7 - 5 = 959); input H340a[85] end _h : takes eQ, l, wl80a, mo40a, H0j : integer array; n, M9saa, v0n, H : boolean array returns boolean chillax end main : I, e, ZJh, Y, O7 : integer; E0, zW20a : boolean; chillax end

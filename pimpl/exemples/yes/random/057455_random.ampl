@@ -1,0 +1,1 @@
+program g : I : takes jQ : integer array; T4 : integer returns nothing chillax end main : z, L, D : integer array; X, I, b : boolean array; do e(- (49400) / not 08 * true and 1 <= - _[24] rem yG, true, - false - 9380, 3) end

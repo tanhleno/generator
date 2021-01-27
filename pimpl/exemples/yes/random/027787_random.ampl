@@ -1,0 +1,1 @@
+program v : rR90a : takes m, u : integer array; F, Sa : boolean returns integer array chillax end X9N : takes j, c : boolean array; r : integer array; e2, J : boolean; Y8 : integer array returns nothing Yq3, E7A0a, r : integer; P910a : boolean array; p2 : boolean; chillax end main : do Y6(- true) end

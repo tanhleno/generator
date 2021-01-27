@@ -1,0 +1,1 @@
+program hk : main : L : boolean; Mo2aa : boolean; when case - 5930 - not(6) * 54 and 8 or false or 08600 - 7 = - 020 rem(548) - Op7 : let Y[16 - 4] = array - 60 - 7 end otherwise : chillax end; let w860a = array false * 5 and 0 - not 87 and 9 + 9 end

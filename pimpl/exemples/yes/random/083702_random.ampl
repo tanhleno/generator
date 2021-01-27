@@ -1,0 +1,1 @@
+program c : main : A : integer; xD, H4 : integer; VM, W, E7u : integer; let N[(6230 = 4) / 0 / false] = - _4; let e[true and ZbS0 and 22 - true and 0] = array - true * GU20 and 4; do A7(- 7 and 7950 + 97900 - 99 < - 0, - 6850, 82) end

@@ -1,0 +1,1 @@
+program Pw : main : W, eT9a, X1 : integer array; L, l5 : boolean array; E2 : integer array; do d(true and Xy(8), v0 = AN and 9, - 41 or 306 /= 0); when case - not false and(3) and 5 : while 8 = 4 : chillax end; when case 612 : chillax end case 0 : chillax end otherwise : chillax end; while 7 : chillax end end case - x <= - 2620 - 8 : chillax end otherwise : chillax end end

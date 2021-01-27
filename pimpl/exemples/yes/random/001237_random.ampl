@@ -1,0 +1,1 @@
+program J : ctx : takes i, L, P, W5, SJ, f3 : boolean array; U, vf1, x : boolean returns nothing H : integer array; when case - (845) or 3 - 072 : chillax end end r : takes c, C, CP6 : boolean returns nothing input OJia end main : chillax end

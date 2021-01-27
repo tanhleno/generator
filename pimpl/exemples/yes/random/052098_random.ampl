@@ -1,0 +1,1 @@
+program Qb : o2 : takes _16 : integer; e8 : boolean array returns nothing while - false and 8 + 4 : while 2 : pop end end; while - 6 : chillax end; let wX[2] = array 1 end d2Daa : takes t_9 : integer; Hm8 : boolean returns boolean array _7 : boolean; Ir, QE9a : integer array; chillax end main : h, mb2aa, AR : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Q : r : takes q : integer array; W : integer array; x, Y, q3 : integer returns nothing U : boolean; chillax end main : do N(Mco / 37 <= - 5 / (7)); let P = array - not true / true; when case - a and 3530 + 3 < - 2050 - 64 : chillax end otherwise : chillax end end

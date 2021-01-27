@@ -1,0 +1,1 @@
+program v0l : v5 : takes A4 : integer returns integer array Y, G8f : boolean array; X, l : integer; v : boolean; C13 : boolean; U : boolean; chillax end An4a : takes tz : integer; s, m50 : integer array returns boolean array output ""; output 300 . "" . ""; while 10000 : pop end end main : G : integer array; Z5Ra : boolean; chillax end

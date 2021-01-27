@@ -1,0 +1,1 @@
+program xd : D : takes tu, Fhh0, B : integer array; j5naa : boolean returns nothing chillax end main : E30a, K, N : boolean; w2P0a, Gg30a, s, x : integer array; b4, Rbq, Y : boolean array; chillax end

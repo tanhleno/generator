@@ -1,0 +1,1 @@
+program T5o : E6 : takes S : boolean array; t6 : integer; N, G8, j2, I, Q1h, OZ : boolean array; o, n_V, n : boolean array returns integer array chillax end main : Z : integer; Jt : boolean array; F, yN30a : boolean; dC4 : integer array; output - not 6790 rem not 3 and 2 end

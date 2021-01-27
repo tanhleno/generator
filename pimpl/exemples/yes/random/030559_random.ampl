@@ -1,0 +1,1 @@
+program Y : w : takes k1, h : integer array returns nothing f23, gs, U9 : integer; jt : integer array; T21, g : integer; VI, z25a : boolean; e51aa : boolean; pop 4 - 4 end main : ok, Py, PG : boolean array; T : boolean; F, Z : boolean array; do yN(- 3 rem 6 / (7) and 17, - true > 6680 and 0); while - a + j and 6 >= - B : chillax end end

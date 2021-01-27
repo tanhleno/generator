@@ -1,0 +1,1 @@
+program Z : i27 : takes J : integer; b, i : boolean; D, s4 : integer returns integer w : integer array; when case(1370) + 04 - 89 : chillax end case - 6 - 2 >= 48 : chillax end case 3280 = 46 : chillax end case 06 : chillax end otherwise : do p(1); let t2 = 8 end end main : Z : integer; do EG(18 * iq / false + (62100) rem false and 2 or true and 104 /= - (02) rem false + (0)) end

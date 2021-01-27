@@ -1,0 +1,1 @@
+program t : Z : takes e : boolean array returns boolean M, t, Y, f, V : integer array; j : boolean; input C end c : takes w5f : integer array; UEx0 : boolean array returns boolean array h : integer array; M : integer; zd_ : boolean; qD : boolean; Ml30a : boolean; when case - 0 : let l3 = 2 end case 8 : chillax end case 4 : pop end end main : U4, p2O : boolean; chillax end

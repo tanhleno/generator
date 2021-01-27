@@ -1,0 +1,1 @@
+program uH20 : Y2 : takes n : boolean; X, A8R0 : boolean array; E : boolean; w : integer array; bI : boolean returns boolean chillax end B : takes M1 : boolean array; p : integer returns nothing output "\t%"; do jH(79 = 152, 6, 287) end main : d : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Iv : J : takes S, b : boolean; m : integer; MvK : boolean array returns nothing R28, E : boolean array; chillax end main : a, f, D, c : integer; y, H1, S, E : boolean array; when case - not(19) /= (8) + not 4 or 16 - 979 : input B end case - true / false - false : chillax end; do qi(false / not 5, true or 21 > - 5 - 7, - 0, 7 = 2, 8, 869) end

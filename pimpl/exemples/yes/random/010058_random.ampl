@@ -1,0 +1,1 @@
+program J : lV : takes F, TU, X : boolean array; Z : boolean array; lz, R : boolean; g, C10a, WRY0 : boolean; E, uz : boolean array; w, LNF : boolean array; U7, _A : boolean; _ : boolean returns integer rB, Mu, T5maa : boolean; let Iu10a = array - p and 9 end main : chillax end

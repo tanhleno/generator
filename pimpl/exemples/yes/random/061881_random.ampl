@@ -1,0 +1,1 @@
+program Z8 : r : takes j980a : integer returns boolean array P, k : integer; gE9, b : boolean; chillax end B : takes R, P : boolean returns nothing while - 3 - 4 : chillax end; pop 6; let eaR0a[8] = array 6; pop end main : l, f1, D : integer array; pop; output ""; let eTK[true and 9] = array not 6 or 4 - 8570; input D[- 8 - 2]; let E9[0] = array 8; let u03aa[868] = 1 end

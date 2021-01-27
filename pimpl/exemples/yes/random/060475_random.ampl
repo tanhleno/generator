@@ -1,0 +1,1 @@
+program GF : g9 : takes D : integer array returns nothing a, pC : boolean; M, t06a : integer; chillax end main : l, B, K760a, i : boolean array; output "K" . - 555 and 0 /= - 0 - 5; let mEZ[- (10)] = array false; while - (3) and 17 - 52 - 759 : chillax end end

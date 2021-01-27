@@ -1,0 +1,1 @@
+program Fu30 : main : F0O : boolean array; input j8; when case not 8 or j9 /= - true and 39 : chillax end case - 6 or 1 - 13 : chillax end; do c(false + 22 - 6 > - 7); while 0060 - 2 >= 295 : input V6oaa end; do z3(72, 6, 76); when case 4 : pop end case 588 : chillax end end

@@ -1,0 +1,1 @@
+program s : main : I, x, Q, H, U : integer array; K : boolean array; H0 : integer; when case - not false * ji0(0) : output 549 = 092; input f; pop 9; while 042 : chillax end; input oX5 end case - not not 14900 / (8160) : chillax end end

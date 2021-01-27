@@ -1,0 +1,1 @@
+program D2u0 : main : Xe, E : boolean array; while 44200 : when case - 32 : chillax end; when case 2 : chillax end case 829 : pop end case 831 : chillax end; let iD[8] = 04; while 189 : chillax end end end

@@ -1,0 +1,1 @@
+program J : b : takes e, Cw, _, V500a : boolean returns nothing chillax end main : VB : boolean array; let ya10a[false - (0)] = array - (14 = 2); output ""; output "" . 04 = 37 . ""; when case - 6 - 21200 = 6 : do J4(03) end case 1 : chillax end case 9 : pop end otherwise : chillax end end

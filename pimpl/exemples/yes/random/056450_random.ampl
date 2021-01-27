@@ -1,0 +1,1 @@
+program c : Yg10a : takes Wh0a : integer array; fNla : boolean returns nothing y : boolean; ji : boolean; while g + 28600 - 26 : do tC(426) end; when case 8 : chillax end end main : z, wAx0 : integer array; Fl : boolean; uA4, Lp8 : integer array; chillax end

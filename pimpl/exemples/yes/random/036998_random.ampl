@@ -1,0 +1,1 @@
+program v : V : takes k1 : boolean; Z : integer array returns integer chillax end T : takes u, f, A, L, eJR : boolean array; m : integer array returns integer output 29 . 6 . 7 . ""; while 04 = 3 : while 3 : chillax end; pop end end main : chillax end

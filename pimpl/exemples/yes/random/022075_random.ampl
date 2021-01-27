@@ -1,0 +1,1 @@
+program t : Zp5 : takes LrU0, z : boolean array returns nothing do m17a(- 662 and 0) end main : P, IZ6a : boolean array; do _7Haa(- not z9 - false / (0) - 87 and 253 = - (08)); when case - (4) <= - 733 and 26 - 6 - 3 : chillax end case - (66) and 76 - 35 - 0 : chillax end end

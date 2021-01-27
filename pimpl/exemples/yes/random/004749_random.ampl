@@ -1,0 +1,1 @@
+program O6P : Pe : takes G55aa, D9q, G15aa, Q : boolean array; R8, V, z9, q : boolean; G2Ua : integer array returns nothing o4, q9, p7, Zk : integer array; chillax end main : p6 : integer; chillax end

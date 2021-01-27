@@ -1,0 +1,1 @@
+program ec : e : takes X4, Z : integer array; M : integer array returns nothing chillax end main : S : integer array; T8 : boolean array; p, bu6a, a, Q4r0a, V92a : boolean array; do w(- wL8[5]); when case true or true and 15 < K : chillax end case false and 02000 - 96 /= 070 - 6 : chillax end end

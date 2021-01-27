@@ -1,0 +1,1 @@
+program mo90 : B7 : takes O, i, i, E1, F04 : boolean; d : integer array; P, w4, S : integer array returns nothing Sk : boolean array; do z1(- false and 2 or 1, - 1 - 84600 /= 0, 7); do R8ta(6 /= 8, 1); do g(27100) end main : w40, v, I : boolean; while - 4 - j2B[70] : input SM end end

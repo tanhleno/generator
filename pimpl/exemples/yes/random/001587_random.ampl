@@ -1,0 +1,1 @@
+program t : i : takes I, CA, U, cG3aa, o63, r : boolean returns nothing when case 0 - 50 : chillax end case 6 : chillax end case 4 : chillax end otherwise : chillax end; let Pkbaa = 12500; when case 548 : input T end otherwise : chillax end; when case 03100 : chillax end end main : output "" end

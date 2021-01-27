@@ -1,0 +1,1 @@
+program GA : O : takes t, X, a, i930a : integer returns boolean output 673; input Y2c[9]; when case 45 = 7 : do H0Gaa(5); pop end; when case 609 : chillax end otherwise : chillax end end main : when case true / true - (9810) or lG and 4 : chillax end case - (5350) rem false and 7 or true + 2 : chillax end end

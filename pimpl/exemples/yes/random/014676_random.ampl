@@ -1,0 +1,1 @@
+program p : J : takes d6l, n0, qT90a : integer array returns boolean array y, V, lN, bFp : boolean array; VC : boolean array; pop - 3 - 5310 > 6; do v(3 = 22, 96 = 5640, 2); pop; do S(546); output ""; pop; pop end main : b4 : boolean array; chillax end

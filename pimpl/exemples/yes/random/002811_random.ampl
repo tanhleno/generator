@@ -1,0 +1,1 @@
+program Ce : q : takes O6laa, E, I, FXAa, e : boolean array returns nothing U, Z : integer array; pop - 99 - 1 < 4 end main : while - true + false and not 63800 and 92 + 6 and 1 + 4 - 9 >= (7) rem true and 6590 : pop 48; do NiQa(47) end end

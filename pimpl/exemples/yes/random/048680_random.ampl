@@ -1,0 +1,1 @@
+program u4 : f : takes C1 : boolean returns nothing dl4a : integer; pop - 8; let n = array 6; do f(8); do Ntla(89, 2800) end main : A500a : integer; while - (861) / not R + not(9) or 9 and 17 - 1 - 5120 : when case 8 <= 9 : chillax end case 1330 = 387 : chillax end otherwise : pop end end end

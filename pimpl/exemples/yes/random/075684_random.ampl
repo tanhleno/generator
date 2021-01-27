@@ -1,0 +1,1 @@
+program k : main : q0, me : boolean array; while(5 = 5) + false * false and 4150 + not 5 and 28 : chillax end; when case true = false and 5 : input w8 end case - not 34 and 966 or 35 - 59 = 7 : input W4; do _(49) end; pop 8 <= 2 end

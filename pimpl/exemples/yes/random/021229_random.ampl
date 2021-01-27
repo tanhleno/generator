@@ -1,0 +1,1 @@
+program YM : bWxaa : takes EvIaa, w : boolean array returns boolean pop 8960; let yc = 6 end main : do i(- true >= 1 rem false and 4, true > (80) + 2, - 66 and 99 > - 454 - 8, - 05200 = 350, 04, 49); let w[- false] = 3 and 1 <= 56 - 5 end

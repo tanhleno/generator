@@ -1,0 +1,1 @@
+program p : _ : takes ae8 : boolean; ZR : integer returns boolean array chillax end main : let _r[- not true * (1)] = true <= - false and 59 or 2300 - 6540; do Z(t[0] - false and 5 or 8 > (5100) and 2770) end

@@ -1,0 +1,1 @@
+program Fjma : w : takes b6 : boolean returns nothing chillax end _W6 : takes V : integer array; Y : integer array returns nothing pop; when case 44 = 7 : let i = 84; pop end case 67 : pop end; while 08 : chillax end; let e4 = 4; pop; pop end main : G83 : boolean; t, O82aa : integer; chillax end

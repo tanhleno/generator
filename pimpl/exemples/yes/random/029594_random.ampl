@@ -1,0 +1,1 @@
+program L720a : z : takes j, s8 : integer array returns boolean R2t0a : integer array; c1A, A, e41a : boolean; H : integer array; while - not 3 and 8 or 5 : chillax end; when case 27 - 786 : output "17a"; output "\"90"; pop end case 5270 : when case 53 : chillax end; pop end case 6 : chillax end otherwise : chillax end; input a8[6] end main : lFq, r7 : integer; chillax end

@@ -1,0 +1,1 @@
+program _ : main : when case - false - 363 / Dm and 7 : chillax end case not false or not 7 and 4 or 5 - 86 : chillax end case - 6 + 6 : when case 099 : pop end case 27 : chillax end end case - 1 : output "8\n\"" end case 93800 : chillax end; do q(K3M and true and 3590 <= 7 and 5 + 32); let D_5[- false and 43 + 235 - 7] = array true and 10100 - 5 - 7 end

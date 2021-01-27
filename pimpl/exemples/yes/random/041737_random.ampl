@@ -1,0 +1,1 @@
+program N : dC : takes f : boolean array returns boolean array R : boolean array; while - q81 and 13 : do F(9) end; input L end qo : takes g : boolean returns integer J : integer array; M : boolean; while - 1 - 24 : chillax end end main : chillax end

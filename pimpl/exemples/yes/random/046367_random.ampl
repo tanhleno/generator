@@ -1,0 +1,1 @@
+program g4 : V7 : takes i5Qaa : boolean returns boolean pop end main : when case not G6a * false - true or(8) and 1 or 07 - 288 : chillax end case false - false >= - true and 490 : input Rm; do N6(9, 0); pop; when case 94 : chillax end; pop end case true <= - 59 : while 2 : pop end end end

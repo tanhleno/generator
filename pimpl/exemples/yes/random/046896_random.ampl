@@ -1,0 +1,1 @@
+program a : V : takes x0 : boolean returns integer chillax end N : takes _7l0a, p7ga, fI7a : boolean returns nothing G : integer; UJ6 : integer array; B6 : boolean; r : boolean; output "=" . 50 . "" . "#" end main : J : boolean; WIAaa, O : integer array; p, zRJ, UP, A : integer array; n, f, N1, b0 : boolean array; S : boolean; YeCaa, n : boolean; wx8aa : boolean; chillax end

@@ -1,0 +1,1 @@
+program _ : K : takes f6a, GM6 : integer array returns integer array e9c : boolean array; x, z, cI, u : integer array; do U(- not 80 or 6 - 9); output 1 . 5 end main : let A[- not true / not v or(73000)] = array - (1540) * N / (3) and 0720; let jt = - true or 410 - 29; pop; output 91900 = 117 . 34 . "\t" end

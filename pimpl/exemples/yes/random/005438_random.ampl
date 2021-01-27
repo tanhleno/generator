@@ -1,0 +1,1 @@
+program X1 : q700a : takes V7T0, n, N, K : boolean array returns integer array R : integer array; u : integer array; ie : integer; s : boolean; z320 : boolean; chillax end main : D, a, E, G3, n5 : integer; chillax end

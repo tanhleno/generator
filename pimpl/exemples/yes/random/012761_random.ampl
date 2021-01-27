@@ -1,0 +1,1 @@
+program o740 : U : takes J03, GK, B : integer; T, X4A, Qg60a : integer array; k : boolean array; yM : integer array; L : integer; y, O9, KOoaa : integer returns integer array while true and 2 or 87 : chillax end end main : W5 : boolean array; EF : integer; pop; pop end

@@ -1,0 +1,1 @@
+program cy : JK1 : takes E : integer array returns boolean array T3, VU, N : boolean array; K, r970a : boolean; n7 : integer array; g : boolean; eBl0 : boolean; vCQ0 : boolean; when case - not 87 and 4 : chillax end case - 9 - 0 : output ":10" end otherwise : when case 21 : chillax end; while 15200 : chillax end; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program g : main : e, H4, i3 : integer array; B, Q54, Gt0aa, Pk3, z : integer; F, H : integer array; bd20 : boolean; oBx : integer array; do oW80(Z(8, 78)); while(0420) + not 4 - 8 : input c; when case 4 : pop end end; pop; do D(- 307, 1 = 6, 4); pop 637 end

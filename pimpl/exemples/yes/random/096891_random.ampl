@@ -1,0 +1,1 @@
+program n : main : when case false rem 3 * not 117 > true and true : input v end; when case false rem true and 599 : do _X(641, 8, 94) end case 3 + 6 - 365 : chillax end otherwise : chillax end; output ""; while 2 = 28 : pop end end

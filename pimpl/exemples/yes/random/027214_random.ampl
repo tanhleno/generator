@@ -1,0 +1,1 @@
+program xo2 : s : takes _3La, l : integer array; Bf, v, rs2, M : boolean returns boolean chillax end p : takes uT : boolean returns integer array input Zg20[0 - 0] end G : takes wKm0a : integer returns nothing chillax end main : when case - mG[98] <= - true and 7 and 61500 : chillax end end

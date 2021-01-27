@@ -1,0 +1,1 @@
+program YuJaa : main : input mo70a[not Z6(82) + sS(932) rem(7)]; do J(- not false / false and 66100 - (6) < - not 0 and 8 + 7 - 16); pop - 7; when case - 5 - 72 /= 2 : chillax end case 99 = 356 : chillax end; input uG10; output 39 . "01"; input P; while 85 : chillax end; pop end

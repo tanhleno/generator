@@ -1,0 +1,1 @@
+program H : main : A, e4x : boolean; B : integer array; when case false or 34800 : chillax end otherwise : pop; input F end; pop; pop 97 - 0 = 6; while 017 - 392 : chillax end; let p8[0] = array 2 end

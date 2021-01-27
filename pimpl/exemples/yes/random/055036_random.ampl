@@ -1,0 +1,1 @@
+program G : u4l : takes w : integer array; d, W7 : integer array; h, F, d, q, n, PHA : integer array returns integer array K, q, Aq7, stsa : boolean array; x8, c6, nL7aa : integer array; bN10, qXR0a, gO4 : integer; I, b : boolean; output "" . 4 . "N" . ""; let WX = array 57 - 381 end main : c, fE90, HK5a, d : integer array; C : boolean array; chillax end

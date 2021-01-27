@@ -1,0 +1,1 @@
+program _ : e6 : takes A, C1 : integer array; L3Q0, r, l : integer returns nothing M0, p : integer; Xo : integer; v3, cX8, tY : integer array; nq, YsX : boolean; chillax end MF : takes x, C1 : integer array returns boolean array U, F : integer array; input Rc[- 856 - 19]; output "B"; while 6 : pop end; when case 9 : chillax end end main : VM : integer array; input S0 end

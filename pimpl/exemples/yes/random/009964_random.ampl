@@ -1,0 +1,1 @@
+program QN : W : takes s, N, s41aa : boolean array; S29aa, wH : integer returns nothing X, sx3, Q, OR, V : integer; chillax end main : nH2, o1p : boolean; while - false or not 3 and Pk and 56 : chillax end; output q9J and 06 + 41 - 843 < 9 end

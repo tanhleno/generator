@@ -1,0 +1,1 @@
+program H : a73 : takes mhw0, O, Y : boolean array; Dqb0 : integer returns boolean v : integer array; V, r5, Y, GY : boolean; output - 50800 - 64 <= 32 end main : t : boolean array; u920 : integer; A, u6, U7, l : boolean array; F, l : boolean array; AvGa : integer array; H : boolean; pop - (5) end

@@ -1,0 +1,1 @@
+program s7 : j : takes BX : boolean; l, n, _ : integer; B, L51a, I : boolean returns integer D, t, Y57 : boolean array; chillax end main : L, A : integer; R, s9 : integer array; S, BaMaa, f : integer array; G8 : integer array; input f[false and false - y3(5) or 9 and 2]; output - (7) > - 59700 - 125 . "oea" end

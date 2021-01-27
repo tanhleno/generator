@@ -1,0 +1,1 @@
+program h : c : takes H : integer returns nothing do Misa(- true and 591 + 9, 57); when case 1880 - 6 >= 9 : let w = 23500; let u = 8 end end main : do z10(- B and 146 * not 0 + false and not 8 and 8 > - 987, (18) >= - (52) + 5) end

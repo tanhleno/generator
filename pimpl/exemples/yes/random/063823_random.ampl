@@ -1,0 +1,1 @@
+program e91 : k : takes F : integer returns nothing chillax end R9 : takes xO : integer array; u6 : boolean array returns nothing e, H : boolean array; when case - 3 - 6 /= 7 : chillax end case 44300 : do J1(187) end case 4 : chillax end case 520 : chillax end otherwise : do P(8) end end main : chillax end

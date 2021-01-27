@@ -1,0 +1,1 @@
+program UJWaa : J : takes v, dC2a, C : boolean array; B95, U : boolean returns nothing V : integer array; input p3y end L07 : takes b : boolean array; x35 : integer array; Q4 : boolean array returns nothing output "" . "\nfa" . 1 . "430" end main : C : boolean array; output ""; pop - not 1120 and 3; when case true and 0 : chillax end; output 1 = 2 end

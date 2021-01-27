@@ -1,0 +1,1 @@
+program K5 : V : takes O, F, _, X5 : boolean array; qG : integer array returns nothing when case - not 07 and 61 : chillax end case 4 > 92 : while 3 : chillax end end case 2510 = 382 : chillax end case 85 : chillax end case 4 : chillax end otherwise : input R; while 1 : chillax end end end main : t5fa, n : integer array; chillax end

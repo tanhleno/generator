@@ -1,0 +1,1 @@
+program NC50 : d : takes fjn0, il : integer array; p : integer; P : boolean returns boolean array do o2(true and 332 /= - 0080 - 9, - 7 >= 3, 161 = 08) end main : i1xa, h, P : boolean array; Y2 : integer array; when case true : do E(- 07 - 17) end otherwise : do e(1) end end

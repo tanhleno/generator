@@ -1,0 +1,1 @@
+program t : main : do d4s((1090 = 6) - true * false - true - 719, (3) and true + false <= false and 3 + 051 - 326, - true and 287 <= 5 - 22400); when case false / 94200 + not 6 and 4 > true : let z = array 78000; pop 0; while 6 : chillax end; let z = 76 end end

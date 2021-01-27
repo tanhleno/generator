@@ -1,0 +1,1 @@
+program q : f : takes mh90, m, _, H, J : boolean array returns nothing Fp, X, BQ30a, e82aa, a : boolean array; A : integer array; chillax end L0 : takes p : boolean returns nothing W4Laa, j8f, gb : boolean array; output 1 = 32 . "" . 31; output "" end main : B, y : integer; chillax end

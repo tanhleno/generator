@@ -1,0 +1,1 @@
+program f5 : b : takes zi40, s96, Tu0 : integer returns nothing let Gy = array - not 371 and 5 end g0A0a : takes dM, B1 : boolean; K : integer array returns nothing T, R : boolean; chillax end T : takes u2Ia, i, B, B, Q4b : integer; W, l01 : integer array returns nothing q4 : integer; A : boolean; j1 : boolean; H : boolean; chillax end main : output "" end

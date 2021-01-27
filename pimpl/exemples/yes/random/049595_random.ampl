@@ -1,0 +1,1 @@
+program W400 : d : takes y : integer; snnaa, e5, k, H : boolean array returns nothing pop 39 - 1; pop; when case 8 = 5 : pop; pop end; output 95 . "\n5!a" end y : takes np : integer array returns nothing Xx, Y : boolean array; p, U, b : boolean; chillax end main : chillax end

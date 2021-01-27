@@ -1,0 +1,1 @@
+program n : SU : takes U : boolean; L, A, MN : boolean; R36a : integer array returns boolean xN : boolean; chillax end main : D : integer; when case not 6 / false /= - cx4aa(4650) / 97 and 5 : chillax end otherwise : pop 90 end end

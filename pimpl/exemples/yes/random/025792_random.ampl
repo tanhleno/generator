@@ -1,0 +1,1 @@
+program IfY : k : takes f, _0 : integer; nM, q : integer array; T, k : boolean returns nothing r4xa, O18a, j : integer array; b : boolean; g : integer; output 01 = 9; output 89400 . "" end main : chillax end

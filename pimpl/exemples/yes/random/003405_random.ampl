@@ -1,0 +1,1 @@
+program zI : F : takes d7, HG, L4H, S61, P : integer array; u, X, M8, M : integer; yA2 : integer returns integer chillax end z6 : takes UI, U, F, z : integer; TKt0 : integer array returns boolean chillax end n : takes F : integer; r : integer array returns nothing pop end main : chillax end

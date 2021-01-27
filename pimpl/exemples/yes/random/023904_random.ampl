@@ -1,0 +1,1 @@
+program l82aa : M : takes y5D0a, M : boolean returns nothing chillax end g2 : takes Xc, ll2, S : integer array; S6, rZ : integer array returns integer chillax end main : while D(9, 55) and false * not 8 : chillax end; output(48) > - 5 - 53 . 0; input Y5[- 3 - 4540 - 12600]; while - 4 : chillax end; while 9010 : input k; pop end end

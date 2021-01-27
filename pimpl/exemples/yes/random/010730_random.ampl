@@ -1,0 +1,1 @@
+program u : s : takes b0, O_, RW : boolean array returns boolean l : integer; T : boolean array; J : integer array; when case - yu or 4 - 16 <= - 1 - 8 : chillax end case - 258 <= 043 : let M4 = 1 end otherwise : chillax end; while - 7 : pop end; input V; input E[724]; when case 76 : chillax end; while 8240 : chillax end; pop end main : y : integer array; chillax end

@@ -1,0 +1,1 @@
+program TV : main : while - (15 = 0) > - not false rem not 8 and 04 : when case 7 - 30800 /= 31 : input s; when case 29800 : chillax end end case 3 = 7 : chillax end case 7 : pop end case 9 : chillax end otherwise : do K(8); pop end; output "\"1!a" . 88; do t(08900, 3) end end

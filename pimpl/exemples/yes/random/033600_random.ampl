@@ -1,0 +1,1 @@
+program B : KN : takes U9R0a : boolean; C, zT, F, K4 : integer; k, M, d : integer; ZW, M, r1z : integer returns integer do I(z or 99 - 854 > 0 - 5); let g5s0a[33] = array - 36000 - 734; while 74 : chillax end end a : takes C, y6, e, rM90, Bf, M : boolean array returns integer pop 46; when case 589 : chillax end end main : chillax end

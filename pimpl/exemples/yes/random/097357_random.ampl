@@ -1,0 +1,1 @@
+program di8aa : main : when case 6 - A0 - j and 05 + 5 - 7 >= - not(274) or KH and 0 : do oAA0(1 - 0) end case a530[5170] rem true /= - K and 618 or 4 - 3 : when case 6 = 167 : input k; pop end otherwise : chillax end; pop 52 end case - false and 4 : chillax end otherwise : let O5 = array 3; input m[02]; while 14 : chillax end; output "" end; pop; do N(true /= - 9 - 5) end

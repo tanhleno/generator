@@ -1,0 +1,1 @@
+program u5S0a : d : takes G9 : integer array; J : integer array returns boolean chillax end main : output(3) / (45) + I and 46 or 01 . not 8 and 938 - 18000; let B9[- not false - 034 and 626 or 53 - 57] = array - 4 end

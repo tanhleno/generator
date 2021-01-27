@@ -1,0 +1,1 @@
+program d3x : X960a : takes H, w6 : boolean array; OBW, U, l9 : integer returns nothing chillax end main : let N[- Id * y7(9250) rem(1)] = array b[9] * true + (04); input W[- not true or false and 44 + 7] end

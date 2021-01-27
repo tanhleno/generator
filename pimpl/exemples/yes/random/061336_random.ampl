@@ -1,0 +1,1 @@
+program HDp : _ : takes P5 : integer array returns nothing let H[g and 7 - 91] = array - true end main : vr, NnO : integer array; U65, K5x0 : boolean; Y6, GA9, EB, io : boolean; o, j : integer array; Ky6, K, Lh : boolean array; O9 : boolean; chillax end

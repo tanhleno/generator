@@ -1,0 +1,1 @@
+program nR : nq : takes E, UT9aa : boolean; i : integer array; zP2aa : boolean; bHq0a, L : boolean array returns boolean array Zx, q : integer array; let t[9 and 5 or 304] = array not 53 end main : v, E, V9 : boolean; b, qw, J34, B480, vmk0a : boolean; chillax end

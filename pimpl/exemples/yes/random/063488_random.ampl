@@ -1,0 +1,1 @@
+program h : N : takes OX : integer returns integer P : integer; let N6 = array 67500 or 4 - 9; output 0 . 1 . "" . "r<" end u : takes u : integer returns integer array n : integer; R, a, G : boolean array; chillax end main : pop 27 /= - 6; while - false rem VM7 + y and 23000 : output 2 end end

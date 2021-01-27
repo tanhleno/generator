@@ -1,0 +1,1 @@
+program u : guR : takes S2Va, k, Q4, f44 : integer returns boolean chillax end main : UD70 : boolean array; while - not false <= - 21100 : chillax end; while - 689 rem 1 : do x(21 = 1) end; let i[- false and 6 + 7590] = - 8870; do L(- 7, 8010, 0) end

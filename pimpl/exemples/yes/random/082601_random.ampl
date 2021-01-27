@@ -1,0 +1,1 @@
+program o1 : main : T : boolean array; pop; when case false * _x : do d5(42 = 9); while 65 : pop end; do sUq0(40); output "\t" end case - I and 95 > - 7 - 1 : do tF(8) end otherwise : chillax end end

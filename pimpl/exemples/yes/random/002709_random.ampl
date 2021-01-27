@@ -1,0 +1,1 @@
+program ma3 : G0d : takes H9, szJa, V5, A, kgsa : boolean array returns integer array output 9 - 04 = 8; input Z9 end nU : takes w, V : integer array returns nothing s : integer array; chillax end main : chillax end

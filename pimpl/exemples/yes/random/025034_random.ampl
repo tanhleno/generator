@@ -1,0 +1,1 @@
+program f : m : takes Tq, nS : integer; A_0, wP, c, O : boolean array; sTW, g, M : integer; _ : integer returns boolean array pop 1 - 5 > 5; while - 6 : chillax end; let KkS0 = 5; when case 6 : chillax end case 3 : chillax end end main : l, rz5 : integer; let T = array - not s8 + false / 1; pop; while - (0) and 8 : do a(6); input M7C end; do Zs(- 97 - 4 >= 94600, 5); pop end

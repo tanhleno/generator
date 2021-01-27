@@ -1,0 +1,1 @@
+program l1 : XYf : takes G9 : boolean returns nothing Y, u6, n : integer; E : integer; f, Xq : integer; do Z(- false, 953 < 9, 3 = 7) end main : zk, n, H, C, M, m9Saa : integer array; Ft : integer; S5, HR7 : boolean; e3, P, F, R19a : integer array; ka : boolean; chillax end

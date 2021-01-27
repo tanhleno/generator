@@ -1,0 +1,1 @@
+program c : bxk : takes o : boolean array returns boolean do i(- 00 <= 46200 - 4); let X[9] = 8 = 4 end main : pop - (7) * not 3 - not 27900 and 50 or 35 > 8 and 4 or 6 - 69; do H(Q[4] rem true /= 3, false and 546 + 27300 - 7, - 31 >= 9, 7 = 545) end

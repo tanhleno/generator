@@ -1,0 +1,1 @@
+program N88aa : tQ : takes B8, x520a, e : integer array returns nothing pop - 31 end n : takes I, L : integer array returns nothing pop; while 35 = 7 : chillax end; output 4 . "" end d : takes w : integer returns boolean do X9(8080 = 44100, 6) end main : _ : boolean array; KI, b : integer; chillax end

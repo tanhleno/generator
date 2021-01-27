@@ -1,0 +1,1 @@
+program EOL : d : takes r, Q, o4 : integer returns integer array Ec, L, X : boolean; while not 7 : when case 20 : pop end otherwise : chillax end; do Oh(61) end end Z : takes u, e, y : boolean returns integer ID, V1 : boolean array; Bj : boolean; S : boolean; i0s : boolean; chillax end main : n7, j : integer; while(2) : let d1K = 4 end; pop - not 0 and 8 end

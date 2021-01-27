@@ -1,0 +1,1 @@
+program f : L : takes b : integer array returns nothing chillax end main : T, B1 : integer; when case true : let x = array - 04 - 1640; input B73[758]; do yCX0(2); input Y0g; input f end case - not 61 or not 6 and 815 + 98 : chillax end; input m[- 67 / G and 80700 + not 6 and 2 or 506]; input j end

@@ -1,0 +1,1 @@
+program w : D9_0 : takes Dkt : integer; W, FS : boolean; X470, S32a, a : boolean; FW : boolean; g, b : integer array returns integer array D2, I62 : integer array; Dr7 : boolean array; ve : integer array; D, A78 : boolean; do H7Naa(false and 234 + 8 >= 42) end main : V : boolean; X2, n, o, z75a : boolean; when case(9) / (2) + (776) > true : do o(04 - 211 > 778) end; input Y1 end

@@ -1,0 +1,1 @@
+program t : yZA : takes OJ4, nq7aa, a4 : integer array; p, YR90a, D7 : boolean returns nothing T, m : boolean; Bc, FM, j0, G : boolean; p, H : boolean array; C : boolean; Vr : boolean; y : boolean; do v5(kZ and 06 + 9, 4, 2 = 8, 7, 82) end main : do c(g(8) >= 67 and true and 835 + 1 and 93) end

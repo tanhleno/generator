@@ -1,0 +1,1 @@
+program p : x : takes F_, jQ, J : integer array returns nothing Up, g : boolean; output "\"" end main : input oy[- 34 - false / (4150) and 3]; output "\\j\"a" . - 6 - 7; while - not 16 + 18 - 5 /= - 07 - 6 : while 99 : chillax end; input JD1aa; output "$7aa"; pop end end

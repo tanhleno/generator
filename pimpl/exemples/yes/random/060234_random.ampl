@@ -1,0 +1,1 @@
+program s : K : takes JZ : integer array returns nothing G, S, R0Oaa, pf, i5 : integer; pop; while - 6 : when case 16 : chillax end end; while 373 = 6 : chillax end; let S = 5 end H : takes C4naa : integer; TE6aa, CQ : integer array; A4 : boolean array; TV : integer array returns boolean xFea : integer; j : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program U : yP6aa : takes O : integer; Qn : integer array; G, E1, y, KPEa : boolean returns integer chillax end main : when case - g(47, 1) + r(4) or 0 : do G3(72 - 5 < 6) end otherwise : do d(00); let z[0] = array 2; input Z150a end; pop end

@@ -1,0 +1,1 @@
+program Y : G : takes q : boolean returns nothing wqw : integer array; chillax end U : takes g5, xb3 : integer array; yg, J : boolean array returns boolean chillax end main : uW : integer; X : integer; while - dJ * not true /= - false rem g and 85 : chillax end; while - b[25] and(3090) and 9 : chillax end; let L[- not 3 and 9] = array - 9420 and 15 end

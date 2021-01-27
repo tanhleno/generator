@@ -1,0 +1,1 @@
+program rG : oh8 : takes X4, P, B : boolean array returns boolean array q, e : integer array; P1 : boolean array; chillax end a : takes oC : integer returns nothing chillax end main : pop(1) rem o and 7 - M4V and 334 end

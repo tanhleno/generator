@@ -1,0 +1,1 @@
+program A0 : nS9aa : takes N3d : integer returns integer array m, h, i, O : integer array; L : integer array; X8, y, bk : boolean array; nm : boolean; output ""; pop; let K5L0[125] = 45; pop; output ""; when case 718 : chillax end end main : y : integer array; chillax end

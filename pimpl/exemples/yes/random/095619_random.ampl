@@ -1,0 +1,1 @@
+program r_ : main : when case - (69) or false * 54 or(79) + 8050 /= not(857) rem false : chillax end case - true - 0 - 4 >= - false or 179 : when case 8 = 6 : chillax end case 7 : chillax end case 33500 : chillax end otherwise : pop end; let f[83600] = 539; pop end case 0 or 13 - 3 : chillax end case - 3 <= 71 : do pS(141) end end

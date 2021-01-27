@@ -1,0 +1,1 @@
+program s1t : n : takes B : boolean returns nothing when case(441) and 01 : chillax end otherwise : chillax end end d : takes pg40a : boolean array returns boolean array S, A_1a, A, a76a : integer array; chillax end main : chillax end

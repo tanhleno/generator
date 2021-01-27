@@ -1,0 +1,1 @@
+program u0Raa : j : takes C62 : boolean array; p110, N, R : boolean array returns boolean L, l : boolean array; when case - true + 8 - 2 < 51 : chillax end; output 0 end q : takes O : integer array; z0 : integer returns boolean array chillax end i : takes NSc : boolean returns integer array SW : boolean array; input aQ[4] end main : output "" . "L2"; do Sht0a((9)) end

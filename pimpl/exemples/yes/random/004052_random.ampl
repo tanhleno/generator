@@ -1,0 +1,1 @@
+program xn : H45 : takes v, M5, d0M, R, F : integer returns nothing chillax end _4 : takes U, E : boolean array; b6 : boolean returns nothing G, g, o7 : integer; input HB[36 - 8] end aJ : takes mIk : boolean returns nothing I : boolean; chillax end main : chillax end

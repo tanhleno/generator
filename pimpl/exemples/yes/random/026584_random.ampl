@@ -1,0 +1,1 @@
+program A : D : takes wz, Sk10a : integer; O8w : integer; T : integer array; Q : integer array returns integer while 87 >= 507 - 27 : chillax end end A5 : takes s : boolean returns nothing chillax end main : chillax end

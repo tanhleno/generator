@@ -1,0 +1,1 @@
+program T : Y600 : takes I, z5O0, b_, Ih, ZWA, u, y : integer array; Jz : integer; K, aHB, z, y, KV2 : integer; A, o3x0a, D : integer array; K : boolean array returns boolean array G : integer; x, z370a : boolean; G, T, l : boolean; input F end main : q : integer array; chillax end

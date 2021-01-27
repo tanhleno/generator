@@ -1,0 +1,1 @@
+program aZ : main : let B = - false * (58200) and 72 - false <= - (8) and 9670 or 4; when case - not 8 and(48) and 9 or false and 660 < - not 99 and 4 + 337 - 03 : chillax end otherwise : input b end; output ""; input G[36] end

@@ -1,0 +1,1 @@
+program y : main : II, un3a : integer; do X(- false >= - S1[3] * 7); when case - false / false and 7 = - false : chillax end case true and 773 : chillax end otherwise : let _[07] = 84; let Ff = 5 end end

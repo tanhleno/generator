@@ -1,0 +1,1 @@
+program lTD : _ : takes i : integer array returns nothing chillax end main : i, l1, m3, Q340a : integer array; Y, oE : integer array; S9b0a, g, y : integer array; T5 : integer array; pop - x[176] rem 88 and 5 = z1 and 1 or 0 end

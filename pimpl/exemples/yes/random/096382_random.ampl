@@ -1,0 +1,1 @@
+program w : main : when case - 5 + C(4) / true and 8 : chillax end case - 956 and(0) + cq5 - 6 <= - false and 39500 - 13 - 6 : chillax end; do yhg0(not true / 3 and 31 + (95) + 3 > (72) - 55700 - 51, not 80, - 096, 94, 118) end

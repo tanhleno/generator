@@ -1,0 +1,1 @@
+program S5 : main : D, Z, a : integer array; while - not not(50500) / S[4720] / not 99 + ke_[6] / not 5 and 825 or true and 7 or 7 : chillax end; input Uj8a[true rem PW4 - o3 and 7]; output - 888 = 4; input fUI[07 - 9] end

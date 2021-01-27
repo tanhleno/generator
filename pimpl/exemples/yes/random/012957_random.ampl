@@ -1,0 +1,1 @@
+program v : _ : takes K, i6, EI : integer; e, z8 : integer; d : integer array returns boolean chillax end q : takes g : boolean; vP : boolean array returns integer array chillax end main : let Uv9 = - false rem(1) - true and 06 - 501 >= - false end

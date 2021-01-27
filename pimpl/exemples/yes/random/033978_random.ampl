@@ -1,0 +1,1 @@
+program R : gN : takes c64 : boolean; r96a, i, P : integer; F7x0, K100, m2, xdza : boolean returns nothing es, B : boolean; when case Kh2 and 6 + 6 : chillax end case - 5 : do a(6) end; while 22 - 108 : chillax end end R : takes v, _W, z : boolean array returns integer array chillax end main : chillax end

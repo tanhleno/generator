@@ -1,0 +1,1 @@
+program ZR : m42 : takes V, z90 : integer returns boolean array zB70a, EnC, L : integer array; j, S, h7 : boolean array; when case z and 191 : pop; let DjL0a = 21100; let W = 04; pop end end main : kIB : integer; O, v, s : boolean array; while - g[0] - 2460 = false or 89400 or 7 : chillax end; while - q : chillax end end

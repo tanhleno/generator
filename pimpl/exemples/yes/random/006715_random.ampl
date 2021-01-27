@@ -1,0 +1,1 @@
+program qH90a : K7 : takes j8, L, l, x91 : integer; s : integer array; D3, L : boolean array; yd : boolean array returns nothing chillax end e : takes J2 : integer array; Ux, zIoa, Qv0a, d, b5 : integer; F, a : integer array returns nothing while - 9 <= 9180 : chillax end end main : chillax end

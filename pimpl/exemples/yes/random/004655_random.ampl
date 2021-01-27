@@ -1,0 +1,1 @@
+program c : s : takes n, u, u3_, R : boolean; B3 : integer array; T : integer returns nothing l : boolean array; ny5aa, N, S, W : integer; x, G : integer; chillax end main : let U470 = false and _nH; do yM7(31 + (7) and 0) end

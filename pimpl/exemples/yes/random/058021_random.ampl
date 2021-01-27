@@ -1,0 +1,1 @@
+program T : G30 : takes l : integer array returns boolean array while not 8 and 44 + 74 >= - 9 - 3 : chillax end; output "" . "" . 7 . ""; when case 82 = 9 : chillax end; while 0 : pop end end Te : takes RJpa, _7 : integer array; G3k : integer array; Y6, XL : boolean; Jw, ia3 : integer; e2 : integer array returns boolean array output 6 . ""; let C = array 3 end main : chillax end

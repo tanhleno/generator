@@ -1,0 +1,1 @@
+program zk : A : takes U03, Mj : integer array; x, z : boolean; G, Qz00a : integer array returns boolean array output 5 - 66100 > 2 . "" . 2 . "3ka" . "\"="; while - 8 <= 24 : when case 7 : chillax end end end main : GV, w5, HV6 : boolean array; pop - false rem(9) and 5 - not 7 > - 2 and 3 + 6 end

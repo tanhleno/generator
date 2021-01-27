@@ -1,0 +1,1 @@
+program g : d2o : takes L : integer; A : integer returns boolean array when case 9 and 7990 + 4 - 54 : pop end case - 3 - 24 = 7 : output "w3!a" end otherwise : chillax end end main : do dOi(- 1350); let _5 = - G or 3 - 82 end

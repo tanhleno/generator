@@ -1,0 +1,1 @@
+program MQ8a : A9 : takes Q, B : boolean; s4R, J : integer array; B1H : integer array returns nothing pop 2 - 076 end main : do x5(- 7, 6240 and 048 and 513 >= true, - not 2 and 073 or 4, - 0, 7 = 4) end

@@ -1,0 +1,1 @@
+program Wt : H : takes a, k : integer array; GtA : integer array returns nothing let i0[- false and 57800 or 2 - 69] = array(4) and 2; output 03 = 9 . 8 end main : K, h5 : integer; let y3 = - (308) * (7) and 78 or Y and 0 - 70; do RI2(true * not 3 and 18); do K8(UU and 37500 /= - 8 - 219); output 3910 = 4 end

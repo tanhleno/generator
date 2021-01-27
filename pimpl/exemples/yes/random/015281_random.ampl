@@ -1,0 +1,1 @@
+program S2V : V : takes hM1, T3, ns : integer array returns nothing k, x, F, JsV, V0 : integer; when case - 18 and 6 <= - 21 - 80 : chillax end otherwise : chillax end; output 9 . "" . "H\n0"; when case 92 : chillax end case 3 : pop end case 4 : chillax end otherwise : pop end end main : pn9, c1, p, S : integer array; J, OY2, O8, R, m9H : integer array; chillax end

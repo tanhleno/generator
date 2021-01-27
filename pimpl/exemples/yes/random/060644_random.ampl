@@ -1,0 +1,1 @@
+program b : o : takes P : integer array returns nothing x, k : integer array; chillax end main : R : integer array; j, Y, w : boolean; i25 : boolean; U, B5 : boolean; while 3 * 3 rem 92 and 4 >= false rem(5) + false and 7 - 3 : chillax end; while(2) - (2790) - 29 : input a[5]; input m38a; let _ = 9 end end

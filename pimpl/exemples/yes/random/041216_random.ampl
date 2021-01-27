@@ -1,0 +1,1 @@
+program B : P4 : takes S : boolean array; v : integer returns boolean array O : integer array; output "-"; input r; when case 8890 = 8 : chillax end case 909 : chillax end otherwise : chillax end end main : R2 : boolean array; w, Yi : boolean; N, K : integer array; bj : boolean; chillax end

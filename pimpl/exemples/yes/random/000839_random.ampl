@@ -1,0 +1,1 @@
+program C9Kaa : J : takes TV, R, U, v, t500a, O, t : integer; D40aa : boolean array returns integer DO6, L1ia : boolean; uT20, O : boolean array; J : boolean; k34aa : boolean; do c16a(false > - 68 - 52) end main : chillax end

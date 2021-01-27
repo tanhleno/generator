@@ -1,0 +1,1 @@
+program xz8aa : VRja : takes p : integer array; T, cX : integer; V4, p, j : boolean array; geKa : boolean array; R9 : integer returns nothing do i(true or 302 - 33 < - 08900 - 2); input t; let B3 = 025 end main : chillax end

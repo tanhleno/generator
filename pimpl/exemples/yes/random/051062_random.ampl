@@ -1,0 +1,1 @@
+program _ : H : takes d : integer; y3, w : integer array returns boolean array k, FE, F, M94 : boolean array; k, fH30, W : integer array; D1, i : integer; p : boolean; let j[not 1 or 7 - 42] = array - not 0 and 01 end main : b : integer; _, T, R1, g : boolean; pop - p(3) <= (0) and 191; output(4) - 24 > - 53 end

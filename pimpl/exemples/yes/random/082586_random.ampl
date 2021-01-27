@@ -1,0 +1,1 @@
+program I : main : Y : boolean array; pop; pop - true or 0 = - 43100 - 22; when case - true - 6 /= 9 : let q[1] = 50 end case - 045 - 9 : chillax end case 622 = 2 : chillax end otherwise : chillax end; let N = array 46 - 13 end

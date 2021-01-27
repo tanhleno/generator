@@ -1,0 +1,1 @@
+program o : l : takes ZX, d5ka : boolean returns boolean chillax end UUza : takes G72 : boolean; X44, as20, c, X : boolean array returns boolean chillax end main : w2, B : integer array; input zN[- true or 47 rem false and 2 - j + 05500 - 317]; do J4((4) / c) end

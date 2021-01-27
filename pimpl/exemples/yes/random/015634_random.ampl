@@ -1,0 +1,1 @@
+program rU : g9l0a : takes Z7, I, tS : integer array returns nothing while true /= 3 : do q(32); when case 5 : chillax end; when case 8 : chillax end; pop end; pop; output "1~!a" . 619 . "" end main : chillax end

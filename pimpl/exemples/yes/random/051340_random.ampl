@@ -1,0 +1,1 @@
+program pUj : j : takes X : integer; z : boolean; E, r, IU, D6 : integer array; K, u8 : boolean array; g04 : integer returns nothing S, F, w : integer array; chillax end main : B : boolean; chillax end

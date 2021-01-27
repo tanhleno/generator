@@ -1,0 +1,1 @@
+program cL : _Vc : takes qB : boolean array; B, C43, N : integer returns boolean array chillax end main : Du : integer; jRs0a, w7 : boolean array; input T95[(7) - not(35)]; input O1Aa[(36800) / (3) and 67 + true and 2 + 9] end

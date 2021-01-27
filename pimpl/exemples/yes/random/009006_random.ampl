@@ -1,0 +1,1 @@
+program h : o : takes S0, g6, vMj : boolean; Q : boolean; WBy : integer array; d : boolean array returns boolean P, w840a : integer array; x, Xd, UA3a : boolean; sr, U45 : integer; output 93 - 147; pop end main : H6 : boolean; L, lUD : boolean; p, h : integer; let O4 = false - false > c and 0 + 42 end

@@ -1,0 +1,1 @@
+program JZ : X25 : takes b0l0 : boolean returns integer array when case(88) + 0 - 49 /= - 7 : do e66aa(7050, 4); input GT2 end; input pn end s : takes g : boolean array; p15a, Y, v, e : boolean; E5c, u : boolean returns nothing G, s : integer; input L380a; pop 2 end main : m : integer; chillax end

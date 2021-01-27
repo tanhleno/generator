@@ -1,0 +1,1 @@
+program o68 : main : O : integer array; o, ZA1 : boolean; when case X2Eaa >= false rem false or true : chillax end case 0 or xx and 78 - 891 - 6 < true and 5 - 3 - 0 : do d(76, 4); let P = array 1 end otherwise : output "\t"; output 034 . "" end; input V560a[true - false]; while false + 3 - 88 <= 1 : while 4 : pop end; when case 86 : chillax end end; input _Z; pop end

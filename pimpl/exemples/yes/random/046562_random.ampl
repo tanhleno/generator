@@ -1,0 +1,1 @@
+program F2 : m : takes bY : boolean returns integer array n, F, UW : integer; y : boolean; pop - 55; pop 06 = 2; do d(46 = 47, 9, 87) end a : takes D : integer array returns boolean chillax end main : input f[- 39 rem true] end

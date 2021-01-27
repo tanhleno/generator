@@ -1,0 +1,1 @@
+program k : main : E3, A4 : integer; eT40a : boolean array; l1, FZ5a, uia : boolean array; while - 3 - not d310 : while 5 - 41 : chillax end; output ""; input aTX end; pop true + 6 - 1 = - 54 - 70700; input y end

@@ -1,0 +1,1 @@
+program e : k : takes d1 : integer returns nothing qi, EK9, ehra : boolean array; chillax end U8 : takes j, u : boolean; n3q : integer array; q, G : boolean; oZJa, u3 : boolean returns nothing p : boolean array; pop end main : input q end

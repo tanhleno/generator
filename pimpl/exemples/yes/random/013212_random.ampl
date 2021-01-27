@@ -1,0 +1,1 @@
+program U7 : Pe : takes u, b, q : integer; Zp : boolean array returns boolean array X, O : integer array; Z : integer; chillax end main : _6h, W9, I_00a : boolean; k, sFr : integer array; chillax end

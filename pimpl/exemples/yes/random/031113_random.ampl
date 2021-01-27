@@ -1,0 +1,1 @@
+program H : dV70a : takes B6, c8f0a : integer array returns nothing when case not 1 and 1 + 749 - 2 <= 57 - 6 : pop; when case 995 : chillax end end case 6 : chillax end otherwise : chillax end end main : h, AV4 : integer array; chillax end

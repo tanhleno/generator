@@ -1,0 +1,1 @@
+program G : main : q, u : integer; r, O, cuu0a : integer array; me, F0F : integer; k : boolean; AW : boolean array; r : boolean; r : boolean; let s[(6 = 4) rem Y * false] = - (1) * (67) or(40) and 9300 + 6 - 2 <= - (1) or 0 end

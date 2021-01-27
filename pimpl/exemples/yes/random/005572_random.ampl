@@ -1,0 +1,1 @@
+program G : o : takes A, J, w, m : boolean array returns nothing chillax end main : let V = - aH7a(3) rem true and 645; while true and(1) or p <= - false and 1 : when case 91 : chillax end; while 83 : chillax end end end

@@ -1,0 +1,1 @@
+program W : fz : takes K : boolean array; Y, I1 : integer returns integer L6, t : integer; X, j7H0 : integer; T : integer array; S9, S : boolean; chillax end main : k, R, Tp : boolean array; u, ZcF : integer; while(5 = 16700) and false * 9 and 9 <= - false rem t and 0 : chillax end end

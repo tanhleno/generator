@@ -1,0 +1,1 @@
+program l : yj : takes M0, I : integer array returns nothing kU, XS9, Z : integer; gp : boolean array; input n; let b = array 03 - 4520; do H_h(9 = 7, 3, 55) end main : input R9[- IK20a(96)]; let r[79] = Zm and 32300 - 640; while true : chillax end end

@@ -1,0 +1,1 @@
+program Nt : main : when case - K rem _(5) and H6 and 6 : output 14 = 431 . 9 end case not not 02 rem not 6 and 4 : when case 90 = 5 : when case 6 : chillax end end end case false + 348 - 93 <= 140 - 44 : chillax end case 5 - 57 >= 1 : chillax end case 57000 = 4 : do Z(7); pop end otherwise : chillax end; output true; pop; do C_(08 - 65 > 198, 3150) end

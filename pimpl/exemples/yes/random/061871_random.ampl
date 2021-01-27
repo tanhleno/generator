@@ -1,0 +1,1 @@
+program s44 : u : takes t : integer returns boolean array W, t78 : boolean array; j, U, ZH4a : boolean; J2L0 : integer; pop end main : do qt(- (6850 = 6), - false - hT, false or 133 < - 17300 - 6) end

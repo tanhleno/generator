@@ -1,0 +1,1 @@
+program G : si90 : takes H, Rj : boolean returns integer array do A(true); when case - 12 : chillax end case 3 : do g91(1); pop end case 5 : pop end otherwise : pop end end d : takes d : integer returns nothing chillax end main : q, N : integer array; chillax end

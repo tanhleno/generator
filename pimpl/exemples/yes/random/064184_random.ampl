@@ -1,0 +1,1 @@
+program e : vl : takes R : integer returns nothing iJG0, VH, wE20a, X5C0a, c : integer; chillax end main : do n48((4) and 5940 rem 5 and 7 + T[09] / (8) or true and 488, true - false or 7 - 2 < - (8) + 008 - 4140); pop P and 2 > 9 end

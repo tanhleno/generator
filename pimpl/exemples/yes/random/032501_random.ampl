@@ -1,0 +1,1 @@
+program V : z6aa : takes MH9, L : integer returns nothing A2, SImaa, n7, mf0aa : boolean array; M08aa : boolean; chillax end G86 : takes jQ, U : integer returns boolean array while - 410 - 7 : chillax end end main : output V * not 2 and 5970 + (7) and 4 /= B8; when case - false : chillax end otherwise : while 974 : pop end end end

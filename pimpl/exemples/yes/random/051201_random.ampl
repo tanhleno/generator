@@ -1,0 +1,1 @@
+program jk : n : takes H : integer; jf, O : integer returns boolean when case(0440) + 99 : while 0 : pop end end otherwise : when case 5 : chillax end; while 6370 : chillax end end end main : input X0; do Lp(- (0) rem 3 + false = 9 - 2 - 44900, - true and 8680 or 43 = 44); pop 126 < 1 end

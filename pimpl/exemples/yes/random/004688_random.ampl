@@ -1,0 +1,1 @@
+program s : vS0a : takes v, aC, s9, D6 : boolean; b0 : integer returns boolean j, H1, w, Gw : boolean array; Wl, Gm : boolean; u510, ND, pm : boolean array; chillax end main : Jez : boolean array; when case - not true rem(003) - s02aa(0430) : chillax end end

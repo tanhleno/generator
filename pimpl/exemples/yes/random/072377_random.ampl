@@ -1,0 +1,1 @@
+program x : main : u, g2a0, OHDa : integer; P : integer array; while - J[75] - xK(7) - not 7 and 7 + 2 = not(00) * EW and 0 : chillax end; when case - true < - (52) - 8 : do f(1, 325, 36); do dD(543) end case - t - 4 - 65 : chillax end case - 5 : do o(15) end case 4 = 65 : let m = 11 end case 16 : chillax end case 0 : chillax end end

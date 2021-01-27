@@ -1,0 +1,1 @@
+program Q : main : X, vc, Fh0, g : integer array; do e2G(- 3960 + f / false and 6 > 55 and S); when case K(27) and oq1a and 9 or true - 7 : chillax end otherwise : chillax end; while - true and 9 + 1040 = 10 : do J(4, 19); while 02 : chillax end end; do v(8, 73, 7) end

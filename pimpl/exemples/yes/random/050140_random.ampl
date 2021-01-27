@@ -1,0 +1,1 @@
+program mQ : o5 : takes XG : integer; C, e, wl : integer array; m5K0a : integer returns boolean array H1 : integer; chillax end c : takes pSU, M960a : boolean; L2C, Y1, I7, Ne : boolean array; t, g : boolean array returns boolean p52 : boolean array; chillax end main : S, N : integer; L, r0K0 : integer array; chillax end

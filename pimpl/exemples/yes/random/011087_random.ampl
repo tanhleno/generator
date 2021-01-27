@@ -1,0 +1,1 @@
+program E : Ms7aa : takes qwq, Q, R : boolean array returns nothing chillax end main : do l(- s and 80600 - true / true + TaBa - 2); let L = array - true; pop 6; when case - 6820 - 164 : chillax end end

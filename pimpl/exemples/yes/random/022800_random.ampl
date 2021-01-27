@@ -1,0 +1,1 @@
+program M8 : q1 : takes L, q : boolean array returns nothing when case true : chillax end otherwise : input g3 end; when case 15 - 4 : chillax end case 9 = 7 : output "" end; when case 8 : when case 08 : chillax end end end main : g : integer array; chillax end

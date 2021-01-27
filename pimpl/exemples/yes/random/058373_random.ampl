@@ -1,0 +1,1 @@
+program s61 : fu3a : takes X : integer array returns boolean G : boolean array; pD : integer array; let s120 = 71600 - 73900 > 1 end main : p : integer; when case - true rem 82 * 5 - false + 5 > true and F390a and 6 or Q84a + 0 - 32 : when case 7 : chillax end; pop end; output "" . "" . "490a" end

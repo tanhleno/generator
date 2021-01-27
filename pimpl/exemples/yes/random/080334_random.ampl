@@ -1,0 +1,1 @@
+program J : main : Z : boolean; when case - (120) - true rem H and 65 - not 33400 and 0 : pop end; do ll(- false - false and 81100 or 175, - gr - 111); do Xc(- true and 3); input Y7; output ""; do Ym(72, 22); do o(17) end

@@ -1,0 +1,1 @@
+program q : n : takes r, woe, l : boolean; l, B5 : integer array; d1, j0 : boolean returns boolean array D : integer; j5, F : integer; vw00a, F5vaa, ws : boolean; let yh = - 18300 = 8 end main : MT4 : boolean; cK, eB : integer; chillax end

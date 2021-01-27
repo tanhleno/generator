@@ -1,0 +1,1 @@
+program x : X : takes z, iB1, W4 : integer returns nothing s, O3l : integer; chillax end main : X : boolean array; while Z[9] or true rem not 2 and 6 - false and 17 or 861 : chillax end; input WQj; do gy5a(true, - 97 - 0) end

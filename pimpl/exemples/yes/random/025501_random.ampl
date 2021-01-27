@@ -1,0 +1,1 @@
+program u : Y5 : takes v, K : integer; W, g8 : boolean array; a, W : integer array; x, Y : boolean array returns nothing let lu = - 709 - 4 < 0800; output "" . "" end main : XhX0a, Zj3 : integer; q : boolean array; eW, k26 : integer; U, KD, U2P : integer array; DN : boolean; I, q : boolean; c : boolean; q : boolean; chillax end

@@ -1,0 +1,1 @@
+program dnha : d : takes a, c, D, A0 : integer returns boolean array chillax end J320 : takes Ov2aa, D, f, R : boolean; f, zm5aa : boolean array; g : boolean returns nothing chillax end main : while false * true + true rem true : chillax end end

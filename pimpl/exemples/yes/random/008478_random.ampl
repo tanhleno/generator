@@ -1,0 +1,1 @@
+program j : q : takes u, sc, Y : boolean; nGz0, Oy, a6l, R, F4 : integer array returns nothing when case f and 22000 : chillax end case 51 - 0 = 3750 : chillax end end main : input cx[false + (817) + 38]; let rz[- true and S and 184 - ch4 and 22 - 78] = array - not not 64 / 75 end

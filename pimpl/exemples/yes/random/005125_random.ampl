@@ -1,0 +1,1 @@
+program r9 : b : takes m880a, W, G, I : boolean array; s3 : integer; Bv, f, h04, Xf, hZ : boolean; R : integer array; J, E56, Oy : integer array returns nothing let q7_a[not 59] = 17 = 3; input P; do Plcaa(131 = 114, 797, 8) end A : takes A9, d, Md, b, I, p9 : integer returns nothing w : boolean; chillax end main : chillax end

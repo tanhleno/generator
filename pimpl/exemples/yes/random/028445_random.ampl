@@ -1,0 +1,1 @@
+program U83 : A : takes WbW, Y : integer array; usB : boolean array returns nothing _, Rb, l4t0a, K2g, j5 : boolean array; when case not 3 and 7 + 4 - 5 = - 08 : chillax end otherwise : pop; output ""; pop end end main : L : integer array; let AO = array - not E_6[6] + false / false and 69 - (2) and 6; do W(- (50) and not 27 and 22) end

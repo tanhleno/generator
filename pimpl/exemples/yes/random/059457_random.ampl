@@ -1,0 +1,1 @@
+program Q : qt4aa : takes xr : integer array returns integer p : integer; let m[(42300) and 8] = array true and 048 end main : input ju9a; while true : chillax end; output - 3 - 2240 > 6; input V[5 - 5]; while 5 = 60 : pop; pop end end

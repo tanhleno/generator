@@ -1,0 +1,1 @@
+program M : n : takes N : integer array; w, k, K : integer array; A1G : boolean array returns nothing p, a : boolean array; output "9"; while 15400 : chillax end end main : while - not E / false * 0 - (6) rem Z67 : pop 03600; do y(52 = 4, 6); let v0[44] = array 84900 end; input X9; pop - 041; input p1[- 9] end

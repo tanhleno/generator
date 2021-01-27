@@ -1,0 +1,1 @@
+program sj : I : takes F8 : boolean returns nothing q : integer array; output "4r0" . "2\"" . 0 end o2E : takes s : boolean returns nothing chillax end main : p0, uW2, C, imK0, m4D : integer array; input Z; let N = M and 44 or 7 end

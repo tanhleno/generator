@@ -1,0 +1,1 @@
+program r : X9 : takes S, g : integer array; V72, d3, GJ0 : boolean; vG : integer array returns nothing KN, AF, x74, m : integer array; sD, N, _, p1l : boolean array; chillax end main : do Qx(86 rem true / (249) - (1) * true and 41100 - 2 and 4 < - true * true, true and(87) + R and 85 or 569 < - (07200) and 734, false, - 26 - 9, 95); output 086 - 9 - 4 /= 7 . "" end

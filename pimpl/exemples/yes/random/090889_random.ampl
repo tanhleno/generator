@@ -1,0 +1,1 @@
+program _ : main : let K[- V3K[2] * (36) * true and 14] = - true / (2) and 40; do uY(true * (8900) or u3 and 23 or 5 - 1); let J = 19 - 62; do qc6a(4 <= 9, 76); output 71 . ""; do h760(41, 370); output "" end

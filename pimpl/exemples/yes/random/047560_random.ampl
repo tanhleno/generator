@@ -1,0 +1,1 @@
+program sE : q6V : takes u : boolean returns nothing chillax end Sx : takes gclaa : integer; AiQ, l8 : boolean; y, v, mDXaa : integer array; xc : integer array; C : boolean array; u9A : boolean; G : boolean returns integer output 3110 = 802; when case 4 : while 4 : chillax end; pop end case 44 : chillax end end main : pop - false or not 0 and 88 or 6 end

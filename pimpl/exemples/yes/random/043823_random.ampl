@@ -1,0 +1,1 @@
+program h : eD9 : takes H : boolean array returns nothing chillax end main : while(9 = 51) / (050) : chillax end; when case not not 37 and A and 25700 + (66) and 2 : output ""; do Y(00, 7) end otherwise : chillax end end

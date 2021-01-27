@@ -1,0 +1,1 @@
+program Q9 : F : takes V4, z3i, Bd40 : boolean array returns boolean array k, MIX, j, E, v : integer array; pop - 1 - 37500 /= 0 end main : do K(true, - 86 and b + true and 5340, - q + 92 > 5, 2); while(601) * false and 7 >= - 6 - 29 - 43 : chillax end; while true and 6 : chillax end; output 4 = 72100 . "" end

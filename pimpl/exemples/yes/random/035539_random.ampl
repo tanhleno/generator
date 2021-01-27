@@ -1,0 +1,1 @@
+program L : D : takes r250a : boolean; z7 : boolean; D7 : integer array; Q : integer array returns integer array u160a : boolean; input D[- false or 51 - 31600] end main : Sj3 : boolean; U : integer; IR : integer array; Z5y0a : boolean; I : boolean; pU : boolean; when case - 587 : while 9 : pop; input FQ; pop end; output 535; do pI0a(0) end otherwise : output "{" end end

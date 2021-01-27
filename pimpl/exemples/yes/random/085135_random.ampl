@@ -1,0 +1,1 @@
+program R : main : j9 : integer; when case - false and true + not true * not 0 and 7 or false >= - E and true and 58 - true and 0 : chillax end case true : let S[028] = 06 end otherwise : chillax end end

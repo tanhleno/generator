@@ -1,0 +1,1 @@
+program X : N : takes s : integer array; k : boolean; he : integer array returns integer Xv4, S1 : boolean; chillax end x : takes O : integer array returns nothing input EfD0a[86 - 089]; while 20 = 09 : chillax end end main : K : integer array; e3 : boolean; chillax end

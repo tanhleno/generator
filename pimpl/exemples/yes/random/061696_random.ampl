@@ -1,0 +1,1 @@
+program b8 : G : takes c : integer returns boolean array chillax end qM3aa : takes T, YH : boolean array returns integer array W8, q, K : boolean; input bP[60700] end CO8 : takes gR : boolean; W : boolean returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e : vKG : takes C : boolean array; cF : boolean returns nothing O : boolean; chillax end w : takes D0 : boolean; w, g, q0, jf : boolean array; QMV : integer; v, y0X0a : boolean array; c4, NY6, D6 : boolean; Q8, M : boolean returns integer K : boolean; chillax end main : chillax end

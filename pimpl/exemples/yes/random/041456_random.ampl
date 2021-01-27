@@ -1,0 +1,1 @@
+program O2 : hl : takes C88aa : boolean array returns boolean array chillax end Fl : takes C, J7 : boolean array returns nothing Pe6, m, lN2, R : boolean array; B45a : boolean; chillax end X6 : takes DL, z : integer array returns boolean array d : integer array; D6 : boolean; m4 : boolean; uE : boolean; chillax end main : E : boolean; do ea(true, false + 27) end

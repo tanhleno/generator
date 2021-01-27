@@ -1,0 +1,1 @@
+program a07 : L : takes m7Faa : boolean array returns integer array p, ZtWa : boolean array; let wH40a[- not 5 and 663 + 6] = array O end main : when case ue / jo[38] * 39 : chillax end case(3070) rem H : while 97 = 2 : chillax end end otherwise : pop 60; when case 231 : pop end; do Z(6); while 25 : chillax end; pop end end

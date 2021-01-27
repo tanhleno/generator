@@ -1,0 +1,1 @@
+program Q : rt : takes nF : integer array; rJTaa, z820a : boolean; YT, x1 : boolean; jM8 : integer array; N : integer array returns nothing chillax end ME : takes jEU : boolean returns nothing Gs, L : boolean array; while - 5 >= 3 : chillax end; when case 3 = 14 : do O(829); pop end; while 2 : chillax end end main : N, p : boolean; z : integer array; chillax end

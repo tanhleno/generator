@@ -1,0 +1,1 @@
+program j : v : takes A93, sN, qQ : boolean array returns boolean z : integer array; while(47700) and 5 < - 5 - 85 : do Z(61, 37); when case 8 : chillax end end; do I3(- 1800 - 042 < 77, 7 = 50, 7540) end main : chillax end

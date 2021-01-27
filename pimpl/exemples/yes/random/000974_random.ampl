@@ -1,0 +1,1 @@
+program rCd0 : R5 : takes s5, BZ, fCX, m330a, N, h, q : integer array returns nothing Kf, fz2aa : boolean; chillax end Eh : takes j, K : integer returns integer chillax end main : do z(- not(5) + v(446) * false); let K3[(1)] = array false rem(549) and 175 - false - 6; input hqH[O84 and 97] end

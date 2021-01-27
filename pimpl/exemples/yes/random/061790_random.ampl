@@ -1,0 +1,1 @@
+program ef5 : F : takes v29 : integer returns boolean array do j(- (0) and 54 /= - 81 - 2, - 4 - 01, 0, 9, 5); do U4Z0(- 3310 - 7, 3, 17, 888); let c3[247] = array 88 end main : RL9, P80aa : boolean; q5a : integer array; g, b : boolean array; while false : let a8[- 1] = 426 = 9 end; pop(720) - 591 < - 74 - 4 end

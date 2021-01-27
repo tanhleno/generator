@@ -1,0 +1,1 @@
+program d9 : r : takes v : integer; ewp : integer returns nothing while - false /= 6 : chillax end; while - 71 - 9 : when case 3 : chillax end; input J2T; pop end; while 04 : chillax end end main : w : boolean array; input c; let R[- 81 rem W - false + 5] = array A(5) and 6 and 527 + 65 and 365 end

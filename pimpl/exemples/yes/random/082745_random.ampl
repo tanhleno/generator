@@ -1,0 +1,1 @@
+program O4 : main : Y : boolean array; when case not false : chillax end case - mu5aa(2) / (240) = c or 724 : while 5 : chillax end end case not 5 and 6 - 018 - 7 /= 02 : while 2 : chillax end; while 48500 : chillax end; output "N<"; pop end otherwise : let d[27] = 5 end; output - false or 2 - 0550; input _[03 and 9]; output "5"; do HM(3) end

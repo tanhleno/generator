@@ -1,0 +1,1 @@
+program h : VW3aa : takes x2 : integer array; u : integer array returns boolean array x : boolean array; U, t51, g6 : boolean array; D : integer array; output - 5 . "\"\n!" . 70 . 21200 . "" end main : while - (2 = 5) / A600[46] * 5 and 56 - not M * not 2 and 52 : chillax end; do H(- 76 * 5530 and 7 < - true and 3 or 0); pop - 9 - 46700 /= 7 end

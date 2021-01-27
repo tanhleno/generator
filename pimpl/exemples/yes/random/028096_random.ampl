@@ -1,0 +1,1 @@
+program OX : V : takes b, u : integer array; m, t : integer returns nothing L8 : integer; chillax end N : takes S, Zm : boolean; K, D : integer returns nothing when case 0 - 65 <= 1 : when case 2 : chillax end end; pop 7 end main : chillax end

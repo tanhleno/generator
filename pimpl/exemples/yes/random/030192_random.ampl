@@ -1,0 +1,1 @@
+program R : mG : takes A, o : integer array returns nothing chillax end A : takes d9ta, r, W9N, u : integer; Dl : boolean returns nothing output ".^\"a" . "" . "1" end e : takes bMaa : boolean array returns integer chillax end main : C, X, oE2 : integer array; v, X : boolean; ywx : boolean array; chillax end

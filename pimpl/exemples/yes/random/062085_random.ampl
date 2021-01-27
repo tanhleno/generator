@@ -1,0 +1,1 @@
+program s : g90a : takes m0W : integer returns boolean array let s4[- 8270 + 62] = 3 - 8 < 2 end j : takes ih, f, z, bL1 : integer array returns integer y : integer array; do B(6 - 6 > 292); pop 866 end main : F : boolean; pop end

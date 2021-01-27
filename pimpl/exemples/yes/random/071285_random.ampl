@@ -1,0 +1,1 @@
+program ex : main : aj, X3, Kw : boolean; when case 962 * s / false : let QLXaa[- 4] = 73 = 7; while 7480 = 0 : pop end; do N2(9, 5) end case true - not 1 < true and 5 : chillax end case - 8 >= - 011 : chillax end otherwise : chillax end; let C = Or + 0; let QKy = array - z and 17500 end

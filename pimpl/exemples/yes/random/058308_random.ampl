@@ -1,0 +1,1 @@
+program i : Q6F : takes T : integer array returns boolean F10 : boolean; chillax end main : s : integer array; do q((4890) / not(9) / not 46800 and 3480 + 90 or not 2 and 44 <= - not true + i); do S(- not false, 3 and 89300 + 57, - 571) end

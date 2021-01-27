@@ -1,0 +1,1 @@
+program gfz0 : main : Z1, j50aa : integer; while - false >= AB / not 7 and 1 or 437 and 0 : chillax end; do s(true * not 7 - (3) and 3 or 8 >= true and 8 + 69800, not 9 and 32 > 0, - 0 - 4); while O and 48 - 0 - 2100 < - 8 : let h[83000] = array 2 end end

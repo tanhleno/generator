@@ -1,0 +1,1 @@
+program IO : D1 : takes Jo, K_90a : boolean; d : integer array returns integer Dn, N, M, e : boolean array; while 0 or 3 /= - 07000 - 16 : when case 40 : pop end end; let H = 3 = 9 end N09aa : takes KZ4, i : integer; w : boolean array returns boolean array P07, v1, e60 : integer array; S : integer; d : boolean; q83 : boolean; chillax end main : M, Q : integer array; chillax end

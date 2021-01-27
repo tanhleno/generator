@@ -1,0 +1,1 @@
+program uF40 : i : takes Kq : boolean array returns nothing OG, D, g, o7 : integer; chillax end R : takes J8n : integer; B, K, NQ : integer array returns boolean array chillax end main : Nc7aa, m1u, L : integer array; VU : boolean; k1L : integer array; pj, m, p : integer; chillax end

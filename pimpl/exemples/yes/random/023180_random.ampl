@@ -1,0 +1,1 @@
+program cU2 : f : takes u, I : boolean returns boolean k82, gan, g, Y04 : boolean array; chillax end iW : takes C9 : boolean returns boolean array do yo(3); output 7040 . 49 end R7s : takes S9 : integer array returns nothing chillax end main : fo, c, o, vd : integer; chillax end

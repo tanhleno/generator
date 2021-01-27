@@ -1,0 +1,1 @@
+program Z : A : takes _8 : boolean; K54aa : boolean returns boolean array j : integer; m3, N3 : integer; qE : boolean; xu, g : boolean; X : boolean; m : boolean; output - 1890 - 0 >= 8 end main : W, cno : integer; do f9(true) end

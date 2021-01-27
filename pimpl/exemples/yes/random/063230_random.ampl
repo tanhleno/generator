@@ -1,0 +1,1 @@
+program K : q : takes LW : integer returns integer chillax end F : takes A : integer array; o, AF : integer array returns nothing input F020[9] end pfN : takes vJF : integer array returns integer array while 20600 = 6560 : input t4Q; pop end end main : pop end

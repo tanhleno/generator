@@ -1,0 +1,1 @@
+program V1 : qb2 : takes k9_ : integer; h9c : integer array; Ggl : integer returns integer l, t, j : integer; c : boolean array; G03 : boolean; O : boolean; chillax end main : T : integer array; B, d, b6 : boolean; input r[(7250 = 3) and not false * false or true]; do q(true or true and 8 >= - (2) and 05 or 2) end

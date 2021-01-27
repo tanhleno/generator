@@ -1,0 +1,1 @@
+program G : jG : takes x : boolean array returns nothing chillax end b : takes e, R, F, V7, uJ : integer returns boolean array Va, R, a1K0a : integer; chillax end main : d : boolean; pop - false / q0Baa and 3 /= - false and 2 + 33; let f3[- B rem true and 777] = - a31aa and 2 - 2 - 4 < - 6 - 1; let s[not 0 and 9 or 89 - 8] = 41 - 4720 /= 77; while - 30 - 479 : pop end end

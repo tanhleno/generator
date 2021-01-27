@@ -1,0 +1,1 @@
+program _V : f : takes s, ZV, x8W, i : boolean array returns boolean array when case(8) : chillax end case 7 - 97 < 94 : input M6; while 4 : chillax end; pop end case 2 = 72 : chillax end; output 9 end main : chillax end

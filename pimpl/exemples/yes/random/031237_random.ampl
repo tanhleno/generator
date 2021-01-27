@@ -1,0 +1,1 @@
+program C5V : Y : takes Zn2, G : integer returns boolean array t, x3I, d, N, J64 : boolean array; input o[false and 9] end AM10a : takes R, wL : integer; R5, M : boolean array; Kg, K, p, CN, N2t : boolean array returns boolean F, O : integer array; chillax end main : when case not r(4) or 700 rem(4) and 2 + false /= true * (16) and 8 : chillax end end

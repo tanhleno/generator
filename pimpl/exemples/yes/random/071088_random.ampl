@@ -1,0 +1,1 @@
+program b : main : Z, h, _8K0 : boolean; h : integer; while - not(2) and false - true / L9Caa and 3940 = - not true + true : chillax end; when case - true = Y6 and 7 : chillax end; input G; output 79500 . ""; output "8" . 0; do a(09, 37); do m(1) end

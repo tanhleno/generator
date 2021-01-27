@@ -1,0 +1,1 @@
+program F : Jn8 : takes U, I, FG : boolean array returns nothing U5 : boolean; US, q, r, U : integer; F7 : integer array; while - 7 and 310 > - 53 : chillax end; while 7 : do a9(2); pop; pop end end main : chillax end

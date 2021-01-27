@@ -1,0 +1,1 @@
+program Gdn : R9 : takes S47, Yv : integer array returns integer chillax end pLB : takes P : boolean; Yx, l : integer returns nothing b92 : integer; N7 : boolean array; while 7 = 8 : when case 6 : chillax end; pop end end main : tD : integer; input n9N[(233)]; output "\n" . "" . "" . 98 . "" end

@@ -1,0 +1,1 @@
+program R : main : output ""; do u(- aw[8910] * not 37200 and 58 >= (4) - 9470, - false and 83 - 63 - 850 >= - 582 - 9, - 1 >= 26, 7, 8750); when case - 62 + 892 : let R = 9 end otherwise : do A72(8) end end

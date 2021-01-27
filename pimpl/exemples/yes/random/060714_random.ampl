@@ -1,0 +1,1 @@
+program Z : CF3 : takes f : integer array returns nothing pA : boolean; chillax end main : w70, z, f1 : boolean; uts, i19aa : boolean; while(1410) rem not not 4 * (7) + not(764) * false and 5 - false and 970 >= not WD + not 9 - 08200 - 6 : chillax end; input E9W end

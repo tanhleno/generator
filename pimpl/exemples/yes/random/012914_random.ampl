@@ -1,0 +1,1 @@
+program x0F : Mr : takes B4H0, B, i2 : integer; qQ, Ux : boolean returns nothing chillax end jt : takes k, q3 : integer array returns integer array input H1[- 29400 - 49] end D : takes z4z0a, Y : boolean returns boolean chillax end main : dQ6, l, l54, JD : boolean; output - not(23) . - not 0520 and 0 or 6 - 97 /= 8 end

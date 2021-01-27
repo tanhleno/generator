@@ -1,0 +1,1 @@
+program z : o : takes X91aa, GY, Yg, R : integer returns nothing F, Usmaa, b, W : integer array; let k3[- 7] = - 2; input O81[- 2] end u : takes VNR : boolean array returns nothing Gjdaa : integer array; while - 4 - 7 >= 66700 : pop end end main : chillax end

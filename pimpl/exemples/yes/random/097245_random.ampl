@@ -1,0 +1,1 @@
+program lve : main : when case not 13 >= - (852) + false or 24400 - 09000 : chillax end; pop; let t65aa[- a09 or 73] = - 63700 - 3; while - 18700 : when case 51 : chillax end end; let k = array 7; input X2[52]; output "" end

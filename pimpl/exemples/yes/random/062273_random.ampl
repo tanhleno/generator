@@ -1,0 +1,1 @@
+program S : k : takes h : integer returns boolean chillax end main : _L : boolean array; input H[not false and(195)]; pop false and 973; pop 1 - 0340 /= 7200; output "T"; do P(971 = 30, 14, 2850); input Y5; when case 0330 : chillax end; when case 4 : chillax end; pop end

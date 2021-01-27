@@ -1,0 +1,1 @@
+program n54 : i : takes F__aa, nnXa : boolean array returns boolean array Rw, f9 : boolean array; while - S and 6 : pop 452 end end i : takes X, UH9aa, S : integer array; Vxl : integer; l290, t19a : integer array; t0 : boolean returns nothing x2 : boolean; pop end main : J0Ma, fU, xt3, I : boolean; vh9, n, a3, F : integer array; X : boolean; chillax end

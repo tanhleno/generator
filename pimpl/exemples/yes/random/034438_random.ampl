@@ -1,0 +1,1 @@
+program Y : A : takes Q : boolean; B, R0 : boolean array; C : boolean array returns boolean array chillax end ySXa : takes t36aa : boolean; _V2aa, t, G : boolean array returns nothing pop 95 = 032 end n : takes j3 : boolean array returns nothing let L[76700] = array 8 end jk : takes z, s, j9, h : boolean array returns nothing chillax end main : chillax end

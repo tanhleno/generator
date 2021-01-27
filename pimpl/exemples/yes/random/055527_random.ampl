@@ -1,0 +1,1 @@
+program F : Myva : takes l8Faa : integer array; w : boolean; e1Z, W : boolean array; E, _C6, a : boolean array; p, pT10a, N, w74 : boolean; p380 : boolean array returns nothing k : integer; chillax end Y : takes H6E : integer array; p1 : integer returns nothing while 6010 - 421 : chillax end; output 4 . 4 . "" end main : rR, R040, q, U : boolean array; chillax end

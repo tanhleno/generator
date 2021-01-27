@@ -1,0 +1,1 @@
+program aEva : Z7 : takes r : boolean; k : boolean array returns integer o : integer array; E0v : integer array; chillax end O : takes UGT : integer returns nothing Y, jU, N5a, i : boolean; while - 269 : chillax end end e : takes pZ, f1 : integer returns integer array _, d : boolean; chillax end main : input d[- (4 = 0) + X + true and 2 + 0] end

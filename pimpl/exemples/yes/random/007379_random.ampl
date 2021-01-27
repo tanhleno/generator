@@ -1,0 +1,1 @@
+program b7G : v : takes L, U5, P, AO : integer array returns boolean array chillax end z7 : takes c : integer array returns nothing M90a : boolean array; k : integer; while - 4 : do VI(8) end end main : f : integer; cX : boolean; chillax end

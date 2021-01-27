@@ -1,0 +1,1 @@
+program k : tA90a : takes D, gG : integer; WN, z, R, pu9 : integer returns integer when case(27) : while 3 : chillax end end case - 8 - 18 >= 1 : chillax end case 4 : chillax end; pop; output "<\ta"; input g[4]; let V26 = 9 end i8wa : takes w2 : integer array returns boolean c : boolean; S, fj, w : boolean array; pop 5 end main : chillax end

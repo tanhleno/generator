@@ -1,0 +1,1 @@
+program M9ea : k3x : takes d : integer array returns boolean array o, k : integer array; v, L, n : integer array; when case v8 and 0 = 4 : chillax end case - 3 : chillax end case 0470 = 91500 : chillax end case 62000 : pop end case 1 : chillax end otherwise : chillax end; pop 7 = 49 end main : chillax end

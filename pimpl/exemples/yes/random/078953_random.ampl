@@ -1,0 +1,1 @@
+program Z44aa : main : CG60a : boolean; V, Vs : boolean array; while not true or S6[068] rem Q6V0 > - not(5) rem F and 4 : chillax end; input ud[- (6) + S8W and 241]; when case true + 28 - 9 >= - 3 : chillax end case - 9 - 8 >= 620 : do e(9); input E3m0; pop end case 32 : chillax end case 75 : chillax end otherwise : input en end end

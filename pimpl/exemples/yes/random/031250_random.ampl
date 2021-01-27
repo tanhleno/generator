@@ -1,0 +1,1 @@
+program T5 : z : takes nY, t : integer returns boolean array I, m, i, D8 : integer; chillax end e_ : takes Pj, P6 : boolean returns nothing chillax end main : y, us20a : integer; FSsa, R6 : boolean; E6m0a, R : boolean; output "" . "H" . 75300 < 3 end

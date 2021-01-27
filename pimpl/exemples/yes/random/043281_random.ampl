@@ -1,0 +1,1 @@
+program _Mya : r : takes N : boolean array returns integer input L[- not 2 and 97]; output "\t" . 8160; while 0 = 0 : output "\t\taa"; pop end; pop 4 end main : O : boolean array; h, O, M2 : integer array; let J = array 6; when case - true rem true and 5 /= true or 77 - 9 : do V(84, 90, 27); do q00a(2610) end otherwise : output "" end end

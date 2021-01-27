@@ -1,0 +1,1 @@
+program M6j : main : g2uaa, T : integer; when case - P9s[177] rem 2 - x8 rem not 31 and 16700 : chillax end case(463) or R = - R or 2 : do m2K(3, 29, 20) end case - true : output 151 end otherwise : chillax end end

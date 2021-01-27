@@ -1,0 +1,1 @@
+program FPEa : main : output "8@0a" . true and 0; when case - true / not 9180 : chillax end case - W3 and 08 - 16 = 8 - 3 : when case 9 : pop end case 3 : chillax end otherwise : chillax end; let i = 20 end case 6320 - 7 <= 9 : chillax end otherwise : output "0E"; pop end end

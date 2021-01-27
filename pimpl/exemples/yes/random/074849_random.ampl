@@ -1,0 +1,1 @@
+program AW : main : V7, u240 : boolean array; kyO, wEha : boolean array; g8 : boolean array; N6, G, M, Me : integer; Tt : boolean array; pop false + true and 4 - 60 = (66) and 33400 + 3790; input b[(25100) / (256) - F] end

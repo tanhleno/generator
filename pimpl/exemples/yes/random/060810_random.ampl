@@ -1,0 +1,1 @@
+program V : zd : takes _3B0a : integer array returns nothing C : boolean; input jcJaa[n and 31]; let o[- 02300 - 704] = 2; let Z[487] = array 8; output 8 . "" end main : j09, V, Yt1a : integer; v : integer array; GxN, q, M : boolean; chillax end

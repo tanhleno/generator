@@ -1,0 +1,1 @@
+program eZ50a : main : Z86, w48, p9E : integer; m7Z, t550, M5, a : integer; H7, b4 : boolean; U5S : boolean array; do IS(- w2g /= d); when case - false + lh > (49) and 4 : output "4"; output "" . "" end; let d = array u - 67; while - 3 - 635 > 5 : chillax end; input c; do D(10); while 12700 : chillax end end

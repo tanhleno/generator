@@ -1,0 +1,1 @@
+program Wt : ye0aa : takes Lq, T, K, m, t970 : boolean; f78 : integer array; O, K : boolean returns nothing ZK, b1, w2 : boolean; e : integer; O : boolean; when case WLe0a and 7180 or 1 >= - 8 : output "" . "" end case - 4 - 1130 : chillax end end main : u, g, Jb : integer array; chillax end

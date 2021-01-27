@@ -1,0 +1,1 @@
+program s6 : main : jg, w0, FJ, b : integer array; when case 065 : output 8 = 050; do i28(415 = 7) end case false / 9 : let Y[0] = 965 end case - false and 0 : chillax end; while not true or not 984 or 1 = - D6C0 : input F4C0a; do HE9(46, 3); let vEo = 09700; when case 3 : chillax end; pop end end

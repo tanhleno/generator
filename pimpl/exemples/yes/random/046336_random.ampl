@@ -1,0 +1,1 @@
+program Dj : qcs0 : takes BS2 : boolean returns boolean let Q[- 03700 + 7510] = array _1l; output "" . 30 end w : takes d2H0a : integer returns boolean chillax end x1 : takes Sq, pkS : integer; a6 : integer array; nR, V : integer; Dk0 : integer returns nothing chillax end P : takes Z : integer array; Nol0a : integer returns nothing pop end main : chillax end

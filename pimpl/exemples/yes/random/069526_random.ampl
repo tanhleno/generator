@@ -1,0 +1,1 @@
+program xr3aa : main : f600, l, _, O : boolean; hmla : integer; do kiR(true); when case H[9] rem 88700 and 81 = - o : input hfF end case H and 30 /= - 36 - 5 : chillax end case - 5 : pop; while 5 : chillax end end case 6 = 6 : chillax end case 7 : chillax end end

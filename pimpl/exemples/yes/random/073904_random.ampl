@@ -1,0 +1,1 @@
+program d8 : main : S, g98 : boolean; l0 : integer; PG, s27, y2 : boolean; while true or false or false >= - false : chillax end; when case false + not 1910 or 37 - 71 <= - true and 6 - 485 : while 21 : output ""; pop end; output "\n" . "\";"; output ""; output "\t\naa"; pop end; do Q(0 - 492 - 5) end

@@ -1,0 +1,1 @@
+program mh : o : takes r, BZY, P, L, V3, t7A : integer array returns integer array dP : integer array; R3 : boolean array; chillax end ki : takes bwx : boolean; cX2 : boolean array returns boolean input UrUa[- 28 - 1] end main : e, D : integer array; t : integer array; pN : boolean; pop - true rem(7) - h or 0 - 1 end

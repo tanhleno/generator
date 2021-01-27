@@ -1,0 +1,1 @@
+program y : K : takes wp, M8W, b, D : integer; Nn : integer; O : boolean; uq : boolean; e08a, kgtaa, F5, va : integer; X5 : boolean returns integer chillax end main : when case - false and J(8) : pop 7; let eHcaa[9] = 1 end end

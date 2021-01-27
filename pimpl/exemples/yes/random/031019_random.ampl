@@ -1,0 +1,1 @@
+program w : g : takes O3, iq : integer array returns nothing let G[- true + 95 - 83] = array - (2780); pop 4 end main : when case - 1 <= not true : when case 16 >= 7 : chillax end case 87500 = 781 : chillax end case 3 : chillax end case 299 : chillax end end case - 9980 * qg and 5280 or(0) and 3 or 3 - 5 : chillax end; pop(09); pop - 6 - 6 end

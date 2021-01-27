@@ -1,0 +1,1 @@
+program f : K : takes M : boolean; h, z0, yk : integer; zj1a : integer; X, V72, V : boolean returns nothing chillax end main : n2, Ov8, eD00a : integer; pop; input di2a[486 / not 4 and 1 + (5) and 917]; let N2 = array - A and 191 + 53 - 87700 end

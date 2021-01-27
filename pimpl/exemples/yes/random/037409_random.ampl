@@ -1,0 +1,1 @@
+program I : T : takes A4 : boolean; U7 : integer returns nothing let z = array(8) + 7 end main : l9 : boolean; input x; let z670[- 6 - false and 35 + 6] = array false or 13 + 03; input ga; output 0620 = 07 . "l" . 42 . "}2" end

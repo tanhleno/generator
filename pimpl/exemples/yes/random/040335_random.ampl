@@ -1,0 +1,1 @@
+program R : sY : takes jo : boolean array; g : boolean returns integer chillax end main : _5t0a : integer array; e, ys7 : integer array; mC : integer array; z : boolean; while - (07 = 41800) : chillax end; input a end

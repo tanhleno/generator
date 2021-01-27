@@ -1,0 +1,1 @@
+program J : D : takes x : integer array; h5 : integer array; v : integer returns integer c8, S4, x, eL, r : boolean array; chillax end y : takes GI, d_X0a : boolean returns nothing chillax end main : while not not not 49 rem not not 0 * not 79 and 3 /= - 29 : chillax end end

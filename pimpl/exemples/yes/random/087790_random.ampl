@@ -1,0 +1,1 @@
+program RU : main : input F3gaa; do F(- true rem(5) and 2460, - true and 608 - 746 - 87 < - 2 - 44, - 608 >= 1, 4 = 8, 732, 4); while not 11200 and 67 : do F2(1); while 26 : chillax end; when case 69700 : chillax end; pop end; let reT0[- 675 - 9] = array 0 - 1980 end

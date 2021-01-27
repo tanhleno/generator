@@ -1,0 +1,1 @@
+program k7 : main : do O7((2) or A(9) * true > - h(9340) * not 594, - 74 or 216 and 8); while - not(4080) and false and 91 or 8 : chillax end; output "," . ""; when case 16 : when case 2 : chillax end end otherwise : do w(9); pop end end

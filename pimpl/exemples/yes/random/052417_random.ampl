@@ -1,0 +1,1 @@
+program t : G : takes o : integer; B : integer; P, B7 : boolean; q, J : integer array returns integer array GwF : integer array; p14aa : boolean; D, I, I1 : integer; h : boolean; chillax end main : I780, E, s : integer array; do Q7((2), 5 + (8) and 0 or 755, 4 + 81 - 25, 366 = 292) end

@@ -1,0 +1,1 @@
+program U : main : i8 : integer; J, O : boolean array; lr, Ma1a : boolean array; output "" . ""; when case - X2o0 or true and 2 + 25700 - 133 : let Z7[54300] = array 19 end case - true and 9 > 9 : input z26[138]; let vLPa = 44 end; while true >= 819 - 1030 : output "" . "" end end

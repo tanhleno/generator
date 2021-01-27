@@ -1,0 +1,1 @@
+program aq : main : while - (89700 = 9) + (49) and(8) and 8 : output 54 . ""; pop 2 end; when case(07) or not 1 : let Fg3aa = 7 end otherwise : chillax end; when case - true : chillax end; while 4 - 4 >= 25000 : chillax end end

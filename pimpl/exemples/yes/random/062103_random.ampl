@@ -1,0 +1,1 @@
+program h : yj8a : takes U : integer returns boolean array output "" . "" . "#\\"; do Ux5(39 - 53000 <= 4); while 634 = 30 : pop; pop end; while 563 : chillax end end main : let e[b32aa(9) and(8) - false * not 2 and 1 + true and 2 - 8] = (3) or 94 < - true and 1 end

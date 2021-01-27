@@ -1,0 +1,1 @@
+program C : Sog : takes K : integer returns integer array while - (350) >= - 404 : chillax end end hf : takes z : integer array; e7, z970a : integer returns boolean array O, C : integer; chillax end main : g77 : boolean array; g : integer; chillax end

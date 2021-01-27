@@ -1,0 +1,1 @@
+program o : main : q6 : integer; when case true + false <= - not(62) : chillax end case - (73) or 8 - 0 - 935 : while 5 = 320 : output ""; pop end; do f(73); do Tw(7) end otherwise : when case 10 = 7210 : chillax end end; input D; when case - 2 and 7850 : let v = array 8; while 4 : chillax end; input Oy4a end otherwise : chillax end end

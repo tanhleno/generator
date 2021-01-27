@@ -1,0 +1,1 @@
+program X06 : main : K, g : integer array; f46, q9 : boolean; P : boolean; Rb : boolean array; h18a : integer; M : boolean; X1ja : boolean; S : boolean; while - false rem 22800 + 3 and I > 330 and 7 : chillax end; output aU > 7 - 8 . - 4 - 11300 . ":=a" end

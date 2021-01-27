@@ -1,0 +1,1 @@
+program P9 : V : takes m, r91, N6W0a, q33, F : integer array returns integer array let Xu[0 and 78 - 8 - 2] = - 79 >= 59; pop 2050 = 6 end main : while - true * 1 / (82) or R[3] or(0) : do w(- 8 >= 027); output "?"; pop 8 end; input R6[- 00] end

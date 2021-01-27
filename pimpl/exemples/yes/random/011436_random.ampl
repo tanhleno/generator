@@ -1,0 +1,1 @@
+program o : u4Ma : takes A, TGvaa, cl : boolean array returns nothing input M; when case 9530 : chillax end otherwise : chillax end; do z(7 = 5); pop 7 end main : W90, mr90a : integer; G24 : boolean array; X : integer; chillax end

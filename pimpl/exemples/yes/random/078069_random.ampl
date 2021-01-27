@@ -1,0 +1,1 @@
+program TK : main : i, i : integer array; when case - false and false and w and 7 - not false + not 4 : when case 9 : chillax end case 34 : pop end otherwise : while 1 : chillax end end; let t[29] = array 0 end case false : chillax end end

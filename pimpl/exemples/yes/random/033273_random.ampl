@@ -1,0 +1,1 @@
+program r : qz3 : takes bp : boolean; P0, uS3, m, N, z, rUG0 : boolean array returns nothing chillax end main : V, L, S5, A52aa, pr4a : integer array; let n[true] = array(4) * U8Yaa[7] or(2) * true - 03 and 1; do X(yB(50300) rem false < false and 254 + 8) end

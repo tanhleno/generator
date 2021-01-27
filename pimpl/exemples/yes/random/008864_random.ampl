@@ -1,0 +1,1 @@
+program Q : W : takes _85, L6, S : boolean; d, L63 : integer array; Y : boolean array returns nothing x2A0a, bdM : boolean; when case - true and 8 : do Toh0a(46) end case 61 : chillax end otherwise : pop; input GCx; pop end end e : takes vfe, ocda : integer returns boolean array chillax end main : chillax end

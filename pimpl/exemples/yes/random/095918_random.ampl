@@ -1,0 +1,1 @@
+program Q56 : main : when case - false rem false - (8) : chillax end case - 641 or not 0 + 2 <= - true and 58 - 5 : chillax end case 3 + 40 - 99900 > 96800 : chillax end case - 572 - 8 : chillax end end

@@ -1,0 +1,1 @@
+program V3 : g9 : takes WZ, e : boolean; w9 : boolean array; RF : integer returns integer chillax end main : d, r : boolean array; C7 : boolean; l490a : integer array; Cg2 : boolean array; chillax end

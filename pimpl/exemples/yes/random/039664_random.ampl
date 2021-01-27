@@ -1,0 +1,1 @@
+program g : b : takes L : boolean array; w660a : boolean; I170a : boolean returns integer Q : integer; q5, M, A39a : integer array; t : integer array; chillax end main : input Fr; input V[- false rem not 9 - not 4] end

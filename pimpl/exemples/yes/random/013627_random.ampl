@@ -1,0 +1,1 @@
+program z : b : takes r, kW, r86aa : integer array; _, x, o, i, q, _, cb1 : integer array returns nothing p19 : boolean; X5 : boolean array; chillax end O59 : takes n : integer array; k5, ksx, n2k : boolean array; l, VGGaa, M, gY9aa : integer returns boolean pop 4 end main : chillax end

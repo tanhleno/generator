@@ -1,0 +1,1 @@
+program W4h : p : takes v0, K4, S : boolean array returns boolean array while 97 + 5 - 7 > 23900 : let Pj[4] = 1620; let r = 080 end end main : pop 0 rem true > - false or 82600 - 1; while true >= true and 600 - 2 - 7 : chillax end end

@@ -1,0 +1,1 @@
+program b4 : x : takes W9, Yea : integer; P, Q74, u7 : boolean returns nothing u, N4 : integer; l, v, eQ, N0Y0a : integer; chillax end W : takes H : integer array; h, ue, R0q, B4, q, V0 : integer array; t9f : integer; C2C : boolean returns nothing WE30 : integer; input u3; pop 40000; output "W" . "" end main : W : integer; ewY, f : integer; P, Kz : integer array; chillax end

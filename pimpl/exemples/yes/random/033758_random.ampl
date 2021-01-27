@@ -1,0 +1,1 @@
+program q : vkz0 : takes ne2 : boolean; P7, Q, S : boolean; w7x0, s : integer returns boolean hP, H3, H35aa : integer; do Lsqaa(pD9 or 4 - 5, - 9 < 74, 7 = 67); pop 6 = 64; pop 4; do a(07); pop; output ""; pop end main : k, p16, X6, q : boolean; chillax end

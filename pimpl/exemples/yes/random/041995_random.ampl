@@ -1,0 +1,1 @@
+program ae : W83 : takes w : boolean array returns boolean chillax end main : kU, L4Raa, o : integer array; while - 5 rem o[56] + not false - 1 and 48300 or 7 - 852 = - 2 / false + 4 and 4 or 41 - 22100 : let g = 4 = 7 end; output "59" end

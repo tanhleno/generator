@@ -1,0 +1,1 @@
+program lp00a : main : g1n0a, l1s, hj, I, v : integer array; t_ : integer; ffx, C5 : boolean; q1, SGn : integer array; bM : integer; while 2 rem not(7670) or(06800) : chillax end; when case false : pop 815 end otherwise : pop 33; while 7 : chillax end; do mU(3); pop end; do y02(not 0 + 00 = - 974 - 6); input N[75 - 8] end

@@ -1,0 +1,1 @@
+program ha2 : J : takes f96, b : integer array; c : integer array returns nothing chillax end main : do d12(not h[3] / (41500) / true and 3 - M(5) / 0110 and 2 + true and 7, true > - true or 63700) end

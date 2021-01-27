@@ -1,0 +1,1 @@
+program qp : main : b8oaa, t7 : integer array; W, e : boolean; output ""; when case true /= false - 53 : chillax end case - K = 76 - 6 : input O5H; while 1 : chillax end; pop; pop end case 4 - 0 : while 9 : chillax end; do c(0); pop end case 88 : when case 23 : chillax end end case 653 : pop end otherwise : chillax end; do Z9(true and 2 /= 39) end

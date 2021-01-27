@@ -1,0 +1,1 @@
+program Y : v : takes eR : boolean returns nothing Q6 : integer array; w : boolean array; _ : boolean array; J, a : boolean; B0 : boolean; chillax end main : a : integer array; E, Rf6, _1, _ : integer; while - false and 4 - 7 < - (7) : chillax end; output "K\\0" end

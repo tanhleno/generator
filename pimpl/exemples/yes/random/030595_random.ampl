@@ -1,0 +1,1 @@
+program E6 : z : takes Xqe, a4c0 : integer array returns nothing B3, _ : boolean; P7i : integer; let V[(4) and 12200] = array - false end main : u4 : boolean array; H, _ : boolean; pop not 4 > not 49 and 5 - 8 - 609 end

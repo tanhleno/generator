@@ -1,0 +1,1 @@
+program ZN00 : w : takes F, Jo : integer array returns boolean array p, LL3 : boolean; X1 : integer; chillax end main : do O(false and not true + (76600) * not 7 and 9 + (056) /= (24800) - (38) and 834, - (37) or(7)) end

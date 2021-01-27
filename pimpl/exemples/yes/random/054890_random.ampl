@@ -1,0 +1,1 @@
+program M : s6M0 : takes Mfe : integer array; O5, q : boolean returns nothing output "eM" end a2 : takes p6iaa : integer array returns boolean k, e : integer; z, s, j : boolean array; chillax end main : pop end

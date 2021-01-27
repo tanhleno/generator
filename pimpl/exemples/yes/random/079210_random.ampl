@@ -1,0 +1,1 @@
+program H76aa : main : C : boolean; soiaa : boolean; K27, eX3aa : integer; Z8 : integer; when case - not(9) rem E(2) / false and 543 or pb(39700) * (4) and 76 or U < false or not 7 : chillax end otherwise : let F1[56] = 0; when case 41 : pop end case 6 : chillax end otherwise : chillax end end end

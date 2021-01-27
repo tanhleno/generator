@@ -1,0 +1,1 @@
+program KB : O : takes d5Va, e : integer; KO, E, v : boolean array returns integer N, P, WD, c : boolean; rDx0, I, H : boolean; chillax end MP : takes i, c, hF : integer returns nothing rsA0a, J : boolean; R46, e : boolean array; chillax end main : output "1*!a" . "uO" end

@@ -1,0 +1,1 @@
+program D : VL : takes o3, l94 : integer returns nothing E, l71a : integer array; while - not 29 + 7 - 25 : chillax end; when case - 579 - 2 >= 0 : let z95a = 5 end case 0 : chillax end case 0 : pop end end main : Q5 : boolean array; GX0a : boolean; Le, BU90, V, v : integer; chillax end

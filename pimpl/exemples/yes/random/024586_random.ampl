@@ -1,0 +1,1 @@
+program A_q : I : takes f, Z : boolean returns nothing N : integer; pop; let T = array - 43 - 75500 end i : takes j : integer returns nothing output 7 . "/" . 5; do OI9(19, 5, 9) end m9 : takes N : integer array returns nothing chillax end main : nY, p : integer; Ew : integer; let L[- (945)] = - 8 + false /= false and 7770 or 2 - 7; pop false and 9; pop; input iF1 end

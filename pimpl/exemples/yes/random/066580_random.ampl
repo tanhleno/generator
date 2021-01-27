@@ -1,0 +1,1 @@
+program Pi : main : do A(- 8 * false + (21) = 8 rem false + J0 + 93 - 10400, not 7 - H + 1 - 3 > - sr); do e5(- g); let d[(5)] = 08; pop 4 = 0; when case 40000 = 81800 : while 5 : chillax end; pop end; while 82800 : chillax end; output "Z"; let TLf = 489; pop end

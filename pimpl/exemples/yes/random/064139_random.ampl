@@ -1,0 +1,1 @@
+program Iq : l0n : takes t3 : integer returns nothing do k8(not 77 - 6 - 12, - 388 = 6, 015 = 64, 2, 4) end t : takes O, z5 : boolean array returns nothing w, q6 : integer array; Zmqaa, Qy2, dlWaa : integer array; chillax end main : when case 38 <= 8 + (8) or 05500 - 31 : chillax end otherwise : let _1[5890] = 38 end end

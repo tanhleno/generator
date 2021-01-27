@@ -1,0 +1,1 @@
+program p : wXw : takes D : integer array returns nothing G, Y : boolean; l : boolean; while not 45 and 887 > 801 - 8 : chillax end; output 2 = 21 . "z6" . "" . "y"; output "`"; do w(41500); let q6 = 37; output "" end main : do f00aa(7, - true * not 4840 + (7) and 1 < - 1 and 5, - false <= 0 - 2) end

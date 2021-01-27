@@ -1,0 +1,1 @@
+program b : Z : takes ub8 : integer array; A : integer array returns nothing z, s7 : boolean; Zgh, F : integer array; C : integer array; let k[true + 049 - 83800] = - 7 - 9; while 01 > 0 : chillax end; while 3 = 3 : chillax end; output 8 . "\n"; when case 03 : chillax end; input s end main : Esmaa : boolean array; bQ, E : boolean; Qz, qx, p7 : boolean; output _ end

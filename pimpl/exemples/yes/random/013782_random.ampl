@@ -1,0 +1,1 @@
+program m050 : S : takes aa, N, L : integer array; R, R4, Bp3 : boolean array returns boolean vv, Y : integer; chillax end main : when case(9 = 854) + 073 and(99100) + d4 : chillax end case not Ua - false <= - false and 7 or 278 : input t6F[226] end; do Q(- 180); while - (3) and 39 < 521 - 47 : chillax end; pop; do j(7, 61, 2); output "" . "" end

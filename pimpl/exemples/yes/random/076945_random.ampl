@@ -1,0 +1,1 @@
+program SM : main : c, a : integer; while - (31) rem 9 : when case - 0 - 7 : chillax end case 6 = 22900 : pop end; output "5+\"" . "l" . "" end; when case(2) <= false and 03 or 6 : chillax end otherwise : input x7 end; let y = array - true and 4 or 98 end

@@ -1,0 +1,1 @@
+program a : qh2aa : takes vK : boolean array returns boolean array chillax end HN : takes Fr : integer array returns nothing chillax end VG : takes g7jaa, A : integer array returns nothing n, n : boolean array; while 1 = 11 : output ""; pop end; input n[83] end main : do Ck(true / (9940) = - 22 * false); pop - false and 6 end

@@ -1,0 +1,1 @@
+program _ : main : while - false * false : when case - 6 - 9 : let j = 588 end otherwise : chillax end; while 13 = 505 : when case 2 : chillax end end; when case 1 : pop end case 339 : chillax end; when case 4 : chillax end end end

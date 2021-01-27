@@ -1,0 +1,1 @@
+program L7 : J : takes Kz, dvz0a : boolean array; T8 : boolean array; v : boolean array returns nothing pop; output "" end S6 : takes n : boolean array; u4 : integer array returns nothing input R; output 1 . ""; let e[35] = 591; let RT = 0 end main : input S; pop - false and 4 = - 2 end

@@ -1,0 +1,1 @@
+program T : u : takes Gh40a : boolean returns integer X : boolean; chillax end sP : takes H : integer array returns nothing q : integer array; O : boolean array; pop; do k(9 = 5, 6030) end main : input r51aa end

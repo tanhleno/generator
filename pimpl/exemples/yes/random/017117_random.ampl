@@ -1,0 +1,1 @@
+program hgX0 : X350 : takes a3, h87 : boolean; b, Q8A, q : integer returns nothing c1laa, a, S4 : boolean array; when case(3) and 9 or 5 - 25 : let D[41200] = 9; input qV end case 5170 - 8 : chillax end otherwise : chillax end end main : while - 7 or 7 - not 1 or 901 - 29 : chillax end; input D79[- (7) + not 050 - 9 - 7] end

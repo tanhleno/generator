@@ -1,0 +1,1 @@
+program i : UED0a : takes y8k, V, dgn : boolean array returns boolean array S6Ea, xn : boolean array; c92, d : boolean; G, c, wa : boolean array; gw7 : boolean; J : boolean; m : boolean; let o[5 or 13 - 9] = array - true + 20900 - 36; input q4[- 33900 - 8]; do B(97800) end main : when case true / (39) : chillax end end

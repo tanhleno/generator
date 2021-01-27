@@ -1,0 +1,1 @@
+program fg8 : Xg : takes s : integer; h7, y, x : boolean array; a3 : boolean; vY : boolean returns boolean array let YG[(6) and 2 - 135] = 4 >= 30 end main : input d; while - true : let db2aa[3] = array 0; while 2560 : chillax end end; while - not 10 or 2480 > 1 - 5 : chillax end end

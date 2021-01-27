@@ -1,0 +1,1 @@
+program S530 : aw : takes O : boolean array; PCN, j : boolean array returns nothing I, x : boolean array; chillax end main : f6, r, fJa : integer array; y1, aNp0 : integer; st8a : boolean; do df(- 9 and not 1 and 2 and 34 - d[9] and eQ0); let t[I1I[64] rem G and 06000] = true and 1 >= - 4 end

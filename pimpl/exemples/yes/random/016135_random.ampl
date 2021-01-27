@@ -1,0 +1,1 @@
+program g2 : S : takes U, d, p4y0 : integer returns nothing chillax end Pn : takes nL, C, B, QC, o : boolean array returns nothing U, p, Z : integer; n : integer; chillax end main : do G(not G * false /= (9) + not 58600); pop end

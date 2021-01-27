@@ -1,0 +1,1 @@
+program Z : main : when case(40) rem false rem(2) - (6) * 9 and 77300 : chillax end case true / not 0 and 7900 - xo + 73 > - F - 329 - 9 : do huu(6, 64); pop end case - true and 5 + 7 - 9 <= - 3670 - 42 : pop end otherwise : chillax end; let L910[not not 2] = array 97 and not 44 or not 8 and 860 or 2 - 998; while not 8400 + 65 : chillax end end

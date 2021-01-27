@@ -1,0 +1,1 @@
+program o : WuU : takes q9, ePe0 : integer; G : boolean returns integer chillax end E9 : takes Od, mA0, y, j, tp, M, h : boolean returns integer array chillax end e : takes WI, e2 : integer array; N : integer returns nothing chillax end main : while - (9 = 6) - false + 8 or 30 > true rem not 4 or l - 5 : chillax end; output - not 0 + 7 - 1 end

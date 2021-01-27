@@ -1,0 +1,1 @@
+program Dj90a : O : takes I6, VT : boolean array returns nothing when case - not 68 - 3 : chillax end case 900 : pop; pop end case 3 = 3 : pop; pop end otherwise : chillax end; while 7 = 32 : input W5 end end main : Ri1 : boolean array; m4 : integer; A2, c, t3C0a, Q, uf : boolean array; chillax end

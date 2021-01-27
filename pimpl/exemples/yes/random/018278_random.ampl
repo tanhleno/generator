@@ -1,0 +1,1 @@
+program x : a1 : takes z6p, y : boolean; V1 : integer array; Y70, C : integer; S, ix60 : boolean returns nothing pop; let U = 8; do l55(7) end t01a : takes D : integer returns integer lB : integer array; chillax end C : takes E : integer returns nothing chillax end main : g : integer array; X79 : boolean; chillax end

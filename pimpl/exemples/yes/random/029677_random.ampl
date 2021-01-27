@@ -1,0 +1,1 @@
+program KN : W : takes We7, v9Ma : integer array returns integer array chillax end i6 : takes c2, r, wt, v, Qw, V6 : integer array; SR0, O : boolean returns nothing o6 : integer array; m4 : boolean; Jyn : boolean; V : boolean; W : boolean; do Y(6 - 7) end main : L, b, lP90 : boolean array; ZKKa : boolean; chillax end

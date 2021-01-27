@@ -1,0 +1,1 @@
+program wMS0a : A : takes HEW : boolean returns nothing U3Iaa : boolean; EYK0a, c_ : integer; while g2 and 04 or 0 > - 3 : chillax end; while - 43400 >= 2 : chillax end end p3 : takes D : boolean array returns nothing chillax end main : Q0, T5E : integer; N : integer; b0P0 : boolean; chillax end

@@ -1,0 +1,1 @@
+program kTv : l : takes IFla, O : boolean returns nothing when case - 76 and 3 /= - 1340 - 94 : while 29 : pop end; let pUU0 = 1 end otherwise : chillax end end main : Y : integer; x : integer; chillax end

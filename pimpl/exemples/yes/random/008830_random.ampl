@@ -1,0 +1,1 @@
+program OSXa : c : takes K, d, YP : boolean; U, h : integer; Y30 : integer; x, y, m : boolean; m, e890a : integer array returns nothing KD1, y9, c1 : integer array; m6G : integer array; chillax end main : T4x, i : boolean array; chillax end

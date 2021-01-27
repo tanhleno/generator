@@ -1,0 +1,1 @@
+program t5m : X5 : takes AO, y, a, l5 : boolean returns integer when case - 442 + 96 - 99 : let L = array 6; output ""; pop; pop end case - 14 = 108 : chillax end case 2 : when case 11 : chillax end; pop end end main : output "J"; do Qa(- x2[08]) end

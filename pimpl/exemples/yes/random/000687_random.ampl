@@ -1,0 +1,1 @@
+program lqG : tn : takes X, i, J64aa, P9, _, Y, c : boolean array; e : integer returns nothing W1 : boolean; chillax end Y : takes AR1 : integer; b : integer array; a : integer array returns nothing chillax end main : qU : integer; chillax end

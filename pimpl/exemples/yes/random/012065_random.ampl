@@ -1,0 +1,1 @@
+program be : w7j : takes Y, w, OZ : boolean returns nothing chillax end Idm : takes vw, ok : integer returns boolean array R1 : integer array; chillax end s8 : takes G : integer array returns integer K : integer array; when case 13 : when case 5590 : chillax end end end main : wtb : integer; let k33[- not(235) / m7m or(8) rem 54 and 3] = array 80 and true / true and 5 + u * B end

@@ -1,0 +1,1 @@
+program g7 : main : b, u : integer array; do k2(awg0a > 43 / (23) and 2, - w6t(6) and true and 83 + a1ea and 588 or 2 - 0, - true and 4 or 45, 09 - 71, 7030, 7610, 1830); output "c"; while(36) and 5 + 02 - 4130 > 97 - 67000 : chillax end; output 22 end

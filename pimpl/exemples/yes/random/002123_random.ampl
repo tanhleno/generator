@@ -1,0 +1,1 @@
+program f : b : takes JC1, b, R, Z5, jK : boolean; hvA, b, L890, IW : integer; a2Oa : integer array returns nothing input a[624 and 0] end p : takes B4, H0, En50a, GM4, I, g9, R6P : integer array; d, U, V080a : integer returns integer array e, PU : integer array; Vn, g : boolean; output 8 = 8 . "" end main : u1, X : integer; let t[- 57] = Ic[6] and true end

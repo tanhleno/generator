@@ -1,0 +1,1 @@
+program H97 : u : takes l, i35, H : boolean returns integer let H45 = 0350 - 8 /= 378; let t68a[5] = array - 20200 - 7830 end Ur : takes g : boolean returns nothing chillax end iR : takes w, J3 : boolean array returns nothing chillax end c64a : takes i0, a40, u : boolean returns nothing Lu : boolean; chillax end main : vl : integer array; chillax end

@@ -1,0 +1,1 @@
+program n : pQ : takes Y51, C : boolean array returns nothing output "" . "" end k : takes o2S0, U : boolean returns boolean array u, rV8 : boolean; chillax end I7 : takes g4Y, x, s : integer returns nothing pop end main : chillax end

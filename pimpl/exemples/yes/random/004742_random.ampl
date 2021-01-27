@@ -1,0 +1,1 @@
+program d : Wc : takes A660, z, o, b : boolean array; EN3, n1, P1xaa, iG, z : integer returns nothing chillax end X : takes E6 : boolean; A : integer; J2X0a : integer; o : boolean array; aS_ : integer array; gNw, y : boolean; rrh : boolean; m5Haa : boolean returns integer chillax end main : do Ul50((16 = 70) rem(9) rem 5 + not 8 rem y7); input W34a end

@@ -1,0 +1,1 @@
+program A1 : qa8aa : takes Y, F0 : boolean; dYB : boolean array returns integer when case 1 = 2 - 9 : pop 376 end case - 4 - 8 /= 8 : do B(35) end case 4 : do GO(30); pop end case 84 : chillax end end S : takes u2, k, G : boolean returns integer J : boolean; input u[0]; output ":"; pop 115; pop end main : q : integer array; chillax end

@@ -1,0 +1,1 @@
+program fG : O : takes x, J, vU : boolean array; v, U8, u : integer array returns boolean array Aw70 : integer; output 47 end c : takes e : boolean array returns nothing b, q150 : integer array; output 22 end main : chillax end

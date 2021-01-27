@@ -1,0 +1,1 @@
+program bV9 : q : takes nT : integer array returns boolean while - 5 : chillax end; output 5720 = 0 end j : takes T4, I : integer array returns integer array O : integer; fbJ0 : boolean array; p : boolean; input T end RT : takes ho : boolean returns nothing do sh(9, 2) end main : chillax end

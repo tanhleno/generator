@@ -1,0 +1,1 @@
+program t : m1 : takes B, m, D : integer returns boolean m8ma, e : boolean array; NMo0 : boolean; Y : integer array; chillax end T : takes m8C, j : integer array returns integer v5, u0ra, z : boolean; chillax end main : ax : integer array; when case 5650 - (7) / true + (11) and 9 - 31 : do n4d(- 8540 - 63600, 0 = 2, 08) end end

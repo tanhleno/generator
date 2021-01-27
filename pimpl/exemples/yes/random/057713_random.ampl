@@ -1,0 +1,1 @@
+program Y6 : R45 : takes a : integer array returns boolean array z5X0, Sf, iBgaa : boolean array; pop end Gb : takes e4, g, U4Ia, Yzaa, Z, h, C : integer array returns integer X : integer array; R_s0a : integer; U : boolean; chillax end main : f, U, VC8aa, f7 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program r : q7taa : takes R, pp, JIL0a, f : integer returns boolean L : boolean; pop; while - 3 : output "\n" end; when case 49 = 579 : chillax end case 4600 : pop end; let GLx[8] = 87 end xA : takes M, M, VyA : integer returns nothing m : boolean; H : integer array; G4s, N : boolean; pop 29 end main : f, o6 : boolean array; pop - 41; input vVGa[- 9 / (6) and 52500] end

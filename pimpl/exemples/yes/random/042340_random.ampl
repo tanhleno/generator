@@ -1,0 +1,1 @@
+program f : t : takes wqq : boolean array returns boolean pop - 1 /= 48 end main : when case - false * true and 3 or not true or not 6140 and 8 : while - 00 < 4 : let A51aa = 4 end; do Y7Gaa(34, 910, 97); let b = array 5440 end otherwise : output 2410 end end

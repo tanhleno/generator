@@ -1,0 +1,1 @@
+program S56 : main : output false * false or 5 and 2 + 4 - 98900; when case - Li5aa - 31 and 33800 : chillax end case - true and 47 = 6 : while 1 : chillax end; while 3 : chillax end; pop; pop end otherwise : pop 80; input sF end end

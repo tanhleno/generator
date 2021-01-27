@@ -1,0 +1,1 @@
+program Qa : N16 : takes z : integer array; a, WN : boolean array; U0pa, h : integer; O3J0, yz : integer array returns nothing r, q : boolean array; v93a, P : integer array; chillax end main : pop; input Y end

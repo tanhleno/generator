@@ -1,0 +1,1 @@
+program NN : I : takes _, SP70a : boolean array returns integer v : integer array; k1 : integer array; chillax end D : takes w71aa : integer array; A, N, P, x_ : boolean array returns nothing chillax end main : input A40[- (8020 = 46200) * (7) rem t and 23]; do c(false) end

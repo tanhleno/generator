@@ -1,0 +1,1 @@
+program f7xaa : sg : takes x37aa, H : boolean array returns boolean array let YzU0[f] = array - C end main : n9 : boolean array; _P50a : integer array; r, r : boolean array; Rv, q : boolean array; Xux0a, m, Q8V : boolean array; when case - false /= not 2 : output "\":" . "\t\t0a" . 4; output "" . "z?"; do U(0, 10); while 96 : chillax end end end

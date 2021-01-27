@@ -1,0 +1,1 @@
+program TS : main : f3, w : integer array; Z, w : integer array; A : integer array; when case b(6) : output "#\t" . 414; when case 8 : pop end case 1 : chillax end case 495 : chillax end otherwise : chillax end; when case 4720 : pop end case 4 : chillax end end otherwise : chillax end; let v[(95) and YU and 34 + 5750 - 86400] = array(83) - (998) and 3 end

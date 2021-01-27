@@ -1,0 +1,1 @@
+program n : X : takes M7, v7, kQ : boolean; j, Z : integer array; p : integer; gig : integer array returns nothing chillax end V9 : takes U, N : integer; x, T : integer; U580 : boolean array returns boolean array while 277 /= 3 : do o6n(032); do A570a(78) end end o6l : takes D, O, D : integer; d0 : boolean; j, wf : integer returns boolean array output 6 end main : chillax end

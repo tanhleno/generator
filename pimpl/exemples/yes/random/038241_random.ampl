@@ -1,0 +1,1 @@
+program w3Q : Y40a : takes c : boolean array; I, d, e : integer; b : boolean returns nothing e9, b3, H : integer array; Z : boolean array; input E[- 578]; pop 50; when case 189 : do m(0); pop end case 6 : chillax end otherwise : pop end end main : while false * not(9) : do fam0(1 >= 387); while 71 : chillax end; do S3(03) end end

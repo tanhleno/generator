@@ -1,0 +1,1 @@
+program H94 : main : PBm0 : integer; d, l32, s5z : integer; pop 8; when case - true : chillax end case not 56100 and 7870 or 7 : input rk5aa[2] end case - 8 : chillax end case 9 = 25 : let g = 479 end end

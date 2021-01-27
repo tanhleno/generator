@@ -1,0 +1,1 @@
+program if80a : T6 : takes q, hI, d4ca : boolean array returns integer array do m(false and 440 or 0 - 0 = - 1980) end main : c, G61a, BPT0, z, m : boolean; when case 586 : do S(3 = 0, 23, 9, 1); pop end otherwise : chillax end; let c[- not false rem false + false] = O430a + 730 < 18100; pop end

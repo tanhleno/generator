@@ -1,0 +1,1 @@
+program EKk : s : takes fN, s : boolean returns nothing E, tB, Gd : boolean; qJ : integer; L, r, f : boolean array; f : boolean; while - true and 8 < 2 - 52100 : chillax end; when case 7 - 98 : chillax end case 0 : output "" end end main : t : integer; chillax end

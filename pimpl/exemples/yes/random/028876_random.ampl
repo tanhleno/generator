@@ -1,0 +1,1 @@
+program U6 : pJ30a : takes Ga, X9 : integer array; t : integer array; x : boolean array returns boolean Q : integer; R, e, Z : integer; G : integer; p27aa, f : boolean; gQ : boolean; chillax end main : SPyaa : integer array; while - 0 * false or false - 5 - 2020 - 322 /= - 9 or not 9 and 587 : chillax end end

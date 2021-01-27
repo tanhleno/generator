@@ -1,0 +1,1 @@
+program h6 : eU : takes o, xev, DEs, B, D35aa, _8 : boolean returns nothing U2 : boolean; Z, T5n0a, EI0 : boolean array; Qd7 : boolean; n : boolean; chillax end main : k54 : integer; z6F, po, K, u, z : boolean array; output - false / 5 - 2 + 117 - 26100 . - false < - 71 - 69 end

@@ -1,0 +1,1 @@
+program Tb3aa : main : W : integer; when case 5 and 6680 + true / false - not 7 and 6 + 15 < not not 5 * (0) or false : chillax end case true and b : output 459; while 4 : pop end end; let m[- not false and false and 86100] = xf and 8 + 26 - 4250 /= - 3 end

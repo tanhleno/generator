@@ -1,0 +1,1 @@
+program I : main : when case - 8 <= - 06 / (97) and 0 or false and 7 : chillax end case - (905) + not 2570 and 3 > - false : when case 2 : chillax end case 8 : chillax end case 3 : chillax end end end

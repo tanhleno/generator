@@ -1,0 +1,1 @@
+program A : C8 : takes F5R0a : boolean array returns integer b990a, n, z : boolean array; i : boolean; output "N-aa" end F : takes eU : boolean array; a33, AAb, cp : integer array; U, t3Ca : integer returns integer array chillax end main : R, Y98, M, mv2, W : boolean array; T : boolean; chillax end

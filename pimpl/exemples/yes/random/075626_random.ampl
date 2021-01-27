@@ -1,0 +1,1 @@
+program bTY : main : A, aR4 : boolean array; when case - T3(34100, 71) <= sR[8] rem 6 and 56500 - not 965 and 9 + 26 : input w[66] end; input N; output 4 <= 546 . "5" . 35; when case 47 - 3 : chillax end case 462 : chillax end case 6 : chillax end end

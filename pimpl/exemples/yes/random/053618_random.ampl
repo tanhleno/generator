@@ -1,0 +1,1 @@
+program Z : cSo0a : takes Zd : integer array; c760, AfI0a, B, s, a : integer returns integer array chillax end F : takes gV30a, T, J : integer returns nothing Y, v : integer; input w; input _; output ""; let s1 = 44400; while 7 : chillax end end main : y : integer array; y, t, a : boolean; G, v : boolean array; Ir, M, z : integer array; chillax end

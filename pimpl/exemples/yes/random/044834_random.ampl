@@ -1,0 +1,1 @@
+program U : iD : takes o : boolean array returns nothing lJ10 : integer array; zn, g, S, ax : integer; l2T : boolean; output "" . 02700 = 2 end D : takes Rl : boolean array; R : integer; Q8Wa, Mx7aa : boolean array returns nothing when case 2 : output "" end end main : p, Q7z : boolean array; pop M rem 1 or false end

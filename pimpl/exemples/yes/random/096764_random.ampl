@@ -1,0 +1,1 @@
+program A740a : main : when case false - true and true and 214 >= - 2 * 0 and 1 or 10 : when case 0 - 4 : chillax end end case - 73 and(2) < o92 and 22 - 7 : chillax end case I8v : input s2[2]; input H end end

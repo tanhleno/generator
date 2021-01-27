@@ -1,0 +1,1 @@
+program o : main : QM, K72aa, r : boolean array; while false / v(97) : chillax end; do uRA(- not efr / true and 55 or false and 1 - 2 - 2, not 09, 5 < 16); let Q6 = 8460 - 45; output 7 = 4; while 263 = 4 : chillax end; while 44 : chillax end; while 3 : chillax end end

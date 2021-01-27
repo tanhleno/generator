@@ -1,0 +1,1 @@
+program x3 : main : output not true and false; when case - v - 76 and 11 : let m[0] = 1; when case 8560 : chillax end case 2 : chillax end; pop; let S = 790 end case - not 33 or 7 >= - 60 : output 6 . "\t" end end

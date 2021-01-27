@@ -1,0 +1,1 @@
+program y05 : B : takes M8h, j, d : integer; bV6aa, N : integer array; U, o4 : integer returns boolean array chillax end main : when case v1(004) : chillax end case true * not 6 and 2 or not 39 and 2570 or 8380 : input n end case - not 322 or 2 : while 039 : pop end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program En : e : takes tN : boolean array; Q : integer returns nothing chillax end Ch7 : takes D : integer; un4a, f970a, k, F, P, I4 : boolean; J : integer returns nothing chillax end main : t : boolean array; tz : integer array; chillax end

@@ -1,0 +1,1 @@
+program Q4A : q : takes I : integer; k : integer returns boolean array let f = array - true and 97400 + 2930 end I00a : takes R, mM4, z : integer array returns integer chillax end main : pop Y[5] and false - (3) or 2 end

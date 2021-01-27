@@ -1,0 +1,1 @@
+program mb : RC : takes j, P : integer returns nothing chillax end U4L0a : takes f : boolean array; d : integer; O, W, rr40a, S : integer returns nothing when case 3 <= 01300 : chillax end; do e(8 = 6280) end yH : takes h, o6 : integer returns nothing S, l6 : integer array; let QQ = array 33 end main : chillax end

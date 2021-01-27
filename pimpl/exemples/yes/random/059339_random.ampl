@@ -1,0 +1,1 @@
+program odg0 : a : takes SO50 : integer array returns integer S6, yKX : integer; S : boolean; output "" . 3 = 43 . 1 end main : b3, u, I3N : integer array; while - (95) < - s4(9280) : while - 12 - 7 = 295 : chillax end end end

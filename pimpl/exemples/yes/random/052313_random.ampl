@@ -1,0 +1,1 @@
+program _o : p : takes Zl : integer; X2 : boolean returns nothing PYD : boolean array; do t(0 and 94 or 5); when case 140 - 9 : chillax end otherwise : chillax end end main : Zh, R : boolean array; bz, _ : integer; output "A" end

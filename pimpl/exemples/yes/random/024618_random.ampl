@@ -1,0 +1,1 @@
+program G0T : fq : takes g, y : boolean returns nothing V : integer array; JJ4a, uJ, W : boolean array; chillax end main : P : boolean; D, t, oP : boolean array; pop; when case - (2040) * (7) and 87000 : chillax end otherwise : chillax end; pop - 6 > 2; output 94500 = 33 . 96 . "b/" . "" end

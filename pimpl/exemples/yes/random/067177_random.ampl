@@ -1,0 +1,1 @@
+program q1 : main : do Z12(Y750(49, 68) and not not 4130); when case - true : output "R7aa" . "=" . "6" end case - U - 1 - 53 >= 55 - 0 : while 2 : chillax end end case 7 : while 75 : chillax end end case 9 = 0390 : chillax end otherwise : chillax end end

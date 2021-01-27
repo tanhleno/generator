@@ -1,0 +1,1 @@
+program V : l : takes pv, k : boolean array returns boolean array y, w4, J, y, FnH : boolean array; z : integer array; M, SD, F : integer array; B, v : boolean; chillax end main : ih20 : boolean; output "<"; let M8[- not(41200)] = - false >= - 42 end

@@ -1,0 +1,1 @@
+program O8 : SX80a : takes fr : integer array; n1 : boolean array; V, Y : boolean; I : integer array returns nothing b, H, k, t320a, y : boolean array; pop end main : while not M[6] and false - G and(9) and 3 or O0 + 01 >= - w / false - false - 3 : when case - 38900 = 48 : output "\n\t" end case 22 : chillax end end; do O(- true, - true >= 83); pop end

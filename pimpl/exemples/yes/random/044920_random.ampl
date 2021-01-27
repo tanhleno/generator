@@ -1,0 +1,1 @@
+program O : KR : takes btB : boolean array returns nothing input ko; do e(- 3 - 9 < 6160); output 3 . 0; when case 478 : chillax end case 43 : chillax end otherwise : chillax end; pop; input R6La; pop end main : U : boolean; F3, B4, u5 : boolean; input y41[true] end

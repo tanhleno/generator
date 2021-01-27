@@ -1,0 +1,1 @@
+program H : D : takes qZ, s : boolean returns integer chillax end QZ : takes Vl6, e0 : boolean; h9 : boolean array returns integer array Cj, J8w, G : integer; aU, M : integer array; chillax end main : while not false and j2 rem(04100) + not 624 : while 302 = 3 : pop; input c3; pop end; input e[37400] end end

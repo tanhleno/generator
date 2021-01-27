@@ -1,0 +1,1 @@
+program o6 : i : takes DGS, J : integer array; f13a, f, N : boolean array returns nothing output "n" . 7 = 038 . 910 . 7750; when case - 96 - 0750 < 8 : chillax end otherwise : while 1 : chillax end; pop end end W06aa : takes h, P : integer array; Dsx0 : boolean array returns boolean array input t11; input Fg end main : q, RPS0, j2 : boolean; T, W0 : integer; chillax end

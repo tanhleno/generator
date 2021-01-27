@@ -1,0 +1,1 @@
+program c : J590 : takes Y : boolean returns nothing l6, z : boolean array; o90 : boolean; s, p, T5 : integer; H4, Ie90 : boolean; while - true : chillax end; output 3 = 6; output "x"; output "+." . "F"; output "" end main : TWI0a : boolean; chillax end

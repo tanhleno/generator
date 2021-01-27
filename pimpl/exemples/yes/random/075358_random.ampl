@@ -1,0 +1,1 @@
+program g6 : main : Nu, Hm : boolean array; X : integer array; when case(37400) and true and b and 6 >= - false / 8 : chillax end; while Tg5 / (9) and 2 : let h[1] = array 4; pop end; pop - 41 > 63 end

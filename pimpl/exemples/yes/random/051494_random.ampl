@@ -1,0 +1,1 @@
+program Hw30 : K93a : takes a6 : integer; z : boolean; CVQa : boolean returns nothing chillax end T7 : takes o, R2D, N2c : boolean array returns nothing M6, _2M : integer; k : boolean array; R, K45 : boolean; RZ3 : boolean; Qy : boolean; input H[- 15400 - 91] end main : P : boolean array; chillax end

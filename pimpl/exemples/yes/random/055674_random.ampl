@@ -1,0 +1,1 @@
+program GY3 : n : takes l : integer array; h27 : boolean; v5 : integer array returns boolean do i(- true and 2460 - 3 >= 4) end main : uX, O3 : boolean array; R83, p, CNEa, Do : boolean array; pop - true rem 7130 and 0 - o + 0 - 9 <= - true; when case 900 rem false < 039 and 2 + 2 - 687 : chillax end otherwise : chillax end; output - 8 - 15 >= 27600 . "" end

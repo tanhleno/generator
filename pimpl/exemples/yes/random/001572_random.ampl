@@ -1,0 +1,1 @@
+program le : k : takes A, I5, M, Y, i1U, O : boolean returns nothing YL : boolean array; output "2" . ""; when case 43 = 6580 : chillax end case 69 : chillax end case 68 : pop end case 15 : chillax end end main : K : boolean array; E : integer; chillax end

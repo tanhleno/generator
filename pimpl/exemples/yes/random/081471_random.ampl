@@ -1,0 +1,1 @@
+program f : main : tr : boolean array; Tl, U : integer array; s : integer; I9, J8l : integer; cgA0a, V4, OZ : boolean array; output false rem not 0 - 3 and 01 - 4 < false; when case - true + t and 79 - 6 - 9 < true : chillax end otherwise : chillax end end

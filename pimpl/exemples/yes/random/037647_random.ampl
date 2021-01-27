@@ -1,0 +1,1 @@
+program T : T : takes T : boolean array; x, HN1, y, j, qS : boolean returns nothing u : integer; Y_7 : boolean; input J end S_ : takes m, b, Ql, fP3aa, Sx1, ScT : integer returns nothing chillax end main : pop Y(99) rem true - not 177 and 399 >= (86) and 3 - 9 - 6 end

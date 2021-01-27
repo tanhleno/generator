@@ -1,0 +1,1 @@
+program Y : d8 : takes e : integer returns integer M, n, W : integer array; A, w9, s : boolean array; chillax end i7 : takes D1, R09 : boolean array returns nothing Go : integer; Nleaa, R, l : integer array; AB, F : boolean; b : boolean; _ : boolean; chillax end main : b : integer; E, o, g, q8j, I : integer array; let b = array - false end

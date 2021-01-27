@@ -1,0 +1,1 @@
+program q : e14 : takes z : integer array returns boolean O4 : boolean; c : boolean array; x2, Q, Z : boolean array; M : boolean; d5Ka : boolean; output 46 > 184 end B5 : takes Z7 : boolean returns nothing input I[2 - 49] end aWu : takes H6, e330a, h3, EW80, p9b, R : integer array returns nothing chillax end main : chillax end

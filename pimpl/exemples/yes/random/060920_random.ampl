@@ -1,0 +1,1 @@
+program iD6 : G : takes I : integer array returns nothing Lf : boolean array; aG : integer; T8a : boolean; pop - 042 - 7 end main : O, vGW, l7, v6, v, m970 : boolean array; G, s, K5, Vfl0, m7 : integer; chillax end

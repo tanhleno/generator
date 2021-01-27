@@ -1,0 +1,1 @@
+program I : u : takes c, S : integer returns nothing MN : boolean; pop end main : I, Yf, ul, p : integer; do oNo(- (7 = 8) /= (9), - O1i0a(54100) * true = - true, - not 42700 + 5 < - 8); let D6 = array - g * true and 6 + false end

@@ -1,0 +1,1 @@
+program X5J0a : P48 : takes P0 : integer returns nothing let wQr = - 738 - 2; let e1n[2 - 9] = 2 = 505 end main : b8, F4Ra, c32aa : boolean; L9pa, L : boolean array; v : integer array; input EkMaa[C[0] or true rem not 13800 + (8) + 0 - 7] end

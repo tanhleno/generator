@@ -1,0 +1,1 @@
+program a6 : a2C : takes O : integer returns integer array input p[not 21 + 384 - 4]; when case 3540 : pop end case 79300 = 1 : pop; pop end case 79 : pop end case 4340 : chillax end end P3 : takes Hd, c : integer array returns nothing chillax end main : o8Jaa : boolean; chillax end

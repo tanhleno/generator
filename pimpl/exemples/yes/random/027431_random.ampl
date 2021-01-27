@@ -1,0 +1,1 @@
+program AA2 : j : takes e160a, v : integer array; v, J, N : boolean returns nothing byb0a : integer; Qj : integer; SH, w : integer array; chillax end main : input q3Qaa[- not(1) + true rem not 4] end

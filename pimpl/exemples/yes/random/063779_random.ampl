@@ -1,0 +1,1 @@
+program O : h : takes q4 : integer returns nothing chillax end B3 : takes U : boolean array returns nothing kl90a, J, i : integer array; output "(" . "" . 1 end main : P, u, Y : boolean array; when case false / false or true and Y and 4600 - (73) and 5 + 169 - 2 <= - (1) rem l - 4 : let ETg[- 6 - 968] = array - 6 - 8370; pop 8 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program i : main : h4, k : integer array; r, A9, G : integer array; B : boolean array; Q7 : boolean array; let wl0 = array - false / iOw(8) + w4(8); let M[- 4 * not 730] = array h8 rem true and 629; input m end

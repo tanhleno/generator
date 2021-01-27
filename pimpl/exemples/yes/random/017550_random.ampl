@@ -1,0 +1,1 @@
+program i9Da : r : takes A, USsaa : boolean; frl0, C73 : integer returns boolean array j, wpB0a, P, R : integer array; p : boolean; chillax end main : output "" . (2) + 3 . - 554 - 84 = 39 . 17 = 4 . "" . "" end

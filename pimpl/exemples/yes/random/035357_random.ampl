@@ -1,0 +1,1 @@
+program VM5 : Q5 : takes L : boolean; F5 : boolean; H, r, Op : boolean; t : integer returns nothing chillax end k : takes t60aa, f : boolean array; a1laa, Qd, h : boolean array; sAO0 : integer returns integer array chillax end main : do V(- false or true < - true or false and 3 or 9, true - false) end

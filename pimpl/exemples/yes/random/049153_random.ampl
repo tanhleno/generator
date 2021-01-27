@@ -1,0 +1,1 @@
+program An : l : takes s : boolean returns nothing when case 695 and 0 > 994 : chillax end end U590a : takes ze10, Y : boolean array; Z3 : integer array; h8, UT80a : boolean; Z, c, i, i : boolean array; s1H0a, Fi : integer returns nothing P83 : boolean; chillax end main : chillax end

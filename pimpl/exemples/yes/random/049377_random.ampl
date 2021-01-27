@@ -1,0 +1,1 @@
+program icd0 : N : takes X : integer; d4, Q, p0, W, g0 : boolean; y4 : integer array; N6 : boolean array; j, h : boolean returns nothing K, bx : boolean array; hJH : integer; chillax end g : takes wo : integer; mp : integer returns integer p : integer; chillax end main : k0da, C : boolean; chillax end

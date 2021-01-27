@@ -1,0 +1,1 @@
+program m3j : s8L : takes x1Zaa : boolean; g : boolean array; t : boolean array returns nothing V3 : integer; output ""; do C8h(8 - 7, 28 = 40, 51, 22) end l : takes NgY0, N : boolean returns nothing X, T : integer array; while - 66 - 8 /= 19 : chillax end end main : R : boolean; W : integer array; chillax end

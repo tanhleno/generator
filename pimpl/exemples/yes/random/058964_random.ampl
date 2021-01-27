@@ -1,0 +1,1 @@
+program Vz : T : takes Fk : integer array returns integer array m : integer array; output 04 - 512 . "=" end np : takes G6, K, P, a, Pd : boolean array; wA3, Cf : boolean array returns integer Jq, u : boolean; MF : integer; chillax end main : chillax end

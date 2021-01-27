@@ -1,0 +1,1 @@
+program g : s : takes URva, s : boolean returns boolean array F43, eO, asraa : boolean; chillax end main : Q3w : boolean array; when case true / true / (5) and 25 - true and(56) : input jjx[- 502 - 06] end case false = false and 61600 + 9 - 7 : chillax end case H and 5 : while 2 : chillax end; while 9 : chillax end; do w(3); pop end otherwise : chillax end; input T end

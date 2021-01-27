@@ -1,0 +1,1 @@
+program hL : main : J : integer array; s : integer array; c960 : integer array; do u(- N5T0a); let Q9[u(44100)] = (34) and 31; do X(false or 2 /= 25800, 8 /= 59, 5); when case 29 - 6 : when case 1 : chillax end; when case 3 : chillax end; pop end case 6 = 9 : chillax end otherwise : let H = 36; pop end; input R3; while 982 : chillax end; let S030a = 7; output "(7"; pop end

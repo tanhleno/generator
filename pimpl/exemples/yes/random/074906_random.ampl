@@ -1,0 +1,1 @@
+program W : main : eG8, w : boolean array; H, Q24 : integer; input F9M0a; when case false or 2 or 4 - 4 : chillax end case - (197) and 8 + 4880 - 4 /= 9 - 0 : do TG(88, 8); output "" end case - 031 - 9 : chillax end otherwise : do t8(3); pop; output "#0aa" end; pop; when case 1 = 5 : chillax end; pop 78 end

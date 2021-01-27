@@ -1,0 +1,1 @@
+program b : main : c84 : integer; dd6, N : boolean array; let t[- false / (9400) * not 6 + false / i6 and 4 - (8) and 0 or 913] = array - false * EY(9); let nM[- 6 and false and 99 or(57) and 2] = false - 6700 - 5; when case - (8) : let y = array 223 end case - 8 - 7 /= 1 : chillax end case 1 : pop; pop end otherwise : input z; do y(4) end; let HX7a = 6 = 2 end

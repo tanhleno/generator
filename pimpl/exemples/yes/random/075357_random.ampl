@@ -1,0 +1,1 @@
+program G0 : main : m, q3 : boolean array; m : integer array; pop true + true and 5; while - 7 * Pg /= (65) : chillax end; while - (061) - 29 - 2 : while 218 : pop end end; when case - 0 : let Px = 0 end otherwise : chillax end; let w[8] = 9 end

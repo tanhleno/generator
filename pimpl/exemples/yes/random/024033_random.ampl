@@ -1,0 +1,1 @@
+program Qv : o290 : takes d3U, c5 : boolean returns nothing chillax end main : qp, i35 : integer array; z, C, a : boolean; b, D : integer array; l, r, M8 : boolean; ws : boolean array; l : boolean; D : boolean; let G[- false and true] = array - _[17]; when case(7) >= - not 6 and 2 or 27 - 414 : do Z66(3) end otherwise : input k[3]; let h = 91 end; input g0M end

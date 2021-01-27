@@ -1,0 +1,1 @@
+program a8 : vu : takes E : integer array; e5, H, m0 : integer array; Bw_ : integer array returns nothing K : boolean; when case - true and 8 > - 46 - 06 : input g1 end case - 1 /= 593 : chillax end otherwise : chillax end end main : chillax end

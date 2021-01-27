@@ -1,0 +1,1 @@
+program B : QS : takes L, oq8 : boolean array returns integer pop 115 - 62 > 699 end o3 : takes D2, T : boolean array returns integer array chillax end N5 : takes Z, I : integer returns nothing chillax end O : takes H, a, k, oJ, e92 : integer returns nothing when case 5 : chillax end otherwise : chillax end end main : chillax end

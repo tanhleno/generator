@@ -1,0 +1,1 @@
+program I : BL : takes w : boolean array returns integer array when case X or 6 - 5 > 247 : when case 1 : chillax end otherwise : chillax end; do x(3) end otherwise : chillax end end main : chillax end

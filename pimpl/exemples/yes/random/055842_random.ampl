@@ -1,0 +1,1 @@
+program p : KBO : takes o2 : integer array; t42a : boolean array; wBs : boolean; G, H, IP : integer returns boolean array chillax end main : do s4(- Z and(197) - not false * G2 and 2 + rCB + 99, Q[3] >= - not 6 and 20300 + 006 - 5, - 0950 and 1 /= 0 - 28) end

@@ -1,0 +1,1 @@
+program r2 : R : takes V1 : boolean array returns boolean G2 : integer array; n : integer array; P : integer array; chillax end main : while - not KA[2] rem Rh40(2) >= false * not 1 and 3 : do K290(5, 6 = 05); let M9iaa[1] = array 4; when case 4 : chillax end case 55 : chillax end otherwise : chillax end; do y(91); let Pf8aa = 70; pop end end

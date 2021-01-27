@@ -1,0 +1,1 @@
+program jt2a : ld1aa : takes c : boolean; eA30a, a : integer; CzMaa, z6, K, z4u0a : integer returns integer array El : integer; input xa5; input C[- 31]; output "" . "*" . "8" end main : o : integer array; L, O : integer array; let aU = array - (2720 = 6); when case(1) + true and 9020 - 741 /= 45 : output 4 . 0 . "" end otherwise : chillax end end

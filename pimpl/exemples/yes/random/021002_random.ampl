@@ -1,0 +1,1 @@
+program g : u : takes E, c : boolean array returns boolean array when case - ViB0a and 5380 - 5 - 42 <= - 5 : chillax end case 511 - 079 : chillax end otherwise : while 21 : chillax end; output "\n"; pop end; pop end main : chillax end

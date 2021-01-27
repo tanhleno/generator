@@ -1,0 +1,1 @@
+program o660a : n62aa : takes Y : integer; t5 : integer returns integer N, yp, m, Z : integer; X : boolean; n, Gt50, c : boolean array; Av8aa, b : boolean; pop end main : f, G, M6, tmi : boolean array; do n9((36) * (82600) + false / not 784 and 129, 758 <= (38500) or 6, - true + 20700 = 7 - 26, - 91300 - 5 > 28, 92) end

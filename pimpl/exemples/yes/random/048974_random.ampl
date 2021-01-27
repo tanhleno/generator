@@ -1,0 +1,1 @@
+program E : V : takes J : boolean returns nothing output - 0 >= 6; let F = array - 3660; output 8 . "I6aa"; do p(428, 9); do G(86); while 403 : chillax end; pop end u : takes u : integer returns nothing x00, EJ, Mj : integer array; let N6[- 1410 - 1] = 5; pop 3 end main : ul0, AW, r2 : integer array; chillax end

@@ -1,0 +1,1 @@
+program WTwaa : A : takes N : integer; i, W, g, m : integer array returns boolean array K, n : boolean array; S, d2 : integer array; chillax end C : takes aV : boolean array; i, l : boolean array returns boolean array c : integer; do OD1(- 50 - 36) end O : takes e : integer array returns boolean p1, n, Z : boolean; chillax end main : fv, kG : integer; chillax end

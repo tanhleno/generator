@@ -1,0 +1,1 @@
+program W : g : takes w : boolean array returns boolean array output - 4 - 1 /= 58; when case - 9 > 00 : chillax end otherwise : pop end; while 6 : while 6 : chillax end end; do v0ra(3); do i9w(4); when case 1 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program W : O : takes Su : integer; yt, H : boolean; AJ : boolean array; z27, D, W5 : boolean array returns integer array H, t6aa : boolean array; e1, hg70a : integer; r9raa : boolean array; when case - 3 and 150 - 14 : do p7Ja(6) end end main : chillax end

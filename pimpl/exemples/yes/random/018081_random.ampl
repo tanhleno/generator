@@ -1,0 +1,1 @@
+program t5 : DV00a : takes S1, S : boolean; Z : boolean returns nothing when case true and 7 - 2 : chillax end otherwise : chillax end end main : XW, Q6 : integer; R0_aa, X6S : boolean array; chillax end

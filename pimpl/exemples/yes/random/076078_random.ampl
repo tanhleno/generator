@@ -1,0 +1,1 @@
+program S2 : main : y, N : integer; BR6aa, X : boolean; pop - not G + not 6 and 38; when case not true + false : let j = array 9 end case - not 32 and 659 < 08 : chillax end case - 5 - 7 : input k; let r = 59300 end otherwise : let u[52000] = 9 end end

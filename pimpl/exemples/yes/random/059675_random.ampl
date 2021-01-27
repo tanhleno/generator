@@ -1,0 +1,1 @@
+program T2 : K : takes Xvz : integer array returns nothing chillax end x : takes lW, d, R7 : boolean returns integer array chillax end z42aa : takes R, x : integer array returns nothing d, u2, eP7 : boolean; kQ : boolean; w : boolean; do FD(30 = 7) end main : g6Q0 : boolean; input s5 end

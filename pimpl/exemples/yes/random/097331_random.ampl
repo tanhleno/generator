@@ -1,0 +1,1 @@
+program ZZT0a : main : when case 8 + false > q[4] * O and 4 or true and 3 + 4 : chillax end case - not false * (8) and 0 > - 87 : chillax end case false and 47 : do gIm0a(3, 5); do U6(2); when case 11 : chillax end end; do L1(2 and true and 99 = true and 86, (73) - 2 <= - 82900, - 82 - 1, 39 = 1) end

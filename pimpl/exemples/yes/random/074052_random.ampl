@@ -1,0 +1,1 @@
+program Hmtaa : main : O, ac : boolean; Y : integer array; dpPaa : integer array; J : integer; when case - not 6 <= M1V0[1] and true and 8 or not 6 and 0 or 7 - 1 : while 81 <= 492 : while 068 : chillax end end end case - false + 7 + 3 >= not 95 and 2 : chillax end end

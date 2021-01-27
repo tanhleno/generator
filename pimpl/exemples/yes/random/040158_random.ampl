@@ -1,0 +1,1 @@
+program E : v : takes te10a : boolean array; ki : boolean array returns nothing c, q33, k : integer; when case 353 and 2 >= 8 - 7 : chillax end case 2 : do a(4); while 8800 : chillax end; pop end otherwise : do y880(49) end; input PT end main : SIM : integer; G : integer; chillax end

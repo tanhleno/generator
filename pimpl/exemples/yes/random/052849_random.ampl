@@ -1,0 +1,1 @@
+program M : dSz : takes DVza : integer; l : integer array returns boolean array chillax end _ : takes q16, U, p : integer returns nothing output "" . 4 end B2f : takes T2z, o4, w : boolean array returns nothing Mv, V02 : integer; Nsp : boolean; chillax end main : LY, C : boolean array; chillax end

@@ -1,0 +1,1 @@
+program J8E0 : d : takes r : integer; Nk : boolean returns integer array p : integer; do M(- 3 and 3 or 1, - 11 - 1, 6 = 5, 2, 52) end n8 : takes Xm : boolean array returns boolean l, O8 : integer array; chillax end main : H3, O34, n : boolean array; chillax end

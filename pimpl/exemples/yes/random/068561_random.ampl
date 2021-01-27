@@ -1,0 +1,1 @@
+program WH : main : Y7D0a, K, B2F, DW3, C, k : integer array; w, F97, i, W, w, D : integer; pop not FJ * false and 4 - 219 or 8 - 35 < false and 6; output - 7 or 6; do k9Ea(not 48); do p(70, 159 = 72500, 425); let z = array 17; when case 345 : chillax end case 9 : chillax end; when case 1 : chillax end end

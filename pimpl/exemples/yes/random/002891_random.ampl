@@ -1,0 +1,1 @@
+program E : KgF : takes p, d, L, A3, p : boolean returns boolean array t : integer array; chillax end D87 : takes Z0r0a, U, f2, o, x : boolean array; m85 : boolean array returns nothing chillax end ZRMa : takes U, Aa1 : boolean array; Xn : integer; r9 : integer returns integer chillax end main : chillax end

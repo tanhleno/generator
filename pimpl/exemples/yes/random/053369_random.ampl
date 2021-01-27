@@ -1,0 +1,1 @@
+program l : d3 : takes p32a : integer; u : integer returns nothing pop 3 - 2; pop end k : takes B9L0, _L0 : integer returns nothing input qz[- 12]; pop 0 end ZSi : takes I : boolean; sc5 : integer array; PM : boolean; F : integer; YfF0 : boolean; _4K : boolean returns boolean chillax end main : do r(Gh30a[795]); while - false rem 6 : do l3(8020) end end

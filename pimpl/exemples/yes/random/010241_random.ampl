@@ -1,0 +1,1 @@
+program i_90a : q : takes B, D, R7W : boolean array; F6c : integer; e, Y79, w, n9c, I : boolean array returns boolean chillax end main : let Q = not P1 / 3 = - FI and 51 + 84700; pop; let i_[- true] = array false; pop end

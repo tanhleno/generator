@@ -1,0 +1,1 @@
+program x82 : B : takes c03a, r, iD, Y0 : integer returns nothing chillax end abe : takes B, W : integer; iX, y, o : boolean; KR, j : boolean array; D : integer array returns integer array chillax end main : PKE0a : boolean; p : boolean array; input VH2aa[(5) or q_9(8)]; do i(not 7 and false or(8) and 04 + 40 - 90 >= true + 047, false or 2 - 634 >= - 571, - 9 - 40) end

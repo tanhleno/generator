@@ -1,0 +1,1 @@
+program O : x : takes eHA, Y, o : boolean; mAJ : boolean array; C530, S3Raa, qb9aa : integer array returns nothing z70 : boolean; while(5) and 1110 : when case 48200 : chillax end case 65 : chillax end end; let o6[2] = 71 = 445 end main : chillax end

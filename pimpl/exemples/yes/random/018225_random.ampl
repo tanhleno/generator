@@ -1,0 +1,1 @@
+program Je : K4 : takes I, g : boolean; x9 : integer array; q, l, Q, F, Y, yOi : integer; v9I : boolean; f : boolean array returns nothing input oG7aa; while 51 - 64 : when case 89 : chillax end end; pop 6090 end main : _5, k, It30a, H1 : boolean; V210a, F5, O6Na, z, n53 : integer; chillax end

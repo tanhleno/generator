@@ -1,0 +1,1 @@
+program w6 : main : w3, c, z : boolean array; lz, Pj, z : boolean array; zM, _, n, j2, n7K : integer; pop; output "m\n\"" . "~" . "" . 5 . 84 . "+"; let P[9 and 27700 - 97 - 699] = array - (23) + 3 - 4; while 534 : chillax end; output 4730; pop end

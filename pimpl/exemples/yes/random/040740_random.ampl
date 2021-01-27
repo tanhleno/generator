@@ -1,0 +1,1 @@
+program I : K0V : takes ky4 : boolean array; ZC : integer array; P, z, h, U7e, g : boolean array; R4, D : integer; x : boolean array; P : integer; u, R : boolean returns boolean chillax end main : T : boolean; pop end

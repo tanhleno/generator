@@ -1,0 +1,1 @@
+program w : z : takes K0, laK : integer array; Oy, p : integer; Ed6aa, p : boolean; mF, tqL, M : integer; m6 : integer returns nothing y : boolean; C, lG80, hX, x09 : integer; while true and 58 + 67 - 2 = - 97200 : do U2(5); pop end; when case 5 - 7 : when case 8060 : chillax end end otherwise : when case 83 : chillax end; pop end end main : input Q end

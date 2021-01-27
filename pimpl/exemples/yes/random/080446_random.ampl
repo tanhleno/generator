@@ -1,0 +1,1 @@
+program M : main : I : boolean; when case 2 + true >= - false or false : do _(- 9 - 92); while 59 = 36 : let a0 = 92 end; output ""; output "!L"; output "Q"; pop end otherwise : chillax end; when case E940 rem false : chillax end case not 95 : while 590 : pop end; output ""; let k360a = 4 end case - 9 : pop end; when case - (7) - 8 - 8 : chillax end end

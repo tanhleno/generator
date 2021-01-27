@@ -1,0 +1,1 @@
+program nk : main : y0d0a, dj0 : integer; when case true * 5 * 82 and 1 - false and false and 7060 : chillax end case - 62 - not 6 and 38700 >= 69 : chillax end case(5) or 47 : chillax end otherwise : chillax end end

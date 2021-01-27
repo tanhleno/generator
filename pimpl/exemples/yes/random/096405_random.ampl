@@ -1,0 +1,1 @@
+program g : main : when case - 3 / (7) / u : when case 9 - 248 < 42 : chillax end; while 6 : chillax end; pop 2 end case w(8) rem 87 and 9 - 8 and 5 : output 41; output ""; pop; while 29 : chillax end end otherwise : when case 49400 = 3800 : chillax end end end

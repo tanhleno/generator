@@ -1,0 +1,1 @@
+program a : ii : takes Y6, O : boolean array; x6Faa : boolean; x, V : integer returns nothing let u = array(1970) and 1; while 02 - 7 : output ""; while 1 : chillax end end; do k(0 = 7) end S : takes U : boolean returns nothing chillax end main : input i end

@@ -1,0 +1,1 @@
+program vpWa : WV40 : takes o, d620a, Xqr0, m8, zS, kUV : boolean; Enh : integer array; O, m : integer; I : integer returns boolean chillax end W : takes Ex3, i, E4d : boolean array returns nothing chillax end F030 : takes a8, J, k : boolean returns nothing o, z, y : integer; f5 : boolean; CQ3a : boolean; output 93800 end main : chillax end

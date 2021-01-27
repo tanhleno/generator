@@ -1,0 +1,1 @@
+program D : aJea : takes B : boolean; I, q8, v0 : integer; q, A2, P, Y, e85aa : integer array returns nothing when case - not 5010 - 5 - 6 = - 88800 : chillax end case 6 - 1 : let QYQ = 3 end otherwise : chillax end; when case 0 < 4 : chillax end case 1 : chillax end case 97 : chillax end otherwise : chillax end end main : Vf, J, c, Qn : integer; chillax end

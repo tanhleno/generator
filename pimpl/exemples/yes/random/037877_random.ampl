@@ -1,0 +1,1 @@
+program C : P : takes S : boolean array; sF2aa, D4, W, E530a : integer array; I : boolean array returns nothing a5Oaa : integer; chillax end q : takes X : boolean array; f : boolean array returns integer array do L(7 = 0) end main : a, G, b : boolean array; let oG0 = - not N99aa + false and 1 end

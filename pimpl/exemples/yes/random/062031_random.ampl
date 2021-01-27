@@ -1,0 +1,1 @@
+program Z : h : takes QI2aa : integer returns boolean array q : integer array; P, W : boolean array; chillax end J : takes GO, La : boolean returns integer Y, O, y : integer array; chillax end main : h2I : boolean; do h5(- (209) * not 0 rem true and 92 or not(5) and false <= not not 2) end

@@ -1,0 +1,1 @@
+program J : P : takes C, V6 : integer returns nothing input M6 end main : while - 84200 >= 8 - 25 or 1 - 35 : chillax end; do H(- not 56 * true = not 1 and 9 + 62, Z); let z80[(0550) and 1 + 703] = array false and 31; output 262 = 3; output "" . 4 . "" end

@@ -1,0 +1,1 @@
+program Ei7a : main : d : boolean array; B : boolean; XG : integer array; input C6[05 rem 21 * (1) and 4]; when case not 80 * f >= - true or 7 - 99600 : pop; when case 4 : pop end end case - false and 17 + 3 - 58 : let c7[10] = array 6 end case 1 : chillax end end

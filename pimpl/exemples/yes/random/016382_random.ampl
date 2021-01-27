@@ -1,0 +1,1 @@
+program ljX : e6 : takes p, U, kgM : integer returns nothing O, c : integer; p, b4J : boolean array; let t[(703) + 70200] = array - true and 69; while 7420 < 5 : input x55a end; while 256 = 3 : pop; pop end end main : let a1 = array 9 * true or(86) - not 10; output - (8620) and 9350 - 2; output ""; while 59300 : when case 7 : chillax end; while 0 : chillax end; pop end end

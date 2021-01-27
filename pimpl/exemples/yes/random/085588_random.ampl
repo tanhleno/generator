@@ -1,0 +1,1 @@
+program beu : main : w56 : integer array; _, R9, _, m, I, e7 : integer array; L, G2 : integer array; C : boolean; Utfa : boolean array; when case true and 898 * true + not not 62 : chillax end otherwise : chillax end; input x[- false / false and 32] end

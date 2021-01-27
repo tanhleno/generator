@@ -1,0 +1,1 @@
+program a : main : output not S9 - J >= (0840) and 03; when case - 1 / 0 and 1 < (1) or 02 - 85700 : chillax end case - false and 0 : pop; when case 629 : chillax end end case 363 - 32400 : output ""; input Q end; do b9s(89 + 1 - 311, - 4 - 72, 4); pop; when case 71 = 0 : chillax end case 1 : chillax end case 5 : chillax end end

@@ -1,0 +1,1 @@
+program c : _0 : takes c : integer array; h, H, i, ro : boolean array returns boolean when case true and 0 >= 6790 - 13100 : while 24100 : pop end; while 8 : chillax end end case 69 : do oW(5); when case 5 : chillax end end case 0 = 55900 : do m(416); pop end case 50 : pop end; while - 3 - 3 : input _ end end main : I, E6P0a, j : boolean array; input y[C(480)] end

@@ -1,0 +1,1 @@
+program L2Va : main : W : integer; m : boolean; input m[true and(28) rem not 29200 and 962 - true]; pop true and 93 = - 5; do X7(- (23) and 9 /= - 2 - 178, 33 <= 6); while - 399 > 5 : chillax end; while 5960 = 95 : chillax end; input b[63]; output ""; pop end

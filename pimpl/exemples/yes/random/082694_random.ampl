@@ -1,0 +1,1 @@
+program I : main : w : boolean array; when case - not false or false <= true : chillax end case - (5) or false + 7 - 8 : output 1 . 5 . "" end case 3 and 2 - 76 : chillax end case 1 - 935 /= 96600 : chillax end case 807 : chillax end end

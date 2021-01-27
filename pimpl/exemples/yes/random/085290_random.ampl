@@ -1,0 +1,1 @@
+program B : main : V49 : integer; while - P(0, 9) * f - true >= - true : chillax end; input m[- (2) rem qN and 52 - GV + 3 - 5250]; when case - true : output 599 . "" end; do l(50 - 29800); output 74 . 6; output 166 . "\""; let n = 3; do r47(4); pop end

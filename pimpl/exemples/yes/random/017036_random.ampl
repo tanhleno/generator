@@ -1,0 +1,1 @@
+program R5 : c : takes K7, V : boolean; KCz, i4, P : integer; Cp : boolean; P, I8 : integer array returns boolean z58 : boolean; while - vY and 9 - 61 - 1490 : chillax end end main : when case(36) * true rem not 9 or not(11) and true and 14 : chillax end; pop end

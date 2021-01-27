@@ -1,0 +1,1 @@
+program E : f5 : takes r, j3 : boolean array returns nothing chillax end OA : takes P, On20a : boolean returns nothing when case 1 - 5 : chillax end otherwise : when case 09800 : chillax end; pop end; let q770a = array 2 end main : m : integer array; output - false <= - false + 7500 end

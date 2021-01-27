@@ -1,0 +1,1 @@
+program y6 : S : takes P : integer array; XF80a : integer; F5 : boolean array returns boolean a37, o5, D, O4, UEL : integer array; Ou00, T : boolean array; L, TJ : boolean; output "/\"" . 5 . 8 . "\n0" . "Y\n!a" end w76aa : takes s6, C : boolean returns nothing z, YW9, l : boolean; J9, E, V : boolean; chillax end main : chillax end

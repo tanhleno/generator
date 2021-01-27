@@ -1,0 +1,1 @@
+program buma : v : takes k : integer array; Gr, oe3, x_8, y : boolean returns boolean V, h : integer; Hq : boolean; while - true or 8 : chillax end; while 67 : chillax end; output 16 . "" end main : zE7 : boolean; pop true and(6) and 6; when case - not not 22100 rem(6) : chillax end otherwise : do B55(3, 1) end; output ">"; while 39 - 8 : input xDc; pop; pop end end

@@ -1,0 +1,1 @@
+program Rwt0 : k920 : takes O : integer returns nothing chillax end u14aa : takes T88a : integer; d, J, q : boolean array returns nothing s : boolean; A3, c0x, Ti : boolean; chillax end tm5 : takes o : boolean array returns nothing P9z : boolean; let m = 7 end main : a590, _, A, fg : boolean; JN, V : integer; b : integer; output "[9" end

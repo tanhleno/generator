@@ -1,0 +1,1 @@
+program w : z : takes n : boolean returns boolean e, o, YH8a, FQ : integer; when case - not 3 and 429 + 9710 - 1 >= 91 : while 159 : pop end end case - 38 : while 50 : chillax end; output "8i"; pop end end main : chillax end

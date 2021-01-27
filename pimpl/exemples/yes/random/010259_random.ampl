@@ -1,0 +1,1 @@
+program I : NyW : takes R, i2, f : boolean array; sG00a : integer; e06, f : boolean returns nothing U9, H, Bg0, M : integer; pop; while 2 - 7 : chillax end; when case 08 = 71 : pop; pop end case 3 : pop end case 0 : chillax end otherwise : chillax end end main : gK80 : boolean array; n6, u9, b, B : integer; W : boolean array; chillax end

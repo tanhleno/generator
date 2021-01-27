@@ -1,0 +1,1 @@
+program V8t : X8 : takes a : integer array; g3, g_c, r : boolean; L : boolean array; z : integer; v, d, Z, m7W0 : integer array returns integer array UP, t, r : integer; gB0 : integer array; K, mU : boolean; chillax end b3 : takes w0, l9, k : boolean returns integer C2x : integer; while - 9 - 175 : let W = 1; input L; pop end end main : e6gaa, xi, _, _m : boolean; chillax end

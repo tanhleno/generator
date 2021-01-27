@@ -1,0 +1,1 @@
+program _G : main : w3k : boolean array; xS6 : boolean array; E : boolean; y : boolean; input g[false / true / false + false and not 6]; when case - BD(1) or not 8 : chillax end case(92) + 357 - 59 = 8 - 0 : do pr2aa(7) end case 0210 = 1 : output "Y8" end case 75 : let T620a = 8; pop end case 114 : pop end case 87300 : chillax end otherwise : input x end end

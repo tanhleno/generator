@@ -1,0 +1,1 @@
+program HZX0 : U : takes X : boolean array; P, q, elv0, Q6, z84, SJR0a : integer; _4, hl : integer array returns integer pop; let E[- 0 - 3] = 1 = 41 end main : E, X : boolean; m : boolean; input A22[true / true / false and 2460]; when case false : do Ot3(9 = 7590) end; let S[90800 or 4460 - 5] = array _4 or 217 end

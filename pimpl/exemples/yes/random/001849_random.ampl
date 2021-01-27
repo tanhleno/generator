@@ -1,0 +1,1 @@
+program z : Q : takes NY6, p, w42, TG, e4N, E0 : integer array returns boolean array chillax end Q : takes z510a : integer array; NBj0, n : boolean array returns boolean o9, VO : integer array; GU, N4 : boolean; A, Vb4 : boolean; eW0aa : boolean; let Y = array 627 end main : W1Kaa, r : boolean; when case 6 : chillax end otherwise : pop end; output - Q42 end

@@ -1,0 +1,1 @@
+program R270 : mV7 : takes CD : integer returns boolean array i8 : integer; g : boolean; jH00, U1 : boolean; OC : boolean; U : boolean; chillax end main : input Ma; while - w * true and 0 - false : input Ip5a[0] end; pop end

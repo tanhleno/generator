@@ -1,0 +1,1 @@
+program aJ : D1 : takes k : boolean; b1 : integer returns boolean array g, r7, Q : integer array; A : integer array; H, Wh00 : boolean; let Y[- true + 1740] = array - 12; while 4 = 3190 : chillax end end main : B7, ds : boolean array; chillax end

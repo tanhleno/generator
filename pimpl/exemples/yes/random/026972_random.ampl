@@ -1,0 +1,1 @@
+program D : n : takes i, r_X0 : integer; g : integer returns nothing u, o : boolean array; chillax end main : p : integer; p : boolean array; while - q[07] + not(0) : let y190a[9 - 5] = 87 = 3; while 19 : pop; pop end; input V[30200]; output "\tC"; while 81 : chillax end end; let KM = - true <= - 510 - 31; while - (1) : while 41 : chillax end end end

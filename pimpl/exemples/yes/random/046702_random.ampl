@@ -1,0 +1,1 @@
+program O : n : takes G64 : boolean returns integer array a : boolean array; input P9[kK and 3]; while - 25 : chillax end; while 07 : chillax end; do C(41) end main : t1, R : boolean array; chillax end

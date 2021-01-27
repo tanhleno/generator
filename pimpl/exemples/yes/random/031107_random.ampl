@@ -1,0 +1,1 @@
+program h : wI : takes Tt, r : integer array returns nothing when case - true and 07 or 29 - 013 : chillax end case - 336 > 6 : chillax end case 8 = 23800 : chillax end case 2 : chillax end otherwise : when case 7 : chillax end; do o0Yaa(72); pop end; output 950 = 9 end main : C, xn : boolean array; C3C, ce, I0G : integer; chillax end

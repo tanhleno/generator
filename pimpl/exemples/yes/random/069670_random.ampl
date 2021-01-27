@@ -1,0 +1,1 @@
+program p : main : f, V, D, e : boolean; when case true * u[7] * 9 : pop end case - Q[8] / false /= (855) + 5 : when case 613 = 9 : chillax end case 858 : pop end case 7 : chillax end end; output - (7) - 0 . 61 - 9 . "6" end

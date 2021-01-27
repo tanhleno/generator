@@ -1,0 +1,1 @@
+program Nps0 : J : takes ho80, gPc, P : boolean array returns nothing chillax end C9 : takes C : boolean array returns nothing chillax end main : B : boolean; hi : boolean; pop - true and false; pop end

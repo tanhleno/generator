@@ -1,0 +1,1 @@
+program q : iZ80 : takes NI, h, L8, L45 : integer returns nothing chillax end jhq : takes H : boolean array; B, w : integer; k : integer; s9k, vuQ, I : boolean array; L, qOP0 : integer returns nothing VM : integer; chillax end main : u9 : integer; let u = array F(808, 0); pop end

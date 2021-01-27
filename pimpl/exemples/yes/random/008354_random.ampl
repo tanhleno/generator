@@ -1,0 +1,1 @@
+program b4_ : O : takes N, _g9, m, BX : integer returns nothing e15 : integer array; QQ : boolean array; chillax end Tb3 : takes tUp, tBK : boolean array returns boolean pB : boolean; chillax end main : M, fp : boolean; bH, Qa, W : boolean; chillax end

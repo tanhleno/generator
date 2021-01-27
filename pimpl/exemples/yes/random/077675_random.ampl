@@ -1,0 +1,1 @@
+program pq30 : main : N, UB7 : integer array; q : integer; pl8a, BrC : integer; A4E0, dIB, T, e8 : integer; u9, vx9 : boolean; B, N : boolean; Y : boolean; when case not false and(582) rem(0) and 4720 = false - true and 10 : chillax end case(2) rem 7 : chillax end end

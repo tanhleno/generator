@@ -1,0 +1,1 @@
+program N : N : takes Td, I75a : integer returns boolean chillax end l : takes h : boolean array; Cu80a, oNH0a : integer array returns integer array chillax end main : when case 49 and 8 + 3 <= (95) - X and 8620 : chillax end otherwise : chillax end; when case - true or 437 > - C6 and 46 : chillax end case 3 /= - 98 - 1330 : output 6 . "" end case - 7 /= 657 : chillax end end

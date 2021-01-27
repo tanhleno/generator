@@ -1,0 +1,1 @@
+program GH : NY4 : takes _V : integer; T62a, cS_, c, v : integer returns nothing DF2a, RDI, My4 : integer; l : integer; K : boolean; TY, x0 : boolean; chillax end Z : takes Q1y, Z, P9, M, n : boolean returns nothing pop 2 = 2; let m[2] = array 5; input q[8]; let w = 7; let wJ = 5 end main : Y : boolean; chillax end

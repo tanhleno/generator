@@ -1,0 +1,1 @@
+program Z : Z : takes s : boolean array returns nothing z87 : boolean; while g5Daa and 91900 < - 556 - 66 : chillax end; input M4; output 88200; output 356 . "" end main : sp : integer array; V, yfh : integer; C, T : boolean; W : integer; pop; output "" . - 3 - 2 > 0 end

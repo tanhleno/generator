@@ -1,0 +1,1 @@
+program K : G : takes J : integer array returns nothing while - true > - 6 - 6 : while 9 : chillax end end; when case - 60 - 8 : chillax end; let y = array 21; output 1; while 92 : chillax end end main : q, HBM : integer array; chillax end

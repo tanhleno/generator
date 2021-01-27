@@ -1,0 +1,1 @@
+program R1Y : I : takes Yv : integer array; N : boolean array returns boolean chillax end main : T, Iv, N3 : integer array; x : integer array; d : boolean array; let b = - 6 rem n and 14; do wl(4 /= - 3, false and 1, - 8640); while D3fa and 6120 >= - 6 - 38 : chillax end end

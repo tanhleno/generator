@@ -1,0 +1,1 @@
+program q2 : X : takes K2, h, M3Raa : integer array; B, S, o, LE : integer; z, m : boolean; tCK : integer array; NEz, tL, K : boolean array; t99, R : integer; C8A, y : boolean; VcBa : boolean returns integer e : integer; O : integer array; H : integer array; chillax end main : dt30 : boolean; chillax end

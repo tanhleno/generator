@@ -1,0 +1,1 @@
+program go30 : B3E : takes _ : integer returns integer u : boolean array; U, yU : integer array; chillax end W56 : takes I8, M : integer; f : boolean array; K86a, r4v : integer returns integer array chillax end main : pop - not(2000) rem 84 /= - 860 - 62; do y(false * (470) >= false and 1 + 6 - 0, not 0 and 6, - 45, 2, 34); output - 141 - 1 . "" end

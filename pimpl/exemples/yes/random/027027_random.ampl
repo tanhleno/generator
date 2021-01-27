@@ -1,0 +1,1 @@
+program d7 : h : takes T, _G : integer array; v, hq3, k_ra, Ir, e35a, hQy, g : integer; vn, z760, I : boolean returns boolean do q(- 409 and 1910 > - 6 - 548, - 21 - 6); let sTK[- 4 - 0] = array 3 - 55 end main : O, O1 : integer; Q, w, Q : boolean array; do nf((25) / not(1), - (87200)); let E[(0) / not 973 and 93] = true and 73 >= - 8 - 1; output "" . "\t\t0a" end

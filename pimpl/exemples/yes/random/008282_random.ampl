@@ -1,0 +1,1 @@
+program sv80 : v : takes b, Xew, O, Y0k : integer returns nothing P, Eq : integer; u, Ayjaa : integer; chillax end main : K, Pfq0a : integer array; do B((54 = 43) and not not 3 / Q20 and 3370 = (09)); when case Q4 rem false : chillax end otherwise : output "\""; when case 4 : chillax end end end

@@ -1,0 +1,1 @@
+program X5 : G5ma : takes b, i8, y, Q, X9 : integer; Yd : boolean returns nothing m4i0a, xCWaa, r, t2 : boolean array; output 856 . 80 = 4 end main : zO10 : boolean array; o, c4j0a, SL, hi : integer; K : integer array; O58a : boolean; FiN : boolean; p, kf : boolean; output "" . "" . ";ya" . 2 . 3 end

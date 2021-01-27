@@ -1,0 +1,1 @@
+program b8 : Q : takes p0b, Kx : integer array returns boolean array do T(- false and 5230 <= 79) end I3 : takes vF, q : boolean array returns boolean array chillax end main : f : boolean; m, I : integer; H, k : integer; FA, cMr0 : boolean; chillax end

@@ -1,0 +1,1 @@
+program m : T : takes XK : boolean; c3xaa, iG : boolean returns boolean j : integer array; y : integer array; output "" . 154 = 620 . "" . 9 . "Q" end main : ihC : integer; Q, R9A, e, Ae : boolean; pop; do gi(- (4) rem false >= false, r or 05 - 2) end

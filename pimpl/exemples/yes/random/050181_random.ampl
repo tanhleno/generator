@@ -1,0 +1,1 @@
+program O8 : T : takes Zmjaa : integer; J, L, l6 : integer array returns nothing KI, g, C, L, h : boolean array; d, m : boolean; chillax end d_Paa : takes Y0, uGba : integer; U : boolean array returns nothing chillax end main : output "" end

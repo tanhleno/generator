@@ -1,0 +1,1 @@
+program X4w0a : f : takes m820a, p85, l : boolean; l6Uaa, L7Xaa, b6 : integer array returns nothing input U; while - 1930 - 8 : chillax end end main : while - true - not not 8580 and not 4 and 54 - K : let j[71] = array - 60200 end end

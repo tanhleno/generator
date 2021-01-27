@@ -1,0 +1,1 @@
+program P74 : main : GG90a, wfq0, D77, j8, R, YN2 : boolean; c9 : integer array; when case - false or 0 and false and 6 /= - o4c(10) : while 8 - 6 < 72 : chillax end; let MW3a[75] = array 5; when case 68600 : pop end case 12300 : chillax end otherwise : chillax end end otherwise : output 94400; let z[2] = 3 end; do T(- not 3 * true and 918, - false >= - 19); pop end

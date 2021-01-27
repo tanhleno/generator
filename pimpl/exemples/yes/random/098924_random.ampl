@@ -1,0 +1,1 @@
+program Q : main : while - true / (23) rem(2920) - not false rem 1 and 1 : when case 337 - 5 < 1 : pop; output ""; pop end case 1950 : chillax end case 8 : chillax end case 5 : chillax end otherwise : chillax end; do FM7(194 = 1) end; let j[true rem(44) - true or 79] = - false = - 81000; input C1; do r1(600 - 337, 2, 330); input W5[8]; while 75200 : chillax end end

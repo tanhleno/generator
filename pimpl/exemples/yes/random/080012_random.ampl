@@ -1,0 +1,1 @@
+program hDj : main : i : boolean; let s[- (074 = 744) rem 1 rem(7) and 7040 + 80 + x5 - 7] = true < - false; when case not 019 * true : do Y1(97 = 01) end case - false and 802 or 70 - 58 : while 9 : pop end end otherwise : pop end; input S[- false] end

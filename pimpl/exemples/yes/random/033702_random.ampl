@@ -1,0 +1,1 @@
+program cl6a : S : takes O6 : boolean; b4, G6, O8, f : integer returns boolean input Y12aa; while - 6 = 2510 : input e; pop end; do K(79 = 1, 865); when case 2 : chillax end otherwise : chillax end; when case 9 : chillax end end main : r : boolean; M8Naa : integer; q : integer array; let _8 = (4560) * 9 and 466 > false end

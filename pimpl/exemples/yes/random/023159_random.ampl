@@ -1,0 +1,1 @@
+program u : Yq : takes V, o : boolean returns boolean chillax end main : QrM : integer array; q : boolean; V, Kr9, V8, A : integer; ZWZ0a, g, VdT : integer array; U : boolean; let M = - 8 or(8) > 29 or 4 - 0 end

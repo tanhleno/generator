@@ -1,0 +1,1 @@
+program WJ : A : takes OQ : boolean; I : boolean; W : integer; L, Q1 : integer array returns nothing u, g5 : boolean; do ha7(false and 68 - 77 <= - 9 - 7, - 1 - 5, 34) end main : input To[(7) * true]; output - true = - 0 . "" . "" . 42200 . "\"\""; output "" . "8w"; do h(- 3 < 48, 99 = 3, 4, 132); output 543 end

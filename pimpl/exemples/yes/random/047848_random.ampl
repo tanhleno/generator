@@ -1,0 +1,1 @@
+program y7W0a : iz80a : takes d : boolean returns nothing do c730a(true and 24 + 16 /= 22100 - 708); pop end C : takes D, KN, w : boolean array; k7, A, L, b, PV9, i : integer returns boolean array h49aa : integer; do r(- 3 /= 2520, 75 = 5, 744, 1) end main : As, C : integer; input zi end

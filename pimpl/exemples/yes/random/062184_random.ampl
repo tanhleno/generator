@@ -1,0 +1,1 @@
+program I9 : Z : takes P : integer returns boolean chillax end Dv : takes a0Xaa, Gqh0, x, M, Fe0a : boolean array; s, R, J, D, v : integer; L, C5 : integer returns integer array k, wIn, rI : integer array; do w(698 - 9); output 7 . 816; input he end k59 : takes PX, n, o, y1, D4Naa : boolean array returns integer array B70, r : boolean array; chillax end main : chillax end

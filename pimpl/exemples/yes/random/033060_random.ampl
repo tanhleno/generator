@@ -1,0 +1,1 @@
+program v : Qp10 : takes f, P7y : integer returns nothing output - 21 end m2 : takes l11aa : integer array; K : boolean array; d : boolean array returns nothing while - 8 - 2 : input f end end main : n77 : boolean array; chillax end

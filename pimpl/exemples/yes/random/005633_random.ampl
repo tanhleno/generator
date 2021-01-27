@@ -1,0 +1,1 @@
+program t7 : rMn : takes c, w, t1l, Z630a : boolean array returns nothing s0, E2 : boolean; when case 02 and 3 - 6 <= 9 - 5 : pop; pop; pop end case 6 - 818 : when case 5 : chillax end; while 2 : chillax end; pop end end main : chillax end

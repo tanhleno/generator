@@ -1,0 +1,1 @@
+program rYu0 : wg : takes m, k, d9o, U5F, Ku : integer array returns integer while true and 1 /= - 1 : chillax end end S8 : takes w : integer array; A, B6 : integer returns boolean do wg(- 8); pop 4 end X7 : takes f : integer returns boolean input aW[90]; input U_[94]; input d53 end main : w2Yaa : boolean; chillax end

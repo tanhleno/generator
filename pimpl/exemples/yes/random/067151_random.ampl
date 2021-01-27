@@ -1,0 +1,1 @@
+program KQ : main : do f45(b7(5, 3) + not(0) * true and 29 - true and 03 > - 43800 rem true, (5) - (6) and 0 >= not 543 - 54 - 2, - not 5 and 3 or 1 - 78 > 8 - 8, 5, 90 = 6550, 3); when case - LVt[2] - not 44 + 49 - 06 : chillax end case false and 4 /= 01900 - 4 : output "18" . "'6" end end

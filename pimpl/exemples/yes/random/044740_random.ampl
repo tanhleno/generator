@@ -1,0 +1,1 @@
+program n39 : GP : takes x : boolean array returns nothing v : integer; J : boolean; Y, ec : boolean array; chillax end E3 : takes L, _, t, l : boolean; V, kwg : boolean array returns integer a1 : integer array; I, jsl, Z : integer array; let X7 = array - 3; let m[084] = array 8 end main : ox : integer; do i5Q0(- false and false and not 3 - (9) - not 918 and 756 + 51200) end

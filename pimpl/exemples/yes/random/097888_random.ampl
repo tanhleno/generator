@@ -1,0 +1,1 @@
+program i : main : while(7 = 7) and 48 rem true and 4570 > - false and not 8 and 5440 + true and 05 : input V0; let h[23] = array 543 end; output - (5) and 9810 - 9 - 21 <= 2 - 017 . 1 . 7 = 6; output 66 - 49 > 63; when case 4 < 8 : pop; input fyya end case 370 = 2 : chillax end case 3 : pop end case 6 : chillax end end

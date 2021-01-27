@@ -1,0 +1,1 @@
+program X3 : main : _ : integer; n9u0a, r7 : boolean; ozX, hI8, EgG : integer array; gDG : boolean array; NG_, yq : boolean; I, DD : boolean; _080a : boolean; m55 : boolean; let g[- not not false rem e5 rem wP and 439] = array - (9 = 0) end

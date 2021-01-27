@@ -1,0 +1,1 @@
+program a : v : takes Y6Q, SZ : boolean array; zF, s, wS8aa, vJ : boolean returns integer array pop 3 <= 32 end I3 : takes n8x0 : integer array; B : boolean returns integer array input bS[0]; when case 1 = 04 : input E19 end case 3 : pop end otherwise : pop end end main : input d5[- P[9] and c5(3) / false - 8]; input Tu end

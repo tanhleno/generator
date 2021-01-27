@@ -1,0 +1,1 @@
+program B6 : z0 : takes NU50a, q : boolean array; P, y, y, cE, l : boolean; g0 : integer returns integer x : integer; chillax end main : do W(- true and false + not(4) or not 057 and 23 - 10, not not 8 + 41 - 5 >= true and 9 - 09600 - 2, false > 7 - 8) end

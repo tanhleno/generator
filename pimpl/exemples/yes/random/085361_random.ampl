@@ -1,0 +1,1 @@
+program Qn10 : main : U69aa : integer; while false or 7 / false + (6) and 54 : pop 71 = 19; while 24 : let R = 9 end; let XXO[57700] = array 51100; let bLo0a = 0; do ql(868) end; output - (6) and 0220 or 81 - 9 . - 46 - 52; pop end

@@ -1,0 +1,1 @@
+program N : I : takes I, n : boolean array returns nothing while false : output "\tyaa" . ""; let ASoaa = 5 end end main : output - (35) / q and 5720 or false and 4 < true; pop; do yj(false and 21700 + 62 < 83200 - 86); input Y end

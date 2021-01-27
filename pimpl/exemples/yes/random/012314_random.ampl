@@ -1,0 +1,1 @@
+program N : J : takes wW, yM3, Ne : boolean returns nothing H : boolean; m : boolean; j1 : integer; rY6, Ta : boolean; pop 5 - 49 /= 9; when case 6420 = 9 : chillax end otherwise : chillax end; pop end main : output - Y and EY1 . "<" . 9 - 5 /= 2 . 79 = 9 end

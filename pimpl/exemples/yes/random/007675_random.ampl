@@ -1,0 +1,1 @@
+program OjP : e : takes Pk, d, n, TBi : integer array returns nothing chillax end M : takes D03a : integer array; MH3 : integer; sJ : boolean array returns boolean array output "" . "" . "" . "\n"; pop; let T[11700] = 236; while 04500 : chillax end end main : chillax end

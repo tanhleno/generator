@@ -1,0 +1,1 @@
+program hNZa : uR : takes I, l9 : integer array returns integer chillax end hu : takes s, L, F : integer array returns nothing N, _1f, g0, i : integer array; pop 1; when case 4 : chillax end; do d9yaa(58, 3); input w; do t(6); pop end main : o, gk1 : boolean; output ""; do E(- false and IlK < not 83 and 0) end

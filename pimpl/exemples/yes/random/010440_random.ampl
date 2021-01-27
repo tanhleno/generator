@@ -1,0 +1,1 @@
+program Q : o7 : takes e6t, V, r : boolean array; pH : integer returns boolean when case P >= 18000 : input x[3140]; while 9 : chillax end end case 9 - 0 = 96500 : let L0 = 5 end otherwise : chillax end end r1 : takes PW70 : boolean array; z0 : boolean; NW : integer array; B : integer array; g, O : boolean array returns boolean array do K(- 1, 1, 99) end main : chillax end

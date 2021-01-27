@@ -1,0 +1,1 @@
+program xWR : M25 : takes F, R90 : integer array; I, V : boolean array returns nothing T, Y, AX : boolean array; m, y9T : integer; pop; do M(3 = 206, 1 = 873, 78); let bDw0 = 4; pop 29; pop; input C7; pop end main : h : integer array; chillax end

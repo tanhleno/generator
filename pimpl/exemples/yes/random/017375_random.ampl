@@ -1,0 +1,1 @@
+program M : Pz : takes q, Q : boolean; L1, Y6d0a : integer; hE2, X : boolean; o97aa, Fw, Vf2aa, G : integer returns nothing input h9; pop; do j(4420 = 4, 22, 9); output 4; do q(9) end main : chillax end

@@ -1,0 +1,1 @@
+program A2 : O6Qa : takes j : integer returns nothing chillax end V2B : takes K2pa : boolean returns boolean array z : boolean; Ls : integer; q, n9 : boolean; z : boolean; let X_i[8 - 1] = 74 = 448 end I4 : takes Cs20a : boolean; r : integer array returns nothing i : integer array; B6 : boolean; a : boolean; M1 : boolean; output 18 . "\t" end main : chillax end

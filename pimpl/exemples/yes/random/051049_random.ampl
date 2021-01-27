@@ -1,0 +1,1 @@
+program Y : q : takes k : integer; v, fF6a : integer array; p : integer array returns boolean chillax end main : input lCy0[(12 = 30)]; while - not true rem not 4 and 203 - not 393 + 74600 /= not 5 or 41 : chillax end end

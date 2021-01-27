@@ -1,0 +1,1 @@
+program Br50 : N090a : takes _9 : integer array; I, v3 : integer array; E, GZ3aa, k : integer; N2 : boolean; Rz : boolean array returns nothing pop - 3 - 7; do a(- 4 < 08, 3 = 9) end main : SkW : integer; qA0, fqw0a : integer; when case(621 = 7) : chillax end case S0q : do a(5 = 9, 3) end otherwise : output "\\8" end end

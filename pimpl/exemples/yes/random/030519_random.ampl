@@ -1,0 +1,1 @@
+program g9 : ve0 : takes ozR0a, I9 : integer array returns nothing k, t, IZ : boolean; I : boolean array; Y4 : integer; let m1m0 = array - S or 045; output "b&" . 5 . "" . "" end main : when case q rem d[89] rem true and 07 : when case 8 - 7450 : chillax end otherwise : chillax end end case - J > (17400) and 1370 - 1 : chillax end otherwise : output 9 . 1 . "" end end

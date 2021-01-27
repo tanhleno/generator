@@ -1,0 +1,1 @@
+program WMHaa : c : takes K3, E, lt, fwG, R9na : integer array; R, b, b3L, hS, s : boolean; lSN : integer array; g, FW9 : boolean returns boolean B9Saa : integer; u, sp : integer; pop; when case - 16 - 5 <= 2 : chillax end; output "{" end main : g : boolean array; H, _KW, I : integer; H1, o : boolean array; N3, C : boolean array; j, zO, u3e : boolean; chillax end

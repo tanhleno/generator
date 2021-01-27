@@ -1,0 +1,1 @@
+program iL : pW40 : takes RbE0a, m : boolean array; l, p6 : boolean returns boolean input zG; when case 81 : chillax end otherwise : chillax end; when case 01 = 3 : chillax end case 2 : pop end case 8 : chillax end end main : V7_ : integer array; U8, tB9, d : boolean array; pop; input H[- false or X]; input l; let i630a[34 - 542] = array - 863 - 7960 end

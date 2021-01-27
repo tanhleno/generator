@@ -1,0 +1,1 @@
+program p02 : F7 : takes DN20a : boolean array; A, E6A0, n : integer array returns integer T61, Q, KI, O, W : boolean; U7, Lh1, GI4 : boolean; do J1(- (0) or 37700 - 426) end r6 : takes _, h, fH, o38, A : integer array; j : boolean array returns nothing DN, S : integer array; v, iJ : boolean; a4H0 : boolean; let d = 6 = 190; let T = 2 end main : chillax end

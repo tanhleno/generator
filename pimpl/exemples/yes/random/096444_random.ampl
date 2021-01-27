@@ -1,0 +1,1 @@
+program h : main : when case - 3 : chillax end case true rem 2 and 99 + true and 9 : pop end case - 38 and 361 > 5 - 2 : chillax end case 3 - 8 : chillax end case 3 : output "'\\0a"; pop end case 5 : pop end otherwise : while 2850 : chillax end end end

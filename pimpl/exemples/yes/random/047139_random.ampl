@@ -1,0 +1,1 @@
+program G : I : takes z : boolean returns integer G : boolean; Z, ts : boolean; pop end Fp : takes J : integer returns boolean array r, f, T : integer array; G, q, K : boolean array; m3, CBE0 : boolean; input R[- 5]; while 9730 = 95 : pop; pop end end main : chillax end

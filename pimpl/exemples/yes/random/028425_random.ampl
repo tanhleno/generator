@@ -1,0 +1,1 @@
+program hp2 : a : takes k, JhG : integer array; t : boolean array returns nothing chillax end d560 : takes RN, t, i7 : integer; K, t : integer returns integer array X : boolean array; chillax end main : XF : boolean array; while - true or 50 / false and 2 - (57) + 8 : output "" end end

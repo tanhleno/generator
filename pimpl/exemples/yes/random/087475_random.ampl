@@ -1,0 +1,1 @@
+program ZC : main : ot : integer array; when case(6) > - (9) : chillax end case - j(32800) rem 77 and 60400 : pop 61400; input s end case UC and 95900 : output 01 . "X3" end otherwise : output 03 end end

@@ -1,0 +1,1 @@
+program M : cg : takes u4 : integer returns nothing cU, u, _ : integer; g3oa : integer; let Q4 = array - 69 - 9 - 7970 end gge : takes Bgb, A, O1fa : integer array returns boolean do E(- 61 - 4 > 1, 7 = 3) end main : S, IK, l40, j : integer; chillax end

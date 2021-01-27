@@ -1,0 +1,1 @@
+program F : vg9 : takes k, E, P : boolean array returns integer array chillax end main : let l[not true * true] = - (15500) >= - true and 75 + 239 - 2; let nq4 = array - (840) and F and 90 or 5140 + 0 - 2; let p6[not 7] = - 8 end

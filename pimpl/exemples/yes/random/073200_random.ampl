@@ -1,0 +1,1 @@
+program Z : main : lT, cYW0a, q_ua : integer array; while(9 = 7) - true / 009 /= not(06) or R : input NB3[48]; when case 2 = 21 : chillax end case 9 : pop end case 0460 : chillax end otherwise : pop end end; pop 2 or 95 - 395 = - 35; input d[- o3]; output "\t" end

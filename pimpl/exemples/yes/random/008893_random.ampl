@@ -1,0 +1,1 @@
+program Rb0 : O : takes Q, o, X5 : boolean; t, E : integer array returns integer input U; input QHkaa[- 77]; pop; when case 7 : pop end otherwise : chillax end end main : oyK : integer array; chillax end

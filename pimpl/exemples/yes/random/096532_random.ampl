@@ -1,0 +1,1 @@
+program _ : main : when case - 9 rem 7500 / (7) - true and 1 and 5 : when case - 132 - 1 : chillax end; output 810; let u8[16] = array 35; do l0e(0) end case - not C rem not 82 and 94 - c and 6 - 95 : do Dh(2 = 9) end end

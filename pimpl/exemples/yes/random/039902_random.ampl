@@ -1,0 +1,1 @@
+program Ixu0 : Uuk : takes A : boolean array; f_m0a : boolean array; MF : boolean returns boolean z, N, J9 : integer; Oy, tw : integer; input YJVa; while - 6 - 30 /= 31 : do k1(9) end; output "" . "+" . "0q!" end U : takes O67aa : boolean array returns nothing chillax end main : b, b4 : boolean array; pop end

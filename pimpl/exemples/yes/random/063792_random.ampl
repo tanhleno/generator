@@ -1,0 +1,1 @@
+program l : v91 : takes J2 : integer returns nothing chillax end D : takes b6Na : boolean returns integer array o : boolean; s : integer; chillax end E7D : takes W, s, i5 : integer returns nothing k84 : integer array; let q9Ca[3] = 715 end main : input ix[- not not dE] end

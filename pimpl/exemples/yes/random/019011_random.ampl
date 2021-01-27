@@ -1,0 +1,1 @@
+program s5 : w3 : takes S, K : boolean array; KA, L, l : integer; W : boolean array returns integer b5w, I : integer array; when case true > - 09 : when case 4 : chillax end otherwise : chillax end; do z(3) end case 5 - 57 >= 09 : let D = 8 end end main : chillax end

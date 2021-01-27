@@ -1,0 +1,1 @@
+program V : m : takes K : boolean returns boolean array chillax end main : let G = array - 90 * true * true; when case w[7] / not 8 - 2 < - (60) : input t[585]; output 838 . "\t" end otherwise : let h = 416; input H; while 651 : chillax end end end

@@ -1,0 +1,1 @@
+program w : main : l, b, L : boolean; while - true / (80700) + not jNG - not 0 >= true / not 4 or not 3 and 57 : output "\\6aa"; input n5[80] end; while not false and 113 and 9 < - a : output "\n" . 4 . "8"; input U4_0[4] end; do v(II9aa and 810 = 14, 1 >= 9560, 66 = 84, 65, 778); when case 2 : input wU end end

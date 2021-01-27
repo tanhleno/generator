@@ -1,0 +1,1 @@
+program t2 : main : do i(- 9940 and true / 9 <= - 645, not false + (7) and 9 <= - not 8 and 9, cVN0 - 39 - 8 /= 36, 7240 >= 3, 6090, 46, 20); let fK = P; do o3(- (4) and 3240 < - 248 - 1); while - 2 - 45 > 0 : chillax end; do h(5 = 7); when case 16 : chillax end case 174 : chillax end otherwise : chillax end end

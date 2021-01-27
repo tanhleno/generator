@@ -1,0 +1,1 @@
+program wW : main : w44 : integer array; V28, FvIa : boolean array; jDr0a : integer array; while uNI[63] / not(0) + not Q rem t and 8 or true - 5 - 9 = true : when case - 3 - 7 : when case 6 : chillax end end case 53 : while 63 : chillax end; pop end case 7 : pop end otherwise : chillax end end; output "" . 4 - 6 . "7" end

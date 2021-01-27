@@ -1,0 +1,1 @@
+program P : main : F : integer array; v : boolean array; C : boolean; when case - not(18) : chillax end; when case P / true : do E3(00 = 7) end case not 0110 and 08100 - 6 >= 4 : chillax end; do T(04 and 081 - 4, 65) end

@@ -1,0 +1,1 @@
+program rU8 : S : takes qQ1a : boolean array; D3 : integer array returns nothing qr : integer array; while - y and 1 + 7 : output "}" end; do PS(70600 - 2 > 16, 460, 39) end main : m : boolean array; k, b37a, mb : integer array; chillax end

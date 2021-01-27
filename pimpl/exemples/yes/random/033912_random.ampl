@@ -1,0 +1,1 @@
+program Pj : F : takes QIOa : boolean; F, G2Ya, u : boolean returns boolean array l, mU8, N : boolean; while pY_aa and 8 or 9 - 49 : let HC6aa[4780] = array 18 end; output "" . "E]\"a" . "^" . "{U!a" end C7 : takes R : integer; P : integer array; FT, _, a, U : boolean array returns boolean array l5j : boolean array; chillax end main : chillax end

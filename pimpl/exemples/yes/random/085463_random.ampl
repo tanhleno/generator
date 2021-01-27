@@ -1,0 +1,1 @@
+program C : main : x55 : integer array; do K(- not 33 /= not false and false and 1); when case - true /= 1 and 5410 : output 2 . "" . "}"; let oM[2] = array 75; input bz end case false and 3 : pop 2 end case - 6 : when case 1 : chillax end; let b67aa = 49300; pop end otherwise : chillax end end

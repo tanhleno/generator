@@ -1,0 +1,1 @@
+program c57 : n4 : takes N, c9 : boolean array returns integer pop end main : w, Zh5 : integer array; while - not 0 rem not true * (06100) and 1 + true - Nw or 3 : while 696 - 0 = 91 : chillax end end end

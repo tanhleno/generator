@@ -1,0 +1,1 @@
+program N2 : _ : takes F : boolean array; bVVaa, i, h : integer array; d2za : integer; W3 : integer; A : integer array returns boolean array output - 871 - 863; while - 3 - 8 > 24 : chillax end end main : chillax end

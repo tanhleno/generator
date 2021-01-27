@@ -1,0 +1,1 @@
+program g : K : takes H : integer array returns integer array A, S : boolean; TRUa : boolean array; chillax end Y : takes I0E : integer returns boolean o, I : integer array; Y04, s, l : integer; ao : boolean; d86 : boolean; input h[- 61 - 5140] end Dz : takes m : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program D03a : NR5a : takes K, qpp0 : boolean array; z : boolean array; B0, M, e2, Gh, H : boolean array returns integer array while(83200) and 4 >= 3 : chillax end end J54a : takes L2daa, j : boolean returns nothing hA, I6q, Q8, F : integer array; chillax end main : _ : integer array; pop end

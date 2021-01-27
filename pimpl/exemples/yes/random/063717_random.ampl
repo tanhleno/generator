@@ -1,0 +1,1 @@
+program a : y : takes F : integer returns nothing chillax end Z : takes o, nT6a : boolean returns nothing do j(3 - 5470); let Hs30a = array 1; input k2; output ""; input q; pop end main : iLy : integer; chillax end

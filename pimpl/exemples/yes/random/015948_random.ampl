@@ -1,0 +1,1 @@
+program Y2 : RJT : takes D, G, V : integer returns integer array rU : boolean; a0 : boolean array; do T(false - 1 /= 622 - 3) end V7 : takes j, X, _ : boolean returns boolean pop 7 end main : input R[m(138, 7) or false]; let v55a = array - not Hx * true or 82; while false + 8 - 4 : chillax end; let R = 1 = 4; let v = 5; while 94 : pop end; when case 260 : chillax end end

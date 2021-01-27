@@ -1,0 +1,1 @@
+program k : main : t, s : integer; QY : integer array; Rn8, u : integer array; O1, Z : boolean array; _n20, B : boolean array; input j[(764) * O8 rem not 5 and 02 or E3[8] / not 62 and 936 + (62300)]; pop - Jo1 end

@@ -1,0 +1,1 @@
+program o4f : I : takes O, K, L, n : boolean; wR : boolean array returns boolean array f0 : integer; o3x0a, CB70a : integer array; let N = 8 - 42 <= 67; pop 695 = 9870; input y510[04]; pop; while 4 : chillax end end main : w : boolean; chillax end

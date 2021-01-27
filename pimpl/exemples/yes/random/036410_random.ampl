@@ -1,0 +1,1 @@
+program _ : jsf : takes Yls : boolean; lng : integer; u, B, i5Ja : boolean; V, NMm, D : integer; C9P, mkx : integer array; S56a, nUDaa, z : integer array returns nothing chillax end main : output "\t"; pop; output "e7!" . "\\\"" end

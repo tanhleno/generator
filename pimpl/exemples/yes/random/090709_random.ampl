@@ -1,0 +1,1 @@
+program O : main : let y[- (1 = 84)] = - not true + y8 and 3; while(53) rem Lt and 3 or false >= - 4 : chillax end; while - true > 0 : input Q5haa[238]; output ".1!a" end; input G3; input q6paa; input t1[33] end

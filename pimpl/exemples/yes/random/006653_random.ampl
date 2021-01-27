@@ -1,0 +1,1 @@
+program j21a : iB8a : takes O, x0t, G, X : integer; Ag : boolean returns integer chillax end j : takes x6, P0, uJ : integer returns nothing s : integer array; q : boolean; E : boolean; V : boolean; Xa6 : boolean; pop end V6y0 : takes ep, Y : integer returns boolean array b : integer; chillax end main : while(04) / (9) rem 0 + false / true - (69) : chillax end end

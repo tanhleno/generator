@@ -1,0 +1,1 @@
+program f : D : takes X93, C, R, j6, W : integer array; N6I0 : integer; T, U, z61a : integer returns integer array r05, R49, p : boolean array; b : integer; while - W1l0 < - 936 - 1 : chillax end end main : while true + false and not 341 : chillax end; input oI70a end

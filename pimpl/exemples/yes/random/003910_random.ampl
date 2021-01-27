@@ -1,0 +1,1 @@
+program Y : V7 : takes Iy5, D, _, CT6aa, s6 : integer array returns nothing output - 1 . 20 . "" end Y : takes N4, j, T : boolean array; x8 : integer array returns integer chillax end n : takes tk9 : integer array returns boolean while 7 = 9 : while 01 : chillax end; pop end; let S5 = 7; let M8 = 38 end main : chillax end

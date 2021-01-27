@@ -1,0 +1,1 @@
+program FWDaa : main : Bmy, K, E, N6 : boolean array; U : integer; when case true = b[5] + k and 26 : chillax end otherwise : output 45 end; input F[6 * cNW]; let m[(1) and 4] = array - 1 and 4; do nBX(9 - 4 <= 10) end

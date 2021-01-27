@@ -1,0 +1,1 @@
+program X8 : z : takes dww0 : boolean returns integer array when case - true and 081 + 7 <= - 5 - 7 : chillax end case 8 < 465 : chillax end case 8060 : chillax end case 7 : pop end case 587 : chillax end otherwise : do qB(8); while 87 : chillax end; pop end; do L3E0a(- 58 /= 92); output "6" . ""; input L end main : chillax end

@@ -1,0 +1,1 @@
+program c : H11 : takes c : integer; lp, Oc : boolean array returns nothing when case - U or 41 >= - 42 - 8 : pop end case 0 /= 423 : chillax end case 9 : input T end end main : V1w0, s_ : boolean array; tB30 : boolean array; chillax end

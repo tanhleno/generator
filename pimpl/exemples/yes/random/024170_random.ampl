@@ -1,0 +1,1 @@
+program _E2 : T : takes h, f03aa : boolean returns nothing f, u5, T6, K, C : integer array; while(69) + 6 - 7 > - 36600 : chillax end end WG3 : takes e6, vh, i4, I, r890a, R2 : boolean returns integer pop; when case 4 : chillax end; input J90; let hq = 674 end main : do p((5) rem not not 2 * IsG > not(0) - n6Saa or 4360 - 9, - 6 - false > not 9720 and 0 - 7 - 79) end

@@ -1,0 +1,1 @@
+program f4 : D7Taa : takes Q : boolean array; c, lOh, L, M, q, V : boolean array; z2Y, S : boolean; tL, q85, P57a : integer; Ru : integer; jT, r : boolean array; D8, K : boolean returns boolean v, Z, S, l37 : boolean; chillax end main : c, b, J, b, Jwma, k, EE : boolean array; d28a : boolean array; T, M : boolean; w, x4ka : boolean; pop false / (8) and 3 end

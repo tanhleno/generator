@@ -1,0 +1,1 @@
+program aA : main : O : boolean array; r, i9 : integer array; mcPa, wP6, TmC, v, O : boolean array; ej : integer array; when case - true and not C / true and 6 + 5 : do P(10 - 5, 2); while 5 = 03 : let Ao = 7950; pop end end case i rem M7v and 7 /= - (2) and 1 : output "" end otherwise : output "\n'\"a" . "3" end end

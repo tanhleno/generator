@@ -1,0 +1,1 @@
+program Qy9 : main : Z : boolean array; w, m640 : integer array; T9, p : boolean array; N, OEW : boolean array; output "&"; when case not true or false and 213 >= not 233 and 7 : chillax end case(5) - 099 /= 484 : chillax end case 8 <= 7 : chillax end; while - 256 and 9 - 55 - 07300 : pop 5; while 4 : chillax end end end

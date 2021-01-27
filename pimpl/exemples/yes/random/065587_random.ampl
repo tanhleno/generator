@@ -1,0 +1,1 @@
+program f : v : takes bs : integer returns nothing while 0 and 8 < 1 : chillax end; input H7[0]; pop 9; input O7[8]; output "{"; let n = 3; pop end _53 : takes yM, pe : boolean returns integer u : integer array; pop; do sB(37 = 325) end main : Z, e : integer array; chillax end

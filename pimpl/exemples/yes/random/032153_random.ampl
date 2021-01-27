@@ -1,0 +1,1 @@
+program X : xz7aa : takes ONq0, yS : integer returns integer output 7 > 89; output 78 . ""; let C820a = array 71500; output "[\"" end main : when case - j rem A + not not 96 * r and 20 : chillax end case false >= not 87100 and 2 or 83 : input M end end

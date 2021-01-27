@@ -1,0 +1,1 @@
+program HoZ0a : main : pop; when case - y rem not 320 and 6 or Vs and 99 /= - (79400) : chillax end otherwise : when case 0 : pop end end; let T[- JMXaa] = array - (83) and 2 + 429; input q[- 0 - 76]; do c7(796 = 11, 0) end

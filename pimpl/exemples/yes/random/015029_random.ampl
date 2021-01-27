@@ -1,0 +1,1 @@
+program p : k : takes YV40, G480, Bj : integer array returns integer do a(- (7)) end Dd20 : takes HF3, u, w, s : integer array returns boolean array u, E : integer array; chillax end Q : takes Q : integer returns nothing output "\\" end main : chillax end

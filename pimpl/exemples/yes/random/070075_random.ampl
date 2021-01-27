@@ -1,0 +1,1 @@
+program m48 : main : F9, L1, TI, kN : integer; _e30a, h, IHra, C, J30 : integer; SS, m, n, q, v : boolean array; L : integer; t260a, G50, o : integer array; do _7Qa((4 = 2) rem not true + 5 + 2, - 4 or(2) and 4 or 13 - 3 /= - false, Z and 5, 6 - 6 = 56, 9, 537, 8); let P5[(90) or 4 and 762] = r or 8 - 1 >= 6 - 8 end

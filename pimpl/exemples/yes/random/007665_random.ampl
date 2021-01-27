@@ -1,0 +1,1 @@
+program c : Y : takes R, a8, q, Z : integer array returns nothing chillax end M7 : takes S760 : boolean array returns boolean array pop 1; input m99a end mU : takes Z9T, Rsuaa, R : integer array; y0, W : boolean array; z3 : boolean returns integer N : boolean array; Cs0 : boolean; f6 : boolean; chillax end main : N, WyS : boolean array; pop - 2 / 1050 or false end

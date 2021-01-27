@@ -1,0 +1,1 @@
+program SL : Tl3aa : takes Z, Yr6a, u0, k, b, x, Q91 : integer; P72a, v9u0, r : integer; J : boolean; wrp : integer returns nothing output - 5; when case 566 - 87 : input p1; pop; pop end case 6 = 0 : pop; pop end; while 9 : chillax end end main : c, S, GiTaa : boolean array; y3, gZ : integer; chillax end

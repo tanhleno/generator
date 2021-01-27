@@ -1,0 +1,1 @@
+program SZ6a : p3 : takes b, p : boolean array; je : integer returns boolean Y, R010 : integer array; A, N2 : integer; c, c : boolean array; output "" end main : uR1aa : integer; while - true / 44 / (4) and 8 : when case - 66 - 4410 : when case 73 : chillax end end case 42 : chillax end case 833 : pop end end; output "\\2" end

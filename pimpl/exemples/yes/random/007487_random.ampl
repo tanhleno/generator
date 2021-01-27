@@ -1,0 +1,1 @@
+program K : J : takes t, Ct, P7, Xa10a : integer array returns boolean output 1 - 0 /= 5 end dI : takes p : integer array; O, f8Z, l, T, B, K : integer array; f5 : integer; g : integer returns nothing d3 : boolean; j, zG6 : boolean; H : boolean; chillax end main : Y, Ic : boolean; X : boolean; chillax end

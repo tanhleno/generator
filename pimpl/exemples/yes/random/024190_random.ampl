@@ -1,0 +1,1 @@
+program gc : wnK0a : takes Y, Qx30a : boolean returns nothing NH, Q, U910a, G : boolean array; input h7[7]; do G(3); when case 29 : let Z02aa = 8 end otherwise : pop end; when case 41 : pop end case 4 : chillax end otherwise : chillax end end u8L0 : takes f1T, U : boolean array; U72aa : integer array returns integer array chillax end main : chillax end

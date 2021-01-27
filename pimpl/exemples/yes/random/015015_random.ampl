@@ -1,0 +1,1 @@
+program _ : B : takes p8, ch, L : integer array returns integer chillax end O : takes m : boolean returns boolean array chillax end G : takes G, K9C0, n37a : integer; Eira : boolean; v : integer array; L, p : integer array returns boolean pop; when case 07 : chillax end otherwise : chillax end end main : chillax end

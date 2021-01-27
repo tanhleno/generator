@@ -1,0 +1,1 @@
+program N2D0a : e : takes ro, Uo, q, b : integer returns boolean let o[false] = array - W end e3 : takes pa2aa : integer returns integer array c : boolean array; input g[- 2] end R : takes _7R : boolean returns integer chillax end main : chillax end

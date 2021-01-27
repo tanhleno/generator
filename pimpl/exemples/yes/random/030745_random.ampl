@@ -1,0 +1,1 @@
+program y8 : dw3a : takes c9Saa, O0 : integer array returns nothing k : boolean; _ : integer; P, d3U0a : boolean; XV8, aIK : boolean; output "" . "" . "t\\0" . "\"E0a" . "" end main : R : integer array; eW : integer; lR : boolean; input W end

@@ -1,0 +1,1 @@
+program C1 : main : R0_, C0N, C, IqN0a, K : integer; d, zuxa : integer; uBx, O, O80 : integer array; fVB : integer array; N2d : integer array; G7 : boolean; W : boolean; output s and S and 9 + 4 and 3 > true - 17 - 70; output "" end

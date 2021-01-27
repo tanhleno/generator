@@ -1,0 +1,1 @@
+program nU : s : takes G3 : boolean returns nothing chillax end main : a560, W : boolean; output "" . OsM >= 8 - 0 . "\t" . 39; when case false rem true : output "" . ";" end case - false and 7 - 3 <= - 30 - 12 : chillax end; pop 3 end

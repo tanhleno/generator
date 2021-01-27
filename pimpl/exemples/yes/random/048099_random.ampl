@@ -1,0 +1,1 @@
+program t : Z : takes NC1 : boolean returns nothing A21, X : boolean; m3, a3, V : integer array; chillax end main : k28, r, Q, Z : integer; when case - not(761) < - 3 * (0) and 062 : chillax end case - not(9) + not 14 or 3 - 2 /= - (8) and 69 : chillax end otherwise : chillax end; pop; pop 6 end

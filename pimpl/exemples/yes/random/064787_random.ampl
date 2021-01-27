@@ -1,0 +1,1 @@
+program e5 : t : takes p9 : integer returns nothing qU : boolean array; chillax end main : I : boolean array; when case 0 + 209 rem false or 51100 and 7 or 2 : input L; while 46 : output ""; pop end end otherwise : chillax end end

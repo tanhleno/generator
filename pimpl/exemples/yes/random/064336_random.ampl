@@ -1,0 +1,1 @@
+program Rt : Iy4 : takes E : integer returns nothing uO, me, D5 : boolean array; pop end o : takes ey, q, e : integer array; _x4 : boolean; q, a, U : integer; J, r8Q : boolean; B : boolean; pQ, w : boolean returns integer chillax end K : takes F0 : integer; sl7, n6 : boolean array; O : boolean array; a : boolean returns nothing chillax end main : input l7C; do zG((0)) end

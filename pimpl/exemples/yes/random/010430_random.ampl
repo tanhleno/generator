@@ -1,0 +1,1 @@
+program E0 : p : takes kiZ, Ln, t4 : boolean array; s : integer returns boolean array x, Z69 : boolean; chillax end r : takes q, X : boolean array; J5 : boolean array; WJ1 : boolean returns nothing do m(- 626 - 168, 7) end main : DM, D4, s56aa, N2 : boolean array; M1, GN5, RT, N, C64 : integer array; o, o : integer; bYb, r130 : boolean; chillax end

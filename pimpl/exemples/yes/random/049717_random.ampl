@@ -1,0 +1,1 @@
+program l : c_0 : takes v760 : integer; e, s, I2e, m9 : integer array returns nothing Y2, _8 : integer array; q3g, l23, hP : integer array; Jl9a, k, k1 : boolean array; AA0 : boolean; chillax end main : input w[92]; input au[- 12 and 78 and 7] end

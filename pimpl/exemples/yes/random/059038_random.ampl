@@ -1,0 +1,1 @@
+program E : V : takes r : integer array returns integer array when case - false + 6 - 7 : input _n; do N(2) end otherwise : chillax end; while - 1060 - 83 < 37 : let R6 = 0; input _ end end u : takes y7, F, e1r, b8 : integer returns nothing g : boolean; S, w63 : boolean; chillax end main : chillax end

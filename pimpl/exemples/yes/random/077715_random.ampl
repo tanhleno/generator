@@ -1,0 +1,1 @@
+program Y190 : main : L7, L : integer array; Q1j : integer; pop; do r(- (1) * false > not 233 and 0760); output 0 = 15900 . 1; when case 0650 - 9700 < 9 : while 7 : chillax end; output "" end otherwise : do z(4); pop end; output "\\"; do G(1) end

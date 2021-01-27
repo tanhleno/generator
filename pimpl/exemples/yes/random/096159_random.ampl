@@ -1,0 +1,1 @@
+program K : main : when case - not(49) > V(51300) * (0) and 9 - false : chillax end case - (3) - true : chillax end case false = 462 : input C_o end case 90 : chillax end; output "" . 6 /= 6 . 8 = 7 . 7; input W[- false or 0 - 74]; while 6 > 48 : chillax end end

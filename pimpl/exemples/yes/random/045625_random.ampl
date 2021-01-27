@@ -1,0 +1,1 @@
+program P : p9 : takes U9za : boolean returns boolean array g, y : integer array; chillax end x : takes d : boolean array returns integer array chillax end M60 : takes P, B : boolean array returns integer array ZD, D, HS : boolean array; chillax end main : while not false : chillax end end

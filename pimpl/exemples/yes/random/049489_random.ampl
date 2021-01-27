@@ -1,0 +1,1 @@
+program G : Gz1aa : takes d : integer; RM, g, A3, R, o : integer returns boolean pop; output 5 end F : takes r : boolean array returns integer chillax end main : r0j0, k : boolean; f : integer array; I, dC : boolean array; chillax end

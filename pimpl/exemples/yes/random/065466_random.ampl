@@ -1,0 +1,1 @@
+program g : _ : takes zP : integer returns nothing when case - false or 2420 - 3 < 024 - 2 : chillax end; let Mw[- 8320] = 42 = 9 end main : uXGa, D, L88aa, h : boolean; input B[- true * 47 and true]; input M6Va[- G * not 9 and 0 or true - 76]; let l6m = array - not 2 + 93600 - 0 end

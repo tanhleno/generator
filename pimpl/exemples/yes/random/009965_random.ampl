@@ -1,0 +1,1 @@
+program Y : Cw00a : takes w3, H0, J5 : boolean array; c, bB30 : integer returns nothing C, l, L, R : integer; when case - (611) + 0 >= 2 : chillax end; do A1(2360 - 4) end main : AX : boolean; pop end

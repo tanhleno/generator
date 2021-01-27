@@ -1,0 +1,1 @@
+program c : e : takes n89 : boolean array; w : boolean array; ye : integer array returns boolean array do x170(- true, 15 - 0, 62 = 8, 3) end U : takes H590 : boolean array; G2 : boolean array; o, z, bZ0a : boolean returns nothing kb, BO, Y : integer; O, lMF, P : boolean array; chillax end main : chillax end

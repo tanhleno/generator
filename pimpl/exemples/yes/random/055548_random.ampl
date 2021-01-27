@@ -1,0 +1,1 @@
+program y : T8 : takes X : integer array; j : boolean; z, dT80a : boolean returns boolean input lD7 end H2 : takes p, W960 : integer array returns boolean array output 4370 = 3; output 36200; output "!_!" . ","; output "\n"; while 8 : chillax end end main : do i1(not 990 - not false / not 1 and 8); do m9(true or true and 5 or 462 - 67 < not 41 and 97); let s = 9 end

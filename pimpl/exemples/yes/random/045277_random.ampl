@@ -1,0 +1,1 @@
+program y : X : takes iI : boolean array returns nothing when case true and 7 - 6 - 1 : chillax end case - 699 >= 5 : output ";"; while 89 : chillax end end case 7 = 8 : output "D"; pop end case 5270 : chillax end case 89 : chillax end otherwise : while 6 : chillax end end; output 9 = 87 . 8 end main : chillax end

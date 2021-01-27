@@ -1,0 +1,1 @@
+program I : q : takes v00 : integer; E7M, x, TV1, li : boolean returns nothing N8, z190a : integer array; input M; input J4[- 9 - 8] end f : takes m : integer returns nothing chillax end K : takes s, l, A : integer returns nothing when case 9890 = 257 : let pX = 8; pop end; output 77000 . ""; let a2da = 33; let x = 83100; pop end main : chillax end

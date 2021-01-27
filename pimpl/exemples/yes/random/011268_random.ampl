@@ -1,0 +1,1 @@
+program E : E : takes H0, n4ha, a : boolean array returns nothing v, wF1aa : integer; when case not 68 <= - 542 : chillax end otherwise : when case 4 : chillax end; do a92(5190) end; do d8s(- 5, 62) end fS : takes CSp : boolean returns integer array M : boolean; when case - 7 = 17 : pop; while 2 : chillax end; pop end end main : chillax end

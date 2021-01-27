@@ -1,0 +1,1 @@
+program l : o : takes gRy0a : integer array returns nothing chillax end e : takes y4j, D : boolean returns nothing chillax end main : do s(- V1zaa(8, 4) and 1 rem false and 1, - E(9) * not 2 or(4) and 862 = - false and 8, y or 65 - 8, - 0, 093 = 61300, 16) end

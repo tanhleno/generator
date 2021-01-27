@@ -1,0 +1,1 @@
+program R94a : a : takes T350a : integer array returns integer array Er, a, v : boolean array; QB70 : boolean array; input l[- Al2a + 7 - 1]; output 45 . 7 . 13; while 72 : chillax end; input f[20] end b : takes M : integer array returns nothing I : integer array; iO3, n7, C : boolean; chillax end main : chillax end

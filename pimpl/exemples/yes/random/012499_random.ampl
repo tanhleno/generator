@@ -1,0 +1,1 @@
+program r : H : takes O, y, E : boolean returns nothing when case true - 78 - 21 : chillax end case 835 : let NB = 95; while 530 : chillax end; pop end; output 13 . 98 . 3 . "\\j0a" end main : f, c, d : integer; input g[true * (63) and not 255 - (76) * not 750 and 2560 or 4750 and 45400 or 61800 - 90] end

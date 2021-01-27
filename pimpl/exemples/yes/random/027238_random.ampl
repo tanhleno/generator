@@ -1,0 +1,1 @@
+program zU : pl : takes L, H970 : integer array; m, Um, CW, n : integer; a6, S1, _j90 : integer returns nothing NM : integer array; Ad, F4, z, zM70a : boolean; chillax end SO2aa : takes E, bk, x, PI5a : boolean array; F7 : boolean array; M29 : integer array returns integer array chillax end main : while - (8) and(6) / f or 7 + 43 + 5 : do uh(43) end end

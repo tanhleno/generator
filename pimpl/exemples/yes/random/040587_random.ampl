@@ -1,0 +1,1 @@
+program Y : a : takes NY : boolean array; c5 : integer; F950, RW30a : integer array returns boolean x : integer array; input j6n end main : while true / (061) and 7740 > - (98) rem false and 3 + (17) - 0 : chillax end end

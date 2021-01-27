@@ -1,0 +1,1 @@
+program Zmf0a : main : S : boolean array; when case - fF6 <= true or 4 and 40 : let R = array 937 - 60800; do ml(3 = 641, 9); output 6 . ""; pop; input u end otherwise : when case 867 : chillax end case 07 : chillax end otherwise : pop end end; pop end

@@ -1,0 +1,1 @@
+program Nd : S : takes B, V : integer array returns integer chillax end main : C : boolean; v : boolean; let qa2[not false + (64) and true - false and 630 + 8 - 36] = array(0) and X8 / not 520 - 0 end

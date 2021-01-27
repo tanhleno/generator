@@ -1,0 +1,1 @@
+program fA0 : A95 : takes e, EKva : integer array returns integer array T : integer; while - 43 : chillax end; let L = 6 = 241; while 2 : when case 36 : chillax end; pop end; when case 71 : chillax end otherwise : chillax end end main : U : integer array; yL : integer array; when case false and false : let x[45 - 98] = 0160 end; do q(B and 66 + true, (350) or 1 < - 31 - 23) end

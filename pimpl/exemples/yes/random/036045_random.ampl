@@ -1,0 +1,1 @@
+program N : Iq : takes C : boolean; C : boolean array returns nothing d : boolean array; P3T0, R, HW : integer array; Hz : boolean; do m4(- not 8 and 9 + 664 - 13); input E[- 51]; pop 8; while 5 : chillax end; while 34 : chillax end; while 1 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program f6 : Fdc0a : takes X : boolean; XI : integer array returns nothing f2 : boolean array; yI5, z : boolean array; M : integer array; xF : boolean; M : boolean; DK9aa : boolean; pop 5210 - 8 >= 37 end C1 : takes x : integer array returns integer chillax end main : p : boolean array; let HS3 = false or false; input IEp[not false - not 65500 and 31400 or 0] end

@@ -1,0 +1,1 @@
+program D : k : takes L : boolean returns nothing _, t : integer array; chillax end C9Daa : takes zS2 : boolean; M : boolean; vp2, C : integer; K, J5, o, l : integer returns nothing pop 40 = 671 end main : X : integer; G, o : integer array; v : boolean; pop; output "8" end

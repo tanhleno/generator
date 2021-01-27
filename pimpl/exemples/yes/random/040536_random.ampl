@@ -1,0 +1,1 @@
+program k : onM : takes T : boolean array; UsPaa : integer; v, V : boolean; Yo : integer array; T : integer array returns nothing chillax end main : when case(846 = 4) and true : chillax end case G6l + not 7690 and 62 + 8 : output "J~a" end otherwise : do w(13200 = 1); pop 0; do aV70(36) end end

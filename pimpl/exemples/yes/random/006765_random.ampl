@@ -1,0 +1,1 @@
+program q : j : takes X, b, n, j580a : integer; H : integer array returns nothing let I0 = array 02 or 72 end main : lLAaa, x, p, J3I, k : boolean array; let J[true and not B * true] = array - (3 = 8) / (5) rem O - false rem not 6; output "0v" end

@@ -1,0 +1,1 @@
+program f8 : M18 : takes k : boolean returns nothing ys, e_ : integer array; R9, qc, S9, r : integer array; D, K, C64 : integer array; w : boolean; B8D0a : boolean; chillax end main : x, Oi : boolean array; output - (6) and false and 7 /= 8 and 7 + 4; output "" . - 7 - 45 end

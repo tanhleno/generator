@@ -1,0 +1,1 @@
+program K_3a : P : takes m4, a05 : boolean; Ir2 : integer array returns integer while(1) - 396 - 46 >= 4 : chillax end; let v = array 2 - 25; while 6 = 22 : let Cp60 = 98; pop end; let K7[841] = 242 end main : R : integer; chillax end

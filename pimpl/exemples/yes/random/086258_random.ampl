@@ -1,0 +1,1 @@
+program w700 : main : H0 : integer array; v, L : integer array; O74 : integer; r, e : boolean; X660a : integer; when case 4 + 5 * 2 and 5 or not 11200 : chillax end otherwise : output 200 . "" . "" end; do Y(false and true + 48 + 07, - true); let P[true and 9450] = 9 - 81 >= 6; output "" . 8; output "{|aa" . "\\" end

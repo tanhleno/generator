@@ -1,0 +1,1 @@
+program Z53 : j : takes F65aa, Qi : boolean array returns boolean p, n : boolean array; input a[- true and 83] end OwDa : takes Dm80, b : integer returns boolean array n7, u5R : integer array; RH, e : boolean; s, Xr : boolean; Qf : boolean; chillax end main : Y5K : integer array; tm : integer array; g, x, z, q, u : integer; z : boolean; pop true = not 4 and 1 or 27 - 6 end

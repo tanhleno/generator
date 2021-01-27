@@ -1,0 +1,1 @@
+program YR7 : d : takes p9 : boolean; te, m1, n : integer array; B : boolean array returns nothing G6t0a, x : boolean; chillax end e9 : takes A, lexa, m, J : integer returns boolean array u, QP, X, A : integer; chillax end Zr : takes w : integer array returns boolean Th, v : integer array; G : boolean; pop 686; input vEY0a[15600] end main : chillax end

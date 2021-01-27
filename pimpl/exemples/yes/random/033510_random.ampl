@@ -1,0 +1,1 @@
+program N : e : takes h6 : boolean; o76, M, B, K : boolean array; So0a : boolean array returns nothing u : integer; t : boolean array; let y8Ba[- false and 974 - 300] = - 262; pop end aHp0 : takes PE : boolean; i2, _n60 : boolean array; ly : integer array returns integer array w : integer; chillax end main : ZM : boolean; chillax end

@@ -1,0 +1,1 @@
+program lIJ0 : n : takes z1U0 : integer; p0, d : integer array; j, B : boolean; _1 : integer array returns boolean array chillax end main : when case - false and(8) : chillax end; do D4((1) >= false and 006 or 0) end

@@ -1,0 +1,1 @@
+program O : K9 : takes p, vp : integer array returns nothing XWZ : boolean array; Q93a : integer array; B, h, I : boolean; H, g6 : boolean; t : boolean; when case 16 + 567 - 8 : chillax end; pop; let E[35] = 99 end main : do W(- 6 and 4 + (58) * true + (0) and 725 = (5) * r5zaa + (7) - 5 - 4, false rem true + true and 5 < - (1) and 471) end

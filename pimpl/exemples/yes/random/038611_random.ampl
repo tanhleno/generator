@@ -1,0 +1,1 @@
+program T : v : takes K91 : boolean array; u, h : boolean array; H, W, R : integer array returns integer chillax end S78 : takes S, QN, S6za, X, u : integer; Z : boolean; Lp : integer; P, TL, X1A, X : boolean; U25a, _J, mc6 : boolean array returns nothing chillax end h : takes h : integer returns boolean pop 52; input D[923]; input f8 end main : chillax end

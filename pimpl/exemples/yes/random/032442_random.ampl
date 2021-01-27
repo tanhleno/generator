@@ -1,0 +1,1 @@
+program J : Xw : takes c, LZT : integer returns nothing do G(0 and 46 <= 3, - 0 - 05); do I0(9 < 7, 8) end u09aa : takes o : integer returns nothing pop end main : _y, P : boolean; cHta, de, k : boolean; chillax end

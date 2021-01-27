@@ -1,0 +1,1 @@
+program X : main : K : boolean array; pop; when case - (0) and ix - not 54 : chillax end case not 1 and 1 : chillax end case 3 - 4 >= 324 : chillax end case 0 : chillax end case 530 : chillax end case 0 : chillax end otherwise : chillax end; do VQ00a(- 5 + 8 /= 3160) end

@@ -1,0 +1,1 @@
+program P : Zl : takes D : boolean returns integer array S : boolean array; f8, d3 : boolean array; input E2[not 8 or 1 - 97400]; input a end main : Lv, x8F0, Y, L : boolean; Kw8, sr, O, ZNDa, l : integer; chillax end

@@ -1,0 +1,1 @@
+program Hc6a : zF : takes C, y, V : boolean array returns integer do p(BVE and 12 - 17 - 8 /= 4) end _h : takes HWe : boolean array returns boolean array u, cq0a : boolean; pop end L : takes q : integer array; U, L2t : boolean; h, d : boolean array; z, bZ, x : integer array returns boolean output 29900 . ""; do j(252, 15); pop end main : pop 811 - true and 833 end

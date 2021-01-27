@@ -1,0 +1,1 @@
+program a : fF : takes oD, ctuaa : boolean array; X, N : boolean array returns nothing qR2 : integer; Q0w : integer; cd, PWT0 : integer array; z, Y9 : boolean; DQ : boolean; VR : boolean; pop - 7130 - 1 > 8; when case 9690 < 2 : chillax end case 7300 : chillax end otherwise : chillax end end main : chillax end

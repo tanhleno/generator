@@ -1,0 +1,1 @@
+program bQ : q640a : takes R : boolean returns nothing chillax end main : Y0 : integer array; when case false : pop; output ""; pop 8 end otherwise : when case 5 = 1 : chillax end case 5 : pop end case 28600 : chillax end otherwise : chillax end; input m; while 6 : chillax end end; output "\n" . "" . "" . 7 . 563; pop - 51 - 7 end

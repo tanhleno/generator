@@ -1,0 +1,1 @@
+program RPC : O400a : takes AXn, m620a : boolean array; DI, vl : integer array returns integer array chillax end main : do P(true / not false * (46) or(24) - (08), false, - 10 - 1, - 11, 46 = 04) end

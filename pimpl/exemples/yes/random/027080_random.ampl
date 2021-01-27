@@ -1,0 +1,1 @@
+program A : y7va : takes x4, N : integer array; OV, Un, y, C, x : boolean; I, B, p : integer array; T2, a6k, r : integer array; N : integer; mx0, a2 : integer returns nothing chillax end main : H, IE : boolean; output "" . "" . "2" end

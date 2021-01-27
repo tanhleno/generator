@@ -1,0 +1,1 @@
+program P25a : k : takes N, u2, R, N : boolean array returns integer array k, k0 : boolean; when case 48 and 2 : output "" . "|" end case 90 < 6 : when case 186 : chillax end end end main : when case - not true or true rem false and 5 - (1) <= (62) - (51) and 847 : chillax end end

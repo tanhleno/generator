@@ -1,0 +1,1 @@
+program i6F : main : d4 : boolean; when case not not R / o[3100] or true : chillax end; pop; when case 706 <= - 2 : when case 026 : chillax end case 8 : chillax end otherwise : chillax end; pop end case - 1 : when case 6 : chillax end end; input y6; while 1 : chillax end; input P[3]; pop end

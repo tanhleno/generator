@@ -1,0 +1,1 @@
+program g : Wo : takes Y, A4 : boolean array; Dp : boolean; S0, p : boolean; bF, Tm, I, G : boolean array; L0wa, Fb00a, f1, yg7aa : boolean array; F, x, V : integer array returns nothing let q4u[- 84] = 3 - 70 /= 40; output 1 = 2; let kKP = array 36; let P8[2] = array 2; do g(2) end main : output "5" end

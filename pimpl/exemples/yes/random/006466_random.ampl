@@ -1,0 +1,1 @@
+program g9 : c8 : takes B, d9, q8, C : integer; c, j60 : boolean array returns nothing a9 : integer array; pop 3 - 52200 >= 8; while - 796 : pop; input a0 end; let Q08[1] = array 2 end main : U, o, _3, F7, M, aoGaa, C : integer; I, i, jj2 : integer array; chillax end

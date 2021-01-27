@@ -1,0 +1,1 @@
+program dv4a : main : when case not false * u[2] and not 98 or(54600) / 8 - 102 and 9 /= - not 0 rem 64 : chillax end case - uE : chillax end case - (2) and 3 or 3 - 92 <= - 6 - 9 : chillax end otherwise : chillax end; let u14a[- true rem true and 7 + true and 92] = - true and 92 - 0 = - 2 - 5 end

@@ -1,0 +1,1 @@
+program e : a : takes yn70a, U6g0, lQP : boolean array returns nothing when case - (6) and 4 : chillax end case 1 - 5 >= 49 : output "3c"; when case 97 : chillax end end; input c end hY : takes I, X81 : integer array returns nothing E, m3 : integer; chillax end main : let E = - 72 and 27 end

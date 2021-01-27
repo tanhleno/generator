@@ -1,0 +1,1 @@
+program P69 : V1 : takes A : integer array returns nothing vs, B : boolean; chillax end k : takes f2 : boolean; EOF : boolean; x : integer array returns integer qw : integer; O, g4, _82 : integer; output "" end Z03 : takes h, s : boolean; S1, D : boolean array returns nothing chillax end main : input m end

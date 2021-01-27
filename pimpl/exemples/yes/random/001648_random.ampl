@@ -1,0 +1,1 @@
+program h4ja : J : takes v, r0ga, H, tcC, j, n : integer; t9, qN7 : integer array; b : boolean returns integer r, w : integer; n4 : integer array; h, r4, ps : boolean array; Z, cD : boolean; d : boolean; chillax end main : input d89; pop - false /= 14 end

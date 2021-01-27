@@ -1,0 +1,1 @@
+program I : main : when case false * true * 5 and 7 or(828) + 2 and 5 = (00) / true : chillax end case 032 * true - G : chillax end case - true and 72 : chillax end otherwise : while 39 = 78 : pop; pop end; pop 52; input i end end

@@ -1,0 +1,1 @@
+program sVDaa : z : takes O : integer; D, Mr, CO, L7 : integer; D, W : integer returns boolean Z : integer array; chillax end fU3 : takes q, _3, s, E : integer array returns nothing G : integer array; Wk0, i, w : boolean; do Mf0(4 - 6, 5) end main : _, o : boolean array; chillax end

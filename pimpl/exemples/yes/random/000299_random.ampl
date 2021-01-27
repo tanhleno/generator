@@ -1,0 +1,1 @@
+program nW1aa : J : takes o, S980, bL6, nn, h2, r, x, b10 : integer; zlZ, C, M73, _ : boolean array returns nothing ZN8, EU : boolean array; N : integer array; let d6 = 05 - 69700 < 6 end main : chillax end

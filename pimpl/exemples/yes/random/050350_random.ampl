@@ -1,0 +1,1 @@
+program brsaa : kf : takes S : integer; o, B : boolean; Gy, Rq : integer array returns boolean array a8, J8, u, Cj, N : boolean; j4, EHYa : boolean; R, OU2, m5e : boolean array; o7, h7v : boolean; _ : boolean; input Z[not 7]; let FW[17] = array 66 - 9 end main : X, u, Q, s18aa, V, f260a, w : boolean; W, o : boolean; WL : integer array; output - false / 96 and 3 . "\\%" end

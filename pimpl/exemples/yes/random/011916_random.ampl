@@ -1,0 +1,1 @@
+program R : rL : takes qQU0, bP, i5z0 : boolean returns integer do j9(not 70400 = 6 - 3220) end DNC : takes J7, Oh, L110a, Pa : integer; i, uk, uDa : integer returns nothing input V end C : takes S : boolean array returns boolean array do WS0(9 = 8); do d(6, 4); input n6R0 end main : LX : boolean array; p, R1, N : boolean; I : boolean array; Q : boolean; chillax end

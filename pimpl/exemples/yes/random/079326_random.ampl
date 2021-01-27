@@ -1,0 +1,1 @@
+program n2 : main : b : boolean; c_30 : boolean array; l, ypS, XK, I2F0, Ud3 : integer; j, E8M0a : integer; when case 331 + 62 and 5 and 13 + 02 : chillax end case - (9) * P60aa or true and 0890 > - not 2 : chillax end otherwise : chillax end; output not 95 > 0 - 5 end

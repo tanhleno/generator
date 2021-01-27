@@ -1,0 +1,1 @@
+program XC : N5 : takes t03a : integer returns integer array ze3, tL7, x8 : integer; E, z290a, j, R : integer array; ofYaa, mS : boolean array; H, wh : boolean; when case 0 and 4 /= 08 - 2 : chillax end end main : while false : output 8 . "" end end

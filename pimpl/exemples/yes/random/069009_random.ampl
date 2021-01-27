@@ -1,0 +1,1 @@
+program k88aa : main : _04, K, r3, Oo7a, Qn : integer; P3, QO, w, K8Sa, lu, B9 : boolean array; l, XQw0, J : boolean; let x[- 90 rem(4) / (52) and 583 + 95000 and a and 24 - not 9480 and 3] = false + uXA0a and 6 end

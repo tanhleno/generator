@@ -1,0 +1,1 @@
+program TYfa : main : input i; when case - true - U - 7 /= 0 : when case 9 : when case 150 : chillax end end otherwise : chillax end end otherwise : when case 7 : pop end case 03300 : chillax end otherwise : chillax end; let y = 3; input S83; pop end; pop; output 5 . 842 . 66 . "" end

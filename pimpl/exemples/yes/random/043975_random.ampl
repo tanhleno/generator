@@ -1,0 +1,1 @@
+program z : r0 : takes U : boolean array returns nothing N, E, Fb6, M7, q : integer array; D5z, Zw : boolean; chillax end x7 : takes W, SZ : integer returns nothing input k; let s = 3; do jHOa(2) end main : output true * true - T . "\ti\"a" . ""; do n9s(- (4) * (72)); do Q3(- f2L and 7 - 3 - 3, - 0 <= 844); do O(- 2 <= 70, 9 = 3) end

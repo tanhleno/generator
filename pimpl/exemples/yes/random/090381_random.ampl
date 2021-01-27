@@ -1,0 +1,1 @@
+program G : main : let a = not(8) rem(65) and 6 or false and 791 or 3 - 3; when case(0) and r2 and 2 + false : when case 0 : while 8620 : chillax end; pop end case 65 : pop end end case 83 + 95 - 53 > - 7 : chillax end end

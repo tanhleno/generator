@@ -1,0 +1,1 @@
+program x : a92 : takes t, w, ZHJ : integer; M : boolean; t2 : integer array returns nothing input A6Ca[- not 58]; do _(069 /= 3, 1 = 7); pop end L : takes D : boolean array; aw : integer returns boolean array chillax end main : input T8U end

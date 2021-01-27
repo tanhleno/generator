@@ -1,0 +1,1 @@
+program Pu8 : f5x : takes oD, O, O, z41aa, s, o : boolean array; L, u, Y : integer array returns nothing C : integer; while false - 6 : let C[6] = array 883 end; input e[1] end main : output "" . "h#"; while - not 233 : when case 3 : pop end case 8 : pop end; output 8 end end

@@ -1,0 +1,1 @@
+program S2 : vKB0a : takes K, c, GG : boolean; v : boolean array; k, _i0, wq, dA8, f89 : integer array returns nothing u : boolean array; lO5, F : integer; chillax end main : m5, b9V0a, XB, W0Ma, W : integer array; chillax end

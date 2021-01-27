@@ -1,0 +1,1 @@
+program o4 : Y : takes l0 : boolean array returns nothing O : integer array; u, w, qa, A : integer array; while - true : pop; pop end end _9Za : takes E : boolean returns nothing chillax end main : output - 7 /= false and 0 - 5 - 0; let j3La = array true + false end

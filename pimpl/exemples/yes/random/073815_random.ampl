@@ -1,0 +1,1 @@
+program MGo : main : L1, L1 : boolean; O4q : boolean array; j, m1, wQ, vx6 : boolean; w3, eIj0, e, jG : boolean array; do H0(- 52 / 251 / 2 or not N4); while not(3) and not 27 : pop end; when case(74) + 3 < 198 : input P7[92]; pop; while 3 : chillax end; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program C : G : takes H0, Mo : integer array returns nothing let T7[- not 5 and 09900] = - 0; let uZ6aa = 8; pop 54; when case 51 : chillax end case 6 : chillax end otherwise : chillax end; do a(53); do z(023); pop end main : o : integer array; Zs : boolean array; let d4x0a[(05400 = 88) / 6 - not true] = - 74 >= true end

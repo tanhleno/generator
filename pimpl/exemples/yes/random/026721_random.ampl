@@ -1,0 +1,1 @@
+program G5 : dc : takes cF, biX : integer; k : integer array; D6 : integer array returns integer array fG : boolean; Xr : integer array; chillax end main : while 4 or 0 * (8) and 2 < o(0) rem(6620) and 9600 : chillax end; when case(909) * true or 99600 and 6 : chillax end; input _; pop 1; let l2g0[4] = array 8; when case 6 : chillax end end

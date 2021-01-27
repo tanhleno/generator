@@ -1,0 +1,1 @@
+program N61aa : O : takes x : integer returns integer array K : integer; J, e, SZ : boolean; output "" end SF : takes C, Wog0a, t0 : boolean array; k, h, x, kE30 : integer array returns boolean input X[5 - 578]; pop; let e0[12] = array 1 end P : takes i, Va, d, h6G : integer returns nothing n6 : integer array; chillax end main : s, z, H : boolean array; input X1 end

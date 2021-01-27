@@ -1,0 +1,1 @@
+program x46 : i : takes fsz, f07a, J : integer; H1, XU : integer returns nothing when case - false - 85 - 4 : chillax end end main : sT : integer array; when case - not(128) / 081 - not x or 04 - 3 - 13400 : when case - 8 < 6 : while 5 : chillax end; let I6eaa = 0 end; let e = array 7000; do U(8) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program P4 : j : takes w, dD : boolean; H, y, j_xaa : boolean array; f : boolean array; b8 : integer; L, y, P : integer array returns nothing D_ : integer; j8, ch, F : boolean; R, h, hi70a : integer array; U : boolean; output - 6 - 8 . 7; pop; while 0 : chillax end; do p18(9500) end main : b6 : integer; e : boolean array; chillax end

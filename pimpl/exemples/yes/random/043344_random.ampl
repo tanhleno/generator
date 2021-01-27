@@ -1,0 +1,1 @@
+program X : P52 : takes g : boolean array returns integer pop; let e[- 2 - 17] = 0 = 84 end l5E : takes i : boolean; A : boolean; p, Qy : boolean array; _ : boolean array; P2 : boolean array returns boolean array let s9[95 - 0] = 520; do B(03 = 3) end main : output "" . not 3 >= 1400 . "E\t0a" . 3 = 09 end

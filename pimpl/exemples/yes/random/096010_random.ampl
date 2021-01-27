@@ -1,0 +1,1 @@
+program WQ40a : main : when case - J - not x1Z / not 5 and 230 : let E = 16 = 70 end case - false rem(738) and 6610 - false - 6 >= - not 09 and 150 : chillax end case - 64500 : chillax end otherwise : input N[8]; when case 6730 : chillax end end end

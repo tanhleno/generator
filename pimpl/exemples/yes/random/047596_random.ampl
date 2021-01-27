@@ -1,0 +1,1 @@
+program G : B : takes C : boolean returns nothing chillax end O2 : takes F : integer array returns boolean array output 8 = 07 . "\t" end M : takes X, B, B, x94aa : integer returns nothing E : boolean array; O3xa : boolean; N : boolean; input HO[6] end main : chillax end

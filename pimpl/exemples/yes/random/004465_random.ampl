@@ -1,0 +1,1 @@
+program T : a : takes JZ, o, H, t4 : boolean; yod0a : boolean; G40, A : boolean array returns integer array Q : boolean; pop end j : takes U, o, i : integer returns integer array chillax end main : output "" end

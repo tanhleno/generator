@@ -1,0 +1,1 @@
+program i6 : R : takes l, Mo, U5i, t, G : boolean returns boolean output "6" . "V\t\""; when case - 19 /= 02 : do A(63); do G(5); pop end otherwise : chillax end; pop; do p(3); input Ud0a end b_Q : takes q : boolean returns nothing chillax end main : do mMa(true + N(7) /= false and(799) + o, true rem false, true - 1) end

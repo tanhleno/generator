@@ -1,0 +1,1 @@
+program G : Q : takes M, ER5a : integer returns boolean array pop 2010 end main : do m(tOB rem not 09 rem false and 0 > - true and(70200)); while - not true / (82) <= - (4) and 6 : output "" . 7 end end

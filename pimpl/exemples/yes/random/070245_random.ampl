@@ -1,0 +1,1 @@
+program S3l : main : j, I, fh, V : integer; O : integer array; E, kz : integer array; fQu, n, u : boolean array; x6 : boolean array; while - true : when case 3 - 40 < 3570 : while 1 : chillax end end case 284 = 8 : chillax end otherwise : chillax end end; let Z8 = array - false * (8) and 83 end

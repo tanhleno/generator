@@ -1,0 +1,1 @@
+program w7d0a : main : lc, B6 : boolean array; while f[684] * true * (5) and 13 - true + 39 and 8 - 8 - 4 : chillax end; let p6[not F] = array 029; when case - true and 58 > - 4 : chillax end case - 7 > 7 : when case 09 : chillax end; do E(01); pop end; when case - 2 - 6 : while 8 : chillax end; pop end end

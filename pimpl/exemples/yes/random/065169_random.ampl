@@ -1,0 +1,1 @@
+program w : w73 : takes e : integer returns nothing input u2[(111) - 6370]; input e end main : C : boolean; let r[false] = array false and(30) + U6; pop - G10aa + 38 > - 2010 - 4; output 0 - 935 . "" . 1 . 9 . ">D" end

@@ -1,0 +1,1 @@
+program z : A7 : takes R9, O : boolean array; w, Vn : boolean array; D84a, e, D : boolean; yL, a95a : integer array returns nothing chillax end Db : takes q, iu4, e97aa, b2 : boolean returns boolean array while 6 - 36 <= 90 : when case 4 : chillax end end end main : XG, h : integer array; chillax end

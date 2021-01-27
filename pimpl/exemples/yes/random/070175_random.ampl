@@ -1,0 +1,1 @@
+program pD : main : J, b, d, WY : integer; f : boolean; _w, bI7, pl8, s : integer; D8 : boolean array; when case(9 = 8) + not 08 and true : input a; do d180(0 = 90, 3400, 0); let q = 57 end otherwise : chillax end; pop - not 88 + 482 - 820 > 445 end

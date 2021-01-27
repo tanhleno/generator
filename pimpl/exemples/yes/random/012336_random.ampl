@@ -1,0 +1,1 @@
+program l7 : pvL0a : takes s0, d72, y : boolean returns nothing b : boolean array; W9, r : boolean array; iw9aa, O5, y : integer; chillax end main : while - false and true * (0) and 3 : chillax end; while - not not 8 rem O <= (3) or 0 : chillax end end

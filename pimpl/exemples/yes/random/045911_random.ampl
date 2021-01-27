@@ -1,0 +1,1 @@
+program E : M : takes dr : boolean returns boolean chillax end F : takes C, I : boolean array; q, t : integer; j, kKR : integer; d, Qup, x : integer returns nothing while 06 : chillax end; input j end main : oR : boolean array; J06aa : boolean; Lhla, l57, u5 : integer array; mB, E580a, n7 : boolean; output 29500 . (7) and 27 - 0 = 1690 - 3; input J end

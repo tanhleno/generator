@@ -1,0 +1,1 @@
+program Y960a : main : U, O : boolean; when case true and not G7 or 38 or not 7 and 889 + 1 - 49 > 4 and false and 149 + false : let c = 4 = 3170; pop end case 525 * v41a or true and 60300 : do L(9, 09200) end case - false + 6 : chillax end otherwise : input Yd1; do G0Aa(066) end; output "8+!" . - 0 = 98; while - false and 2 + 1 <= 1 : chillax end; pop end

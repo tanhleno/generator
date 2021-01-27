@@ -1,0 +1,1 @@
+program m : o : takes g : integer array; S6, M4U0a : boolean; p, Z2 : boolean; x9, W : boolean array returns nothing z : boolean; pop 30100 end n9qa : takes ku1a : boolean array returns nothing chillax end GwLaa : takes p : boolean array returns nothing while 060 = 453 : pop; pop end end main : chillax end

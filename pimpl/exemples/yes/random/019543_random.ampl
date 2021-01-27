@@ -1,0 +1,1 @@
+program I : uK : takes RB3, Qp : boolean array; O, n : integer array returns integer S : boolean array; H4eaa, K6 : boolean; m : boolean; N, o : boolean; while(71) and 6130 + 6 - 06 : chillax end; output 41 = 9 . 19 . 645; do i(21 = 4); do M(3); pop; let u = 92 end main : chillax end

@@ -1,0 +1,1 @@
+program L : main : z, A : integer array; rp, L0, F, X : integer; input K8Taa[false rem not true * (67) and 60200 + true or not 9 - 9860 - 9]; do R(301 >= - false, - false and 2 - 9 <= 8, - 1 - 4 < 9); pop 8; input O end

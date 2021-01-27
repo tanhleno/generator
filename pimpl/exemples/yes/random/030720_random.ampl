@@ -1,0 +1,1 @@
+program k8 : AG : takes L, aXRa : integer array returns nothing Z64aa : boolean; D, ne6, R, YMP0a : integer array; U : integer; while - true + 92 <= 313 - 3 : chillax end; input r9s[- 08 - 725] end main : chillax end

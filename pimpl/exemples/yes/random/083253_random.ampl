@@ -1,0 +1,1 @@
+program Z : main : V : integer; G, YE80a, r5, r0H : integer; TS : boolean; Hn, X, d4 : boolean array; d, Oml0, C0 : integer array; when case - 1 : chillax end otherwise : input yU[18900] end; output Z and 05200 < - 86 - 02 end

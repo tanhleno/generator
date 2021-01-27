@@ -1,0 +1,1 @@
+program IKga : G : takes om : boolean returns nothing pop 3 - 347 end main : l, jZm0 : boolean; b : integer array; m : integer array; tnT : boolean; j : integer; n : boolean; O : boolean; C1 : boolean; chillax end

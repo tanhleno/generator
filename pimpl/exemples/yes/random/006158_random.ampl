@@ -1,0 +1,1 @@
+program e990a : X : takes _, g, j, slaaa : boolean returns nothing tg2aa, h, jSz : boolean; P1H0, k, _ : integer array; let lJ = - 49900 end main : z : boolean array; z0t0, C : boolean; Z3, g1ia, q, S, d0 : boolean; Q6G0, N, d5h, kA : integer array; sL80 : boolean; _2, oiG0 : boolean; chillax end

@@ -1,0 +1,1 @@
+program f : main : t, I : integer array; a : integer array; do w3(41 and false - (1) rem not 8290 and 69 + (40) and 77300 >= 7 rem false and 1 or(8) and 1 - 1); input Y[not 532 or Q]; let V7[- true or 9] = 46 - 1 = 408 end

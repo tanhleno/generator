@@ -1,0 +1,1 @@
+program JL40 : I : takes o0, UP, n5ea, Up3a, y : integer; M : boolean; eh0aa, k, fg : boolean array; Z4raa : integer returns boolean j : integer; KE0aa, V3, t, x : integer; do U(- true and 8090); pop end f : takes d : integer array; av : integer array returns nothing pop end main : chillax end

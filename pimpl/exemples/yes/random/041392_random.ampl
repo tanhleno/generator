@@ -1,0 +1,1 @@
+program Y9 : q8 : takes w : boolean array; f : integer returns nothing B : boolean array; let T = array Rnl0a end WK : takes sN : boolean array returns integer array _9ha, l : integer array; chillax end main : C, q : integer array; BpWa, hB : integer array; chillax end

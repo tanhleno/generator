@@ -1,0 +1,1 @@
+program d : K29aa : takes Z8, CCM, L : boolean returns nothing M3, I, r, n, N : boolean; pN : boolean array; e, dJ, vT : integer; when case - true >= 43 : pop 51 end otherwise : chillax end end main : chillax end

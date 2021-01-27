@@ -1,0 +1,1 @@
+program M : C : takes X : boolean array returns nothing Yc : boolean array; Hr7 : integer array; M, uf, l : boolean array; T : boolean; m98 : boolean; YG : boolean; while(8) and 3 + 905 - 2 : chillax end end main : P : boolean array; chillax end

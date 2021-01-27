@@ -1,0 +1,1 @@
+program V4S : j48 : takes QVK0 : integer array; QDT : boolean array; v560, u, _ : integer array returns integer do Q(- true and 196, 88 - 4 >= 5) end K90aa : takes Z, B : integer returns integer nnQ0a : boolean; chillax end main : Z120a, p_ : boolean; input AI6 end

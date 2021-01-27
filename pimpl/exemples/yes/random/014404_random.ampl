@@ -1,0 +1,1 @@
+program e : P : takes p8e, P, Vw3aa : integer array; TU0a : integer; JrCaa : boolean; T_, c, r, N : integer; cN, M : boolean; z, m, N : boolean array returns nothing n : boolean array; chillax end main : uPN0a : boolean array; do Q((6 = 2790) / not 55 rem 64 and 5, (9) / not 405 and 522 = - 5, (3) and 66500, - 186 - 86, 13 = 5650, 158) end

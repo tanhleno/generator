@@ -1,0 +1,1 @@
+program g : Y : takes mCS, M9, uz, F, Ew : boolean returns boolean chillax end main : gd70 : integer array; R : integer; b : boolean; v, h6, O : integer; input O[- n + (8) + true and 33 or 2]; pop false and 94 end

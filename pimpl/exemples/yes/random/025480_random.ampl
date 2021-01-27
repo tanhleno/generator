@@ -1,0 +1,1 @@
+program pL : h : takes p, f1 : integer; F, q300a : boolean array; a, pZ, W6 : boolean; v, j : integer array returns nothing when case not 3 + 4 - 4 : chillax end otherwise : let W = 19 end; input q[- 66] end main : V : boolean; m : integer array; chillax end

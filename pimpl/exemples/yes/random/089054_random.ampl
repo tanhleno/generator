@@ -1,0 +1,1 @@
+program w5Ga : main : input C[MEf0a[27] + (8) rem false and 3]; when case Ne(99) rem false or false and 60 - 53 /= 931 and 19 : do V(8); pop end case true and 7 or 7 - 33 <= 3 - 5 : while 02400 : pop end end end

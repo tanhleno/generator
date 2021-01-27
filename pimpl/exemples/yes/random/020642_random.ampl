@@ -1,0 +1,1 @@
+program C1 : F : takes z, M : boolean array; W79 : integer returns boolean array chillax end FN : takes e, B : boolean returns integer array let z = array - 0550 - 852 end main : output true / false and 1520 + 9 or 334 >= 35 . (48); while - L8[47] rem(82) and 13 : while 0 : pop end; output 6 end; pop end

@@ -1,0 +1,1 @@
+program e : d7 : takes J, q, q : boolean array; E : integer array; kqg0 : boolean array returns nothing chillax end main : output E9[5310] >= (5); while g(1) rem not 548 and 3 or not 7 and 2 /= false and 833 or 56 - 8 : do b6(0 = 7, 50500, 35); while 0 : chillax end end end

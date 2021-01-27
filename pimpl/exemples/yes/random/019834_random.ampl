@@ -1,0 +1,1 @@
+program kM4a : X : takes u, G : boolean array; Vd : boolean array; F9A0, M : boolean; Rh, NJ, m : integer array; n5F : integer array; pb, Q, T : integer array returns integer _X, pH, Q : boolean; a : integer; chillax end main : let P[- (38)] = false /= false or 73; do eI(true > - false + 654 - 7) end

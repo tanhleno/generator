@@ -1,0 +1,1 @@
+program CX : main : un : integer array; V, KHE : integer array; do J(- 1 and not true rem(05) or(4) < - true + true and 6 - 4, true or false and 5 < true + 9 - 78400, (4) and 9); do N(true / not 194 /= true and 8, true - 1 /= - 63 - 032); when case 5 and 14 : chillax end case 4 : chillax end otherwise : chillax end; input Z_[13 - 6] end

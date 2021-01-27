@@ -1,0 +1,1 @@
+program p : G3 : takes L : integer array; V11aa : boolean returns nothing when case - (513) - 7 - 4 : chillax end case - 1 <= 4 : chillax end; do N6(- 178 - 85000 = 15000, 2 = 687) end main : N : integer array; kQO0a, OA, Z : integer; pop; let r7P0 = array - false - not 2 end

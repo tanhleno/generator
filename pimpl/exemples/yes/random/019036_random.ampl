@@ -1,0 +1,1 @@
+program bb : o5 : takes H05, Y03 : boolean array; c, Jj, g : integer array; g7 : boolean; m : integer returns boolean do YTQ(not 0 < - 6 - 5530, 6740 - 67 >= 20); when case 02 - 7 > 8 : chillax end otherwise : input W; pop end; when case 8040 : do P2(6) end otherwise : chillax end end main : chillax end

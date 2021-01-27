@@ -1,0 +1,1 @@
+program P : X : takes jm : boolean; JgQaa : boolean array; D : integer returns boolean array input M2[- true and 3] end Z : takes sM, N2, BB : boolean returns boolean chillax end main : V : boolean; chillax end

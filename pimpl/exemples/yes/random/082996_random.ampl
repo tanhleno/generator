@@ -1,0 +1,1 @@
+program A4 : main : ZP : integer; do YH(- 24); when case - (654) * e <= - not 5430 and 739 + 3 - 78 : pop end case - 94 : input t2 end case - 839 : chillax end case 078 = 9 : do cQA0a(3) end otherwise : chillax end; let z[not 196] = array - true end

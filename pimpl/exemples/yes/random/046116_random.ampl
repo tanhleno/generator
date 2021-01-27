@@ -1,0 +1,1 @@
+program a : j : takes j : boolean returns boolean L5t, oo : boolean; i, C, j, K3 : boolean array; Pj90a, M56 : boolean; a10, i : boolean; G : boolean; r : boolean; chillax end _ : takes F5 : boolean array; H : boolean array; g : integer array returns integer array chillax end main : let F3[(0 = 7)] = false and 80 <= not 17 - 37 end

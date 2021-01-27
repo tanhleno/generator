@@ -1,0 +1,1 @@
+program WC : b : takes oj0, x, C : integer returns boolean _, fAMaa, M : integer; output "+" . 23 = 9 . 69 . "" . ""; pop 2 end b : takes p, B, H, eI, SU : boolean returns nothing do O(191 - 05) end main : v : boolean; chillax end

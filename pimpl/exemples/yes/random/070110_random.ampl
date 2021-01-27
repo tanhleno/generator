@@ -1,0 +1,1 @@
+program rF : main : eAt, r2, fr70, fH : integer; c, w, h : boolean array; while true * true and false = - false and(5) : let ui = array - 25 - 335; do k(43, 21) end; let v[- Xs4(2) or 695] = - 590 end

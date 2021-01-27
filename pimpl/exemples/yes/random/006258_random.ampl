@@ -1,0 +1,1 @@
+program mf : h5 : takes D, X, B6, eDYa : boolean returns nothing let M5 = - 2 - 8 /= 7; output "04aa" . "" . "9" end F : takes w3 : boolean returns integer Pe, Y2, B8raa : boolean; C : boolean array; chillax end main : chillax end

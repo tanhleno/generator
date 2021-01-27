@@ -1,0 +1,1 @@
+program Ss8 : QQ : takes Y, F : boolean array returns integer output 2 - 16 < 56 . "" . 61; pop 3; pop 0 end y6 : takes z : integer array; sDa : boolean returns nothing l3, t7 : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e : T : takes I2, b : integer array; k : boolean array; j : integer array; NY : integer; Y03a : integer array; e0 : boolean array returns nothing chillax end main : pop; let YW = array j + 0 and 62 or 33 - 9; let q = 2 < 090 end

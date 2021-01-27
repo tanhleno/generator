@@ -1,0 +1,1 @@
+program ur70 : C : takes Kj, P : integer array; N9 : boolean array; _64 : integer; h : integer array returns nothing output 8 - 3 < 9 end Ib00 : takes b1, _, M, oG, w85 : boolean; L : integer; M : boolean array returns boolean VQ2 : boolean array; D500a : integer; chillax end main : chillax end

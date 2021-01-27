@@ -1,0 +1,1 @@
+program e : main : H6, A42 : boolean array; when case not true : chillax end otherwise : do Z5G(8 = 5, 6520); while 91 : chillax end end; let J3[Q[6790] - not 22 and 4] = array - (0) / true; input R[- not 65 and 833 + 160]; do m(14 - 64, 4, 4580) end

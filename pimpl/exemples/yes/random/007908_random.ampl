@@ -1,0 +1,1 @@
+program q : e : takes ml, a5Y, N, y4Iaa : integer returns boolean array chillax end main : when case - e_[54] / not 2630 >= not 89 - false : chillax end case E9c - v and 9 <= true - 9 : chillax end; output "|" end

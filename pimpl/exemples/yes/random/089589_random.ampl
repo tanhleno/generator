@@ -1,0 +1,1 @@
+program x : main : let P = - not false - not 2 and 6 - 76 - 2 = - 13; do J(- 7 * 672 + 19 - 3 - 8 >= - not 2, m or 389 - 2 > - 945); input d[- true and 6]; while - 4 - 069 <= 5 : pop; input g end end

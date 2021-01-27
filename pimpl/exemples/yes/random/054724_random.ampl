@@ -1,0 +1,1 @@
+program CY6 : g : takes L : integer array; st, F : boolean array returns nothing Spb, ahA : boolean array; I : integer array; Kf : boolean array; v : boolean; chillax end main : c, g : boolean; B, Q : boolean; T, Ioa : integer array; h, H, a4, B : boolean; q380, m1c : boolean; input k2[- (8 = 5680) rem(425) rem not 2 and 3] end

@@ -1,0 +1,1 @@
+program hO6a : v7G : takes E : boolean returns nothing R1, U0ea : boolean; E58 : integer; chillax end main : d3 : boolean array; A050 : integer; V5d0a : boolean array; while not not true rem 94 rem false : chillax end end

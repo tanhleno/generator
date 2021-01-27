@@ -1,0 +1,1 @@
+program e0Q : main : v9, Z08 : integer array; E4 : integer array; zR : boolean array; E, N520a, aPe, R : boolean; v : boolean; Z110a : boolean; W2 : boolean; Af : boolean; while XDr[2] - (6) and e /= - false / not 564 and 1540 - not 1 and 24 or 78 : chillax end end

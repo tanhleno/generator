@@ -1,0 +1,1 @@
+program O : E52 : takes fr, d : boolean array returns boolean input f; output "" end iU : takes n : boolean returns integer do aT2(- 73 - 81 /= 80100, 3); do pl(9, 7860, 07400) end main : chillax end

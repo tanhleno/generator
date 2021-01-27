@@ -1,0 +1,1 @@
+program LA4 : Rok : takes XUD : boolean returns integer array G, T : boolean; ny : boolean; when case not 2 and 564 < 65 : do a(46400) end case - 0 : when case 949 : chillax end end; do bM(3 - 92 > 3, 3 = 085, 90) end m : takes G, N : boolean returns nothing output "" . 2 . "" . "" end main : chillax end

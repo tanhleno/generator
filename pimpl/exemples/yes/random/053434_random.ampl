@@ -1,0 +1,1 @@
+program AL9 : Q : takes K : integer array; R6Taa, E, q, i7s, R18a, f, f : integer returns nothing when case - 1 and 476 : chillax end case - 593 - 77 : output ""; pop; pop end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program mq9 : H : takes i6A : boolean returns nothing a, Z : boolean array; do z(J96a and 9 > - 1 - 525, 93 - 7, 2 = 0) end main : O1 : integer array; let WxT[- true] = array - not false and 370 + not false and 8 and 1; pop - 1 and 6 >= - 7 - 8650 end

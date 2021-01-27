@@ -1,0 +1,1 @@
+program k : uA2 : takes _ : integer returns integer n4, jYZ, _, r : integer; while - 8 and 2 < 1 - 24 : chillax end; do p(0 - 471) end main : U, K, a2 : integer array; when case - i rem not tU80 * e or false * not 281 and 02500 or u40 or 61300 - 691 >= false / Z19 : chillax end; output - false <= - 005 . - 999 - 1 < 8720; output - 74 <= 0 . "k6" end

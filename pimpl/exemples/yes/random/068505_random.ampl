@@ -1,0 +1,1 @@
+program q : main : p, m, Z, m, ShH, S4 : integer; Q, q : integer; j, Kh, E, wB9 : boolean array; input Jb[- 0 - 8610 / (9) - Mo4 + 9030 - 117]; when case - false / 1 : chillax end otherwise : when case 4 : chillax end otherwise : chillax end; output "" end end

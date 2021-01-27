@@ -1,0 +1,1 @@
+program lv : O : takes X5Ba, R : integer; z : integer returns nothing J32a, D, fL60a, MX, f : boolean array; when case - false and 25500 : do Y(415, 391) end; output ""; while 09100 : chillax end; input ic end main : pop end

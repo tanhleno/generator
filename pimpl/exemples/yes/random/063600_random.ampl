@@ -1,0 +1,1 @@
+program E : N : takes S : integer returns integer when case - not 4 and 2 - 52 - 1 : chillax end case - 650 - 3 : chillax end case 76 : output "" end otherwise : pop; do ug(767); pop end; when case 035 : while 3 : chillax end end case 4 : when case 3 : chillax end; pop end otherwise : chillax end end main : T, c9Z : integer; j : boolean array; output "[_" end

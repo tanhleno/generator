@@ -1,0 +1,1 @@
+program O5yaa : main : F, sk6, Ge : integer; do D(- true and true + p4(974) rem true, - k rem false and 9 or not 0 and 2 + 6 - 43 /= y1 or 69100 - 9, - not 9 or 5 - 3 < 4, 9 - 45800 > 1); output "" . 86 end

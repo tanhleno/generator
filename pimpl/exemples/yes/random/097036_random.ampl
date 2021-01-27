@@ -1,0 +1,1 @@
+program w : main : when case V5[869] : input G1; when case 19 : chillax end; input n9o0 end case not not 2 or false and 48500 or 3 /= - false : chillax end case - (09) and 6 or 2 = 91 : while 1 : pop end end; pop end

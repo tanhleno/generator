@@ -1,0 +1,1 @@
+program d : U : takes t8 : integer array; g : integer array; S, s : integer array; k : boolean array; BZ2, H, j : boolean; YA, _Q2 : integer array returns integer array N6, _ : integer; while - false and 41 <= 4 : let W = array 4 end; output "" end X0 : takes J : integer array returns nothing pop 9 end main : S, i, v9 : boolean; pe : boolean; chillax end

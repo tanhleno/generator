@@ -1,0 +1,1 @@
+program p9 : main : r6 : boolean array; let dfzaa[- 7] = array - _g2 or true + 039 and 04 or 53; while - (1) rem not 38200 and 8 - t and 4 or 5 - 77 : output 09 . 89 . "P\n"; while 470 : chillax end end end

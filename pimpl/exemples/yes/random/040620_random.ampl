@@ -1,0 +1,1 @@
+program U : O43a : takes qrQ : boolean array; Tb00 : integer; j : boolean array; x4u, e, qt9a : boolean; J12, ac, R, s : boolean array returns nothing let Lk[(63600) or 12 - 0] = array(68400) and 8 end main : Q : boolean; b : boolean; chillax end

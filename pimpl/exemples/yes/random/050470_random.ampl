@@ -1,0 +1,1 @@
+program fK : E : takes o : integer; Xp2a, Q : boolean array; Q, C : boolean array returns integer array F : boolean array; chillax end g19aa : takes cBj : integer; X580a : boolean array returns boolean x7, s840a, KmC, g000 : integer; v : boolean array; P, z : boolean; while 1 - 5 = 2 : chillax end end main : I : boolean array; Ff, PO, u : boolean array; output - (94) - (3) end

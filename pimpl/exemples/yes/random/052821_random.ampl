@@ -1,0 +1,1 @@
+program E : h : takes C : integer; fA10a : integer array; q : integer array returns boolean F : boolean; let KT7 = 56 - 0500 /= 2; while 9 >= 41 : chillax end end s : takes Vh : integer array returns integer array chillax end main : let K[4 or not 8 / 355] = array - true * 66 / not 1780; do R((1770) < X and 025 or 9 - 4, 6040 and 90 or 5 - 230) end

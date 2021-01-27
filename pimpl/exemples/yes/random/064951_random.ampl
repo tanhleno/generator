@@ -1,0 +1,1 @@
+program q : Papaa : takes i : integer returns nothing M : integer; S9r0, m : boolean; input n5 end F : takes e2 : boolean array returns integer when case - 24 : chillax end case 6 : chillax end case 32 : pop end end main : let y[- X(9) rem 7 - (48)] = - v[94] / (7) end

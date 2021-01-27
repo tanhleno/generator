@@ -1,0 +1,1 @@
+program a : b1i : takes y : boolean array returns nothing u : boolean; fwfaa, wA1, d70, t : integer array; gv : boolean array; X : boolean; chillax end main : P6 : integer; A : integer array; let _[- G77[600] / (266) * O or false - 93 and 1 + 346] = array - false * true end

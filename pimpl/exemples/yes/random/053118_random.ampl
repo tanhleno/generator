@@ -1,0 +1,1 @@
+program Ev1 : h : takes Zz : integer; yc : integer returns boolean array d, k, p : integer array; x : integer; when case - true or 8 > 9 - 051 : input r3Y end case 39 /= 9 : input J5v0 end case 0 = 8 : input F; pop end case 5 : chillax end otherwise : chillax end end main : t : integer; chillax end

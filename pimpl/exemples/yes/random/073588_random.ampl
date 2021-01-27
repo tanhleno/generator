@@ -1,0 +1,1 @@
+program Q : main : K1, M : boolean; jT, C : boolean array; r : boolean array; let g7n0a[- (4 = 969)] = true and(8) and 76300 or 8; when case - JF7 : pop; while 6 : pop end end otherwise : chillax end; pop; output 2220 = 71 . "B\na" end

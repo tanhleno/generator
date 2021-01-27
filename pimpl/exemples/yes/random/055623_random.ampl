@@ -1,0 +1,1 @@
+program Y : _ : takes R : integer array; a : boolean; pX : boolean array; Y : integer array returns nothing x : integer array; ch, ld6, ky, DC : boolean; chillax end main : output - (6) rem false or A /= - not 2 and 6 - 70 . "^f0a" . "" . "" . 02 end

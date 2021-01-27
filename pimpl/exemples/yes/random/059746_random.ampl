@@ -1,0 +1,1 @@
+program cVO : A610 : takes C : integer array returns nothing chillax end g : takes WX, Bx : integer array; L, G : integer returns boolean chillax end y250a : takes e7h, jP_a : boolean array returns nothing chillax end qh : takes J : integer; H : integer array returns nothing chillax end main : chillax end

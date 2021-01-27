@@ -1,0 +1,1 @@
+program G : E : takes n, J, Z : integer; j : integer array; o1naa, jW, d9, H, V, a : boolean array; S : boolean returns nothing Dt, U9, o : boolean; do Cov(- d3 or 88, - 0510 - 085 > 0); do F0(- 85 - 9340, 09, 4490, 00) end M : takes l : boolean array; eyl0a, z, On, X : integer array returns boolean O1N, Z, c9 : boolean array; chillax end main : chillax end

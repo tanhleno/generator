@@ -1,0 +1,1 @@
+program g : F : takes w25a, c, Q, Hu, K : boolean array; S79a, X6 : integer returns nothing chillax end KJ : takes m : boolean array; D : boolean returns nothing chillax end i18aa : takes r, Mu : boolean array; fs, tlfa, E, Y, F6g : integer; FXy : integer; k : boolean array; e3M, T : boolean returns boolean chillax end main : i5j : boolean; chillax end

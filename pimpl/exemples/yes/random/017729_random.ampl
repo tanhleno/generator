@@ -1,0 +1,1 @@
+program cK : nE0 : takes o3, DQ : boolean; de : boolean array; RQ3, Z, h3, _, AR : integer array; W : boolean returns integer array O, E0 : boolean; chillax end main : o, Lf, m : integer; let c[8 / 68 + not(661)] = array - qo(45, 5) - false * false end

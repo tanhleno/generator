@@ -1,0 +1,1 @@
+program w : gx : takes j, u, Z9, v : boolean array; Wc : boolean array; g1Oa : integer array returns nothing chillax end LwO0 : takes A56aa, Xy6aa : integer array; q, m430a, U_, r, mi : integer; f3, W, _t1 : integer array returns boolean array uwy, R89, M, A : integer array; chillax end main : cp : integer; M2, P, T5, g, x : integer; let D = - false and A and 45 end

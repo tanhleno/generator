@@ -1,0 +1,1 @@
+program sE40a : main : pop - K / true - (02); let P[false or(35) and 3 - 7 - 6] = - (5) and 22; when case - 6 and 51200 <= 24 : input I end case - 24 - 17 >= 30 : chillax end case 2 = 8 : input t1; pop end case 2 : chillax end case 29 : chillax end; output 9 . "S" . "" . "" end

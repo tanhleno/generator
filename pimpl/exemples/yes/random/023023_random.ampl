@@ -1,0 +1,1 @@
+program Bf8aa : hD : takes l, U4t : boolean returns boolean array H8 : integer; m : integer array; R8, Z : integer; N5t, M : boolean; pop 49200 < 42700; do Md2(- 05200); let P = array 2780; pop 6450 end main : b : boolean array; M, d, H, LoQ0a : integer; N : integer; chillax end

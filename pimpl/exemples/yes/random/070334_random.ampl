@@ -1,0 +1,1 @@
+program w2 : main : T4, hKm0a, K93, z : integer; when case(0 = 3240) / (1) >= J rem true - 226 and 44 : output 77200 = 5 . "" . "R" . ""; output "2" end; when case - false and eK5 and 3 : chillax end case - true - 03 < 1 - 4 : chillax end case - 7 = 22 : when case 3560 : chillax end; when case 9 : chillax end end case 1 : pop; pop end case 1 : pop end end

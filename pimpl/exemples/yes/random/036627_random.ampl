@@ -1,0 +1,1 @@
+program g : m4 : takes c46 : boolean; qC : integer; mV : integer returns integer array i, C, m8, CC : integer array; when case true and 4 - 72 - 2 : chillax end end y : takes BEE, D, g : integer array returns integer array H : integer array; A0 : boolean; chillax end main : Jl, X, P, R, F, DL, fRH : integer array; output - true and(00900) or a3C >= true - 22; input t09 end

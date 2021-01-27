@@ -1,0 +1,1 @@
+program j3q : y9 : takes dk : integer returns boolean wJJ0a, S : boolean; chillax end main : do h(- 3 or _5p - false and 7 or 1 - 9, - not(513) * not 50 and 1 + (89) < - (591) - 6, - false - 2 <= - 60900, 66, 6 = 6); pop end

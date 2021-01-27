@@ -1,0 +1,1 @@
+program G2 : U : takes E : boolean returns nothing when case IK + 06 < 0 : chillax end case 68 - 0 = 03600 : chillax end otherwise : let K = 6; while 5 : chillax end end end main : J : integer; when case - MQ0aa : do GW(5 - 190); input nF end end

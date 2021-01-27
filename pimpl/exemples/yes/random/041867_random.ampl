@@ -1,0 +1,1 @@
+program bAea : v : takes MH : boolean array returns boolean array pop end w7 : takes U : integer returns nothing SP, Ds : integer; m : integer; e : boolean; do ex(323 - 63, 944, 97); when case 42 = 6 : input W3 end case 9 : chillax end case 2 : chillax end otherwise : chillax end; do T(400, 2); input x1 end main : chillax end

@@ -1,0 +1,1 @@
+program v : main : A : boolean; when case(0 = 8) - (4) and false : chillax end case false - 7 : chillax end case - (196) = 46 : let GKB = 3 end case 58 <= 9 : pop end otherwise : while 8 : while 2 : chillax end; pop end end; let No[- true] = 1 and 3 or 77 - 2; input dR[not 1 and 07 or 65] end

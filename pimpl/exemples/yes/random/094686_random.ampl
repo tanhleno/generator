@@ -1,0 +1,1 @@
+program a : main : pop; pop true < 5 - 8; when case - 13 : chillax end case 9 - 0 : chillax end; pop 029; do m(5, 1); when case 8 : chillax end case 18 : chillax end; when case 15800 : chillax end; while 71100 : chillax end end

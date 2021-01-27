@@ -1,0 +1,1 @@
+program l5 : t1 : takes n7Yaa, b : integer array; u1, Z, y : boolean; k3 : integer; HDH, tC5a, C1, w8M : integer returns nothing do p(- false and 6 - 132 >= 0 - 1) end main : jy5 : boolean; zo5, q : integer; gR, N, s, S1 : boolean; chillax end

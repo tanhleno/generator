@@ -1,0 +1,1 @@
+program m : main : when case - false >= (04) rem false and 10 or not 64 and 1490 or 4 - 989 : chillax end; pop true and 3 - 8 - 8; when case - 66 or 2 : when case 5 : chillax end case 5610 : chillax end otherwise : chillax end; do h(2); do O(1) end case - 4 - 0 > 26 : let T = 7; output "" end otherwise : input N; while 9 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program L2 : V : takes s2 : integer array returns integer array Ce : boolean array; y, p, w_ : boolean; B, q : integer; output "\nz" end l : takes sf, l, i, pg8, q, udS, P : boolean array; J0, ctya : integer array returns nothing D : integer; chillax end main : JQ4, A, BW, D, AT0 : integer; pop s[6] - not 783 and 446; output "=Y" end

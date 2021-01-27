@@ -1,0 +1,1 @@
+program Ho : C : takes S, iog, i : boolean; W : integer; v : boolean array returns boolean input O[- y3] end C7 : takes R9 : boolean returns nothing do q1_(- 05500); pop; pop; input b5Q0a; let d = 901 end main : chillax end

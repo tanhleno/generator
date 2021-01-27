@@ -1,0 +1,1 @@
+program L : c : takes Sr, S : integer returns boolean v8_0 : integer; pop; output ".1\"" end W : takes J0s : boolean returns nothing when case - 9 - 83 : chillax end case 48 = 4 : do ch(963) end otherwise : chillax end end b : takes j, Mh0 : boolean array; i, g, h26 : boolean array; X5O : integer array returns nothing chillax end main : chillax end

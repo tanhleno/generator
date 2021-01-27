@@ -1,0 +1,1 @@
+program RI9a : main : t : integer array; m, KrZaa, h : boolean; when case - true : let LY9 = 0 = 2; pop 2; do K73(30) end case - true <= - not 0800 or 1 : pop 31; when case 8 : chillax end; output "" end end

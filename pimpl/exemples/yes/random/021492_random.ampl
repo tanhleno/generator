@@ -1,0 +1,1 @@
+program pu : Y : takes r, raT : boolean array returns integer array output "" . "" end feK : takes A1 : integer array returns integer array chillax end main : YZm, Z : integer array; A : boolean array; Y, a, d : boolean array; chillax end

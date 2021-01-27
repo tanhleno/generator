@@ -1,0 +1,1 @@
+program hW : I : takes o_h : boolean; h, P : boolean array; xw : boolean array returns integer array dj, M06 : integer; pop; output "" . "" . "" end k : takes e : integer array; I0, v : integer returns nothing q, p1 : boolean array; chillax end e : takes l670 : integer array returns integer array chillax end main : chillax end

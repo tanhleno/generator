@@ -1,0 +1,1 @@
+program L : P8 : takes O4_ : integer array; YB : boolean; OgY, _94 : boolean returns nothing while not 28 >= - 85 : chillax end; when case 5 - 27 : chillax end; pop; do M(2); while 76 : chillax end; pop end Q : takes QwO0, v, Y1 : integer returns nothing s, fA8, t2l0a : integer; chillax end main : chillax end

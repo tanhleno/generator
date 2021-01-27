@@ -1,0 +1,1 @@
+program Q7Da : J : takes ubE0, x : integer array; O : integer returns boolean _n, x, P : integer array; C81, v : boolean array; ssb : boolean; s8 : boolean; Wn : boolean; I : boolean; pop end g : takes _8I0a, vp : integer array; LTHa, u8, Y : boolean array returns integer chillax end main : do N3(not(5) * (8) <= - true) end

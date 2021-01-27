@@ -1,0 +1,1 @@
+program M : RAY0 : takes Z8 : integer array returns nothing chillax end Pu6 : takes U9 : integer; V3 : integer array returns nothing when case - 6 < 1 : chillax end case 24 : output "" end otherwise : when case 88 : chillax end end end main : z3 : integer array; B, N : integer array; s3, c, v : boolean array; chillax end

@@ -1,0 +1,1 @@
+program V81 : j63 : takes D : integer array; H21, b, k5 : integer array; A : integer; ps : boolean array; F, M, lQl : boolean array; P, Ke : integer array returns nothing Og40 : integer array; IG : boolean array; pop; output ""; do xv(67); do _(89400, 75); while 020 : chillax end; pop; pop end main : I, mnD, Cg, O67, y00, gJ, y4 : boolean; chillax end

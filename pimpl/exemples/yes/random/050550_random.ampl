@@ -1,0 +1,1 @@
+program q : gN : takes B3C : integer; b93, _6 : boolean array returns boolean array do h(not 2 and 9 = - 07); when case - 74400 - 5 /= 76 : output "\\!0a" end case 3100 = 57 : input EV; pop end case 413 : pop end end main : rn : boolean array; chillax end

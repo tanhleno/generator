@@ -1,0 +1,1 @@
+program ye : t : takes m7, C, U6Ua, T : integer; GH : boolean returns boolean when case v + 0 : input R end otherwise : chillax end; while - 25 : while 70 : chillax end; output "d"; pop end; input i35aa; output 221 . "&\"0"; do O(4) end main : output "g$0" . "" . 8; pop; output - 83 - 6 . 222 = 9; do CDJaa(7 - 6 = 7) end

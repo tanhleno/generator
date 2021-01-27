@@ -1,0 +1,1 @@
+program z27 : z4e0 : takes UeYaa, u, sm40a : boolean array returns nothing chillax end E1s0a : takes up : boolean array; o : integer returns boolean sSp, q : integer array; u : integer; let jX6[800] = 62 end main : Kdpaa, J, m : boolean; tX : integer array; W, voY : integer; chillax end

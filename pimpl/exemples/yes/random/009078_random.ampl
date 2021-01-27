@@ -1,0 +1,1 @@
+program U9q0a : u : takes US70, W, FL : boolean; C8J : boolean array; yx : integer array; a : boolean array returns integer array u : boolean; hL, e : integer; z9, o : integer; pop; input e end Nl : takes B : integer array; U9, G1, K : boolean; g29 : integer; Sd : integer array returns nothing chillax end main : chillax end

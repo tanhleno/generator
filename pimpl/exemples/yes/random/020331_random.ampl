@@ -1,0 +1,1 @@
+program d : K6U : takes L5, j6f : boolean array; x : integer; p_c : boolean returns nothing l420a, O : integer array; while Bv6 and 22 > 9290 : let TO = 89200; do H(306) end end main : output "\\" . 8 and 7 = - 32 - 8 . "" . 53 . "" end

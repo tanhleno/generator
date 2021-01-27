@@ -1,0 +1,1 @@
+program G : q : takes F, r : integer returns integer array chillax end D : takes fht : integer; DFX : boolean returns nothing Q, P : boolean array; chillax end main : C3q0a : integer; Q : boolean; r, J, O : integer array; chillax end

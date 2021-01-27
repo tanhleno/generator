@@ -1,0 +1,1 @@
+program Klz : kLk0 : takes n : integer array; _4waa : integer array returns nothing chillax end main : when case - false rem d / (4) - false * false and 7 - not 09 : do R(120 - 341, 76 = 0, 18600, 2) end case - false rem not 2 and 80700 or w + 71 <= - false or 3 : do E(3 = 517); output "\"" . "}x\"" end otherwise : do h(8); input NU[9] end end

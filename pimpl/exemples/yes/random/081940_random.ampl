@@ -1,0 +1,1 @@
+program u83 : main : iGO : boolean array; D4 : integer; t : boolean array; lW : boolean array; FU80, c, lm : integer; fj, c : boolean; when case true / (68) * 82200 or false or 1 and 50 /= (1) : pop 3 end otherwise : chillax end; input o[at2[7] rem 2 and 62] end

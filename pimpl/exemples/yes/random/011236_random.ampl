@@ -1,0 +1,1 @@
+program Z46aa : I : takes P, UZ40, B : boolean array returns nothing B6, x : boolean array; d8c, Y, q : integer; hr2 : boolean array; o2 : boolean; iF : boolean; chillax end e : takes p, J : boolean returns nothing Ew6 : boolean array; when case - 6 - 9 : chillax end case 6 : let oN3 = 66; pop end end main : output true . "" . 26 <= 4 end

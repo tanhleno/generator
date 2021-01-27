@@ -1,0 +1,1 @@
+program Dc80a : L : takes i43aa : integer array; n : integer returns integer array m, lAba, g : integer array; U880a : boolean array; yx : integer; _2 : boolean; A0 : boolean; chillax end main : VCta : boolean array; while(14 = 42500) : chillax end; output - false > 2 - 7 end

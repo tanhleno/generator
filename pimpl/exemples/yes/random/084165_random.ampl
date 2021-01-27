@@ -1,0 +1,1 @@
+program l : main : Xieaa : integer; R4 : boolean array; czJ : integer array; while false : output 96600 end; let OT[- true] = v + 6; do _(- 97 <= - 511 - 3, 7 = 0, 60600 = 4); while - 1 /= 3 : input o42a; input M; pop end; do O(0460 = 4, 541) end

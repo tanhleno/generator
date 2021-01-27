@@ -1,0 +1,1 @@
+program g : d : takes T : boolean; w : boolean; F, h : integer; G : integer; YN60a : boolean array returns integer iy9, Q : integer; while - true /= 03 - 07 : chillax end end main : let j[false or not not 8 rem true] = 2 = - true and 9 - 5730 - 8 end

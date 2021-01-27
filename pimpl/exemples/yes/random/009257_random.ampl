@@ -1,0 +1,1 @@
+program m3 : L58 : takes n5, M810a, cG9 : boolean; kD0 : integer; t : boolean; L3u0a, Q : boolean array; q, B0y : integer returns integer j : integer array; x8 : integer; s : boolean array; h, sD20 : boolean; pop 8 - 1 end M : takes az, xEl : boolean array returns integer array g : integer array; U4 : integer; do T(- 94) end main : DG, g8, O : boolean; chillax end

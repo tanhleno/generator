@@ -1,0 +1,1 @@
+program A : mS : takes hi : boolean array; U : boolean; W, T6 : integer; C5, Q5 : integer array; n, A : boolean; KN, n, G : boolean; F : boolean returns integer array input JbIa[false or 40]; input MJ3; while 75 : do Y(4) end end main : SCd, A, S7, b, A3 : integer; m7B : boolean array; chillax end

@@ -1,0 +1,1 @@
+program c : main : V, uK, on, u91 : boolean; y : integer array; when case false /= true : do X(59 >= 0, 4 = 3, 52); input q; while 1 : chillax end end otherwise : chillax end; do p(- not(1) or true + 4 - 37); let DNt = array false and 1 + 3; let w5j[368] = 9 = 23 end

@@ -1,0 +1,1 @@
+program K : main : do M50(8); let Rx = - false + 65 - 2 /= 89; when case - (82) : when case 6780 : chillax end otherwise : chillax end; while 2080 : chillax end; when case 02 : chillax end end otherwise : chillax end; let S3L[- 604] = 1; output 02200; do FP2aa(2, 0) end

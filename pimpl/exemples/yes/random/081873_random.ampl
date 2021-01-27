@@ -1,0 +1,1 @@
+program w : main : u : boolean array; J : integer; S, P, P, fW0 : integer array; _, H1, Z, O : boolean array; pop; do AS((0) + k and 0 <= not 04); let h = 88 - 59 >= 06; input s4; output 5; while 74 : pop end; let d3 = 30 end

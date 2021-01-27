@@ -1,0 +1,1 @@
+program Xn30 : i : takes c26 : boolean returns boolean array chillax end x : takes G, V : integer array; J : integer; p, IM0a, jz, bp : boolean; g, gb50, Wd : boolean; j, G24, l : integer array; p, R : boolean; f : boolean returns nothing N24aa, _1, Q, Y : boolean; _, t2 : integer; when case - 882 /= 888 : chillax end case 79 = 6 : chillax end end main : chillax end

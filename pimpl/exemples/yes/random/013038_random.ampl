@@ -1,0 +1,1 @@
+program C : Wacaa : takes o8d, F, K : integer; q0, a : integer returns boolean array F : boolean array; chillax end main : T, G : integer; v1, H : boolean array; LQ9, p8, O24, Zl : boolean; m : boolean; chillax end

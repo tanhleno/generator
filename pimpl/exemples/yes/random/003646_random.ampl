@@ -1,0 +1,1 @@
+program M : YM : takes k70, Pk, J1, B, g : integer array; c2 : integer returns nothing l, b3 : integer array; chillax end bv : takes P, U : integer array; D, f : boolean array returns boolean array aV60a, R20aa : boolean; let K = array - 94; pop 0 end main : Pf : boolean array; input v end

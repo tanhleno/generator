@@ -1,0 +1,1 @@
+program S : Zk : takes y, q1Aaa : integer returns nothing Qf, g, dy, D85, Uc : integer array; pop 06 end V5 : takes v, EQ, v : integer array returns nothing chillax end main : let Q = - 1 / _ and 6 + true and 2 or 5570 end

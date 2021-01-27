@@ -1,0 +1,1 @@
+program XIua : M9 : takes UA8, G0, V1 : boolean; ukT0a, i : boolean; C : integer returns integer ixQaa, R3Y0a : boolean; while - false + 29 < 3 - 0 : input LWG end end main : L : boolean array; chillax end

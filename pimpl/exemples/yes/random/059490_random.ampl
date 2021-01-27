@@ -1,0 +1,1 @@
+program l1 : o3 : takes kx : integer array returns integer u0 : integer array; input er[not 2 and 9] end main : w_v0, Gxn, m : integer array; z, b : boolean array; let mk[false and not m] = array - 5 * (4) or false end

@@ -1,0 +1,1 @@
+program uqh : LJ : takes S0 : boolean array returns nothing let lq4[- (3) and 52] = 8; let l0 = array - 756 - 88 end main : do e(O(12), true + true and 84 > false and 0 - 7 - 19); let O2 = array - true * X and 3370 + 3; do D4(false and 1, - 1 - 5, 8 = 6, 0); let u[1 - 307] = 6 = 36200 end

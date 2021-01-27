@@ -1,0 +1,1 @@
+program F : sG : takes v, M8, g, n, B : boolean; WCc0, O8P : boolean array; Y, f : boolean array; K0 : integer array returns integer while - 0 and 814 + 405 - 5 /= - 09 - 248 : chillax end; pop 1; do Y(7, 056, 04) end z8 : takes Y9 : boolean returns integer array nP, v, fG9 : integer array; Y : boolean; while - 1 : chillax end end main : chillax end

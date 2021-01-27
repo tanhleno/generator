@@ -1,0 +1,1 @@
+program l : j : takes rZ : integer returns nothing cbo0, m5 : boolean array; o6 : integer; while(2) and 5 = 8 : input Q[911] end; while - 69 - 2370 : let s2O = 6; do B7u0a(4) end; pop 16 end f : takes J, l8, A21 : integer array returns boolean let DB[- 36] = 4 end main : input J; input YV50 end

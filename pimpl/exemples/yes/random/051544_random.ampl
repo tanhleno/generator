@@ -1,0 +1,1 @@
+program F : Z670 : takes I : integer; S9 : boolean; _ : integer array returns nothing X, s5, f : integer; do WKP(false or 8) end main : b, v, R, u, P, y, stJaa : integer array; pop not 2 or true and 84 - 9; let z = - 049 = - 5 - 29800 end

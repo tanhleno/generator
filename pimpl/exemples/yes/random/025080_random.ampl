@@ -1,0 +1,1 @@
+program k : kk : takes n6, s5f : integer; ASs, h7raa, Z, dA : boolean returns nothing I, c4 : boolean array; L : boolean; _z4aa : boolean array; let b[not 370] = - 39 < 10100 end main : w, q1c0a, J80, EjCa, w : integer array; L, P : integer; Q0 : boolean array; kG, i : integer array; D0 : boolean array; input X; output "\"" . "\n" end

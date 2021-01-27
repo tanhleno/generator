@@ -1,0 +1,1 @@
+program h220 : N : takes I : boolean array; s4 : boolean returns nothing do kc(- Zg and 97300 + 09) end main : E : boolean array; u7 : integer array; let i[- 76000] = array false or false and not 12 - not 4 and 44 end

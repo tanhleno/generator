@@ -1,0 +1,1 @@
+program v : F : takes q1F, x : integer array; b, E, z3 : integer; l, J, L2P0a : boolean array returns nothing H : integer; i5, y0l0, D, T4ha : boolean; T, TJNa, g : boolean array; do G6(- 91 and 40 - 5 - 1 = - 835 - 181, 7); when case 9060 /= 55 : chillax end otherwise : chillax end end main : u4, S, X_ : boolean; NW40 : boolean array; pop true = - false and 4 - 81 end

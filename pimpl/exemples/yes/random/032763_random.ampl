@@ -1,0 +1,1 @@
+program h : B : takes kO0aa, DQ : integer returns nothing n : boolean; output "~"; input t; let y = 5; while 3420 : pop end; while 67 : chillax end end V : takes z : integer array returns nothing chillax end main : F : boolean; W : integer array; input j[- not(51500) + true] end

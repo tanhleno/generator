@@ -1,0 +1,1 @@
+program X : n7C0a : takes uX : integer returns integer array when case false + 5 < - 719 - 9 : chillax end case 77 = 13900 : let W190 = 4; pop; pop end case 6 : chillax end otherwise : chillax end; when case - 8 - 5 : output "\\L\"a" end; when case 01 = 72 : chillax end otherwise : pop end; do j(6, 4) end main : mL3aa : integer array; chillax end

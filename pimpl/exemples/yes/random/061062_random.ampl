@@ -1,0 +1,1 @@
+program S07 : S : takes f : integer array returns nothing P : integer; when case - L and 317 >= 92 : chillax end case - 61500 /= 46700 : chillax end end h : takes T8 : integer returns nothing output ""; do b(585, 4); while 3160 : pop end end main : let F_P = array true and true and not 2 and 5; input inJ0a; input k; let x = array - 470 - 6 end

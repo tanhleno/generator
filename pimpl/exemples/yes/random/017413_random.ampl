@@ -1,0 +1,1 @@
+program Y : T40 : takes ikb, m3 : boolean; l, x : integer; u4 : boolean returns nothing P65 : integer array; chillax end main : j : integer; let j6j = array - false - 4; when case(5) = - (37200) and 0 or 611 : pop 5; input c88 end end

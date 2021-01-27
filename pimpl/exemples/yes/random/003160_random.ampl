@@ -1,0 +1,1 @@
+program J : i : takes Gdx0, H6, V0, k4L0, I : integer; P, B, hf50 : integer returns integer chillax end main : E, SZ6a, q1n0 : integer array; Y, D : boolean; a, U_o0 : integer array; output false /= - true . ""; input HK1; when case c : when case 68 : pop end; input GPBa end otherwise : chillax end end

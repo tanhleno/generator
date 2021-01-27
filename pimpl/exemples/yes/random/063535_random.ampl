@@ -1,0 +1,1 @@
+program y : i : takes M : integer returns integer input Ke end ZS4aa : takes d7, HI1, P, R5 : integer array; pgM0, q, g2U0a, O1zaa : integer; o, s, QG : integer; qB3 : integer array returns nothing let S = 4 end v : takes abe : boolean array returns boolean while 5 : chillax end; let Bq7aa = array 0; output "-\taa"; pop; pop end main : PY : integer array; chillax end

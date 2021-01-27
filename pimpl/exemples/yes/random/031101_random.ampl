@@ -1,0 +1,1 @@
+program K : Zp : takes a0, mw1 : integer array returns nothing when case - H8 and 36100 : input D88[58]; do T(2); let O = 0; pop end otherwise : input Q63 end; let P63aa = 8 = 4910; output "" end main : r6v0 : boolean array; hZ : boolean array; y, l, EGN : integer; B : boolean; chillax end

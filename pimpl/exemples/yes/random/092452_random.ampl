@@ -1,0 +1,1 @@
+program y1 : main : output false * not 899 or true and 3 + 84 - 68 /= false; when case - K rem true : chillax end case not 4 and 5 > 7 : chillax end case - 1 : output "\n"; do g70aa(75000) end; when case - (8) and 5 - 0 - 0 : chillax end otherwise : input U6; let p2k = 8 end; pop; let j[694] = array 077; output 69; while 43 : chillax end end

@@ -1,0 +1,1 @@
+program ga00a : h7 : takes F : boolean returns nothing chillax end main : P9 : integer; o, V64 : boolean array; do s(- not PX(879) rem z2qaa(602) and false and 23500 or not 061 / false - true and 76600 + 503 > - not not 59 * not 8320 or not 15 - 977 - 6, - (31300) >= - F and 3, - (9) or 10 - 4 = - 7); output ""; do l(- 55 and 5, 0 - 44, 5 = 57, 2970, 54) end

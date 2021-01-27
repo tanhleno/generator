@@ -1,0 +1,1 @@
+program Xk : e : takes m, LHN : boolean array; o : integer array; ze : boolean array returns integer array while - false and 7 + 5 - 0 : chillax end; pop 5 = 969; input S[4] end main : m39 : boolean; gz, L : boolean; chillax end

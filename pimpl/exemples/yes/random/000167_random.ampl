@@ -1,0 +1,1 @@
+program Rl1 : pV20a : takes gy, S870, d, V, I38, k, fZz, v : boolean array returns boolean hs, n, I4 : integer array; let g = - 7 <= 5 end _ : takes b, m, CT : boolean array returns nothing chillax end B : takes c : boolean; dL : boolean; b : boolean array; O : boolean array; Y, sE0 : boolean; P0 : boolean returns nothing chillax end main : chillax end

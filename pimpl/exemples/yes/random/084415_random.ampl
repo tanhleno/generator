@@ -1,0 +1,1 @@
+program b : main : o : integer; v : integer array; P, m, _, m4y, u_ : integer; T, Q, X : boolean; do yB(not q240a and false + not true and P and 95 or 22300 and 00 + 1 - 0 /= true or not 4 and 80, - not(1) <= true and 49 - 1 - 6, nY) end

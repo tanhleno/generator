@@ -1,0 +1,1 @@
+program U : IE : takes s : integer array returns integer array chillax end J2 : takes WNF : integer returns nothing input m; output 8; when case 60 : pop end otherwise : chillax end end Z : takes k : integer; X, e : boolean; z8Gaa, K4 : boolean returns boolean output "1b"; input G end main : output C(43) and not 3 end

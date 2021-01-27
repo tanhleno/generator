@@ -1,0 +1,1 @@
+program T : main : JB : integer; E : integer array; D, X : boolean array; q7, Y : integer array; N : boolean; pop; when case - 33 + (3) or 0 : input s[021]; while 65300 : chillax end; do O74(92) end; input z end

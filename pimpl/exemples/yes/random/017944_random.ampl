@@ -1,0 +1,1 @@
+program _ : y : takes G, W : boolean; i : boolean array returns nothing M : integer; chillax end main : pop; output - true and 2 + 7 - 4; pop - 9 - 11; pop 7 = 51; when case 32 = 0 : chillax end otherwise : pop end end

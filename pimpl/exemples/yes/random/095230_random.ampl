@@ -1,0 +1,1 @@
+program YP00a : main : pop 28; when case not K * false = not 88100 and 4 or 864 - 0 : input o[2]; let j6D[72] = 4 end case not 4 and 77 >= 6 : do L9(1); input T0Paa end otherwise : input GW; when case 58 : chillax end end end

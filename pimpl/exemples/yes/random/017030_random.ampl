@@ -1,0 +1,1 @@
+program S : f : takes Gw, hg : boolean; _, w, Lf : integer; K0, K75 : boolean array returns integer array chillax end main : R : integer array; mc : integer; n, V, x3W : integer array; L : integer array; chillax end

@@ -1,0 +1,1 @@
+program A : Nn : takes O2, iN, O53 : integer array; TN : boolean array; Z : boolean returns boolean array chillax end main : A, y7, b, i5 : integer; let j6[- not iHD0a] = (436) * (9) - not 37800 and 0 > 6 and 3 or 3; let o75a = array false + (015) and 222 - 0 - 4; output - 96 . 5 . "*\\" . 048 end

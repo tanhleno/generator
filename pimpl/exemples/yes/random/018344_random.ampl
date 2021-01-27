@@ -1,0 +1,1 @@
+program w : S : takes Y, H8 : boolean; k : integer array; fC : integer array returns integer array d, _ : boolean; h : boolean; chillax end m : takes p : boolean array returns boolean yM : boolean array; K6D : boolean array; chillax end N6L0a : takes Rj6 : integer; F, H, H2 : integer array returns nothing chillax end main : pop - true <= - 2 and 61 or 8 - 2 end

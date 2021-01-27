@@ -1,0 +1,1 @@
+program N0 : k : takes yp70 : boolean array returns nothing chillax end y : takes J7c, y3A : integer array; zL50a, gX9a : integer array returns nothing input vcK0[- 0] end r2c0a : takes AIy0a : boolean array returns integer chillax end main : A : integer array; N_6a : boolean array; pop(03) and false; output true - 109 >= - 1 . "" end

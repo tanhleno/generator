@@ -1,0 +1,1 @@
+program Ltu : main : U1P0a, N1 : boolean; qe, g2aa : boolean array; V : integer; let U0[- true + false * true and 8 or(5) or 37500 - 5] = 7870 <= - (33100) and 6; do hK5(- true or(65) >= 2 + 25, - true and 0 - 9 <= - 8, - 55 - 014) end

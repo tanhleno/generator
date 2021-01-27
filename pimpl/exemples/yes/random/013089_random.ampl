@@ -1,0 +1,1 @@
+program vkWaa : fY40a : takes h, d, eU : integer; t9 : boolean; D7, d, B : integer array; zFGa : boolean returns integer array chillax end K : takes zk7 : integer; nU30a : boolean array; B : boolean; R2 : integer array returns boolean array r, r : integer array; N7 : integer array; input u39aa[741] end main : chillax end

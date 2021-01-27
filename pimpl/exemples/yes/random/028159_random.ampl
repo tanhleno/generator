@@ -1,0 +1,1 @@
+program B : g : takes Tr3a, I : integer array; Be2 : boolean; w160a, x : integer array returns boolean chillax end main : input p; when case not 6 = (22) and 35 or 2 - 347 : when case 8400 = 0 : chillax end case 0770 : chillax end; let o7[1] = array 3 end end

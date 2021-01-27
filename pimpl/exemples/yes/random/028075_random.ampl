@@ -1,0 +1,1 @@
+program d : r : takes v, eR4aa : integer array; s, H : integer returns nothing chillax end main : pop; output - true + 7 - 96 >= 8; while - C0 and 3 /= - 01 - 55 : when case 6 : pop end; input y end end

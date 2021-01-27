@@ -1,0 +1,1 @@
+program O29 : main : when case - false rem(830) / true and 147 - (9900) <= - 69 / true : while 9 - 94 /= 92 : output "V" end; when case 20 : chillax end; input c19[51]; when case 8 : chillax end end case - v : chillax end case false and 3 : chillax end case - 4 - 2 : chillax end end

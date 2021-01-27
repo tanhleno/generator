@@ -1,0 +1,1 @@
+program utaaa : main : t : integer array; U : boolean; pop; do g(- Z[20] or(4) or 8 - 99 > - false + 8, 076); when case(5) + 530 = - 1 - 12 : chillax end otherwise : input qM; while 93 : chillax end end end

@@ -1,0 +1,1 @@
+program b0ua : Z : takes q, T : boolean array; eq : integer returns nothing pbZ, g, NpY, i, f : boolean; r, d, b7, aY : boolean; pop 30 - 5 > 2; pop 0 end Wib0 : takes A0, pR00a : boolean; Ww, g7 : integer; L, G, w : integer array; L, e : integer array returns nothing pop 9 end main : W, m : integer array; chillax end

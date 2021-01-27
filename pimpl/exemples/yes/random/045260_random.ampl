@@ -1,0 +1,1 @@
+program _ : M94 : takes q : boolean array returns nothing when case W and 87 <= 84 - 3 : while 33 : chillax end; pop; output ""; pop end case - 0 : chillax end otherwise : let o = 56; when case 28 : chillax end end; let aE = 045 = 062 end main : chillax end

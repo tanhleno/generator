@@ -1,0 +1,1 @@
+program t : u : takes w, K : integer array; rn, V, x : boolean array returns nothing let Q[- false] = - 82 = 3 end main : WQu, H, u, s, N, K2, N : integer; while false rem not not 64 + (24) : output "\tZ" . 2 . "" end end

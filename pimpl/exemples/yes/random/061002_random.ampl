@@ -1,0 +1,1 @@
+program Pv : x : takes S : integer array returns nothing H1 : integer; k, J0 : boolean array; R, _ : boolean; let Cqd[- true and 32500] = 51 - 74 end main : o : integer array; when case - not Uq - not 8 or false and 4 /= (9) : pop end otherwise : do u(5, 8270, 8) end; let l = array - Hk(2); while - false and 257 > - 29 - 66500 : chillax end; pop; do eT(54400 = 0, 68, 3) end

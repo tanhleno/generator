@@ -1,0 +1,1 @@
+program O : s : takes B, E7, P36, m4, oD0 : integer returns nothing u, E, C1 : boolean; when case true and 610 - 6 - 04 : chillax end; pop 3 end w : takes n : boolean array; QvD, SIHaa : boolean returns nothing chillax end main : chillax end

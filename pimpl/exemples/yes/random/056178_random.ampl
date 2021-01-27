@@ -1,0 +1,1 @@
+program v : kb80 : takes I : integer array; K : boolean array returns nothing Z : integer; chillax end main : r : integer; input X[- 399]; when case - false : let M6g = 3; input l4; let i = 8 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program zKq0a : OM : takes G1E0a : boolean array; J : integer array returns boolean Q : boolean array; chillax end B : takes K, NcS : integer returns boolean do B(5); let S[8400] = 68; let L[435] = array 673; while 48 : chillax end end main : pop end

@@ -1,0 +1,1 @@
+program P_ : M : takes WC : integer; W1, b : boolean array; M, i : boolean array; R : boolean returns nothing I, K, H, X : boolean; chillax end C : takes a : boolean array returns boolean F, E, c : integer; input uX; pop; let n[371] = array 44500; while 9 : chillax end; while 6 : chillax end end p : takes c67, o : boolean array returns boolean array chillax end main : chillax end

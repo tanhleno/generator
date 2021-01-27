@@ -1,0 +1,1 @@
+program H : E1 : takes ohk0 : boolean array returns nothing pop; while - 6 - 1 > 77500 : pop end; output 3 . "(" . "]`a" end X : takes x6 : integer array; y410, J : boolean array; d5waa, dNDaa : boolean; fE1aa : boolean array; X, NN, jaWa : boolean returns nothing when case - 9 - 106 : chillax end otherwise : chillax end end main : do p(- true) end

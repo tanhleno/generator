@@ -1,0 +1,1 @@
+program i : main : W, y66, X, Zj1, Kcs, F87, W : integer array; when case(55) : input s end; input P4; let O[false + 16 - 7] = array - (12400) or 39; when case - 5 - 640 : input G37; let Hod0 = 2; pop end case 8470 = 459 : chillax end case 9 : chillax end otherwise : chillax end end

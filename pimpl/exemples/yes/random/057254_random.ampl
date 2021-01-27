@@ -1,0 +1,1 @@
+program q3 : z : takes h : integer array; Q : integer array returns nothing G9, t : integer array; chillax end main : j7Eaa : integer; K9 : integer array; output - 4 or not 8 and 341 or 3 - 7 >= false or 9 - 4 . "" . 8 >= 84 end

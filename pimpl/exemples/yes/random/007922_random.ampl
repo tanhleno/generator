@@ -1,0 +1,1 @@
+program T : l2 : takes M5, m0E, U, P95 : integer returns boolean array m, O5, YJ9 : integer; x : integer; chillax end main : uD9aa, X : boolean array; K : integer array; p, O, l, a, g : boolean; n, t, pB, ILo : integer; O : boolean; while not not not 9 and not not 3340 /= - 13 and true : chillax end; output - (4) + 3 - 318 /= 1 . "\\" . 1 . "" end

@@ -1,0 +1,1 @@
+program P : z : takes s8D0, HO1, H : boolean array; A : boolean array returns integer array when case - false : do I(7, 888); input k end end main : t8 : boolean; input c[- not not not 3 / false - jMP(0) * false and 3] end

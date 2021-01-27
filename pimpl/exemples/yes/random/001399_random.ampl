@@ -1,0 +1,1 @@
+program z7 : D : takes w, j, s, X, p, ou3 : boolean array returns integer c : integer; E : boolean array; s, C : integer; chillax end g : takes r2U, a, q : boolean; E : integer returns boolean array chillax end main : pop; while not q and false : chillax end; output "" . "#" . 31 . 7 end

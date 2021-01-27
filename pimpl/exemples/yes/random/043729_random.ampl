@@ -1,0 +1,1 @@
+program s7O : Hh2aa : takes C6 : boolean array returns nothing chillax end main : e, E : integer array; z : boolean array; k2, R7 : integer; k : boolean array; Qxj, i2p0a : integer; M0B0, Z0N : boolean; ju8aa : boolean; q5 : boolean; pop; input o5[A5xa(4)] end

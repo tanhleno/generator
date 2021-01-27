@@ -1,0 +1,1 @@
+program xk4 : B : takes s : integer array returns integer pop end P9U : takes B, Y, y, fx, U1 : boolean array; I, g8taa : boolean returns nothing pop 647; input _[7] end main : V, Xx : boolean array; chillax end

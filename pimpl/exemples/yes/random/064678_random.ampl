@@ -1,0 +1,1 @@
+program Z : Yf : takes FWX : integer returns nothing md1 : boolean; C, R : boolean; yA, Ht, yhc : boolean; chillax end main : A7, u : integer array; JV, h, Nj, Fvf : boolean; Yf6a, i46 : boolean; do FH((1170 = 32) and true * true + 5 - true or 859); do i(true and not 2 and 1 or true < - a2k, - (443) and 3 /= 74 - 0) end

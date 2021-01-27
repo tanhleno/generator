@@ -1,0 +1,1 @@
+program T : main : o : boolean array; do K(P4f0[0] / false rem(0) or false + j, - Ys[05] rem not 1970 or true); let R[not not 3 or true or 9 - 7] = array - false; let F[- (6)] = 7 < 0150; output ""; while 679 : chillax end end

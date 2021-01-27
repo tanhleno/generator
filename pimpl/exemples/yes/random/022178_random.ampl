@@ -1,0 +1,1 @@
+program d : A : takes D, F68aa : boolean array returns nothing i, K, k : boolean; k, J63, i, vd : integer array; while - (300) > - 55 : chillax end end main : i000a, w9 : boolean; T5 : boolean array; chillax end

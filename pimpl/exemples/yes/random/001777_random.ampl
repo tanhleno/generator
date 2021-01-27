@@ -1,0 +1,1 @@
+program p : I9 : takes d, H, d51, y2o, l5, e : integer array; D, D : boolean array returns nothing ft : integer; a : integer array; _a : integer array; X : boolean; H : boolean; chillax end p : takes g3, A9 : integer returns integer chillax end main : s3 : integer; m8 : integer; nl : integer; Pv : integer array; h : integer; input d800[K[3] * true rem not 746 and 85 - true] end

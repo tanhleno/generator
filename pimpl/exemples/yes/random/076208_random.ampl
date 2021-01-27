@@ -1,0 +1,1 @@
+program k : main : v, p : integer; KTP0, t59 : integer array; S : boolean array; Q, S, z : integer; U, O2B, K : integer; u, k : boolean; Pv10 : boolean; Z : boolean; do b(not true * 3 or true or not 061 or 669 - 27); pop(08) > - 330 - 9; input K1[- not 5 and 91 - 4] end

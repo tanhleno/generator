@@ -1,0 +1,1 @@
+program X : Y2 : takes b : integer; y, J, R : boolean; y : boolean; e8p : integer array returns nothing N : integer; b, K : integer; e : boolean array; chillax end m : takes w, bkhaa : integer returns boolean array when case 44600 = 33 : when case 15900 : chillax end end case 8 = 374 : do a(0) end; input L[6] end main : I, eTH : boolean array; chillax end

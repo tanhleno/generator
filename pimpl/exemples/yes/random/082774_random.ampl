@@ -1,0 +1,1 @@
+program D : main : S : boolean array; when case 408 or 93 / true : chillax end case - false rem 4 or 1 = - not 77 : chillax end case - not 4 : chillax end otherwise : chillax end; when case 6 : chillax end case true and 7830 - 98 - 801 : chillax end otherwise : input bC8; pop end end

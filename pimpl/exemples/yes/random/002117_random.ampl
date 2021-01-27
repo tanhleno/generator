@@ -1,0 +1,1 @@
+program h3 : Bp : takes nBna, Yu, Kol, A, P : boolean; Ay, Y, L, WM20a : boolean array returns integer chillax end n550a : takes m, D72aa, mm : integer returns nothing chillax end iq : takes OG, un : boolean returns nothing V : boolean array; t2, K : boolean; Ji : boolean; chillax end main : output true = - Y or 20 - 27 end

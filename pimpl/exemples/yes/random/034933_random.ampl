@@ -1,0 +1,1 @@
+program Q : x : takes S12 : boolean; zi, af : integer array; c : boolean; ps, l : integer array returns nothing chillax end main : input z[L(2, 0) * false rem not 0]; do Y(not Z or 3 + 1 - 315 >= true and 751 + 9); while bT7a and 073 : chillax end; when case 5 /= 219 : let W = 4; let Ak = 03 end end

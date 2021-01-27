@@ -1,0 +1,1 @@
+program yD2a : LF : takes _, e : boolean array; C : integer array returns integer output - 495 /= 5 . 1320 . 763 . "-0" . "" end m : takes h, V7, Y : boolean; H, A_, D : boolean; Y, bh2 : boolean; P9taa : boolean returns boolean chillax end main : V, gu, pdp0a : boolean; DP80, qj, k, l, q, E : boolean array; chillax end

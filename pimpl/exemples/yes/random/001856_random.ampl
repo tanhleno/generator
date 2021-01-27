@@ -1,0 +1,1 @@
+program y0sa : d2 : takes _3, MFN, Y, X, s3, O : integer array returns boolean array I3, V49, Sq : boolean array; U, eJ, v : boolean; chillax end w : takes r, M, t : boolean array; v55a, Am7 : integer returns nothing chillax end main : I : boolean array; input L01[A / (49600) - 1 + false]; input B440 end

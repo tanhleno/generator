@@ -1,0 +1,1 @@
+program k_ : J : takes P : integer array; y, X : boolean; s : boolean; d7, R : boolean; g, OP : boolean returns nothing output 1160; while 1 - 5830 > 20 : chillax end end a : takes I0jaa : integer; A : integer; T2 : integer; J : integer array returns nothing chillax end main : A, Tj80, bi : boolean array; pop end

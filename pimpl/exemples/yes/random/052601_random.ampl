@@ -1,0 +1,1 @@
+program F1c : j : takes V9 : integer; J : integer; D6 : integer returns nothing a, P : boolean; while - not 05100 and 145 or 3 : when case 32 : pop end case 8780 : chillax end otherwise : chillax end end; pop; when case 74 = 7 : chillax end otherwise : pop end; let Nx20a = 0; let a = 1 end p0zaa : takes n : boolean; _dw0a : boolean returns nothing chillax end main : chillax end

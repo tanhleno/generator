@@ -1,0 +1,1 @@
+program h : p : takes X, nLH : integer array; Q : integer; N4, Sk, Pp2 : integer returns integer array d : integer array; while true - 4 - 254 <= 18 : when case 4 : chillax end case 4 : chillax end otherwise : chillax end end; let lqI0 = array 5 - 9; do yE(2 = 7) end main : _0, f : boolean array; pop end

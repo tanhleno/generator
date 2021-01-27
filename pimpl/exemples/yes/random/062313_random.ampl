@@ -1,0 +1,1 @@
+program Ik : Z : takes x27aa : integer returns boolean n, I, q, rS8a, iBTa : boolean array; q, bW : integer array; PR : boolean array; O6, ua8a : boolean; PbW : boolean; BEoaa : boolean; pop end main : O, p7, i, c3M0a, w770, w, H4 : integer array; k, G : boolean array; input r[- true * w(53) or 084 * false and 8 or not 0]; let b[not true] = array y7(149) rem u and 437 end

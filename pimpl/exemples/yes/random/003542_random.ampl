@@ -1,0 +1,1 @@
+program q5 : o : takes x56, E, Z, R, j : integer array; x : boolean array; Q : integer returns boolean R370 : integer array; chillax end main : B : integer; do K((9 = 6) - false rem 2450, - (7) * not 9 and 11 < - 6 and 761 + 61); do B(- false, not 1 - 8 - 4 = - 2, - 89 <= 7) end

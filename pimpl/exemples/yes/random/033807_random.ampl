@@ -1,0 +1,1 @@
+program tp : J : takes w8 : boolean; g, N, vj9 : boolean array; L, e : boolean array; Ox, wU : boolean; mf, GID : integer; VkX0 : integer; i9, za : boolean; x : boolean returns integer while - false and 381 : chillax end end main : do kJ(- 0210 / true) end

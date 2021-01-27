@@ -1,0 +1,1 @@
+program OI : mV : takes KVS : integer array; M, Z30aa : boolean array; kW8, W, t : boolean; g23a, r7, l : integer array; d3z, m : integer; X6X, wn5a : boolean; q, T : boolean returns boolean array D : boolean array; E : integer array; pop; pop end main : ox : integer array; pop true - (27) <= 4 + 6540 - 36; let o = array - 58 end

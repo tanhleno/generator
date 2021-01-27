@@ -1,0 +1,1 @@
+program GPv : _ : takes X2 : integer array; vo, h : integer array; V, djx0 : boolean; TjQa : integer returns boolean array chillax end main : wu : integer array; m, z, C : boolean array; output(1) / not 1 <= e; output ""; when case false - 8 - 9330 < 7 : chillax end otherwise : chillax end end

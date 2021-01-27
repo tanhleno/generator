@@ -1,0 +1,1 @@
+program Mw : c : takes c, N7J0a : boolean array returns nothing chillax end m : takes P4, mx6, a : boolean returns nothing do y(8 - 726 /= 77); pop end v : takes I4, u58aa, m, y, c : integer returns integer array chillax end l : takes h3, GE00a : integer returns nothing n : boolean; Q : boolean; chillax end main : chillax end

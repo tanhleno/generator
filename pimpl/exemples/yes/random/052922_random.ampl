@@ -1,0 +1,1 @@
+program B : b : takes x8 : integer; xe : integer array returns integer array g : boolean array; input I3 end main : f : boolean; z, Y380, Y8, c, uEHaa, u : integer array; F86a : boolean array; when case - (6) - Va(03) > - true rem not 3 : output 5 . 189 . 14100 . "w"; output 75; do t(60, 7) end; input O; while - true or 16600 : output "" end end

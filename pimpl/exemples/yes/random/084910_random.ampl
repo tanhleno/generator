@@ -1,0 +1,1 @@
+program pm9 : main : l : integer; output wf7aa * (281) + not 66 and 36800 < - (0) and 7 or 12 . "3t"; when case - true + not 53 < - false : while 0 : chillax end; when case 3 : chillax end case 0 : chillax end otherwise : chillax end end case N or 1 : chillax end case - 41100 /= 8 : chillax end otherwise : while 7 : chillax end end end

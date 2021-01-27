@@ -1,0 +1,1 @@
+program C : q : takes a : integer returns nothing n, D : integer; q, II : boolean; pkGaa, PiSa : boolean; a : boolean; v7paa : boolean; chillax end e : takes U : integer array; V, Qm, Z53 : integer array; p : boolean array returns nothing e : integer; let Ia[- 9] = 8 end main : output 8140 or true . - true and 2 - 6540 - 3 . ""; let I[false or not 45300] = true end

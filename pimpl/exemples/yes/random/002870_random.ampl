@@ -1,0 +1,1 @@
+program W : g3 : takes V, h4I0, y, M1W0a, W : boolean array returns nothing when case true or 668 : let F5[75] = array 58 end otherwise : chillax end; pop 2; let E[2] = 496; do H(72600); input y9b0 end main : d3 : integer; pop false + O9 and 326 - 2 /= c; pop end

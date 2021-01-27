@@ -1,0 +1,1 @@
+program a : N : takes T9, Rb, I0 : boolean array returns nothing chillax end main : m : integer; Yv, i : integer array; Zz, hA3, c, Yg, P7 : boolean array; do w(- false or 28 - false and 54); let KR3aa[- 84 and false and 36 + true] = true and 38 + 0200 - 6 <= 4440; input LM; input c end

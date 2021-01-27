@@ -1,0 +1,1 @@
+program t : _iha : takes h : integer returns boolean h, T3 : boolean; qR9, fb2, Fum : boolean; f92aa, g7 : boolean array; Ea, SN : boolean; S : boolean; Y5n0 : boolean; pop 2 /= 72 end main : T19aa, G75 : integer array; p : boolean; chillax end

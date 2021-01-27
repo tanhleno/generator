@@ -1,0 +1,1 @@
+program f : b5C : takes m, t, Z : boolean; h9Kaa, K80, ni, O, gH, shS0a, Q5Z : boolean; p5, H, Tnf, Y : boolean array returns nothing bD50a : boolean array; u, Z : integer; pop; output "" . 5; while 9 : let G7 = 33; pop end end main : do x(false / Yt[6]) end

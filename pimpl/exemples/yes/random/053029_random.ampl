@@ -1,0 +1,1 @@
+program z : c : takes l : integer; D : integer array returns nothing r, SJ : integer array; let V12 = array T and 94900; let xV = 569 = 535; input ZV[2] end _ : takes x, q : boolean; Q4, Z6 : integer; F, G9x : boolean; q1 : boolean array returns integer chillax end main : chillax end

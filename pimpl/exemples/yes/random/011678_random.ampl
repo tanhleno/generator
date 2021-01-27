@@ -1,0 +1,1 @@
+program W : Wc00a : takes Be, S860, s7 : boolean returns boolean chillax end main : d, G : boolean array; when case - (91) / p <= not(70) * not 7 and 2 or Y03 and 00700 + 67 - 4 : input i8; output 6; output "" . "" end case - 00 and N and 75 : chillax end case 926 : pop end end

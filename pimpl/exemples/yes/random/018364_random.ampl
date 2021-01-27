@@ -1,0 +1,1 @@
+program M : obPa : takes yA, _c : boolean; J : integer array returns boolean array _ : boolean; f : boolean array; F : boolean array; W29aa : boolean; R : boolean; do j(bFb and 94 or 4 = - 55, 9 - 2 /= 8, 2); pop; while 38 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program a : g : takes wl5aa, k : boolean returns nothing output "" . ""; let E_ = 6; input zI; do eG3a(3, 300); while 2 : chillax end; pop; pop end p : takes k4 : boolean returns nothing q4z : boolean array; j : integer array; l : boolean; J : boolean; chillax end main : L : boolean; chillax end

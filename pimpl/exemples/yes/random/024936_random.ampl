@@ -1,0 +1,1 @@
+program hrS : j : takes hg, v : integer; ugKaa, p, NU8aa, f, U, M : integer; G, za2 : boolean array; q : boolean; Im00, aOE : boolean returns boolean array f3 : boolean; y : integer; chillax end main : e, g : boolean array; do t(- x(5), 6, Fa, 669 - 5, 8) end

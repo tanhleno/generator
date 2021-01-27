@@ -1,0 +1,1 @@
+program R33 : P04 : takes p : boolean array returns nothing T5M : integer array; Q2I : boolean; do F7Xaa(- false - 93 - 0, 36 - 29 > 88) end main : y, Twraa : integer array; let e = array not(9) / 8; let J = not 9 + 242 - 9 = - 90 end

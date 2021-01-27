@@ -1,0 +1,1 @@
+program QIe0a : K1 : takes A61, W, h9, x1, E, Z : integer; S1G0a, k, B5g0a, zA, w, b74 : boolean returns boolean E : integer array; while - V6 and 1 <= - 7 : chillax end end m1x : takes p62 : integer returns nothing let G[- 9] = 6 end main : R97 : integer; chillax end

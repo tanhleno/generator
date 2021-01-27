@@ -1,0 +1,1 @@
+program J6ba : D : takes I : integer returns integer while true and 162 - 1260 - 986 : chillax end; when case 43 - 96 : chillax end end main : h : boolean; while not 86500 + (1) rem(56) and 9 : chillax end; output - Tw and 7050 . - 8 - 5 < 88100 . "6"; output "@i"; let y = 19 end

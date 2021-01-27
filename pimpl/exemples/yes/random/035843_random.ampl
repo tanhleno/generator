@@ -1,0 +1,1 @@
+program R : c : takes t : boolean; b : boolean array returns boolean array Mia, y, I : integer array; output 44 . "0<" end main : G5 : boolean array; V : boolean; B18aa : boolean; Q, Uye0, O : boolean array; Z : integer array; chillax end

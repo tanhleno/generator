@@ -1,0 +1,1 @@
+program w : u : takes x9 : integer; R : boolean array; j, E, S : integer array; g7, n73, I : integer array returns nothing input p[14 or 5] end U : takes S9y : integer returns nothing output "\t[\""; input i end main : chillax end

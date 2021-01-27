@@ -1,0 +1,1 @@
+program Q : e : takes X : boolean array returns integer qT7aa : boolean; chillax end main : do X3(- not(8) + false and not 5 and 31 > false - false and 26, - true and not 209, - not 5 + 2 - 0 < 2 - 6280) end

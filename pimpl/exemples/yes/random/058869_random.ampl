@@ -1,0 +1,1 @@
+program m3F0a : M6 : takes d420a : integer array returns integer array qX3 : boolean array; chillax end main : l3x0 : boolean array; while - 7 and not true : chillax end; pop b - 1 - 56300; input Vy3 end

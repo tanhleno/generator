@@ -1,0 +1,1 @@
+program y3u : m : takes W : boolean; H : boolean returns nothing let rZ[- fOW0] = array - true or 9 - 7; while 8 : do ar(2); let _ = 349 end; do F(07); input ij4 end C : takes O, P : boolean; G47a, P3b, n, H, G : integer returns nothing chillax end main : Zjaa, b : integer; G, tXd0, _ : integer array; J_w0, e : boolean array; W : integer array; chillax end

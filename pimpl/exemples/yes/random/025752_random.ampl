@@ -1,0 +1,1 @@
+program c : x24 : takes o, PI9a : integer; G7, y41 : integer; P : integer array; j7, AX7, RE60a : integer array returns nothing chillax end L48 : takes U : integer array returns nothing chillax end main : e7, _ : integer; output 1 + E and 0 + 98 <= - m and 18; while 7 rem not 21 and 5 < - false : do a(5 = 5, 1, 7) end; do j47(- GN and 18); input L[- 8] end

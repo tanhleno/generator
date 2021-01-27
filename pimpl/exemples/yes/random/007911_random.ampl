@@ -1,0 +1,1 @@
+program kf : I : takes a, m, l, QD1 : integer returns boolean array do D7(- true >= 5); let X[7 - 2] = 2 = 1 end main : vmI0, A06, C, z6s : integer; RO, n : boolean; x5T, w, ecd0a, LbQ0, D7 : boolean; j, Rl, au : integer; F, o97aa : integer; chillax end

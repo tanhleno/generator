@@ -1,0 +1,1 @@
+program T : I : takes G3t0, P : boolean array; JL1a, g74aa : integer array returns boolean let _ = array - true + 7520 - 2; output 8 = 326; input Q; input FP end W5 : takes Zo : integer returns boolean Y, N6Pa : integer array; chillax end main : s, G : boolean array; chillax end

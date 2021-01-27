@@ -1,0 +1,1 @@
+program u : main : Q : integer; zh : boolean; TV, CSB0, l, VQ0aa, Ur : integer; wr2a : boolean; while - 944 /= - true or false + 3 : while - 0 >= 2 : chillax end end; pop - not 53400 and 3 or 3 - 3 end

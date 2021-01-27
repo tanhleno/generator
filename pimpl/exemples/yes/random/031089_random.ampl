@@ -1,0 +1,1 @@
+program c : Ic8aa : takes z, L : integer array returns nothing pop 6 - 9 <= 4 end a : takes v, ePW0a : integer; N, B8 : boolean; b : integer returns boolean input F[6] end main : m, B, semaa : boolean; w, u3 : boolean; e29a : boolean array; chillax end

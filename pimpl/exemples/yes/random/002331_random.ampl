@@ -1,0 +1,1 @@
+program V5 : f : takes Juo, L, B86, B5, fs3 : boolean; p : integer array; z : integer returns boolean array chillax end c : takes c : integer array returns integer w, S, KJ, l2 : boolean array; chillax end main : x520 : boolean array; S : integer; V : boolean; chillax end

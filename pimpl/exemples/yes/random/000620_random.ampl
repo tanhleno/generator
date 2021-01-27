@@ -1,0 +1,1 @@
+program ca40 : l : takes k9, G8H, W, Y, q, J, j9h : boolean; h59a : integer returns nothing pop 2 >= 81 end main : pP40, F, X : boolean array; let N6 = array - 4 and false + U(0) + false and 66000 end

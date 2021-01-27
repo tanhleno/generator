@@ -1,0 +1,1 @@
+program J : B : takes s, n : boolean returns boolean array chillax end main : W82aa : integer array; do ww(true <= 5400 and(43) or 6 and 0 - 5 - 09, - not true rem W and 463 - 9 and 39 - 4 - 1 > - 0 and 720 + 3470 - 6, - not 8 /= - 4 - 85); when case(43) and(450) and 4 + 2 + 0 - 8 : chillax end end

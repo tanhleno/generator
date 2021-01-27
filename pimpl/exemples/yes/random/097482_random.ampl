@@ -1,0 +1,1 @@
+program V3 : main : when case 71 or false : chillax end case - 6 or not 8 and 61000 + 3 : chillax end; let rav[- (1) + false] = array(1); do L2(2 and 371 + 1 - 8900 /= - 1, 78 - 66 > 8, 70600 = 0); do W(- 7390 <= 4, 63 = 9, 0) end

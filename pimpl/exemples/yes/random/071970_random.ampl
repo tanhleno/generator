@@ -1,0 +1,1 @@
+program x37aa : main : B, Ei, eP : integer; do Nk9(Y and true + (8) or(52), - true * (50800) <= - true, 3 and 1 >= - 742 - 3960, - 01 - 4440 >= 2, 8 = 6); input n[- false]; let h = - 6 - 2; when case - 85 - 5 <= 2330 : chillax end end

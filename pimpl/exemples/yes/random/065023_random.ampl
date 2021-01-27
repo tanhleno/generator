@@ -1,0 +1,1 @@
+program x : gG : takes K : integer returns nothing u : integer; when case not 77900 < 3 - 8 : chillax end otherwise : chillax end end main : input H[(2 = 87) + z8(66)]; while not 7 * not 2 : pop 5290; when case 4 : pop end case 584 : chillax end otherwise : chillax end end end

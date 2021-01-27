@@ -1,0 +1,1 @@
+program Y1U0 : main : H : boolean; pop; pop; when case true and 631 + 2 - 219 : chillax end otherwise : chillax end; when case 074 < 89 : input a; output "64"; pop end otherwise : output ""; pop end; output 093 . 4 . "" end

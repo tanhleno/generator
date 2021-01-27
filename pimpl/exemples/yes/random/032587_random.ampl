@@ -1,0 +1,1 @@
+program sv : F : takes aB, W : integer returns nothing pT, C, j : integer array; output 4 /= 3 . "\"" end main : pop(4) and(4); when case - true * true : output "" . 217; let h = array 60 end case 634 <= 9 : chillax end otherwise : chillax end; input C1R0a end

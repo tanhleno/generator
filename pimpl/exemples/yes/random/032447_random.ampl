@@ -1,0 +1,1 @@
+program rr : i : takes d, pa : integer returns nothing do o(true and 06 /= 3 - 50, - 3); do H(- 0); input v2 end U : takes D1v : integer returns nothing chillax end P2 : takes fnh : boolean returns nothing nh, Jh, X : boolean array; i8 : boolean; chillax end main : while - true or L80[230] : chillax end end

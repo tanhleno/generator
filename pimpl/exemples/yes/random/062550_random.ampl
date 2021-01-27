@@ -1,0 +1,1 @@
+program bE2 : P : takes MY1a : integer returns boolean y930a : integer; while - false - 0 /= 03 : do P(86, 14300); input L; do Z2(722) end end if : takes v : boolean array returns integer array U, Ud : boolean; frl0a, Jt9aa, V9 : integer array; while - 6 <= 21 : let u = 3 end end main : chillax end

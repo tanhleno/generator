@@ -1,0 +1,1 @@
+program c : t : takes j1Ra, X6, Y : boolean returns boolean array h, t : integer array; C : boolean; a : integer array; while Juc or 6 - 3 /= 21 - 3 : chillax end; let nj = array - 9 end main : chillax end

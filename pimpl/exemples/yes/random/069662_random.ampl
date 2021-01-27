@@ -1,0 +1,1 @@
+program x : main : N, O, J, Qk : boolean; when case - 29 / 21300 and 01 + 9 / not 4 and 94 or nu - 4 - 5 : pop 9 = 2; output "c" . 1 . "0" end otherwise : do qX(4, 8); pop; let qt = 53; output ""; pop end; let g[- true * true or false] = - not 56 and 96 - 19 - 0 = - 2 - 95; let JN7a = 6 > 246 end

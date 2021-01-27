@@ -1,0 +1,1 @@
+program lK : t : takes x4g, ni, r : integer; S9 : boolean array returns nothing p : boolean; X4t0 : boolean array; while - 8 and 88 or 7 : chillax end end F : takes F : integer array; A860, X0, rI, c7, u, M : boolean; Wi, x2, QW, g7 : boolean array returns boolean chillax end main : x7 : boolean; chillax end

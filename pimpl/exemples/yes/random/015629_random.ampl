@@ -1,0 +1,1 @@
+program Yl : k : takes c, k7A0, x1 : integer array returns nothing while not 4 : do w(0); do J(44) end; when case 2 - 46 < 1 : chillax end otherwise : chillax end; input b[96] end main : pop; input e end

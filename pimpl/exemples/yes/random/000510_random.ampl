@@ -1,0 +1,1 @@
+program l : s8h0 : takes Yz0aa, g78, u, Ow, Ol, A, c, F : integer returns integer L : integer; let o = array - false and 2 + 27900 - 7; do L2(6 - 463 > 1, 2 = 530); let kG = 850 end main : Z : boolean array; when case - false * (9) - true * true and 9 or 8 <= (4) * not 96 : chillax end case - 7 * 5 < (86) and 550 : let ncF0a = array 96300 end end

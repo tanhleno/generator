@@ -1,0 +1,1 @@
+program Y : pZ : takes mP1 : integer array returns nothing GS, f : boolean; chillax end X : takes E, E, F5, E, xvC, e96aa, H : integer returns integer H : boolean; QX1 : integer array; s1 : boolean; output 45 . 72 end aS : takes qy_ : boolean array returns nothing A2y : boolean; while 4 : chillax end end main : g50 : integer; q : integer array; chillax end

@@ -1,0 +1,1 @@
+program X4l0 : T1j : takes p, A, aJ : boolean array; Ms, h, ETJ : boolean returns integer chillax end E1Da : takes H : boolean array returns boolean w, LZ, _9u0a : boolean array; CJ, R, A : boolean; input s; output 84 . 4380 . "\t" end main : let u4 = 3 <= - 076 + 1 - 86 end

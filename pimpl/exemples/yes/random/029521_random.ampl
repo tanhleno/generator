@@ -1,0 +1,1 @@
+program Bw : _ : takes I580a, R5m : integer array returns boolean i, h9 : boolean; chillax end main : when case - A(0) * (0850) or false - r + 121 - 6 >= true / true and 54 or(7) - 57 - 825 : while 7 : pop end end otherwise : while 89 : let U3 = 252; pop end; when case 530 : pop end case 7 : chillax end; let z = 2200; input F end end

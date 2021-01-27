@@ -1,0 +1,1 @@
+program HK : B : takes uL7, B, n5, xL, R : integer; IP, Ha : integer; tP : boolean array returns boolean p89aa : integer; IK, gB, R, sx : boolean array; H, U : boolean array; while true : chillax end; pop 3 = 0180 end main : pop true < (99); input b; input v0; output 7 end

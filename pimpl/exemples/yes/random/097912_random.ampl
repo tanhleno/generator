@@ -1,0 +1,1 @@
+program w : main : while(423 = 860) rem SB2[5] and not 1 < true rem false and 02 : chillax end; input s[false]; while not 94 and 8 - 4 = - 164 - 9 : chillax end; output 49; while 5 = 4 : chillax end end

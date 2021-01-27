@@ -1,0 +1,1 @@
+program A : L : takes cxx : boolean array returns integer Zc : integer array; chillax end K : takes W7T : integer array returns boolean chillax end zZe : takes W : integer returns nothing do J(4); input AAu0a[585] end main : chillax end

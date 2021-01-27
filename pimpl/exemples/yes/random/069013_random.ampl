@@ -1,0 +1,1 @@
+program d040a : main : uz, h95, y, V0S, M : integer; gW1, hW, a, S240, q : boolean array; while - not wi[9] and not 92 rem false /= false / G1Sa and 32 : let Z6G = array 53300 - 99; while 394 = 1 : input I10a end; when case 8 : pop end case 2 : chillax end; input y8G; let Q = 0; pop end end

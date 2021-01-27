@@ -1,0 +1,1 @@
+program O6 : main : ObAa, m : integer; G, r, vgB0a, b : integer; when case false * true and false + not not 8 <= - false * (1) + not 35100 and 39400 - 1 - 9 : let T = array 5; while 3 = 9 : chillax end; output 88 . ""; when case 23700 : chillax end; pop; pop end case true and f and 8 or not 97500 and 361 : chillax end case(12) and 31 : chillax end end

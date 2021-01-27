@@ -1,0 +1,1 @@
+program A : main : f : boolean; e, Y, FYU, M : integer; while false * true * false and 9 or 6 * c and 84 >= - (97) and true : pop end; input RpZ; output 9 >= 8; when case 7 - 351 > 65 : chillax end; output "G;" . "" end

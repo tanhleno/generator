@@ -1,0 +1,1 @@
+program Cyu : ok : takes i5 : integer; n : integer array; A3Z, o, E : boolean returns boolean b, o : integer; E1, Pqd : boolean array; E : integer; I80, A : boolean; output "" . 2 end main : chillax end

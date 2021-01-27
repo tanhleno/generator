@@ -1,0 +1,1 @@
+program F : z47a : takes dT : integer array returns nothing chillax end main : L, hi40, e7 : boolean array; gQ : integer array; pop - CH rem(8) and 69; when case - false and y45aa and 347 = A and 0 : chillax end case - false + 96 - 30 : when case 5540 : chillax end case 39 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program b : main : R, x : boolean; when case 865 = I7[6] / true + 54 : chillax end; when case - true * true and 87200 : let DL00a[9] = 03 end otherwise : input s; input G2 end; output "U\\\"" . "" end

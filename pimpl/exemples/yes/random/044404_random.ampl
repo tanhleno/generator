@@ -1,0 +1,1 @@
+program S : B : takes Kr8 : boolean array returns nothing l, c : integer array; pop - 941 - 5100; while - 666 >= 84900 : chillax end; output 30 . 821; do m8(157) end K : takes W8, j9 : integer array; f29aa, H5 : integer returns boolean array zP0, X8, l4f, j9c : integer array; pop 4 end main : chillax end

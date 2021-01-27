@@ -1,0 +1,1 @@
+program o : main : v : integer array; t, u5 : boolean array; f, J, y76, Sc1, G : integer array; input ws[- true * true rem 4 and 125]; while - false rem true and 4 = - not 60 and 74 + 0 : when case 8140 = 8 : output "" end case 035 : chillax end case 5450 : chillax end; pop; while 682 : chillax end; output "Z"; pop end end

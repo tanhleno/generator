@@ -1,0 +1,1 @@
+program K2M0 : smVa : takes s : integer; z : boolean array returns nothing t, H, z, xj0aa, KZ : boolean array; ps, uD : integer; chillax end main : U, cd8a, E5 : integer; k9, auO : integer array; L : boolean array; X, g9, T, q4T : boolean; qJ, OE : boolean; Mw5 : boolean; chillax end

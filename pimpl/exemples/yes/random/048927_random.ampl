@@ -1,0 +1,1 @@
+program h : y : takes QxF0a : boolean returns nothing let H = 2 - 59 end q6l : takes F, l : integer array returns boolean vT : boolean array; when case - 6 : input G; while 8 : chillax end end; when case 2 = 21500 : output "1" end case 86 : chillax end case 77000 : chillax end end H : takes Q, N : integer returns boolean output 932 end main : U1 : boolean; chillax end

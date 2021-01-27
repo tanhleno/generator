@@ -1,0 +1,1 @@
+program G : pM : takes w73a : integer array returns boolean chillax end y4 : takes tEaaa : boolean array; y : integer returns nothing dHO : integer array; _, f2o0a : boolean array; do F6(- 7580 - 98, 9 = 3) end k : takes j : boolean array returns nothing let m82 = array 4 end U : takes Z, f, h : boolean; P : boolean array returns boolean array input V9 end main : chillax end

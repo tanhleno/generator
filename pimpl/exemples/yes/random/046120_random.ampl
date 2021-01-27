@@ -1,0 +1,1 @@
+program H0 : x4 : takes QM60 : boolean returns boolean D9, gK2 : boolean; H6_ : boolean array; let s76 = 99 - 0; input f3[- 36 - 440]; when case 8 : do V(0); pop end case 7 : chillax end; do G740a(83); while 90 : chillax end end main : m72a, R : boolean array; eV3, M, ED, mf00, n, P3 : integer; output "" . "" end

@@ -1,0 +1,1 @@
+program v7 : Q2 : takes x08, B3Aaa, m, J, my : boolean array; R4, l : boolean array returns nothing chillax end p : takes e, K, f : boolean array returns integer array chillax end x9a : takes I, l : boolean returns integer array u : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program O : h3 : takes R0t0 : integer array returns nothing _4 : integer; d, a, fo3, k : integer; YH30, U9 : boolean; B7, kG : boolean; chillax end main : do O(- lo, (0), - 5 and 8 or 63 < 8); let u[- false] = array true - 3 and 6 end

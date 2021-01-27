@@ -1,0 +1,1 @@
+program k : o : takes w : boolean array returns integer let A[- (8) and 66 or 7 - 3] = array not 71 and 04; output 3470 = 3 . 2 . 06 . "" end main : n1, pc10 : integer array; j : integer array; S, J8 : integer array; A, j : integer array; chillax end

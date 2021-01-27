@@ -1,0 +1,1 @@
+program L : L : takes cO, k, X7 : boolean returns nothing while - (6) and 2 - 0 >= 75 : when case 29 : chillax end otherwise : chillax end end; let Dut = array - 37 - 04; let qp90a = array 0 end main : z, N52, M, w, F, YD : integer; let B28a[59500 * not false] = - (6) / false and 2 or false - 88 - 63; input N[- false + I and 4] end

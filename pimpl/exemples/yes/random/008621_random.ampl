@@ -1,0 +1,1 @@
+program K : Z : takes B, p, t7z0a : boolean; u, cAr, d : integer; WZ2 : boolean array; t5 : boolean; M : boolean array; K4, a83aa : boolean; wC : boolean returns nothing kpQ, zo, c, kZ70a : boolean array; J6 : integer; chillax end main : let v0 = - false rem false and 815 > K and 60; output "" . "L" . "" . 4 end

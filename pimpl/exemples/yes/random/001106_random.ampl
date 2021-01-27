@@ -1,0 +1,1 @@
+program L : h : takes k, k, lV40, v, m, Nx : boolean; E, FZ, UG : integer array returns integer b4T : integer; Ox, o, Y93a : integer array; YYZ, oJ : boolean; f4L : boolean; a : boolean; output "" . "" . 0 . "2" . "\"" end main : chillax end

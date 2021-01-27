@@ -1,0 +1,1 @@
+program X : HI : takes h : boolean array returns integer array do k(- true and 03700 - 0 - 471 /= - 364, - 585, 62, 5, 0880); while 7 - 62100 : chillax end; pop 2; input C end main : TH : boolean; chillax end

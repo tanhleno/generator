@@ -1,0 +1,1 @@
+program N : C3 : takes WE, F4 : integer array returns nothing while(6) and 0 = - 22 - 3 : pop; while 70 : chillax end; pop; pop end; do r7(- 458 <= 7); pop; output 7; output "4"; output "64"; pop end main : f : integer; b : integer array; output(61) / not 8 or not 96 and 2 + 7 . "g" . "0\"\"" end

@@ -1,0 +1,1 @@
+program f_9aa : x : takes S : boolean returns nothing when case A and 45800 < - 95500 - 2 : input B[54800]; while 3810 : chillax end end case - 315 - 44 : while 261 : chillax end end case 23 = 6 : let N = 02; pop end otherwise : chillax end end main : chillax end

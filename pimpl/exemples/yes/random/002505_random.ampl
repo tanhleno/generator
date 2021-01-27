@@ -1,0 +1,1 @@
+program S5 : l : takes l, Z, Z, z, J : boolean array; P : boolean; w, x : boolean array; m, h : integer array; ja, lT : boolean returns integer array let v = array - true end main : let J = 3 > (4) + 64 - 879 end

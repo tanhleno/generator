@@ -1,0 +1,1 @@
+program w : main : o, M30 : boolean; pop; do F(- true * (1820) = false, - false + 1 - 5 = 8500 - 5); when case - false and 96 + 2 >= - 2390 - 2 : chillax end otherwise : do z(8) end; let v[2 - 39] = 8; output 0 . 704 end

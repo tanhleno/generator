@@ -1,0 +1,1 @@
+program CT : c : takes A3 : integer array returns boolean array chillax end E8 : takes D7 : boolean array returns nothing C3, P2, c, s : boolean; q, woJaa, y : integer array; F9 : boolean; e : boolean; chillax end main : do y((105 = 1) and l[7] rem not 831 and 5 /= l93a rem false and 73, - false >= - (46)) end

@@ -1,0 +1,1 @@
+program i0r : u : takes F6, p9 : boolean; FT5 : boolean array returns nothing X7, KO, AUo0 : integer; W, M, o : integer; x, w, l : boolean; output - 86 - 3 . "0" . 07 . "5" . ""; input N0 end main : D : boolean; chillax end

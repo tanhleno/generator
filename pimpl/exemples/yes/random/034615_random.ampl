@@ -1,0 +1,1 @@
+program z9faa : qp1 : takes Ga : boolean; f, Tm : boolean returns boolean array chillax end Yrz : takes Tt : integer returns integer array input m6[- 9]; let C[8] = 2 end main : n, o5 : integer array; when case - Q - not true /= - not true rem true + true and 80 : chillax end end

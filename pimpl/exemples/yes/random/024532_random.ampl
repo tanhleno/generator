@@ -1,0 +1,1 @@
+program R : c : takes X, e : boolean returns nothing F170 : boolean array; input e0_[not 9 or 300] end o : takes a4f0, ijDaa : boolean returns nothing w, I5 : boolean array; chillax end J : takes g : integer returns nothing while 2 : input e; pop end end y : takes B : boolean returns nothing lJ, z1 : boolean; EhO0a : boolean; chillax end main : v, cj0, hw9 : integer; chillax end

@@ -1,0 +1,1 @@
+program r23 : Pd : takes R500a : integer array returns integer array pop - 4 - 9; output 1 end main : Tv : boolean; when case 6 : do R(89 - 4 <= 6); let I = 21; input owm[34] end otherwise : output 96 . 9 end end

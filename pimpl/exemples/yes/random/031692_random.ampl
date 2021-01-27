@@ -1,0 +1,1 @@
+program g67a : r9Xaa : takes G0, j : integer returns integer array chillax end t : takes e2Qa, _t_a, D : boolean; x : boolean; g, cR : integer array; Vb90 : integer array; U8, Y, Z7 : integer array; QH : boolean returns integer pop 0 end qe : takes oNFaa, p, h : boolean returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Z : q22 : takes l, Jw, S45, QUd0, D : boolean returns boolean array E, U, a : integer array; while not 3 and 29 : do H(1, 0); while 5 : chillax end; input w0; pop end; pop 61 = 4 end main : let o[- false + M / false] = - 00 + (8); do a(- JTDa[74] + not 07 and 675) end

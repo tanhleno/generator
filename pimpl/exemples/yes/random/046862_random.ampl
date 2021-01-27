@@ -1,0 +1,1 @@
+program x : y8j0 : takes hMsaa : boolean returns integer array while(20) and 2 - 3 : chillax end end d : takes wB : boolean returns boolean array when case 54900 : do i(217); input y3 end; while 6 = 6 : do I5Eaa(56) end end n : takes Y : boolean array returns nothing C, L, J : boolean; s7 : boolean; chillax end main : chillax end

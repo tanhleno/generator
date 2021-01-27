@@ -1,0 +1,1 @@
+program t : Z5 : takes Q : boolean returns boolean chillax end q : takes D, sH, J130a, T, uP : integer; _, k8, r440a, Y8 : integer; w : integer array; iJ : integer array; df3 : integer array returns boolean array chillax end main : D, B26aa, wV : boolean; j : integer; let C[(8 = 79900) - (02500)] = array - true rem not K and false and 9; pop end

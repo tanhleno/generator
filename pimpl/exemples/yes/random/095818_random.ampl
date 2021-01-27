@@ -1,0 +1,1 @@
+program a : main : when case - false / 0 * S and 9870 - true * _ - not 4890 /= - not not 105 : do y(19) end case k8xaa[2] : input UdPaa[88500]; pop end case - (1) or 1 /= - 76 - 7 : chillax end otherwise : while 714 : chillax end end; while 6730 : chillax end end

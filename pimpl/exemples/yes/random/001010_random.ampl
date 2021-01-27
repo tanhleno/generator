@@ -1,0 +1,1 @@
+program D : W : takes Ij, Pp, V, Ky, n, D5, w : integer returns boolean chillax end Mr : takes f : integer; a, X : integer; l, Sir : integer array; HNE : boolean returns boolean w : boolean array; chillax end main : chillax end

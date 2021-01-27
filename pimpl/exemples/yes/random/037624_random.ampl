@@ -1,0 +1,1 @@
+program XX : YC2 : takes M : boolean array; K, QmS0, P, pkY0, P : boolean array returns nothing chillax end main : kPa, L640a : boolean; output - q = (2) and 1; output(8) or 4 - 65 . - 5 - 870; when case - H >= 85 : output "E,!a"; when case 2 : chillax end; let xC80 = 488 end case 1 - 7 : do I(3) end case 734 = 3050 : chillax end case 983 : chillax end end

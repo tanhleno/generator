@@ -1,0 +1,1 @@
+program H2 : m : takes R3, z4F0a, k, C38 : integer returns nothing chillax end S : takes l4 : integer; e95 : integer; wyL : integer returns integer input J end m7 : takes k, X1S : integer; W : boolean array returns nothing chillax end main : k2 : integer array; sCMaa, wu, NC, W, YL9, K7Q : boolean; X2 : boolean array; Ev, t26, I, q88 : boolean; chillax end

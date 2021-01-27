@@ -1,0 +1,1 @@
+program c : y : takes l, N, j2 : integer array returns nothing when case - 56 : do y(3, 0750); output "S" end case - 920 - 8 : chillax end case 8 = 65 : chillax end otherwise : chillax end; input G end main : h, k : integer array; G1, C99 : integer array; WtZ : integer; input I; let V[- not l2F - true] = 1740 end

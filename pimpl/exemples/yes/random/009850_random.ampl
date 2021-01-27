@@ -1,0 +1,1 @@
+program xG7a : m : takes w6, p, X : boolean array; Y, k : integer; M, X, eb : boolean array returns boolean array FPR : boolean; chillax end g : takes ny, WD : boolean array returns boolean let V5[08700 - 8] = 1 = 2; let XA4 = 356 end main : zd50 : integer array; do t(false rem 7 >= false / 6 or(35800), q(93500)) end

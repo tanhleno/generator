@@ -1,0 +1,1 @@
+program A89 : J : takes D, p : boolean array; H0 : integer; eAD, K : integer array returns integer Zg, o04aa, F7d, Iu, O6maa : boolean; when case - 1 and 08 >= - 562 : chillax end otherwise : chillax end end main : while not false or f(8) : chillax end; input KTsaa end

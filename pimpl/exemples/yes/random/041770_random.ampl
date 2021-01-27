@@ -1,0 +1,1 @@
+program VQX : V9saa : takes j : boolean array returns boolean array w : integer array; chillax end S : takes e93 : boolean; d3, iVZ : integer; F, j : integer array; n : boolean array returns nothing n7a0a, l : integer array; while - 0 < 4 : when case 03 : chillax end; let g = 785; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program s : E : takes v : integer array returns nothing chillax end _ : takes y, X, iO, x : integer array; R : integer returns boolean array chillax end main : t9Q : boolean array; output - 4 rem OX + not 4 + 0; while - (63300) and not 39 and 60 = (95) and 0 : let Y = array 39; pop end end

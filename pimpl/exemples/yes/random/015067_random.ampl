@@ -1,0 +1,1 @@
+program k : Y : takes a3, b8, d : integer array returns integer dy : boolean; chillax end main : x, t : boolean array; Y : integer array; b, CH, H3, Z, l3 : boolean array; W, l810a : integer; pop end

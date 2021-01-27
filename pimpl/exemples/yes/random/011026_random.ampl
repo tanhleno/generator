@@ -1,0 +1,1 @@
+program z3 : bBz : takes rpra, n, i15 : boolean array returns nothing chillax end qs9 : takes C, cs, ErS, FLfa, I, z37aa : integer array returns boolean array Z : boolean array; output 0 . "" end main : B : boolean; chillax end

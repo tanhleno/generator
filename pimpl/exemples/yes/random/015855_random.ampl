@@ -1,0 +1,1 @@
+program hr1 : F : takes TV, B, r : integer returns boolean input l0; let S = array 727 end main : wW, w51 : boolean array; v, LMP0, F, u, Nlr : integer; do r5Ra(B); while - (004) * O24a or not 6 and 2 : chillax end; input X; let v1 = array - 35 end

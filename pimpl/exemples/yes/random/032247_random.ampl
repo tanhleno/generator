@@ -1,0 +1,1 @@
+program _6 : to6aa : takes t, n : integer returns nothing chillax end R3Ba : takes c8H, K : integer array; J, Q : boolean returns nothing J390a, g3, l : boolean array; chillax end main : n5 : boolean array; while - not e[3] / X5(13400) > true : chillax end end

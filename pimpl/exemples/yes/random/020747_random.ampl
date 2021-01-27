@@ -1,0 +1,1 @@
+program TY : M9 : takes w1n, HU8 : boolean array; e100a : integer returns nothing dP1 : integer array; chillax end main : let x = array not true and true * (98) - false rem false and 10; let Z = - u; while not 2 and 45 < 3 - 4 : chillax end; output "" end

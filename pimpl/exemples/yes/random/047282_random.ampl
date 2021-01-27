@@ -1,0 +1,1 @@
+program v : u : takes p : boolean returns integer let c[- not 2 and 2] = 4; let b44[1350] = array - 4 - 0; input eW2[9] end b : takes O3, tUdaa, k : integer array; gE2a : integer; QL : boolean array returns boolean array chillax end main : chillax end

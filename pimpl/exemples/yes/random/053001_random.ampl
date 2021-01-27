@@ -1,0 +1,1 @@
+program I : M48 : takes h : integer; sg : integer array returns nothing j, reF0, aH4, ISx : integer; I : integer array; when case - 3 and 1 + 5 - 92 <= 0 : chillax end case - 8 : chillax end case 5 = 6 : do n(8) end case 8 : chillax end case 9 : chillax end end main : do X57a(352 rem 01200 * 5 + 22 > - not true / 0) end

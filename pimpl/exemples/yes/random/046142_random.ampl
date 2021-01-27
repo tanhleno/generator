@@ -1,0 +1,1 @@
+program p70 : d : takes r5 : boolean returns boolean Bj, F : integer; chillax end M97 : takes E : boolean; b2, Ukc, z : boolean; a6 : integer returns nothing while 80 - 8 : do pW(5) end; pop end main : chillax end

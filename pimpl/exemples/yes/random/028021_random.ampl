@@ -1,0 +1,1 @@
+program C : w : takes z, s : integer array; Z3, a6naa : integer array returns nothing F, bcZaa : boolean array; do Q0(- 3 and 4 = 0); output ""; input CY[1]; let F6[138] = array 30; while 9 : chillax end; output "\","; pop end main : while - 6 : chillax end end

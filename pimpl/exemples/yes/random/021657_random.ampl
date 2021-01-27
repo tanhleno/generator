@@ -1,0 +1,1 @@
+program h35a : H : takes j, E2 : boolean array returns integer l, i1d : boolean array; Kn : integer array; V : integer; l50, F : boolean; b : boolean; P : boolean; input S[- not 3 and 7] end main : while - false + false * false : while - 70 : chillax end; let t[20300] = array 7; while 55600 : chillax end end end

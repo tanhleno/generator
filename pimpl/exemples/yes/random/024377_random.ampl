@@ -1,0 +1,1 @@
+program T : q : takes C, c95aa : boolean returns nothing b9, PG : integer array; eNSaa, r, tA3, Pf2 : integer array; d, W63 : integer; input h3; input C; when case 779 = 9 : while 386 : chillax end; pop end end main : K3 : integer array; chillax end

@@ -1,0 +1,1 @@
+program B1 : C3 : takes zXOaa : boolean array; q, NO : boolean; xE : boolean array; d8 : boolean array returns nothing chillax end main : input T7F0[- (9140)]; while - x[08] rem not 9 = - 904 or 05 : do eI(50300 = 69100, 05, 208) end; do B((02)) end

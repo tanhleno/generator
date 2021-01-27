@@ -1,0 +1,1 @@
+program VX : I0 : takes o7, i : boolean array returns nothing L22, X, G : boolean; chillax end main : T, D : integer array; let Aa = array - not 6 / not 3 * (1) and 7060 - 02 * false + (28) or 04 - 85; pop; while vw and 9 or 9 - 51 <= 22 : chillax end; while - 2 = 3 : chillax end end

@@ -1,0 +1,1 @@
+program L : M : takes A : boolean returns boolean array chillax end G65 : takes AP : boolean array; V : integer array; RL, f : integer; Thh : boolean returns boolean when case 7 - 5 : while 6700 : chillax end end case 78 = 6 : do b(63); pop end case 5 : pop end; output 1460 end main : chillax end

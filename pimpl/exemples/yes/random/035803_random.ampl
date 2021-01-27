@@ -1,0 +1,1 @@
+program pX0 : H : takes S27 : boolean; i : boolean array; u : integer array returns integer v, PSY : boolean; I2z0a, s0J : integer; output 8 - 1280 = 14 end main : let haRa = - 6 or(007) > false; while(19) : chillax end end

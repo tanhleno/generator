@@ -1,0 +1,1 @@
+program o2 : Su : takes Aq : boolean array; Nm : boolean returns integer while - false and 2 - 65 : pop end; pop end main : pop true > r and 7 + 69; output false; while not 6 - 67 - 5 : chillax end end

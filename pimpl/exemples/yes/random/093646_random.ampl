@@ -1,0 +1,1 @@
+program fl : main : output true >= - (56) + 7 - 3 . T18 . - 5 . "\""; when case 588 <= - N and 65600 : chillax end case - true and 486 or 3820 /= 54 : do JB(91, 9); pop end case 358 - 8 : output "I8"; pop end otherwise : chillax end end

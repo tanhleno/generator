@@ -1,0 +1,1 @@
+program M : k6 : takes tJ8, j, T : integer array returns nothing bH, p9, yC5aa : integer array; M6, I : boolean; when case - true and 8000 : when case 3 : pop end end case 0 - 08 < 0 : chillax end case 74 : chillax end end main : PV, T : integer array; rD2, A, o7, B : integer array; z, Te : boolean array; input Pap end

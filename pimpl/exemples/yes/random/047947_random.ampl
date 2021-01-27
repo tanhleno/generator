@@ -1,0 +1,1 @@
+program J : YNca : takes A2I : boolean returns nothing GxIa, r, w76, xe8a : integer; pop - 9 - 82 <= 7 end L : takes f, G, n : boolean returns boolean array P : integer; g : boolean; while 38 <= 0 : when case 5 : chillax end end; let H[101] = array 7; let yC[3] = array 2 end main : chillax end

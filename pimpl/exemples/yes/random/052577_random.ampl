@@ -1,0 +1,1 @@
+program Sp : B : takes Z : integer; u9 : integer; u : integer array returns integer O, q4, t, u, U7l : integer; T9 : integer; input i[e and 2] end main : do Dtv(- (90 = 46) rem false or q - 64 and 0); do EbT(- true or 41 and 5 - 2) end

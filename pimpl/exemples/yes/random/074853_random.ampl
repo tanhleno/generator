@@ -1,0 +1,1 @@
+program z : main : JG, v : boolean array; lU3, I2 : boolean array; y6B0a : boolean array; while - true : when case 7 : do sM2(6) end otherwise : chillax end end; do K(true * not 2 <= not 6 and 3); input y; pop 9 end

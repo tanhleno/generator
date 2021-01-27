@@ -1,0 +1,1 @@
+program N : _r5aa : takes A4, Y : integer array; c : integer; B : boolean; p, MK0, B, l0ra : boolean returns nothing E : integer; chillax end R : takes a, n, c1, E89aa : integer array; JoF : integer returns nothing i : integer; J0 : boolean; H, t : boolean; do SBS(59300 >= 651) end main : chillax end

@@ -1,0 +1,1 @@
+program X1 : main : a : boolean; B86a : integer; _, b, A, Z29aa : boolean array; when case - false * 0 - true - W - 10 - 0490 : chillax end case - (5) /= (73) and 71 : chillax end otherwise : chillax end end

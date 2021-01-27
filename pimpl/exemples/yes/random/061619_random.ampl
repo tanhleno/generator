@@ -1,0 +1,1 @@
+program k : Ua : takes w : integer array returns nothing while - false and 7 + 0 - 1 : when case 0 : chillax end otherwise : chillax end; while 9480 : chillax end; do N01(4660); pop end end main : L, i : boolean; H : boolean array; zw : boolean array; pop; while(2) <= - false + 7 : chillax end end

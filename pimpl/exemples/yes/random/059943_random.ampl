@@ -1,0 +1,1 @@
+program Yb : r : takes Pn : integer array returns nothing chillax end main : Z, Fn7, h : integer; kb8, C : boolean array; m8, i : boolean array; do N(5 >= R44, - false or not 3 or 9440, Bh and 9 < - 2 - 148, - 0 > 17800, 8340, 95, 6); pop end

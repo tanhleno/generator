@@ -1,0 +1,1 @@
+program s6 : X6O : takes c, Hx, V6G0a, kd : boolean returns boolean do Z(nsp0a, 25); input ss[2] end dR : takes ox : boolean array; f, DD, n : integer array; bMA : boolean array; Q : boolean returns nothing let k = 11 = 38; output ";" . 3440 . "'"; pop end main : pop end

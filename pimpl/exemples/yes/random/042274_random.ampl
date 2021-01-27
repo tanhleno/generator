@@ -1,0 +1,1 @@
+program B : S : takes kh : boolean array returns boolean Q : integer array; o0 : integer; when case - Ft or 6 - 9 >= - 49 - 2 : input x; input s; do _(0) end otherwise : let ii = 1; do gj(6); pop end end C : takes W : integer returns boolean J : integer; chillax end main : pc, RCnaa, w, oT, G, p310a, a : integer; D : boolean array; o5I : boolean; yl40 : boolean array; chillax end

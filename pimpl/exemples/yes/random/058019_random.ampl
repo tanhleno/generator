@@ -1,0 +1,1 @@
+program D : iFjaa : takes e : integer array returns boolean array while r and 56 > 400 - 4 : chillax end end y : takes Z, S400 : integer array returns nothing K, i : boolean; jq7 : integer array; when case - 1 - 58500 : do e6(7) end case 6 = 78 : chillax end end main : K : integer; l5 : boolean array; Ni3 : boolean array; chillax end

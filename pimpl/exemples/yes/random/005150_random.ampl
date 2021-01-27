@@ -1,0 +1,1 @@
+program a : N : takes w, mB7, L, N : boolean array; M_ : integer; kq2a : integer returns nothing do z(true and 0 - 549 > 1) end n : takes rP7 : boolean array; j3K : boolean array returns boolean chillax end main : chillax end

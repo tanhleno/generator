@@ -1,0 +1,1 @@
+program j : W : takes W : boolean; uLE0 : integer; q : boolean array; EENa : integer returns boolean K : integer array; while - false and 2 + 13 - 61200 : output "\\" . ":@0a" end; let p[4 - 78] = 5 = 63; while 0 = 40 : output "]5a"; pop end end main : Ze, Z910 : integer array; N : boolean; HY, E : boolean; J : boolean array; chillax end

@@ -1,0 +1,1 @@
+program J : a2 : takes l1, J, W : integer; S, Us : boolean; N : integer; f, F, fon0a : integer array; UR, c9 : boolean array; L7 : integer returns nothing chillax end main : let K = array j[5] rem not true and false and 70100 - true and w end

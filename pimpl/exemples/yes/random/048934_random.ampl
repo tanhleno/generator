@@ -1,0 +1,1 @@
+program u : U0 : takes Q : boolean returns nothing let fH[(81)] = 30 - 3870 end Ww : takes O : integer array returns nothing H : boolean; I0M, t, D : integer; Yy : boolean; f : boolean; uJ90 : boolean; do D(4 /= 057); let qa[6] = 40; pop 13 end main : G, q, E : integer array; chillax end

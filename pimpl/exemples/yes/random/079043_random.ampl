@@ -1,0 +1,1 @@
+program J : main : H : boolean; m7, e : integer; let S = - J_f[52] rem false or false - 2 - 5; pop - (9) + 3 - 17 /= - 1; input BTGaa; when case 70 >= 9 : let B = 7; do A940a(27100); pop end otherwise : while 9 : chillax end; pop end; when case 4 = 2 : chillax end end

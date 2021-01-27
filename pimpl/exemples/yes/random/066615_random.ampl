@@ -1,0 +1,1 @@
+program n72aa : main : do m(- 67 + true rem true and 3 < - false - not 57100 or 27 - 59700, - false / 69 <= not 6820 and 9, - not 0 and 9); do q(- um + true and 8530 > 4 and 4, 75 - 703 - 1 /= 81000); let T14[S6 or 53800] = array - 4 and 8740; when case - 3 : let I = 3 end end

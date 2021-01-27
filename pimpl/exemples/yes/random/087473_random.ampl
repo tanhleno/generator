@@ -1,0 +1,1 @@
+program f : main : Y6 : integer array; when case(9) + 0 < - uEwa / not 9 and 49 : while - 3 : output ""; let ns = 5; pop end; let MG[4] = array 288; while 7 : chillax end; when case 8 : chillax end end end

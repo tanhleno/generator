@@ -1,0 +1,1 @@
+program C1 : b940a : takes e4 : boolean returns boolean array C, u, I : boolean; output ""; pop; input S; let k = array 62900; output ""; let w = 8; pop end main : tP : boolean array; let y1[- (3 = 56) + true] = array N; input I[- true and p or false and 8] end

@@ -1,0 +1,1 @@
+program Q : KQ7a : takes k, u, SE : boolean; y : boolean array; D : boolean array; a5 : boolean returns nothing chillax end main : t, Yc : integer array; while not true / (0) rem false - BF[2] < - 005 and S : chillax end end

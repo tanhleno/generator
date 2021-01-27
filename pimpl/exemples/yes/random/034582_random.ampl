@@ -1,0 +1,1 @@
+program MVQ : O : takes Q1x : boolean; w290, C : boolean array returns nothing Qv, L : integer; SA : integer array; let K[- 9] = array - true and 375 + 3 - 25300 end main : g2J, h, h, x12a, z, z : boolean; chillax end

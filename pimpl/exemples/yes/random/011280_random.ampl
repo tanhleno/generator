@@ -1,0 +1,1 @@
+program m5 : v_ : takes A0i, H, k : boolean array returns nothing KK9, l : integer array; v : integer; e, Tg3a, G : integer array; let C = array true; output "" end main : C4Aa, T : boolean; when case - true : pop; let UN = array 1 end case - (977) * 6 : pop; let c4 = 5; let C = 55; pop end otherwise : let y3gaa = 44; when case 2 : pop end otherwise : chillax end; input C end end

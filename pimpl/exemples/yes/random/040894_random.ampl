@@ -1,0 +1,1 @@
+program q600 : L : takes KP : boolean array; r : integer array; H : boolean returns integer Y0H0, B : integer; chillax end main : when case 7 rem not 9 or true rem(5) and 0 or not 3 and 0 - 69 > true * o or true : output 9 = 1 . "" . "" end otherwise : let W6 = array 1; input E end; pop 9160 and 6 end

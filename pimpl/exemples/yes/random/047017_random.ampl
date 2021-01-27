@@ -1,0 +1,1 @@
+program O : XU : takes G : boolean returns integer gPr, hpFaa, b, N, O : integer; q : boolean; l : integer array; E59 : boolean; chillax end P7 : takes Hq : integer array returns nothing q27 : integer array; let r = array 06 - 8 end main : chillax end

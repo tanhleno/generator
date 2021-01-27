@@ -1,0 +1,1 @@
+program o09 : j : takes WuC, I : boolean array; F0 : integer returns integer input x6Ga[16300 and 7 - 8] end BGY : takes E, T : integer; GT_a, _ : integer array; M, em : boolean; I7 : integer returns integer E : boolean; l : integer; S : boolean; do g68(- 1 - 70 /= 5220); when case 4 : chillax end; input e[5] end main : R3, NNS : integer array; chillax end

@@ -1,0 +1,1 @@
+program df : NN : takes HRW : boolean returns boolean input v9[- (3) and 9 + 00]; input p; output 43 end sX4aa : takes j, v : boolean array returns integer array output "]\\0a" end B : takes mpU0a : boolean; Ie, u3 : integer returns nothing chillax end main : b1i0a, X : integer array; n, a : boolean array; XH : boolean array; do jYx(- not(2) and not not 46 and Wl and 00300) end

@@ -1,0 +1,1 @@
+program hj : X : takes lj0a : boolean array returns boolean array g : boolean array; output - 4540 < 191 end Y : takes sb : integer; A7, Y, X4j0 : boolean array returns integer array chillax end s : takes b0, qw, e : boolean array returns integer y : integer; chillax end main : pit, X1 : integer; pop true / 77 <= - true and 687 end

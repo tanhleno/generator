@@ -1,0 +1,1 @@
+program Q0 : main : output true + false + 8 - 01 <= (3) and 0240 - 0 - 5 . - (7) and 8 or 49; input k; when case - (3) and 2 = 8820 - 6 : output "g)!" . ""; pop end case 4 - 84000 : chillax end case 3 : do z(80) end otherwise : chillax end end

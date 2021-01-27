@@ -1,0 +1,1 @@
+program W : K : takes lfh : integer array returns nothing chillax end M : takes I6 : boolean; M, t, b, m, g : boolean returns nothing z : integer; l, iuCaa : boolean; F : boolean; let rQ[- 4] = array - 0; input e; do U75(2, 9); let _e = 8 end main : pop end

@@ -1,0 +1,1 @@
+program G : B80 : takes k18, Z, _44, Es : integer array; V : integer returns integer array let y4 = array - true; pop; pop; when case 87 : chillax end case 6 : chillax end otherwise : chillax end; when case 3390 : chillax end; pop; pop end r : takes y : boolean; A, i6 : boolean; k : integer array returns nothing chillax end main : chillax end

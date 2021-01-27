@@ -1,0 +1,1 @@
+program F6 : HX : takes t8 : integer returns nothing m4, f : integer array; chillax end main : while - not not true - false rem false and 1 - Z and 96 or 887 >= not false * (33) - not 2 and 80 - 4 : chillax end; while - (64) : chillax end; while(9) : chillax end end

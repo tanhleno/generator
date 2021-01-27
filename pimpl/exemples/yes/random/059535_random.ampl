@@ -1,0 +1,1 @@
+program OWW : r7Uaa : takes i : integer array returns integer let Z[- k] = 9 - 2 end v : takes K, l : boolean returns boolean h, gCs, j : integer array; when case 6 - 6 /= 9 : pop; pop; pop end otherwise : chillax end end main : T73, h1 : integer; w : boolean array; DK, N, r7Fa, s0 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program j : L3 : takes V : boolean returns boolean b7, Rb6a, Id : boolean array; Z, Cr, ALt, l3p : boolean array; while(238) or 2 - 1 : chillax end end P41a : takes z, O : integer array; o : integer; RU8aa : integer returns nothing pop 2 = 123 end main : while not false * (064) * true : let g8[8 - 06] = array - 9 - 3; do Cs(4) end end

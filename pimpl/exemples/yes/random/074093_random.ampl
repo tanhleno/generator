@@ -1,0 +1,1 @@
+program Qe : main : D5, g : boolean; input r; when case false - W3 + 42 < false and 396 : output 706 . "\\?0a" . "7" end case not 2 and 00 + 16 : while 20 : chillax end end case 20 - 56 < 2 : output "\\e"; input A5c; pop end case 0 = 42900 : while 3 : chillax end; pop end; input M03[true] end

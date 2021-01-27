@@ -1,0 +1,1 @@
+program e : x : takes XPB0a, D, KZU : integer; Nhd0 : boolean returns integer let x[not 5 and 0] = 65 /= 0 end h : takes VYgaa : integer returns boolean chillax end main : hu9, ZF : integer; o_I : boolean; t : boolean; chillax end

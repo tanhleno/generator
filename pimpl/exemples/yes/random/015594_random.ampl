@@ -1,0 +1,1 @@
+program h : r : takes TVu0a, R, BGy : integer array returns nothing pop 04 = 089 end main : K, L, r5 : integer array; F93 : integer array; H, N : boolean array; u68, Sw : boolean; let E = 2 <= - 6 and 01 + 56 - 0 end

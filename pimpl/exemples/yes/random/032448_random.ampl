@@ -1,0 +1,1 @@
+program P : k9 : takes a3q, b : integer returns nothing do W7(true and 4 <= 9, - 0 - 20 >= 18, 6 = 02, 5); output 6 = 34 . 9 . 5 . ""; let na = array 3; output "" . "f7\"a" end C : takes FQ, Z : boolean; _, s4, v550a : boolean array returns nothing chillax end main : chillax end

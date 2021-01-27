@@ -1,0 +1,1 @@
+program O06 : T8G : takes q4V : boolean returns nothing chillax end T2 : takes X, d : boolean; Yq8 : boolean; ep, M6, M : integer array; D : boolean; Z0, A, F : integer array returns boolean r2, q3, m10 : integer; TQ40 : boolean array; chillax end main : chillax end

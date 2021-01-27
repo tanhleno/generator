@@ -1,0 +1,1 @@
+program t7 : D8 : takes g, L, Y7, k6Sa, nAa, j8, X0, yi : integer returns boolean chillax end main : output A(3) and false and 5 <= - true . - not 1 and 8 < - 9 - 1; let b4 = array - (6); do Z(- not 5 or 9) end

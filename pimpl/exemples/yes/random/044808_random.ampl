@@ -1,0 +1,1 @@
+program ZN : R : takes c : boolean array returns nothing H1 : integer array; chillax end main : do r(- not false = true - DM and 0 - 8 - 61); while - 2 / 5750 : do G(2); when case 588 : chillax end case 87 : chillax end otherwise : chillax end end end

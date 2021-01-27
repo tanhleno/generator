@@ -1,0 +1,1 @@
+program d : OmN : takes e, B : boolean array; o4, Q : integer array; yj90, B, v1, A : boolean array; Q : integer returns nothing Z, oF, pn, Otj, nIC0a : integer; chillax end main : g : integer; i, j3, t : integer; pop - not X62 - true and 1 - 91900 - 2 end

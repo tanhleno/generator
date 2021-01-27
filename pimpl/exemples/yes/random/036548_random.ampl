@@ -1,0 +1,1 @@
+program D1 : D : takes ueb : boolean; Y : integer; Q820a : boolean returns boolean array c5j0, rJ6 : integer array; while - 6 >= 9 - 1 : output "" . "" end end r : takes GR, G38 : boolean; z9k0a : integer array returns nothing chillax end main : o, l4Y, K : boolean array; a3 : boolean array; y9B0 : integer array; S, B : integer array; chillax end

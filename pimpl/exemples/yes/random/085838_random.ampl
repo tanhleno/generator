@@ -1,0 +1,1 @@
+program e1Ya : main : SO : integer array; N, v7A0a, bq : boolean array; when case 6 : do kVh(- 55 >= 64, 2 = 65); when case 1 = 4210 : chillax end case 64700 : chillax end case 88 : chillax end otherwise : pop end end case - true : output ""; input m5[2] end; output - 5 < 24 end

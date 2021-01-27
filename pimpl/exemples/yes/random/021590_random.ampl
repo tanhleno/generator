@@ -1,0 +1,1 @@
+program Q9 : a5 : takes _Mxaa, A2 : boolean array returns integer chillax end main : when case false * 9 : pop 5; when case 12 : output "" end otherwise : pop end; pop 62; input A1; while 821 : chillax end end; let e[false * 6 and 56] = array true * not 5 end

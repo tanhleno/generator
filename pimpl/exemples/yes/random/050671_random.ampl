@@ -1,0 +1,1 @@
+program P : E : takes wU : integer; p3u0a, a3 : boolean returns boolean array P6 : boolean; v, A7I0, GE3, yQJ : integer array; when case - (20) and 415 /= 29 : output "" . "x\""; while 1360 : chillax end end case - 0 < 643 : do BF30a(8); do j(52); pop end case 03 : while 02 : chillax end end otherwise : do h(11400); pop end end main : O : integer; chillax end

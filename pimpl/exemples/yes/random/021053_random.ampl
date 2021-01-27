@@ -1,0 +1,1 @@
+program a6 : _220a : takes S, j : boolean array returns boolean chillax end main : rQ : boolean array; let sW[- not(0) / true] = array(0); do w(true / 48 and 23600 or false and 3230); do K7Ta(- true); pop; do j(3 = 4560, 2, 9) end

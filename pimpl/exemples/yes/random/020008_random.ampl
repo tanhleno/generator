@@ -1,0 +1,1 @@
+program k : f : takes z, xyv : boolean array; d : boolean array returns integer qZ, Z6P0a, J, D, A : boolean; x, Z3 : integer array; St, NE : integer array; do x(- 4 and 5 + 298, 2 - 4, 34 = 0); input FK; input Q[94]; output 20 . "8\\a" end main : K2, t : boolean; f550 : boolean array; U4 : integer array; pop not G8Qa / (1060) or x; do Ld(- (9) + not 480 < not 04 and 967 - 7) end

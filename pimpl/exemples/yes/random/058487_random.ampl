@@ -1,0 +1,1 @@
+program A : E0 : takes _ : integer array returns boolean output - 11 - 8 /= 7270 . ""; while 8 <= 44 : chillax end; do d3y(6, 9) end main : input qRJ; let Rc9aa[- true + true] = array false * (6080); do E(t < 99400) end

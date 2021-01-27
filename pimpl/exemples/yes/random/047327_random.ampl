@@ -1,0 +1,1 @@
+program j : S : takes u7 : boolean returns integer pop 665; while - 8 - 6 /= 27 : while 5 : chillax end; let Su = 43; pop end; when case 8 = 1 : chillax end otherwise : chillax end end main : w6 : boolean; while - t1 and 8080 * w and 8 or true - IA50a and 9 - 27 - 85100 >= not false / false and 468 : chillax end end

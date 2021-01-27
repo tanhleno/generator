@@ -1,0 +1,1 @@
+program Z : l : takes C93 : boolean array; Jn, ZI : integer array returns boolean array when case a and 2 - 6 <= 1 - 6 : output "" . "" end otherwise : output "" end end main : Y2, P, h, ei, nt3, Z, S : boolean array; chillax end

@@ -1,0 +1,1 @@
+program b : j : takes h1V : integer array returns boolean array w5, wa : integer; C1, V420, P : integer array; r, R8, pO : boolean; u : boolean; _ : boolean; let U530 = 0 end Z3 : takes q60, oq : integer array returns nothing pop; let o = 0; while 0 : chillax end end main : j, I, i6v0a, Z : integer; chillax end

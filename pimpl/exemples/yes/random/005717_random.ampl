@@ -1,0 +1,1 @@
+program c : cP1 : takes Z89, S, C, _ : boolean array returns nothing ym7a : integer array; Z, V, i : boolean array; G570, G, v : integer; Zf : boolean; q : boolean; B : boolean; do ZK4(- 3 and 51 = - 7) end main : z29, J91aa : integer array; gV, M0, I, _ : boolean array; chillax end

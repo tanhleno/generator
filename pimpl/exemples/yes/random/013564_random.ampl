@@ -1,0 +1,1 @@
+program r : u : takes c3za, O6S0, q : integer; O : integer returns integer array r5 : integer array; pop end main : pop - B140[92500]; when case - (5160) rem not 6 + true and 347 : chillax end case 1 and 71 < 94 - 8 : output 66 . ""; let d06aa = 5; input lp6aa; pop end end

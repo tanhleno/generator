@@ -1,0 +1,1 @@
+program d : s : takes xG2aa, I : integer array; BU4a : boolean array; R, uX10a, Yg0, F2, Um, Bm70a : boolean array; b : boolean array returns integer array output "-@" end main : Lb4 : integer; chillax end

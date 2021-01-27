@@ -1,0 +1,1 @@
+program d : Z97a : takes h4M, R, w : boolean returns integer chillax end u : takes _ : integer array; k520 : boolean returns boolean array J : integer; when case - 9 - 04600 : when case 696 : chillax end; pop end otherwise : chillax end end main : up80, F200 : boolean array; c, F270 : integer; chillax end

@@ -1,0 +1,1 @@
+program S5 : Z : takes K : boolean array; N4 : integer array; V470, i : boolean array; aw : boolean array; N : integer; Ys5 : boolean; u, _5 : boolean returns nothing output "-)" . 86 . 9; when case 8 - 2 : input MQ40a; output "\\" end end main : input _[- CT(3, 1) - 98] end

@@ -1,0 +1,1 @@
+program a61aa : cY : takes G5ka, av, CG, p690 : boolean array; Z9, Lf, Li5aa, b, T1, A, T : boolean; Q360, u70 : integer returns integer array dl, z, r : integer array; while - false and 11 - 6 - 4 <= - 4 : chillax end; let GT[90 - 2] = array - 728 - 0 end k8P : takes l, yO : integer returns nothing pop; do R(7 = 7, 7, 0) end main : Gc10, oY2, hpra : boolean array; chillax end

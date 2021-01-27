@@ -1,0 +1,1 @@
+program EQ : _9 : takes w, t, N, R61, z1, v4J0a, m : boolean; S : boolean array returns boolean Y41 : integer array; Z, y0r, VJC : integer array; when case _ and 68900 or 183 - 2 <= 89 - 5 : do dD(7, 59) end otherwise : input sq; while 89 : chillax end; pop end; pop end main : F, X, L84, f : integer array; chillax end

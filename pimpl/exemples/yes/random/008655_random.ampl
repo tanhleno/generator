@@ -1,0 +1,1 @@
+program l3Taa : F1q : takes P, w9f, C : boolean; vm, W, _A : integer array returns nothing S : integer array; i1, sO : boolean array; output "" . "\"" . 11 . 9 end main : D, l, Y : integer; QaM, M : integer; input q end

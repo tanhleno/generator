@@ -1,0 +1,1 @@
+program H : yffa : takes LJK, d, OVO, U : boolean array; Y : boolean array returns boolean wYb, W, k : boolean; chillax end main : y9, y : integer; E, R, h, BZ, q : integer array; E : boolean; output - false / j2 and 18 /= not 7 and 78 - 73 - 009 . - 9 and 0 or 94 - 055 . "H" . 36700; input HH[- (9) and rl8a and 32200]; input eP3[- false or 9 - 31] end

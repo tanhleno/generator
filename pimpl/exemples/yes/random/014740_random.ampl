@@ -1,0 +1,1 @@
+program PJ : G : takes K7, CXta, C : integer array returns boolean array q3 : integer array; M, Ae3a, P : integer array; chillax end main : JuOa : integer; input rJa0a[- true rem true rem(4) and 9]; input z[bc[3]]; pop 2 - 5 = 96; output "" . "\"00a" . 77 end

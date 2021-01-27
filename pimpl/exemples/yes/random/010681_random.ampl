@@ -1,0 +1,1 @@
+program v : b : takes u_, B4B, HH : boolean array returns boolean h, _, v8 : boolean array; df, S : boolean; let rt7aa = - 5 - 4 end Dg4a : takes d : boolean array returns boolean chillax end b4 : takes v6 : boolean returns boolean do P0(76); output 52 . ""; do GY1(65) end h3 : takes u9 : boolean array returns boolean array pop end main : jO9 : boolean array; chillax end

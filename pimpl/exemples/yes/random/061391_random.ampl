@@ -1,0 +1,1 @@
+program N : iG : takes C850a : integer array returns nothing output "" . 68 = 4 . "rF!" . "" end main : e : boolean; o : boolean; when case e(06, 7) : do S(- 7 > 9); while 8 = 79 : when case 9 : chillax end end end case - T(5) : chillax end case - 9 and 431 or 933 - 0 : chillax end otherwise : input D end end

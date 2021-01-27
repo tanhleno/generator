@@ -1,0 +1,1 @@
+program r : b : takes Q : integer array returns integer input jc[not 43600 and 5 or 9] end main : when case not 2 rem(8) + not false : chillax end; when case - false rem not 2 - bo : output 7; do A(8, 358) end otherwise : chillax end end

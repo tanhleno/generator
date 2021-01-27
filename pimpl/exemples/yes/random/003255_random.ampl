@@ -1,0 +1,1 @@
+program B : Q : takes Pm10, P, T, m, h : integer; V : boolean; O : boolean; X : boolean array; R : boolean array returns integer R : integer; do I5saa(- j0 and 71 > - 5); do d(- 0 - 91 < 53400, 0) end main : output "\"0!" end

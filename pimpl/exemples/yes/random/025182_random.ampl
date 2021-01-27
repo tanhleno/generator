@@ -1,0 +1,1 @@
+program J : q : takes GA, Bn : integer; n7, X, zc_ : boolean; RT7 : integer; V, H38aa : boolean array returns integer array chillax end b : takes RZ, j6, H : boolean returns boolean while - 6 - 9 : when case 51 : chillax end; do p(01000); pop end; while 90 : do n8(75) end end main : chillax end

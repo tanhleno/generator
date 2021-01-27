@@ -1,0 +1,1 @@
+program a : ln : takes e : boolean returns boolean i, csi0, Y3r, v, k : integer; n, I6 : integer; F7b0a, FG4a : integer array; L, fa : boolean; X7 : boolean; output 8 - 38 < 5; input e[0 - 2]; do RAg(22, 56000); pop end main : output "\n&\"" . "\"" . ""; do dfu(- false * not 99 and 1 - 1 and 721); pop 5 end

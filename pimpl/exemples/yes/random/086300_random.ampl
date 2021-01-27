@@ -1,0 +1,1 @@
+program T83aa : main : B : integer array; X : boolean; do rx(0 + not false * not 8000 and 0 or true and 95, - 08 / false and 8 + not 60900, (72500) or 2, 679 >= 631); let q8 = array false or SZ or 94700 - 1 end

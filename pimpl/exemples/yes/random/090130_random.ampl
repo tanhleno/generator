@@ -1,0 +1,1 @@
+program w : main : let g67aa = array L[02] and 62 and not 9 and 3 - false / (9590) and 7 + false and 8; when case - true : chillax end; output "0<\"" . ""; while 4 - 0 < 4 : chillax end; let w[4] = array 3 end

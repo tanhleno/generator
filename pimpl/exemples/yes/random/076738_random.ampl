@@ -1,0 +1,1 @@
+program w81 : main : p4, yo : integer; let v[not(766) rem 6] = W7[8] <= 1 + 2 - 452; when case not(8) or false <= 744 and 8 : when case 3 : chillax end case 65 : chillax end case 8 : chillax end; when case 8 : pop end case 76 : chillax end otherwise : chillax end; while 7 : chillax end; input Qx5; pop end otherwise : pop 9; when case 61400 : chillax end end end

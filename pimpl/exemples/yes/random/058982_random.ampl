@@ -1,0 +1,1 @@
+program pAl : K : takes y8 : integer array returns integer array let z6z = array 100 end main : k, j : boolean; t : boolean; _ : integer array; when case not 5 : chillax end case true : chillax end end

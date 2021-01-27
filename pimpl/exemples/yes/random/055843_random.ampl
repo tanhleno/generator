@@ -1,0 +1,1 @@
+program o4 : TR : takes T : integer array; M980a : boolean array; W3A0 : boolean; I1, HkF0, O8 : integer returns integer input p3 end p7jaa : takes k : boolean array returns nothing chillax end main : chillax end

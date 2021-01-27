@@ -1,0 +1,1 @@
+program m : b : takes ce0 : integer; U : integer; f, q, IqZa : boolean returns nothing input N[not 26 + 3]; output "r\"" end main : h : boolean; when case not(3) : output 08 . 22; pop 1 end otherwise : chillax end end

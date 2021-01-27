@@ -1,0 +1,1 @@
+program mes : D : takes en : boolean returns nothing while - not 54 > - 04300 - 8 : do u(92, 9) end end main : Lz4 : boolean; let YB = array true; pop - 52 or 1 - 50600; input i6[- (5) + 67 - 56]; output "\\4!" . 5 . 44; while 88 : chillax end end

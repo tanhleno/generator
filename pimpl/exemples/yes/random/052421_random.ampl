@@ -1,0 +1,1 @@
+program J97aa : J : takes B9ga : integer; u : integer; X9x0, C6 : boolean; k : boolean array returns nothing do x(- true and 071 < - 64 - 388); pop; when case 0360 : chillax end case 86 : chillax end case 1360 : chillax end otherwise : chillax end end main : w : boolean; Yd : integer; j : integer array; chillax end

@@ -1,0 +1,1 @@
+program G : E : takes ZG : boolean array; G, U, BB, P : integer; OJ8, Rn, A, k, z6, R : boolean array; eR00, T : integer array; F : boolean array; R480a : integer array; TA60a : boolean; y : boolean; h : boolean returns nothing do Z6(- B); while 5570 : input Hp5aa; when case 4 : chillax end end; while 9 = 58 : input u end end main : pop end

@@ -1,0 +1,1 @@
+program k8 : Lj : takes r31aa, oT, V0 : integer array returns nothing K : boolean; BE, Mh5aa : boolean; chillax end u8M : takes L8 : boolean array returns nothing V : boolean; output "" . 65 . 6340; do e(16 = 36, 727, 86) end r : takes d7, Vw, Q, M, s, WD : integer returns integer array Gv : integer; D3Ia, Djw : boolean; O : boolean; G : boolean; chillax end main : chillax end

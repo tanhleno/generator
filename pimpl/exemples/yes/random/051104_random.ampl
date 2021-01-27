@@ -1,0 +1,1 @@
+program S8 : VmY : takes R8ga : integer; yy8a, O : integer array returns integer let C7 = - 66 - 80; input F[717 - 54]; when case 24 : output ""; pop end case 7 : chillax end end main : y : boolean array; PM10, c95, I : boolean array; output - true and 7 + 2 and 6 - 8 end

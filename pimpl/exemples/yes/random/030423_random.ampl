@@ -1,0 +1,1 @@
+program TX : W6J : takes ZGAaa, M : integer array returns nothing do o(- true - 9770 /= 0 - 008) end main : c, z_ : boolean; while not 02 rem 3 * (3) - false rem true or false and 5 >= false / (3) : do Z(- 07) end; do N(- (0) /= - hDH - 0, - true - 0980 /= - 75900); input Qg[true] end

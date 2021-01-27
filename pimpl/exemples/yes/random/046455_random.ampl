@@ -1,0 +1,1 @@
+program Y5E : M9 : takes V : boolean returns integer array chillax end i : takes mo70 : integer array returns nothing e : boolean array; chillax end main : t70aa, lE : integer array; r32, S : boolean; output zx and false <= - true - 6 - 10; pop end

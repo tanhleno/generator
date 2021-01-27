@@ -1,0 +1,1 @@
+program _e5 : mPB0 : takes Cs : integer returns boolean array K : integer array; while J4 = - 8 : pop; input P7Baa end end ziW : takes P, oq, m, s : integer array returns nothing chillax end main : PN : integer array; chillax end

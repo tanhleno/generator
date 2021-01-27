@@ -1,0 +1,1 @@
+program p : c3ta : takes FOd, cI, F3, X : integer array; X8 : boolean returns nothing chillax end Zk : takes b, J, WF0, N : integer returns nothing On : integer; while - 44 : output ""; input Y end; pop 86; input g[20] end main : chillax end

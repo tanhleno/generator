@@ -1,0 +1,1 @@
+program _ : a1 : takes Z, KFn, u : boolean array; C, VL, VObaa : integer array; Fh : boolean array; k8Q, A : integer returns nothing while - not 5 - 9 - 4 : do k4L(44) end; output "\\" . 6 . "}R0" end main : chillax end

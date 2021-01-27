@@ -1,0 +1,1 @@
+program Y : N : takes x : boolean array; Ql, r : integer array returns boolean chillax end C4 : takes n, wj5, N : boolean returns boolean array NZ, K3, V, F1caa : integer; g : integer array; BV10 : boolean; output 84 = 8 . "2" . 662 end main : M, m : boolean array; S : integer; T : boolean; chillax end

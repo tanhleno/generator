@@ -1,0 +1,1 @@
+program Z9 : main : Z : integer array; u : integer array; b070a, Gt4aa, X : integer; W, m8 : boolean; m : boolean array; a9, F4 : boolean; WW0a : boolean; when case - (6) * not true * 8470 > (85) * false + 764 - 97 - 2 : pop 5 = 13600; output ""; input v8r0[47] end; input H; pop 1; input PxC end

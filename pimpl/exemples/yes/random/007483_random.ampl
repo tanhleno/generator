@@ -1,0 +1,1 @@
+program G : rb : takes W, D, B, vD40 : integer array returns boolean d : integer; while false and 3 or 7 - 7 : let kQX0 = array 2160; while 7 : chillax end end; do i89(- 2190 - 01, 0 = 1, 58) end main : chillax end

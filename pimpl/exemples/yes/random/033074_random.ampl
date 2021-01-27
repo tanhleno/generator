@@ -1,0 +1,1 @@
+program a : r : takes O, mI : integer returns nothing pop - 237; when case - 6 - 2 >= 318 : when case 7 : chillax end; input P end case 34 = 7 : do a(1) end case 7 : pop end case 5640 : chillax end otherwise : chillax end end main : chillax end

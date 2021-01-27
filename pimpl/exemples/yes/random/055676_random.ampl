@@ -1,0 +1,1 @@
+program aq : G9 : takes Y : integer array; p : boolean; uw : integer array returns boolean Xd6, aUs, r : integer array; do g(uO - 5, - 72 - 5, 0 = 1); when case 1 - 7 : chillax end case 3 : chillax end otherwise : let a = 45; pop end end main : s5Vaa, n14a : integer; h, N, F51a, c4X, m : integer array; chillax end

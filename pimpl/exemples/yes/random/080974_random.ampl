@@ -1,0 +1,1 @@
+program Y4 : main : Bxo0a : boolean array; K0, N, w : boolean; Gk, ojO0, p : integer array; when case(64) rem(9) * 9 and 632 - 3 < true - (82800) and 31400 or 5 : chillax end otherwise : chillax end end

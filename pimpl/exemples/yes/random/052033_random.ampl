@@ -1,0 +1,1 @@
+program oy : M : takes d : integer; N8 : boolean array returns nothing z, Y, HS, o : integer array; H5ya : boolean array; X, WL3 : boolean; n6l : boolean; pop - 7 > 2; pop; output "\"" . 9 end t : takes J, n : boolean returns integer array chillax end main : KE00 : boolean; chillax end

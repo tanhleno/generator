@@ -1,0 +1,1 @@
+program a : R : takes R : integer returns integer array G, k5p0, e : integer; when case - j and 18100 or 02 - 1 <= - 9 : let S = 09; pop end case - 0 >= 587 : chillax end case 889 : chillax end case 2 : pop end end main : while - not false and e * not 3 - not(40) > (31) + 7 : chillax end end

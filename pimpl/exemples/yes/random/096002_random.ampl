@@ -1,0 +1,1 @@
+program E : main : when case - u * 0 and false = - not false rem(03) and 05500 : chillax end case true rem 5 and 998 : output 9; input l74[4] end case false : input W; let Pn = 2 end case 7 : let lH6 = 4 end otherwise : chillax end; while - true / true <= - false : let n0[6] = array 98 end; do hr(- false and 3 + 56 /= - 88, - 29 - 922 < 67700); do p(- 504 = 5) end

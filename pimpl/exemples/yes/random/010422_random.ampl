@@ -1,0 +1,1 @@
+program WMN : u1N0 : takes V, j1I0a, To : boolean array; N : integer array returns nothing input wT; pop 28 = 261; output 1 . "" . "(" end main : Jx, l : integer; zU : boolean array; w, c5 : boolean array; q, V : boolean; input O; let b8 = array - (8) + false and 9 - 4 - 5 end

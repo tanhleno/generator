@@ -1,0 +1,1 @@
+program X : _ : takes o : integer; x, n, j : boolean returns integer input ng[79 + 28 - 7] end M_ : takes T, k, w3, v, y4, m, Zh : integer array; k6 : integer array returns nothing chillax end main : A, YL : boolean; let u = - (96800) / not 1 + true; when case - U9 /= not 05500 : pop 690 end end

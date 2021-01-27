@@ -1,0 +1,1 @@
+program F : fE1aa : takes D : boolean array returns integer V : integer array; A, r, x : boolean array; chillax end cl : takes iu, g, O, B, v0 : integer returns boolean pop 99 end mY60 : takes k0 : boolean returns nothing let V[7] = 0 end main : chillax end

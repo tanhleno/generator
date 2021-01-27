@@ -1,0 +1,1 @@
+program M : o : takes J, VW10a, O9 : boolean; jfd : integer array; J : boolean array returns nothing OB9 : integer array; chillax end main : Y : integer array; f8 : integer array; e89, Q, q2W0 : boolean array; let J_ = not(5) * (2) and 006 = - not 0 and 9740 + 0 - 5 end

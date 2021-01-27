@@ -1,0 +1,1 @@
+program U01 : q : takes at7, X0, o6, sy, Q : boolean; a, K, e : boolean; A3, WW, j, pYL : boolean array returns boolean chillax end main : when case - (4) or Dh4aa[5] - true and 030 >= false or false and 1 : do C(- 49 > 5, 0 = 3) end; input Q[true rem false]; output 1 - 8 . 5 end

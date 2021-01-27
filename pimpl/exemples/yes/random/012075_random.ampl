@@ -1,0 +1,1 @@
+program DQ00a : V : takes s, Au0, xe : boolean returns nothing chillax end IZ : takes S : boolean array returns integer array q1, e, wO : integer array; while - 5120 >= 657 : input H end; pop; do C7(56, 7) end wT5 : takes v, F, b : integer returns integer array chillax end main : Y, A, x83a, sy : boolean; m : integer array; djO0 : boolean; chillax end

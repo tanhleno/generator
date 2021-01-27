@@ -1,0 +1,1 @@
+program W : F : takes gs : boolean array; n88, e, f : integer; H9 : integer array returns integer Xlu0a : boolean; pop - 2 - 23 <= 999; output 2890 = 81900 end L : takes z : integer; Q : integer array returns boolean array chillax end main : e : integer; h0 : boolean; G1 : boolean array; chillax end

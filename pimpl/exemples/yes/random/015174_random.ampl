@@ -1,0 +1,1 @@
+program W : X : takes T, O, D_ : integer array returns nothing chillax end q : takes uo30 : boolean array returns boolean array chillax end main : A, iq6a : integer; je, c, A : boolean; rE, Jt : boolean array; do N(- not(312) rem(53) * not 79 + 7 and not 4 and 09 or true or 1 - 15) end

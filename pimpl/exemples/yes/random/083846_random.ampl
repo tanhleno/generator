@@ -1,0 +1,1 @@
+program K22 : main : F : integer; l, m : integer array; input z[not L[4080] and not not 84 or(7) rem k and 7770]; let EW[- (6700) - not 1530] = - not 5 - 8; pop - 2; do uW(44 - 7, 38); input E220a end

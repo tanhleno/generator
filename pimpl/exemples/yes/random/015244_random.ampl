@@ -1,0 +1,1 @@
+program oY : Evd : takes z, u7, m65 : integer array returns nothing chillax end main : input M[- (5430) - (60)]; while - false : input k8[6]; when case 08 : chillax end case 03 : chillax end end; when case - true /= - 0 : output 753; pop; while 979 : chillax end; pop end; when case - 0 - 55900 : do Q(5) end otherwise : pop end end

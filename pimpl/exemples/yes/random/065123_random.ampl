@@ -1,0 +1,1 @@
+program du : C7 : takes y : integer returns nothing X : integer array; let I = - 3110 end main : r7L, jA, l4, v7N, O : integer; rK : integer array; pop v[9] - true and 849 - 5 <= A and 4; while not false * true and 0 < (6) and 1 : when case 2 : when case 9 : chillax end; pop end case 0 : pop end case 748 : chillax end; do I(1); let s1 = 965 end end

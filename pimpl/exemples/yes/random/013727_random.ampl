@@ -1,0 +1,1 @@
+program a : l : takes yP6, J, f : integer array; S, wCw0, i93a, faM0 : integer array returns nothing do j9D(false and 6 = 6) end I : takes ME, k, p : boolean array returns nothing K, Hpia, F6 : integer; oX70 : integer array; chillax end main : j, A, L0 : integer array; nW10 : boolean array; K1, Lfpaa, Lt : boolean; c : boolean; H, t0 : boolean array; chillax end

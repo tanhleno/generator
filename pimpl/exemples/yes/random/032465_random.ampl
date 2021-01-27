@@ -1,0 +1,1 @@
+program H : AL30 : takes s550, G3 : integer returns nothing w7, l, i, _, a0 : boolean array; input DL[- 41 and 1] end main : a2 : boolean array; Kq70a : boolean; f3 : boolean; n2, QO4, G, l : boolean; r : integer; chillax end

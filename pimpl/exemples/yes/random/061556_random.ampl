@@ -1,0 +1,1 @@
+program v0 : S : takes N : integer array returns nothing when case - true + 124 - 406 : chillax end otherwise : chillax end; pop end main : n1, K050 : boolean array; input s; output - true and 8300 > 606 . "c\t\"a" . 6; while not 35400 and 0 : let R = array 3 end end

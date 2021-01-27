@@ -1,0 +1,1 @@
+program _ : P7 : takes l3 : boolean array returns integer R : boolean; X84 : boolean; do G(- 10 + 24 <= - 6 - 26, 81 - 1, 92, 8040, 4) end main : M9_, L0 : boolean array; V : boolean; do K(- ih9aa[3] / not 93 - RI5 + not 42 > - false + (6) and 61 + 0 - 7); when case U[13200] * Q : when case 7 : input F; pop end otherwise : chillax end end case - false and 32 : output "\t" end end

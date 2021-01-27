@@ -1,0 +1,1 @@
+program T : F : takes a, g : boolean returns integer array E, SKx, m990 : boolean; D, J, zK, Wd : boolean array; oOR0 : integer array; chillax end P : takes I3Paa, w970 : boolean returns nothing W53a : boolean; M : boolean array; input R50; do Z(484, 5, 343) end main : pop - false / (6820) and 9 + not 1390 + 392 = _360 - 3 - 5 end

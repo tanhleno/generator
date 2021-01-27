@@ -1,0 +1,1 @@
+program M : g : takes S4oaa, C : boolean array returns boolean r : boolean array; when case true and 931 <= - 1 : chillax end; let b4[34] = 6 end main : when case - 6 rem 81 : chillax end case - 305 + true and 9 <= - C and 746 + 063 - 182 : let E[0] = 0; input pth0a[33] end; pop end

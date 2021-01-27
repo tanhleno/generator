@@ -1,0 +1,1 @@
+program EGM : HI : takes z, S87, b : boolean; D7, s, EW : boolean; x490 : boolean array returns integer array pop; do BPOa(- 1 - 0, 5 = 21, 9, 0); do x(987) end main : r, CrA0 : boolean; z : integer array; chillax end

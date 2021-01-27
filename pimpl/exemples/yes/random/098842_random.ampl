@@ -1,0 +1,1 @@
+program Am : main : while - 5500 rem not(1) and j = - false / not 7 and 41 - F and 12 : chillax end; while true : when case 3 : when case 4 : chillax end end otherwise : pop end end; while 48 and 238 - 62 - 75 : chillax end; while 8 - 4 > 67900 : output "\"" end; when case 18800 : chillax end case 51800 : chillax end otherwise : chillax end; let UY[4] = array 012; pop end

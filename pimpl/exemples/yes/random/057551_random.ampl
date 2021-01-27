@@ -1,0 +1,1 @@
+program cqr : x : takes _ : integer array; p : integer returns nothing output 7 - 1 >= 7 . "\t+!" . 95900 . 5 . ""; while - 2 - 425 : when case 7 : chillax end; let v = 1; pop end end main : O7, cn : boolean; do m(false rem true); do Z(- true or not 9 and 760 + 2, - true or 316 - 5 >= - 9, - 53 - 779, 106, 17, 7) end

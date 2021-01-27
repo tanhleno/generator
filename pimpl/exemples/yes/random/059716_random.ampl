@@ -1,0 +1,1 @@
+program d : W : takes w8k : integer array returns nothing chillax end D : takes o, c5 : boolean array returns integer let G[8] = array 25 - 3 end s7Ma : takes e, h6, O, CL0a, a1 : integer returns nothing vWv, w, z : boolean; when case 4 = 5 : output "f`0a" end otherwise : pop end end main : pop; let h = - not 0 and 9 end

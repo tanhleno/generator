@@ -1,0 +1,1 @@
+program C : m9 : takes f2 : boolean; U, Q, D, A0 : boolean array; _ : integer array returns boolean chillax end main : p : boolean array; pop; do Cl(4 and 095 or not 0 and 1, false > - 2 - 41500, 909); let n[true] = array - true and 95 end

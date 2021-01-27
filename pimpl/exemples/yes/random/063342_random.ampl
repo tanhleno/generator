@@ -1,0 +1,1 @@
+program H9 : rdg : takes f : integer returns integer P9V, B78, R : boolean; pop; while - 0 : let r6 = 8; pop; pop end end main : W : boolean; while - J250 : let g79aa = array 2 - 9; output "" . ""; let Y4 = array 951 end; when case not true - not 68 : output 66 . 7 . "" end end

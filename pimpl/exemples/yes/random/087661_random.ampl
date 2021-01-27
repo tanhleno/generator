@@ -1,0 +1,1 @@
+program Wo6a : main : c : integer array; while - false and not(7) + true * true and 4 - not 538 - 10 /= L[7] and not 9 and 8 or q and 4 or 946 : let m5[- 7530] = array - 2; when case 25 = 8 : chillax end otherwise : chillax end end end

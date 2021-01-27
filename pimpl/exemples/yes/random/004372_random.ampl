@@ -1,0 +1,1 @@
+program iCP : s : takes Xy4a, V, S, D1o : boolean; Q, N : boolean returns boolean chillax end tL1 : takes nA6, o1B0 : integer array; x, OA2aa : boolean array; r, T370a, p5Ba, yfQ0a, B4 : integer array returns nothing while 0 = 85 : chillax end; let Ae = 3 end main : y5, Y : integer; chillax end

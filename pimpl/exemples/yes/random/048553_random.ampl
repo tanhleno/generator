@@ -1,0 +1,1 @@
+program C : a : takes _5 : boolean returns nothing Ik2 : boolean array; let _ = array false and 4 end SJ : takes N, El : boolean returns nothing output 6 = 07 . "\n\"0a" end R : takes C, Lg : integer; W : boolean array returns nothing chillax end main : l1, D : boolean array; O : integer array; chillax end

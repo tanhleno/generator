@@ -1,0 +1,1 @@
+program Z : main : g, JDc, Q : integer; input NN[- true / false * false or m / (5070) and 78]; while j[28] - Q and 3 or 3 - 49 : let m = array 4 end; pop - 6; when case - 5 - 3 >= 7 : chillax end case 40 = 9 : output ""; pop end case 6 : chillax end end

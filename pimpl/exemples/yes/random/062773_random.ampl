@@ -1,0 +1,1 @@
+program bI : L : takes K : integer returns integer array chillax end main : q8, o : integer array; x3 : boolean; do y((96 = 4) - f59[08] <= 06600 - true and 123 + 9, not(3310) / 20 - 7 and 7010, - (0) and 92 or 1, - 88) end

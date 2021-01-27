@@ -1,0 +1,1 @@
+program WM3 : EQ : takes M, F, eb, A, i7 : integer returns nothing input HH4aa end main : KFwa, a90, g, Y80a : boolean array; e, C2B : boolean; d, i : boolean; W, V : integer array; c, I1 : boolean; n : boolean; chillax end

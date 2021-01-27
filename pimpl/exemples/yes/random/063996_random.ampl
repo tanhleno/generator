@@ -1,0 +1,1 @@
+program TR90 : wxPaa : takes y9 : integer returns nothing chillax end main : KRlaa : integer; when case 5 + not e / true > - false * true and 5 : when case 9 : chillax end end otherwise : pop 5 end; pop end

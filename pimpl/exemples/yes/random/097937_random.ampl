@@ -1,0 +1,1 @@
+program y0 : main : while - (28) + not 5470 / (7) >= wP[89] or true and 05 : let YGX = array 76 - 5170; when case 2 : chillax end; input b end; do pA00a(V8x + na0a >= - true and 9 - 3 - 0280, - true and 4240) end

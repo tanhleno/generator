@@ -1,0 +1,1 @@
+program MwN : AZ : takes c : integer array; D : boolean returns boolean K : integer array; eQ : boolean; G6, h : integer array; L : boolean; chillax end main : VS : integer array; when case false / true + false or false + 17000 > (7) or 1 and 7 : input g end otherwise : while 58 = 79 : chillax end; let m = array 4; pop; do a7Xa(588); pop end end

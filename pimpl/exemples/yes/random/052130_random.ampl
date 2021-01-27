@@ -1,0 +1,1 @@
+program X : u : takes P : integer; Y : boolean returns boolean array sG1 : integer array; chillax end s8 : takes pm : boolean array; Wz, R : boolean returns boolean array chillax end main : output - (6) . "\n)aa"; while false and false - (1) and 811 or 3 : let u6[6] = 67 end; let p[76 and 2420 - 823 - 17400] = array - 598 and 4 end

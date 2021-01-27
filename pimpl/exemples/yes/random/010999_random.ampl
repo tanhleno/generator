@@ -1,0 +1,1 @@
+program u : QhA0 : takes F780a, mC, Vp : boolean array returns integer c : integer array; let K840a = array - 09 and 0 end I8 : takes n39, V1 : boolean returns nothing chillax end main : g7, Z : boolean array; output D(7) = - false and 262 or 33 - 8 end

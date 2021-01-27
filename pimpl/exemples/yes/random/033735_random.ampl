@@ -1,0 +1,1 @@
+program m : C : takes F : boolean; hZt0a, D, bH : boolean; vi, Q, q, o7 : boolean returns nothing veK, P : integer array; F, Da4 : integer array; bQ : integer array; pop end main : v55, M, fM : boolean; let P = array - false; while not false rem false : input o; while 54 : pop end end end

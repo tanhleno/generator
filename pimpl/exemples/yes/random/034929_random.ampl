@@ -1,0 +1,1 @@
+program X : _4 : takes b : boolean; g, u3 : integer array; n4 : boolean; i, j920, rP : integer; vt, H : integer returns boolean array let l[false and 07400] = - 6220 = 0 end main : E, P, b3 : integer; V : boolean; jt : boolean; c : integer array; chillax end

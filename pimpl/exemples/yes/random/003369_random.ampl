@@ -1,0 +1,1 @@
+program X : Ry90a : takes Da, j, s230a, QgGa, P4u : integer; X : integer returns nothing Q, ne80 : boolean; while false - 51200 : input D9[8]; when case 6 : chillax end end end main : G : integer array; Fc : integer array; chillax end

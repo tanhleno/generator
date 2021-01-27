@@ -1,0 +1,1 @@
+program C : main : when case - not true /= - not 15 : chillax end case - 1 : chillax end case false and 0220 - 3 - 6 /= 1 : input B[2520]; input S; input D end otherwise : when case 8 = 5 : chillax end end end

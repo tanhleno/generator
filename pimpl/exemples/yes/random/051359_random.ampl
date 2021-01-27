@@ -1,0 +1,1 @@
+program q05 : D : takes z : integer; z3 : boolean; S, C, Z : integer array returns boolean when case - Qv and 8 - 7 - 0 : do b(0, 2); pop end case - 070 : output "" end case 7 = 92 : when case 54400 : chillax end end end main : do oF70((7) and true * false - true) end

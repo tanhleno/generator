@@ -1,0 +1,1 @@
+program u : u : takes U1, e : boolean array returns integer chillax end main : W, l5, o, Y_3aa, Z6 : integer array; while T[70100] * not true and false and 14 + true * false and 4 /= - true and O : pop 3990 end end

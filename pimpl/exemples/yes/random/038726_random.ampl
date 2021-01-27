@@ -1,0 +1,1 @@
+program ek : T : takes g000a : boolean array; T, b : boolean array returns boolean chillax end iM0a : takes id2a, R : boolean array; aY8 : boolean array; u : integer returns boolean Z : boolean array; xKD, H5 : integer; chillax end main : xT : integer array; while - MP / not not 920 /= - 804 : pop end end

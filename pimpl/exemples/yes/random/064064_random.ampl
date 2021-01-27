@@ -1,0 +1,1 @@
+program l46a : n : takes E : integer returns nothing chillax end main : while - false : while - 347 - 6 : chillax end end; input nv[(22000) and false and 524 or 7 or 2 - 6]; input y[- (2) and 256]; do L(- 36 - 60, 69, 450, 0700); input O end

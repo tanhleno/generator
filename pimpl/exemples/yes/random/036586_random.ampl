@@ -1,0 +1,1 @@
+program l : eQ : takes a : boolean; j : integer; s : integer array; i, k : integer; So : boolean array returns integer m, e : boolean; l0, h : integer array; when case 9 and 3 or 9 - 3 : let p[66] = array 65 end case - 4 : do i(5); when case 76 : chillax end; pop end otherwise : chillax end; pop; pop; pop 6 end main : chillax end

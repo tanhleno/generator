@@ -1,0 +1,1 @@
+program s : main : w1 : boolean array; let R41[(03)] = array - true and true / 889 - m9O0[363] + 78700 - 60 - 6; when case 16 and 14 and 1 - F : chillax end otherwise : let Q[363] = array 3; output ""; while 91 : chillax end end; do dJ(- 7 and 20300 = 7 - 9, - 19); let i[- 78000] = array 0 - 3; while 573 : while 01900 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program d : Lq3 : takes Sk, R, M1, xpg, L7, W, v, P : integer returns nothing chillax end h75 : takes J, P, S000a : integer array returns nothing chillax end n : takes K1 : integer returns boolean array chillax end main : while true rem not 014 - 2 / not 81100 and 0 < - 9 rem X : chillax end end

@@ -1,0 +1,1 @@
+program gs : l : takes A : integer array; Be, f3D : boolean returns nothing _E8, oO, R : boolean array; t : integer; FHd0a, Y4V0a : boolean array; R9 : boolean; let q0Na[- XZ - 6360 - 90] = array false - 2; let gZ = 36500 = 2; when case 2 = 7 : chillax end case 26 : chillax end end main : EXV, n : boolean; chillax end

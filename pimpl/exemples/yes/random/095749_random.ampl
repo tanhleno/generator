@@ -1,0 +1,1 @@
+program q : main : when case - false * m / false and 8560 - not 976 or w7 and 350 + 369 : while - 272 - 7 /= 9 : chillax end; let q[1] = array 1 end otherwise : output "6[" . "" end; output(20900) and 1610 . "+Z" . "\"l" . 8 . 864 end

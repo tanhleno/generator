@@ -1,0 +1,1 @@
+program Q5 : h : takes S, b : integer; U, C690, q, uC50a : integer returns integer while - true >= - 339 - 8 : let g[9] = 7; when case 60100 : chillax end end; pop 3 = 3150; when case 82 = 5 : input ga end otherwise : chillax end end main : input eWB[313 and true] end

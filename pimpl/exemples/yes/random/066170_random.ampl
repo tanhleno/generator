@@ -1,0 +1,1 @@
+program V : main : do k(- false rem Z rem false); let Ns0 = array false / false; let q[- 6 and 0 + 715 - 34] = 20; when case 4880 - 26 : output "8f"; pop; pop end case 39 = 11 : output ""; pop end case 3 : pop end; when case 41 = 7820 : do k(45) end otherwise : chillax end end

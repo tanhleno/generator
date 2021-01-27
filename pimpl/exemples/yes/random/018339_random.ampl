@@ -1,0 +1,1 @@
+program _ : nD : takes bM, s980a : boolean; sD90a : integer array; Z18 : integer array; L990a : boolean; B, o : integer array returns integer array do Yc(- (4010) + 1 - 8 /= 4 - 7, 7) end main : output "" . (3) and 0 - 123 < 8 - 6 . 3 - 2 >= 61 . "" . 93 . 16800 . "" end

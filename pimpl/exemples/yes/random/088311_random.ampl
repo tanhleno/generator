@@ -1,0 +1,1 @@
+program uoAaa : main : input L[(11)]; pop; while(26) and 58 : chillax end; when case 5 = 9 : when case 5 : chillax end end; while 847 = 6 : output "$$" end; do WNz(89); output ""; do zxZ0a(32); pop end

@@ -1,0 +1,1 @@
+program y3 : J5 : takes EQ : integer array returns nothing output "" . 5480 = 036 end y1 : takes qc7aa, _0, G : integer returns nothing M3, jv : integer; q8, C, g : boolean; E : boolean; when case - 0 - 0 : output "" end case 5000 : while 0 : chillax end end otherwise : do qF9a(4); pop end; input Z5 end main : L : boolean; chillax end

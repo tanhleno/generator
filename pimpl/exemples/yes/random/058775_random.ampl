@@ -1,0 +1,1 @@
+program V6v0a : pf3 : takes r : integer array returns integer array x, f, q5c : integer array; when case(94300) /= - 526 : chillax end case 09 - 9 <= 2 : do k(03); output "" end case 7800 = 335 : output "" end end main : pop true end

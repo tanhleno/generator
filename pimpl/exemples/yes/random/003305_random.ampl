@@ -1,0 +1,1 @@
+program YW : N : takes NR, N, EV20a, N, mb1a : integer; K : boolean returns nothing R : boolean array; chillax end l : takes Cw, G, D, iAd0 : boolean array returns nothing let n34 = array 5550 - 1 end main : j, G : boolean; q, Z0Y : boolean; G : integer; chillax end

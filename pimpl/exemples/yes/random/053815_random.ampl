@@ -1,0 +1,1 @@
+program qE00 : P4J : takes g77 : integer array; q, z0l, m8S0, S4 : integer array returns boolean C : boolean; l, kz, ii7, OdH : integer array; K, X, hLgaa : boolean array; chillax end main : let Qd = array - P(83, 5800) * (2) end

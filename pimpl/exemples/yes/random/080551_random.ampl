@@ -1,0 +1,1 @@
+program i : main : e : boolean; while - true : chillax end; pop - R4fa and 92900; do O(- (487) and 6 > - 594 - 0, 75 = 00); input I[66 - 9730]; when case 0 : pop; pop end otherwise : pop end; pop 4 end

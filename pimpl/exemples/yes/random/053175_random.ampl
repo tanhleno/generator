@@ -1,0 +1,1 @@
+program U : Db : takes o : integer; k : integer returns integer array chillax end main : Y, C05, m, k, xW4a, U : integer; while true / true : when case 2 > 1 : when case 49700 : chillax end; pop end case 91900 : pop; pop end otherwise : when case 305 : chillax end end; do r(92) end; do S((5) or false - 4 > - false and 2); input hGS; when case 228 >= 3 : let Zs = 7 end end

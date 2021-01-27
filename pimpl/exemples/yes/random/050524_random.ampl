@@ -1,0 +1,1 @@
+program U : J : takes b : integer; lF7, ZQ : boolean array; l5 : integer; H0, N : boolean returns boolean array WX : integer array; chillax end z2 : takes y64, h : integer returns nothing H58, m, y : integer; let h[8] = 5 = 6 end main : output - KyJa * true - not 738 and 87600 + 83 . "*10" . - 930 >= 6 end

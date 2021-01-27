@@ -1,0 +1,1 @@
+program aW : M : takes qY : boolean array; CpH, bU0aa, a6L : integer array; E3, l : boolean returns nothing r, W7 : integer array; fW : integer array; chillax end main : TC0, VB, Z0x : boolean array; let L[- not(20) and(7) rem true or true rem v and 534 + not 3 and 70400] = array 9 / (8); input q7x[not 9] end

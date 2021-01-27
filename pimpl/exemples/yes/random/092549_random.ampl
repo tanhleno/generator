@@ -1,0 +1,1 @@
+program h0 : main : output y(1) /= o and 65100 or 4 - 5610; while true * not 62300 and 2 or true and 427 - 1 = 9 - 8 - 2 : output 4 . "" . ""; let tD3aa[0] = 2; pop; output ""; pop end; output "&3"; input JA[3] end

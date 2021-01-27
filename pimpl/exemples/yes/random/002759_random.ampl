@@ -1,0 +1,1 @@
+program _ : M_ : takes nn, Q2X, o, t1, F : boolean array returns nothing chillax end Xh70 : takes a : boolean array returns nothing k : boolean; ZH5aa : boolean; eQ9a, m : boolean; pop 2 end main : while - false : chillax end; let B5 = - not 89400 and 43900 or 6 < 34 - 2 end

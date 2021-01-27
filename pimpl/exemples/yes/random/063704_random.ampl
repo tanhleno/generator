@@ -1,0 +1,1 @@
+program c8 : v : takes L03 : integer returns nothing chillax end s : takes l, p : boolean array; g8 : boolean array returns integer array T3, GW9 : integer array; PEM : boolean array; ng, Ii : boolean; ln : boolean; fF0 : boolean; let m79[- 17] = 53 end main : output "\nA" . - _l and 2 or 6 - 7 end

@@ -1,0 +1,1 @@
+program hJ : main : output "N" . "" . - 8 - 8 /= 5 . "" . "7" . ""; while a0(0) rem(8000) and 1 or(8) and 6 : chillax end; input AUl[not 1 and 53]; while - 2 > 553 : do d3(92) end; pop; let w5 = array 50 end

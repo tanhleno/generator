@@ -1,0 +1,1 @@
+program W : main : QgP0 : boolean array; input r; when case not true and not 58400 - not 3 and 6 - 1 = (5) and 66 - 76 : do r(42 = 0) end case not 9 /= 5 - 9 : do c(0, 6); output ""; input Q2ca; pop end; input iD4 end

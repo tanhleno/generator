@@ -1,0 +1,1 @@
+program d : FX30a : takes i21, yt30a, p84a, _ : boolean; uo40 : boolean array; m0 : integer array; x, t7, N : boolean array; Ld3 : boolean array; O31aa : boolean returns nothing output "\t" . 0 = 9 . "[" end main : chillax end

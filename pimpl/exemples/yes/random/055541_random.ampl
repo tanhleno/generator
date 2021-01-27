@@ -1,0 +1,1 @@
+program D : lU : takes S6 : integer array; j : boolean; H4taa, E : boolean array returns integer let s = array not 95 and 58; input c1; output 7060 . 715 end main : m0, n : integer array; w : integer; chillax end

@@ -1,0 +1,1 @@
+program p : main : qo, x, S, f, G9n : integer; when case false : when case 52600 <= 66 : input t7; output ""; pop end case 8 = 84 : chillax end otherwise : chillax end end otherwise : output 7 end; input R end

@@ -1,0 +1,1 @@
+program S : Z870a : takes yS : integer array returns integer array let R[(2) + 75] = array(76000) and 2 or 691; do j(57 - 854, 0, 135) end jq : takes Ce, k : boolean array returns nothing input H7S0a end main : H5Oa : boolean; output "" . "R1\"" . - 3 - 9 . "1" . "\t"; output - 9 and 07 - 8040 . - 91 end

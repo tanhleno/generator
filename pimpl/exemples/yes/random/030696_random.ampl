@@ -1,0 +1,1 @@
+program y : z : takes n, Ha : integer array returns nothing T_L, _3maa : integer array; q30 : integer array; v1, t56 : integer; chillax end main : w, I, J, P4, vp, Aa : boolean array; do u((0 = 954) rem(758) * not 3, false < true) end

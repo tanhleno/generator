@@ -1,0 +1,1 @@
+program Y : x : takes O2, q, x : integer returns nothing chillax end main : do u82((53 = 24) * true / n9A); while - false - not 35200 > - (41) and 0 - 01100 : do j8(5, 47) end; input K37[01]; when case - 67 > 29 : chillax end; do A(467, 7860) end

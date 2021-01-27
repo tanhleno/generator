@@ -1,0 +1,1 @@
+program Rqyaa : vd : takes X : boolean; P1Y0 : boolean returns boolean array chillax end g : takes E : boolean array; u5, vQ : integer array; L3b, C : boolean; Ke, k, gwt, GK : boolean array; lu : integer returns boolean array R : integer array; chillax end main : chillax end

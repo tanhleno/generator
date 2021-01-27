@@ -1,0 +1,1 @@
+program py0 : F : takes K : boolean array; U : integer array; q : integer; sq, y3, z, m : boolean array returns nothing g4s : boolean; output "8O" . 97200; pop 1 end main : aJ, Z : integer; W : boolean array; e, Ob : boolean array; output QC(48) or false and 43 >= - 52900 - 513 - 20; while - 40 / P2maa and 91800 : chillax end end

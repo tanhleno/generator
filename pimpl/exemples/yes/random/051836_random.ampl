@@ -1,0 +1,1 @@
+program mY : Dp : takes C8 : integer; TH : boolean array; l8 : integer array returns nothing pop - 20 > 34200 end GE : takes w : integer array returns nothing _ : integer; mI80, U, K : integer; J : boolean; chillax end main : O, p : boolean; output - 2 - false < true - 44 - 0 . ""; pop - 53 + 42 <= - 35 - 8 end

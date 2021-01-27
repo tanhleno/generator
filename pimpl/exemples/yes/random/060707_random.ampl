@@ -1,0 +1,1 @@
+program Po : r8 : takes S1Z0a : integer array returns nothing D : boolean; chillax end FP5aa : takes SRraa : integer; hhQ : boolean array; L2maa : boolean; i : integer returns boolean array p, N : boolean; s6, D17 : boolean array; chillax end main : R : integer; do Gp(- false + w / (9)) end

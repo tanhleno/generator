@@ -1,0 +1,1 @@
+program J : main : q, g01 : integer; Wi2 : boolean array; w, z, DX, _, zcm : boolean array; N : integer; input i; while j(0) or(800) and 25 >= false : input PU10a; input Z[30]; while 4 : chillax end; output ""; pop end end

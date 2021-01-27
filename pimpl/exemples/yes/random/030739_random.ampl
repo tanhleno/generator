@@ -1,0 +1,1 @@
+program o : d : takes A8, p : integer array returns nothing Om4 : boolean; h : boolean array; A0, H, q : integer; J8, c : boolean; S : boolean; J0V : boolean; pop; when case 7 : do l8S(1); input _8; pop end otherwise : while 377 : chillax end; pop end end O : takes U61a : integer returns boolean p, z : integer array; Z : boolean array; pop 1 = 93700 end main : chillax end

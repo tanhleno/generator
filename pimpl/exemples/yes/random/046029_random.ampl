@@ -1,0 +1,1 @@
+program j : J : takes w : boolean returns boolean do w700a(p) end main : C, Pl, s, k8, g : boolean; C, M, l : boolean array; while(90) + true and false >= - false or false and 4 or 1 : chillax end; input Qk0[H2 / abs] end

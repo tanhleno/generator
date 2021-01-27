@@ -1,0 +1,1 @@
+program r3 : RK : takes U : integer; Uy : integer array; A, c : integer array returns nothing K, o : boolean; V : integer; o04 : integer; chillax end main : L6 : boolean array; lO, _ : boolean array; chillax end

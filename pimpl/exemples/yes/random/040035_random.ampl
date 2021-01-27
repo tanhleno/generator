@@ -1,0 +1,1 @@
+program r : uT : takes k0 : boolean array; f : boolean array returns boolean P, Ti30a : integer array; R, F, ef : integer; Qm : boolean; when case 6 : input x18 end; when case 49 - 71 : do ts(0); while 05800 : chillax end end case 00 = 2 : chillax end case 0800 : chillax end end main : g, f : integer array; S9, u : boolean array; y : integer; U1 : integer; chillax end

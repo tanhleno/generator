@@ -1,0 +1,1 @@
+program j : e08 : takes X : boolean returns boolean chillax end yG8 : takes p, D, x1 : boolean array returns nothing chillax end T : takes S7Ba, m9, f2, s : integer; _ : integer returns boolean array J2 : boolean; b, KR : boolean; chillax end main : let yQ[true or true] = true / (1) and 9 > - j5 and 5 or 3 end

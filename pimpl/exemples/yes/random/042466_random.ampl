@@ -1,0 +1,1 @@
+program f : y : takes KOoaa : boolean array returns integer array chillax end main : do g6(4 rem false / Z19a and 7 > - 3 and true and 92, - not eHp rem true and 3 < false and 61 or 9 - 7, - d19) end

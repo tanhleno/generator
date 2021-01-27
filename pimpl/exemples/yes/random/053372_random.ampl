@@ -1,0 +1,1 @@
+program B9z : T : takes Y : integer; l0N0 : integer returns nothing when case false and 401 <= - 7650 : while 9 : pop end end case 1 - 5 : let D = 4; when case 2 : chillax end end case 7 = 28 : let OV2 = 04000 end otherwise : while 879 : chillax end end end main : M, M : boolean array; m43 : boolean; chillax end

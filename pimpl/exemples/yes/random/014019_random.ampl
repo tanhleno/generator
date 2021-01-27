@@ -1,0 +1,1 @@
+program O : w : takes j, J2Z0a, xr : integer array; IX, L : integer; z : integer; o3 : integer array returns nothing chillax end J5 : takes Lhyaa, Ws2aa, _, Mt : integer array returns boolean o : integer array; when case - 7 - 94 < 25 : output ""; input H end otherwise : pop end end main : V, F4, RP4, jo8, f1K : boolean array; chillax end

@@ -1,0 +1,1 @@
+program B : g : takes B, x, R : integer; Yq, k : integer; Gn30a : boolean array returns nothing Y : integer array; e : boolean array; while - (9) - 7 : chillax end end main : p : boolean; chillax end

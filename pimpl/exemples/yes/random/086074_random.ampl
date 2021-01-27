@@ -1,0 +1,1 @@
+program Q : main : Z : integer array; rt7, I : boolean array; Z0z : integer; input l[- (36900 = 4) / 842]; while - 4 / (4) and 6 >= false and 7 : chillax end; do xH2(not 8 and 2); while 0 >= 6 : chillax end end

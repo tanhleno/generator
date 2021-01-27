@@ -1,0 +1,1 @@
+program t : p3 : takes Y : boolean array; W : boolean array; N : integer array returns integer array when case false and 7 < 18 - 24 : chillax end case - 11 - 9 = 35 : chillax end; while - 8 /= 11500 : chillax end end T5 : takes nSB, Yp : integer; o, M : boolean array returns integer chillax end main : let l[- true or true * H and 2] = - false / true - (7) and 4 + 6 end

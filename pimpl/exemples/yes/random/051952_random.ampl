@@ -1,0 +1,1 @@
+program m : j : takes Y : integer; v4g0a : boolean array returns integer array P80aa : integer; while - AP : chillax end end x7k : takes hJ : boolean array; y6Z : integer array returns nothing input n end AX0 : takes H : integer returns nothing let uW[4380] = 0; while 1 : chillax end; let e = 671 end main : input t3[(3 = 55000)] end

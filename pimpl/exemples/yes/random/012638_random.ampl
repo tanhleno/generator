@@ -1,0 +1,1 @@
+program K0 : p : takes s71, Z4T, gLo : integer; o, eT, Xp, Q : boolean returns integer pop 5 - 8 < 73; while - 7 - 26 > 22 : chillax end end main : do l(n(5000, 5210)); pop; when case false and 3 or 4 - 721 <= 579 - 92 : while 599 : chillax end; input PDx end otherwise : output "l<a" end; let RY = array 4 - 08 end

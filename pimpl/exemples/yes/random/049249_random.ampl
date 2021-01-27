@@ -1,0 +1,1 @@
+program s : bnZ0a : takes n : integer; m, U, I, K4, vaD, I4x, W : boolean array returns integer while - (846) and 4 : chillax end; do af1(- 1 - 93 <= 8, 5, 49, 2) end main : a530 : boolean array; chillax end

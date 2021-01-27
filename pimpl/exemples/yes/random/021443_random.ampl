@@ -1,0 +1,1 @@
+program c : APA : takes R6, u : boolean array returns integer array E8za : integer; _ : boolean array; pop 1 - 83 < 9; output "" end m : takes x, GgRa, M : boolean array; R, k : boolean array; I, FH2, P : boolean; U2 : boolean array returns nothing hgV0a : integer; chillax end main : chillax end

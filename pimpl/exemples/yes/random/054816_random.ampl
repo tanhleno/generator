@@ -1,0 +1,1 @@
+program e : m : takes S600 : integer array; n, Z : boolean returns integer array W6 : integer; j3baa, A7x, R : integer array; chillax end main : when case s > l3 or true : chillax end otherwise : chillax end end

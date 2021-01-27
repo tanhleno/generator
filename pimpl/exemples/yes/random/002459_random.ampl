@@ -1,0 +1,1 @@
+program c : N : takes i, SZH0, B, fe, A : boolean array; jYb, nJO : boolean returns integer v : boolean; a, k, L6, FT5a : boolean array; C : integer; qYZa : boolean; chillax end main : let bY = - 92 or 90300 and 6 /= - false and 0; pop end

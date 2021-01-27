@@ -1,0 +1,1 @@
+program y8maa : K : takes y2, Z : boolean array returns nothing chillax end U : takes p4 : integer array returns boolean chillax end main : rn5, Nv, X : boolean array; when case - not 2 and false rem 6 and 3 : input cv[69700] end end

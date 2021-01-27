@@ -1,0 +1,1 @@
+program _wRa : m : takes a : integer returns integer array when case false + 0 : pop end case - 1 - 450 >= 60600 : chillax end case 8 : output ""; pop end end main : sbHa : integer array; I920 : integer array; chillax end

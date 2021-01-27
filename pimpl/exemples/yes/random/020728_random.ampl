@@ -1,0 +1,1 @@
+program o : pE8 : takes U5, J : boolean array; TL : integer returns nothing d, W, U8 : integer; H, Km, l1 : boolean; o3 : integer array; B, BN : boolean; chillax end main : v : integer array; let S[- not g rem true] = array(01600 = 88) and false rem not 41; do k2e(- 4 / false and 0 - not 379 and 3 or 37800, - not 7, - 076 - 3, 985, 5); output "," . 0 . 067 . "" . "}" end

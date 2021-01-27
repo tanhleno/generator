@@ -1,0 +1,1 @@
+program N : main : P : integer; X : integer; when case 3520 - (9) or true : chillax end; when case false - 0 or 6 - 8 > - not 8 + 5 - 544 : when case 7 = 5 : chillax end; do N(901, 9); when case 0 : chillax end; pop; pop end case g : chillax end case - 7020 - 63 >= 9580 : when case 1 : chillax end end otherwise : chillax end; do f(false and 0 + 7 - 25, - 1 - 50500) end

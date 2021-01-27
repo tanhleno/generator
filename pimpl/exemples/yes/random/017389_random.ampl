@@ -1,0 +1,1 @@
+program K : P7 : takes C, k : boolean; N, M : integer; e, i6 : integer array returns nothing chillax end L95aa : takes p1Y0a, J, I, B, z, R8 : boolean array returns nothing Ep : boolean array; yt0 : boolean array; Hk5, A8 : boolean; pop 4; input d; output 43 end main : while - 97 / false rem E9 + (8) / 7 : chillax end; let A = array - (760) and 8 and 4 or false end

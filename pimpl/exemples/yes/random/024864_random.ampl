@@ -1,0 +1,1 @@
+program d74 : v15 : takes k, x : boolean returns nothing while - E4 and 4 + 0 : let J8D[7920] = 84 end end y : takes v : boolean; ZX : integer array returns nothing D : boolean; chillax end m4 : takes wqxaa, v : boolean array returns nothing A, t15a, ym : boolean; Ex : boolean; do DEL(9, 1, 3) end main : chillax end

@@ -1,0 +1,1 @@
+program im : main : while - (8) / false + not true / 6150 < 69 : output "2" . 29 end; do C(true / (04) and 3 - wt and 660 + 90700 - 7 <= true and 58 or 9890, fl, 294 >= 6, 35); input uqP0a; do f(- 1 - 4); input z9 end

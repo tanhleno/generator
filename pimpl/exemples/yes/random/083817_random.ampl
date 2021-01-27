@@ -1,0 +1,1 @@
+program Q2 : main : RA0 : integer; t2, Z : integer array; Of, X : integer array; while - (52900) + false < true rem not 43500 and 67200 or not 7 and 9 or 72 - 9 : output 98 = 91700 . 54 . 7; while 83 : chillax end end; input YY9; while - (1) and 8 - 2 : chillax end end

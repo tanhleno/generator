@@ -1,0 +1,1 @@
+program o : n : takes m7 : boolean array; v, Ff, J63a : boolean array returns nothing a8 : boolean; A, I : boolean array; Q : integer array; input Sa4[- not 9 + 7] end S6 : takes I : boolean array; nh : integer; s : integer array; iS : integer array; J, vc : integer returns nothing chillax end main : O, Y340a, k4t, v0 : boolean; v : boolean; input p; input L[- 6950]; pop end

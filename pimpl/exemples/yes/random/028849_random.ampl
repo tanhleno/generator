@@ -1,0 +1,1 @@
+program h : y4o0a : takes gpS, M420 : integer array; u : integer array; U0K0a, b : integer array returns nothing pop; output 17500 = 33; do w(239 = 75); when case 7 : chillax end otherwise : chillax end; input R; when case 4 : chillax end; pop end t : takes u : boolean array; d : integer array returns nothing chillax end main : chillax end

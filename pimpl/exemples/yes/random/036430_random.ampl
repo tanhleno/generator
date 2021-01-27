@@ -1,0 +1,1 @@
+program Q : kP : takes d : boolean; a : integer; Q8, E, y : integer array returns boolean array chillax end g : takes y : integer; O : integer; z2 : integer array returns integer k, Z : integer; pop; output 4 . "k\t0a" . ""; let j[5] = array 14; while 6 : chillax end; do oD(6); pop end main : chillax end

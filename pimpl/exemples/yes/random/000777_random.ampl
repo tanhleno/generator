@@ -1,0 +1,1 @@
+program U6 : U : takes v, z, j, Z, U, u, j060 : boolean returns nothing chillax end Ev1 : takes W34, Ha : boolean; g2, q12 : integer; h, k, mS40 : integer array returns boolean U, u0, f : integer array; chillax end main : w, R6, F, x5, Jd : integer; S, Un, yO : integer; J : integer; pop - false / (0) < - (00) end

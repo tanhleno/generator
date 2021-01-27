@@ -1,0 +1,1 @@
+program i : e1 : takes O : integer array; A, mQ : integer array; j, oRHa : integer returns nothing when case - (6) <= 1 - 24 : chillax end case - 63200 <= 9 : when case 65 : chillax end; when case 505 : chillax end end case 0 = 82 : while 7 : chillax end end case 11 : chillax end case 4 : chillax end end main : chillax end

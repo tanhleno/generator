@@ -1,0 +1,1 @@
+program o6 : q : takes A, nS8a, Q : integer array returns boolean array chillax end Bb5 : takes s2 : integer array; T4Na : integer array returns nothing r22a : boolean array; W5 : integer array; lty : boolean; Z : boolean; chillax end main : chillax end

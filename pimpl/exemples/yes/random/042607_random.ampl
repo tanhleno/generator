@@ -1,0 +1,1 @@
+program W2Waa : B : takes P : boolean array returns integer array j, r : boolean; when case(6) <= 5 - 1300 : chillax end; pop; while 9 = 80 : do Ej1(3230); pop end end main : D : integer array; input G[- 588 * 934 + true * not 5] end

@@ -1,0 +1,1 @@
+program S : e : takes H : boolean; B8, xw1aa, Z4, N : boolean array; y38a : integer returns boolean array J : boolean; J, a15, CBo0 : boolean; input F end v_ : takes _, p : integer array returns integer input q140a end z : takes CgG, z7, o : integer; vb : integer returns integer array i920a, z2da, e : boolean array; do U(6 = 6) end main : XE : integer; chillax end

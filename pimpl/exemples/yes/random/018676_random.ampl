@@ -1,0 +1,1 @@
+program Q : l : takes A4Ga, q : boolean array; w3, OI5, e, V, h3 : boolean returns boolean array when case true and 51 : chillax end case - 770 : chillax end otherwise : pop; while 41 : chillax end; pop end end main : F, RBtaa : boolean; S : integer array; chillax end

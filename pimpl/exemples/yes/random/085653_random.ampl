@@ -1,0 +1,1 @@
+program t : main : y : integer array; L7Y0, H, ilM, j620 : boolean; D0, N, j3 : integer; do H(- i0(0) / false rem not 9 and 5 > - (09), (5), - (460) and 1 < 2, - 969 - 23); output "" . "b"; while not 95 and 93 : chillax end end

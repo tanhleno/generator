@@ -1,0 +1,1 @@
+program N : x : takes D, r : integer array returns boolean u : boolean array; q8i : boolean; C : integer; i : boolean; H7r : boolean; m : boolean; output - 1 - 8380 . 98 = 85 . 191; do Q(- 04 - 40) end main : chillax end

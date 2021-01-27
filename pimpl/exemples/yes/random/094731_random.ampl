@@ -1,0 +1,1 @@
+program x : main : pop; when case - 82100 and 8 : chillax end case false and 17 : chillax end case - 71 > 3 : when case 88 : chillax end end otherwise : while 92 : pop end; when case 81500 : chillax end end; input U[- 75900 and 2860 - 9] end

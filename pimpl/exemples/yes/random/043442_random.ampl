@@ -1,0 +1,1 @@
+program Y1T : f : takes b : boolean array returns nothing chillax end a : takes hW, kU, t2 : boolean array; Zijaa : integer; eO : integer; FX, DJ8, b : boolean; q7R : integer returns boolean O720 : integer; chillax end main : i, Ca : integer array; pop true or(1560) >= (2) and 20400 end

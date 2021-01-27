@@ -1,0 +1,1 @@
+program _31 : Y0 : takes yA2 : integer; W, i, j, eM6 : integer array; v01 : boolean array returns integer array q7 : integer; output ";"; output "v" . ""; let oO2a[7] = 4 end main : input M[true and false] end

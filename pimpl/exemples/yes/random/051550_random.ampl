@@ -1,0 +1,1 @@
+program D : O : takes v63 : integer; i : boolean; B : integer returns boolean array when case false and 699 : chillax end end main : t1h0a : boolean array; R38a : boolean array; input S; do V(false and 6, - true); when case not 4 and 01 : do p(86, 0) end case 8 - 0 /= 380 : output ""; while 13300 : chillax end; pop end case 4 = 8 : let J = 1; pop end case 43500 : pop end end

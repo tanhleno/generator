@@ -1,0 +1,1 @@
+program I : d7 : takes Y : integer array; y, o : integer array; Asq : integer array returns nothing K : integer array; r : boolean; e : integer array; B1, Cs : boolean; l41 : boolean; r6 : boolean; input D; pop 38 = 4 end main : chillax end

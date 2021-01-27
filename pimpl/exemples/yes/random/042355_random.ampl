@@ -1,0 +1,1 @@
+program P : b03 : takes L3 : boolean array returns boolean pop 44 - 3 >= 1; output 7500 = 1 . "#N!a"; when case 95 = 26 : chillax end otherwise : chillax end; pop 2 end main : O : boolean; chillax end

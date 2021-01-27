@@ -1,0 +1,1 @@
+program u : vGb0a : takes q : boolean array returns nothing I, n : integer; C, _ : boolean array; t, T : integer; chillax end main : output false rem true and 4 <= 5 + 7 . - false <= - 20600 . - 14400 - 86200 > 7; let D[p8m(3220) + 14 + 1] = T9m0 and 74 > - 6 end

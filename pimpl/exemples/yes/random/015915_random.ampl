@@ -1,0 +1,1 @@
+program m : i0f : takes L, a9Oaa, N8 : integer returns integer array do V(false and 37200, 4450 - 9); do q(4 - 5, 8); do m(225); let ZC6a[6] = 50500; while 26400 : chillax end; while 09 : chillax end end main : j : integer; V, i : integer array; H : integer array; chillax end

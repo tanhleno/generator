@@ -1,0 +1,1 @@
+program d8 : d1F : takes d, i0 : integer; N, K6t0, O : boolean; b31, e67a, rq : integer array returns boolean array let z[not 35] = array - not 48 and 8 end main : do K(- 8 rem true = - not not 12 + 2 and 73, true - false, - false and 71 + 17 >= 1360 - 1190) end

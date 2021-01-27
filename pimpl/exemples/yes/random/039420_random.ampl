@@ -1,0 +1,1 @@
+program QT : Z7 : takes f : boolean array; N, bI : integer returns nothing chillax end Vh : takes m6A, E7, WS8, l : boolean array returns nothing chillax end main : while P5t = (94) + T and 9 : output 95 end end

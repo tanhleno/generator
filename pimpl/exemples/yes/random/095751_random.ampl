@@ -1,0 +1,1 @@
+program w500 : main : when case - false * QDQaa > - not(249) and 7 : chillax end case - S[1] * 1 : chillax end case - 745 and 54 + 35 : let v[0] = 727; let D = 1400; when case 063 : chillax end end case - 062 - 4350 : let Z = 68; output "u"; pop end case 0420 = 92 : chillax end; let b[- 64] = array false or not 1; output 1 <= 6; let aP9[- 62 - 83] = array 3 end

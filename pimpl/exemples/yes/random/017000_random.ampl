@@ -1,0 +1,1 @@
+program pM20 : it4a : takes x1, YI : boolean; c, H300, e24 : boolean returns nothing chillax end K : takes j : boolean array returns nothing chillax end main : pop; while - (8) * KEx0a + false and 3 = - (7) - 18 - 57 : chillax end; do L4(- not 3 and 76, 8040 >= 6); when case - 7 - 51 : chillax end; let d = 5; when case 726 : pop end otherwise : chillax end; do u5(4) end

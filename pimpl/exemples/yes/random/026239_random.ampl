@@ -1,0 +1,1 @@
+program sP3 : o : takes H90, Mi1aa : integer; f : boolean array returns boolean array yh : boolean array; chillax end O : takes s800 : integer returns nothing Kp, NW9aa : integer; c, SLj : integer; n7j0, _k : boolean; output "" end main : Ez : integer array; v, s : integer array; Y : integer; chillax end

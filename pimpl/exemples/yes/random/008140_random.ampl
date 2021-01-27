@@ -1,0 +1,1 @@
+program i : T7 : takes Q9Xa, RH, a, E9 : integer returns integer pop 2 - 0 >= 6; output "" end main : N : boolean; T, C : integer array; L : boolean; h, Wa, fHk0a, s : boolean; p : integer; d, m : boolean; O7 : boolean; while 96 rem true + (9) > true - (7) - 7 : chillax end; output "\\"; do V((1)) end

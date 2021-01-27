@@ -1,0 +1,1 @@
+program TH1 : e : takes N2b, K : boolean array; V, g1 : boolean; Q, w, l : boolean array; r7 : integer array returns nothing do I3(- 0 + 618 - 98400 >= - 2 - 62); output 5 end k : takes o, Y, wF2, hd, MBf : integer; R48 : integer returns boolean array RU5, _, _ : boolean array; s1, uE8 : integer; chillax end main : p : integer; chillax end

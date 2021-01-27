@@ -1,0 +1,1 @@
+program am : main : a0, lGV, K : integer; when case(9) rem(65) * not 6 + bg(2) / X5 and 1 = - 3740 or 225 or 63 : when case 197 : chillax end case 9 = 328 : chillax end case 28 : pop end case 18 : chillax end end; input A8[- not not 909 or Y680]; while - true and 3 : pop; do E(04) end; do a(65 <= 9, 0510 = 2); do x(0, 4); input K3[3]; input oJ; let R = 1; pop end

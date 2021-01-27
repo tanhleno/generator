@@ -1,0 +1,1 @@
+program J : w6 : takes r, O, nf, P : integer returns nothing v8Y0, F, e : integer; t : boolean; chillax end main : output "\n"; when case - true * true : while 0 = 1 : chillax end; while 5 : chillax end; do r23(97); input p1r0 end otherwise : input a; pop; when case 4 : chillax end end end

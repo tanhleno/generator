@@ -1,0 +1,1 @@
+program k : main : nm : boolean array; while - not 6 : pop 5 = 8 end; when case - not(1) and Uh5aa and 60 + 10 and 0 - 5 - 319 < true or 55000 : chillax end case - true + 7 - 0 > - 77 : chillax end end

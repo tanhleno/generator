@@ -1,0 +1,1 @@
+program ZuY : s : takes N3r, rV, Yf9a, _07, i : integer array; A, z, A, _ : boolean array; u0, EV00a, gPTaa : integer; X6f : boolean array returns nothing t, o, j7, h : boolean array; Ka5, K3 : integer; do l4(- false + 55700 - 5, - 133 >= 5, 4 = 33); when case - 5 /= 2 : output "1" end case 8 = 658 : chillax end end main : A : integer; chillax end

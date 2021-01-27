@@ -1,0 +1,1 @@
+program J : main : i, P33 : integer; a5, s, w48 : integer; z9Caa : integer; R, em, H58 : boolean; i, S, et : integer array; W, M : boolean; w : boolean; output - false < - true and 2 or 9 - 884; input x[- 48] end

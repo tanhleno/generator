@@ -1,0 +1,1 @@
+program cI7 : Iv : takes i, y8Raa : integer; Kt, l0s, OW6aa, m6, p2 : integer returns nothing do k(4 and 5390 /= 0, 82 > 58); when case 8300 - 9 : when case 48 : chillax end; let s = 7540; pop end; do z(56900, 78, 0); when case 6 : pop end end main : chillax end

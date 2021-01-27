@@ -1,0 +1,1 @@
+program Qf4 : n : takes i : integer returns integer output "\"|\"a" . 6; do o(- 9 - 136, 15); input c[6] end main : do j(false + false and not 9 and 31000 + O and 8, - not vC or true + 1 - 0160); let D = array - e(85) + fs; input QN[true or 7 - 1] end

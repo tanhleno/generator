@@ -1,0 +1,1 @@
+program u : A : takes P1, PF6 : integer returns nothing let tr[- (0140) and 8 or 25 - 75] = 3 - 0; do K(1 - 2530 <= 4); while 89 : while 71 : chillax end; pop end; output 3 . "./"; pop; input Qz; pop end main : let QG = array - (6) * 23 rem not 9440 and 940 end

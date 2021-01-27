@@ -1,0 +1,1 @@
+program a : Pf : takes O : boolean array; nW : integer array; q, W9 : boolean returns boolean chillax end Vh : takes tFraa : integer array returns boolean array i : boolean; chillax end main : let S9Laa = - B5 - not 4; do o(- 0 / U /= 8 and 3, (74) or 8 - 7, - 39 - 2 /= 3, 84 = 7, 1) end

@@ -1,0 +1,1 @@
+program Z : iH : takes E, I : integer; g : integer array returns integer array N0, zW : integer array; E, t, AJ, V09 : boolean; let J = array - (0) and 49; do P0(8640 > 5); pop; output 3 . "6" end main : pop true + false; do GPwaa(- dwp(053) and false < - true - 7 - 4, (117) and 9 - 9 > - 5 - 4, - 19 - 3, 00, 17200) end

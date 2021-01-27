@@ -1,0 +1,1 @@
+program t : R3 : takes e91a : integer array; u, D : boolean array returns boolean l : integer; chillax end p : takes d, iZXa, L7, hK : boolean returns nothing pop 7 = 42 end main : y : integer; b : integer array; chillax end

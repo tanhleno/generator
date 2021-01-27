@@ -1,0 +1,1 @@
+program Q5 : B45 : takes L : integer array returns integer X8 : boolean array; z74a : boolean; H : integer; u, a : boolean; chillax end a : takes y5 : boolean array returns nothing d : boolean array; input o[- 64700 - 5]; do M(47 = 1) end main : while - true > - true : chillax end end

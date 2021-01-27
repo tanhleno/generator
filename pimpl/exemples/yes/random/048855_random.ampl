@@ -1,0 +1,1 @@
+program LXN0 : g3 : takes t : boolean returns nothing input z[- 1 and 02] end X : takes r : boolean array returns nothing chillax end A : takes s, V : integer returns nothing when case 7 = 0 : chillax end case 596 : chillax end otherwise : pop end; let F[702] = 5 end main : s5K0 : integer; chillax end

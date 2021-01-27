@@ -1,0 +1,1 @@
+program O0 : main : Z : integer; u2, h1, S : boolean; u : boolean; when case - D[22] > true or 832 or 094 - 3 : let y[10] = array 5940 - 1 end case u4l(9) * 24 - not 481 and 92 + 12 /= true : pop end case 73 : chillax end case - 564 - 0 < 8 : chillax end otherwise : let k = 3 end; do c0(- false and false < true and 1 or 234, false and 8, - 742 <= 324) end

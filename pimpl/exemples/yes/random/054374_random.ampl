@@ -1,0 +1,1 @@
+program q : B : takes n6_ : integer array; EV, GB : boolean; fr7aa, VcPaa, xr, R, S : boolean returns boolean chillax end main : E : integer array; T, P6U, n, M4 : boolean; uO : boolean array; chillax end

@@ -1,0 +1,1 @@
+program YN : V : takes GGF0a : integer array returns boolean array chillax end main : E : integer array; S, o1, q, m73a : integer array; let m[(984 = 6)] = array false and 016; output 593 - 2; output - 4 . "" . 80 . 9 end

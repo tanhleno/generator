@@ -1,0 +1,1 @@
+program tHJa : main : m390 : boolean; y43aa, K, B0 : boolean array; while false - 590 rem k /= - true or not 5 - 6 : when case 287 /= 66 : input h; input J; pop end case 7 : chillax end case 1 : pop end otherwise : pop; pop end; output 949; when case 7500 : pop end case 8800 : chillax end; pop end; pop end

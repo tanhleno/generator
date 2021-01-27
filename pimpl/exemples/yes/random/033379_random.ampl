@@ -1,0 +1,1 @@
+program s5 : u : takes pZ : boolean; drDa, W, yCFa, u, t79 : boolean returns nothing J : boolean array; F : boolean array; chillax end main : when case - true * 21 * 7 - 9 rem W and 4820 = - not(403) and 7190 : while - 2 - 29800 /= 6 : do a6(9); let S = 7 end end case - true : chillax end end

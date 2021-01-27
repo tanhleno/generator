@@ -1,0 +1,1 @@
+program i6 : t : takes L7 : boolean array; yg3 : boolean returns nothing JYX0a, O : boolean array; chillax end main : when case - (53) * (59) : chillax end case true rem false and 0 = (7) and 0 : output ""; while 9 : chillax end; pop; while 4 : chillax end end end

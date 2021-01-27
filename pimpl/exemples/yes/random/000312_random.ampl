@@ -1,0 +1,1 @@
+program UoVaa : Q : takes p8, k, c, c, yV5, Pm, P, V37 : integer; MN, n, X_ : integer array returns integer d9R, qY7a, B3, Y2q0a, hO : integer; s, Y, E8B, b4 : boolean array; let QED = array - not 34 and 8 end main : y : boolean; when case 0 rem not true : pop; do P(72100, 52, 52); when case 94 : pop end otherwise : chillax end end end

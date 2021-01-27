@@ -1,0 +1,1 @@
+program Ir6aa : T : takes B9 : boolean returns boolean H : integer; pop 7 - 4; output "0:" . 0; do I0Q0(77 = 2, 2) end vx : takes o8t, Wg4 : boolean returns nothing g, d, iA6, VG : boolean; input j45 end l : takes H5 : integer returns boolean array while 15 = 24 : chillax end; input G5[6] end main : chillax end

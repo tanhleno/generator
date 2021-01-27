@@ -1,0 +1,1 @@
+program AA : Z : takes V63aa, Nw2, P : integer returns nothing N : integer array; when case - not 8 or 20 - 1 : chillax end otherwise : chillax end; pop 77600; output 0; do sQu(0); do Y(34000) end main : na0a : boolean array; Bs, qXd, f, sG : integer; Z, b : integer array; O : integer array; output - false rem not 204 and 0 >= 99000 and 3 . "1[a" end

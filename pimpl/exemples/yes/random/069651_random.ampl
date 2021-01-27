@@ -1,0 +1,1 @@
+program K : main : B, K, m13a, o7j : boolean; pop false / _E and 69 or not 5 and 949 - 68 - 2 /= not 28800; when case - true rem(17900) - true and 13000 + 8540 : let R560a = 043 end otherwise : when case 6770 : chillax end case 21 : chillax end end; do D(- 72600 and 2 + 1260 - 3, - 8 - 3530); when case - 16 : chillax end; let uJ10a = array 451 end

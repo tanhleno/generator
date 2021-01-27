@@ -1,0 +1,1 @@
+program Q : Bj : takes _mQ : boolean; jn : boolean; pf9 : boolean array returns integer array JM : integer array; OA8, WWQ, W, w : boolean; chillax end main : while false * not 4 and(85700) : do g(4 = 7930, 41000, 146) end; do sx0aa(true / true and 05600 or(1) and 5 - 68 - 6 /= F - 5 - 0, - true and 6) end

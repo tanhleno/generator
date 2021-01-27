@@ -1,0 +1,1 @@
+program gjh : main : L, Y, eD9, wJU0a : integer array; A, c8V, P, K : boolean array; B, c, r, G, L : integer array; do g(not true * y160a[9] rem 815 and 72 /= S(5) rem not 6 and 56 - false and 7, false and x5G and 6 + (9) and 8 + 036 - 4 <= not 5, - gs, 22); output(930) and 81 = - 6 - 99 . "" end

@@ -1,0 +1,1 @@
+program r030 : w2 : takes H, hjF : boolean array; W9 : boolean array; _, D0m : integer array returns nothing chillax end G : takes _2 : integer returns nothing chillax end f8 : takes D6, uC4aa, g : boolean returns nothing input A6h; pop 27; when case 73 : chillax end; output ""; pop end main : K : integer array; chillax end

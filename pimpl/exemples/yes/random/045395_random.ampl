@@ -1,0 +1,1 @@
+program D68aa : n : takes HN : boolean returns boolean array chillax end V8 : takes My, T : boolean returns boolean array q : boolean; chillax end O : takes B : boolean array; k : boolean array returns integer while 331 : let p970 = 605; pop end end main : output - true * (6) = - not 29 - 0; input b8[- not 9 or g and 6] end

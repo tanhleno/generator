@@ -1,0 +1,1 @@
+program q : V1 : takes orEa : boolean; xi7 : boolean array returns integer array Nj : integer array; chillax end k3S0 : takes aLB, l5, J57, m, h, qX10a, w : integer returns nothing chillax end main : chillax end

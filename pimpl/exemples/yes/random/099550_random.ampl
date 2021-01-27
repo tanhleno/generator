@@ -1,0 +1,1 @@
+program xj : main : while not 4920 * true or l[8] : chillax end; when case - true rem true : chillax end case r - 23700 - 43100 <= 0 : while 094 : chillax end end case - 3 : output "9" end otherwise : do E(5, 5) end end

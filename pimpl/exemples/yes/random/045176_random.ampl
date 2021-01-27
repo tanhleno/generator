@@ -1,0 +1,1 @@
+program d : a74 : takes T0 : boolean array returns nothing pop end B : takes K, oU7, P : boolean array returns boolean when case 0 : input Qb end case 99 : chillax end end main : output - true . Fr3 and 379 . "" . 5; while 4 and true and 77 - 7 : chillax end; when case - (1) and 44800 : chillax end case 7 - 397 : chillax end case 472 = 096 : output "^7" end end

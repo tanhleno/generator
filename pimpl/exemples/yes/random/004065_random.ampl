@@ -1,0 +1,1 @@
+program u : d : takes M, u, x, e, f : integer returns nothing chillax end main : P24a, U, n, Gr9 : boolean; kOR0 : integer; yI8, Y, u4 : boolean; while - (14) and not 1 : do E(- 4 - 7 <= 4, 73, 3); let Vc[5] = array 30 end end

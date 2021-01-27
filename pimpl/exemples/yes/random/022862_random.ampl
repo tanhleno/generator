@@ -1,0 +1,1 @@
+program C : W : takes T, E : boolean returns boolean array chillax end r : takes xB : boolean array; b : integer; n6, il20a : boolean array; pg : integer array returns nothing input l800a; when case 62700 = 66 : chillax end; pop 817; input P; let TP = 40 end main : chillax end

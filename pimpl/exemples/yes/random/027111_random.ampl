@@ -1,0 +1,1 @@
+program j0 : Z : takes I, R : integer array; n, G, A, vR, OS10 : boolean returns integer R, R0 : integer; k, Cx, t : boolean array; pop - 650; while - 93 - 81 : chillax end; let c9 = array 3 end S8 : takes h, Q6 : boolean; B1 : boolean; M3 : boolean array returns integer array _U : boolean; Y6, tCi0, N : boolean; u : boolean; g : boolean; chillax end main : chillax end

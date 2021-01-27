@@ -1,0 +1,1 @@
+program YoZaa : P : takes d, d, w7, y, B, l, ejz : integer array; Rg : boolean returns nothing chillax end Q : takes De0a : boolean array returns nothing while - 6 >= 84 : do k(3); do M(8) end; output "%5" end E38 : takes Gy : boolean array returns boolean output 4 end main : z : boolean array; K, S : boolean; wjYaa : integer array; chillax end

@@ -1,0 +1,1 @@
+program Ke : n : takes vr, LAK : integer array; n : integer array; L9, C, K2 : boolean array; a : boolean; Q2k0a : integer array returns integer J : boolean; h9, QP : integer; chillax end Y : takes j : integer; b4 : integer array returns nothing pop 6050 = 857 end main : Q, e, MFI : boolean; chillax end

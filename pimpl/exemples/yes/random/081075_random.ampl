@@ -1,0 +1,1 @@
+program J : main : z : boolean array; kXN, T, M : integer; r6j0a, A : boolean array; V : boolean array; when case - 19 rem 08 and T1 <= (46) : chillax end otherwise : output 50300; while 29 : chillax end end; while 53 : chillax end; do d(- T, 9 - 01 = 4) end

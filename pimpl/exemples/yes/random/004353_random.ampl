@@ -1,0 +1,1 @@
+program b3 : f : takes W, F, F, E : boolean; C, Y : boolean array returns integer array let I[false and 1 + 37 - 0210] = - 3 - 0; let _[22 - 8660] = array - 25 - 0440; do KSOa(91 = 40) end G : takes I : boolean; W, n : integer returns nothing chillax end main : chillax end

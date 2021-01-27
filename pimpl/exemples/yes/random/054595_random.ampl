@@ -1,0 +1,1 @@
+program Q : l : takes e1i : integer array; uO7, m00a : boolean array; e17 : integer array; t8, n : integer; B5Z : integer array; w9, K27 : integer array; l, A7 : boolean; o1 : boolean returns integer array while - false and 39 <= - 4 : chillax end; do _230(7 - 118, 3850) end main : Z : boolean array; chillax end

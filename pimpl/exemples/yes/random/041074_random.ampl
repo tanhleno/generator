@@ -1,0 +1,1 @@
+program I : X : takes Q85aa : boolean array; E4 : integer array returns nothing chillax end X : takes Ur, c : integer array; s, M : boolean returns integer when case - 35 : chillax end case 6 : do Y(97300); pop end end main : S, M2ia, g74a : boolean array; a : boolean; b : integer; input _L2[27500] end

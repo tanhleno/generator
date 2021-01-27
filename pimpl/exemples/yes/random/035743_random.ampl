@@ -1,0 +1,1 @@
+program q : s790a : takes fc4aa : boolean; P : boolean array; FU9 : boolean array returns nothing chillax end main : Sq1 : integer array; output "\n9"; input A[- we rem(02) or not 2 or 209 - 51300]; let C1[- 80 and 98 + 5] = 919 /= 73 end

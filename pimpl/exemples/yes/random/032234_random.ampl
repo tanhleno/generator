@@ -1,0 +1,1 @@
+program G : P : takes a, Jw9 : integer returns nothing chillax end bgp0 : takes j, Y : boolean returns boolean S9, x : boolean; output "" . "" . 7 . "jP" end main : let mGY[- 5] = array 54100 or false and not 32 + false and 62 + 3180; let j[false] = array pzU0a rem true + not 89100 and 3 - 03 - 9; do IN9(- true or 23 - 1) end

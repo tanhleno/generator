@@ -1,0 +1,1 @@
+program w : main : abT, v, J, XNUaa : boolean array; when case(8 = 9660) / true - not t : chillax end otherwise : let R880a[4] = array 7; when case 41900 : pop end case 6 : chillax end; let V = 82000; pop; pop end; input x end

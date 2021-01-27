@@ -1,0 +1,1 @@
+program n1 : v : takes Fu, i, x : boolean array; o36aa, L5 : boolean array returns nothing chillax end main : rj, b : integer; when case not true and false / WW5 and 207 - false : chillax end otherwise : chillax end end

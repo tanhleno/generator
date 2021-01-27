@@ -1,0 +1,1 @@
+program J : Q : takes T490a, k, OpP : boolean returns boolean array V, N : integer; do T(- 92 + 7 - 69 >= - 9 - 812, 522 <= 6); pop; output ""; pop end Pt : takes O_ : boolean array returns nothing di90, AuZa : integer array; chillax end main : chillax end

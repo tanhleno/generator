@@ -1,0 +1,1 @@
+program lK5 : g5 : takes nc : integer array; A9 : integer returns nothing bL4aa : integer array; chillax end jm10a : takes y : integer; X92aa, K3 : integer array returns nothing when case - 4 - 0 : chillax end end main : input K[- false] end

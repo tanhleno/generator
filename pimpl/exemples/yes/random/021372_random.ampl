@@ -1,0 +1,1 @@
+program IY3 : B : takes R, s : boolean array returns integer array l, r7 : integer; chillax end I : takes W : boolean returns integer chillax end main : do R5((7850 = 2) or(1) / true and 9 + (95800) and 5 + 3) end

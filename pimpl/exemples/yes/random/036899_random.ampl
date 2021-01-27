@@ -1,0 +1,1 @@
+program k : e7 : takes E : boolean; F : integer array; o : integer returns nothing pop; pop 9; output "\\" end xE6 : takes s00a, HS, I : boolean; z, zu, Ut : boolean returns boolean array chillax end main : pop; input J[not true]; pop 846 - 7 end

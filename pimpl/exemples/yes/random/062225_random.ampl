@@ -1,0 +1,1 @@
+program V12 : v3faa : takes E : integer returns boolean chillax end Z7 : takes q9 : boolean array returns boolean AB, O, w54, g : integer array; Y : boolean; when case 9 /= 135 : chillax end otherwise : chillax end end K : takes s : boolean returns integer array chillax end P7 : takes P : boolean array returns integer _ : boolean; chillax end main : H66 : boolean; chillax end

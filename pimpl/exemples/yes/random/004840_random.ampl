@@ -1,0 +1,1 @@
+program a : R : takes m, va1, d6c, M : boolean array; c77aa, tEEa, q : integer returns nothing STo, y : integer; _, Y27, tr, r : integer array; let I = 8 - 30 > 1; input t[7 - 1] end p : takes oS6 : boolean array; lnC, rI : integer; t35 : boolean array returns nothing chillax end main : chillax end

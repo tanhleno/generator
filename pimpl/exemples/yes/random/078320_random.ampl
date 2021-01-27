@@ -1,0 +1,1 @@
+program s : main : m : boolean; do Oc(g8f + false * (6480) and 30 /= - true * N and 9 or true); let P = array(37300) + Mg and 48 - 4 - 1; do qH(- p and 5 > - 10 - 6, 7 = 12, 9 = 7, 9, 3310); pop; while 3710 : output ""; pop end; output 8 end

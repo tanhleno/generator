@@ -1,0 +1,1 @@
+program mT8a : _ : takes R, kO : integer returns nothing Em, z, Ru7a, X4 : boolean array; chillax end J : takes c6, V, D40aa : boolean; b2, E, P, eA0 : integer array; w, cV : integer returns nothing chillax end main : k : integer array; chillax end

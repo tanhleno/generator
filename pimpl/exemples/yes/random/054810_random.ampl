@@ -1,0 +1,1 @@
+program B8 : _ : takes k : integer array; E7, p : boolean returns integer array sP, l : boolean array; V : boolean array; qB : integer array; chillax end main : do J(not u / not false rem not 4, (5) / 0, - (89) - 59 < 48, - 5 - 4) end

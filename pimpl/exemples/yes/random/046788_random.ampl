@@ -1,0 +1,1 @@
+program p : kT : takes U5 : boolean returns integer array input h710 end AP8 : takes v, qt7 : boolean array returns boolean array chillax end main : LI90a : boolean; J4, p14aa : boolean; SB9aa, B, e0, s8x : integer array; chillax end

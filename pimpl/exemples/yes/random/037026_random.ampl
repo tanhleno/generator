@@ -1,0 +1,1 @@
+program aJ : I : takes H7k0 : boolean; s5 : integer array returns integer O : integer array; F : integer array; chillax end S6Waa : takes q : boolean array returns boolean array O, O : boolean array; input o; pop 0 end main : p : boolean; chillax end

@@ -1,0 +1,1 @@
+program G : M : takes Tm50 : boolean array; M, x : boolean returns nothing while q1 or 82 /= 9 - 6 : pop 1330 end; input l[- 0]; do EWV(24, 6) end main : P : integer; input k7W0; do d(true * not 0 and 585 + 88 > 3 or 11 - 036, j8 or 9 >= - 78 - 3780); do z(- false and 4); pop end

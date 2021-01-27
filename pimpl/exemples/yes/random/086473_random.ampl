@@ -1,0 +1,1 @@
+program Ol50 : main : w : integer array; W : boolean array; o, Zj4, p8, g, t3 : integer array; do b7(- false); let M = array - F2[7] rem j and 291 + (38) or 1; do t(- false and 2 = 4 - 5, - 737, 1 = 35300, 36, 5); output 5 = 5; when case 4940 = 51200 : while 0 : chillax end end end

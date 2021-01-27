@@ -1,0 +1,1 @@
+program f3p0a : y : takes RS : boolean returns integer output - 4 . "*" . 994 . "X"; while - 9 - 8740 : when case 0 : chillax end; when case 6 : chillax end end end da : takes I5, y : boolean; Zx70a, M5 : boolean returns nothing O : integer; Q9, vq4aa, nQ1 : boolean; x, tp : boolean; input j4_[48] end main : chillax end

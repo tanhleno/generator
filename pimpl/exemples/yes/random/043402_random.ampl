@@ -1,0 +1,1 @@
+program G6 : p : takes z : boolean array returns nothing chillax end J : takes r1, i8o, p, Q3, otX, m, J : integer array; W6 : integer array returns nothing chillax end hT30a : takes y2X, nY : boolean returns integer array let O2 = 05 end main : zV, C : integer; YA6aa : boolean; pop(98300) end

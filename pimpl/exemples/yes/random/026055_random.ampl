@@ -1,0 +1,1 @@
+program S : a : takes EL, LG : integer; U : boolean; t15a, gq : integer array returns nothing F : integer array; pop - 05 /= 8 end main : let wFE0 = array false / not 8 + f1; while - true rem true - 7 < - (9) - 56600 : chillax end; pop - 0 < 28; pop 9640 = 3; let F9[1] = array 2; input P_6a[7350]; output "5" end

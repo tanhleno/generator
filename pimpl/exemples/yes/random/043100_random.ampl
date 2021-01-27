@@ -1,0 +1,1 @@
+program U : dh5a : takes Y : boolean array returns integer v8Ta, db5, K6 : integer array; chillax end main : output "" . - (5) and 97 - 06 - 95 < - 606 . ""; do q(4 >= - (3) + 72400, - not 1 and 25 > 87200 - 1, - 3 = 2); while - (31) and 79 <= 33 - 7 : chillax end end

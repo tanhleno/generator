@@ -1,0 +1,1 @@
+program d : main : I, eu8 : boolean array; h, c6, n8Oa : boolean array; let It[not true - false + true] = - true or true; do K(- not(4) / true); do P(l or 9 - 80500 >= - 9); do X22aa(93500 - 7 > 89); when case 0 : output "b1" end case 740 : pop end; while 0 : chillax end end

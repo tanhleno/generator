@@ -1,0 +1,1 @@
+program y : w4 : takes Yge : integer; q, K : boolean array; a : boolean returns boolean do Lh(not 105 >= 695 - 3); output 6 . 9 . 0 end r : takes ZAK0, J7 : integer array returns nothing chillax end main : do x3(- 915 * not(74) > - not false and O and 33) end

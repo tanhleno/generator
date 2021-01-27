@@ -1,0 +1,1 @@
+program K630 : main : input Pk6a; when case - 5 : let Y[3150] = 4740; do svy(476, 296) end case - e6 /= 6170 : do b17aa(43, 1500) end case - 9 /= 18 : while 2 : chillax end end case 8 : chillax end case 9 : pop end case 2 : chillax end otherwise : do S4(10); when case 7 : chillax end; let w = 9; pop end end

@@ -1,0 +1,1 @@
+program u : m7 : takes c, w : boolean array; m4x : boolean array; p, aW, h, jEA, rKY0a : integer array returns nothing chillax end main : output - false - false and 2 or 8 <= A7 and 408 . "8"; output "" . "\"6!a" end

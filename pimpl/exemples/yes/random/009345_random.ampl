@@ -1,0 +1,1 @@
+program RS : i : takes J, U, ip : boolean; M : integer array returns boolean array L9, z : integer; N, f : integer array; yp, zj, Fs : integer array; input On end main : output "^" . not 89 and 97 < 17 - 2 . 03600 /= 6 end

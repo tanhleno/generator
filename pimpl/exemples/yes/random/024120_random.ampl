@@ -1,0 +1,1 @@
+program Yh : C : takes s, i : boolean returns nothing do Q790(not 8) end G8 : takes O, t, l : boolean array; M4 : boolean array; v, s3Pa, i2 : boolean returns nothing let ZD[- 3] = array - 2 - 97 end F : takes Xo : boolean array returns integer l : boolean; chillax end main : chillax end

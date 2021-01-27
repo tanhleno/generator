@@ -1,0 +1,1 @@
+program O31 : N530 : takes P1, G, tKkaa, J5 : boolean; B, Ll, U : boolean returns nothing B, c : boolean; chillax end main : input t; when case - true or not 0 and 4 - 3 : chillax end otherwise : do LI(5, 2) end; do L(true and 3 >= 20 - 584); when case 1 - 24 : while 1 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Du : main : u29 : boolean array; r, n3, J : integer; f7, pR4 : integer; do C(- (6 = 80) * true, - (0) / DW, - G = 55, - 968, 08 = 01800); do SxS(- true / 1 and 9 + false and 9 + 9 = - not 1770 + 4 - 703) end

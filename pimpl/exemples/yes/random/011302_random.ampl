@@ -1,0 +1,1 @@
+program G : r : takes U4, U, jB : boolean array returns nothing t : boolean; i, L7 : integer; when case false and 9 <= - 3 - 4 : chillax end case - 2720 - 5 : pop end case 7 : chillax end otherwise : do s(4) end end k : takes s, b : boolean; q : integer; se, C : boolean; q : integer array; p, B : integer returns nothing input F6F0[718] end main : chillax end

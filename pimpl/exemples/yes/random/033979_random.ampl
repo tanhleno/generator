@@ -1,0 +1,1 @@
+program GUk : K5 : takes q : boolean; u61, a6, r48a : integer; M8, V, J, il : integer; w46aa, Z : integer array returns nothing Y : integer; while(907) /= 32 - 4 : chillax end; output "" . "" . 1 . ""; do Q_6a(3, 88) end main : ucA, T : boolean array; U : boolean array; U : boolean array; O5, R : boolean array; b2N : integer; chillax end

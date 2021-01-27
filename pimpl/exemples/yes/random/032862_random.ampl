@@ -1,0 +1,1 @@
+program X7xa : p : takes B, y : integer returns nothing d : integer; qL, ex, bbL0a, N5P : boolean; d, d, lP2a : integer array; Zy, s32 : boolean; do J0(- true and 4 or 9 /= 8) end main : Iw6, m4 : boolean array; chillax end

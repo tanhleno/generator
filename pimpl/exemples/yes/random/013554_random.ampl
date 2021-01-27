@@ -1,0 +1,1 @@
+program X6g : Cf7aa : takes ge, Z, R : integer; k : integer returns boolean SI5, vP : boolean; hlu, F : boolean array; when case - 8 and 1460 + 080 > 5 : while 05 : chillax end end otherwise : chillax end end main : L : boolean array; Mh : boolean; R, T8, B, H2, Q : integer; z : boolean array; chillax end

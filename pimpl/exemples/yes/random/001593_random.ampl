@@ -1,0 +1,1 @@
+program g0c : L770 : takes f, k, W9, G, u7, O : integer; AE, f, M, x, b, C, d : boolean returns boolean array let l63aa = - 29700; pop end main : cB, N, TR : boolean; y4 : integer; S : integer array; pop 22 - 392; output - 3 + 30 - 16 > 4 . "" . 2 . "6"; do g((9) > 7, 5 - 9); while 9 : input FG; output "" end end

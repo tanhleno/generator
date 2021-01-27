@@ -1,0 +1,1 @@
+program j : c : takes I : integer array; fZ : integer returns boolean chillax end w : takes K9, RU, i : integer array; x : integer; c11 : integer returns nothing c, a : boolean; T : boolean array; Rx : boolean; t1 : boolean; pop; output "&" . "'\"" . "" end main : F4, O0 : boolean; chillax end

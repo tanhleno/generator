@@ -1,0 +1,1 @@
+program b660 : c56 : takes myZ0a, z4 : boolean returns nothing chillax end main : hM, S : integer array; while true / xn[0] * xA and 6 + 18900 and 0 and 7 or true and 6 : pop; while 0 = 3 : when case 0 : chillax end; pop end end; do w(- 13 and not 3 and 03 /= - e and 32, k8 or 59600, - 4610) end

@@ -1,0 +1,1 @@
+program q8 : main : while - false - (3) / not 92 < k : chillax end; output true and 63; when case - true + 0 : input O2[4560]; do U0Baa(74); let N57 = 9 end case 571 - 1 : when case 8790 : chillax end end; when case - 5 - 13 : chillax end otherwise : do w(8) end end

@@ -1,0 +1,1 @@
+program m : c53a : takes bd20 : boolean returns nothing v, D, xqx : boolean; do P((5) and 5 /= 8, - 4, 88300, 5, 7); do u3(- 92, 6 = 0, 79, 0); output "" . 6 end main : W, m, f : boolean array; a41, aX8 : boolean; chillax end

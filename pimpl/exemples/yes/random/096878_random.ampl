@@ -1,0 +1,1 @@
+program Yc : main : when case false rem false - lp[16] * R >= 98500 / (45) and 71 : when case - 58400 = 9 : chillax end case 1 : chillax end; pop end case - not not 456 or true or 7 : chillax end case(66) : output 0 . ""; input nY80a; input A; pop end otherwise : chillax end end

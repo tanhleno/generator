@@ -1,0 +1,1 @@
+program N640 : kn2a : takes VH, _, DA : boolean returns nothing aj : integer; chillax end main : G, k, x920a : integer array; Xg : integer; J, Eu, QjQa : integer array; _Kta : integer; q : boolean; l : boolean; q : boolean; do J(- 36 * 10 <= not 60 + 43 and 255) end

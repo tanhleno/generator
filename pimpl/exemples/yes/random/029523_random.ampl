@@ -1,0 +1,1 @@
+program hd : X : takes p, y : integer array returns boolean Q, X : boolean; M14, p4, I : integer; q8 : integer; Y : boolean; c5m : boolean; W : boolean; chillax end mG90 : takes X : integer returns integer while - 89300 - 9 /= 9 : chillax end end main : R, ZTXaa, K, m : boolean array; chillax end

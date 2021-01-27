@@ -1,0 +1,1 @@
+program i : main : h, o0, v53 : boolean; l2, Q, O : boolean; M : integer; pop - 469 rem 268 or not 32 and 28 < - not 7 and 353 + 7 - 192; while H[20] and _2gaa and 7 : chillax end; while - (0980) and 56 - 9 - 283 : chillax end; let Mw[- 34600 - 73] = 36 = 1; do L3(4, 2); let LM = 78; when case 115 : chillax end; while 68 : chillax end end

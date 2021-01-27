@@ -1,0 +1,1 @@
+program W : A : takes f, K41 : boolean array returns nothing Z, n, NZ : boolean array; do u(- true or 8); let kH[- 0 - 5] = array - 05; when case 1570 = 9 : chillax end otherwise : pop end end dU : takes G22 : boolean returns integer o : boolean array; pop; pop end r : takes n, LDG, Y, x : boolean returns integer array chillax end main : output "" . "lS" . "" . 6 = 2 end

@@ -1,0 +1,1 @@
+program GH : U : takes EF5 : integer array returns boolean G, e4Z : integer; Y, W : boolean; l : boolean array; n : boolean; x6 : boolean; G : boolean; chillax end U : takes T3, f : integer array returns integer yqF, F, lw : integer; chillax end main : do IQ2a(- j[47] * 35) end

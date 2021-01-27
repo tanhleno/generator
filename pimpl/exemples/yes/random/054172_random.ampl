@@ -1,0 +1,1 @@
+program D : KL : takes q7o : integer array; i, X6, o : integer; V : integer array; B3 : boolean returns nothing when case not 3 - 423 - 97 : while 8640 : chillax end; let g = 2 end otherwise : do k17(2) end end main : c : integer array; chillax end

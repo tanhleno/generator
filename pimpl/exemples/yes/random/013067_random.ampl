@@ -1,0 +1,1 @@
+program iit0 : D : takes D, w, IIy : integer; F, g : integer returns nothing y : integer array; Ky, l, FiO, N : integer; x : integer array; do Up3a(false and 6, 20 - 56); while - 2 - 39900 /= 8 : chillax end; pop end main : chillax end

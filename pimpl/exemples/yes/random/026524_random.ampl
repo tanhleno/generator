@@ -1,0 +1,1 @@
+program I1O : w : takes y, g : integer; H : integer; I7, z : integer array returns nothing r, Q : integer array; p2 : integer; q6 : integer array; F : boolean; chillax end main : do x5((8) * true, - (2) * 7 and 0 - true and 3, - r9 or 9 - 4, - 33) end

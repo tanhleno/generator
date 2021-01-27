@@ -1,0 +1,1 @@
+program At50 : xb9 : takes t : integer; fX : boolean array; s0G : boolean array returns nothing R : integer; A0, s, l2 : integer array; when case - false + 86900 : input UIe0; do t(3); let XcG = 9560 end otherwise : while 2 : chillax end end end main : y2 : boolean array; chillax end

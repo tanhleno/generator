@@ -1,0 +1,1 @@
+program i1 : V : takes w, j : integer returns integer array W : integer array; let P7 = - 8 - 4 = 83; when case 2410 - 67 > 667 : chillax end case 230 = 77900 : let WQ = 07100; pop end; let UJ[9530] = 718 end P3 : takes l6, U99a : integer returns integer W1O0a, v : integer array; PX6 : boolean; pop 45 = 8 end main : oC4aa : integer array; chillax end

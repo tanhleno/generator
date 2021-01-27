@@ -1,0 +1,1 @@
+program s3 : e17 : takes A : boolean; _n0, J, Q, d6, o8 : integer array; USf, V, R : boolean; l : boolean; Q : integer; C : boolean; cm : boolean; Z : boolean; d : boolean returns nothing chillax end main : chillax end

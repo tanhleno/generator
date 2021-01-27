@@ -1,0 +1,1 @@
+program Z : vJ2 : takes I080, Js3 : integer array; K6Z0, x : boolean; u, O : boolean; d2x : boolean array; y, e, G : integer array; P, q : boolean; n, c : boolean returns integer array when case not 47 and 7 /= 8370 : chillax end; pop end VP0 : takes Y2b : boolean; O : integer array; B, v, G : integer returns nothing k, N4 : integer array; chillax end main : chillax end

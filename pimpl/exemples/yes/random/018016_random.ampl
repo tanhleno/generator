@@ -1,0 +1,1 @@
+program c : s4 : takes U, r79 : boolean; A : boolean returns integer kP : boolean array; Al20a, Q : boolean array; chillax end main : VQ80 : boolean; U0, G_ : integer array; G570, I, kv, w3 : integer; e2 : boolean; input N; let G = array not false * 732 and 922 - false; output 9450 >= 6 . 8 = 5 end

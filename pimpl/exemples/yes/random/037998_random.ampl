@@ -1,0 +1,1 @@
+program M80aa : A14 : takes J : boolean array; W, g3, Z : boolean; G : integer array; R : integer; J, h3 : integer array returns integer array K3 : integer array; chillax end a : takes J2h, k : boolean returns boolean let K[- 1 - 2] = array 8 - 4740; pop; input Qxba end bQ : takes Z, XDH : boolean array returns integer z, x : integer array; chillax end main : chillax end

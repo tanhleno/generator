@@ -1,0 +1,1 @@
+program WxH : E3 : takes ur, Qtf0a, l150a, e2 : integer; E7, T : boolean array; z, p : integer; m, m, Rk, O4, x : integer returns integer array when case not 774 and 27 + 6 : pop end; output 5 . 09; let Jgsaa = 7; output "i"; while 7 : chillax end; input x; pop end main : chillax end

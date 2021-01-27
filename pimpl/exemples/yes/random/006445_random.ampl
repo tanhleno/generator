@@ -1,0 +1,1 @@
+program AGF : Bh : takes Y1pa, t4h, G, gu0a : integer; j9, PIE : boolean array; J : integer returns integer array W, z7 : integer array; O : boolean; chillax end eh : takes b1 : boolean; E6, J, XG : integer array; C, O, d, M : boolean array returns boolean chillax end _ : takes Et, iK : boolean returns boolean array E : boolean array; e8 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program z : K : takes S, R : integer returns nothing W : integer; while - false and 2020 <= - 507 : chillax end; let L = array 9 end Alk : takes Hj, P38aa : boolean; K5 : boolean; GP, N5s, Q : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program _ : Qm_a : takes F16aa : boolean; Yi, d540, X, eI : integer array; a, L7, Z, lLA : boolean; D1 : boolean; L71, r0, u, cW : boolean returns boolean array chillax end main : c, A33, eBw0 : integer array; Fy7, QO, i : integer; y_80a : boolean; p1, s : integer array; y, O6, e130a : integer; chillax end

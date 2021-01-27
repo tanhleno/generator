@@ -1,0 +1,1 @@
+program e90 : v : takes n : boolean array returns nothing input B; while - 80 - 1 >= 650 : let E = 8 end; output 803; pop; when case 21000 : chillax end end main : while not false + (09) and 3 and 122 or not 0 + 81 - 9 > (7) - S and 5 : do p(- 6, 613); while 2 : chillax end; pop; pop; let V = 7; pop end end

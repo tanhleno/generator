@@ -1,0 +1,1 @@
+program uPua : C0 : takes v, RL, Z4B : integer returns nothing chillax end z : takes Q7 : integer; lk : integer array; Li : boolean returns boolean array pop 85 = 6 end e : takes h9 : integer array; z, g_60 : integer array; a, E : boolean array; _ : integer returns nothing pop 835 end main : M : integer; chillax end

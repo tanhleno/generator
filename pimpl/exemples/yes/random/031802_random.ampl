@@ -1,0 +1,1 @@
+program C : nI0 : takes CX, k : integer returns integer array N, A : integer; T : boolean; chillax end R : takes FCl : boolean array; G_30 : boolean array returns boolean array when case - 8620 - 509 > 1 : output "\"3"; do h(97); pop end case 889 = 4 : chillax end case 444 : chillax end case 8 : chillax end otherwise : chillax end; output 3610 end main : chillax end

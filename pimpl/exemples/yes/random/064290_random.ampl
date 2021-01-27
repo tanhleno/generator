@@ -1,0 +1,1 @@
+program nF : z : takes U : integer returns nothing a, y6, s : boolean; Qf, Nq : boolean; J7, Q2F : integer array; when case - not 6 : input TF; let h = 2560 end otherwise : chillax end; while 19 : input I1; while 9 : chillax end; pop end end main : I4 : integer; let h3 = E(4) and w and 152 end

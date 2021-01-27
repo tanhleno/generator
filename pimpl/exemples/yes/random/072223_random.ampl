@@ -1,0 +1,1 @@
+program E : main : b, u, l7 : integer; tp : boolean; input a71; while - not not 41 >= (71) and 1 : output 52000 . "\\" end; when case true and 27000 or 2 - 31 : let v[6] = array 8 end otherwise : input g end; while 1 - 74 = 4 : pop end end

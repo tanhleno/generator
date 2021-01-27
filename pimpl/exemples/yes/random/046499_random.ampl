@@ -1,0 +1,1 @@
+program Q8M : zd6a : takes KY : boolean returns integer array do n(- (1) > - 5, 7 - 8) end S47aa : takes m2oaa : boolean array returns integer array while 1 - 1 : do zj9(1) end; let o[216] = 5; while 0 : pop end; while 168 : chillax end end X : takes c : boolean returns boolean pQ : boolean; chillax end main : a1, S : integer array; chillax end

@@ -1,0 +1,1 @@
+program L4Ja : TS80a : takes L : integer; A96a : integer array; S : boolean returns boolean input e[- false and 67]; input i end main : while false and Tv(7730) / 6 and 9 - not not 2 and aQi + (7) <= - 2 / (218) and 9840 or not 7 : chillax end end

@@ -1,0 +1,1 @@
+program s5 : H : takes qp30a, fL, m, p9M0, d1 : boolean array returns boolean output 3 . "6" end main : output "f^a"; while B(02) : while 6 : chillax end; do F(28) end; do D7(true and 6 - 419 - 2 < 0); let c0d = array - 189 - 1670 end

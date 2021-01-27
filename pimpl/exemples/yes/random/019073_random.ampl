@@ -1,0 +1,1 @@
+program J : I : takes s, N : boolean array; r5, uN, x1 : integer array returns integer while not 733 : chillax end; when case 42 - 0 /= 32 : chillax end case 28 = 0 : pop; pop end end main : chillax end

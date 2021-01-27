@@ -1,0 +1,1 @@
+program o : main : Xz, p : integer; let HL = - not not 27 and false = true; do g8(7 + H); when case - 8 and 9 or 2 : output "" . "\"8"; let RN = 4; pop end case - 17 - 769 : input t; input m end; do cn(- 64900, 85900, 6, 4) end

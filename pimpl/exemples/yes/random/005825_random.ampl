@@ -1,0 +1,1 @@
+program V_y : bW : takes ht40, H6, U, pWo0a : boolean returns boolean array T : boolean; y, XRo : boolean array; pop; pop; pop 79; pop end main : QAl0, ly : boolean; x : boolean; S : boolean array; r, X, j2c : boolean; x, in : integer array; pop end

@@ -1,0 +1,1 @@
+program S : s : takes h0V0a, e, dQ8, g : integer returns integer array output "\t8"; output "96!a" . 4 . "\t" end w : takes F : integer returns nothing O2Y : boolean; let cy4a = array 389; do m(90000 = 6); while 8 : chillax end end Xo6aa : takes N, B0 : integer array; F, K : boolean returns boolean input Zm[1530] end main : chillax end

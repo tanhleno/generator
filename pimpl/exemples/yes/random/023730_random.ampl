@@ -1,0 +1,1 @@
+program K : _58 : takes _, Z : boolean returns integer k7, q : integer; G9, a0 : boolean array; chillax end main : P1 : integer array; while - (3540) rem 788 / (9) and 8 - not true : do z93(- 9 - 0) end end

@@ -1,0 +1,1 @@
+program e5F0 : Vk : takes Y : boolean; G89aa, t07, xI8 : integer; q, h : integer; V6 : boolean; V1, _ : boolean array; aF7, C, x040 : integer; szPa, v30 : boolean; F : boolean; SuQ0 : boolean returns nothing b1, c : integer array; h : integer array; uY : integer; T : boolean; let J = 9; while - 0080 <= 2 : chillax end end main : IG, b, E, y, O2, OVS, _ : boolean; input A end

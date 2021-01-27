@@ -1,0 +1,1 @@
+program H : h4fa : takes T8B, g : boolean returns nothing chillax end X : takes R : integer array returns boolean array chillax end main : output vX[74500] and false and 3 - false and 18 + 6 - 5 >= - false and 5 end

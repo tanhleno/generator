@@ -1,0 +1,1 @@
+program w : l5 : takes J, s, Ma : integer array; uHE : integer returns nothing uY : boolean array; while - not 8 and 9 : chillax end end main : L7, U1, N1gaa : integer; ccP, lG8aa, Q2, R7V0a : integer array; e0 : integer; Y, z, s, q : boolean; chillax end

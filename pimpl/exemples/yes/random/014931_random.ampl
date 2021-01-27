@@ -1,0 +1,1 @@
+program ff7 : d : takes p59, c, JY00a : integer array returns integer array E3, b9C0a : boolean array; chillax end V : takes X : boolean returns integer array chillax end o : takes J : integer array; BB, E0 : boolean array; k5S0, H : integer returns nothing output 9 end main : _5 : boolean; do X(- (2) / 7 + C / (7), - not(038)) end

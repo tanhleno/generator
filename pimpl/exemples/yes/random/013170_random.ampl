@@ -1,0 +1,1 @@
+program I0O0 : O : takes U4, h, e : integer; E : boolean array; E4T : boolean; un00 : boolean returns nothing input W3[- (82) or 47]; input S[276 - 62] end p3 : takes m, cv, V : boolean; r : integer array; q : boolean array returns nothing F, cJ3, u0 : integer; when case - 615 : pop end case 4420 : input l9; pop end end main : let a[- RC] = array(5 = 2900) and(7) end

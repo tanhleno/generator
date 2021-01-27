@@ -1,0 +1,1 @@
+program A : lX8 : takes R, M : boolean returns integer G, keG0 : integer array; input tW; input f[6860]; pop 15 end main : d : boolean array; g, W, ul : integer array; do C(- 70500 + (0) - false - 8 - 5, - (29800) * (43) and 24) end

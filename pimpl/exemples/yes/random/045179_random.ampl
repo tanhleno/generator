@@ -1,0 +1,1 @@
+program o : w07 : takes z : boolean array returns nothing pop end M85a : takes AJ : boolean array returns integer array pop 1 = 08 end G : takes y3 : integer array; Ev6a : boolean returns nothing chillax end main : T93, b : integer array; L : boolean array; Q, KJeaa, yhf : integer; chillax end

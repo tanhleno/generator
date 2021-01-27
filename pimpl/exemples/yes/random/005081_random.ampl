@@ -1,0 +1,1 @@
+program S6 : qn : takes p, N, e63a, VXu : boolean array; Z : boolean array returns nothing R : boolean; chillax end main : z, N4, b, Q, N11a, ei20, Z : boolean; let I6[- true * true or true rem false and 2 + not 2 and 269 - 366] = - false + qC + 54 - 103 = not 82900 and 36 + 58 - 06; input k[true - false or 3] end

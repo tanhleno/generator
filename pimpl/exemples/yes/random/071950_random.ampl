@@ -1,0 +1,1 @@
+program f : main : A9, R, s : integer; do e7j(- false + 4 * false and 7 + false and 0 + 7 - 23 > false and true and 2, - not r rem(9) or true, - (8) and 63 + 630, - 13 - 6400, 563 = 6, 4, 9); do v(- lLI(64) rem true <= (99) and 587); when case not 6 < - 1 - 3 : when case 83 : chillax end end end

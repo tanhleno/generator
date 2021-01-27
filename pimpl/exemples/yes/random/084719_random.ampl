@@ -1,0 +1,1 @@
+program m : main : bNOa : integer; let T3 = - true / false or 7 <= - true and 4; while 1 - h : when case 7 = 2 : chillax end otherwise : chillax end; pop 594 end; output - 72; while 4 - 1 = 3 : output "=\n"; do r0(964) end end

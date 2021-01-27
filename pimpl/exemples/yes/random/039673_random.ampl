@@ -1,0 +1,1 @@
+program X : c : takes p : boolean array; E : boolean; t : boolean returns nothing x0 : integer array; A, eX6aa : integer array; d : integer array; m, wl : boolean; do g(- Lj0a and 4, - 2 - 4 >= 34); output "8" . "" end main : chillax end

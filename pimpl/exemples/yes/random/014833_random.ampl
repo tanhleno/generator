@@ -1,0 +1,1 @@
+program C : p : takes i, e, _m1a : integer array returns boolean K9, MHK : integer; rE, D3h0a : integer array; chillax end main : Y4 : boolean array; p0, sp, o : integer; do q2(false <= true + true - 7, false /= - false + 51 - 5, 7 - 9 - 02); when case - Z1(4) * 04700 + false and 0 : chillax end otherwise : chillax end end

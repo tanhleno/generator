@@ -1,0 +1,1 @@
+program R8 : x5 : takes N, l, M, jE80 : boolean array returns nothing input xC[- not 6110 + 801] end main : when case Q0E(0, 83) - (27) = - 5 : output 2 . 1 end case - not O * LN and 1 = 7360 : chillax end case false - 1 = - 9 - 3 : chillax end case - 60 : pop end otherwise : chillax end end

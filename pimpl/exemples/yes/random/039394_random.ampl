@@ -1,0 +1,1 @@
+program k : F : takes g5N0a : boolean array; b, o : integer returns integer array QT : integer array; chillax end main : u, N, L, e : integer array; do S(false or true, - not not 06, - true and 4, 983 - 63, 154); pop end

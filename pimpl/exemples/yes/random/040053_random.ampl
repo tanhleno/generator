@@ -1,0 +1,1 @@
+program L : o : takes d : boolean array; a5 : boolean array returns integer array f, k, k, T, a : integer array; H, w3c0a, fo : integer; do U(true and 1 - 9 = - 640, 84, 8 = 5, 01, 0) end mU1 : takes dY : integer returns nothing chillax end DE : takes pq, GV : integer array; mAMaa : integer; MW, Db : boolean array returns nothing chillax end main : pop end

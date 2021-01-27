@@ -1,0 +1,1 @@
+program w89 : n : takes I, AKL0 : boolean array; Z : boolean array returns boolean U4 : integer array; chillax end enh : takes c : boolean array; I : integer returns boolean array chillax end main : OJ5 : integer array; W : boolean array; let a54[I(9) and 19 or true rem(67600) - (01900)] = array - false; output "" . - 393 - 5 /= 4 . "j"; while false - 921 : chillax end end

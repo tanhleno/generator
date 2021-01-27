@@ -1,0 +1,1 @@
+program U0 : main : R, R1 : integer array; when case 5 * 8 and false + 559 >= true + 2 or 91 - 82 : chillax end case(2) / not 4 and 63 - false and 88 >= - false and 17 : do Z(5 = 0, 79, 3450); pop end case - 7 : chillax end end

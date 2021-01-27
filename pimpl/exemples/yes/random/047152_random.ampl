@@ -1,0 +1,1 @@
+program y5 : g : takes vN1 : boolean returns integer G9 : boolean; a : integer; while - (81400) : while 3 : pop end; do DOM(1) end; input o5M end main : iM_ : boolean array; h6m, E7 : integer; pb9a, dO, a, g, M : integer; when case - true >= - not false : let R9[- 8900 - 3] = array 3 - 1770 end end

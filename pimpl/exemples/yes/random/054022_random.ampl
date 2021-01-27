@@ -1,0 +1,1 @@
+program iSj : mV8 : takes B : integer array; H09, v1, DL : boolean array returns integer array U : integer; input C[- false] end main : while not not 8 or b0 rem false <= - false rem not 390 and 73 or true and 0 : do a(26 - 4 /= 9, 5430, 29); do cO(5) end end

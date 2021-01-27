@@ -1,0 +1,1 @@
+program U : X : takes l, K35, z : boolean returns nothing while - not 03 and 931 - 9710 /= - 98 - 2 : chillax end end k31 : takes a : integer returns boolean array do r6(958); pop; while 6 : chillax end end main : g : boolean; B0 : integer array; chillax end

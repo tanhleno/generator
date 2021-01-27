@@ -1,0 +1,1 @@
+program Y : d : takes gm, N : integer array returns boolean chillax end zK : takes C, Aob, V, HYOaa, w, M : integer array returns nothing A : integer; Vx : integer; F : boolean; output 9 = 14; output 2 . 80 . "0"; let G4[1] = array 276; while 5 : chillax end; output "" end main : F : integer array; ve, Z : boolean array; chillax end

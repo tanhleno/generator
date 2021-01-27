@@ -1,0 +1,1 @@
+program V240a : RL7 : takes y : integer array returns nothing let G4[- not 6 and 1840] = 9 - 35 > 2; when case 0 : output "" end case 1 : chillax end otherwise : input J end; output 03 end main : let t = - K11 and(09) or n or 8 - 41 < false and 16300 or 90 - 3 end

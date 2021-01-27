@@ -1,0 +1,1 @@
+program P : main : SZ : boolean; C_8 : boolean array; c : integer; while - (491) rem 2 : chillax end; let n[(29)] = array false * 2 and 8; output "[\""; when case - 8 - 80 : when case 88 : chillax end end; do HS(344); let e5N = array 658; do L90(60); do O(800) end

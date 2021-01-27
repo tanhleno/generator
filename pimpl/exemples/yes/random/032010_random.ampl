@@ -1,0 +1,1 @@
+program D : imh0a : takes b3, B : integer returns integer Q, H, CW, P : boolean array; OqO0a, u, gV4aa, ic4 : integer array; M : boolean array; r3, hYF : boolean; Y : boolean; A6Qaa : boolean; let nR[not 55 and 9] = - 713 <= 0 end main : chillax end

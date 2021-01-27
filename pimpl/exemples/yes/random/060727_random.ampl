@@ -1,0 +1,1 @@
+program l4naa : y7 : takes E : integer array returns nothing Qn : boolean; chillax end main : input yf[false - (6) rem 9 and 9]; do E((3) < - (6) and 18 or 9); when case l and 59 /= - 54 : do y(9); while 5 : chillax end end case - 7 - 07400 > 1 : chillax end case 154 : let J = 8 end end

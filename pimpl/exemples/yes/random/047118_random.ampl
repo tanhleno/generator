@@ -1,0 +1,1 @@
+program A : M7W : takes c : boolean returns integer _, j41 : integer array; u, F, i5, k : boolean array; chillax end B01 : takes kQn : boolean array; e3H, P, D82 : integer array; GE, U7f : integer returns integer chillax end main : chillax end

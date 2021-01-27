@@ -1,0 +1,1 @@
+program J_4 : o32 : takes JI, X0o, Q, H3O0 : boolean; F0 : integer; S2R : boolean; M8 : boolean; W38, hW : integer returns integer array while - true and 4 or 86 > 70 - 10 : when case 763 : chillax end case 0 : chillax end otherwise : chillax end; let O = 2 end; do J(- 00 - 98, 8) end main : e : boolean; let u7j[(6 = 7)] = not not 6 * false end

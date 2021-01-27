@@ -1,0 +1,1 @@
+program U1 : main : e, R : boolean; input N6Jaa; do ge(- (20) rem not 87 + true and 231 - 56 - 0); do oeC(7 and 677 + 15 - 6, 76 - 60 = 2); input Gn[- 1]; output 920 . "5j"; while 5 : pop end; output "" end

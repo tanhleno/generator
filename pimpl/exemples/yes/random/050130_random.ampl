@@ -1,0 +1,1 @@
+program m17aa : t : takes T : integer; r1, p, Vb0aa : integer array; Mr : integer; r26aa : boolean; cV : integer array returns nothing do b1((16) and 7410 + 56 - 691); input e; while 6 : pop; pop end; pop 5 end main : let T4t = array T(9, 6) rem Q[206] and not 8 + (1) * Zi and 96 or(8) or 8 end

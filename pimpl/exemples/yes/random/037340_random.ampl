@@ -1,0 +1,1 @@
+program sO1 : F : takes NUc : boolean; q : integer returns nothing u0z, q, A, WE, m : boolean; chillax end main : j, B3 : boolean; when case - not 35 * false / 1 >= - Ay(1) - 2080 : when case - 3 - 2 : chillax end otherwise : let Da00 = 8 end end end

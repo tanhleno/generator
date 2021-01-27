@@ -1,0 +1,1 @@
+program AE : WH : takes Qg : integer; k : integer array; hV10a : integer array returns boolean array as, x12, x5 : integer; b3 : integer array; input rX20a; output "" . 2 . "" end B : takes s, R : boolean; J : integer array; lh, mp : integer; O : boolean array returns nothing wC, A, z, f7 : boolean; c_N0a, DEL, vN : integer; chillax end main : chillax end

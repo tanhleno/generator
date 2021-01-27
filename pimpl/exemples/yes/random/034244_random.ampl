@@ -1,0 +1,1 @@
+program GhD0 : u : takes K : boolean; O_A, pdj : boolean; K450a, U : boolean; n400a, h, Hgb0, O6, x2 : integer; b, T : boolean array returns nothing chillax end U : takes Q, B : boolean array; r, U, e : integer; g9 : integer array; Q : integer; E, zN, Ut : integer array returns nothing chillax end main : SD, SSmaa, R4, fk : integer; chillax end

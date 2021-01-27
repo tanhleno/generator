@@ -1,0 +1,1 @@
+program CU0 : FP : takes Wsc : integer; k56, z : integer; Bvq0a, j64, m, l : integer; L, i : boolean array; Wu, F21, tTg, z7 : boolean array returns boolean array Fpa : boolean; do W3(- 9 and 80, - 0690 - 0); let r = array 1; output 8 . 45 end main : A, p : boolean; E, n : boolean array; YD : boolean; chillax end

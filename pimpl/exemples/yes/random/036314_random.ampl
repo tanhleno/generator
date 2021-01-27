@@ -1,0 +1,1 @@
+program bq1aa : paOaa : takes z : boolean; Jt : boolean returns nothing p58aa : boolean; Ts, T6 : boolean array; J3 : boolean; do F(1 or 709 <= - 6200) end y71 : takes P, Z6, M, KEs : integer returns nothing input LQ; output "" end main : dk00a : integer; chillax end

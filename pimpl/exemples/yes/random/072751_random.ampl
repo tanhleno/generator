@@ -1,0 +1,1 @@
+program B : main : K, C1, u3 : integer array; m, Q : boolean; SXL0, F98, ae1, IfEa, f3 : integer; A : integer array; Iup0 : integer array; n_ : boolean; P : boolean; n0saa : boolean; pop - (85) >= true - 30 - 9 end

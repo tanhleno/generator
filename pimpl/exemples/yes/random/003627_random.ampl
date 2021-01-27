@@ -1,0 +1,1 @@
+program Y : Ie4 : takes Y, D, g70, E, nW : integer array; x : integer array returns nothing let N[- p or 96] = - 03 <= 5 end main : c, u7, d1Xa : integer array; x, di90a, k, X : boolean array; when case - false + true or true and 762 + 6 : let x8 = 57 = 42 end case 078 rem not 8 + false + 64 : chillax end otherwise : chillax end end

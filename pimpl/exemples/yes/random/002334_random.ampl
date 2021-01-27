@@ -1,0 +1,1 @@
+program Li10 : B83aa : takes B, x, VO, O, y : boolean; G9e : integer array returns boolean chillax end rq : takes w82a : boolean returns nothing h9Naa, S : boolean array; chillax end main : let Y[50 rem true] = - (87) rem Jw and 2 or(8) or 021 - 89 /= true and 8 end

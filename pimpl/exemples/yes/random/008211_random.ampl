@@ -1,0 +1,1 @@
+program e : g5 : takes BZ8, e0y, SK1aa, BG : integer returns nothing do c(not 8 - 8260 - 4, 401 - 6, 9500 = 95, 4); output "2" . "" . 486 . "" end main : do KO(- not false and true rem 08 and 9 > i[2], - 5 rem not 5 or not 1 and 36 or 0 - 1 >= - false and 1) end

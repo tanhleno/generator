@@ -1,0 +1,1 @@
+program K33 : W3 : takes K : integer array returns boolean nm2a, Y, L, L, XN1 : boolean array; pop - 86 - 8 /= 81; output "" . "2" . 20 . "\n" end main : while - not true and true > false * 4 : while - 3 - 5 : chillax end; output ""; when case 41700 : pop end otherwise : chillax end end end

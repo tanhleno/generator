@@ -1,0 +1,1 @@
+program Y : I : takes h : boolean array returns nothing let X = 6 - 505 /= 86; let UM[56] = 82 end F : takes d, UER0a : integer; _C : boolean array returns nothing chillax end main : Y, iq, W, r4, y : integer array; output "{" end

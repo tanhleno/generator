@@ -1,0 +1,1 @@
+program T3 : v57aa : takes lf, M, SuV0a, Apv, K410 : boolean array returns boolean jA7 : integer array; U : integer; chillax end main : when case - q[02] and not G and true : chillax end otherwise : when case 6 = 4 : while 6 : chillax end; pop end otherwise : pop end; output "=7\""; output ""; while 80 : chillax end end end

@@ -1,0 +1,1 @@
+program db : main : j, mQ5 : integer array; output "\n&0a"; while bQ6[90] = - true and 3 + 674 - 6 : let Q3l[228] = array 3; input J; while 6 : chillax end; do v(9); pop end; while 30 - 6 : do ZC(0); when case 3340 : chillax end end; while - 4 : when case 5 : chillax end end; pop end

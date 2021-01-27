@@ -1,0 +1,1 @@
+program V : x : takes s, o, O : boolean returns integer array F : integer; chillax end main : m, Hc90a, b, g, Xo, c : boolean; let H = array true; when case O23(0) or true and 60 or 46300 - 1900 : chillax end end

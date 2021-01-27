@@ -1,0 +1,1 @@
+program di50a : a : takes kGRaa : integer array returns nothing while - true < - 04300 - 19 : chillax end; pop end main : B : integer array; T : integer; while true : chillax end; let e[- false] = array - J[80] + e and 94 or 6 - 81 end

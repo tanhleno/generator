@@ -1,0 +1,1 @@
+program i : P3 : takes bn4 : integer array; J0, C14 : boolean array returns nothing let H3 = array - 53 end main : U, hQ, t : boolean array; L, s, m, oSm : integer; b, V0m : boolean array; uT, O7 : boolean array; let w[- Q[2] - 0 + true and 464] = - 9 * h5v and 2; let s[false rem not 7 and 3 + false] = (0440) < - 704 end

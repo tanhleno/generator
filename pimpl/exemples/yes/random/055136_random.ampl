@@ -1,0 +1,1 @@
+program z3r : M : takes b7 : integer array; U, zu6a : integer array; Sl : integer; I, Yt, j : boolean array; Ch9 : integer array; c : integer array returns boolean zI7a, I : boolean; let v[false] = array true - 1 - 5; pop 9 = 84 end main : x6, Q3, AFN, s : boolean array; q0O, z, K, U : boolean; c, R : boolean; let h2 = array - true end

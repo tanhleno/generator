@@ -1,0 +1,1 @@
+program LV8 : bE : takes K8 : integer array; D : boolean; H4, v5, n, l51a, r0taa : integer returns integer array a : boolean; L, m : boolean array; input Jx2aa[- false and 8080]; do J99(59 - 0); when case 3 : output "_\"!" end case 18400 : chillax end end main : pop end

@@ -1,0 +1,1 @@
+program g : b : takes z : integer returns boolean chillax end x : takes W : integer array returns integer chillax end main : T : boolean array; do Z(ql2(8) + false * 2); output not 8 + 3 . "\t" . "" . 87 end

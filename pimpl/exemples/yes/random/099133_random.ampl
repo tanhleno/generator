@@ -1,0 +1,1 @@
+program m : main : while false : chillax end; when case - 08 or true or 1 - 8 /= - not 523 and 02900 : output 6 . 04 end case - (8180) + 5 - 4 : let WBO0[2] = array 0; when case 2670 : chillax end; while 0 : chillax end end end

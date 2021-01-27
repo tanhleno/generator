@@ -1,0 +1,1 @@
+program Ed : ew : takes b, w6 : boolean array; w11 : integer array returns nothing let X2[- Lc and 4 or 60 - 88] = 8 - 2 end main : U : boolean; Y2 : boolean; do h(false); do V7(949 rem 08 or not 99300, - Fv and 2 - 8) end

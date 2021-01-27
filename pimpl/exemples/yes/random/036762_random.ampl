@@ -1,0 +1,1 @@
+program K4 : V83 : takes cbB0a : boolean; U : integer array; l0X : boolean; e : boolean; Z, C2Q : integer array; T, U : integer array returns boolean while - not 22 : input B end end G : takes p4f : integer returns boolean i : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program zOf : q5 : takes u, x, T4ea : integer array returns boolean WG, dX, j43, F, P : integer; e6b, B210a : integer array; t : integer; iZD0 : boolean; c : boolean; F6 : boolean; chillax end main : G0 : boolean; pQ, n, lC, Mja, t5 : boolean array; chillax end

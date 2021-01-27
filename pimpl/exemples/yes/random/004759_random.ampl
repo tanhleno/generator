@@ -1,0 +1,1 @@
+program x : W : takes P8faa, k, I9, Pxt : boolean array; o55, G31, Q, Wv : boolean returns boolean A9Vaa : boolean array; e, s : integer; chillax end main : let h[- 95 rem true / 261 and 033 + not 61 / (82) and 9 + true - 90 - 65200] = false or not 9 - 2 < (7) and 90700; do f(e0 - false + 95) end

@@ -1,0 +1,1 @@
+program Z : F8 : takes e : boolean array; u, g, n, BE, f : boolean array returns boolean array W, I : integer array; Tc : integer; Nbr0, B, K8H0 : integer; let f3 = array - true and 04 + 5 - 7; pop 1 = 3 end main : n : boolean array; R75 : integer; chillax end

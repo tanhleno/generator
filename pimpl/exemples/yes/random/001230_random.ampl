@@ -1,0 +1,1 @@
+program h4 : K : takes c, _9, O, tHw0, GU7aa, wC : boolean array; p, e, p : boolean; f1, Eq10, o9Xa, Su : boolean array returns integer array when case s and 0 or 9 - 93 < - 9 - 4 : let n = array 98 end end main : J, E : boolean; R : integer; chillax end

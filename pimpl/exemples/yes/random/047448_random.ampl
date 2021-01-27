@@ -1,0 +1,1 @@
+program nXS0 : G : takes o : boolean returns nothing chillax end w88a : takes qHEaa, S : boolean returns integer array do F(80 - 4, 711, 1, 3) end main : A1, E6, O : integer; Z, FF, I : boolean array; input Si end

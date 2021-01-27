@@ -1,0 +1,1 @@
+program P : I : takes d6Ta, D3, i, N, X : integer array returns integer array when case 609 and 0 - 26 : chillax end otherwise : chillax end; input B[- 599]; input J[81]; while 2 : chillax end end main : P : boolean; l420 : boolean; v, E, O0, B, fd1 : boolean array; chillax end

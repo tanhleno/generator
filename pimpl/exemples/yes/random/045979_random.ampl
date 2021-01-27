@@ -1,0 +1,1 @@
+program R : WO : takes O8 : boolean returns boolean chillax end main : ZO5, h : boolean; v : integer; while - qs[7] rem 739 * hq and 5 or(3) <= - O(7800) or 781 : let j = array - 4 end; output "" . "" end

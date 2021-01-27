@@ -1,0 +1,1 @@
+program N3b : N : takes F : boolean returns boolean array aDl : integer; input E[true]; do m8(60); output 6 . "3\"" end main : when case - 8 - true /= - false / (50) or(579) or 73 - 0 : chillax end case false + not 0 and 905 : chillax end case - r + 8 : chillax end otherwise : chillax end end

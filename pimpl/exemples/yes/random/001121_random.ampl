@@ -1,0 +1,1 @@
+program n : s : takes H, f17, lXpaa, e, o, d1 : boolean; VY6aa, rG : boolean returns nothing output ""; output "" end v : takes Q : integer returns nothing S : boolean; chillax end main : dT : boolean; chillax end

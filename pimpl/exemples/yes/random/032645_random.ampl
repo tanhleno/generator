@@ -1,0 +1,1 @@
+program S3 : pL50a : takes kB, x : integer returns nothing m, U : integer; chillax end M4 : takes v, DR : boolean; S3 : integer array; F77, z460 : integer array; _Nn0, I7v0 : integer; I1 : boolean; M : boolean; J : boolean returns nothing do M5(- 05 - 0) end main : t : boolean array; chillax end

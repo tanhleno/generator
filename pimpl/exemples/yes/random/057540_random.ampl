@@ -1,0 +1,1 @@
+program tD60 : v9 : takes h9M0 : integer array; lPA : integer returns nothing f2 : integer array; Y8 : boolean array; p : boolean array; chillax end main : input Zu; do J(- true * not 8 and 2940 + false + 6 <= (0330) + 107 - 2, 55 and 3320); input df[- 31400 + 618 - 74000] end

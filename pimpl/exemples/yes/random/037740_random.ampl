@@ -1,0 +1,1 @@
+program i : w : takes K : boolean array; e0, JDta, D, h : boolean array; sz, Gg : boolean array returns nothing when case - E and 53 + 8 - 9 : chillax end; while - 556 - 1 : chillax end end main : v, a, B : boolean array; input m13[- 8 * true - e(91) rem 0] end

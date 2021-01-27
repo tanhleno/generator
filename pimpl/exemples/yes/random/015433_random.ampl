@@ -1,0 +1,1 @@
+program jk : DJ : takes k070, _5, e : integer array returns nothing q3 : boolean; R : integer array; _z : boolean; while - (5) + 6800 - 276 : when case 40200 : pop end otherwise : chillax end end; output "Ii"; while 0 = 4 : input Q; pop end end main : while true * kD8 rem o and 13 /= true / 690 - false and 375 - 81 - 8 : chillax end end

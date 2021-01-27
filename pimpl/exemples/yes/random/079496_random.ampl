@@ -1,0 +1,1 @@
+program n : main : F8 : boolean; J : integer; i, H560a, b24a, W7r, Pu : boolean array; let O[false * i[4360] / not 7 and 2 - y / not 951 + (2) and 31] = - true and(868) and 574 + false and 49200 >= p79a and 1 + 17 - 04900; pop; pop - 489 - 64 end

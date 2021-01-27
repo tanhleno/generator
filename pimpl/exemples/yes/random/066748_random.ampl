@@ -1,0 +1,1 @@
+program V740 : main : do tX0aa(- 3 rem(4) and false and 3 or false * (744) = - kh - (46) - 199); when case(258) <= - (4) and 0 or 9090 : output "" . "" . "\"8" end case 3 and 1 = - 8 - 2 : chillax end end

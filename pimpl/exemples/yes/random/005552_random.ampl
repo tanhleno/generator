@@ -1,0 +1,1 @@
+program A9qaa : T3 : takes D, X_, GR, C360a : boolean array returns nothing chillax end a : takes WM : boolean returns nothing x5, i : integer array; J1, IZ, s1 : integer array; pop 3 = 17100; output "" end XlW : takes S : integer array returns nothing do Pxeaa(004) end main : chillax end

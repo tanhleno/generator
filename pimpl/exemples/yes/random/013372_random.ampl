@@ -1,0 +1,1 @@
+program aN : a : takes W, Xw, o : integer; ee : integer; k4, bh9 : boolean array; A290a : integer array; Q : integer; h : integer array returns integer array chillax end main : zKQ, X, X, Y04 : integer array; while - (32 = 232) rem false + T(4) * (63) and 79 - not 59 - 5 <= - not not 6 : pop end end

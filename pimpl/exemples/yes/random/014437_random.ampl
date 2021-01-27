@@ -1,0 +1,1 @@
+program g : a : takes H54aa, xT, w : integer array; z44a : integer; B : integer returns nothing cZ : boolean; A, D, _aka : integer; s5 : boolean; let o0[not 9 + 7 - 93] = 6 - 1 >= 0; output 2 = 62100; let I = array 388 end main : input D8I[true * (18900) + not 8]; let _6 = array not(02) rem(0) and 82; let F[- false] = - 5 - 08 end

@@ -1,0 +1,1 @@
+program F : D : takes l, kz, N, tJ7a : integer; k : boolean array; QeS, p : boolean array; U4, Z, qH : integer; z : integer; XIXaa : boolean; n03aa : boolean; H : boolean; J : boolean returns boolean array u : boolean; ME : boolean array; l2, W : integer array; A, Q : boolean; do P(not 9) end main : pop C7Kaa and(5880) >= - 34 end

@@ -1,0 +1,1 @@
+program Ag20a : main : while St80 rem true / (1) and 5 + Y02aa[01] : when case 1 : chillax end; input K[81] end; while true - 2930 and 6 - 5 : chillax end; while - (0) and 5 or 3 : let u = 51 end; input T; while 3570 : output "" end; when case 8 : pop end case 422 : chillax end end

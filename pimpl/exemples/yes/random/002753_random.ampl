@@ -1,0 +1,1 @@
+program P8 : A0 : takes F5, d, I, H, x4 : boolean array returns nothing chillax end i : takes T : boolean; M6, I, Vq, rvD : boolean array returns boolean INa : boolean array; I, A : integer; ITea : boolean; L2 : boolean; Y : boolean; input sk; while 7 : let t = 22; pop end end main : z9, c : integer array; V : boolean array; A : integer; pq : integer array; chillax end

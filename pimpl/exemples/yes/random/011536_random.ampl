@@ -1,0 +1,1 @@
+program h0 : T : takes kv30a, K, k4 : boolean returns boolean array chillax end S : takes w, o34, vpB : boolean returns integer chillax end U : takes uS : boolean array; eX6 : integer array returns integer array chillax end main : chillax end

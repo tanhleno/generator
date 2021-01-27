@@ -1,0 +1,1 @@
+program J : O : takes C, _4n0 : boolean returns nothing K, L6e0a : integer array; G530 : boolean; chillax end main : qG9 : boolean; do E(7 - 40 and W2D0a - 6 and 3260 >= true or true and 3, false * true and 0700 or true and 434, - not 0 >= - 3 - 51, - 11600, 59 = 27); let B6N = - (0) and 84 + 05 - 345; when case - (95) : chillax end end

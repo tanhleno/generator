@@ -1,0 +1,1 @@
+program hz : i59 : takes ma, X : integer returns nothing let Y = array U or 4 - 9 end or0a : takes R : boolean array returns nothing chillax end S : takes N0s, x5, p, E : integer array; K : boolean returns nothing EW : integer array; input FF6 end main : mij, E, Jx, o, fxJ0a, B : boolean; k, wp, X6Ba : boolean; chillax end

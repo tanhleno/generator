@@ -1,0 +1,1 @@
+program D05 : u0H : takes BI8 : integer array returns nothing C69, c4_ : boolean; when case(2) and 8 + 452 - 6 <= 60 : chillax end case 2 <= 9 : let T = 33900 end case 946 : pop end; pop 9; pop; while 818 : pop end end main : output YF9 rem true + false and 5 or 627 - 56 end

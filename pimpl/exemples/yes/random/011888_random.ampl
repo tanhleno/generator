@@ -1,0 +1,1 @@
+program GL3 : Bk1 : takes s, QY, n : boolean returns integer chillax end dh : takes u : boolean array; H : integer returns nothing while 1 > 8 : pop end end main : _t : boolean array; let sg1a = - tuX(89600) and true and 95 end

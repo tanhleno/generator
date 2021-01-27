@@ -1,0 +1,1 @@
+program D : P : takes G3, N0u0 : boolean array; m : integer array returns boolean chillax end main : IZK0a, c4C, hC : boolean array; when case - true and(0) * (5750) and 01 + not(4) + U : chillax end otherwise : chillax end; do z2(- true and 4 or C3 and 0 or 4 - 2, - false and 3 + 00 - 2, 68 - 8930 < 32, 7 = 7, 1, 37) end

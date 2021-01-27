@@ -1,0 +1,1 @@
+program C7Ka : Zc : takes VH8 : boolean; HA, L, m, Rv, L : integer array; V520a, p, A4 : integer array; yj, F : boolean array; KHW0 : boolean array returns boolean array MBv0, M3, O6 : boolean; h1 : boolean array; F60 : boolean array; chillax end main : chillax end

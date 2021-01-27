@@ -1,0 +1,1 @@
+program o : z : takes N8 : integer returns nothing Q : boolean; output 2 - 26 . "" . 23 end main : when case - u6q[55700] / true - (83) or false or 8 : chillax end case true * true and 4 : chillax end case 3 : when case 0 : chillax end otherwise : chillax end; while 4 : chillax end end case - 40 - 45 = 006 : output "" end case 6 = 37 : chillax end otherwise : chillax end end

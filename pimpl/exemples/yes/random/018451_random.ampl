@@ -1,0 +1,1 @@
+program s : hk6 : takes ki, R : boolean; w : integer array returns nothing K : boolean array; do N290(false and 8 - 43000 - 3, 31800 - 51); input t0[5 - 5]; pop end w : takes i, k : integer; I : boolean array returns nothing when case - 4 > 75 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program W94 : S : takes p, oMx : boolean array returns nothing Q, _, W3Z0, o : boolean; R : integer array; F35, G1 : integer array; U53a, r : boolean; do x(- F - 30 <= - 97 - 4, 3 - 7, 1 = 6) end main : F : integer array; Mtr : boolean; oq, q, m7, k, Q : boolean array; chillax end

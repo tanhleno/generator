@@ -1,0 +1,1 @@
+program r : g0 : takes F710a : integer array; L0 : integer; l : boolean array returns boolean sa0, P : boolean; W, H : boolean; N6, d8 : integer array; output 59 - 35 . 59 = 1 . 652 end main : output "" end

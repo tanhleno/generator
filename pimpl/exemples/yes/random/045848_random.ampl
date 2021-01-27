@@ -1,0 +1,1 @@
+program y : O : takes DvA : boolean returns boolean array when case - (3) : chillax end end main : Hm, h540 : boolean array; a : boolean array; KR : boolean array; pop - W(7) - (4970) < i and 98 - 6; let W = - not 04 + 2 - 253 /= 16; while true : when case 4 : pop end otherwise : chillax end end end

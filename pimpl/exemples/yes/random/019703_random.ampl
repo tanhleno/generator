@@ -1,0 +1,1 @@
+program rIO0a : T : takes a, Jq : boolean array; ojI : boolean; Hh5a, Mp : boolean returns nothing b3 : boolean; chillax end _r1 : takes F, deB : integer array; kFp0a : boolean returns nothing chillax end main : P, Qr0a : boolean; RxP0 : integer array; chillax end

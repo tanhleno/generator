@@ -1,0 +1,1 @@
+program m : q : takes v, J : boolean returns boolean array j, o3Ua : boolean; a3 : boolean; O : integer; output "\n6" . 1 = 52 . "" . 7 . "a"; while - 95 - 5 : do d(2100); input m3 end; pop 639 end main : chillax end

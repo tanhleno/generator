@@ -1,0 +1,1 @@
+program VVs0 : o8q0a : takes ve, C4, a : integer array; j3va, ZF : integer array; QW, X, R : boolean array; DQO0a : boolean array; kS, uscaa, UHb : boolean array; R4Ga, C : boolean array; v : boolean returns nothing pop; do lhc(- 6 - 44) end main : chillax end

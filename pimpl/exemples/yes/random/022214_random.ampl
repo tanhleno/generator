@@ -1,0 +1,1 @@
+program Q4 : a : takes E, g : boolean array returns nothing mT, P95, a : integer array; b, D68, q, QP7 : integer; qh, JqCaa : boolean; z, Cy00 : boolean; chillax end S3 : takes o : boolean; V1 : integer array; j : boolean returns nothing pop end main : y, m3q : boolean; output J1(1) rem false <= 0 and 4010; output "U" end

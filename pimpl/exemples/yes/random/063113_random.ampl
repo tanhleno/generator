@@ -1,0 +1,1 @@
+program r8Xa : Kf : takes z : integer returns integer array output 4 < 4 . "(7\""; input V; do N(0 = 372); do I(60, 0); do Bd(351) end w : takes k : integer; m8Yaa, SO, HB : integer array returns integer array pop 6 end main : chillax end

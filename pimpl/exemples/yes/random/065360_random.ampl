@@ -1,0 +1,1 @@
+program N : q : takes X : integer returns nothing output "m" end main : a, Gb : integer array; m, _kYaa : integer; z, XN, E : integer array; l : integer; H5, jSV : integer; while false rem Rl / Mx5 + 1 and R = - false - false - 1 - 0 : chillax end; pop - (1) > - 79 end

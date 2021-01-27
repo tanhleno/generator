@@ -1,0 +1,1 @@
+program R : main : X : integer array; C, we, Y : integer; output true * j and 8540 or(319) and 24 . 5 and 0 - 4; while 1 rem not 003 > not 48 and 4 or 5 - 5450 : while 7 : chillax end end; while - false and 49 or 61 - 08 : while 327 : pop end end end

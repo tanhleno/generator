@@ -1,0 +1,1 @@
+program E : main : when case true or true / false or false and 32 : pop; input Y[3] end case 8 / h and 54 - false and 1 + 7 - 6 /= - false : input Y0 end; output(3760) and 378 - 16000 = - 2 - 1 . "" . "&}\"a" . 8 . "\\" . "."; when case false and 2 or 3 - 128 : do f(71, 1) end case - 639 - 6 >= 47500 : pop; when case 4 : chillax end end end

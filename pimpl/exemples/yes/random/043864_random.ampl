@@ -1,0 +1,1 @@
+program Q : H : takes G5L0 : boolean array returns nothing do W(- not 64 and 21000); while - 5 - 8 : chillax end; input YEdaa[4]; let Z8 = array 21; pop end main : let s[k0(052) or true] = - _(0) and false and 918 + 8 and 3 - 19100 - 9 >= - not 45; output "" . "\\Aaa" end

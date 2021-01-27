@@ -1,0 +1,1 @@
+program G9 : B1 : takes G : integer returns nothing let n[- (25500)] = array true and 3 + 9 - 8 end N8 : takes un, Z : boolean array returns nothing chillax end main : r : integer array; when case - (94) < (69) : chillax end end

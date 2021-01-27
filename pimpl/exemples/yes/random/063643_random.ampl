@@ -1,0 +1,1 @@
+program l : gyc0 : takes t : integer returns nothing chillax end aB : takes x, V2, Yj8, U : boolean array; K9ia : integer array; v3sa, C5, N, iJ2, sQo0 : boolean returns nothing input Az end v57 : takes li, V, X : boolean array; T3n0 : integer returns integer chillax end main : output "!3a" end

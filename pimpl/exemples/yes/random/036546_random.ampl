@@ -1,0 +1,1 @@
+program Q84a : O : takes O : boolean; e : integer; k : boolean array returns nothing while - H5 + 5900 /= 0440 : output 41 . "[7" end end M2 : takes n, Bqka : integer array returns nothing when case - 83 - 15 = 7 : chillax end otherwise : do A2(82); pop end; input L4; when case 931 : pop end otherwise : chillax end end main : chillax end

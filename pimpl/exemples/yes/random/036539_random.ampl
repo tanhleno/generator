@@ -1,0 +1,1 @@
+program _ : jc4 : takes J9H0 : boolean; uO : integer; s : boolean array returns nothing P : boolean array; when case 07000 and 8 + 95 : pop 82; pop; do r(0); pop end otherwise : pop end end k6 : takes Re : integer returns nothing chillax end x : takes c, A : boolean; H : integer returns integer x0, m9Y : integer; z7Y0a, K3d : boolean; chillax end main : chillax end

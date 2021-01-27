@@ -1,0 +1,1 @@
+program K8p0a : cP1aa : takes X : boolean array returns nothing when case - not 1 and 1 : output 34800 . "" end end main : while C(5) and(0) rem 92800 and 41 >= - not 33 rem true or false and 7 or 8170 : when case 0 - 30 >= 3 : chillax end; output 41 . 7810; pop; output ""; pop end end

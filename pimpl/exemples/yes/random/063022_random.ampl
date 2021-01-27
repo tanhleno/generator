@@ -1,0 +1,1 @@
+program e : kT : takes X : integer returns integer array M : integer; H, b : boolean array; chillax end V9x : takes e : integer array returns integer array J, M9 : boolean; H : boolean array; chillax end main : do u(- zR8[9810] rem false) end

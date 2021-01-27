@@ -1,0 +1,1 @@
+program TD5a : x : takes _9 : integer array; w530, q5 : integer returns integer while true - 7 - 724 : input G[77] end end main : let I98[KA2aa + false rem true or(46) and 4 + 1 - 67] = array false end

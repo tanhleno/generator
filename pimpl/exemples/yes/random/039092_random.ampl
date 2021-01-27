@@ -1,0 +1,1 @@
+program N : Rg : takes t : boolean array; yO, T0R : integer array; j26, a, y5, u, gTL : boolean array returns nothing chillax end main : J : boolean; while true rem(35) : let rU = 54; input i[6] end end

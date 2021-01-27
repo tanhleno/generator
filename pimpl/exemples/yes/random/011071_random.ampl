@@ -1,0 +1,1 @@
+program I : v51aa : takes C1Da, rv30, S : boolean array returns nothing chillax end Nr : takes GT9 : boolean array returns boolean array do J(6 <= 8, 0 = 768, 0, 01); input hD00a[6700]; input b[2] end main : HW : integer; pop - true + b230 and 4 or 58 = - 8 and 0 end

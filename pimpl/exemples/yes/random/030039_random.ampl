@@ -1,0 +1,1 @@
+program H020 : V : takes zSk0a, e2taa : integer array returns integer G, q2Xa : integer; output "" . ""; output "/~" end main : do I(- m(61800) and not 7 * false >= - (92), - false - cy and 3 or 509 - 6320 > not 3 and 89, not 22 and 7100 - 7 = 4 - 0); input y end

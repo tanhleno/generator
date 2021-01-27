@@ -1,0 +1,1 @@
+program Q : F : takes R : integer array; L_, R4, y2, j5 : integer array; x1 : boolean array; UA : boolean array returns nothing chillax end Y : takes Zt : boolean array returns integer pop 95 = 79; input G[6]; when case 3 : pop end case 8 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program z : i2 : takes p : boolean array returns nothing when case - not 3 and 9560 : chillax end case 5 - 7 : output "J-aa"; when case 42 : chillax end; pop end case 65 : pop; pop end case 4 : chillax end end I : takes n0Saa, R9 : boolean returns nothing D7 : boolean array; w, x8 : integer; let S2k[99] = 7 = 804 end main : chillax end

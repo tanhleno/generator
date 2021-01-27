@@ -1,0 +1,1 @@
+program i : M : takes ahJ0a : integer returns nothing pop; when case - 19 : input G end case 46300 = 9 : chillax end case 0 : chillax end case 2 : chillax end; while 0 = 6 : when case 8 : chillax end end end main : let s[- 8] = array U18 end

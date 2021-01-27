@@ -1,0 +1,1 @@
+program uz80a : GB6 : takes L23, Z : integer returns integer array O : integer array; y5 : integer; chillax end f : takes i_, d13, Z : boolean array; q, R0o0, F20 : integer returns integer while - 4 : output "\n"; while 7 : chillax end; pop end end main : chillax end

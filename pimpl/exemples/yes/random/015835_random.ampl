@@ -1,0 +1,1 @@
+program s : M : takes f8, AP, Dr : integer returns boolean N : boolean array; F5g : integer array; chillax end E94 : takes YL3, qC, n3Y, U, s : boolean returns nothing let yFA = array 79 end main : q, yps0 : integer array; zWva, D, t, C, E : integer; K0 : boolean; Q5va, R5Y : integer array; d : boolean array; chillax end

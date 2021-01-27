@@ -1,0 +1,1 @@
+program c : main : do hq(- r / (5) and true + not(6) and KG90a - 9 and 10400 = - 9 + false and 06, true + true + 9); let p54[- not false / false and 81] = array 8; input b52aa; pop 7 = 85800; let o[55] = 4 end

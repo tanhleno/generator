@@ -1,0 +1,1 @@
+program _ : F : takes QM, o : integer; Bqc : integer array; E4, Z0, QN : boolean; DlIa, M : boolean; C6, e : integer; g : integer; t, Y5 : boolean returns integer while p8 : do U4(0, 64); output "b]" end end main : do I4(false / not ZD = false * false and 22 - not 4 and 4 or 3 - 3, false + 49 > false and 11000 or 1 - 564, - not 6 <= 7 - 0540) end

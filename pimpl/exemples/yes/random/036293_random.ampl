@@ -1,0 +1,1 @@
+program dz : b : takes Te : boolean; Y : boolean returns nothing X, HS, _6Ua : boolean; j : boolean; let o[- false and 344 + 55] = array - false; input c8 end main : do S(true * false and 0 and 2 <= not false * false, - not true - (4) /= (42), 8, 463 - 2, 2) end

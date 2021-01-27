@@ -1,0 +1,1 @@
+program cX : _g : takes o, Y7, j, Ma : integer array; F : boolean array; C69 : boolean array returns boolean when case - 6 and 12100 - 5 : chillax end otherwise : chillax end; pop 550 = 7; output "T" . "8!0a" . "CV\"" end cy : takes d4m, Ta : boolean returns integer chillax end main : pop; while - H[399] + (865) + 77 < - 49 : chillax end end

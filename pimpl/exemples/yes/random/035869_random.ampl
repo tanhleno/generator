@@ -1,0 +1,1 @@
+program H : l2 : takes Fg : boolean; C12 : boolean array returns boolean chillax end main : n, j : boolean; while - m[5] / 0 * (4) and 7 < true : output ""; do o(2); output "" . "" end; do yn(- not not 1); input zJx0a; pop 4 = 7; pop 5; let _jz = array 9; when case 1 : chillax end end

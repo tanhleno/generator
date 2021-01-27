@@ -1,0 +1,1 @@
+program wny0 : Slw : takes hU : integer returns integer array _y1 : boolean array; when case - rQLa + 1 - 07500 < - 6 - 3 : when case 92 : pop end; do v(74); output ""; pop end case - 172 : chillax end end main : do Xa(- (68000 = 6) * F(21) = - H(5)) end

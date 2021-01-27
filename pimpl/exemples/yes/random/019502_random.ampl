@@ -1,0 +1,1 @@
+program s6 : Lw80a : takes y56a, Z : boolean array; d, yz : integer array; C46 : integer array returns integer array let p[true and 78300] = - 2 end main : i : boolean array; pop - v(63) rem true and 174 or f and 73 >= - (8040) and 41700 end

@@ -1,0 +1,1 @@
+program _1 : ew : takes k6S, e3V, SD : boolean; n : integer returns integer Y : boolean array; output - 3 - 5 . "\"" end q : takes D : boolean returns boolean do egHa(- 91 - 2680) end L8 : takes n, SR, K : boolean array; Vv : boolean; Z : boolean returns integer chillax end S : takes HH : boolean array returns integer array do M(90, 6) end main : q190 : integer; chillax end

@@ -1,0 +1,1 @@
+program X : x6 : takes p : boolean; Y, F, D, U60 : integer array returns boolean array chillax end V8 : takes E, y : boolean array returns nothing c : integer; pop 96; while 9 = 761 : input v93 end; pop 1 end main : D3 : boolean array; input V[- 57 or 23 and true and 3 + not 08 and 5]; input J56[(82)]; let h[true] = array - Gj and 4 + 7 end

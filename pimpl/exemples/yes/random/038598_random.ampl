@@ -1,0 +1,1 @@
+program n : wH : takes M : boolean array; b, KaH0a : boolean array; hx, K, p : boolean; Xr, g38aa : boolean; ZlL, f, G4a, S : boolean array; A2z, o5 : boolean returns nothing Qf : integer array; x, W, X, N8 : integer array; K8Daa : boolean array; pop; when case - 32 - 1 : let dQ = 6; output ""; pop end; when case 06 = 7 : do Md0(43) end case 2 : chillax end end main : chillax end

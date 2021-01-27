@@ -1,0 +1,1 @@
+program V76 : _ : takes eR, t : integer array; pi, k, E : integer array; f3w, C59a, H, T, s : integer returns nothing S, vt2a : boolean array; chillax end main : let t = array - (1230) / LT3[2] and not 9800 and 47000; let q9t = false and 2 - 3 < 395 end

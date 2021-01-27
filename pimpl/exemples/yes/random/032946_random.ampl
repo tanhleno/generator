@@ -1,0 +1,1 @@
+program QR2 : h9 : takes L, Y8 : integer returns nothing b : integer array; c0 : boolean array; chillax end Iq4 : takes D, yYb0a, Q3Wa : boolean array; pU, H3 : boolean returns boolean l, y4 : boolean; chillax end main : f, rX : integer; D2 : boolean; chillax end

@@ -1,0 +1,1 @@
+program U13aa : v : takes Do : boolean array; R : boolean array returns integer i, ZJU : boolean; let wX[true and 9] = 21 end vZ : takes D : integer; J94, Tt, XX, mC, Y45 : integer array returns nothing g, zt5a : integer array; pop 19 = 1 end main : f, gj, D36 : boolean; M, qWm : boolean array; let S2[false rem 26100 / (054)] = - false; pop not 14 and 3 end

@@ -1,0 +1,1 @@
+program mPc : s75 : takes qy9 : integer; E51 : boolean array returns integer Y70 : boolean array; s0, hc9aa : integer; when case - (60) + 1 - 4 /= - 97 - 3000 : pop; input cVp end case - 90 /= 9 : while 2800 : chillax end; do Nb(4); pop end case 49200 = 2 : chillax end end main : chillax end

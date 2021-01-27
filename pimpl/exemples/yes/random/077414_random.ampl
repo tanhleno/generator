@@ -1,0 +1,1 @@
+program m4 : main : i0, q4 : integer array; R, sE50 : integer array; do v2(LR(0, 7), - 71 or(19) and 5); when case mC(44) / B : when case 521 = 608 : let c = 6; pop end otherwise : chillax end; while 83 : pop end; do oa(4); let P = 2 end case - 7 - 2 - 41 : chillax end otherwise : do f(5) end; input k98a[- xr2 - 2] end

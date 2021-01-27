@@ -1,0 +1,1 @@
+program m : F : takes l : boolean array returns boolean pop 35 - 7 < 95; input TU2aa; pop end main : when case - true / (1) : while 57 - 1 : pop; when case 0 : chillax end end end case 9 * not 48 and 03 or q and 63 /= - (4) : chillax end otherwise : output "" . 50 end end

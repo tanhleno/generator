@@ -1,0 +1,1 @@
+program R3E : main : input EYw[- false * 3 / not 30 and 6 or false rem(4940) or false and 2 - 74]; while 55 rem 4 or not 133 and 0 + 104 /= - true and 23900 or 9 : output 9 . 7500 . "\t\\"; let e9O = array 005 end end

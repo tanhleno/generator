@@ -1,0 +1,1 @@
+program Oe3 : C : takes B, y, y, ZY, J : integer array; h, qY3 : boolean array returns nothing C_, e : boolean array; chillax end T : takes YH, v : boolean; h : integer returns nothing chillax end main : output false * false or false . ":$0" end

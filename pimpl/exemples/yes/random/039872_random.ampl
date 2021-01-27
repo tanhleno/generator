@@ -1,0 +1,1 @@
+program iQk0 : sb : takes _ : boolean array; u : boolean array; H : boolean array; Ek, uE_, pP40 : boolean array; z9, M : integer array; v : integer returns nothing h : integer; RBX0, d13aa : integer array; y, S5, x : integer array; input C end main : while - not true / (79) * (8220) and 2 >= (19800) / not 1 and 6 + R and 1 + 29 : chillax end end

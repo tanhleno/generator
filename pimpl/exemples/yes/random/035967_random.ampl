@@ -1,0 +1,1 @@
+program hA : G : takes Kib : boolean; nVM : boolean array returns integer when case false < 446 : chillax end; let z = 5 end main : pop; output - false - 0 >= - 46; when case 48 and 791 + 2 : chillax end case 5 : when case 873 : chillax end; do b(6); pop end otherwise : input o end end

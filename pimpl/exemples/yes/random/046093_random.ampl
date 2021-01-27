@@ -1,0 +1,1 @@
+program _W : n : takes h : boolean returns boolean E9, m, T : integer; let tX = 3 - 04 > 27300 end Vd00a : takes I2 : boolean array returns nothing output 49 = 7 . 04200 . 4 . "" end main : K, r, S, t, F4 : integer array; do X5I(- true + false and true - (2) and 7950 + 09 = - o, true) end

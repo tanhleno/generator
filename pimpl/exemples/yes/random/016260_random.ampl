@@ -1,0 +1,1 @@
+program y : J8 : takes q, Q, k2xaa : integer returns nothing do J(- jbG and 7 - 11 > 68 - 53); when case 970 - 08100 = 2 : while 56 : chillax end; input H53a; pop end case 4 = 299 : while 50 : chillax end; pop end end main : u : integer; PH : integer array; I, O : boolean; O1 : boolean array; output X * 25500 end

@@ -1,0 +1,1 @@
+program l : l61 : takes t5 : boolean; B : integer returns nothing s9 : boolean; HXj : boolean; output 481 - 0430 . "Ni"; when case 2 - 5 : chillax end case 19300 : chillax end; while 2 : while 75 : chillax end; pop end; when case 779 : pop end case 70 : chillax end end main : r : boolean array; chillax end

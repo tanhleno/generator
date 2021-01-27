@@ -1,0 +1,1 @@
+program FJ10 : q8haa : takes A, Li6, s, SR50, i8, vu80 : boolean array; O, S : integer returns nothing Az : integer; L : integer array; Vo : boolean; chillax end main : while - false - true <= 1 - Y6 and 93 : pop 955 = 6770 end; let D_b = - F > 6 end

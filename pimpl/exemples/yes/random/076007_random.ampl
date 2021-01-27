@@ -1,0 +1,1 @@
+program OJ : main : I, O1 : integer; w, h6, r : integer; t, _, c, E, ss : integer; Z : boolean; QH, X, d : integer array; do B2t(33 + 78 < VUda and(51) or(91) and 8 + 5, not Ke, false); while - (1) : when case 15 : chillax end case 10 : chillax end case 84600 : chillax end otherwise : pop end end; pop 9940 end

@@ -1,0 +1,1 @@
+program i : Kieaa : takes j, x1 : integer returns integer array Pu, Jp60 : integer; chillax end oZ3 : takes v, F, A : boolean; f, u : boolean; g2, K, Q1O, g74aa, T3 : boolean array returns nothing GM, x : integer array; chillax end main : chillax end

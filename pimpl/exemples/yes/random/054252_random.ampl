@@ -1,0 +1,1 @@
+program t : M5 : takes N : integer array; a, Q62aa, YU : integer array returns boolean chillax end main : when case - false * false rem false <= T0(23) : let O[- 7] = array - 59; input cF; let e = array 4410; output "25"; while 2 : chillax end; pop end; do LM((5) / (2) - true < - 1, - true and 1450, 224 - 1 < 718, 47, 8) end

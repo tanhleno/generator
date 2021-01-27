@@ -1,0 +1,1 @@
+program w : M4_ : takes U62 : boolean array; n8Eaa, _p5a, M, SK : integer array; X, cRe, T, y0 : boolean returns nothing while - true < - 3 - 9 : chillax end end w : takes lD, JVlaa, u : boolean array returns nothing siN0 : integer; chillax end main : z7w, n1ja, cG, G, yCm, V : boolean array; k, R8 : boolean array; M13a : integer; wr : integer array; chillax end

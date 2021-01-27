@@ -1,0 +1,1 @@
+program E : main : output "5g" . "."; when case - true rem false - 1 and 9 >= - (5) and 33 + 13 : chillax end case - (24) and 292 + 252 - 5 : input g[64] end case 007 < 4 : chillax end case 64 = 102 : chillax end case 8 : pop end end

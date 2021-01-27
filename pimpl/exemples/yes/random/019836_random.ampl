@@ -1,0 +1,1 @@
+program v5w0a : k : takes B960a, e : boolean array; e_r0 : boolean array; Bx, I : boolean; X, i21 : integer array returns nothing L7, C, T : boolean array; Z7U : integer; H : integer; do g((415) and 1 > 30) end e : takes W : boolean array; DX1, x4 : integer returns boolean array chillax end main : chillax end

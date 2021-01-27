@@ -1,0 +1,1 @@
+program D : f : takes _Pe0 : integer array; g5 : integer returns nothing chillax end main : iTe, oYT0a : boolean array; a, Z, o : boolean array; A1 : boolean array; d : integer array; do eK(- false + not(5) < not not 36 or 0 and 0 - 0) end

@@ -1,0 +1,1 @@
+program qo : PF1 : takes Qbf, k : boolean returns nothing go1 : integer; PoHaa, O : integer array; chillax end main : T, S, t : integer array; S, z : integer array; C0, o, i : boolean; y4U, s : integer array; let K[false * not false - 32] = array true - not 5 or true + 1 - 0 end

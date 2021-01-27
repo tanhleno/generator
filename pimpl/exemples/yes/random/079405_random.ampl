@@ -1,0 +1,1 @@
+program clr : main : m2 : boolean; n : boolean array; M64 : boolean array; when case not jv20[40] and XS_[31] or true and false and 8 or false and 2 + 2 > - 31000 : output 24 . "" end case(5) * not 3220 - false + 86 : do B730a(1); let HM = array 22 end case(5) - 202 - 4 = 6 : pop; while 6 : chillax end end case 7 - 61 : chillax end end

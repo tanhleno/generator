@@ -1,0 +1,1 @@
+program u570 : u : takes b, Mp : boolean returns nothing Q4, b : integer array; f, A7T : boolean array; input oR[- not 8 - 0]; let fAK0 = 2; while 06 : input L; pop end; do R(09); input Un end main : C : boolean array; while - QwF <= not RP : chillax end end

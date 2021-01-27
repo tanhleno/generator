@@ -1,0 +1,1 @@
+program G : J : takes YI, Pk : integer returns boolean chillax end p3 : takes H, s, q : integer array returns nothing k : integer array; t, w, Ml : boolean; B : boolean; chillax end main : d : integer array; input QyE[- _3R(55100)]; pop(71200) or 9 - 4 end

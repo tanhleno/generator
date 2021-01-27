@@ -1,0 +1,1 @@
+program s1c0 : F530a : takes C : boolean returns nothing input Veq[0 or 5280 - 9900]; pop end P08aa : takes q : integer array; G : boolean array returns integer array when case 541 - 80 >= 5 : chillax end case 16 : chillax end otherwise : when case 7 : chillax end end end main : chillax end

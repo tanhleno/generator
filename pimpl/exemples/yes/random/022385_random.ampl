@@ -1,0 +1,1 @@
+program x : KA5 : takes hM, iq : boolean array returns nothing V : boolean; chillax end main : l : boolean; while 3 + Oy + not 9 /= true * false + 6 : pop end; pop - not 90 or 2 - 0 /= - 99; let z[true or 22 - 62800] = 2 - 3 < 27; do d(8 - 5); pop; do yG2(0, 426) end

@@ -1,0 +1,1 @@
+program D3 : K84a : takes U, HQ : integer; Z5 : integer; j, _, E : integer array returns integer array chillax end main : d9u0, G : integer array; u : integer; x0Ca : boolean array; Z, lyz0 : boolean; Oa, oY, A : boolean array; W5o : boolean; Td2 : boolean; output - 9270 or false or 3110 . "T" end

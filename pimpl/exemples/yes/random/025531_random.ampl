@@ -1,0 +1,1 @@
+program m : mw : takes L, c : integer; RG, R : boolean array; K : integer array returns integer chillax end PGw0 : takes k, fo : boolean; OJ30, _ : boolean array; O : boolean returns integer yy4 : integer array; chillax end b : takes R : integer array returns boolean D2 : boolean; input s; do y19(4, 00300); do W(0) end main : chillax end

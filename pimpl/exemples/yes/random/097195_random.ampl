@@ -1,0 +1,1 @@
+program T1 : main : when case not UZTaa[3] + not(77) * wm and 50600 /= (2) : when case 02 - 34 < 5 : when case 4 : chillax end; when case 2 : chillax end end end; do s(not not 5 / 2 or true and 4); when case false and 493 : chillax end end

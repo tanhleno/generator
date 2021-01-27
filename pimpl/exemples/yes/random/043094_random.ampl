@@ -1,0 +1,1 @@
+program vh : x : takes Qz60 : boolean array returns integer U, s, n : integer; e2s0 : integer array; c : integer; V, l : boolean; input s[1510 and 3 + 293]; input uy[- 97]; output 08100 . 05 . "5]0" end main : let oC1 = array - 57500 * (5); when case - not false * false and 52100 + false and 261 : while 4 : do qR(06); pop end end otherwise : chillax end end

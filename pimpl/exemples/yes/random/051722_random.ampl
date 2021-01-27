@@ -1,0 +1,1 @@
+program F_P : JZVa : takes g : integer; Lu4 : boolean array; X : boolean; i, X9, GZF : boolean returns integer uGU0a, IaT0 : integer; chillax end r : takes O9 : boolean array returns nothing output 5 . "" . "" . "" end main : chillax end

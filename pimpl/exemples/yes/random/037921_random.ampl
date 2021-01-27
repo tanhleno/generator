@@ -1,0 +1,1 @@
+program bru : ww : takes K : boolean array; q, I, D, m : integer returns integer array chillax end main : when case not not 7 <= - not 8 : output "" end case 6450 : chillax end; input s47; output "" end

@@ -1,0 +1,1 @@
+program y1A0 : h : takes R, T, X : integer; P4i0 : boolean array returns integer array while - not 3 - 65 - 73 /= - 879 : chillax end; when case - 284 - 4 /= 201 : input Y; let h5G0a = 3; pop end otherwise : chillax end end e : takes X : integer array returns integer array output "@,0a" end main : y : boolean array; chillax end

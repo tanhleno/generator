@@ -1,0 +1,1 @@
+program h : G : takes u0P0a : boolean returns nothing z, kP : integer array; pop - 443 - 30 end main : do f(- not 24800 - false > - false); do Paf0a((106) / not 2590 or(9) and 04 or 57 = R and 58 - 5, (6)) end

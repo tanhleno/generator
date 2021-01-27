@@ -1,0 +1,1 @@
+program U1 : g : takes I, J79, e, a3 : boolean array returns nothing let B[- 514] = 42 end main : t, mPJaa, F, F, y7 : boolean array; U8, G, b : integer; K5P0 : integer; while - (3) rem 44 and a3 - 12500 : chillax end; input O9[i(9) / true and 56]; input n; when case - 5 : chillax end otherwise : chillax end; output ")\t0"; input Z63a end

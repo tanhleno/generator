@@ -1,0 +1,1 @@
+program w : u : takes P, E, t0z : boolean array returns nothing qu, Bh90a, LgI0 : boolean; while - 24 + 71 - 74 : chillax end end g1 : takes Q : boolean array returns nothing Ms : integer; when case 2 - 24 : input X2 end case 9 = 9 : chillax end end main : k1 : integer array; chillax end

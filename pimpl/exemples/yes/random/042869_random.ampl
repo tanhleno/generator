@@ -1,0 +1,1 @@
+program q : XI : takes Xwd0a : boolean array returns integer array when case 487 and 5 + 9 - 1300 : output 0320 . "" end case - 0890 - 5 : output "" end; output 34 = 8850 . "\t9" . 1 . "" end main : let VW = S[12300] < - Z7 end

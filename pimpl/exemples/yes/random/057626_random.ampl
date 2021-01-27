@@ -1,0 +1,1 @@
+program i99 : q6 : takes Rl0 : integer array returns boolean array chillax end main : e, g0, A4 : integer array; Wc, Law : boolean array; R, Pg : boolean array; M, hUtaa, H530, q : integer array; when case - (02200) <= - false : let V = array 2 - 5; when case 1 = 23 : chillax end; output "v"; output "" end; input wX[e7[87] / 2 and 7] end

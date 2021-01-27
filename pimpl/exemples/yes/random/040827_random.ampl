@@ -1,0 +1,1 @@
+program x : U : takes P : boolean array; w : integer array; e, l : integer array; z : boolean array returns nothing chillax end main : pop false /= - _; let I55aa = - not 891 and 01 or 9 < 2 - 45; let q = array - (12) and 519 end

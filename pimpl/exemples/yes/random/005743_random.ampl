@@ -1,0 +1,1 @@
+program c : H1Y : takes k800a, RR6aa, aUN, S : boolean array returns nothing output 60 <= 2940 . 0 = 70 . 7 end b : takes Qy9, u5, YW : integer array; f, E, d, b1ba, M : integer array; e, v, Lvm, Q94 : integer array; M : integer array returns nothing H4 : boolean array; while - 65 = 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program c : N1k : takes w9 : boolean array returns nothing input h; do xo40a(- 70 - 0720); input w end main : q, bkK0, XX, H, j810, A : integer array; _ : integer array; input vL8aa; do Y(- false + false + 2 = - not 94 and 2) end

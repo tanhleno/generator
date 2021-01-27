@@ -1,0 +1,1 @@
+program j : b : takes f, nR, NB, R, W : integer returns boolean array t, J, nY1 : boolean array; W71aa : integer array; while - true - 4 > 21900 - 88 : pop; output "yq!"; do HO(22); pop end end main : do x1(- 7 and(9) rem 1 and 96 + false = - true - true, not 73 >= (9) and 329, - 85200 + 1830, - 7) end

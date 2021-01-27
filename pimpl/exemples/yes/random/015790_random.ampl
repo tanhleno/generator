@@ -1,0 +1,1 @@
+program fLn0a : M : takes e, pc, Eg : integer returns boolean chillax end main : pop - true <= (48500) and 5; input M[not false]; when case false and 378 <= 8 : do V4(687, 3) end case 2 - 72 : input j; let Qh = 85 end case 27600 = 642 : chillax end case 92 : chillax end otherwise : pop end; do I(017 - 8); when case 3380 = 997 : chillax end otherwise : chillax end end

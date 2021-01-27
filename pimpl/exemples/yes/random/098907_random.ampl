@@ -1,0 +1,1 @@
+program c : main : while - true - false / 6130 and 47700 - (29) and 5 + 83 : do v2(496, 98800) end; when case not Z / 7 - 90 >= not 1 and 8 or 9 : let D2[19] = array 9390; input j[92]; let z = 4 end end

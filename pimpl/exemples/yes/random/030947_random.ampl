@@ -1,0 +1,1 @@
+program hA : g : takes x, d : integer array returns nothing D : integer array; G : integer array; Gy, Sny : integer; chillax end n : takes L, H, Draaa : integer returns nothing chillax end main : while - false * (61400) + not false and(7) and 4 or 48 and 79 - 11 - 1 : let Av_aa[- 4 - 43] = array - 3 - 868 end end

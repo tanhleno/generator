@@ -1,0 +1,1 @@
+program Sq0a : z : takes zKJaa, h7E, m91, ST6aa, JS, qU, f1o, f : boolean array returns nothing P, g : boolean array; sT20 : integer array; U2w : integer; chillax end W9 : takes K : integer array returns nothing chillax end _e : takes W9d, j71aa : integer array returns integer b63a : boolean array; let R[60200] = array 4 end main : chillax end

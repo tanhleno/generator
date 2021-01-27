@@ -1,0 +1,1 @@
+program v : main : m8, O : integer array; while - false * false * (2560) and 864 - Y[4] > h1N[46200] and true and 231 : do D(- 65 - 0 < 7) end; output ""; do qt(- 42 + 4, - 7 - 46 = 406); when case 017 > 39 : do V8(2) end case 6 : do p(59) end case 87 : pop end; while 57 : input f9; pop end; input zX7a[4] end

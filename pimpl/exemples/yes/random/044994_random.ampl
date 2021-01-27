@@ -1,0 +1,1 @@
+program Q98 : e : takes n : boolean array returns nothing let CtP0a = - 0; pop; pop; do ZL(7, 08200); input y; when case 208 : chillax end end main : mD, q : boolean array; OI, L : integer array; h : integer; c22 : boolean array; d, pX : integer array; g, M : boolean; chillax end

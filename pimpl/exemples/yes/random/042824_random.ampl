@@ -1,0 +1,1 @@
+program _ : xn40a : takes s : boolean array returns integer array output - 6 < 93 . "" . "600a" . 47 . ""; while - 8 : chillax end; input D[88] end X : takes d, A : boolean returns nothing chillax end main : g71 : integer; chillax end

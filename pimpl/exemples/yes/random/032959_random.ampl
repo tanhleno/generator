@@ -1,0 +1,1 @@
+program px : s : takes ny, Q1 : integer returns nothing F : integer array; input F1; let k = array 81 - 46 end tC : takes K, y : boolean array returns nothing output "" . "6" end y : takes R, v, uUD0 : integer; SP : integer returns boolean CG70 : integer array; chillax end main : qtSa, HX0aa : integer; i, t9 : boolean array; output ""; let Q = array 5690 end

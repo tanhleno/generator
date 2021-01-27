@@ -1,0 +1,1 @@
+program IC : I4 : takes o : integer returns nothing G : integer array; c : boolean array; let e[X1] = - 4 < 3 end main : Q : boolean; jB, r : boolean array; rM80a, p, aHga : boolean; jnp : boolean array; P0, N : integer array; chillax end

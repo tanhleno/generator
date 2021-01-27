@@ -1,0 +1,1 @@
+program SB3a : oiU0a : takes e1n, F, b6 : integer; w64 : boolean array returns integer input M end sk : takes l : boolean array; l : boolean returns nothing T_, s8Laa, hak, I : boolean array; b, V : boolean; TK : boolean; q : boolean; B : boolean; chillax end main : chillax end

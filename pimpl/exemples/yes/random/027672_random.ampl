@@ -1,0 +1,1 @@
+program i : Y : takes J020a, p : integer array; c5, m : boolean array; t02 : boolean array; E : integer; Q, _, x27 : integer returns nothing chillax end sL : takes m, j6 : boolean; RM : integer array returns nothing pop; pop 475; output 8 . "" end ou : takes In60a, E8ka : integer returns nothing chillax end main : r, T : integer array; chillax end

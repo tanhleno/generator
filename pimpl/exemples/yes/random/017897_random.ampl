@@ -1,0 +1,1 @@
+program m9 : X : takes i60a, U0o0 : boolean; n : boolean array returns integer chillax end e : takes p, AV : integer array returns nothing I, W : boolean; O9, a : integer array; chillax end main : bm : integer array; pop; input l[not(0) rem false and 00700] end

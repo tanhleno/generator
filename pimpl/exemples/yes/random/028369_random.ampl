@@ -1,0 +1,1 @@
+program aCF : P2 : takes I8, X : integer array; o : boolean array returns boolean array pop 6 >= 3 end F : takes i, S, A : integer array returns nothing G5 : boolean array; S, Q, Jjh : boolean; let e7 = array 1 end main : M, c7h, v, O : integer; chillax end

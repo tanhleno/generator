@@ -1,0 +1,1 @@
+program L : Y : takes N, K, W : integer; m : integer array returns nothing n : boolean; v5, n7 : integer array; chillax end main : Nx : boolean array; output "" . - (4) and 6 - 685 . - 020 - 4 < 2 . "" . 54 end

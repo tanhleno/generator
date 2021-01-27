@@ -1,0 +1,1 @@
+program Lbu : C : takes c : boolean; R, Uyw, u0, wQ, i, K : integer array; Pyk0, t4 : integer; L53, X, B860 : boolean; W, EH7, A, O36aa : boolean; o, W : integer returns boolean array output "" . "" end Blu : takes N, I : boolean array returns integer while 0 - 2 : do Iz(7) end; while 1 = 68 : chillax end end main : chillax end

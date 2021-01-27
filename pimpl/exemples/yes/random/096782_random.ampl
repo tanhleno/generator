@@ -1,0 +1,1 @@
+program P : main : when case false / true * false and 04 - 2 / (3) = not b or 8 and 99 : chillax end case 2 or 3 or 8 : chillax end otherwise : do q(62 = 40, 4); output "\t\t"; pop; while 14 : chillax end end end

@@ -1,0 +1,1 @@
+program X : Glp0a : takes K, BaO, K, K, r : boolean array; U93a : integer array; X : integer array; o, c4, NK : boolean array; g, FOX : integer array; s, b, p : integer array; z, SG8 : boolean returns nothing p : integer; chillax end main : chillax end

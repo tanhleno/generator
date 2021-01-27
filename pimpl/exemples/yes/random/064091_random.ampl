@@ -1,0 +1,1 @@
+program W : I3 : takes o : integer returns nothing do Bp30a(- D - 72 - 45100); while 31800 - 13 >= 4 : output "7\n"; do o(7) end end main : while - m[314] : chillax end; let F[(65) / not 6 and 7360 + true] = array not(4) * 0 and 48 or Z + 85; let T6[(3) and 6 - 7] = - 9 /= 7 end

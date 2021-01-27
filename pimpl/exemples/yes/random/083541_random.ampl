@@ -1,0 +1,1 @@
+program Xm20a : main : AL : integer; V, F : boolean; k8 : boolean array; while false / (1) < not false * false and 5260 : when case 874 - 4 >= 5 : pop; when case 7 : chillax end end case 1 : let etO = 0; pop end end; do g(- (4070) and not 51 = - 539 and 82200 - 8, false and 9140 > - 8); pop - 8 = 030 end

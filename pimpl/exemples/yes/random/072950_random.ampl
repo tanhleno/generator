@@ -1,0 +1,1 @@
+program o : main : m, aa, b : integer array; U : integer; P8 : boolean; i61a, E : integer array; H6, HX : boolean; when case - true : chillax end otherwise : while 3 : chillax end; output "" . "7\"\"a" end; do x(- false and not 98 or not 3 and 22 + 061 - 59, true /= - 2830, - 4 - 7, 554) end

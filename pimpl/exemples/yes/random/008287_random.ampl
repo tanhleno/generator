@@ -1,0 +1,1 @@
+program W : sSs : takes kgga, DFH, _, i6V : integer returns nothing j, _ : integer array; V, gU : integer array; output - 30800 - 47 end c9 : takes u8, T, R, wDp, f05, ED : boolean array returns boolean H3 : integer; chillax end main : chillax end

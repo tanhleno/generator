@@ -1,0 +1,1 @@
+program f480a : _ : takes Bi, O : boolean array; t36aa : integer array returns nothing J1, q : boolean array; Y970 : boolean array; chillax end main : _K : integer array; pop - not 27 and false and 9 or 831 + 1 - 64; input p[- (6) / false]; pop - 41 - 788; while 85 - 55000 <= 0 : when case 5 : chillax end; input f end end

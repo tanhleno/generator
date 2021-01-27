@@ -1,0 +1,1 @@
+program D : UcD : takes d, c : integer returns integer chillax end C5 : takes W1, Co : integer returns nothing j, t : boolean; zv8, k2 : integer array; pop 2 end rX : takes rd, Y, H, JH : integer returns integer w5, QT, BhF : integer array; w, E : boolean; S850a : boolean; chillax end main : a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program LY0 : A30aa : takes F : boolean returns boolean chillax end Y : takes l : boolean returns nothing u5Uaa : integer array; do Vt(- 64500 - 27) end main : gh3 : boolean array; M690 : integer array; let nk3 = - (90) and 7; pop end

@@ -1,0 +1,1 @@
+program qr : G1 : takes p89, h, J2, L : integer array returns nothing while - R56aa and 77 : output "[" . "5a"; input E; pop end end main : while false + (795) / false - a + 4 - 33 > false * 3 and 2 : chillax end end

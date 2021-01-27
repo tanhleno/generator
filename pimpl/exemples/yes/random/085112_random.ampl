@@ -1,0 +1,1 @@
+program k470 : main : A : integer; when case(4 = 88) : while - 14 - 8600 : while 2 : chillax end end; pop 8; let r[05600] = 5; do Lh(9) end otherwise : input O[8] end; let w[g_[0] - (0) or 713 - 3] = array - (1) rem true and 51000 end

@@ -1,0 +1,1 @@
+program f : j9 : takes B0, R, b8, K91, L, i, W, VW : boolean array; C, J, M : integer array; r, vYK : integer array; X, tJ40 : integer array returns nothing chillax end vl : takes k, PAM, QPZ0a, W : integer array returns boolean output "" . 3270 . 27200; let V = 79 end ZSX : takes YaMa : boolean array; b : integer returns nothing chillax end main : n : integer array; chillax end

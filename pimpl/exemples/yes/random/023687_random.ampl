@@ -1,0 +1,1 @@
+program RI : g0 : takes N, K : boolean returns integer do e(true and 8 - 3 - 7, 94); while - 55100 - 4 : when case 98 : chillax end end; while 17800 : input r5 end end main : N, r6, m : boolean; chillax end

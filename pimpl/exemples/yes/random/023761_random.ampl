@@ -1,0 +1,1 @@
+program NJ : I : takes O, B : boolean returns integer rxWaa : boolean array; chillax end main : A : integer; let Y = array U57a[0] or(9) and 59 and 2 - 2; while 2 and 729 or 9 and 3 : output 629 . 81 . ""; pop 6 end end

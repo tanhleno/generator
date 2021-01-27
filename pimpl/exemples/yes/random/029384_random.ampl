@@ -1,0 +1,1 @@
+program O : Tq : takes d0, o : integer array returns boolean array F56a : integer array; m : boolean; a810a, x94 : boolean; V, G7ca : boolean; p3 : boolean; q : boolean; chillax end main : chillax end

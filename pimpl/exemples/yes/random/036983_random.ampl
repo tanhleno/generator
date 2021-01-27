@@ -1,0 +1,1 @@
+program K : zWc0 : takes Xv7a : boolean; F : integer array returns integer array l, W, d : boolean; vQ, x : boolean array; h, Y0O0, R : boolean; t : boolean; let A38 = 7 - 980 < 3; while - 2070 >= 40 : input XZ; let J = 134 end end main : ocx0, S : integer array; g : boolean array; let uV = not 4 < true end

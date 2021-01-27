@@ -1,0 +1,1 @@
+program p : J : takes y : integer array; PjD, L9 : boolean; e : boolean; o : boolean array; a69a : integer returns boolean RnU, G : integer array; output "" . "K5" . "" . "\n4" end xA : takes cQ : integer array returns nothing R : boolean array; aa : boolean; chillax end main : hgxa : boolean; chillax end

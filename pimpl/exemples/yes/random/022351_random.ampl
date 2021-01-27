@@ -1,0 +1,1 @@
+program w01 : G1 : takes u, R : boolean array returns nothing Q, w : integer array; q, K : integer; do rcO(false, - 8170 >= 4, 5630, 2); do uJJ(- 0 > 6) end QE : takes o730 : boolean array returns integer array U, B, b : integer; chillax end main : C6G : boolean array; m, p, A5 : integer array; LMr0, BX, R1c0a : integer; chillax end

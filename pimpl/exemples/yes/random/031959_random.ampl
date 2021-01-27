@@ -1,0 +1,1 @@
+program iP : b : takes J, AD : integer returns integer chillax end t : takes Q : boolean; F900, MES : integer array; O, t3 : boolean; Z : integer array; U : boolean array; U : boolean returns boolean Q : boolean; chillax end main : output "" end

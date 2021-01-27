@@ -1,0 +1,1 @@
+program U : L : takes Te, hI : integer returns integer array when case - (61) <= - 4 : while 8 : pop end; pop; pop end case - 3 - 07200 : when case 37 : chillax end; output "\n"; pop end otherwise : chillax end; output 3 . "z" end main : do T(- not y4L * A[26] rem t) end

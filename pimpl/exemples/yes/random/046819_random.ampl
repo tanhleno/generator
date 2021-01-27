@@ -1,0 +1,1 @@
+program h : b : takes tJ : boolean returns integer array output "\\" . 241 = 30 . "" end x : takes I, G : integer returns boolean array qQ : integer; chillax end w : takes E, Ob : integer array returns boolean fH, fnK0 : integer; u : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program u : PE : takes K5X, E, m9, S4p, p8, _sv0, W27 : integer returns nothing chillax end JM30a : takes w : integer array returns boolean qJ : boolean; chillax end main : X : integer array; do bh1(not 94 and 5 + 963 * 6 and 96200 - false and 6 - 02 - 5, true or false and 23 or 62 >= - not 5 and 9) end

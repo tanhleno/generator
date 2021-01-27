@@ -1,0 +1,1 @@
+program fL : z8 : takes tI2, e8 : integer; w3ya, w3, D, z2, lY7a : boolean array returns boolean while - true and 299 = 6 : input aa[5]; while 9 : chillax end end end fR : takes n : integer returns integer array while - 436 - 0 < 1 : while 7 : chillax end end; output 3 end main : let c21 = R >= - aL and 6 or 0 end

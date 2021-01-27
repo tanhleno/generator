@@ -1,0 +1,1 @@
+program r5 : GL : takes Z : integer returns nothing when case - false and 0 - 83 - 17300 = - 9 - 7 : input P[7]; when case 30 : chillax end; let t3 = 5 end case - 10 - 1 = 2 : chillax end case 43 : while 6 : chillax end; pop end case 205 : chillax end end i6Yaa : takes T, a : boolean array returns boolean array M : boolean; let nZ = array 8 - 39 end main : chillax end

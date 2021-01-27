@@ -1,0 +1,1 @@
+program D49 : main : F0, U, s, b : integer; while a(7320, 88) : pop 27 = 9; when case 56 : chillax end case 3110 : pop end end; output(245) and 8290 < 79400 . 3 - 7 . ""; input sK[true and 8 - 968 - 6]; let eU = array - 9; while 1 : let l030a = 76; pop end; while 67200 : pop end end

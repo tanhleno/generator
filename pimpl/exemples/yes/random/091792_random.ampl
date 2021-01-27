@@ -1,0 +1,1 @@
+program n : main : output(441) / not 1 and 00 /= false and 73 + 3; while true rem not 8150 and 6 or true and 8 or 6 - 0 < - not 4 : chillax end; while - (4) and 6 > - 0 - 461 : do g(4) end; when case 3 - 4 : input w end otherwise : chillax end end

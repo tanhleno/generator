@@ -1,0 +1,1 @@
+program la1aa : b : takes Q : integer returns nothing chillax end Q8 : takes Fz : integer array returns nothing n : boolean array; chillax end D : takes sE, b, k : integer; ae8 : boolean returns integer G, R, Q : boolean array; chillax end main : i : boolean; do B(- 7 >= - j or true); do Nbla(true + false + 6); pop 8 - 2 end

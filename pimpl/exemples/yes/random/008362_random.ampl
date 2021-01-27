@@ -1,0 +1,1 @@
+program A7 : D7 : takes i, M, v, K : integer returns nothing input M5[(29) and 601 - 43 - 794] end main : l, c73aa, gd, l, x6, u : boolean array; J, s6 : integer; u, A, d0 : integer array; do Q85((7) / true + (26900) * 7, not true rem(3), - 39600 or 58 < 2 - 81500) end

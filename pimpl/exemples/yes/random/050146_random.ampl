@@ -1,0 +1,1 @@
+program i : Mx : takes w5 : integer; u, H, oo : integer array returns boolean chillax end main : j, QkN : boolean; when case true - D4ya / 3 and 84300 + (9210) and 052 - 86800 - 4 : do PU(- 99) end; when case - false rem true : while 6 : when case 2 : chillax end; pop end end end

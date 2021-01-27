@@ -1,0 +1,1 @@
+program T : main : h140 : boolean; j : integer array; X : integer; do Z(- false + false rem(9) and 50 or not 3); when case S(8) : when case 2 = 6 : chillax end end case 9 = 9520 : when case 3 : chillax end end case - 169 - 952 > 7 : input Z4m end otherwise : chillax end end

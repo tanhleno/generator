@@ -1,0 +1,1 @@
+program t : F : takes Ef : boolean array; Y, r, z : boolean array; U : integer; J3v, p, V2v : boolean array returns nothing let gr[- true] = - 6 end main : while not true and(75) / not 973 + 6 / 3 and 072 + (7) and 7800 : chillax end end

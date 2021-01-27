@@ -1,0 +1,1 @@
+program dj50 : M : takes d : boolean returns nothing M : boolean; output "" . "\""; let te[- 6 - 10] = array - 2 - 382 end P73a : takes I75, x, M, A, Q, w, G : boolean returns integer array I7Q, I31aa, Dp, P6 : boolean; do P(- 6, 032, 0) end main : L : integer array; chillax end

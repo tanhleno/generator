@@ -1,0 +1,1 @@
+program F : main : when case not true / le6[6] + 81 - 6550 and 9 /= (90) and(0) + true : output 5 . 1 . 6; pop 7370 end case - false rem false and 470 - not 92 - 2 = true : chillax end case _k80a <= 5 : chillax end case - 0 - 484 = 856 : chillax end case 31 : chillax end otherwise : output "yQ0a" . "" end end

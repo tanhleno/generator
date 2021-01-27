@@ -1,0 +1,1 @@
+program Z : H : takes v3, X, v8, KSj : integer; G, t9Ga, r : boolean array returns nothing chillax end Of : takes I : boolean; C : integer array; b : integer returns boolean WK : integer; i, x : boolean; q, i : boolean; B3 : boolean; Ig : boolean; pop; let tQ = array 8630 end main : do X(- 28); input ds0; do k1(- sX and 1 <= - 7, 4 - 4); input ZG[29]; pop 80 end

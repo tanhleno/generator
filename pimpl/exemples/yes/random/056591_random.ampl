@@ -1,0 +1,1 @@
+program m : pY : takes gD : integer array; n : integer; y4i0a, ey5 : boolean returns integer array JI, YhK, c, t, U : boolean array; _, UCO : integer array; Z9 : boolean; w : boolean; let z = - 3 end DU30 : takes n7w, m : boolean returns integer chillax end main : do b(true - (76000) / true and 79 or 7 and 3, - (1) or 3 + 9) end

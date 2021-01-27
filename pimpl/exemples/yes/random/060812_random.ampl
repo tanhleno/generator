@@ -1,0 +1,1 @@
+program mP : EL : takes C : integer array returns nothing n35aa : boolean; let A = array - not 1 or 9 - 2 end K : takes E5, hx : boolean array; p : integer; GK30a : integer array returns nothing chillax end l8 : takes t, B2N0a, F : integer array returns integer wf, T3 : boolean; i : boolean; U : boolean; chillax end main : hn, y, V3 : boolean; input J[P0[25500]] end

@@ -1,0 +1,1 @@
+program H : main : f9, T : integer array; while - 8 and true + true / (3) and 1 <= 9 * false and 8 : when case 4 < 2 : output "7h0" end case 50 = 79 : chillax end otherwise : chillax end; pop; let w3[615] = array 8 end end

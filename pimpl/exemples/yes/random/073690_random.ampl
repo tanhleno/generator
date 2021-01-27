@@ -1,0 +1,1 @@
+program n : main : u7, L860 : boolean; Pxpa, WS : integer array; G0 : boolean array; Be, y, M3, BHD : integer; j62aa : boolean array; do Kz(- false + not 71, false / uj /= - true + 9, true and 2 /= - 28 - 29, 1 - 2, 992); input k[- false + not 3 or 6 - 09200]; while - nP and 5 : chillax end end

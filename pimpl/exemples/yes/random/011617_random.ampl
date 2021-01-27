@@ -1,0 +1,1 @@
+program h34 : I : takes A, V7m, B4 : boolean returns boolean array X1O : integer; chillax end rB : takes Z : boolean array returns nothing do M(0 > 478); output ":_0"; let Je1[7] = 79 end main : output "" . "" . "" . "Sha" end

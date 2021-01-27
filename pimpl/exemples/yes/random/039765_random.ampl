@@ -1,0 +1,1 @@
+program N52a : t : takes l : boolean array; o : boolean array; V8, T, S, J : integer array returns integer array when case - not 53600 and 93 >= - 496 : chillax end case 8 - 27 : chillax end otherwise : output "020"; output ""; pop end; output 7 = 146 . "" end main : chillax end

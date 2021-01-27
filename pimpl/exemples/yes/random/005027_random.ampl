@@ -1,0 +1,1 @@
+program ur : _c : takes X03a, vIf, V6, I : boolean array; c0F : boolean; B3 : integer returns nothing chillax end main : g : integer array; q, M, J, g1V, ssk, l : integer array; tW, Y0 : boolean; let K6 = array - false / (0) end

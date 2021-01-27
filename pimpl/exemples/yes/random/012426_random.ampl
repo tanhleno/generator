@@ -1,0 +1,1 @@
+program U : w : takes b49, B8A, Q2 : boolean returns nothing input _98a end g : takes D, Go70a, G36, G, O4l, F : integer array returns nothing I34 : integer; input F; while 5 = 7 : chillax end end mw : takes R7, w : boolean array returns nothing pop 8; do O(42, 78); do CA(4); while 45 : chillax end end main : chillax end

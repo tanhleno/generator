@@ -1,0 +1,1 @@
+program t : zZD0a : takes Y, a, tGP : boolean array returns boolean chillax end q67 : takes G83aa : integer returns integer array chillax end main : XN, CP : integer; z, K5N0 : integer; p5naa : boolean; let Q = array - not(9) and b / not 037; output "" end

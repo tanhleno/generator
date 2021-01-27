@@ -1,0 +1,1 @@
+program l : Z : takes N, Q, q, e, Wj1, Th5, C : boolean returns boolean array pop; when case - 5 - 9 : pop; while 4 : chillax end; pop end case 724 : chillax end case 53 : chillax end case 12 : chillax end otherwise : do tO(1); pop end; output 3 . "" . "4"; when case 03 : pop end otherwise : chillax end end main : chillax end

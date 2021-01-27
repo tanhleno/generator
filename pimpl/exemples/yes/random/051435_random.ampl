@@ -1,0 +1,1 @@
+program BR9 : k : takes V860a : integer; v : boolean; T, _ : integer returns nothing chillax end cR : takes D : boolean array returns nothing yY8aa, x, d6, H : boolean array; D, n4, Q : boolean array; chillax end main : M7Raa : boolean array; aA, kD, T5J0, n, _ceaa, XH : integer array; _p5, V : boolean array; chillax end

@@ -1,0 +1,1 @@
+program _r : jI4a : takes g : integer array returns boolean array let A5[not 4] = array not 06 and 1 - 7 - 08; when case - 7 : while 69 : chillax end end otherwise : do R(56); pop end end main : chillax end

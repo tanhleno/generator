@@ -1,0 +1,1 @@
+program N : Z8 : takes i, C : integer array; Z5, HG : boolean returns boolean array input B end i : takes B1, f6, L : boolean array returns boolean V : boolean array; chillax end main : kp5aa : integer array; U, NYL, z, r : boolean array; H, _VX, k, s4j : integer; output(824) * (9) and 9 >= - h and 4 end

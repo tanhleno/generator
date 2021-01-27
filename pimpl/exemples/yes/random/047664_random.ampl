@@ -1,0 +1,1 @@
+program GO : x : takes q : boolean returns nothing chillax end main : Q, XA1a : boolean array; q : integer; do P66(- false * hC1 * (3) >= - not false / false and 8); do _(1 * true and 0 = 5); while(0) and 2 or 4 : input S[58]; do AXv(8); let Q = 1850 end end

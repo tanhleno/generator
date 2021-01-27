@@ -1,0 +1,1 @@
+program P : R1 : takes CY1aa, K3, w, S : boolean array returns integer _ : boolean array; x, E9za, tFs : boolean array; ki : boolean array; Q : boolean; chillax end main : Uj, k1wa : integer; while - XU * false * (70400) + not true : pop; input S; input n[6] end; let N = array - n; while(26) and 1 + 82 : chillax end; output 9 end

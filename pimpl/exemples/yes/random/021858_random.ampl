@@ -1,0 +1,1 @@
+program XW : QC : takes N, k88 : boolean array returns nothing chillax end s920 : takes E, i : boolean array returns boolean array input sJ; output ""; do DuZ(3, 36900) end main : do b(- 9 rem true < - gy[8] / not 6 and 18 - 076 - 49, 5 and false < - A and 6 - 5 - 8, false - 305 - 1 >= - 675 - 7, - 482 - 43 >= 6, 405, 22, 8) end

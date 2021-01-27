@@ -1,0 +1,1 @@
+program T : E : takes h : integer returns nothing g_ : integer; vA3 : integer array; do V3(- true or 56 > 97); let G = 6 = 932; pop end es : takes r : integer array returns nothing let S = array 3 - 52; let HT4aa[03] = array 6 end H : takes w5i : integer array; Il60a : integer returns boolean array chillax end main : chillax end

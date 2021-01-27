@@ -1,0 +1,1 @@
+program L0x : p : takes i8O0, W : integer returns nothing while true and 727 <= 2 : while 9610 : pop end end; input S end S : takes N : integer array; Abv : integer returns boolean array EoT : integer; P, C, q : boolean; M : boolean; let B = 12700; do U8(5 = 15, 694) end main : Cy2a : boolean; chillax end

@@ -1,0 +1,1 @@
+program U : main : let _1 = - 8 * 013 and 0 > - G and 9 or 0; when case false >= false + 6290 - 661 : chillax end case - (8) /= - 7 : while 95 : pop end; pop; let P520 = 7; pop end otherwise : pop 857; input C end; pop end

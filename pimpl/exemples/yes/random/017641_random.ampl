@@ -1,0 +1,1 @@
+program o : o : takes LiC0, jG5 : boolean; E59 : boolean; a8, c4y0 : integer; l, E, N, V, et : boolean array returns nothing output 5; while 82 : do V21(9); pop end; input xQ[5] end main : Y, q : boolean array; input Z6 end

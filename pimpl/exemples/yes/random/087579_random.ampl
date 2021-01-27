@@ -1,0 +1,1 @@
+program _0_ : main : Q : integer array; when case A[693] * o_[590] / false > - Hb8(185) / EO1 : let vh2a = array 9 - 662 end otherwise : pop 60; do D5(2); while 446 : chillax end end; let w[- 8 - false or 64 - 94] = array true - not 0 end

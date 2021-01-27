@@ -1,0 +1,1 @@
+program r : EnE0 : takes K8, vG5aa, c, N : boolean array; rWiaa, iB, f : boolean array returns integer array u3, G, a3ca, x : boolean array; C, xx : boolean; Q : integer; n4va, C : boolean; chillax end main : Dz10a : integer array; input Q[8 / true and 2160 or true]; do Aa(not Q4S0a * not 49 and 11 + 22 and 4 + 03 - 2) end

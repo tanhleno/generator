@@ -1,0 +1,1 @@
+program L : main : when case - (4) rem not false and not 3 + 1 + true - 788 - 857 : while 7580 - 3 : let sYh = 37; when case 8 : chillax end; pop end; output "A\"\"a"; output 00; pop; pop end case false / 7 + false /= not 1 or 3 - 115 : do c(822); output 2830 end; output - not 23500 . "\"6" end

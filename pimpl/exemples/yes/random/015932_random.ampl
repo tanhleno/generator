@@ -1,0 +1,1 @@
+program h : Q7 : takes R, Z, F4 : integer returns integer array Ae, x9S : boolean array; IZraa : boolean; c3r, j960, c : boolean; do tp(J6 and 38, 2, 95 = 1, 39, 84); while 3 - 4 < 28 : chillax end end main : when case - true - z >= not(0) - (5) and 7 or 6480 : chillax end otherwise : chillax end end

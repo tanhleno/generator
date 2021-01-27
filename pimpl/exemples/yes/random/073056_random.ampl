@@ -1,0 +1,1 @@
+program G : main : x, H5ra, v : integer array; let M = - w[234] - (88) and 39 or 32 < not 4 and 2 - 6; while 43 / not 756 - (2) or 21 > - 11200 and 9 : pop 38600 end; when case - Cu : output 43 . ""; output "S2"; let n6M = 1; pop end case - 45600 < 9140 : let B = 52; input U end; do zj(- 3 - 5810, 20 = 6) end

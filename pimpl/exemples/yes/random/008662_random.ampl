@@ -1,0 +1,1 @@
+program fe6 : a : takes L, B7, b_w : boolean; Y8, a, E : integer returns integer array D6 : integer array; T48, V270a, E : boolean array; pop end g : takes f5 : boolean; U7 : integer; k6Uaa, B, k, _3 : integer array; V, D : boolean returns integer u : boolean array; chillax end main : pop end

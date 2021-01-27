@@ -1,0 +1,1 @@
+program M : main : L8, J : integer; output "8"; do J(- false + false and 9, - not 2 and 8, - 1 >= 7, 7 = 78300); while(0) or 8 : input M[73] end; while 3 - 9 : chillax end; pop 63; when case 3 : pop end case 88 : chillax end end

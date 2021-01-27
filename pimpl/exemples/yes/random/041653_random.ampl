@@ -1,0 +1,1 @@
+program Q41 : p6B0a : takes Z : boolean array returns boolean array M, tm : integer; r, n, c, KwNa : boolean array; n1, LI, z : boolean; m, di : boolean; X : boolean; chillax end k : takes d : integer returns integer array chillax end S : takes l8 : boolean array; D3, R, _7 : boolean returns integer e : boolean array; chillax end main : let J1c = 53 end

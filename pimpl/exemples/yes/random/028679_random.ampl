@@ -1,0 +1,1 @@
+program rkn : g : takes r, r3 : integer array; T : integer; d2, Ni : boolean array; e, X : integer array returns nothing p, U : integer; O, _Q, RJe : integer; input N1Ka end main : C, F : integer array; vd : integer; while true < - true or XR and 7 : chillax end end

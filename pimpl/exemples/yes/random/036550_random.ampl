@@ -1,0 +1,1 @@
+program F : h : takes j : boolean; Iz : integer; SaWa : boolean returns boolean array when case - false and 38 or 241 : while 487 : chillax end end otherwise : output "g" end; let N[- 82000 - 3] = 5 = 7990; input a3[03] end N : takes cP : boolean; E, o, V, B : boolean array returns nothing do y(- 48) end main : mG, C : integer; chillax end

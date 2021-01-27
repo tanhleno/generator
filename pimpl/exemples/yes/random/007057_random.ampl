@@ -1,0 +1,1 @@
+program n : e : takes c, k, S0, H : integer array; X1, H : integer array; UHy0a : boolean returns integer output - 0 - 9 < 1 . "" . 4; when case - 8 - 2 > 6 : when case 6 : chillax end end case 24 = 55 : chillax end case 92 : pop end end main : p5y : boolean array; chillax end

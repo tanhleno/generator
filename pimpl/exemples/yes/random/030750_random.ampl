@@ -1,0 +1,1 @@
+program S2 : th : takes d, O : integer array returns nothing B : boolean; ALh : integer array; _q, F2 : boolean; W : boolean; chillax end main : t4 : integer array; when case - (2) / true - false : while - 33 - 8 : when case 10 : chillax end; while 1290 : chillax end end end otherwise : while 3 = 9 : output ""; pop end end end

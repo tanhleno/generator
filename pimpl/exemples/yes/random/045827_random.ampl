@@ -1,0 +1,1 @@
+program U : mi : takes x71 : boolean returns boolean array pop - 1 > 3; while 9 : let y8Iaa = 37; let O = 69 end end b : takes F, v : integer array; jgL0, y : boolean array; E610a, X7 : boolean returns boolean when case - 0 >= 467 : output "" end end main : v16a, BE : integer; chillax end

@@ -1,0 +1,1 @@
+program S : t6 : takes r5Z, Lw, _G : integer; N, KW5, se4 : boolean array returns nothing n : boolean array; A3ua, bd : boolean; chillax end main : aO, aG : integer array; do j8(yUJ(5230) - false and(44) - (40) and 7); do D(- (9) rem true); pop; input N; while 2 : output "d?\"a"; pop end; when case 0 : chillax end case 1 : chillax end otherwise : chillax end end

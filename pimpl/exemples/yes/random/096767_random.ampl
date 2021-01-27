@@ -1,0 +1,1 @@
+program S : main : when case false / (3) / true + (22) <= - 97 * not 1 or q and 9 - 8 - 36 : chillax end case - C3(2) <= (689) and 75 or 5 : chillax end case 0 and 5770 >= 2 : do G(88, 6) end case 56900 = 8 : output "V"; do d(8) end case 047 = 90300 : chillax end; let I[- 1290 * 4 and 94] = - E150a and 1 or 2 end

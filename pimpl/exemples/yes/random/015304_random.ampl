@@ -1,0 +1,1 @@
+program xcda : m70 : takes Q, nf7a, c : integer array returns nothing D, GzZ, V : boolean; Z, a : boolean; chillax end main : H, O7, m : boolean array; jh : boolean array; input N[- B6 - 1430 + false and 2]; output "" . 41 <= 82100 . "" end

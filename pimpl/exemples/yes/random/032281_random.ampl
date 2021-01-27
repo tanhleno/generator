@@ -1,0 +1,1 @@
+program T : A : takes b, g : integer returns nothing chillax end i : takes g3 : boolean returns integer array u, e3 : boolean; Y9, Y8, EAt : integer; y : boolean; o35 : boolean; uZW0 : boolean; input dA[413]; while 0 : input E; pop end; while 0 : pop end end main : RK, X8, F : boolean array; chillax end

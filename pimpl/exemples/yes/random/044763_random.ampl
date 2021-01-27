@@ -1,0 +1,1 @@
+program M : u : takes d : boolean array returns nothing c6 : integer; P : integer array; m : integer array; chillax end M5q : takes H : integer array; B : boolean returns nothing HO, u, W : integer; e : integer array; chillax end main : input A; pop - false end

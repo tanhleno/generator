@@ -1,0 +1,1 @@
+program gm2 : p : takes O, frT, r : boolean; o : boolean array; V7, zVr0a, O : boolean returns nothing z0 : integer; Ws : boolean; chillax end main : X4, B : integer; p20, f : integer array; when case r4(663, 7) and K[29] rem 787 and 73 : chillax end end

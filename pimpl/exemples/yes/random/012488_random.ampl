@@ -1,0 +1,1 @@
+program L5 : z2 : takes IF00a, r, x : boolean returns nothing when case - true : chillax end case - 7 > 30 : while 0 : chillax end end case 8 : chillax end end main : q, D66, n, p, P9 : boolean array; O3o : integer; B : boolean array; chillax end

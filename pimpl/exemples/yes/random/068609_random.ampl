@@ -1,0 +1,1 @@
+program U9 : main : V60, U, oPG, g, I5, J4 : integer array; w : integer array; D0t, h : integer array; while not f(834) / false and 05 and 41 /= (390) and ovU0 : let r = 74 = 25; output 8 . 7 . "" end; do wb(true rem not 5 or not 8 and 9 or 0 - 04); do h(false or 8820 <= 3, 0 = 76) end

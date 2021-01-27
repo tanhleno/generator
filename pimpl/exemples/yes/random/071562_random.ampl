@@ -1,0 +1,1 @@
+program r : main : e, A, lg1aa : boolean array; Dz : boolean; L93a : boolean; while - (22) and false * i or e(2860) and(7) - not 04 and 408 - 44100 - 2 : chillax end; while - false + f and 47 : output "f*0a" . 97 . "\n\n" end; let t[- (97) and 1 or 009] = array - 1 and 1090; do k1P0(- 4 = 332, 0 = 4) end

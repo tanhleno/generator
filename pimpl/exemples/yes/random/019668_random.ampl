@@ -1,0 +1,1 @@
+program g41a : u : takes Joh, W : boolean array; W : boolean; s, p, b : boolean array; E8 : integer array returns boolean wr, O, Y3X : boolean; chillax end main : output "1"; pop Q and 78 + 04700 - 6 >= - 95 - 9 end

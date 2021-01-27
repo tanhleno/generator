@@ -1,0 +1,1 @@
+program tV : Va : takes V8, Q : integer returns boolean array chillax end uk : takes m0, K, H : integer; nMEa, STIaa, J6Ha : integer; E, W : integer array returns nothing Yi6a, zB, B, _k7 : boolean array; chillax end main : s : boolean; Y : integer; chillax end

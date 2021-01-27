@@ -1,0 +1,1 @@
+program o : BVC : takes t : integer array returns nothing chillax end B : takes AT, C, s : boolean; V : boolean array; rJa, t86, kj7 : integer returns nothing chillax end main : f : integer; input JL[- i * 7 and(96)]; output "+Q" end

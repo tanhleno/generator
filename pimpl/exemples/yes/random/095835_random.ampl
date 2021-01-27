@@ -1,0 +1,1 @@
+program z93 : main : when case - false : chillax end case true / (855) and 30 - (8) and 252 : output 16; input Q[2]; while 02 : chillax end; when case 688 : chillax end end otherwise : chillax end; while - false * 54 < 5 and 28 or 1 : chillax end end

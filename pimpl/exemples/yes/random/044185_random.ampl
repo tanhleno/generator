@@ -1,0 +1,1 @@
+program T2 : m2 : takes Dr8 : boolean array returns nothing z, Q : boolean; Z2, L, d, g : integer; output - 904 . "3" . "E*"; while - 3 - 906 : input Z end end B8 : takes P, JS, a : boolean returns nothing chillax end main : e23aa, d250, R : integer; Ar : boolean; chillax end

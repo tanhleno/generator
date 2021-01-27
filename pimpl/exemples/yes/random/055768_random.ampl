@@ -1,0 +1,1 @@
+program B : b : takes e : integer array; B : boolean array; db, xcB, iw : integer array returns nothing while - l - 84 - 9 < - 1 : chillax end; pop end main : let o04[07 rem false] = q6y(2) - not 1 /= i_ and 2900 or 67; when case not false <= j7 or 4 : chillax end case - 7 and 6 or 169 - 251 : chillax end case 5870 = 6 : let P = 262; when case 70 : chillax end end end

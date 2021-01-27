@@ -1,0 +1,1 @@
+program I : main : when case true rem(17) + (6) - (0) and 2 > false : output 0 . 3 . "" end case false / false or RPy and 08 or 6 : input d; while 6 : pop end end case(6070) and 6 + 7 - 00 : output "\\" end; do j(- 331 >= 84600 and 5) end

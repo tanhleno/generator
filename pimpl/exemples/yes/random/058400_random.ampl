@@ -1,0 +1,1 @@
+program XS : S : takes N : integer array returns boolean D2 : integer; N7 : boolean; tX4 : integer; Pm, j : boolean; s19a : boolean; r860 : boolean; chillax end f : takes l, f, F86, C, W, j, i6 : boolean; z, f8, _qLaa, Qn : integer returns integer chillax end main : Q : integer array; W, u620, _ : boolean; input jE10a[(85500)] end

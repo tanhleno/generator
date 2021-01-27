@@ -1,0 +1,1 @@
+program b0 : B6p : takes Px : boolean array; G34, vj3, r : boolean array; tj, O, D3, Y, We : integer array returns nothing while false and 9 : chillax end; output 6 = 19 . 6 end r : takes e26 : boolean; kk, jA : integer returns integer chillax end s : takes IQ, D, o, EO, d1 : boolean array; iw, J : boolean returns nothing chillax end main : chillax end

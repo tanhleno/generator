@@ -1,0 +1,1 @@
+program eF : c : takes t : integer array; j, I910a : integer array; x2, BbB0 : boolean; bIx, zvx, d : integer array; r : integer array; t1t : integer; V : boolean; jKQ0 : boolean; M : boolean returns nothing output "^" . 2 = 3 end main : L : integer array; D, _ : integer array; while - 2 * false rem 4 = not 13 or true + 4120 : output "#-" end end

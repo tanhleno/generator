@@ -1,0 +1,1 @@
+program f : main : If8 : integer array; N130, Dy, zy, s6iaa, Uw4, Y2 : integer; P : integer; O1Ya : boolean; do gI_(not cM < - (4) / 5 and 8630 + l or 5 - 86); input Ax[true]; let r = - 9; output ""; let o63aa = array 34000; input K end

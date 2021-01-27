@@ -1,0 +1,1 @@
+program b : _ : takes _8 : integer returns integer array when case false and 94 <= 50 : chillax end case 75 <= 2 : chillax end otherwise : chillax end; let L = 31 = 48; while 55300 = 0 : do A42aa(9); pop end; while 81 : chillax end; while 0 : chillax end; while 5 : chillax end end main : chillax end

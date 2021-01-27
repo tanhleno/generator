@@ -1,0 +1,1 @@
+program vn : M1y0a : takes F6 : integer; q8, HD7 : integer; B : integer returns nothing b, up, Cpya : boolean; A, H, V2 : boolean array; b7, K, ra : boolean; A, i : boolean; let Y380a = array - 71900 end main : chillax end

@@ -1,0 +1,1 @@
+program R9 : R : takes Q3 : integer array returns integer input r; do T5(- 0720 - 03, 2 = 723); when case 08 : chillax end case 12 : chillax end case 9 : chillax end; while 8 : pop end; do d(2); when case 1 : chillax end; pop end B34 : takes H : boolean; d6 : integer array; j : integer returns boolean output 55 end main : input ug9[- R6 / not(3)] end

@@ -1,0 +1,1 @@
+program kS : e : takes Azn0a : integer array; s, dWu : integer array returns integer S, y, pP, d41, P : boolean; ifu, _, J4 : integer array; chillax end main : output "X" . "&" . - 8; when case - 0 * (7) and 1 - 30100 : chillax end; input NU7 end

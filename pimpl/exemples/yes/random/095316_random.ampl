@@ -1,0 +1,1 @@
+program f : main : pop true; while - true * true and 40 >= - (5) or 922 : when case 3 = 9430 : input gD8; pop end case 6 : chillax end case 5 : chillax end otherwise : pop end end; input fU0; output "66!a" . 923 . 7960; while 73 : do f(2) end end

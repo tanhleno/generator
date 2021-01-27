@@ -1,0 +1,1 @@
+program j : main : p6 : boolean array; when case(1 = 4) / ed(67) : when case - 61200 /= 005 : chillax end case 48 = 2 : chillax end case 3 : chillax end case 4 : chillax end otherwise : let _ = 7 end; let L8Ga[43] = 7 end case not false and not 4 >= o0 + 0 : chillax end end

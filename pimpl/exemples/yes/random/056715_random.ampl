@@ -1,0 +1,1 @@
+program k : O : takes rQ3 : integer array; c7 : integer; VE1 : boolean returns nothing A : boolean; k8 : integer; Vqu, aQ, W : integer array; pop 1 = 27500; pop 357 = 30; output "" . "5w" . "" end main : chillax end

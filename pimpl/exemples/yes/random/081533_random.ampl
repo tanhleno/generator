@@ -1,0 +1,1 @@
+program q : main : gG : boolean array; VM : boolean; Pd1a, x, R8, b : boolean array; D : boolean; output jl9 >= (2); output - true and 5 + 432 <= - 6 - 9; let o95a[- (32) or 1] = array - 19 and 5120; while - 962 : while 006 : chillax end; pop; pop end end

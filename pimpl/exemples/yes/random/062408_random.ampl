@@ -1,0 +1,1 @@
+program M7d : I : takes Xx5 : integer returns boolean A, ga : boolean array; let P[- 9 and 4 + 32100 - 2] = - 08 - 17 > 8; let c5 = array 1 - 00 end A6Sa : takes j : boolean array; F, F : boolean returns boolean array p : integer; mhH, F, Mw : boolean array; A, I : boolean; chillax end main : chillax end

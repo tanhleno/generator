@@ -1,0 +1,1 @@
+program by : r5 : takes H80, t : boolean array; c, qc, cI60, B : integer array returns integer r, Eo : integer array; W9la : boolean; chillax end main : Xt : integer; L, PX, E1l, v : boolean array; AjE, v1 : integer array; sc70a, i : boolean array; J : integer; E : boolean; N : boolean; b : boolean; chillax end

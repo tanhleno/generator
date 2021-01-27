@@ -1,0 +1,1 @@
+program M : f5 : takes v6 : boolean returns integer P7h0 : integer; XM90a : integer array; E, Lt9, J : boolean; R : boolean; when case - FQL0 - 0 : output 62 . "o"; input knPaa; pop; pop end; do m(- 778 - 8 > 81, 83); output 9 . 381 . ""; while 2 : chillax end; pop end main : output "" end

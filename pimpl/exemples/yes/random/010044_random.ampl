@@ -1,0 +1,1 @@
+program gg : y1Sa : takes V9, j83aa, DMVa : boolean array; d3laa : boolean array; l8, c, lt : boolean; c, k, m, E, o : integer; g, A4 : integer array returns integer e : integer; Ov, xM, sYma : integer array; x5, _ : integer array; TRG : boolean; input oa; while - 3090 : chillax end end main : chillax end

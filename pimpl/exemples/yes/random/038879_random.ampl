@@ -1,0 +1,1 @@
+program pU : C : takes apDaa : boolean array; T4, azM : boolean returns integer array vx4, GT, k, l : boolean; _cd, W, D, v : boolean; input kq[- g and 53300] end main : D, Y, Fb, OT20 : boolean; R, D2 : boolean; when case - (64 = 3) = (1) rem(4) and 3 : chillax end end

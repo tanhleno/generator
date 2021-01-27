@@ -1,0 +1,1 @@
+program lL : main : sf : integer; L6J0 : boolean; H, n, ui3a : boolean; while - (3) / i(4) > 8 or not 5 and 585 - 3 - 30300 : let hC0aa[- 470 - 7] = array 54 - 21; while 8 : chillax end; output "\t" end end

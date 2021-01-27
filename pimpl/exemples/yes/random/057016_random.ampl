@@ -1,0 +1,1 @@
+program T : l2b : takes U : integer array; H : integer array; e : integer array; S, p, o, x, f6 : boolean array returns boolean array chillax end t : takes t7 : integer returns nothing chillax end main : t7A, o5v0a, UsR : integer array; when case 56 - (0) * false and 4 : input y7; let B72 = array 18 end otherwise : do Z(78, 51, 572) end end

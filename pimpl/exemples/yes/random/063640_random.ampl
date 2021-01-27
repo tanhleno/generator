@@ -1,0 +1,1 @@
+program D : m : takes M16aa : integer returns nothing chillax end d : takes u, c, t2, U1 : boolean array; m37a, Q, c : integer array; x : integer array returns boolean array JS, W1, OG, L740a : integer; T : boolean; Jo : boolean; do U4(- 5 - 3 > 3) end main : chillax end

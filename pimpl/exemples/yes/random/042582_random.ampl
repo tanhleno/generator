@@ -1,0 +1,1 @@
+program b450a : t : takes s8x : boolean array returns integer array r, V, I : integer array; chillax end EB : takes P : boolean array; zR, k, P, hn, r3m, e : boolean returns boolean array input yP end main : chillax end

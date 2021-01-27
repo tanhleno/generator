@@ -1,0 +1,1 @@
+program s : p0 : takes nL2, l : boolean returns boolean array chillax end q : takes g, e, Z7C, X : boolean returns nothing let R[4 - 20] = array 7; while 2 : pop; pop end; output 3 . "\t"; do h(5); while 56 : chillax end; pop end main : el, i : boolean array; output "\n"; while - i - true <= - c or 570 : do oZ8(09); output 2 . ""; let m = 4; input vf60 end end

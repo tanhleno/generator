@@ -1,0 +1,1 @@
+program h : TF8 : takes A : boolean array returns nothing e : boolean array; output "y" . 8 end main : t : integer array; aR9aa, Q : integer array; P, Lz : integer array; E, j7 : boolean; chillax end

@@ -1,0 +1,1 @@
+program H : ot5 : takes O3faa : boolean array returns integer array P2, G14, t : integer array; a, qR : boolean; U : boolean; S7u0 : boolean; S79aa : boolean; P : boolean; pop; do IJu0a(- 6, 2, 8, 33); pop end main : Z : boolean array; chillax end

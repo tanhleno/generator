@@ -1,0 +1,1 @@
+program w : x : takes M, m : boolean; G : integer array; W4 : integer array; XK, y : integer returns boolean array pop 4 = 95; when case - 5 /= 9 : chillax end; input w; do pG(3) end main : chillax end

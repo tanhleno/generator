@@ -1,0 +1,1 @@
+program J : B : takes lzp : integer array returns integer chillax end d : takes M, V, mX : boolean returns nothing fLe : boolean array; pop; let D7 = 1 end main : Y2 : integer; LG3, x4, M28aa, _27, W2W, AC : boolean array; while not not y / not false * true and 7 or false > not not 0 : let zJB0a[5] = array - 3 end end

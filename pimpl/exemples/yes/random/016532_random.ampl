@@ -1,0 +1,1 @@
+program O8e : r : takes u7, vG, e4 : integer returns nothing let k = - 6 = 4150 end f6y : takes q, Va : boolean array returns nothing when case 5 - 17 = 4 : when case 6 : chillax end end otherwise : output "X"; pop end end main : Sd : integer array; Du30a, t, q2 : integer array; chillax end

@@ -1,0 +1,1 @@
+program P8F : i : takes rZ, K : boolean array; S, q : boolean array returns nothing while(7) : chillax end end v : takes q : integer; Cob, p48, P : integer returns nothing chillax end main : F : integer array; T : boolean; chillax end

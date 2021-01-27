@@ -1,0 +1,1 @@
+program Y : O : takes f : integer; z, d : boolean array returns boolean do oIiaa(- false) end b : takes J, P : boolean array returns nothing B : boolean array; QUf0, b, fQ : boolean array; p, sS : boolean; O : boolean; while - 36 - 6 : chillax end end v7 : takes k : boolean returns nothing WU9 : integer; chillax end main : chillax end

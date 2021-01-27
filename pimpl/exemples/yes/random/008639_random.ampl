@@ -1,0 +1,1 @@
+program c : D9 : takes wf, JU, m0 : boolean; Q16, i, Q : integer array; H : integer array; C, d9, Xyta, q, g : integer array returns nothing output 25 - 44 <= 94; do o(- 5 <= 6) end main : chillax end

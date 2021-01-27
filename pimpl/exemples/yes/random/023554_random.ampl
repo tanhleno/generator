@@ -1,0 +1,1 @@
+program m91aa : p : takes w, L : boolean returns integer array CF1 : integer; Q01a : boolean array; do g(- not 44 and 5 < 4 - 34, 2 - 54 >= 1); output ""; let I[0] = array 1; output "010" end main : chillax end

@@ -1,0 +1,1 @@
+program MT4 : main : c_9aa : integer; pZ60a : boolean; when case - (5 = 40) rem ved[4] + false : chillax end case - 0 > - true + 21 - 024 : pop 8770; while 4 : chillax end; output "" end otherwise : input poM; input w6[6]; output "" end end

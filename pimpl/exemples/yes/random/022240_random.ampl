@@ -1,0 +1,1 @@
+program m : wX1 : takes egJ0a, T : boolean array returns nothing r, q6 : boolean; d, _ : integer; KCd0a, z, OEV0 : boolean; let J = - 5 - 3; while 76 <= 51 : pop end; input W060a end main : c : integer; chillax end

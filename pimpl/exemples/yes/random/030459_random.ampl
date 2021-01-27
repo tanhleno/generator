@@ -1,0 +1,1 @@
+program d : AP : takes Q, M : integer array returns nothing r, j85a, A2, V, j : integer; lV, C, B : integer array; v2w, GZ00, g : boolean array; chillax end main : z, fO, o, k6U0 : integer; do E(- 1 * true + false rem not 44800 and 6 < - true) end

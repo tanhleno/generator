@@ -1,0 +1,1 @@
+program G : m : takes K6, e, wZ, P, b160 : boolean returns boolean array U, wz8 : boolean; T5K0, QnQa : integer array; o2, _k : integer array; chillax end main : t7, s5 : boolean; let C7 = array not g5o(79600) end

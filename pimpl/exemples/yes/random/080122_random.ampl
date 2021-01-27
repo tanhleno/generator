@@ -1,0 +1,1 @@
+program g : main : C : boolean; output - 475 and false and 1 - 042 and 57 < - not 1 and 0 + 68 - 404; let a = Ph and 34; let QYe[false and 8 or 003] = array - 163 and 8; when case 2 - 4 > 0 : pop; let o = 2; pop end case 9 : chillax end; let s[3] = array 60; do f(54); let Dti = 7 end

@@ -1,0 +1,1 @@
+program vtsaa : v : takes d7, E7 : boolean array returns integer while - (95) : chillax end; while - 0 - 37600 > 0 : output "W" end; when case 694 = 5 : pop; pop end otherwise : pop end end _71aa : takes d5R : boolean array returns boolean array do dem0a(522 >= 66) end main : chillax end

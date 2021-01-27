@@ -1,0 +1,1 @@
+program R5P0a : Y1 : takes F : integer array; Mg8, E, wPK, e4, jA, a3, z : integer returns boolean E, l : integer array; let Vl = array V; do K(- 45 - 93); let V[1190] = array 14 end i : takes iU5, ja, CS, D : integer array returns nothing while 8 - 374 : chillax end; input V95aa; do iG(57); pop; let X = 900; pop end main : chillax end

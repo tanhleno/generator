@@ -1,0 +1,1 @@
+program DE : q : takes W : boolean array; a, W01 : boolean; S7, G8eaa : integer array; j, s : boolean array returns nothing vM5 : integer array; e12 : boolean array; _1, Mn6 : boolean array; while - 21 or 88500 > 4 - 6 : do s(6, 461) end; while 64 - 45500 = 0 : do Q(2); let g = 46700 end; let B = array 2; input re[1] end main : _ : integer; chillax end

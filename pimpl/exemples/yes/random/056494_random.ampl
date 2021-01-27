@@ -1,0 +1,1 @@
+program g : Z : takes C : integer array; W0r0a : boolean returns nothing while - false and 1 + 9980 : chillax end end A : takes hL, rc5, C740 : integer; K, q : integer; BX : integer returns nothing chillax end C : takes Q0vaa : boolean array returns nothing chillax end S : takes NU, o : boolean returns integer do j6b(799, 018); do y(3); let q0 = 5; pop end main : do r(false) end

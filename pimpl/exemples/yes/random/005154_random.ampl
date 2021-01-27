@@ -1,0 +1,1 @@
+program B : O : takes F, N, r, D7K0a : boolean array; N : integer array; i, f, Lg, E, D : integer array returns boolean array do Y3s(- 5590 or 92 - 353, 5 - 41 /= 7910) end p : takes w1 : integer array returns boolean array qb : boolean array; xU0 : integer array; yi2 : boolean; vr60a : boolean; e : boolean; chillax end main : u : integer; chillax end

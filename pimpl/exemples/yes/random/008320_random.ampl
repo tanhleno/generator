@@ -1,0 +1,1 @@
+program E : e : takes X, l2, b, O : integer returns nothing R8 : boolean array; let l1S0[not 1 + 693] = array - true and 7; let _99[- 4 - 64] = array 5 - 2 end main : VX4 : integer array; j, V0 : integer array; YN30 : integer array; rC : boolean array; input T[- false - true] end

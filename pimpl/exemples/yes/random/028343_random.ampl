@@ -1,0 +1,1 @@
+program Q : J : takes gA, Pn : integer array; J : boolean array; V : integer array returns nothing p4 : boolean; while false and 2 < - 481 : when case 6980 : pop end end end V : takes vL, o : boolean returns boolean when case - 8 /= 3 : chillax end end tO6aa : takes J2, H7 : integer array returns nothing let y[7590] = 9 end main : pop end

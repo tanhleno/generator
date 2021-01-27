@@ -1,0 +1,1 @@
+program LGka : E : takes v, q69, j4, dn5 : boolean array; u : integer array; i : boolean; v8 : integer array returns integer input B[- not 0 and 9 + 58]; let r = 99 = 60; output "5" . 4; do RF5(02); let X5 = 84 end main : lO7 : integer; S : boolean array; k85 : boolean array; V3c0, R97aa : integer array; input G; do xP3(not false); output - 018 <= 4 end

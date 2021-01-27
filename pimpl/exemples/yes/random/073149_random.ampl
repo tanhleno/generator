@@ -1,0 +1,1 @@
+program P8P : main : s0, Ca, wP : integer array; when case(6550) and f * 6 and 9 = (07) or(5) : pop 88 = 7 end case S[9] + 7 and 90 or 4 - 7 <= - 6 or 4 - 7 : let X = array 8; input Z4 end otherwise : while 68 = 8 : let Yy2 = 487 end; pop 16 end; output "?" end

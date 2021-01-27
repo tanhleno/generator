@@ -1,0 +1,1 @@
+program pA : Ako0 : takes J9 : boolean; u930, o, f080a, E : boolean; KR : integer returns nothing chillax end EE6 : takes c, R04, f9 : boolean array returns integer do L(2 = 65, 593 = 8, 82900, 1) end main : X7j, i7, lo90, w, S2M0 : boolean; chillax end

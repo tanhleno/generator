@@ -1,0 +1,1 @@
+program q : main : while C[11600] or(6) / true and 079 : while - 4 : when case 9630 : chillax end; input gr2; pop end end; do fW(- (18) and not 77 = 0 and 0 or 30, false <= 76 - 4, - 214); output "2" end

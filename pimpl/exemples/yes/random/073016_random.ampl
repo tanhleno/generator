@@ -1,0 +1,1 @@
+program x0 : main : n15, d, nc : integer array; w : integer array; let uK = - 3 or(74) or 035 = - 9 and 1 + 515 - 3; do y3(o530a(27600) + (47000) and 37 - 8 - 52 = - n54 and 8 - 74, - true, - 4 - 978) end

@@ -1,0 +1,1 @@
+program G57 : main : R1_0a : integer; Q0 : boolean array; oGM, T, B8 : integer; Ht, YM : integer; let z[true rem not(7) / false] = - not(1) or false - 5 > - (57) and 885 - 4; do Qm9aa(- false and not 2 + IzKa >= (127) and 85); output "Dmaa"; input j[6] end

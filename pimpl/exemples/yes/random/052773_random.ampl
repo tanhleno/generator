@@ -1,0 +1,1 @@
+program z : SV : takes s8_0a : integer; W9w0a : integer array; a6 : boolean returns boolean w : integer; do qq(not 256 and 7 + 21100 - 0, 53800 - 32, 9 = 14) end main : when case - false and false - (945) : chillax end case - true / 055 : chillax end case - o and 18 - 06 - 9 >= 6 - 0 : chillax end end

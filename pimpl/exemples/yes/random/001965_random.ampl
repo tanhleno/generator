@@ -1,0 +1,1 @@
+program D : n : takes IE, Q, o2, Lp4, _T, He0 : integer array returns nothing h78 : integer array; _ : boolean; do R0(not 66, - 6 - 4590 < 4, 81 = 55) end main : while 74 + V / true and 89900 : while - 97 = 3 : pop; let L450a = 98500 end end end

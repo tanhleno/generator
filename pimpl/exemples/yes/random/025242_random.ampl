@@ -1,0 +1,1 @@
+program YYUaa : Z : takes t, Z : integer; O, Z, _C : boolean array returns nothing do f(- true and 9 or 2 - 7550 <= 3 - 48000) end V1 : takes N7K, N : integer; d : boolean array returns boolean chillax end main : let h[true] = array true; input i[- (2)]; let P[99 and 127] = array - KbB end

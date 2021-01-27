@@ -1,0 +1,1 @@
+program W : f : takes F : boolean; t, t, Y2 : integer array returns boolean array chillax end main : do g4((53) rem(6) / 88 /= (12), - 3 * r); while - 8160 rem false and 05 - 2 and 68400 or 28 : let G[2620] = 81; let u4[107] = array 44; do U(18); input S; pop end; pop end

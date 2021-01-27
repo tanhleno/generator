@@ -1,0 +1,1 @@
+program v : X : takes o, d, k, G9, k4Q0a, L4, qG90, F1 : boolean returns boolean array pop; do zb9(- 1 /= 0960); when case 02 = 811 : chillax end otherwise : pop end end EDe : takes _, aJ8 : boolean array returns integer array input Bm[1 - 40]; output 569 end main : input y; pop - true and 6 + 61800 end

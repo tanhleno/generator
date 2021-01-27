@@ -1,0 +1,1 @@
+program u2 : o : takes W, f : integer array returns integer array R, q, h2 : boolean; K, h, hPG0, Iq : boolean array; chillax end X5 : takes z, s, Z, mmY : boolean returns boolean array let P7 = 0 = 6 end main : output "d"; when case - I9 / 034 > - O5 + 90200 : chillax end end

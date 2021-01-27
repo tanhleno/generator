@@ -1,0 +1,1 @@
+program bh : W : takes m : integer array returns nothing n, v6, w : boolean array; do wmU0(- false, - 74 - 3 < 1); output "" . ""; output "n" . "" end main : input iZ7a[- true and true or c[9]]; do Y(- (3) / not 6 /= - true, true and 26 >= 4 - 16); while false : chillax end end

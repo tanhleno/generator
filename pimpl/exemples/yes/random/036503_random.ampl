@@ -1,0 +1,1 @@
+program b : N : takes O : boolean; s : integer; vV : boolean; A4, o6 : boolean array returns nothing jJK, X, f8, E0H, t94 : boolean array; let J = - 7370 - 5 end main : let Vhc[r6 rem 401 and false and 40] = - not true; while(0760) rem 495 - (2) and 2870 >= (8) and 4970 : let u = array 8; input hO; do P(6) end end

@@ -1,0 +1,1 @@
+program y : k3Oa : takes VxS, r4 : boolean; sMXa, n : integer array returns boolean c : boolean array; chillax end FnZ : takes T, pa, Y3 : integer returns integer L7, xX : integer array; let b[- 5] = array - 9 - 92000 end X : takes c, F1, SVi : integer returns nothing pop 1 end main : chillax end

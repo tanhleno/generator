@@ -1,0 +1,1 @@
+program Z0 : main : when case - false : while 3 /= 97 : chillax end; pop end case 4 * false and 990 - true or 9280 /= (062) : chillax end; while not true * not 4 : chillax end; do mG(- not 478 - 69) end

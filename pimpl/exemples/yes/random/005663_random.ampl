@@ -1,0 +1,1 @@
+program Sr : N : takes f, n, N, Rg60 : boolean array returns nothing BM : boolean; chillax end s : takes G8 : integer array returns nothing r, C7, CS1 : integer array; L1V : integer; G23, Gv : boolean; T : boolean; RK : boolean; chillax end main : chillax end

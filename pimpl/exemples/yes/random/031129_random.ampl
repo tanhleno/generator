@@ -1,0 +1,1 @@
+program P : hW : takes Z, Nr : integer array returns nothing while - eo - 3470 - 3 : do h(525, 8) end end SS : takes M1n, O : boolean; q7Fa, v69 : boolean array returns nothing chillax end main : l, jL : boolean; do kRw0a(- false = 9060 - (9) and 99, true); do D1(- (6) >= gq and 0, - irx0a > 99, - 43) end

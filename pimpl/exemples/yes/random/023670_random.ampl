@@ -1,0 +1,1 @@
+program K : J : takes z, oE80 : boolean returns integer chillax end main : input r9m; when case - Qw[4] or true and 5 < - false - 00 : output 6 . ""; input fnS[9700] end case - S and 4 : chillax end case 7 : chillax end end

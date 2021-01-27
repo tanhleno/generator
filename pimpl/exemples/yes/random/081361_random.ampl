@@ -1,0 +1,1 @@
+program LC7 : main : g24aa : boolean array; z5, y060 : integer; f, C4A0a : boolean; _8 : integer array; output true + (542) and 0; output - not 5 and 9140 - 2 - 41 > - 0 . - 41 . 83 . 3; let m[true and 5] = - 0 end

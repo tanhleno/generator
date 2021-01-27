@@ -1,0 +1,1 @@
+program j92a : main : a : integer; when case - true rem mstaa(7) / not 1 and 3 > false rem Z or false and 3870 : chillax end case nI70a[88] and cE - not 6 and 1 + 6 - 7 >= - AJ : while 02 = 9 : input c end end case - 4 : chillax end; pop end

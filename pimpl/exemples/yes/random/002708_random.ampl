@@ -1,0 +1,1 @@
+program h8 : x8 : takes c, J, k, H8, a : boolean array returns integer array output - 04 . "" end og : takes Q, U, l, p : integer array; nIR0a : integer array returns boolean array L : boolean array; chillax end main : t, B, B, j2, Y : boolean array; d, d : integer; chillax end

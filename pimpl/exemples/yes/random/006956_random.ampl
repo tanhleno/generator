@@ -1,0 +1,1 @@
+program _8 : x5 : takes F5Raa, T2, cK, kaE : integer array; S, u9, Q : integer returns nothing P010 : boolean; output "" end main : We5, a5, L : boolean array; d40, j5 : boolean array; input c; output "Lt" . - 06 . 728 = 30 . "" . 88 end

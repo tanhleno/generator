@@ -1,0 +1,1 @@
+program y : Cw : takes M : boolean array returns boolean chillax end wA3aa : takes Jg, S, o : integer; fLt0 : boolean; kqg, v : integer array; yB8 : integer returns nothing chillax end main : pop - (2); pop end

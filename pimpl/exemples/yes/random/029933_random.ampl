@@ -1,0 +1,1 @@
+program b : dR6 : takes U, Qo : integer array returns integer chillax end G : takes xM, g : boolean array returns boolean array while - 1 >= 74 : chillax end; when case 402 = 32 : pop end otherwise : chillax end end main : chillax end

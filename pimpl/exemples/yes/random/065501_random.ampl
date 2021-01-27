@@ -1,0 +1,1 @@
+program k : cJ : takes xR : integer returns nothing when case not 369 + 047 - 49 <= 0 - 4210 : do p(0); let NhC = 6; do Y(5); pop end case - 4 : when case 63000 : chillax end; do a(849) end otherwise : output "6`" end end main : X : boolean array; I8U : boolean array; chillax end

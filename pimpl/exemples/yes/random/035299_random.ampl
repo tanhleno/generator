@@ -1,0 +1,1 @@
+program cQ2 : U2 : takes N8w : boolean; v, t : integer returns nothing input Y2[- not 1930]; do AI(267 - 887, 5 = 73); output 188; let eLw = array 946; pop; when case 6 : chillax end; pop end main : chillax end

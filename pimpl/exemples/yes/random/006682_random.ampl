@@ -1,0 +1,1 @@
+program I : W : takes AC, e1B, ki, C : integer; t : integer; L, W : boolean array returns boolean R, Cc4aa : integer; E2, R : integer; eqx : boolean; while St and 3 - 1 = - 70 : when case 8 : chillax end case 41100 : chillax end otherwise : chillax end; let V = 0 end; pop end main : c : integer; output "6"; input u end

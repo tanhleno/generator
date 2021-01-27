@@ -1,0 +1,1 @@
+program b : k7 : takes p, fd, B, Y8 : boolean array; Fc8, XZ, Q : boolean; y1l0 : integer returns integer array O7ia, T6, Z, V8, z : boolean array; P96, V : boolean array; G4_, abP0 : integer; P510a, P62 : boolean; o : boolean; SAd : boolean; output "c6\"" . 68 = 3 . "" end X : takes w : boolean array returns boolean array let B200[- 6] = array 3 end main : output ")" end

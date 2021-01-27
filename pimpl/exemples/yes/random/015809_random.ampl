@@ -1,0 +1,1 @@
+program z9t : R : takes I89, X, vZXaa : integer returns boolean C, je_0a, Gm : integer array; I6 : boolean; O, H, f : boolean array; let A[- true] = - 2410 > 7; do R9n0a(0390 - 4, 7, 332) end main : z2, Za : boolean array; when case false or 4 and 7 + 967 and 24700 : input U[- 31]; while 9 : chillax end; do t(5) end otherwise : pop 4; pop 6 end end

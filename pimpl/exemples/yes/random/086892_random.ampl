@@ -1,0 +1,1 @@
+program tk : main : S1 : integer array; _ : integer array; A : integer; while - false rem false and false and 5 + (9) or(54) and 20 or 7 : chillax end; input O5; output "a5" . 49 = 93 . 0440 . "," . "w" end

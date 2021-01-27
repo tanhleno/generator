@@ -1,0 +1,1 @@
+program K23a : nrF : takes ch : boolean array returns integer array M : integer array; let JDR = array - 83600 and 1 end main : P, lI, j, G01 : integer; N9, _, e, Q, OI70, K8 : boolean; j, l : boolean array; p0 : boolean array; chillax end

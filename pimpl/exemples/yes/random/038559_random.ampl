@@ -1,0 +1,1 @@
+program F : K : takes y120 : boolean array; lG7, v : boolean; b8 : integer array; S : boolean array; t0 : integer array returns nothing K9 : boolean array; sEX, cj2a : boolean; chillax end main : input a5[not not 74 and 058 / not 30]; pop; pop 93 - 0; while - 3 /= 2 : while 5 : chillax end end; output 0 . 67 end

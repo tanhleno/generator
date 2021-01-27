@@ -1,0 +1,1 @@
+program v : Nc3 : takes S, cg5a : integer returns nothing let y1 = 32 - 2 = 1; while - 300 - 5 > 0 : chillax end; when case 47 = 6 : when case 24 : chillax end; pop end otherwise : chillax end end main : output "\"" . "5" end

@@ -1,0 +1,1 @@
+program rM : d : takes w : integer; j, sw : boolean returns nothing T63, H : boolean array; do i(b8 >= - 24, - 87 - 6); let ks[- 0 - 8] = 5 = 2; while 632 : chillax end; while 34 : chillax end end Y : takes B4Z, T, s, RC4 : boolean array; x, n4 : boolean array; RQd0a : integer returns nothing chillax end main : chillax end

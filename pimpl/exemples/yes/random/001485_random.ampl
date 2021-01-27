@@ -1,0 +1,1 @@
+program Iy3aa : T : takes A, O3ya, t, V67, zW, Y54 : boolean returns boolean array L : boolean; input h; output 1 = 9 . 1; output 839 end sS : takes Q39aa : integer array; d5 : integer returns integer while - 8 - 3 >= 69 : when case 4 : chillax end end end main : u : integer; Q, e : boolean; n : integer array; wMla : integer; chillax end

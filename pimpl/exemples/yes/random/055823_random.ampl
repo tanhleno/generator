@@ -1,0 +1,1 @@
+program FZs0 : _ : takes e : integer array; b : boolean array; l, b : integer array; hA, n32 : boolean; z790a, V, L : boolean array returns integer array while true : chillax end end main : N : boolean array; chillax end

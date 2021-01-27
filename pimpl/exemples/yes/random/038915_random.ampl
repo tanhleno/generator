@@ -1,0 +1,1 @@
+program H : Qa3aa : takes F54 : boolean array; T, SY80 : boolean returns nothing chillax end main : J0 : integer; _Y, V : boolean; M : integer; ytL0, zt : boolean array; pop; do U(- 3 <= - true, true - 6); do E(false and 731 /= - 954 - 49900) end

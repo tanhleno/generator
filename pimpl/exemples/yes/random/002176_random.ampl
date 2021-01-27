@@ -1,0 +1,1 @@
+program i05 : L : takes TN60a, FP, P, ym3, r : boolean; P, BG00 : boolean array; g : boolean; m7 : integer array; R9Ia, h : integer; Q0P : boolean array returns boolean d, j8 : integer; h75aa : integer array; output - 229 - 7 <= 7 . 688 = 9 end main : C, Zl : boolean array; input yD30a[- (40 = 5) / hV3(6) rem false] end

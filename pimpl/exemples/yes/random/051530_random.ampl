@@ -1,0 +1,1 @@
+program JI : A4 : takes LjK : integer; J3 : boolean; r : integer array; R : boolean returns nothing while - (81) - 475 - 8 : let em[2] = array 17; let SdUa = 4450; pop end end main : output f + (3) and 93 - 85 end

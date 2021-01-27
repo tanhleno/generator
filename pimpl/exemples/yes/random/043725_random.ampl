@@ -1,0 +1,1 @@
+program j1 : Tf : takes z19a : boolean array returns nothing chillax end main : n, W : integer; while not true / (77) and 1580 and 577 + not not 0 > - 5040 or false or 3 : let Q38[88] = array 2 - 4; do C(063 = 6750, 190) end end

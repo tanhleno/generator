@@ -1,0 +1,1 @@
+program D : H : takes g : boolean array returns boolean G, Pd, eKL : integer array; while(671) and 51 <= - 1 - 9 : chillax end end f9K : takes Nq, NC, E, k : integer returns integer X, X, D, Pu : integer; pop 8 = 829; do v0ua(11700, 5); do j(05) end main : N : integer array; o, O8 : boolean; R : integer; chillax end

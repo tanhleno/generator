@@ -1,0 +1,1 @@
+program YGu : main : m, T : integer; Sr, c, D : boolean; e : boolean; W6, j : integer array; do Z(- not(3) - 0 - (5) - 00 - 2 <= true, - o or(08) and 27 /= - true and 26 or 65, - false - 886 > - 4, 42); pop - xW - 2 /= - 7 end

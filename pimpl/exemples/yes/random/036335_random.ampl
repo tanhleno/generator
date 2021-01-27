@@ -1,0 +1,1 @@
+program rF7 : P : takes b : boolean; w : boolean returns nothing GG : integer; pop end main : u, v, A, WK, H : integer array; k9 : integer; Wo3, F : boolean array; c, DXA, o : integer array; N, I : integer array; chillax end

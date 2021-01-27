@@ -1,0 +1,1 @@
+program U : main : m, L, p : integer; when case - not(43) = - 23700 rem 5 and 97 : when case 853 - 422 <= 21800 : chillax end case 080 = 25 : chillax end otherwise : chillax end end; output ""; let g = - 3 = 5; pop 374 = 8 end

@@ -1,0 +1,1 @@
+program wq10 : U : takes Or, Is3 : boolean array returns boolean when case - true or 811 : chillax end case - 7470 - 99 : do N(3); do r(26) end otherwise : do J1(46); do y6(3) end end main : f, b2 : boolean array; chillax end

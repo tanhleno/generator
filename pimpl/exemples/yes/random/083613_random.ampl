@@ -1,0 +1,1 @@
+program F : main : K4 : integer; x, D : boolean array; x92, x43 : boolean array; g, wv20, xp, _x : boolean; L, W : boolean array; while true / false * (7) and 1 >= 67600 rem Mg20a + false and 59 - 0 - 1 : while - 4 - 4 : input m; output ">" end end; while false or(93) : chillax end end

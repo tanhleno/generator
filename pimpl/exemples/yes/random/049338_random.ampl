@@ -1,0 +1,1 @@
+program x04a : r : takes G : integer; L1z, n, b, a, zsx, R : integer array; b, P, E3 : integer array returns boolean yIp0, a, A, t, E6 : integer; B1l, N : boolean array; chillax end main : output - false > true; output true end

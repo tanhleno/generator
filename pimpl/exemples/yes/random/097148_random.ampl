@@ -1,0 +1,1 @@
+program X : main : when case not false : chillax end case false : chillax end case false and 7 /= - 04800 - 496 : let Z_ = 57500 end otherwise : output "."; while 43 : chillax end end; output "" . "'" end

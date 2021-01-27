@@ -1,0 +1,1 @@
+program D : M0aa : takes ay9 : boolean; s : integer returns nothing chillax end fC : takes z : integer array returns nothing chillax end main : let Q[- (10) and false - not false - true] = array D / S59a(7) end

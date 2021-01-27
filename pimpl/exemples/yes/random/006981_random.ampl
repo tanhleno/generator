@@ -1,0 +1,1 @@
+program A : n : takes u91aa, _, g28a, d : integer array; J3, md : boolean array; s, Z1 : boolean; Unq0, Z, j, z, A : integer; f, Hv, P, E : integer; L, e : integer returns nothing YD9 : integer; AH, X, ma : boolean array; a, VY : integer; input K; while 6 : chillax end end main : Z1J : boolean; chillax end

@@ -1,0 +1,1 @@
+program U : g : takes R : boolean array returns nothing while - (40) or 07 - 5 <= - 42 : chillax end end main : when case not true - true - not 6840 or 807 - 41 : while - 920 <= 08900 : pop end; let S[7] = array 5; input f2 end; while not not 0 : chillax end end

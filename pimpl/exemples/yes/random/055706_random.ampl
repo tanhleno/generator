@@ -1,0 +1,1 @@
+program A : H460 : takes EG7 : integer array; m : boolean; yyH : integer returns integer B : integer; s : integer array; z, W4 : boolean array; b5la : boolean; chillax end n4Taa : takes G, x7, Y, ED : boolean returns boolean when case 0 - 8 = 1 : pop end end main : chillax end

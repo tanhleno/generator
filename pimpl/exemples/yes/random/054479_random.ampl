@@ -1,0 +1,1 @@
+program d : zG : takes A950 : integer array; d, r : boolean; p : integer array returns nothing W, F : integer; chillax end w80aa : takes G6s, v : boolean array; U, I : boolean returns nothing chillax end main : u0 : integer array; output "\"\"" . false and 2 > - 0; let V = array - not not 04 end

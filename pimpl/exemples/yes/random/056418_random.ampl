@@ -1,0 +1,1 @@
+program i0Ga : j : takes Y1 : integer array; H3Vaa : boolean returns nothing l00a, k, A7 : boolean; output "5r0a" . "^\"aa"; when case 249 : chillax end; do T07(7280 = 2, 89, 4); output 50 . ""; output ""; pop end main : chillax end

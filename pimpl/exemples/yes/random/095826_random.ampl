@@ -1,0 +1,1 @@
+program Q : main : when case - false /= - false or 0 and 4 : chillax end case - not not 7 and false and 665 - (6) or 8 : let d[1260] = array 8; do W2s0a(4, 9) end case - (647) and 06 : let y = array 08; input X end case - 9 - 9 = 79400 : do b(7); while 4 : chillax end; pop end end

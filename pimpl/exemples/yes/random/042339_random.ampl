@@ -1,0 +1,1 @@
+program e9 : f7 : takes q : boolean array returns boolean output "\"" end main : output(66) /= - not 4 and 38500; while false - (27) - 43 : while 6660 : chillax end; let n2[5] = array 3510; let r = 51 end; do t0u(true and 6 - 06 <= 711); while 6 <= 0 : chillax end; input W3[1] end

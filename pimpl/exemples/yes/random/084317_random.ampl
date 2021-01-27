@@ -1,0 +1,1 @@
+program Iel0 : main : H2Paa : integer; l : integer; R : integer; o3 : boolean array; pop - (5220); while u[4] * 7 - not 7 and 0 >= true : output 50 . ""; while 02 : pop end end; when case not 8 and 01100 : while 2720 : pop end; let k140 = 496 end; output ""; do u(0) end

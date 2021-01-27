@@ -1,0 +1,1 @@
+program J : b : takes q8 : integer array returns nothing uE : boolean; chillax end main : let pu[- true and 78 - (774) / true + (3) and 013] = array not not not 5 and not not 40800 - (726) and(50) and 51; when case - (0) or false and 8 + 9 - 8270 > - 13 or 0 - 1 : chillax end; output 6; when case - 88 >= 3 : do e(6) end case 6010 = 0 : input _T20 end end

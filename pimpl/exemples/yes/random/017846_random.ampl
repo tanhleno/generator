@@ -1,0 +1,1 @@
+program o : QD00a : takes g, QpZa : boolean; FI : boolean array returns boolean array chillax end H : takes Bjj, r, I, pe, m4V : integer array returns boolean array chillax end main : Ov, Z : integer; chillax end

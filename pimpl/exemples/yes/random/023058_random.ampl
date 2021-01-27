@@ -1,0 +1,1 @@
+program U1 : lU : takes P35, n2 : boolean returns boolean array let Yv7aa = array(11) - 4 - 18; when case 4 : while 7530 : chillax end; pop end case 8 = 37 : chillax end case 5 : pop end case 43 : chillax end otherwise : while 5 : chillax end; pop end; let t[5] = 2 end main : chillax end

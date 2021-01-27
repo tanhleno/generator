@@ -1,0 +1,1 @@
+program RmRa : M : takes H : boolean; mc, P : boolean array; Ro2, C, _l3a, m, r : integer array returns nothing when case true and 66 or 5 - 6380 : chillax end case 7 : chillax end end main : Y6 : boolean array; chillax end

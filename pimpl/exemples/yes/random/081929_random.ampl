@@ -1,0 +1,1 @@
+program R0 : main : ec6 : boolean array; _ : integer; H730 : boolean; while - false * x + (9) + false /= not(37900) and false or false or 3 - 9 : when case 86 - 5 /= 9 : chillax end; while 135 = 97 : when case 44 : chillax end; pop end end; do w090a(not b and(6) and 6 or I and 00 <= - false) end

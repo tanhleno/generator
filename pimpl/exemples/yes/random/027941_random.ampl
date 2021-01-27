@@ -1,0 +1,1 @@
+program s : M : takes F, V_K0a : integer array; Z3, y77 : integer array; QDk : boolean; zYk, E, VF, XI6 : integer; A, n : integer; _, A : integer array; l6Va : boolean; Bw : boolean returns boolean pop; pop 64 = 74800; let ni5[85] = array 1 end main : let M8n0 = array - (0 = 45) rem false end

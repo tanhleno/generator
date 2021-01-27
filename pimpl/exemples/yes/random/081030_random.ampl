@@ -1,0 +1,1 @@
+program DV : main : J7 : boolean array; r, e7, X5 : boolean array; x, D4 : boolean array; Td0, W42 : boolean; j2, E5d0a, l1A : integer array; UTb0a, i : boolean; Rfu : boolean; output - false or not 97 and 29000 - 09 . true and 3320 or 9 = - 1 end

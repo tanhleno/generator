@@ -1,0 +1,1 @@
+program J : eXr : takes s, M100a, mj4, P6, D, mI3 : boolean array; FC : integer array; D : integer returns nothing while - 1 and 0 >= 182 - 27100 : chillax end; pop end main : i, x : boolean; uX9 : boolean; do X0(- false > MuF0a, - not a50 - (8) < false and 02) end

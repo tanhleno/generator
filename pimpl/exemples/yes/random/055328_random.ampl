@@ -1,0 +1,1 @@
+program X : k : takes E7 : integer array; c4, Sw : integer returns boolean p : integer; chillax end main : E, Y : boolean array; output "5" . "" . - 8 >= 6 . 83 . "\t" . 722; while not(971) and TB60a or false > - (67300) + 1 - 9 : chillax end end

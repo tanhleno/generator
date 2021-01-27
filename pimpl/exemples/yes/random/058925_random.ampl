@@ -1,0 +1,1 @@
+program Xo : _ab0 : takes t : integer array returns integer array k : integer; input D; let tgA[- 873] = array 8 end d : takes H, m : integer array returns integer QPgaa, J, GFV : integer array; while - 1 : chillax end end P8 : takes V3j0, r : boolean array returns nothing chillax end main : nzq0, b, n6 : boolean array; input i5; output ""; pop end

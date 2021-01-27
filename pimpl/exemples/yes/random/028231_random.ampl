@@ -1,0 +1,1 @@
+program v : aW : takes d, _25aa : integer array; B : boolean array; GATaa, NKZ0, R, mg0a, VO : integer returns boolean array l0aaa, IU, l3 : boolean array; k7o, i7M : boolean array; input NX[6 and 0] end main : when case 6150 + false * pt90a - false and 0860 + 68100 /= not 840 : output 3 = 3 end otherwise : pop 5970; let gL = array 12 end; input pE2[- s[7]] end

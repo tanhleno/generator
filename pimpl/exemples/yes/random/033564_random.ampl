@@ -1,0 +1,1 @@
+program t : K4B : takes j6J : boolean; HK, A, RJ, f : boolean array returns nothing let O9[not 24900] = array(0200) and 45 or 1 end main : while true : when case 38600 : pop; output "^"; pop end case 4 : chillax end case 1 : chillax end; input ru[5] end end

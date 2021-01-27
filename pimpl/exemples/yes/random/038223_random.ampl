@@ -1,0 +1,1 @@
+program D : d970a : takes l : boolean array; J, H, DI : integer; wZl0a, s : integer returns nothing t6, k, I : integer array; chillax end jj : takes e7 : boolean; I : integer returns nothing while 8 - 21 < 5 : chillax end end H3 : takes Y, jOL : integer array returns nothing while 7 = 9 : chillax end end main : n, u : boolean array; Ek, S, z, c, G, L : integer; chillax end

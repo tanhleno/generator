@@ -1,0 +1,1 @@
+program g : jk : takes O : boolean returns nothing input EM; while - 367 - 80 < 731 : let G = 4840 end; input v1 end R_c : takes w, _I, q : boolean returns nothing output 1 end main : G3 : integer array; SZL : integer; v, d : boolean array; when case true rem 9 and true >= false : pop 412; do xcpa(24 = 14) end otherwise : output "6:\"" end; pop; input o end

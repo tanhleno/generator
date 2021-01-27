@@ -1,0 +1,1 @@
+program t7 : E : takes r, JeY, K38 : boolean returns boolean chillax end x : takes B02 : integer array; LL, M9X0, o, Y7qa, r, o5 : boolean array returns boolean o, rO00 : boolean; ie : boolean; chillax end main : p, b : integer array; c : integer; do X(- false, - true rem true and 983 <= 2900 and 3) end

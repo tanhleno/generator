@@ -1,0 +1,1 @@
+program Mnh0a : lL : takes k9 : boolean; c09, E : boolean array returns boolean chillax end B6 : takes H, v, I, R : boolean array returns integer array X, p : integer; P : integer array; T, Y5 : boolean; _ : boolean; o : boolean; chillax end main : Er, X6 : integer array; X, A : boolean array; input G; output - true end

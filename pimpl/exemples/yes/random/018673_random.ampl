@@ -1,0 +1,1 @@
+program M : d : takes v, A6 : boolean array; Xjq0, H44, dI, xb, q73aa : boolean array returns nothing u8E0 : integer; chillax end main : do S6g((59 = 76800) - true and(5) < - 0); do a6(- t9[6630] = not 4 + 8 - 956) end

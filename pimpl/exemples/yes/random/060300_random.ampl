@@ -1,0 +1,1 @@
+program D : h : takes P : integer array returns nothing vgP0, N, k, BD : integer array; G94a : integer; output - 51; pop 762; output 5; pop 6 end main : G7, Q9F, T42, j85, cE : boolean array; chillax end

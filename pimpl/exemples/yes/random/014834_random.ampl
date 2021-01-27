@@ -1,0 +1,1 @@
+program mVU0a : Uu : takes YuX0, A4A0a, p : integer array returns boolean Mq, B67 : integer array; O : boolean; do j(not 9 - 87 > 1, - 6 - 09 >= 442); input V[2 - 1] end main : while true and(8) / (4) /= true rem false and 078 + true and 990 : input C end; input YM[(8) rem(81)] end

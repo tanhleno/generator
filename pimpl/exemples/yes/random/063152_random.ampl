@@ -1,0 +1,1 @@
+program k : m : takes VF5a : integer returns integer array when case - (2120) and 6530 > 703 - 20 : input K5Haa; when case 10 : chillax end; output "/|!a" end case - 948 = 28 : chillax end case 934 : do y(21200); pop end case 6 : pop end case 72 : chillax end end main : T : boolean; while - 30 / C * false and 16 : pop; do f(04, 20, 7290); do Z0(3); while 3 : chillax end end end

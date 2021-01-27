@@ -1,0 +1,1 @@
+program Q : q : takes n : boolean array returns nothing do z(- (2) or 53 - 3 >= - 3 - 21, 86 - 8, 6, 8) end main : y : boolean; G9, j18aa : integer; output "\t" . not 6 or 03700 >= 5 . "\\"; while true > - 8 or 7 : while 10 = 58 : chillax end end; let c9P0 = array true end

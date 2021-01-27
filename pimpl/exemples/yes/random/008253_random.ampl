@@ -1,0 +1,1 @@
+program b : B : takes L4, H, t, Ez : integer returns nothing I5, sx, Y : integer array; G910a, E, z, V : integer array; output - 21200 - 48500 < 78; when case - 1980 /= 2110 : do Md9(81) end; while 5 = 2 : pop; pop end; input YTR; pop; output "" end x : takes VJ : boolean returns nothing nb, Z : integer array; chillax end main : input YO90a[- (2 = 322) / true] end

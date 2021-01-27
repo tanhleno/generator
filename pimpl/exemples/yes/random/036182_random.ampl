@@ -1,0 +1,1 @@
+program O : t5m0a : takes F3 : boolean; E4G : boolean returns boolean while false and 49600 or 00 : chillax end end f : takes ID8aa : integer array returns integer array i : boolean; E : integer; chillax end n7 : takes B9 : boolean array returns nothing output "" . "17!"; while 4 : pop end; output "$:"; pop; pop end main : j2fa, Y1 : integer array; iL9 : boolean; chillax end

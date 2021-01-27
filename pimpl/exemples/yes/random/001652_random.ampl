@@ -1,0 +1,1 @@
+program y98 : S : takes s, Z, i, I6ra, c8, xl9 : integer; q, b : integer array returns nothing J, e : integer; chillax end main : let v = - 427 rem 9 + true; let K5l[(118) - O] = array true or(10) and 323 or 02 - 6; output "" end

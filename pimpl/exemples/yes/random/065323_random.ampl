@@ -1,0 +1,1 @@
+program t : geV : takes i : integer returns nothing output 79 - 1 = 861 end a : takes y, x : boolean returns nothing y : boolean; X_E, Z : boolean; r, d : boolean; d : boolean; g : boolean; chillax end main : x, R9 : boolean; input f[- (986 = 3) rem false or 233 - (9330)] end

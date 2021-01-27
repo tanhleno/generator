@@ -1,0 +1,1 @@
+program E : n34a : takes a : boolean array; sJi : boolean returns nothing while(4070) : do l(74); output ";3" end; do wN(919 - 0, 2610) end Hq9 : takes q, A : integer returns boolean array chillax end w75aa : takes i, I : boolean array returns boolean array chillax end main : let s3F = - false <= (3) end

@@ -1,0 +1,1 @@
+program Jw : v : takes N : boolean; J1, ik : boolean array; F : integer array; H : integer array returns boolean B, L, Q : integer; t : boolean; chillax end uff0 : takes r74, n85a, pN, Kzv : integer array; Xj_, Z, Luc0 : integer array returns boolean when case - 8 - 80 : when case 86 : chillax end end case 4 : chillax end case 4 : chillax end end main : chillax end

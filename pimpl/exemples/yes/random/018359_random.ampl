@@ -1,0 +1,1 @@
+program N : P3 : takes T27, x : boolean; g7 : integer array returns boolean array chillax end main : u, M7 : integer array; J : integer; O9na, G_, K, q : boolean array; z : integer; while - not 9 rem 8 rem(960) and 93 : chillax end end

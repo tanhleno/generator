@@ -1,0 +1,1 @@
+program e09 : main : N, eij, KjF : boolean; H9, _b : integer; output - 71 and 108 or true and 2 or 784 - 89900 . - not 4 <= - 0 - 1 . "" . 3 = 4; while false > (03) : when case 2 : chillax end otherwise : pop end; input c[80] end; pop - 9 <= 75 end

@@ -1,0 +1,1 @@
+program iZ : v : takes DY, y9 : boolean array; ECna, _, S1 : integer array returns integer array chillax end main : M7_, v : boolean; pop(6) rem true and 6350 + h4; do s(- a(66) + false and 0 + 97, - false and 319 or 9 - 227 <= - 38, 40 = 585); do w(h < - 0 - 93); when case 90 >= 584 : chillax end; while 2 : chillax end end

@@ -1,0 +1,1 @@
+program x2B : F : takes F2, o5 : integer array; X, Un, WV : integer returns boolean array chillax end g : takes I : integer array; I6B0 : boolean array returns integer array output 63 = 0 . 607 . "\"\"!a"; let hU[8] = 8; pop end main : j9, X, E : integer array; let s = array a / 49 / true and 2 - v; input x4 end

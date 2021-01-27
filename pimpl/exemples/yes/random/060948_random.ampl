@@ -1,0 +1,1 @@
+program Y4ka : U : takes N : integer array returns nothing O : boolean array; pop 244 - 3 > 62 end Z : takes O2, tWN, Lm : integer array; t, i, C6, FWm0a, z5P, w : boolean array returns boolean output "" . 1; pop end main : k, A8a, KRo : integer; chillax end

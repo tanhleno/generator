@@ -1,0 +1,1 @@
+program V : j : takes Nu0, x1, v : boolean array returns nothing b : boolean array; while(7) + 39500 - 27 < 3 - 01900 : let B6i0 = array 88; let yv = 77 end end F7Qaa : takes G : boolean; k : integer array returns nothing chillax end O : takes j, f : integer array; O : boolean returns nothing input So end main : chillax end

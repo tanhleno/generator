@@ -1,0 +1,1 @@
+program k : jt : takes S, GA7aa, pG9aa : integer array returns boolean S8, nD60a : boolean; T : integer array; when case - (28) and 9 = 86 : when case 9 : pop end case 2 : chillax end end; pop 3 end main : l0 : boolean; let x = array not not(0) + not 2 * true and 3 + (0) end

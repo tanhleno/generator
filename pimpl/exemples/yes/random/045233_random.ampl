@@ -1,0 +1,1 @@
+program V : YP : takes K7 : boolean array returns nothing when case - not 6 = 8 - 1 : pop end end Ogf : takes GJ, _e, D, Eo, A8H0, L, A : integer; L0 : integer returns integer array i, z : integer; input u[- 9]; do h(250) end main : chillax end

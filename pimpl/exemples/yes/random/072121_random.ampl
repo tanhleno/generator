@@ -1,0 +1,1 @@
+program e : main : D6, V98, Vy20 : integer; gG5, R : boolean array; x, dRx0a : integer array; R8M, s72, l64a : integer array; _, Y6G : integer array; d83, K : boolean; jn : boolean; h : boolean; chillax end

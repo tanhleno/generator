@@ -1,0 +1,1 @@
+program ui : BQ : takes G, r : integer; NO : boolean array; b : boolean; T : boolean array; MQ : integer array; O, h, Z : boolean; S : boolean; Q : boolean returns integer chillax end x : takes I, L : integer returns nothing h : boolean; do r(5 /= 2, 926 = 70) end main : z : integer array; chillax end

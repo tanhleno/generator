@@ -1,0 +1,1 @@
+program a1E0 : Zw : takes VR : integer array returns boolean B7, TdG0 : boolean array; ZE, ML, E, RRt : boolean; pop; output "a"; pop; do S(3, 93); when case 6 : chillax end; let O0Naa = 03; pop end main : gR : integer array; chillax end

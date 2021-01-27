@@ -1,0 +1,1 @@
+program B6 : J : takes Q21aa : integer array returns nothing f, y350a, Y, e : integer array; v, p : integer; T, s : boolean array; chillax end main : KPA : integer; Gs : integer; let G[- eu rem 6 or not not 3 / t + 38 and 88 or 7 - 03] = array h(0750) and true or not false; when case - usA + true or 8 /= - 2 : chillax end case - (0) : chillax end case - 1 : chillax end end

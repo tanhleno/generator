@@ -1,0 +1,1 @@
+program zh2 : main : when case - D3 / not false / 390 and 977 : chillax end case 13 or(1) and 9 or 4 - 2 : chillax end case - false : do k260(2, 25) end otherwise : input j end; when case 499 and true and 6 + not 8 and 31 /= (4) : output 4 end case - u and 746 + 534 < 4 : chillax end case - 1700 : chillax end otherwise : while 4 : chillax end; input Fa; input b10 end end

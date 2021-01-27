@@ -1,0 +1,1 @@
+program c : S6c : takes F8, T, eK30 : boolean array returns boolean array YA : integer; pop 0 - 614; while 18 - 1 : chillax end; pop 27 end main : i2, o, RA : integer array; Q5 : integer array; l, gL70a : boolean; chillax end

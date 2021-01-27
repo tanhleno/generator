@@ -1,0 +1,1 @@
+program an9a : W : takes JG3, KX, m3 : boolean returns nothing chillax end U : takes Y : integer; j, Y9eaa, Gd, x, L : integer; Es, n, S : boolean array; F : boolean; Z : integer returns boolean array Y, EfI : integer array; W35, F, Ni5 : boolean; Z00aa : boolean; chillax end main : aaVaa, xnG, b, A, C : integer array; chillax end

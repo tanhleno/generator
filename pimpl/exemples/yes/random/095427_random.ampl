@@ -1,0 +1,1 @@
+program Sp3aa : main : when case(7) and true / z_4 and 9 or not false <= - 1 * 20 and 231 or true : chillax end otherwise : chillax end; do CXo0a(- true); while(83) + 0 - 8 : pop 68 end; output "~"; input F[2]; input Ym9a[7] end

@@ -1,0 +1,1 @@
+program xJ : main : tf8a : boolean; when case - not false >= - H(5) / not 124 and 5 - false and 84 - 0 - 3 : chillax end case 4 = 7 and 9 - 467 : output 93 end otherwise : do J3ka(79) end; while - false and(05) - false and 17 + 62400 - 0 : chillax end end

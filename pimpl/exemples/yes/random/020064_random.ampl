@@ -1,0 +1,1 @@
+program J6 : R : takes N, f : boolean array; n : boolean array returns nothing V : boolean; hE : boolean; while - true and 50 : chillax end; when case - 09 - 4 > 1 : input p; output "0"; pop end otherwise : chillax end; when case 47 : output "F#"; pop end case 09 : chillax end otherwise : chillax end end main : X9Q : boolean; chillax end

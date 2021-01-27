@@ -1,0 +1,1 @@
+program Gcw : v : takes i, O, M, C, u, G, f : boolean; w, t0, e, qMZ : integer; R : boolean array returns nothing V, l, J : boolean array; h : boolean; while - false or 2 : chillax end; input r6n[4] end y0 : takes T1Y : boolean returns nothing chillax end main : z970a : boolean array; chillax end

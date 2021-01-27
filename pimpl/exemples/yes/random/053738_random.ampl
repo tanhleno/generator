@@ -1,0 +1,1 @@
+program b9Ba : X : takes I : integer array; O, z, _j, jW8 : boolean returns integer z30, MF : boolean array; pop 66 - 44 = 6 end main : C, X, t : boolean array; h, Q, g2i : integer array; when case(5 = 88) : input t[24400 - 43]; when case 4 : while 73 : chillax end; pop end end case 1 * 3 and 5 /= true - 4 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program U : T : takes b : integer array returns nothing while 56 - 88400 - 4980 : chillax end; input L end n : takes u : boolean array; l : boolean returns integer chillax end K7 : takes O, p2v : boolean array; N22 : integer array returns integer chillax end l : takes P, cn3 : boolean returns boolean array let y[6] = 68; when case 5 : chillax end end main : chillax end

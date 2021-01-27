@@ -1,0 +1,1 @@
+program i : b : takes G01aa : boolean returns integer array pop; do V2m(- 97 - 9, 8790 = 5, 4, 1) end P7 : takes s : boolean; H8 : boolean array returns integer array do kZ(2 - 0); let m = array 0; do Z5(28) end main : k : boolean; output "" . 62 and 9710 + 53; input o[- not h rem(61) and 243]; pop end

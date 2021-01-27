@@ -1,0 +1,1 @@
+program p : main : n, Fn : boolean; b99, N5 : boolean; while - true - (74) or false or 798 : let A8 = array 91 - 57; pop 82; while 6 : chillax end; input DN end; when case true or not 9 < - rC9aa and 989 - 6 - 5 : chillax end otherwise : chillax end; output "K~\"" . "" . 6 . 0 end

@@ -1,0 +1,1 @@
+program c : P : takes f4, v : boolean array returns integer output "\n6\"" . "7" . 1 . 584 . "a" end main : while not v(7) or 80 and true and 5 <= - 2 rem(30) - true and 414 - 2 : chillax end; pop - false end

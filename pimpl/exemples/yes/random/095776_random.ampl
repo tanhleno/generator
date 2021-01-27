@@ -1,0 +1,1 @@
+program vT : main : when case - false + true / true or true - 3 = - om50a(4) / (5) and 74 : chillax end case not false or not 0430 > - not 2 and 3 or 4110 : input n5[27]; do R(0) end otherwise : chillax end; input f[- false] end

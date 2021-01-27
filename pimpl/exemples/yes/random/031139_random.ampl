@@ -1,0 +1,1 @@
+program I : C : takes c05, H : integer array returns nothing while - 7 + 5110 < - 0 - 32 : output 396 end end pl60 : takes Z, UW, Y3, q : integer returns nothing chillax end main : while - not(2) and 357 and false and 28 > not false / not 3 and 93400 : do q(1) end; while 8 - D and 81 >= - true + 2 - 44 : pop 56 end end

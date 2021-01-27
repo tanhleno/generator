@@ -1,0 +1,1 @@
+program S1P0a : Zu60a : takes Au, wj, a2, jl90, Cq : boolean; b8, N50aa : integer array; M, Jh : boolean array; w : boolean array returns nothing chillax end a : takes q, cA6, h, Dp : integer returns boolean chillax end main : input tn5[false]; pop true and 9 or 7 - 9 /= - 057; do E68aa(j or 2 - 87 > - 9 - 667); output ""; pop; do vG9aa(214, 5660); pop end

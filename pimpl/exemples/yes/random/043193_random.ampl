@@ -1,0 +1,1 @@
+program n : n6 : takes w9 : boolean array returns integer Q6 : boolean; while true > - 9 : chillax end; let iY8[7] = 2 = 11; pop; while 6 : pop end; do DA(31) end main : o, P : integer array; chillax end

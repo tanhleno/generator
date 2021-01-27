@@ -1,0 +1,1 @@
+program x5 : I : takes V8P, R : boolean; c9 : integer array; v0 : integer returns nothing input y64a[- not 08] end xng : takes W, Vo, R4 : integer; pg9 : boolean returns nothing input y[61100 - 39300] end X : takes S7, q : boolean; g4d : boolean returns integer chillax end main : L, d7A0a : boolean; t, w, x : integer; while 78 rem 05 rem 2 and 55800 : chillax end end

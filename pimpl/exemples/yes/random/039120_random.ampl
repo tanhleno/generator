@@ -1,0 +1,1 @@
+program aku0a : t3A : takes a : boolean array; M, m : integer array; f, b : boolean; dxa, I6 : boolean array; c : integer array; a26 : boolean array returns nothing chillax end main : V9na, D, F, B : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Y : main : D, PK7, CN0, G02, h9 : boolean array; when case not 8 rem not e / not 31 + (8) < v73aa(11) and false and 38000 - false - 5 - 88 : chillax end case true * (1) - not 2 : input Wt8 end otherwise : chillax end end

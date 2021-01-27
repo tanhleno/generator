@@ -1,0 +1,1 @@
+program l : f : takes W : boolean returns integer UC : integer array; x, P3s, A : integer array; O, n, h : boolean array; J0, w : boolean; Q1r : boolean; input Ur50[false and 92]; do t6iaa(4 - 58 /= 3) end main : e : boolean array; pop; output - (709) and 4 >= 326; while true or 7 : chillax end; do c(2 <= 5, 5 = 9) end

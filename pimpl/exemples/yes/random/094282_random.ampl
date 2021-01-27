@@ -1,0 +1,1 @@
+program d : main : pop - true; when case false / true and 6 - h6f and 39 /= - 1 : chillax end case - (12) or 9 - 538 /= - 8 - 88 : chillax end otherwise : let E[4990] = array 1; while 2 : chillax end end end

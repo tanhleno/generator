@@ -1,0 +1,1 @@
+program G : k : takes W : boolean returns nothing i : integer; M : integer; mMJ0a : boolean; yh : boolean; do p(T and 0 + 6); let M510[- 900 - 3] = 8 = 01; do h(546, 5) end I : takes l : integer array returns boolean chillax end main : Z6, n : integer array; V, B : integer array; chillax end

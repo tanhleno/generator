@@ -1,0 +1,1 @@
+program p : Z4N0a : takes M9I : boolean returns integer XY6a, Ys, Vw0a : integer array; output "D" . "" . 227 end main : U, gi7 : integer array; g, RJ : boolean; let Zd = array - 82300; output ":}" end

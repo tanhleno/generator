@@ -1,0 +1,1 @@
+program r : T : takes t : boolean; R35aa, p : integer array returns boolean array P : boolean array; Gn : integer; f : integer array; chillax end p : takes S5, W : boolean array returns boolean while - 80 : while 3 : chillax end; when case 41 : chillax end end; input F5; let E8Kaa[174] = array 53500; let V1P0a = 0; let b = 3; pop end main : p, U : integer array; chillax end

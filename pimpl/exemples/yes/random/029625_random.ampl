@@ -1,0 +1,1 @@
+program w : sR : takes h, v : integer array returns boolean let q0 = 6 - 2 /= 6 end l : takes zR10, R : boolean; o3 : integer; u : boolean returns nothing chillax end main : pop true * false and 84 /= true or 9 - 63 end

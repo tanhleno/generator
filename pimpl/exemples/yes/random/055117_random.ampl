@@ -1,0 +1,1 @@
+program P2z : W5 : takes oD : integer array; G, n : integer array; B : boolean array; p5c0a, PAS, yq, H : boolean array returns integer array input N0[- e]; while 1 - 696 : do ex(79); let F = 9; pop end; output 7 . 1 . "\n\\0" end main : chillax end

@@ -1,0 +1,1 @@
+program oQRa : E0 : takes V : boolean returns nothing chillax end main : lJ90 : integer; when case not v(29) > - y : let c4e0a = 6 = 2 end case(1) + false and 2 - 08400 /= - h9 or 63 - 283 : pop; pop end; when case - S610[25] + false and 0 or 9 : chillax end otherwise : do V0(36, 9); let b = 3 end end

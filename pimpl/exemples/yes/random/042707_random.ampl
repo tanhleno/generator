@@ -1,0 +1,1 @@
+program N : z6 : takes k : boolean array returns integer array Kq30a : boolean array; u : boolean; W, A : integer array; input rUBaa end main : when case 3 : when case - 28 >= 032 : chillax end otherwise : chillax end; input f4B end end

@@ -1,0 +1,1 @@
+program T : BFSa : takes Wbg, e : integer returns integer YfT, q270a : boolean; F9, o, Y, VW : boolean array; when case - v = - 0 : chillax end; pop; do q(10800 = 119, 2); do y(91800) end main : chillax end

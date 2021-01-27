@@ -1,0 +1,1 @@
+program w : main : while - true * I(7) * true - not not 3 * 264 and 7 or true + 98700 - 85 = - false or true + 047 : chillax end; pop yk2 - 8; do G(true and 4 - 0 - 8 <= 016 - 4110); output "M\ta"; when case 215 : input Y; pop end otherwise : chillax end end

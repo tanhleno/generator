@@ -1,0 +1,1 @@
+program P3 : ot : takes I, H330 : boolean returns boolean array Im, W55 : integer; input l[- not 39000]; output 9 = 3 end main : g3m0a, F8 : boolean; A, V, g2 : boolean; Qj, T1 : integer; chillax end

@@ -1,0 +1,1 @@
+program t850 : main : y83aa : integer; when case not true < not(3) and R or false : chillax end otherwise : when case 01 = 60600 : input uo80; pop end otherwise : chillax end end; let d[NZ(22) and not 7] = j6 + 1 - 96 = 384; while false and 06 <= 8 : input Ks[6]; while 95 : chillax end end; output "" . "" . "KJ" end

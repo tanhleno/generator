@@ -1,0 +1,1 @@
+program s2 : I430a : takes i, F : integer array returns nothing do M(- 3320 and 8 > 84200, 54, 7 = 6, 670) end main : V : boolean array; T : boolean; N : boolean; C : integer array; Lu, FS, R690a : boolean; chillax end

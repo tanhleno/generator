@@ -1,0 +1,1 @@
+program GM : K : takes c : boolean returns nothing chillax end b : takes BG30, Ci, E5F : integer array; A6 : boolean; M8 : integer array returns nothing wJ, D, Qb : boolean array; q : boolean; do Nm(1 > 84); do qK4aa(9070, 552); while 61200 : chillax end end main : output "2" . "[" . 2580; output false - 3 end

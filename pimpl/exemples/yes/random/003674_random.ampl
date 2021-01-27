@@ -1,0 +1,1 @@
+program r : U2i : takes sj50a, hZ, x1, E, v : integer array returns boolean array while - true and 14600 : while 9 : pop end; output ""; let l7vaa = 4 end; output 46; let G[26] = 685; when case 2 : chillax end case 86 : chillax end end main : chillax end

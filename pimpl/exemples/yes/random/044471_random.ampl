@@ -1,0 +1,1 @@
+program B3qaa : z : takes y52 : boolean array returns nothing l31 : boolean; D, A3 : integer array; chillax end i55 : takes Ga2 : boolean returns nothing F9 : integer; M5U0 : integer; chillax end main : let C = - false rem(9) >= I6G and 8 end

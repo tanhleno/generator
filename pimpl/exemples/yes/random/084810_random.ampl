@@ -1,0 +1,1 @@
+program V : main : JPqa : integer; let cI[- 1 + 92900 - not 5 and 72] = 1; when case(78) >= true or 9 - 1 : input y[1] end case b5 - 876 - 5 : when case 587 : pop end otherwise : chillax end; output ">" end otherwise : chillax end; pop end

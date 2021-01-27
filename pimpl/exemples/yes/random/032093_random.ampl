@@ -1,0 +1,1 @@
+program n020 : B : takes A2J0, i : integer returns integer e0 : boolean array; D9 : integer; z2P : boolean; input t[- not 49] end main : output 80 / true + not 64 and 9 or 49 <= - false or 31 - 580 . "." . "\\jaa" . "" . "\t" . 9 . "1\\0a"; output - B or 95 - 2 /= 97 - 380; do pNd(- false > 7, - 6 - 8, 3210); let _[- 1 - 85] = array 8 end

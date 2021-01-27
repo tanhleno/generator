@@ -1,0 +1,1 @@
+program g53 : P6 : takes Jm : integer array; f74, N, c : integer returns integer array while false - 20 >= - 4 : input a end; when case 9 = 5 : chillax end case 6 = 251 : chillax end case 2 : chillax end otherwise : chillax end; do M(8, 7, 1) end main : UQ30, h, _ : integer array; input J[o - false]; while z4(7) rem 020 - Q and 92200 < - s and 72600 : chillax end end

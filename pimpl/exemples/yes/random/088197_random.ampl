@@ -1,0 +1,1 @@
+program Hx : main : input q; when case true / (14) or true and 62 : when case 8 : when case 6 : chillax end; pop end; while 634 : pop end; do L9(3) end case 66000 and 1 or 8 > 72000 - 98 : chillax end end

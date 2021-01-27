@@ -1,0 +1,1 @@
+program L7V0a : main : v, M : integer; v8, h : boolean; when case - false / jC[7] * not 7900 and 6 - true rem 2 >= - (362) * false - 4 and 23 - 4 : when case 66 - 498 < 2 : chillax end; while 51600 = 14 : chillax end end end

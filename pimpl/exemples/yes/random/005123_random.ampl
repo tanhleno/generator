@@ -1,0 +1,1 @@
+program C : w1 : takes S, r, QY, J2_a : boolean array; J : boolean returns nothing while l and 017 - 7 >= - 702 - 5 : output "" . ""; when case 39 : chillax end end end t : takes n7 : integer array; B4, Z : boolean returns integer array D : boolean array; chillax end main : chillax end

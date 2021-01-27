@@ -1,0 +1,1 @@
+program vp : G : takes D : integer array returns integer array g2s, K42, J : integer array; chillax end main : i : boolean array; when case 175 and 91 rem 70 < I[6] and false or 79 : input m; let Y6[4] = array 2 end end

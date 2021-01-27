@@ -1,0 +1,1 @@
+program A4i0a : G : takes L, _ : boolean; I, q, n : boolean; aJ_aa, j9d, Sud : boolean; N840a : integer array returns integer chillax end eyg0a : takes Z5, g, U : integer array returns integer T9Raa, k_ : integer array; while 3 : chillax end; pop 33; pop end main : chillax end

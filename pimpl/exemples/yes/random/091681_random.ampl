@@ -1,0 +1,1 @@
+program y : main : let Ct[true] = - (95) /= (1); when case - true * T - false and 9 > false and 7 or 79 : pop 7; let K9 = 0; while 698 : chillax end end; output "\n\n"; do J1la(4); output "{=0" . 0; do r(7) end

@@ -1,0 +1,1 @@
+program m : C7 : takes n9 : boolean returns integer array p1 : integer array; yS, n : boolean array; H : boolean array; chillax end main : A, I : integer; while - 772 rem 293 * j6 or(6) / 97 and 71 + sv9a or 6 : let hbw0 = 2 = 7; while 4 = 388 : chillax end; when case 5 : chillax end case 46 : chillax end end end

@@ -1,0 +1,1 @@
+program anF : main : x, O9, R, QlLaa, z : boolean; input J560a[49 and A * (03100) and 29 or not 6800 * (2) and 3]; do c(A6daa(652) + false and 3980 + 05); while(053) and 18 + 67 - 6 : input s1[05]; input Z; input Y6 end; do z94(34, 8 = 02) end

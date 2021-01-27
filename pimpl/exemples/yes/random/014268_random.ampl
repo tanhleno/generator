@@ -1,0 +1,1 @@
+program q : Hx : takes f, c, I6Naa : integer array; e : boolean array returns boolean array q, _2 : boolean; input T end main : p4 : integer; p : boolean array; while not 8 rem true or true + not 90 and 24 < 2 : input b end end

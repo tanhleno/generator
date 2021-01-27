@@ -1,0 +1,1 @@
+program A : main : f7h0 : boolean array; C, n2, G : integer; UJ : boolean; I6 : boolean array; when case - not(3) / (6) / s and 6 : do y(- 3000, 48 = 94500); input r[34]; when case 500 : pop end; let E = 32; pop; pop end case true <= - true and 44 : chillax end; input s[not(6)] end

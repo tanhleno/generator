@@ -1,0 +1,1 @@
+program V : f0_0a : takes v4I0a, M, Dw90a : integer array returns nothing v : integer; chillax end main : w5 : boolean; when case - 72 - 4 rem not 7 and 2 : chillax end otherwise : when case 5 = 73 : output "A"; pop end case 935 : pop end case 5310 : chillax end otherwise : pop end end end

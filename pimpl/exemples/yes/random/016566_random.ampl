@@ -1,0 +1,1 @@
+program Sx : i9 : takes d, w, c : integer returns nothing output "0" . "o" . 7; while - 7 - 3 < 4 : chillax end end I5 : takes TN : integer array returns nothing j : boolean; A5 : boolean; input NE7 end main : chillax end

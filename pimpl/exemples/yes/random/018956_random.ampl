@@ -1,0 +1,1 @@
+program I : jU00 : takes O, C : boolean array; ct, YV, t : boolean returns boolean array x : integer array; chillax end main : GM, Gr : boolean array; do O67(- not false rem false - g3[8] + (27) and 3 - 9 - 9 < (34), - false / false, F or 2, - 583 >= 0) end

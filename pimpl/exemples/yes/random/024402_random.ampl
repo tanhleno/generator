@@ -1,0 +1,1 @@
+program u7V : A2 : takes PO2, r3J0 : boolean returns nothing A : boolean; chillax end F : takes L : integer returns nothing pv6aa : integer; Q, r, u4 : boolean array; while 1 : when case 63 : chillax end; output "G"; pop end end main : H : integer array; chillax end

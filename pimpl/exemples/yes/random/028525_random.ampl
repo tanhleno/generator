@@ -1,0 +1,1 @@
+program lrw0 : HI60a : takes B570a, R : integer array; Nx : boolean returns boolean R : integer array; while - 3 and 1430 : pop 0 end; let en[- 9] = array - 5 - 07000 end q : takes y, R : integer array; S7, C46aa : integer array returns nothing output 59 = 713 . "" end main : chillax end

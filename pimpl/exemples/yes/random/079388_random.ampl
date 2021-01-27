@@ -1,0 +1,1 @@
+program d : main : J5oa : boolean; h : boolean array; B : boolean; h, R : integer array; j4da : integer array; output false rem not 1 or 00 < - not 9; when case - (8) + false - 0 - 9590 = - 6 and 347 : chillax end end

@@ -1,0 +1,1 @@
+program L0G0a : wB : takes r, g, A : boolean returns boolean array qd, x4, Q, j6Y0, u : boolean; output - 40 <= 0 end main : let Z[- (23) * not n - false - true and 310 or 43 - 62600] = - E2[6] / (12) and 7 or(1) and 0 + 8 end

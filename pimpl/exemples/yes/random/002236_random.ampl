@@ -1,0 +1,1 @@
+program rHu : T3Z0 : takes N, b, T87, o, W4 : boolean; M1 : boolean; xL, C, u, b, Ni40, w : boolean returns nothing _ : integer; output 4; let Q = 3 end d90 : takes _, gn60a, c94, P : boolean; P : integer array; u : integer returns integer array ZP0, l3q : integer; L : integer; chillax end main : let N[(33600)] = Rt(5) * false and 9 - (7) and 5 + 8 end

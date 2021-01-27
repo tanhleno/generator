@@ -1,0 +1,1 @@
+program U : P : takes B : boolean array; b, pd, T : boolean returns nothing pop - 91 < 303; while 5900 < 978 : do hX(2) end; do tc(2 = 67); pop 83; output "!" end E : takes _, w : integer array; i, o : boolean array returns integer array chillax end main : chillax end

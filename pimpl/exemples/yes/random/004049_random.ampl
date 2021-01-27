@@ -1,0 +1,1 @@
+program W4baa : i : takes M, X88, F5Caa, F, t2 : integer returns nothing chillax end u : takes T, N2p0, mnRa : integer; e, G : integer array returns nothing z, e7, t1h : boolean; pop 915 = 95; output 9; when case 6 : chillax end end main : chillax end

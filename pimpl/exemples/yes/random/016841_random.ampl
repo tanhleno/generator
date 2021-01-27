@@ -1,0 +1,1 @@
+program l : Wj7 : takes u, Is : boolean; G, S27, A4J, T : integer array; I, A520, r, D, u5 : integer array; q01 : integer array; x : boolean array; VR, l, i : boolean; G, L : boolean returns boolean chillax end main : chillax end

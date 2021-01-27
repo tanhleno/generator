@@ -1,0 +1,1 @@
+program NCw0a : main : x, E, B8 : integer array; do R(false / 8 / not 98 - true / not 55800 + N5 - 56); when case - 5 and R68 > k and 503 or 69800 : when case 3 = 94400 : while 21 : chillax end end otherwise : chillax end; when case 4 : pop end case 227 : chillax end end otherwise : pop; input tQg; while 1 : chillax end; pop end; do R3((253) > - 821) end

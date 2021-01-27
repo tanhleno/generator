@@ -1,0 +1,1 @@
+program Y : main : when case true / FB(56) or not not 9 and true + 9 and 7 = - not true : chillax end case - (3) + true or 63100 > 92500 and 5 + 9 - 2 : chillax end otherwise : while 8 = 7 : when case 67 : chillax end end; input f8n[6] end end

@@ -1,0 +1,1 @@
+program U : w5v : takes q : boolean array returns nothing chillax end main : N, qP, G : integer; xTea : boolean; output not false * true and 0 . ""; output - P0za + 2 - 61; output - 30 - 0 >= 1 . ""; when case 0900 : chillax end otherwise : pop; pop end end

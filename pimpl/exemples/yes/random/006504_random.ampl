@@ -1,0 +1,1 @@
+program c : JN : takes n, ue3, W, zg70 : integer; aM, I : integer array returns boolean array chillax end main : p, p, X, n, ybGaa, y : boolean array; while - 8 : chillax end; do Ga(No00 rem true and 2, - false) end

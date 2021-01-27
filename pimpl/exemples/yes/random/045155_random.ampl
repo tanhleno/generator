@@ -1,0 +1,1 @@
+program iT : f2 : takes W : boolean array returns nothing pop; do f(703); input F; do uD(3, 1); when case 5 : chillax end end p : takes _Xm : boolean array returns nothing t, ki, nPX : integer array; N, VC : boolean array; input RDW0a end main : o990a : boolean; pop end

@@ -1,0 +1,1 @@
+program Z : e : takes l, y27 : integer; o, V : integer array; n, F : boolean array; P9e, O5 : boolean returns integer let i = - 99 > 8 end R : takes l, y, F, vRra, B : boolean; AE, M08 : boolean array returns boolean array X : boolean array; W : integer; J, sJ3 : boolean; output "d" . 6 . 4; input L0[4]; pop end main : chillax end

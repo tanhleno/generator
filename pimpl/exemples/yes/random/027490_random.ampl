@@ -1,0 +1,1 @@
+program d : z : takes V4, u : integer array; f, NB5, f : integer array; n74 : boolean array; J : boolean array returns nothing input g7T; do P(8 - 0 >= 9, 59); pop 23; when case 7 : chillax end case 6 : chillax end; output ""; let v = 8; pop end main : oe, h : boolean; J, q30a, h, G : boolean; C8, O9n : boolean; TI : boolean; chillax end

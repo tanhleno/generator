@@ -1,0 +1,1 @@
+program Y1 : main : when case true : while - 0 : let t = 80500; when case 76 : chillax end end; pop 6 end case false : do E3f(2430 = 08); output ">" . ""; when case 6 : chillax end; output ""; pop end; do v(- true * (5870) and 9); output "" . 2980 . 1; do a650a(- 0); while 5 = 51 : let n = 7; pop end; input K2I[56]; while 8 : chillax end; output "36" end

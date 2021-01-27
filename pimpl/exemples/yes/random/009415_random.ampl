@@ -1,0 +1,1 @@
+program H : n : takes X, T, n3A : boolean; A400 : integer array returns nothing while - (91) and 93 >= 78 : chillax end; while 2 - 5 > 60 : while 48 : chillax end; output "/" end end main : pop; while false * 846 and 4 - true and 1 <= - not 8 : chillax end end

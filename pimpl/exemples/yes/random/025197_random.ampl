@@ -1,0 +1,1 @@
+program k : y12 : takes I2, UK40 : integer; vi, o3, Z4 : boolean array; f05a, Y, R41aa : integer returns nothing when case 8 and 0 - 19 - 28 : chillax end otherwise : when case 3 : chillax end; pop end end main : input MM[- false + true * true]; pop - (2) end

@@ -1,0 +1,1 @@
+program DF : main : j : integer; a, gg, a : integer array; when case true - not c6 * not 0 - false and 37 or 2 : input n[3 - 3]; when case 3 : while 84900 : chillax end; pop end case 08 : pop end case 954 : chillax end otherwise : pop end end; pop - true and 23 + 26 - 816 < - 61 - 3; do Z(- false + 595 < 448 - 5) end

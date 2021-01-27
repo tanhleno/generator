@@ -1,0 +1,1 @@
+program W3 : Q : takes t, k0Y : boolean array returns integer when case - true >= 6450 : do vX(58000, 137); let _4 = 9; pop; pop end case - 0 - 9 = 99 : chillax end case 6 = 4 : chillax end otherwise : chillax end end main : chillax end

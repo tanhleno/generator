@@ -1,0 +1,1 @@
+program qyk : tK5 : takes E1, x6, th6a, qd1, k0baa : integer; fq, C, x : integer returns boolean array B, y, C : boolean array; g2, O, q2 : integer array; chillax end main : e9, b7 : boolean; u, v : integer; chillax end

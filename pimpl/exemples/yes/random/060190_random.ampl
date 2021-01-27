@@ -1,0 +1,1 @@
+program s : hy5a : takes j : integer array returns nothing A7, L3ka, o, m510, s : boolean; let OB[not 3 and 0 or 9 - 7] = array R end main : x, byS : boolean; Y, e : boolean array; k13, G, Tc : boolean array; k41, L6m, k : integer array; v : integer array; X5 : boolean; chillax end

@@ -1,0 +1,1 @@
+program h : q : takes uJ : integer returns integer array output "5" . 619 . 79 . "22"; pop 15 end main : V9 : integer array; An3 : integer array; while - false + true or(6) and 658 >= - (2) or GF and 43 : chillax end end

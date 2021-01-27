@@ -1,0 +1,1 @@
+program w : main : Y, aI : boolean array; Q0, m3ja, I, U : integer array; n : boolean array; let j[e(0080)] = - true / N and 0 <= (2380) or 53400 - 12; output G = 3 - 65400; do P(- E and 7 >= 857); while 2580 : input B09; do r(9); pop end end

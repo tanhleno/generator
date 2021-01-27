@@ -1,0 +1,1 @@
+program A : O62 : takes n20, W : integer returns boolean chillax end W : takes nsD, V, l, P : boolean array returns integer array VI2, IM60a, ZI, nO : integer array; C : integer; dMM, t590a : boolean; s : boolean; N : boolean; chillax end main : fY : integer; input tg[J(9) * true] end

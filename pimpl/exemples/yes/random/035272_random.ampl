@@ -1,0 +1,1 @@
+program u6 : ck : takes g : boolean; Knt, w : integer returns nothing Ky1, D : boolean array; e, f, s, f : integer; M, J, M : boolean array; V, Y5 : boolean; let oQh[true and 29 + 5 - 7] = 6 end main : V : boolean; m6 : boolean array; F : boolean array; chillax end

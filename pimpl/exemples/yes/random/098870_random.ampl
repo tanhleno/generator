@@ -1,0 +1,1 @@
+program R : main : while - true * not(8) rem not 6 and 94 or true - true and 45800 : pop; while 979 = 7 : let C = 8; pop end; when case 0 : pop end otherwise : chillax end; when case 8 : chillax end; do G(93); pop end end

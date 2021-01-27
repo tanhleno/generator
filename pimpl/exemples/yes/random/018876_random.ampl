@@ -1,0 +1,1 @@
+program b : fI : takes Q, Y : boolean array; q, f, s3 : boolean; E530 : integer returns boolean q71 : boolean; let Z = array x and 2; let h = array - 8; when case 2 = 098 : let A8I = 7; pop end; when case 78 : chillax end case 681 : chillax end otherwise : chillax end end main : F5 : boolean; b3, e : integer; chillax end

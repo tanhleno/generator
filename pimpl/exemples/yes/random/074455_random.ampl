@@ -1,0 +1,1 @@
+program C : main : S, m : boolean; while false * (87) and d6c - false - not 0 and 32900 /= - (7) or false and 1 or 3 - 607 : while 3780 - 0 : pop; let u = 1; pop end end; let Sy = not 51 and 3 or 21 - 63 /= 1 - 2 end

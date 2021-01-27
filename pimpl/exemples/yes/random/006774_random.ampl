@@ -1,0 +1,1 @@
+program Z : U2 : takes Mh, j, o2, Rq : integer; gM : integer returns integer array sKC0, y : integer array; d, Z7C : integer array; input l; output 32 end main : output 5 + true - 931 - 8 . - not 4 and 9 + 69100 > - 50 . "<60a" end

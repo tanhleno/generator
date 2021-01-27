@@ -1,0 +1,1 @@
+program y : F68 : takes yQ : boolean; o, cS7 : boolean returns nothing chillax end z : takes C840a, r06a, L : boolean returns integer chillax end h : takes I : boolean returns boolean chillax end main : I : integer array; t9c : integer; output "5" . 4 and 4 or 24 - 187 > - 046 . - 9 <= 2 end

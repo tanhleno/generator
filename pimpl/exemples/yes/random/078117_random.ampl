@@ -1,0 +1,1 @@
+program D0 : main : o, j : integer array; when case not J240[3] and j >= not(2) * Ng and 8 : while - 9 - 49300 /= 74 : chillax end; do J(589, 2) end; let h[- qU] = false and 3 >= 42; do G(- false and 9 < 6 - 3, - 2 - 1, 72 = 220); output 2930 = 9 end

@@ -1,0 +1,1 @@
+program F7 : T : takes DL5a, Ap3 : boolean; M : boolean array; x, h3 : boolean; e, yD : integer array returns boolean array H5, Cc : boolean array; C : boolean array; pop 7 - 7; output "" . "" . 23500 end main : i : integer; chillax end

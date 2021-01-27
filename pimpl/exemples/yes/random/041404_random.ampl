@@ -1,0 +1,1 @@
+program M : W : takes B18 : boolean array; d : integer returns nothing M34 : integer array; output 83 <= 1 . ""; do Ad(- 459 = 5, 47, 37, 849); pop; do S(3, 797) end main : l : integer array; let w[- N / false * false] = - Z[5730] - m or 69 = 7 and 92 - 39 - 617 end

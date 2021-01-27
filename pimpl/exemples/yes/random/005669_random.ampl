@@ -1,0 +1,1 @@
+program KRT : pJ : takes N, l, b, s : boolean array returns nothing y : boolean; C3G : integer; chillax end e5Q : takes z, s5, D : integer array; NB, O, D : boolean array returns nothing aDn : boolean; ry : integer; w20 : boolean; chillax end TEma : takes Y : integer array returns nothing W4Raa : boolean array; C, w6 : boolean; chillax end main : fX, Z : boolean; chillax end

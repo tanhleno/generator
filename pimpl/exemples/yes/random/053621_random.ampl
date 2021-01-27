@@ -1,0 +1,1 @@
+program X : i7 : takes D : integer array; N, b1, G, I, r : integer returns integer let c[- true or 4 - 86] = array i0sa or 7 - 9 end Mks0a : takes F1, D0 : integer; Yt, EfH, b : integer returns nothing R, L : boolean; chillax end main : chillax end

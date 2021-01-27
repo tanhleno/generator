@@ -1,0 +1,1 @@
+program Y : main : q35, K, nC, X, xgGaa : boolean; o, b, Z : boolean array; rq5a : integer array; x : integer; do B7(- true, - (1) and not 0 and 7 <= - A and 7); output(1) or 4 < - 7 - 54500; let r = 0 - 531; output 5 = 819 . "|" . 43 . "29"; output "0*" . 0; let q7B[6] = array 7 end

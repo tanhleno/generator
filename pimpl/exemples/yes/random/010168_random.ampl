@@ -1,0 +1,1 @@
+program gd : W : takes c, w3, Sl3 : boolean array; n : boolean array returns nothing T7 : integer array; when case false and 51 + 09 - 6 <= - 6 - 69 : input Dx; while 62 : chillax end end end Y9 : takes t, dgU0, m, B : integer; xd3 : integer array returns nothing chillax end main : H, _Z, L : boolean; B, CEa : integer array; h, Z6, gs, Hf : integer array; chillax end

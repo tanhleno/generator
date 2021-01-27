@@ -1,0 +1,1 @@
+program o7 : main : E : boolean array; t, Naz, v330, e0 : boolean array; H, U : integer array; XC : integer; Up : boolean array; B3, Fg : boolean; when case not 8 * false = - true or C or 2 : let G[98900 - 9] = 9 end case - not not 65 + false : do w(8290); output "x" . ""; do Eb30a(574); do g(0) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program y : X2 : takes l, CU : boolean returns nothing Y91 : boolean array; GD, P6 : integer array; chillax end g9 : takes n8naa, Z, Tx8aa : boolean returns nothing U : boolean array; y, U89aa : boolean array; ft, Fp : boolean; chillax end main : P : boolean array; chillax end

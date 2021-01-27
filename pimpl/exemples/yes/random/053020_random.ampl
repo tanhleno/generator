@@ -1,0 +1,1 @@
+program e2 : B : takes x1 : integer; L : integer array returns nothing X, f0 : boolean array; chillax end main : while 6 : chillax end; when case - (7780) rem T and 2 - (39) + 56300 /= - not 56900 and 02 : while 610 = 75 : chillax end end otherwise : while 3 : chillax end; output "2"; pop; pop end; when case - false and 3 - 57 < 88 : chillax end end

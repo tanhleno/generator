@@ -1,0 +1,1 @@
+program SK : C : takes f, j : boolean; l, fTy, b2B : boolean returns integer array chillax end G : takes u9L0 : boolean array; G : integer array; otb, _580, Y3baa, r8, ba : boolean; o, z, u, c : integer; Nk5, ZV80 : integer array; X : boolean returns nothing when case - 7 : chillax end case 5 = 0 : chillax end otherwise : input CY end end main : chillax end

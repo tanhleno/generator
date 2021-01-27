@@ -1,0 +1,1 @@
+program I280a : U5 : takes Y : integer array; k7 : boolean array; KFl : integer array returns nothing io6aa, yE60a, SI : integer array; let K = array 376 and 15; do LFNaa(9 < 1) end B : takes S : integer; GD : integer; T2M0 : integer returns nothing do ie8(- 6 - 105 < 69600) end main : chillax end

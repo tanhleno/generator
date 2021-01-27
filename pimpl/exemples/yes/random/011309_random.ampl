@@ -1,0 +1,1 @@
+program X8 : v : takes o55aa, u, b : boolean array returns nothing U6 : boolean; l : integer; while(2) : chillax end end a : takes d79, J : integer; sE : boolean; e, k : integer returns integer do n8(- 15 - 2); output "" . 3 . "" end R4ha : takes J : integer array returns boolean array U7d : integer array; _, i : boolean; chillax end main : Z : boolean; y0 : boolean; chillax end

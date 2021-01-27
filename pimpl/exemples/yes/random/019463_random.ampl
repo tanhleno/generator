@@ -1,0 +1,1 @@
+program M8 : k5B : takes b, C : boolean array; Xg00a, z : integer array; W, iY : boolean returns integer array Pv, HI90a : integer array; B : boolean array; chillax end Vs : takes W9, B2 : integer array; N, t, m : integer array returns integer vO, b, Km7, u : integer; chillax end main : when case - true rem w[4] + (7) and(2) /= - false or true - 16 : chillax end end

@@ -1,0 +1,1 @@
+program i : main : vpVa, p4e, D6, G, L4 : boolean; l : boolean array; pop; input LiZ[false]; output 357 - 4 = 1060; while 5 <= 11 : chillax end; do k(4); when case 8 : chillax end case 15 : chillax end otherwise : chillax end end

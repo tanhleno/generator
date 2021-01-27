@@ -1,0 +1,1 @@
+program g8 : j41a : takes g5, P91 : boolean array; nm1 : boolean; pO20a : integer returns boolean array T5jaa, J : boolean; s : boolean; rZ : boolean; X, D8Q : boolean; iP1aa : boolean; pop 31; input Z; when case 6 : input A8g end end main : let G6 = 1; pop end

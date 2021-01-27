@@ -1,0 +1,1 @@
+program _ : d92a : takes P : boolean; d : integer; h : boolean returns nothing N : integer; chillax end H : takes t, i6 : integer array returns nothing s, Z3 : boolean; d2, XDP0, TH : boolean array; when case 27 - 5 <= 4 : let Wy4a = 3; when case 88 : chillax end; pop end case 41 = 5 : do T(13); pop end end main : doc : boolean; chillax end

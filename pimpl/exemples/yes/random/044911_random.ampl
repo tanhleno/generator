@@ -1,0 +1,1 @@
+program c3 : Ck : takes A : boolean array returns nothing UhS : integer array; pop end Q : takes D, F, R0 : integer returns boolean array do v(- 1 - 7); let F2 = 4; do oTa(8, 43000) end main : V46aa : integer array; pop 618 rem(71) - false end

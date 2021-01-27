@@ -1,0 +1,1 @@
+program h : J5 : takes d, re, B08 : integer array returns nothing r : integer; V, V5, Wx : boolean; while Cac0 /= - 16 - 6 : when case 512 : chillax end case 3530 : chillax end end; do T(- 1 - 91 < 8, 8) end main : f, e : boolean; do m(- false <= false * 7); pop 64000 and 4 - 270 - 10 end

@@ -1,0 +1,1 @@
+program V1 : dg : takes e : boolean returns boolean array D : integer array; pop 7 end main : q : integer array; output - (017) / true . - _ . - 3 - 00; when case - not true < - false or 7 - 897 : output 2 . "" . ""; let w7[8] = 6 end case - not 976 and 07 > - 8 : chillax end case - 44 = 13 : while 0 : chillax end end otherwise : chillax end end

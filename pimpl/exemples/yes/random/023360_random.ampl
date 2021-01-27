@@ -1,0 +1,1 @@
+program YO : w5 : takes Z_30a, _R5 : boolean returns boolean when case true and 409 + 07 - 178 < 1 : output 346 . ""; when case 8 : chillax end end case - 322 : while 8260 : chillax end; let bMy = 7 end end main : when case not i55aa and true * ySD and 70400 + 57 : chillax end otherwise : chillax end; pop false end

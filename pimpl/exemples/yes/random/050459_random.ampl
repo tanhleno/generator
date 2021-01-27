@@ -1,0 +1,1 @@
+program j : t42 : takes if : integer; vk, T : boolean array; f, I : boolean; DbK, x0, bJg, V, C2Maa : integer array; y76a, J : integer array returns boolean chillax end main : SI : boolean array; chillax end

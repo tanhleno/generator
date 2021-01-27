@@ -1,0 +1,1 @@
+program AH9 : Y : takes A, p3 : integer array returns nothing chillax end main : wC50a : boolean array; when case - not 59400 rem true and R7 + (8910) and j and 8 : chillax end case not 2 and _6sa : chillax end otherwise : when case 3 = 5 : chillax end; do k(16, 8); when case 89 : chillax end end; while false < 3 : chillax end end

@@ -1,0 +1,1 @@
+program z : U3Gaa : takes N5f0 : integer; cUD0, S : boolean array returns boolean chillax end r6 : takes N, h, n3D0a : integer returns nothing chillax end r : takes O : boolean returns boolean input D60a end Q860 : takes ZI : integer array; P, K22 : integer array; c78 : integer array returns nothing output 0 . "L"; when case 7 : chillax end; output "" end main : input N6 end

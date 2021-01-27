@@ -1,0 +1,1 @@
+program PGt : c : takes M, _, j : integer array returns integer input V[(40200) and 38] end l : takes H : integer array returns integer array pop 7 end O : takes d : integer; U7, t, Nm8, h, ckc : integer returns nothing chillax end main : output "" . "" end

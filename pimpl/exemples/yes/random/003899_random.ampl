@@ -1,0 +1,1 @@
+program Z : _ : takes W, k5u, aeb, Ww8, REia : integer array returns nothing X1 : integer array; when case - w or 0 - 2 >= - 4 - 0 : chillax end case - 7 <= 710 : let i2 = 4; let D9 = 2810; pop end otherwise : let O = 73 end; input t11[- 125] end main : S09 : integer array; chillax end

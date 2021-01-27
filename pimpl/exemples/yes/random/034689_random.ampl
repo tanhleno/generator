@@ -1,0 +1,1 @@
+program H1 : cv : takes UrC0 : boolean; i, F : boolean returns nothing chillax end main : x59, F, E, I9, N : boolean; y3 : integer; pop - C[81] > - 9 - 9; input F15; while LF + 2 - 79 /= 6 : chillax end end

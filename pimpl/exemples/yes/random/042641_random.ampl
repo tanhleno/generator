@@ -1,0 +1,1 @@
+program Xio0 : n : takes S8 : boolean array returns integer array V, b : integer array; do o(SiB and 4, 427); do Q(6 = 41, 1 = 9); let J = array 0; input snh0[8]; when case 9 : chillax end; do PC(30) end Y9 : takes n9u0 : boolean array returns nothing while - 0 : input s; input Q4; pop end end main : Sv : boolean; chillax end

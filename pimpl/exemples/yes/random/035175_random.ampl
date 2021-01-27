@@ -1,0 +1,1 @@
+program T : S4 : takes x770 : boolean; T76, a2o : integer returns boolean array output "" end R : takes f : integer array; Y : boolean array returns integer array chillax end main : l, p : integer array; when case e : chillax end case - not true - Ff9 or 1 < 9 and 6710 : chillax end end

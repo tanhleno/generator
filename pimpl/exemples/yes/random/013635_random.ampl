@@ -1,0 +1,1 @@
+program gN : t : takes z, UDq0, I : integer array; E3D, Hzga, yO3a, EwGa, O, U : boolean array returns nothing chillax end main : xWW0a : integer array; K : boolean array; let G[- not(9) rem(1) or false] = array - false * 2 + true * false and 1 - (4) or 25 - 7 end

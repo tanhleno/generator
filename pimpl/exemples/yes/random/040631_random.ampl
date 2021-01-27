@@ -1,0 +1,1 @@
+program bT : s : takes U6 : boolean array; C : integer; D7 : boolean array; Bd9 : integer returns integer F : boolean array; while - (50) and 6 - 82 - 2 >= - 06 : output 1 . "" end; when case - 16400 - 57400 : do NHv(7) end otherwise : while 7840 : chillax end; pop end end main : GV, Z : boolean; P9 : integer array; chillax end

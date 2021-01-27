@@ -1,0 +1,1 @@
+program W : Y88 : takes KEk : integer returns integer array s : integer array; chillax end ktg : takes k25, t0, w, H : integer array returns integer chillax end jP8 : takes f8, n, w, E0, P4, BF7 : integer array returns nothing K : integer array; chillax end main : input j0_a; output false . "k" . ""; do q3(true and 67900 + 2 - 84 = 9, - 0 <= 4); do bg4a(8) end

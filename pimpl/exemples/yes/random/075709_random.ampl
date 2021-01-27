@@ -1,0 +1,1 @@
+program MS50a : main : Dx8aa, L390 : boolean array; while - p5 /= (0) and not 2 + true - 903 - 102 : let V = 70 = 8 end; input d[- (2) / (8) and 78]; when case(91) = - 0 - 5 : chillax end; when case - 5010 - 78 : pop end case 2 : pop end otherwise : chillax end; let L = array 80; while 66 : chillax end end

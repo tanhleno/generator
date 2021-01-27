@@ -1,0 +1,1 @@
+program Y : O2g : takes n, MJ, b7kaa, De : boolean returns nothing chillax end z9 : takes r1, K38aa, V, c, O0 : integer array; x0F0a, g, K7 : integer returns nothing chillax end j81a : takes F : integer; u : integer array returns nothing w19 : integer; e8 : boolean; chillax end main : W, X2d0a, nN : boolean array; let j = (02); input C end

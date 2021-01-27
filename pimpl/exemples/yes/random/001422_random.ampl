@@ -1,0 +1,1 @@
+program g1 : a : takes b, Cv, n4Faa, z, W, g8 : boolean array returns nothing chillax end main : output false or not 1 or 0 - 93; when case false - true : chillax end case - F8 and 1 = 2 - 8 : do tT(64); do S(6) end case - 7 : when case 0 : chillax end end case 43 = 1 : do G(4) end otherwise : chillax end end

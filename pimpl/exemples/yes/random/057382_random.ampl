@@ -1,0 +1,1 @@
+program d : W : takes YB : integer array; r9 : integer returns integer array chillax end Fb7 : takes H : integer array; W : integer returns integer A : integer; while - 5 <= 414 : pop; while 09 : chillax end end; when case 6 = 5 : chillax end; pop end main : F, UU : integer array; chillax end

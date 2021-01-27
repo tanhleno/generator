@@ -1,0 +1,1 @@
+program tn : y : takes Lf : integer; Y : boolean; PU : integer returns integer pop 5 - 21 < 2930; while 8 = 28300 : input s9 end end G130 : takes UfPa : boolean array; PI8, g, n : boolean; b, q : integer returns nothing chillax end main : Nk : boolean array; L5, fp6, u0s : integer; Dz : boolean; chillax end

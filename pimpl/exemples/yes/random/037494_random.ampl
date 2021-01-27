@@ -1,0 +1,1 @@
+program o : hS : takes Z18 : boolean array; WX, s, e29, c96, B, h, vLk : integer returns integer array while - false /= 0 : output 5; let Z = 64 end end main : cb : integer array; let A260a = - true * 1560 + not 50 and 03; input O[- r / false or(5) + 2390 - 88] end

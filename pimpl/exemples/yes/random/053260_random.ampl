@@ -1,0 +1,1 @@
+program w : X : takes UUu : integer; U8daa : integer returns nothing chillax end main : N44a, Y : integer array; Yn : boolean array; C, w, Xgha : boolean array; K : integer array; g : boolean; m : boolean; WS : boolean; chillax end

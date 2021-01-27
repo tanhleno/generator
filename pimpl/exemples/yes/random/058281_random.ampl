@@ -1,0 +1,1 @@
+program I : e : takes X : integer array returns boolean h, h : integer array; chillax end ymA : takes u, e : boolean returns integer array while - 63 : when case 6 : chillax end; let T = 1860; pop end end main : do R(true * (2) * is or false / (945) + not 8 or 861 < - 13 and(53) and 1 or s) end

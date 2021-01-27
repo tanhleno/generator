@@ -1,0 +1,1 @@
+program x1naa : B4 : takes K : boolean; X : boolean array; vhg, J4 : boolean; _ : boolean array; A : integer; k3, v1Kaa, _ : integer returns integer array pD7, L, Z : integer; F5, tt0a, r : integer; q, j, C : integer; output 9 = 1 . "" end main : i : boolean array; pop not not 10300 / 5 - 5 and 92 or 3 > - (786) and 8520 - 2 - 1; when case true or(5490) : chillax end end

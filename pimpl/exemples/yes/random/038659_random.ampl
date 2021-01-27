@@ -1,0 +1,1 @@
+program W : I1 : takes u0 : boolean array; z, H : boolean array; q9ya : boolean; Z : integer array; w : integer; T : boolean; o : boolean returns boolean array do O(627 and 630 or 8) end xG : takes F : boolean array returns boolean pop 8 end main : gs : integer array; chillax end

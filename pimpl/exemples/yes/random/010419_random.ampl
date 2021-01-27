@@ -1,0 +1,1 @@
+program gic : z : takes P, Z9, C : boolean array; ov10a : integer array returns nothing _X30 : integer array; i5, kz, gp2 : integer array; H430, K : boolean array; z : boolean; output "" end main : iF8, J28 : integer; lRg0a, E, D : boolean array; fq : boolean array; h : integer; input YSO end

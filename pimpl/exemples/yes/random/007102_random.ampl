@@ -1,0 +1,1 @@
+program Z : dR : takes x, o, u, j : integer array; y : boolean; yGU, zp : boolean array returns boolean let W[- I2 and 8] = 9 - 3420; input P[53900]; while 1 : chillax end; output 2 . "F\""; output "-"; output "N" end main : n5 : boolean array; Oq : integer array; q0, MV, k, z : boolean; r5 : boolean array; let rH = array - false end

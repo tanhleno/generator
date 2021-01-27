@@ -1,0 +1,1 @@
+program L : S01 : takes SSW : boolean; x : boolean array; AO, s : integer returns nothing do s1f(- false - 747 - 5 >= 8, - 85 > 2) end V : takes v : integer array returns nothing pop; input S end main : while 2 * false / false <= 09 rem true : chillax end end

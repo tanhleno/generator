@@ -1,0 +1,1 @@
+program O : R : takes QF6a : boolean array; K : boolean array; HsN : integer array returns nothing chillax end main : J : boolean; do LO20a(- false and(2770) and(2) or(0) * true and 4 - 64 and 6 + 03500) end

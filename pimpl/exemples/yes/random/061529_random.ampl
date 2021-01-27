@@ -1,0 +1,1 @@
+program j : jR : takes HB8 : integer array returns nothing when case - false >= 80400 : chillax end otherwise : while 19 : chillax end end end main : w : integer; k, N2I : integer; l, Q0, S, h7 : integer; pop end

@@ -1,0 +1,1 @@
+program n81 : iW : takes b, L, F0, j9, b, a9u0a, x, g9Y : boolean array returns boolean array Dl30a, C, Y : integer array; H, f : integer array; J : integer; f, VK : boolean; W : boolean; x : boolean; chillax end main : input b7 end

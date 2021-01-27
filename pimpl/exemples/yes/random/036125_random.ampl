@@ -1,0 +1,1 @@
+program dX : u9 : takes nZ : boolean; a : boolean returns boolean array o23a, vd10a : integer; O, K9, N, K : boolean; when case - not 176 and 2 or 1 : pop; input fN; when case 9 : chillax end; pop end; pop; while 469 : input I; pop end; when case 8 : chillax end case 1 : chillax end; let z = 0; output "\\\n0a"; pop end main : let b[r9 / C(9)] = (4) or false or 3 >= false end

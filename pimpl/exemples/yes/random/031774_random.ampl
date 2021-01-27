@@ -1,0 +1,1 @@
+program g6 : C : takes Vm, k : integer returns integer array E, z3, F94 : integer; x, n : boolean; while true = 47 - 45 : while 0 : chillax end; let y = 9 end end n6 : takes z8 : integer array returns nothing while - 7210 - 85 : when case 3 : chillax end; input k; pop end end main : L, Q : boolean array; S0 : boolean array; A1T : boolean array; input I end

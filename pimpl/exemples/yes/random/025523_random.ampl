@@ -1,0 +1,1 @@
+program c2 : lo : takes N, t : integer; l34aa, Wr7 : boolean array; u : integer array; L, K940a, a : integer; Op, lhA, W, h5D0a : boolean; yA8, Wz50, x7 : integer; l1 : boolean returns integer pop - 9 end main : dF : integer array; chillax end

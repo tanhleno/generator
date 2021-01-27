@@ -1,0 +1,1 @@
+program A27 : main : when case - 8 rem e[88] + (0) / false and 44 or 6 and 5 <= - (5) or not 43 - 5 - 89 : while 8 >= 3560 : do h_60(7) end end otherwise : when case 9 : chillax end case 8 : pop end case 7 : chillax end; input j[654] end; input w[- c59 - not 750 and 1]; when case - (7) and 35 : input cC90 end end

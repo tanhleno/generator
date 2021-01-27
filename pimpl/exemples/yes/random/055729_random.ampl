@@ -1,0 +1,1 @@
+program Y2D : C : takes B : integer array; M : boolean array; d, C8S, w7, Fg, g : integer; e : integer; _l : integer array returns integer array chillax end main : j : integer; U, _W : boolean; x, c, P : integer array; su60a, JtP0a : integer array; input aC[- (9 = 54) / true / 415] end

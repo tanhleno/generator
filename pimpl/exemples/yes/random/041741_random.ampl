@@ -1,0 +1,1 @@
+program ur : U : takes A4 : boolean array returns boolean array s5 : integer; chillax end bX2 : takes U : boolean; WN, R2qaa, q2f, sH : integer array returns integer array Y : integer; input V7[2430] end E : takes f4 : boolean returns integer Cr : integer; B_kaa, FU : boolean; chillax end main : chillax end

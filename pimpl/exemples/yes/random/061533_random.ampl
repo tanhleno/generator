@@ -1,0 +1,1 @@
+program aQq : g : takes n : integer array returns nothing when case - J <= - 0 : chillax end; let r = array - 9 - 356 end main : do JFS(- (9) / (9) + false = not not 54 and true + true or 17 - 7, false or false); do L2((1) * false and 1 - false and 21 or 0 - 55400) end

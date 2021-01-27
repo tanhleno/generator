@@ -1,0 +1,1 @@
+program R6 : Q1 : takes V, V, P : boolean array returns nothing chillax end main : while - m and true and true - not t7 - G630 and 494 : while 58800 - 10 : while 32 : chillax end; pop; pop end; while 010 : let P = 1; pop end end end

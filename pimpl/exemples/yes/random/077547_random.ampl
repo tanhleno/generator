@@ -1,0 +1,1 @@
+program t : main : k9Oaa, k : integer array; Nb80 : boolean; when case N1W0a[44] + not false or 0 + 2 - 77 /= false + false or 2 - 2 : do i(- 9820 - 97, 7, 8) end case 73 * (4) and 54300 - true : chillax end case not 1 + 75 - 26 : chillax end case - 1 - 1380 : pop; let Q46a = 265; pop end end

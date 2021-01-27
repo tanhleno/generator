@@ -1,0 +1,1 @@
+program c : D : takes h : integer; v8 : integer array returns integer pop; output 1 = 1 . "!5\"a" end main : while not true + not not 993 - true = 38 and P : output "" end; output - 81 /= 9 . 20900 - 5 = 65 . ""; output 268 <= 403 . 17800 . 4210 . 320 end

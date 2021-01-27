@@ -1,0 +1,1 @@
+program yk20a : S : takes m5Raa : boolean array; z : boolean; A, I4 : boolean array returns nothing d : boolean array; input oOu0a; input uDC; while 06 = 73000 : input m8; pop end; input LC[24300]; do _(6120); while 858 : chillax end; pop end main : chillax end

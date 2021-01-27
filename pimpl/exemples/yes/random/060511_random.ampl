@@ -1,0 +1,1 @@
+program O1 : k3 : takes w : integer array returns nothing p, Q : boolean; while - false and 834 + 56 - 7 : pop; output "?_!a" end end main : do ezm(- true * (419) or false and pB <= - not true - (38200) and 08500 or 22600) end

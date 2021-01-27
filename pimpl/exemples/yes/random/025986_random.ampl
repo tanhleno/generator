@@ -1,0 +1,1 @@
+program j : t : takes b, y : integer; i : boolean; FD, i, L, Zgoaa : boolean returns integer array output "1~" . "" . 1 . "u" end e12 : takes Q, s, u : boolean; Q1p0a : boolean array returns nothing t7v : boolean; chillax end main : mC : integer array; R, Du40, Vy6, eK8, F : boolean; D : integer array; B : integer array; n : integer array; chillax end

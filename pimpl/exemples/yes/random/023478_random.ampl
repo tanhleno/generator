@@ -1,0 +1,1 @@
+program X : H : takes eb, Lt7aa : boolean returns integer array W, c : boolean; j8xa : boolean array; v300, u9 : integer array; chillax end m : takes d550, Od70a, M : integer returns nothing R8S : integer; P, d : boolean; let y0W0 = 84 = 62 end main : input A end

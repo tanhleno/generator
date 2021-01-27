@@ -1,0 +1,1 @@
+program _x : main : input w1; while false or Y1 and 108 : chillax end; do Ao20(278 or 2 - 7 <= 2110 - 2); do k3(794 - 9 /= 08); when case 0 = 74 : chillax end case 8 : chillax end case 39 : chillax end end

@@ -1,0 +1,1 @@
+program DW : main : lB2a : boolean array; x, L, FX : integer; O : integer array; H, d1 : integer; j8, h2 : integer array; zPs, L : boolean; hqL : boolean; when case(3260) : pop; do j7(481, 9) end case - not 8 : while 2620 = 231 : pop; pop end end otherwise : pop 0 end end

@@ -1,0 +1,1 @@
+program o : a1 : takes x, J600 : integer array returns boolean array chillax end j1 : takes Kl : boolean array returns boolean while 08 - 29 <= 2 : chillax end; let TG[2] = array 48000 end a : takes Ss : integer returns nothing chillax end main : a, MNd0, v, TK, q : boolean array; s, mX, kA2a : integer array; X2 : integer; do A(9 and K > not true / true and 4 - true + 20 - 7) end

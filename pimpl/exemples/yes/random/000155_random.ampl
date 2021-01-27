@@ -1,0 +1,1 @@
+program Su : A : takes uu, F5Xa, F, o, u, jU, f17a, O : boolean array returns boolean array E, s2 : integer array; a0, p : boolean; m : integer array; pop end main : output ""; pop - true or 97800 - 6 > - 6; output - 3 - 3340 end

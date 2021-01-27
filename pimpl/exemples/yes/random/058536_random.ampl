@@ -1,0 +1,1 @@
+program I : Z05aa : takes F : integer array returns boolean when case - not 0 : chillax end otherwise : let w = 8; input I7W0; pop end end Cm9 : takes X1, V : integer array returns integer array chillax end main : n, T : integer; X, z1 : integer array; chillax end

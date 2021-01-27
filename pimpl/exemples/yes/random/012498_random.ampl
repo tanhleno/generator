@@ -1,0 +1,1 @@
+program Lc : P0 : takes H, A2, w : boolean returns nothing when case 1 : chillax end otherwise : while 3 : chillax end; while 17 : chillax end; pop end; input R; output 5 . "\""; while 9 : pop end end main : chillax end

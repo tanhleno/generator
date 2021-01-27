@@ -1,0 +1,1 @@
+program g26 : o : takes E : integer array returns nothing i, N5, o : integer; B, xrN0a : boolean array; wU : boolean array; chillax end main : when case - not I8X - x and false - not 0 = z[2] - 57 or 7 : output 392 = 510; while 2 : chillax end end end

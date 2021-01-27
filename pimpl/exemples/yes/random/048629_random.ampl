@@ -1,0 +1,1 @@
+program _ : TQU0a : takes o : boolean returns nothing z : integer; h, Y210a : integer array; K, F9 : integer; chillax end main : let CB[- y[4] + b1pa / 6 and 62] = - 006 / not 4 or true or 79200; do gnb(- (7) / true and 301 >= - false - 7) end

@@ -1,0 +1,1 @@
+program A : x : takes W : integer; o, R, n, d : boolean array returns boolean chillax end N : takes o, S9 : integer array returns boolean while - 951 - 58100 = 24 : chillax end end main : E : boolean array; k : boolean array; output not not 4 * true and 1 /= true or 8 end

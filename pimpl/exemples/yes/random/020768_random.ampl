@@ -1,0 +1,1 @@
+program u : Q41aa : takes c, z7 : boolean array; v : integer returns nothing when case not 9 or 41 - 3 : chillax end case 9 : pop end otherwise : chillax end; input Z1_[4]; do J(9920 = 903) end main : ox10 : integer array; chillax end

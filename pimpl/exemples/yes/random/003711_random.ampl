@@ -1,0 +1,1 @@
+program E : t4 : takes u0U0a, MQAaa, D, L070a, O9L : integer array returns boolean when case - (1) < 097 : chillax end case 9 - 781 : chillax end otherwise : when case 1 : chillax end end end Wn : takes O : boolean returns nothing GW8 : boolean; chillax end main : chillax end

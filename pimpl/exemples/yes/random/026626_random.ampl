@@ -1,0 +1,1 @@
+program yr : g : takes Y620a, G910 : integer; PnV : integer array; d, qG9, Aj : boolean array returns boolean array chillax end W8 : takes j : boolean array returns nothing let Z[70] = 9 = 31 end U2 : takes e : boolean returns boolean array L, O : boolean array; _, T9 : boolean; CIw : boolean; chillax end main : chillax end

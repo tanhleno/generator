@@ -1,0 +1,1 @@
+program c : k23aa : takes V, Yj_0a, p, O38 : integer returns nothing chillax end iy : takes r, th : integer returns nothing I6 : boolean array; g, X, K : integer; tW30a : boolean; when case 45 : chillax end otherwise : input _; pop end end Du : takes y7, d3 : integer returns boolean array while 0 : pop; pop end; let lf0[7] = array 58600; output "" end main : chillax end

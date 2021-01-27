@@ -1,0 +1,1 @@
+program M5 : t510a : takes V, I5 : boolean array; U, U, j : integer; W56 : boolean array returns nothing K0 : integer array; output 2 - 17200 . 2 = 37 . "}=" . "" . "" end main : do cK(- (969 = 5090) / true rem 4 and 7 or true / true and 28) end

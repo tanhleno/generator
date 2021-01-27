@@ -1,0 +1,1 @@
+program h34 : D15a : takes l6 : integer returns boolean array let x[true and 4 or 3 - 3] = - 0 /= 91 end main : J : boolean; o : boolean; y, IJg0 : integer array; when case - hY[4] + false : input Y[- 779] end; while - true - 2430 + 6 - 0 : chillax end end

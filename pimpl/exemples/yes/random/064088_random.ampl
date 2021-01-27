@@ -1,0 +1,1 @@
+program DP30a : I : takes Eg : integer returns nothing do y(- false - 9 - 9 <= - 7, - 05 - 7 = 27, 9 = 05); input _ end s : takes K92 : integer array; sL, Zh, u : integer array returns boolean array g11 : boolean array; c, K8 : integer array; chillax end main : uah0, O, _ : boolean; pop end

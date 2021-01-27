@@ -1,0 +1,1 @@
+program p : main : v, y8Q : integer; while - not true rem not true and(9) or(7) / true and 0 or false + 4250 - 6 : when case 79 - 75 : chillax end; when case 0080 : when case 136 : chillax end end case 8 : chillax end case 0030 : chillax end; while 4 : pop end; while 88 : chillax end; pop; pop end; pop end

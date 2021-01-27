@@ -1,0 +1,1 @@
+program C : l : takes UK3 : integer; AX, t, l, mT : boolean array; s62, dV : boolean array returns boolean array b0u0a, jb, s, V : integer array; rk : boolean array; while true + 81 - 6 : output ""; do O(3) end; output 3 = 47 . "" end main : chillax end

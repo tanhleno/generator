@@ -1,0 +1,1 @@
+program B4K : g : takes JDq, kr : boolean array; BZ5 : boolean array; u4_, L : integer array; y, n, Ig : integer array; I : integer returns boolean O, X5n, o, JI : integer array; let N = array - 12; let B0 = array 7; do Nom(690, 35600, 882) end main : p, q : boolean array; input c[- true] end

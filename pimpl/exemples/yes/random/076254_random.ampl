@@ -1,0 +1,1 @@
+program Q4 : main : O, gh : integer; r : boolean; K6, DA : boolean; when case 070 and 37 - false : chillax end case g[07700] / E : let Dz[6] = 30 end case - true < 6 - 2 : chillax end case 5 <= 149 : while 7 : chillax end; when case 4 : chillax end; pop end case 817 = 7 : output "\nV0"; pop end otherwise : output 8 . 5 . "" end end

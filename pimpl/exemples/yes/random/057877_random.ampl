@@ -1,0 +1,1 @@
+program oo0aa : y : takes f : integer array returns boolean array M : integer; let MP6a = array 85 and 4 or 93 - 2; pop 00; output "" . 84 . ""; do AH3(2); do B(415); input q2 end main : h, gl, W9Ta : boolean; input Q end

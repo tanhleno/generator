@@ -1,0 +1,1 @@
+program lM : E : takes y : integer returns boolean w, Xs, z, A : integer array; chillax end main : pop not(19) - not 8 and 3 + 790 - 6; do i(not false / not 1 or(8) and 53, - 077 and 7 <= - 7 - 3, 77 - 2 >= 6) end

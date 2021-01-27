@@ -1,0 +1,1 @@
+program c0b0a : _ : takes sY : boolean returns nothing v : integer array; chillax end JZya : takes z4, k, KKz, jlJ0a, s3, j : boolean returns integer v3, z7O, Wr : boolean; GK7, W55 : boolean; pop; pop 89; pop 00 end main : v : boolean; output true; when case not 3 : chillax end case 335 /= 8780 - 85200 : input _8; pop end otherwise : chillax end end

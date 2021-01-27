@@ -1,0 +1,1 @@
+program _ : a54 : takes b4 : integer array; cg : integer array; j : boolean array; A : integer array returns boolean array chillax end main : xp : integer; v, i : integer array; _C : integer array; while - true or true : do e(4 < 7, 411 = 0, 7) end; while - 3 or I and 33 + 1 - 0 /= - Q7 : pop 32; while 4 : chillax end end; pop end

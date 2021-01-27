@@ -1,0 +1,1 @@
+program C : O : takes hn, c : boolean; y7 : integer array; O1 : integer array returns nothing U : boolean array; let O8[- false] = array 55; when case - 7 - 9 : when case 8 : chillax end; while 8690 : chillax end end case 539 = 7 : chillax end case 58 : chillax end; do K5(36); pop end main : NH9 : boolean array; chillax end

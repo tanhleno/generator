@@ -1,0 +1,1 @@
+program U6p : fNu : takes o, s, hn, I, GF : integer; Z : boolean array returns nothing chillax end main : x : integer array; let Y[(7) or(88) * X or not 34 + 52] = - not(3) * m and 28600; when case - (9) * XY9 /= - 37 and 93 + 57500 : let F1[8] = array 7 end end

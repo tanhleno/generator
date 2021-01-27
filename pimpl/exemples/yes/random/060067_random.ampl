@@ -1,0 +1,1 @@
+program c : s89a : takes P9 : integer array returns nothing chillax end main : output false > - mt and 6 . true >= - 57 . ";{" . 81 = 5 . 3; input P[- false + 1 and 9460 + 53 - 8270]; do n(false <= 9); output 3 . 4; input tO; output "o" . "" end

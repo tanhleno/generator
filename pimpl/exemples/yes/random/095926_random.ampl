@@ -1,0 +1,1 @@
+program A8A0a : main : when case - false rem 24800 and wi - 9 and not 243 : let M[- 6] = 5 = 0800; do rY(0); when case 685 : chillax end otherwise : chillax end; do m(9920); when case 05 : chillax end; pop end end

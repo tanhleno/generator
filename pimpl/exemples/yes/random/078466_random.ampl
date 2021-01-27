@@ -1,0 +1,1 @@
+program G4 : main : k3 : boolean; I1, wd, y, A, YW : integer array; a630 : integer; Dkp : integer array; do NMvaa(not 6 / 50 - 68500, azdaa(7280)); when case - not y / true or false and 9 - 9 /= true : while 47 : chillax end; let P4[3] = array 0 end otherwise : while 1 : pop end end; let C98 = array not 0 - 18 - 2770; pop 3 = 4 end

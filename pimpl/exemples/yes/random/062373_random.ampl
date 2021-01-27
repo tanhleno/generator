@@ -1,0 +1,1 @@
+program K4 : DIL : takes L2 : integer returns boolean g_S, N2t, xSRa : integer array; input jJ[not 6 - 42]; output 6 end main : q7j0a : integer array; let e[(67600) * not Ls1 or(201) * 9 and 82 - false and 3 + 6 - 65100] = array not true or false - 8 end

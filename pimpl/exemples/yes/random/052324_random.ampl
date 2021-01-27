@@ -1,0 +1,1 @@
+program L : s : takes UUyaa : integer; jV6a : boolean returns nothing w9 : integer; fWx, p5, V : boolean array; pop 92 - 55 end MW : takes K4 : boolean returns boolean output 8 . ",G" . 65 . "'" end H : takes Mi : boolean returns nothing chillax end main : K : boolean; r4P : integer array; G, c8, H3B : integer; input g; pop end

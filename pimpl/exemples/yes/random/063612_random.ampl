@@ -1,0 +1,1 @@
+program S : z : takes _ : integer returns integer while - (3) and 26600 or 09 < - 21 - 8 : chillax end end _ : takes j : boolean; L4, v : integer; r0e0, x : boolean returns integer a : boolean; px : integer array; n : boolean; chillax end main : L : integer; i0aa : integer; chillax end

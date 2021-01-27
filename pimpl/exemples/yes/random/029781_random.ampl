@@ -1,0 +1,1 @@
+program M : oz : takes zL0, r : integer array returns integer array k5, e9 : integer; w : integer; chillax end x : takes P : boolean array returns nothing chillax end R : takes A8 : boolean array returns boolean pop 924; let I[585] = array 4; output ""; let vx = 9 end main : chillax end

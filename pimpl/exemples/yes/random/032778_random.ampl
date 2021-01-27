@@ -1,0 +1,1 @@
+program jU7 : j : takes T, dfTa : integer returns nothing W : boolean array; chillax end N : takes w4, ES : boolean array; fUdaa : integer array; V : boolean; a : integer array returns nothing input pLUaa end u : takes Qo, PBAaa : boolean; x : integer array returns nothing do X(3 = 5, 8, 7020) end main : let N = array g[82000]; let _9 = array - false - (40) and 319 or 57 end

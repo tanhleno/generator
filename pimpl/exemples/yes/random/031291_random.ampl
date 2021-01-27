@@ -1,0 +1,1 @@
+program x7 : h4V : takes F810, _G4 : integer returns boolean array i7iaa, n5 : integer; dn : boolean array; E4 : integer array; chillax end main : W, r : boolean; while(59 = 876) - 34 < (819) - (0) and 08 : when case - 95 < 3 : while 6 : chillax end end case 9260 = 1 : pop end case 29 : pop end case 9 : chillax end end end

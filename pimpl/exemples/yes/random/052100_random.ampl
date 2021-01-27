@@ -1,0 +1,1 @@
+program N : p : takes G : integer; Pd : boolean array returns nothing while sG and 6 : pop 57; let y9 = 4460; input b; pop end; when case 024 - 233 = 666 : do P(94) end; pop end main : ptd : boolean array; N, _bV, k, D : integer; chillax end

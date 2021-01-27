@@ -1,0 +1,1 @@
+program upP : hc2 : takes d : integer returns integer array FiR0 : integer array; T, u, Ez9 : integer array; chillax end S3 : takes ZQ : boolean returns integer chillax end p : takes c, u4, zb : integer array returns nothing D, R, Q2 : boolean array; EG2 : boolean; l : boolean; chillax end main : pop end

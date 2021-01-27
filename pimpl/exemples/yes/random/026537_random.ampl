@@ -1,0 +1,1 @@
+program Y : C : takes P5, S36 : integer; Xe : integer; k4 : boolean; B : boolean; IH, s86, _hIaa : boolean; z, s, R : integer; G, k : boolean; k2 : boolean; uy : boolean returns boolean array do u820a((4) and 8 + 4 = - 4, - 76 = 73) end main : U : boolean; chillax end

@@ -1,0 +1,1 @@
+program fU : main : when case 4 and not i /= 25 : chillax end case not(8570) rem F and 137 or(5) /= - false and 464 : chillax end otherwise : do Ok(45); when case 63 : chillax end; input Za; output ""; pop end end

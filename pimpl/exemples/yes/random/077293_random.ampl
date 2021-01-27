@@ -1,0 +1,1 @@
+program N9Ya : main : P5, E : integer array; s, n29a : boolean; v6y : boolean array; B88 : boolean array; w, kSQa, o : integer; q, Z : boolean; pop l rem false and 76 - e + 9 - 56; let KEy0a = array true rem(39) end

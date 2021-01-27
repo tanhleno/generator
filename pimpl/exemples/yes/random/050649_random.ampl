@@ -1,0 +1,1 @@
+program t9 : N5W : takes z7 : integer; z, W : boolean array returns nothing N : integer array; chillax end main : Rr5aa, f, yA : integer array; Q85a : integer; input c[(2 = 45400)]; pop; do r(m9 and 1350 <= - 08400, - 74 = 03500); input p9; pop; input j; let e = 9360 end

@@ -1,0 +1,1 @@
+program _F9a : oI : takes Rp, i3s : boolean returns nothing j, A : integer; input H[- not 9 and 5] end s3 : takes ww, z, P : integer; q, i4 : integer array; wU : boolean returns nothing F3 : integer; u, a6, Cn : integer; B : boolean; chillax end main : F, Z5 : boolean array; pop - (58); do iK0(true + true and 70300 < (77) and 850 + 433 - 1, - (668) < 7) end

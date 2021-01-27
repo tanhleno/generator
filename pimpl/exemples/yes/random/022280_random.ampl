@@ -1,0 +1,1 @@
+program G : O6 : takes M, u : boolean array returns nothing I, d5Q : boolean array; J : boolean array; let t3Da[wV + 2] = - 5 /= 1 end QN : takes D0, Z, s : boolean array returns nothing U : boolean; K : integer array; tWfaa : boolean; P2P : boolean; input D; let b = array 78; while 07 : chillax end; input CO; while 3 : chillax end end main : output K(0) * false or(0) or 18 end

@@ -1,0 +1,1 @@
+program P : main : input R6W0; when case 1 and true and 4 or(88) : while 40 = 118 : when case 4 : chillax end end; when case 5 : pop end case 510 : chillax end otherwise : chillax end; output "0"; when case 13 : chillax end end case - not 03800 and 785 = 0 : chillax end end

@@ -1,0 +1,1 @@
+program U : J_ : takes h, D : boolean; X : integer; QA, S, F, Fe4, V, c : integer array; Kht0 : integer array returns nothing let O = - 9 - 2 /= 0; when case 34 - 5 : input o end end main : v : boolean; pop false and true and 0 - not 7 /= - 4 - 8 - 57900; output 1 and 624 - 9 - 5; input v5; pop 84900 end

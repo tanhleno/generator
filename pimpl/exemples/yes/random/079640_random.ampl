@@ -1,0 +1,1 @@
+program c1J : main : l : boolean; L7 : integer; pop D or V and 2090 - 50 - 6; do E(- not not 279 or not 323 and 81 - 59 - 2); while not 54 + 8 - 02 = - 6 - 15 : chillax end; output 1; do n(64200 = 17, 9) end

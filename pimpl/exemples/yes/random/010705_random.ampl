@@ -1,0 +1,1 @@
+program Qq70 : t770a : takes d, bqL, mT6 : boolean array returns boolean G : boolean; n : boolean; chillax end w8 : takes U : boolean; p4C : integer array returns boolean Dz, MF8, O, k : boolean; chillax end main : chillax end

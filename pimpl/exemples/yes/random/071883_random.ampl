@@ -1,0 +1,1 @@
+program y5 : main : X7, k, NB : boolean array; when case - 87900 - false /= - (7) * false and 6520 : when case 9 /= 7 : output "8P" end case 7 = 0 : chillax end case 4 : chillax end case 7 : chillax end otherwise : do ZM(37100); pop end; pop 3; while 61200 : pop end; when case 2 : chillax end; do BD(4); pop end end

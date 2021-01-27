@@ -1,0 +1,1 @@
+program y5 : main : do xx20(- 99 / Y4 < false * not 55 - not 13 and 10 or 84500 - 188, not false * true - false and 005, (126)); while - not not 094 /= (78) : chillax end; let U0m0 = - 57; while 8 <= 13 : let bc = 9; while 81 : chillax end end end

@@ -1,0 +1,1 @@
+program F : pd9 : takes G6 : integer array returns nothing input L; when case - 6 : chillax end case 4970 = 39 : chillax end case 3 : chillax end case 4 : chillax end; when case 4 = 6 : chillax end otherwise : pop end end main : input o_4; do p(true * (25) /= (3) and 7, true + 4 <= 1 - 6, 58 - 05 < 8, 0, 176) end

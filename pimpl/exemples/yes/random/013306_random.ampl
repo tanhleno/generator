@@ -1,0 +1,1 @@
+program q : r : takes qF, Xi, N : integer; z : boolean returns nothing chillax end saTa : takes X, eV : integer; M7 : boolean array returns integer array q : boolean; cKxaa : boolean array; do U5(3 - 0 = 6440, 7 = 1, 29); let K3 = array 22; when case 1 : chillax end case 156 : chillax end; let rnfa = 5; pop end main : input K7 end

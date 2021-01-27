@@ -1,0 +1,1 @@
+program o : t : takes WP, i, w, l, f, MO, sU, J3 : integer; dz, U : integer returns nothing w, I2 : boolean array; chillax end main : Z : integer array; let h = array - q(4) rem not not 4 or false rem 2 and 43 or 407 and 3 + 69 - 9; output - not 0 /= - 271 - 81 end

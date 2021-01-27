@@ -1,0 +1,1 @@
+program k : N : takes L, s : integer returns nothing L : boolean array; k : integer; chillax end q0 : takes fr, Ac : boolean array; Vfl : boolean array; K : integer returns integer array output "3\t" . "[)\"" end main : do os9a((31) /= (228) rem 96); input j end

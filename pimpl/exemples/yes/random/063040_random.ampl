@@ -1,0 +1,1 @@
+program M : v84a : takes R0 : integer returns integer array R9 : integer array; chillax end O : takes H : integer returns integer array output 6 = 60 . 18 . "`*\"a"; do N(57600 = 7); input O[96600]; pop end main : chillax end

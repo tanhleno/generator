@@ -1,0 +1,1 @@
+program X : x : takes h7, _t : boolean; H23aa : integer array; F9T, t2k0 : boolean; l0 : integer; y : boolean array; pD : boolean returns boolean chillax end main : w : integer array; let D = K rem not 1 and 2 - nB and 62; do B(- a[7] /= - 5 and 64 - 3 - 98, not 0980 and 00 + 4 >= - 1 - 71300); input C41; output 7 = 0 end

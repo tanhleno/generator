@@ -1,0 +1,1 @@
+program dP : R4 : takes Dw : integer returns boolean chillax end u : takes YO : boolean array returns boolean chillax end main : when case 2 / k0[64] rem not 3 and 68 >= dw(4) or 41200 : chillax end; while - 93 / false and 28200 > - true and 77600 : do j(9) end; pop end

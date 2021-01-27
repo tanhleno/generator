@@ -1,0 +1,1 @@
+program A : Aeh : takes Q60 : integer array returns integer while true and 519 : when case 09 : pop end; while 4 : chillax end end; let H[- 9] = 8 = 0 end main : do K(- true); while - 72 : while 958 = 36700 : chillax end end; while - (56) and 84 + 9 - 19800 = - 70 - 0 : chillax end; let j[- 2040] = 75200 end

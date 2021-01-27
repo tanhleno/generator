@@ -1,0 +1,1 @@
+program Q : p : takes b380, y : boolean array; M1 : integer array returns nothing j7 : integer array; chillax end main : pop - (1) rem false; output "U" . ""; while - (2) and 6 + 197 : while 256 : chillax end end end

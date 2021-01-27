@@ -1,0 +1,1 @@
+program H : j5 : takes oe1a, V5, ZGS0, r : integer; W4B : boolean array; o, Sa, y, YNP : integer returns boolean array v : integer; j, o : integer; while not 41 and 4 : chillax end end O : takes AZ : integer array; x010a, y8 : boolean; H, o : boolean returns nothing chillax end main : uKy, i, x1N0a : integer array; let W[- e - B] = true or(9) and 4 <= true; pop(6) >= - 47 end

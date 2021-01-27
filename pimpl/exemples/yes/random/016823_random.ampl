@@ -1,0 +1,1 @@
+program j : b : takes r, u : boolean; t, AV, P1, y : boolean returns nothing v, V : integer array; chillax end Vc : takes z6, x : boolean; H, QdC : integer; N1 : integer array returns nothing p : integer array; qG50, XEm, MD : integer array; FF0, w5 : boolean; chillax end main : output - (9) and D < - (79) and 5 - 58 end

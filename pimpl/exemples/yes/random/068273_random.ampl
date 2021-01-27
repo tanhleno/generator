@@ -1,0 +1,1 @@
+program Z : main : qgH, R, a, o930a, G, q, L : integer array; when case false or not 43 / true and 73 = - false + 5 : input d820a[- 0550 - 9] end otherwise : output 53 . 8 . "Y8"; pop 0; output "" end; do M(- H[380] or not 5); let D[- 5 and 0630 + 2 - 3] = array 9 and 2 - 12 - 31; output "" . "" . 3 . "\t"; while 33400 : do d0(609) end; let I[16] = array 3; pop; input Af; pop end

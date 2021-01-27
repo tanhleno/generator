@@ -1,0 +1,1 @@
+program a : U : takes f, d : integer array; t, y : integer; n, U9, b, y, g : integer; K : integer array; z, Z, I : integer; w1 : boolean; Bu : boolean returns boolean chillax end main : let n2 = false and nlt0a or false + 6150 >= true and 76500 or 65400 end

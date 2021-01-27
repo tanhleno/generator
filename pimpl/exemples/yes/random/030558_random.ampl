@@ -1,0 +1,1 @@
+program G2 : A : takes GVV, oNV : integer array returns nothing n, b, n : integer; y96aa : integer; pop 32 <= 1340 end q5 : takes CB : integer; E_k : boolean array; y : integer array; n, vr, A2, e : boolean returns nothing chillax end E0 : takes fC8, Y4 : integer array; c6faa : boolean array returns boolean array chillax end main : chillax end

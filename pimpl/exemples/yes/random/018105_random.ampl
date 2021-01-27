@@ -1,0 +1,1 @@
+program w0a : E21 : takes j69, eZh : boolean; Q93 : integer; wW5, E, y0 : boolean; k : boolean; B : integer; g31 : integer returns nothing while - (9) and 6750 : chillax end end main : T6 : integer; chillax end

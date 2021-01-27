@@ -1,0 +1,1 @@
+program pG20 : S : takes W3, c, U, i6t : boolean array; SO, _, Qo6 : integer returns nothing let Oq[- false] = 6 - 95 /= 7; output 11 end main : let K = not(7) * false - not 1 and 399 = - not 5 and 605 + 797 end

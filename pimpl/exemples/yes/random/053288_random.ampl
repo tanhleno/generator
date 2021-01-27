@@ -1,0 +1,1 @@
+program A : vn0 : takes Y : integer; l : integer returns nothing tZ, d, K : integer array; a5E : boolean; when case(8) /= 9 : input r4Qaa; while 3 : chillax end end case 35 < 9 : chillax end case 6310 : when case 4 : chillax end; pop end case 1 : pop end otherwise : do f(6) end; pop 7 end main : aI4 : integer; cd : boolean; input V53[(7 = 7) / false or false + _] end

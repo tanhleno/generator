@@ -1,0 +1,1 @@
+program w730 : g140 : takes r, Fq : boolean; G, r : boolean array; c300 : integer; K : boolean returns nothing M : boolean array; do R3s(- false); output 2 = 51800 . 74; let y[7330] = 6; pop 460; when case 8 : chillax end end main : O : integer; y, O, b, j, y, N : boolean array; chillax end

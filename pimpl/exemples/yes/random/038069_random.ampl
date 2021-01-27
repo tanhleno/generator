@@ -1,0 +1,1 @@
+program tOf : x : takes k : boolean array; b35, m, y : boolean array returns boolean array chillax end L2C : takes Y, _J, iIy : integer; of, X : integer; fU : boolean array returns nothing hu : boolean; let B = array - 9 - 4 end Y : takes E, e : integer array returns nothing chillax end main : output "" . - not 762 . "" . "96" . "" . 513; do e(- bd[4]) end

@@ -1,0 +1,1 @@
+program h : Y : takes Mx2aa : integer array; D110a : boolean; w6, nt : boolean; G43 : boolean array returns integer KQ00, x0A : integer array; pop 49 - 811; output "\\" . 75200; pop 06200; when case 0770 : chillax end case 9 : chillax end end main : chillax end

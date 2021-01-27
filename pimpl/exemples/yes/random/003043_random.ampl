@@ -1,0 +1,1 @@
+program WL3a : j : takes A, F5, v, yF1, R7 : boolean returns nothing _ : boolean; G7 : integer; while - (14) - 748 - 5990 : chillax end end P1 : takes V2 : boolean array; O5Q, b : boolean array returns nothing chillax end main : r01a, v130 : integer array; E, M : boolean array; input E5; input t8[true and false and 5780 - 1 or 3] end

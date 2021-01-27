@@ -1,0 +1,1 @@
+program g : main : when case - P2[1] : output "\\" end case - false : chillax end case not 0370 - 3 : chillax end case - 01300 - 176 = 84 : pop; while 4 : chillax end end; let cD = array false and(49); while A2 or 537 - 10000 : output 9; pop end end

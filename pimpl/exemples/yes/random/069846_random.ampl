@@ -1,0 +1,1 @@
+program A3 : main : v0I, U, e3s0, B : boolean array; m : boolean; T9X, Cq40a : boolean; pop; input hiM; when case false and 48 : do a(9); input F; while 1 : chillax end end case - 72900 : input dLt0 end otherwise : pop; let VZ7aa = 3 end; pop end

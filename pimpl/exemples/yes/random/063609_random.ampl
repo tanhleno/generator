@@ -1,0 +1,1 @@
+program O : Kq2 : takes i : integer returns integer while(85100) + 6 - 674 : pop 4 end; output 76 = 89 . "" . 569 end main : GZ, r06a : boolean array; pop; do V(- 9 rem b and 2 - not 5290 or 7 - 87); while - true or 99 - 9 : while 12 : pop end end end

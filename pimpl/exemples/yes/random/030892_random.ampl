@@ -1,0 +1,1 @@
+program xaFaa : i : takes Jt, B : integer array returns nothing g : integer; when case true and 62 : chillax end end _ : takes h4, J98aa : integer; z, X0y : integer returns integer let C = array 88000 - 3 end main : h4 : integer array; chillax end

@@ -1,0 +1,1 @@
+program V : zo : takes F, G9, T5 : integer; u : boolean array returns integer chillax end M580 : takes o2 : integer returns integer array AE : boolean; when case - 5 : let u = 82; while 6 : chillax end end case 23 : chillax end otherwise : chillax end; when case 4 : let y7 = 93 end; output "\\&!a"; output "" end main : pop - true rem false - true and 0 + 555 < - (6) + 79 - 22 end

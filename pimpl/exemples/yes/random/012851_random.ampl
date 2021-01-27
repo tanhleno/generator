@@ -1,0 +1,1 @@
+program h7 : Mg8 : takes N, M, Ok60a : integer; t, E : boolean array; D93, u3 : integer array; H : integer array returns nothing chillax end main : Wz3 : integer; r : boolean; input njh; pop; input L[true] end

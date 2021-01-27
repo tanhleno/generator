@@ -1,0 +1,1 @@
+program ut30a : h : takes H, c : boolean; I75 : integer array returns nothing chillax end ft_ : takes m, u, Q50, l, W1v, Y : boolean returns nothing chillax end main : p, hB, l : integer array; d : boolean array; chillax end

@@ -1,0 +1,1 @@
+program A1 : P6 : takes m3, m : boolean array returns boolean array X, D, Sd4 : boolean array; EOC, f02 : boolean array; t0Pa, m5c : boolean; chillax end main : Z : integer array; q, Db, va : boolean; pop; let n = true - 37 - 6; input s[- false - 8 - 8940]; when case 38 - 692 = 83 : chillax end otherwise : output ""; pop end; do G(3, 18, 5); do Y(2, 2); let v = 0650 end

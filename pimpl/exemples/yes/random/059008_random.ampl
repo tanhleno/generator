@@ -1,0 +1,1 @@
+program j : m : takes k : integer array returns integer array output "#9"; output ""; input PI; while 1950 : pop end; pop; when case 874 : chillax end; pop end q : takes X, o5N : boolean array returns integer array while 3 /= 842 : when case 3740 : chillax end; pop end end main : V7, e, B, F960, UB : integer array; input P8[(1 = 812) * false] end

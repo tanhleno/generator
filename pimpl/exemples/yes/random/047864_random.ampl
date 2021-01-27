@@ -1,0 +1,1 @@
+program Ew : m : takes Y : boolean returns nothing IZ40a, H5Wa, b6, s, _n : boolean; f : integer; chillax end Y : takes g7 : integer array returns nothing chillax end main : c : boolean array; U : integer; let Y74a = array(45 = 70) rem b(8); output - kTQ >= - 89600 - 8110 end

@@ -1,0 +1,1 @@
+program M : Sbz : takes M0, Y3, O, uBq0a, M : integer returns integer array z7, sM2, k7, X3, fa : boolean; h : boolean array; do dp(- (8) and 3 - 997 - 65400, 1); let O = array - 2 - 8; input f[47]; pop end main : G5 : integer array; a, L : integer; W : integer array; JX5 : integer array; B2b, s, n30 : integer; input NCw0a; output "*0" end

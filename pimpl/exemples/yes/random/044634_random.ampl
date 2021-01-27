@@ -1,0 +1,1 @@
+program y : L9 : takes Z : boolean array returns nothing VD40a : boolean array; input zk0[true]; do S(- 73 - 11100 > 38) end u : takes N : integer returns boolean let b[32700 - 5] = 06 = 2 end main : J : boolean; while 4 - false < false or 8 and 1080 : chillax end end

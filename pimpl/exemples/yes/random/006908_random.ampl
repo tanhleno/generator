@@ -1,0 +1,1 @@
+program Nq : v : takes V8, Z, S, R : integer array; b4, c, Xm : boolean returns boolean array I3, dt1a, u : integer; C : boolean; pop end z : takes eb3a : integer returns nothing j : boolean array; chillax end Z650 : takes Mqka : integer; Z4 : boolean returns nothing output ""; output "0" end main : __, T, VY10a : integer; I2q : boolean array; chillax end

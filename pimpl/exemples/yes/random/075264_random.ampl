@@ -1,0 +1,1 @@
+program Rk5 : main : D, I : boolean array; G : integer array; Qh, u7, Dz, XX, lOa : boolean array; while - (60 = 6) * tF[602] or(0) or true or 001 = false + not 0 : chillax end; let P[true / true] = array - true + not 4; let wT8aa[3 and 9] = array 063 end

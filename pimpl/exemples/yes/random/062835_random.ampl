@@ -1,0 +1,1 @@
+program Z_J : Q4 : takes T : integer returns integer array K15, u3, L, C9 : boolean; RdP, nUk0a, I, n : boolean array; VO, Y, A2 : boolean array; chillax end main : when case not(73) and false * J and 4510 : when case 451 > 5 : chillax end; when case 5 : let n = 8 end case 2 : pop end otherwise : chillax end end end

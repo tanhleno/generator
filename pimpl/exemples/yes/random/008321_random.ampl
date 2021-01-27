@@ -1,0 +1,1 @@
+program B : u : takes A0, M, O, t26 : integer returns nothing X7 : boolean array; when case not 8 and 4 + 56 - 4 : chillax end case - 08 > 7 : chillax end case 51 : chillax end otherwise : while 37400 : chillax end end end main : chillax end

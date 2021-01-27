@@ -1,0 +1,1 @@
+program J : b : takes we, W, p6 : integer array returns integer array chillax end UjPaa : takes uTk0 : boolean array returns boolean chillax end main : I06aa, J : integer array; output 95 * not 0 and 8 end

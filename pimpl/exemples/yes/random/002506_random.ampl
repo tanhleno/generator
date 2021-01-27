@@ -1,0 +1,1 @@
+program KG1 : Q83 : takes UW5a, JF, w, Em, s : boolean array; p : boolean; y7Raa, B : boolean array; IR : boolean array; n, a : integer array returns nothing chillax end H : takes uWUaa, V6 : boolean returns nothing chillax end t : takes d, a : integer array returns integer array chillax end main : Y, y, l : integer array; chillax end

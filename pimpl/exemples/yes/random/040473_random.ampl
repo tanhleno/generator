@@ -1,0 +1,1 @@
+program P : z9 : takes Z : boolean array; l : boolean returns nothing while - not 8 and 52 : do Z(37) end; do ys(- 28); output "" end main : input V[- 0]; when case - Q0[6] * not 086 and 34 : output "" . ")\n0"; output "-K\"" . ""; output "=(0a"; do K(342) end otherwise : chillax end end

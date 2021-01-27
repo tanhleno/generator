@@ -1,0 +1,1 @@
+program o7X : e : takes e : integer returns boolean do iw7((6) and 5 + 2 - 0, - 971 = 4, 283); when case - 28200 - 772 : chillax end case 0 = 9 : chillax end case 2 : pop end otherwise : when case 05 : chillax end; pop end; output 9 . 11000 end main : chillax end

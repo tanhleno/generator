@@ -1,0 +1,1 @@
+program o3 : J : takes cR : boolean array returns nothing Bu2a : integer array; d, h2, u : boolean array; chillax end main : when case - ij(9) > - Ud(7) - M5N0 and 8060 - 25 : output "" . "" end; let _y = - 00 and 8; pop - 05100 /= 1; output "" . 6 . 891 . "@" end

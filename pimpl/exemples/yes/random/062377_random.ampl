@@ -1,0 +1,1 @@
+program bYk0a : R : takes d : integer returns boolean T, i : boolean; chillax end V5 : takes K9q, g, wb6 : integer returns nothing chillax end Q : takes fn, B89 : boolean; s, b : integer; s, N, bE : boolean array; D, p : boolean; q, U : boolean; Ja70 : boolean; J7j0a : boolean returns nothing p, s : boolean; let G = 602 end main : pop end

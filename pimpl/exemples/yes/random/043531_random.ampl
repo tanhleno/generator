@@ -1,0 +1,1 @@
+program U2 : e : takes M8 : boolean array returns nothing chillax end yU : takes Asp, A : integer returns boolean array do GX(- 2 - 1 <= 93) end main : u6 : boolean array; Wa60a, b, Tm, B, V : integer; output - true and G and 92 /= - j; let d79 = - false and 59; while(23) and 4 or 2 - 514 >= 10 - 6 : chillax end; pop 5; pop 1 end

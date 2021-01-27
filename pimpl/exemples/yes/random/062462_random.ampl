@@ -1,0 +1,1 @@
+program w2 : x : takes n2naa : integer returns boolean eX4 : boolean; X, c5k, c : integer; when case - (56) - 6 - 0190 : chillax end case - 1 - 7 < 45400 : chillax end; let P[9] = array - 4 end S : takes d, _, w : integer returns nothing w : integer; chillax end main : Sl7, fC : integer array; A, v : boolean; chillax end

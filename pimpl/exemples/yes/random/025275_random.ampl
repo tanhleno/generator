@@ -1,0 +1,1 @@
+program aF : L : takes _D, d9haa : integer; x, m, a7Baa : boolean returns integer jy, _0 : boolean; tw : integer array; XPY, Id : boolean array; chillax end b : takes C3 : integer array returns nothing chillax end LJ : takes X : integer returns nothing chillax end p : takes V, b : boolean; vx6, P, J6, n : integer returns nothing do Ge9aa(711); input u end main : output "0" end

@@ -1,0 +1,1 @@
+program u : n : takes rK1aa, Aj20 : integer array; P : boolean array returns integer array input pKJ[- (9) + 82]; while 1 >= 1 : chillax end end z : takes z4, e, K, e7W : integer returns nothing Fk, Yzl, kB7 : boolean; chillax end main : chillax end

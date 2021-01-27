@@ -1,0 +1,1 @@
+program e890a : Ey : takes _ : boolean array returns nothing js60, W63, j, V1 : integer; input d; while 71 - 328 : output "6D"; while 40 : chillax end; pop end end W : takes LU : integer array; RO80a : boolean; g : integer array; y70 : boolean array returns boolean chillax end main : Srf0a, mS8 : boolean; xRO, a5, s, l : boolean; chillax end

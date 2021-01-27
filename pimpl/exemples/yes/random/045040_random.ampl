@@ -1,0 +1,1 @@
+program a : x : takes R : boolean array returns nothing let ZR5[- q and 9 + 28 - 31500] = 08; do zQ(2 - 7); pop 3; do N(5); do iQq(46); do Ffr0(566) end p : takes u, A1, N : integer array; N18 : integer array returns nothing x, Gf00 : integer; q5 : boolean; chillax end main : hY, q1I0a, W, d87aa : boolean array; chillax end

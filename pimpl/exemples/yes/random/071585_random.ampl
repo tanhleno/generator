@@ -1,0 +1,1 @@
+program tKj0a : main : I80, W1, q : boolean array; RMIaa : boolean; while 2 - true * BJ >= - not 3810 + true + 8 - 5 : do v(218 >= 0, 5 = 70500); pop end; while - not not 7 + true and 1 > (5750) and 61 + 68600 : chillax end; while not 6 and 1230 + 4 : chillax end; do V(- 47 - 53, 1); output 77; while 66 : pop end; pop end

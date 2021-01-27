@@ -1,0 +1,1 @@
+program U : o : takes x3f : integer; Q : integer array; j0, w, ml, q : integer array; rfq, p : integer returns nothing pop 6030 /= 62; pop 4 = 24; when case 46 = 37 : chillax end case 2 : chillax end otherwise : pop end; input d7[1]; when case 73 : chillax end end main : chillax end

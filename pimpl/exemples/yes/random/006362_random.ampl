@@ -1,0 +1,1 @@
+program T : x : takes EW3aa, c, z, eI80 : integer; H, c, p9 : boolean; s9 : integer array returns nothing a : boolean; while - 7 and 2 + 3 : while 6 : pop end; output "580"; let M = 4 end; output 349 = 095 . "d5" end main : input f[not G or(62) - false and 62 + 620]; output - 38200 <= - 76 . 0 <= 7 . "Y" . 4 . 257 . "" end

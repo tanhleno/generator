@@ -1,0 +1,1 @@
+program X : main : while - true * v(1) - Wh(92) * 7 <= - true - 3 and 80 or 4 - 5 : chillax end; do N((58) or false or 5 - 8, false or 00 >= - 7); output "" . 5 = 9 . 38 . 469 . "\""; do t(- 5 - 4); pop; output 3 end

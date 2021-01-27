@@ -1,0 +1,1 @@
+program r : l8daa : takes q, S : boolean array returns boolean pop; pop; input RA; when case 62800 : pop end otherwise : chillax end; when case 69 : chillax end end main : F4G : boolean; n440 : integer; O, MX6, j, _81 : integer; input s[62 rem false] end

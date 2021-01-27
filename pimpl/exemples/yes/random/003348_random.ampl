@@ -1,0 +1,1 @@
+program j : h : takes m, Q, gL, Z870a, T : integer; M04 : integer array returns nothing chillax end main : do j((1 = 1) / (4) - S3b0(245) and v and 23); do v(not(00) / false or false and 62700 + 57800, - A9 + 658 - 0, 58 - 40, 9 = 6); pop - 9 <= 2870 end

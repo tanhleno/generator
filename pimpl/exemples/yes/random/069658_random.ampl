@@ -1,0 +1,1 @@
+program t : main : A6, u, g6T0, K : boolean; when case - c(0, 8) * 5 * 1690 or(90700) and true and 81 + (304) + 5 /= true - true and 6 or 3 - 81 : output "09" . 9 end case - true * 8 >= 190 and 1 + 015 : pop 72; output "" . "*}\"a"; pop; when case 94700 : chillax end; pop end end

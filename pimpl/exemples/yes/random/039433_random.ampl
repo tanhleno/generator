@@ -1,0 +1,1 @@
+program cr30 : N : takes B : boolean array; iO, C : integer returns nothing chillax end main : A1 : boolean; while true : output 3; while 9 : chillax end; when case 4 : pop end case 5 : chillax end end; input i end

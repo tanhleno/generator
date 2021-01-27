@@ -1,0 +1,1 @@
+program x4 : T : takes L0 : integer returns boolean array chillax end main : when case(07 = 5) rem _ : while - 8 - 0 > 19 : input q; pop end; let g[2940] = array 35; do O(56, 0); let b = 377 end; while true / 7 and 38300 + 0 and 4 /= - 8 : chillax end; let V[(504) - 615] = array(20600) and 92 + 5 end

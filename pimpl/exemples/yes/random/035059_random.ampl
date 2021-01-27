@@ -1,0 +1,1 @@
+program dJ : Ho00a : takes P9 : boolean; a, P : integer array returns integer array chillax end k : takes q52 : integer; X, jx1, mz : boolean; TTt, xM : boolean; R6t0a, T8Jaa : integer returns nothing when case 8 : pop; input P end end main : chillax end

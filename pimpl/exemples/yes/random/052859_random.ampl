@@ -1,0 +1,1 @@
+program w : B : takes k : integer; eJ : integer array returns boolean array P, I, D, _2 : integer; k : integer array; chillax end main : when case(89 = 9) or fVga[7] * q71 and 6 + true - 8 : chillax end otherwise : chillax end end

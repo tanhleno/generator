@@ -1,0 +1,1 @@
+program a : main : lJW0 : integer array; while - Ew20 / b(9) + 35 and not 1 and 782 <= - f6(13000) / true - jT8aa + 22 : let cA6a = 62; output "" . "4r0" . ""; let s8[5] = array 293 end; do s(- A(2) - true + 15 = - (41) and 4, - true or 378 - 8, - 2 - 40, 1 = 90) end

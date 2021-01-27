@@ -1,0 +1,1 @@
+program PK7aa : n5R0 : takes Q, i7, _l, O1, Oi, Ue, bu7 : integer array; Y, Ge20a, S4, Gp6, CF : boolean array returns boolean array Q0, o440, M9B : boolean array; chillax end aU : takes Q : integer array; P7 : integer; S19aa, ev70 : integer returns boolean array input B16 end main : XaN0a, _M, o : integer; P, e33 : integer array; chillax end

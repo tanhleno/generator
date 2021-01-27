@@ -1,0 +1,1 @@
+program tBTaa : j2 : takes J, XTp0, B, a : integer; fE : integer array returns integer K2 : boolean array; chillax end SD : takes V : boolean returns integer chillax end main : when case - false * false : chillax end end

@@ -1,0 +1,1 @@
+program PJM0 : main : p : boolean; m : boolean array; l : integer array; Y, g1sa : boolean array; wHC0a : boolean; d, k9 : boolean; W : boolean; mg : boolean; input n; when case - false * Z9 >= true : chillax end otherwise : chillax end end

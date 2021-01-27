@@ -1,0 +1,1 @@
+program _v : J : takes O4, L2, ld7a : boolean array; zD9, Wz, Vo : integer returns nothing chillax end b : takes i, C : boolean returns nothing e4_0a, f, q, U : integer; S5 : integer; M : boolean; K : boolean; pop; while 26 : chillax end end k : takes I : boolean; p : integer array returns boolean array chillax end main : pop - not false end

@@ -1,0 +1,1 @@
+program f : main : j9, i5Faa : integer array; when case true rem true : when case - 47 - 6 : chillax end; input r[2] end; when case - L13 : pop; do v(28) end case - true > 85 - 97 : output 96 . "H,"; let t = 1; when case 56 : chillax end end end

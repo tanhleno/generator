@@ -1,0 +1,1 @@
+program f : main : Hqj : integer array; S : integer; input b[- p8A rem true - 12 and false and 44 - true and 79100]; when case(49) <= false : chillax end case - not 9 and 69 + 53 /= - 341 - 521 : while 43 : pop end end end

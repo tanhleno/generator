@@ -1,0 +1,1 @@
+program y : z : takes cwR, P : boolean returns nothing chillax end q : takes V42, w, t : boolean; I0u : boolean array; g, R41a : integer array returns boolean array y, Z : integer; chillax end b : takes V86aa, by : integer array; H30 : integer array returns boolean baX : boolean; while 97 : input O1; pop end end main : let L5U[- 6 / V - (0) - false and 610] = - zX(127) end

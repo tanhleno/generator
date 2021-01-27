@@ -1,0 +1,1 @@
+program b : aD : takes RA : boolean; u : boolean array; U : integer returns nothing j : boolean array; output - 9 - 4 < 685 . 1 = 1 . "~1\"a"; do b(- 96 - 8, 84, 87) end a : takes lU8aa : boolean returns nothing pop end h : takes z7, w : boolean; G : integer returns boolean g : boolean; r, y : boolean; output 4 . "" end main : chillax end

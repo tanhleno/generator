@@ -1,0 +1,1 @@
+program I : khk : takes f88 : integer array; b : boolean returns nothing chillax end main : V : integer array; let Ym = (4640) and false and 5 + not 2 and 9 - 4 - 876 <= - true; while true rem false or r2 and 41 or 9 >= - 3 : chillax end end

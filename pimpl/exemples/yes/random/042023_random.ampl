@@ -1,0 +1,1 @@
+program U : EhFa : takes g : boolean array returns boolean chillax end main : let s[- not(6) or O[8] and(735) + not 2 and 4] = array not not not 7 * false and(47) and 688 - (9) or false and 7840 + 2; let Y4[H9(806)] = not 98 - 1 - 548 >= - 5 end

@@ -1,0 +1,1 @@
+program bZ6 : TO : takes Y : boolean array returns nothing pop 4 - 7 > 625 end k : takes Y8 : boolean array; z : integer array returns nothing chillax end TA1 : takes Yw2, M1 : boolean array returns nothing O4, X, W1Na : boolean; chillax end main : input A end

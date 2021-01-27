@@ -1,0 +1,1 @@
+program _8 : o : takes F4o0, W, Ou : integer returns nothing u5 : integer array; V, ZS : integer; yv : integer; Ay, To0aa : boolean; by : boolean; m7 : boolean; output 1 . 06 = 48900; when case 6 : while 5 : chillax end end otherwise : chillax end end main : s6 : boolean array; SDV : integer; chillax end

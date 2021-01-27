@@ -1,0 +1,1 @@
+program q : L : takes d : boolean array returns nothing m, u, jc : boolean array; do O1_a(wZ + 82 - 35) end J : takes W, p : boolean array returns boolean array n1saa : boolean array; chillax end main : chillax end

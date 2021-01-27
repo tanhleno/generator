@@ -1,0 +1,1 @@
+program A : bL : takes m7, J, T, k, r, R7L, o : boolean; x, e, b, TMc : integer array; VE, v, N6 : integer; v : boolean array returns boolean chillax end main : hC : integer array; input en; while - true and m = 5000 and 8 + 018 : chillax end; while VT50 and 8500 + 0 : chillax end; input i[70 - 4] end

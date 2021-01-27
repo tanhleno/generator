@@ -1,0 +1,1 @@
+program EH : vh1 : takes l : integer array; g, Kz, e8, U : integer; P, K2Ca, p, lT, iy2 : integer array; X, k : integer array; O : integer array returns boolean array UBPa, M, h, S : integer array; O72, _Io0 : boolean; A75, u : integer; chillax end main : H : integer array; NS, C4 : integer; when case - false = - false : chillax end; output ""; pop 7 - 10900 >= 69 end

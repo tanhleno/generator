@@ -1,0 +1,1 @@
+program E : P6 : takes s, Z6 : boolean; r, d9 : integer array; w : integer; SDq : integer array returns integer let ug[L and 3] = array(22) end main : f : boolean; x : integer; aU, s : boolean; u7 : integer array; R0 : integer array; FF8, B0 : boolean; chillax end

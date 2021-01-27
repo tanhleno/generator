@@ -1,0 +1,1 @@
+program c7X : Z : takes m0m0a, i7Q, q0 : boolean returns boolean input J4[- true and 379] end main : bNV0 : integer array; t : integer; input i[- not T / S27 rem false and 2500 + W * true and 164]; do M(false + 88 and 3 - 7 - 02800); do x(- false); input D700a[6 - 93]; do N7O(9 = 48) end

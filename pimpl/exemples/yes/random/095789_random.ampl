@@ -1,0 +1,1 @@
+program q : main : when case - false - 73800 - not 3 and 34 + 2 >= (8) / true and 9090 - K and 0 - 26 - 36 : while 1 - 3 : chillax end end case(7) / t5 and 57700 or true - 2890 - 63 : chillax end case - (9) and 31 - 4600 - 1 : chillax end otherwise : input OF5aa end end

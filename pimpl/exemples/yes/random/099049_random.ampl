@@ -1,0 +1,1 @@
+program mL : main : while - true rem true or 0 > - 9 rem(6) and 7 : output 934 = 2 . 1 . 261 end; while - not(0) * 133 and 71 + H1 - 6 - 48 : output 91 end; let a2[true and 3] = array - false and 4 end

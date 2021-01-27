@@ -1,0 +1,1 @@
+program rQ : t : takes os8a, t7L, P, q : boolean array returns nothing pop end o : takes j, W, h, J : integer; qV : boolean array returns integer array let pui[- 8500] = array - 4 - 3; output 4 . 3 . "" end main : N : integer; V3, s : boolean array; e4 : integer array; ku, N, Y : boolean; i, FWV0, j5 : boolean array; g, q : boolean; xR : boolean; Np : boolean; chillax end

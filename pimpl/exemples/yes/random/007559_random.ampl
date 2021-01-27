@@ -1,0 +1,1 @@
+program A : Fgp : takes i47, z, e8p, K : integer array returns integer array jr : integer array; when case - ed and 398 /= - 1 : chillax end end H8 : takes AF, to8a, _0k, E : boolean array; h, Zz_0a, AT : boolean; V : boolean returns boolean chillax end main : pop(3); pop(91900) and 28 /= 2 end

@@ -1,0 +1,1 @@
+program X : main : y : integer; while 4 > - b3(257) * true : do HWDa(79 < 5, 29) end; when case - not true / not 30800 < true + 8 - 20 : chillax end case false and 20 /= - 6790 : chillax end case 7 - 5 /= 338 : chillax end case 8 = 80 : do Q(2); pop end case 33 : pop end case 01 : chillax end end

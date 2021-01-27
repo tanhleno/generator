@@ -1,0 +1,1 @@
+program J : e : takes s, M060 : boolean array; d : boolean array returns integer array Q01aa, Y : boolean; chillax end s : takes H34a : integer array; oBd, e, C48, V : boolean returns nothing C3 : boolean; e0 : integer array; chillax end main : while - not(7) : pop; let L = 4 end; do r(- not 2 and V = true and 3); when case - not 0 and 17 : output 582 end; do Q0T0a(- 96) end

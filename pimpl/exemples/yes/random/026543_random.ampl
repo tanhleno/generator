@@ -1,0 +1,1 @@
+program wdb : P : takes yfWaa, e : integer; A5q : integer; W : boolean array; m, Z7 : boolean array; oj : boolean array; I : boolean; nDo : boolean; c : boolean returns integer array y6, H, w : boolean array; D, zy, R3, S44 : boolean; chillax end jb : takes J : boolean; dE : boolean returns integer array F9 : integer array; d, spEa : integer array; chillax end main : chillax end

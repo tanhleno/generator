@@ -1,0 +1,1 @@
+program D : TS80a : takes p : boolean array; s2 : integer; o5 : integer returns nothing let g[true and 761 or 7 - 6] = 629 - 144; while 2 - 5 = 283 : chillax end; let b[124] = array 279 end main : C : integer; do V((77) + 553 and false and 4110, - false and true + 39300 and 38 + 8 - 0040 <= - l, - not 92600 or 13) end

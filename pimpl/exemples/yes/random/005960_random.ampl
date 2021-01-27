@@ -1,0 +1,1 @@
+program xN : A : takes xLh0, j, R, b9 : boolean returns integer array y, k10 : integer array; j : integer array; when case not 15 and 3 or 6 = 585 - 94 : let G = array 6; output "t" end case - 60100 - 52600 /= 8 : input B; while 88 : chillax end; pop end otherwise : chillax end end main : chillax end

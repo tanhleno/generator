@@ -1,0 +1,1 @@
+program O : h : takes s, dV : boolean array; j9 : boolean array returns integer array qy : integer array; K, kH, q2, C : boolean; when case - true and 8 + 97 >= 19 : let NC[9] = array 29 end case 844 <= 0 : chillax end otherwise : chillax end end main : chillax end

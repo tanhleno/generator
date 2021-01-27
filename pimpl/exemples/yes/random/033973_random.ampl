@@ -1,0 +1,1 @@
+program s36 : OA : takes a9X : boolean; PR, Yl0, g : integer; pC6, KY, ra, pw2, L, e : integer array; F, _, f4v0 : integer returns integer array b, A1 : boolean array; I : integer; pop; let aA3[- 5 - 52] = 93 = 6690 end U6o : takes J79, NE : integer array returns nothing chillax end main : y2, u60aa, M8vaa, wD, D_, M, gW : integer; Y : boolean; chillax end

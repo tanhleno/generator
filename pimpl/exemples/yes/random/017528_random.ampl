@@ -1,0 +1,1 @@
+program W : q : takes u, W9 : boolean; j, nfo : integer array returns nothing kr : boolean; eu1, V : integer array; chillax end Z4 : takes K27 : boolean array returns nothing AN9 : boolean array; pop 60 = 19 end main : p3 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program a : D : takes EV : boolean array returns nothing when case yp + 55 - 3 > 612 : output "\n<"; while 64 : chillax end; input nmB; pop end end main : pop - (44) and false - false /= - N + 01 - 4 end

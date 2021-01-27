@@ -1,0 +1,1 @@
+program i : v : takes S : boolean returns boolean array when case false /= 69400 : chillax end case 0 <= 7 : chillax end case 482 = 7210 : chillax end; input r; output "" end f : takes U : integer returns integer array Ht : boolean array; chillax end main : input g8J[- not false - false or l and 4] end

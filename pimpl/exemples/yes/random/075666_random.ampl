@@ -1,0 +1,1 @@
+program i : main : X, E : boolean array; when case 9 * r rem not 75 : do F(- 0590 - 9, 6) end; while not yFX * not 1 = true and 6 : when case 66500 = 4 : do l32(75800) end case 2 : pop end case 4 : chillax end end end

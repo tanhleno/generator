@@ -1,0 +1,1 @@
+program UN : U : takes L, JHp : boolean returns nothing chillax end c : takes s32aa, Y, M : integer returns boolean chillax end main : do Z(- false); pop not 1 and 1 or 8 > - 0 - 0; output 90300 - 8 end

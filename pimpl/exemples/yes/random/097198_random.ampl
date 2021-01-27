@@ -1,0 +1,1 @@
+program p : main : when case not m[279] : while 4 = 5 : while 17 : chillax end; output ""; pop end end; when case(6) = false and 4 - 8 - 25 : chillax end case(479) and 83 + 5 < 0 : chillax end case - 9 < 6 : while 3 : chillax end end otherwise : chillax end end

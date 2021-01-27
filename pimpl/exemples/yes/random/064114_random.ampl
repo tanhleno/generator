@@ -1,0 +1,1 @@
+program kji0 : qh : takes H : integer returns nothing do Ysx(- 04 >= - 08 - 6); input M[- 979]; input n; do y(88); let _ = 0; when case 84 : chillax end; pop end main : D9n, t64aa : integer; chillax end

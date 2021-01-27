@@ -1,0 +1,1 @@
+program e33 : IdR0a : takes e, T0 : boolean array; T : integer; o09, g : boolean returns integer array x, Lu10, e0, EVR : integer array; d : boolean array; output 974 . 51 = 72800; while - 69100 - 24 : pop end end p : takes xV, BQ : integer array; u, Z : boolean array; z5 : integer; bj : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program cX2aa : j : takes Z : integer; QJ : boolean array; D6 : boolean; MU : boolean array returns nothing chillax end main : do f(- 8 rem false or not true < - (2) - not 61700 and 9 - 2 - 77, y(7) * true and 8 > not 5 and 154 - 5); pop; let AT = array - (82) and 01 + 0; output 566 . 322 end

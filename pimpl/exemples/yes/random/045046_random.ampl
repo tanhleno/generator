@@ -1,0 +1,1 @@
+program f : gY : takes a : boolean array returns nothing let y2[- 06 or 2] = array false - 32 end main : mA, MB : boolean; M : integer; n33 : integer array; IlVa : boolean array; i : integer array; qL0aa : boolean; T7 : boolean; chillax end

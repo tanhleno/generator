@@ -1,0 +1,1 @@
+program _p : P : takes D, O, VU, xL : integer array; t, V28a, H, M : integer returns nothing B, F : boolean; o5 : boolean array; CwD, R, g2 : boolean; o : boolean; chillax end V : takes wUA, K : integer array; y : boolean array; i, e : integer returns boolean let c8 = array 54; input U7D[4320] end main : chillax end

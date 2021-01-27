@@ -1,0 +1,1 @@
+program Y : W : takes vg30, p4, c, b, z480, K : integer; h1 : integer returns boolean array M, E, Sn, q8Maa : integer array; pop - 9 /= 8 end main : let v = array - m(4610, 12) * 7 * 0 and 69 or i5haa; let D[- 9 * 5] = array - not n and false end

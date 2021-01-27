@@ -1,0 +1,1 @@
+program S400 : d : takes K1y0a, z9, VI, SG, c : integer array returns nothing when case - not 59300 + 37 : chillax end end H : takes n : boolean array returns nothing O, c7 : integer array; chillax end main : input lGAa[w(2)]; when case - 9 and not 5 and 699 - 34 and 8 <= - false : pop end; input u[- r8S] end

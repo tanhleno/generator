@@ -1,0 +1,1 @@
+program E77 : a : takes b77a : integer returns nothing Z : boolean array; lXD, nH : boolean array; chillax end T : takes XyT, ID : boolean returns boolean do O(- 662 - 9) end main : V, kH, pJ90a : boolean; X : boolean array; K : boolean array; do E4(- (9) <= - not false - 9) end

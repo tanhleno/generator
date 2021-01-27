@@ -1,0 +1,1 @@
+program T : N2 : takes L390a, O : integer array returns nothing chillax end main : N2 : boolean array; t, uc : boolean array; output "\""; when case false - (2) and 2 > not 0620 : let P = array 709; while 24300 : pop end end case true and 383 - 03600 - 16800 : do o(1); input G3; let u = 20 end otherwise : while 84 : pop end end end

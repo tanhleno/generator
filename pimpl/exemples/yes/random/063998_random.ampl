@@ -1,0 +1,1 @@
+program b88 : v6 : takes h : integer returns nothing chillax end main : C : integer array; do O(- false < - 3 and true - y and 8); let C[- (89) + (4) and 1 - 7480 - 5740] = array not not 54 + true and 64 + 32 end

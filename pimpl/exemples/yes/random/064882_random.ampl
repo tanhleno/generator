@@ -1,0 +1,1 @@
+program _9 : Z : takes H0 : integer returns nothing y400 : boolean array; when case - (87) >= 46 : input E7 end end main : _, Rz3, m : integer; v2 : boolean array; let yi[false / false] = array b[055] rem 9 * (80) and 2 end

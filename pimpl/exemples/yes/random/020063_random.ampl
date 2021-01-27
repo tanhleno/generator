@@ -1,0 +1,1 @@
+program Y : ML : takes r, qh60a : boolean array; A1 : boolean array returns nothing var : boolean; o9, xXX : integer; chillax end M : takes wYDaa, G : boolean; u2 : integer array returns nothing cP2aa : integer array; do rW(- 0820 = 42, 0) end main : do G(true / true * false or false rem(0) and 00300 + c and 9); do M3(not false = false) end

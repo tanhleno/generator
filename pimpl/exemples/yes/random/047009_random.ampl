@@ -1,0 +1,1 @@
+program dk : G : takes c4 : boolean returns integer p9, W, uH, W, cqD : boolean; Xe, IZ, h9, wbV0a : boolean; q : boolean array; N50 : boolean; x2 : boolean; chillax end f8r0a : takes LS0, A : integer returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program d : L : takes n7, W, Dg, R, Z390a : integer array returns boolean array c7, I : boolean; chillax end main : o : integer; V, V4 : integer; do Lx1aa(9 * not(4), - 060 and false or Tn and 24) end

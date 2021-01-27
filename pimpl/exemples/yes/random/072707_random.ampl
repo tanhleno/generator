@@ -1,0 +1,1 @@
+program c : main : a, VE, j : integer array; pH30a, k, U : boolean; while(92 = 08) /= not 05 or not 3110 and 3 : while 5 - 53500 : chillax end; output ""; when case 5170 : pop end case 0 : chillax end end end

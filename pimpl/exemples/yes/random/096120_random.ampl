@@ -1,0 +1,1 @@
+program t : main : when case - Ru00a and 54 rem yNh and 60400 or 29 >= - not 888 rem not 16 and 40 : while 0 /= 652 : chillax end end case - false rem not 9160 + 8 = - true and 8 : input q[2] end case - false : input K[7] end end

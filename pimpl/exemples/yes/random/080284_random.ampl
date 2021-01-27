@@ -1,0 +1,1 @@
+program bW : main : v2 : boolean; pop; when case - true / true and 2 - 6 + 2 - 7 : chillax end case - true + 6 < 5 - 79 : chillax end otherwise : while 53 : pop end; output "" end; pop 8; pop 9 = 3; when case 8 = 8 : while 70 : chillax end end case 0 : pop end case 8 : chillax end otherwise : chillax end; when case 27 : chillax end otherwise : chillax end end

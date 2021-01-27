@@ -1,0 +1,1 @@
+program G : v : takes h, s, f, o0 : boolean array; t00, F, Q : integer array; J70 : integer returns nothing input ZrE; output 88 . 25500; while 6 : while 3 : chillax end end; let aT = 7; do Go(77); input H end main : let eB4aa = array not(3620) end

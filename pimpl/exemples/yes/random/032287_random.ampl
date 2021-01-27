@@ -1,0 +1,1 @@
+program m : H : takes Ju, m : integer returns nothing chillax end V : takes a : integer; MS, nil : boolean; lY5a : boolean array; SSW0a : integer array returns nothing when case 4 - 8 < 70 : pop end end main : MP : boolean; T40, Yx0aa, c : boolean array; input M2D; output - not 8 - 6 >= - 296 - 4 end

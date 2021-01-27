@@ -1,0 +1,1 @@
+program w7D0 : main : output - DoDaa[9] - l6la /= - not 0 and 7 . "&"; input x; when case true + 73 > - 9 - 61200 : chillax end case - 2 : chillax end case 1 : let N = 0 end; do nC(14700 - 78 < 8, 84); while 0 : pop end end

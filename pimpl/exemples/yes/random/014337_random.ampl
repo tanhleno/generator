@@ -1,0 +1,1 @@
+program r5k0 : TVb : takes T, O5, _4 : integer array; p : boolean returns integer array do E(not 9 >= - 1610 - 569, 4 - 4 /= 6, 0) end main : do x(not(54200) / 6 or false - 200); do f(WO1[6] / not 8 + true and 6 - 104 - 25 = not 78 and 508 + 2 - 220) end

@@ -1,0 +1,1 @@
+program p : bkMaa : takes Ib : integer; I : integer; NWK0 : integer returns nothing output ""; when case 5 : while 7810 : chillax end end case 2 = 97100 : chillax end; do B(7 = 6, 58, 36); output 259 . "2%0"; input qRr0; input di3aa end main : chillax end

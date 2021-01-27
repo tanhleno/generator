@@ -1,0 +1,1 @@
+program wh : H0 : takes h3, v7, Yn : integer returns integer array let o = array - true + 42 - 12 end r : takes Yr, Fz : boolean; a, taO0a, _1i : boolean array; s1 : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program I37a : I : takes IE, p1 : integer array returns boolean chillax end A5l : takes B6 : boolean returns nothing output 8 end H : takes A, w, x : boolean array; N, jrS0, df3 : boolean; V, Lc, o1, kT10 : boolean returns nothing D : integer; when case 6980 = 4 : chillax end end main : chillax end

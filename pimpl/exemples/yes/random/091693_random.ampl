@@ -1,0 +1,1 @@
+program q : main : let b[true] = array - 0 and 5 * false + false; when case - true rem true and 87 - not 0 - 7 /= not 0 and 4 : pop 7 end case 18200 : when case 15 : chillax end case 0 : chillax end otherwise : chillax end end case - 4 : chillax end; output - 3 = 83 end

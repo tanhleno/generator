@@ -1,0 +1,1 @@
+program V : main : Hu : boolean; H, a3 : boolean; let O = array - false - not true and(3); pop; when case(86) and 3 + 5 : output 6; do N(17000) end; when case 9 : pop end otherwise : let c = 6; pop end; do GO(114, 2) end

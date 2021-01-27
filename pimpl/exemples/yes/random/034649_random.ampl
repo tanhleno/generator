@@ -1,0 +1,1 @@
+program v : L : takes _ : boolean; JM, l : boolean returns integer array f : boolean; F : integer array; let v8k = 9 - 75; when case - 6 > 9 : when case 8 : chillax end; do szNa(81700) end end main : chillax end

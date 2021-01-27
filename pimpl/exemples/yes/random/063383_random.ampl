@@ -1,0 +1,1 @@
+program Rm : B : takes B : integer returns integer g, J : boolean array; P : boolean array; chillax end Wo : takes E : integer returns boolean UpW0a, G4 : integer; chillax end main : s, A : boolean; input t[- false or true] end

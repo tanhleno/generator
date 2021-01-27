@@ -1,0 +1,1 @@
+program C2n : v : takes _8, O : boolean array; A : integer; c270a, v : integer returns integer array output ""; output 6; input V2 end s : takes _ : boolean returns integer chillax end main : H99, g3ia : integer; chillax end

@@ -1,0 +1,1 @@
+program Oh2aa : k : takes V, l, wO : boolean; g : integer returns integer array Q0, F, I : integer array; GYu : integer; do s(- false and 44); when case - 0 - 95 >= 9 : output "3"; output ""; pop end otherwise : when case 8 : chillax end; pop end; while 214 : chillax end end h2 : takes j, Ai : boolean returns nothing chillax end main : chillax end

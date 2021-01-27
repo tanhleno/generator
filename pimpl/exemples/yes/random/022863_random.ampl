@@ -1,0 +1,1 @@
+program V : x : takes V, l19a : boolean returns boolean array chillax end ZH : takes A : boolean array returns boolean while 0 - 18000 : input i; while 7 : chillax end; pop end; while 1 = 4 : chillax end end main : E : integer array; H0, f, TD, t : boolean array; gIS0a : integer array; S, q : integer; output 5 and false and 8 or 989 + 10 /= - true end

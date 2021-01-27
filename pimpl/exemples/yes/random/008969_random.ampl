@@ -1,0 +1,1 @@
+program u : tDI : takes M39, y, P : boolean; ZkN0 : boolean; C, Oq2 : boolean array returns nothing gb : integer; t15aa : boolean; B8 : boolean array; chillax end main : N, f0 : integer array; do AMgaa(false / true and not 455) end

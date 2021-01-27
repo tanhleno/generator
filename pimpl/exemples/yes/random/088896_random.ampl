@@ -1,0 +1,1 @@
+program S : main : input C[- true or true - not 8 and 5 or 0 - 2]; while - P : do C3(98); output 65 . "G("; output "!"; output ""; pop end; do a(j and 19 + 3 - 8 <= - 751 - 50); output "" . "b" . 00 . ""; when case 7 = 96 : output ""; pop end case 9 : chillax end case 7 : chillax end end

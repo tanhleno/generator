@@ -1,0 +1,1 @@
+program t : RD6aa : takes xF0aa, P : integer array; JP, p : integer; G74, U9Ba : boolean; n, _, VWaa : boolean returns nothing chillax end main : while(5) / true rem false and 7470 or false + not 3 : while - 82400 - 0180 : pop end; pop; output "CDaa" . ""; output "5y!a" end end

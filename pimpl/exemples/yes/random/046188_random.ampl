@@ -1,0 +1,1 @@
+program IP : C : takes U6 : boolean returns boolean GW : boolean; Fi, A460 : integer array; R, m : boolean; while false and 8 + 7 : chillax end end main : H : integer; let H[false or true] = b - false and 16500 - 11 end

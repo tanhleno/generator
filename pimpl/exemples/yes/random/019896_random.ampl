@@ -1,0 +1,1 @@
+program _t : Kl : takes HL50, g66 : boolean array; Xr6 : boolean array; fRE0 : boolean array returns nothing do C7(- (99400) and 9570 /= - 5, - 59 - 8 <= 838); do j(- 87 - 1 /= 6); output ""; output 9 end main : c080, fy6aa : integer; chillax end

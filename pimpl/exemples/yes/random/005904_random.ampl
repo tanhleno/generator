@@ -1,0 +1,1 @@
+program ak : T : takes C, T, a, I : boolean returns boolean OMy : boolean array; chillax end main : etY0, d : boolean; a5 : integer array; O9fa, oB, sGv : integer array; Cr, c, _, X : boolean; chillax end

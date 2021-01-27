@@ -1,0 +1,1 @@
+program s : o4 : takes x0 : integer; Wu : boolean returns boolean array K1 : integer array; while not 3 and 3 : input Si[03] end; pop; do q(63900 = 3) end main : let gQ = true /= true and 32 + 63 - 2; while 4 /= true and 5 - 3 : input fq[094] end end

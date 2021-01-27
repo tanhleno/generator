@@ -1,0 +1,1 @@
+program EC : F : takes CJ, I : boolean; n : integer array returns integer array t, G6, j7, a0, O4 : boolean array; o, d2, fO : boolean; lG, t430, _Q : integer array; g, sZ : boolean; W : boolean; chillax end main : B : boolean array; F7, B, rr : boolean array; while - (5 = 8) and true < - 00 + v : output 61 end end

@@ -1,0 +1,1 @@
+program n : K : takes B : integer returns nothing input n; let E = array 26 - 42 end pc1aa : takes BS9aa : boolean returns integer array chillax end V : takes Q : integer; O, a4 : boolean array returns integer array pop; when case 4 : pop end end main : H : boolean array; chillax end

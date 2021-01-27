@@ -1,0 +1,1 @@
+program S5 : main : while - 924 rem g(5090) + (96) rem not 9 and 83 >= - 0 / h and 6 - true and 780 - 01800 - 09 : chillax end; do p(not(1) = - 71 - 005 - 4, - not 38); input E; do j7(- 8 >= 4, 8 = 06600, 9, 745); do mGEaa(1, 6, 93); while 111 : chillax end; input m; let y = 8 end

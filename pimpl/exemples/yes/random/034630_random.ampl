@@ -1,0 +1,1 @@
+program I2S0a : u : takes qb70 : boolean; H8, A : boolean returns boolean c2, Zp5, lZ1, T, t : integer array; _9 : boolean array; r, Px, Ab9 : integer array; zY6, y : boolean; lfw : boolean; Z0 : boolean; chillax end main : chillax end

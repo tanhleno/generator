@@ -1,0 +1,1 @@
+program nQ20 : bG : takes N : boolean; x, W7P : integer array; E, tKr0a, eb8, L : boolean array; Ex8, I25 : boolean returns integer array let R5Z = 05; do S(- 41, 5 = 4, 56); pop; output 6 . "AW"; input K; output "" end main : chillax end

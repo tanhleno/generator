@@ -1,0 +1,1 @@
+program g : V30a : takes Z8 : integer returns nothing chillax end main : AF, k : boolean; do V((13 = 2) rem not false / not 7 - false / true /= 052); when case true and not 2 and 29 : let A = 0; input I6_a end otherwise : chillax end; pop - 7 - 3040; output 6 = 57; pop end

@@ -1,0 +1,1 @@
+program yfm0a : F : takes G6 : integer; i, V : boolean array; t : integer array; n, q : integer array returns nothing T2 : boolean array; i, q360a, L, a : boolean array; K : integer array; while - not 684 and 257 - 72 - 774 : pop 8; output "\\"; let CXl = 4 end end _ : takes Tg : boolean array returns boolean output 21 end main : E : boolean; output "" end

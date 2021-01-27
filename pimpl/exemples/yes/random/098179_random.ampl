@@ -1,0 +1,1 @@
+program o9Wa : main : while - false / not(8110) rem true <= - 31 + true and 67 : chillax end; when case jr1 - (10) and 5 >= 019 and 599 : chillax end case - (150) + 5 : when case 93 : chillax end; let I = 5 end otherwise : chillax end end

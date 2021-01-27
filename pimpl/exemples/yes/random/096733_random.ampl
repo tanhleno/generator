@@ -1,0 +1,1 @@
+program a : main : when case false + F : chillax end case - false and 6 - true and 501 > t or 0660 - 95900 : input q9[2]; while 00 : pop end; let N9 = 8; input w end; while not e and not 5 and 9 : chillax end; do WS(- S1A and 61800 or 23) end

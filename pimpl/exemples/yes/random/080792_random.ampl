@@ -1,0 +1,1 @@
+program c : main : j : boolean array; n, K2, KW, ykR, ib, t : boolean array; l : integer array; when case - not false > true * 62 : chillax end; when case(445) * (1) + true and 8 : when case 1 : chillax end case 2 : chillax end case 3 : chillax end otherwise : pop end; input y4Xaa[4] end case - true - 56 = 06100 - 737 : input U4j end otherwise : pop 5; output ""; pop end; pop end

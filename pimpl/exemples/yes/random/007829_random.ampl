@@ -1,0 +1,1 @@
+program S : U : takes X, U, Z13, a : integer array returns nothing H : integer array; bK, OS : boolean; wgU, h, t1 : boolean; Kq, FsP : boolean; x : boolean; x5 : boolean; pop 36 end main : xe7, A, lC : boolean array; aB, b : boolean; wb30 : integer array; chillax end

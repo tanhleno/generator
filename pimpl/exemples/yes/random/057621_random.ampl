@@ -1,0 +1,1 @@
+program Ty : z : takes X8 : integer array returns boolean array chillax end main : zJ, K, n, t, fL10a : boolean; do Z7J(- 54 * (0) / 11 and 90 <= - not x * not 97 and 845 + n and 4, j + true, - 9 - 2) end

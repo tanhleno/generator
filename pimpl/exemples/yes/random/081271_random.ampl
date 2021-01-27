@@ -1,0 +1,1 @@
+program fwh : main : y4T0a : boolean array; a, Y : boolean array; p, U0, O : boolean array; let P9 = Z * (12) /= - 8; let J[- false and not 479 - 2 and 7 or 83 - 4] = array - not G7E0a * M and 26 or 9250 end

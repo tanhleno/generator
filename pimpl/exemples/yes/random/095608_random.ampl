@@ -1,0 +1,1 @@
+program N60 : main : when case - (63000) and not(1) rem false : pop 48 = 54 end case - 813 / not 9 and 349 : chillax end case - 06700 : input Ib20a end case 97 = 08700 : output "" end case 50 : when case 79 : chillax end end otherwise : chillax end; while - not false and not 08 : output 61 end; let e[- (03) + 9 - 5] = - 2 >= 89; pop 01; let X = 9 end

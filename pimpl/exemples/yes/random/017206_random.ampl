@@ -1,0 +1,1 @@
+program W4 : _u : takes TmKaa, K : boolean; G, x : boolean array; a : boolean; v : boolean; d : integer array; c : boolean array returns nothing chillax end main : g, p, O9 : integer array; when case false / 0 * 2 and 5 <= - 01 / not 3 + false and 8 : chillax end; let j9_a[_2[0] or false and 0 or 45 - 9] = array - false end

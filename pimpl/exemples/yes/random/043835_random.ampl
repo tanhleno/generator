@@ -1,0 +1,1 @@
+program z : s : takes S : boolean array returns nothing do xh((3) or 676 > 91); while 904 - 31 >= 6 : chillax end end z8 : takes x : integer array; z : boolean array returns integer array KC7, n, C, I : integer array; chillax end main : s, W : boolean; un7 : boolean array; e : boolean; X4, a8F : integer; chillax end

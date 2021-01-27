@@ -1,0 +1,1 @@
+program H : F : takes eb10 : boolean array; cbGaa : boolean array; N9 : integer; g2, tY70a : integer; C, YDTa, E : integer array; e : boolean array returns boolean array let C1[- false] = - 2 - 344 < 10200 end main : u0s, kD : boolean; chillax end

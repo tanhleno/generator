@@ -1,0 +1,1 @@
+program R : main : while true = true and(2) - h or 5 - 9 : input VFs; when case 30 = 432 : chillax end otherwise : chillax end end; let lLd0a[- false] = array K[9] and not 7 and 86 - true - 2; pop end

@@ -1,0 +1,1 @@
+program P : N : takes w, x, lK50a, X : integer returns nothing ah, N0 : boolean; k0 : integer array; pop; output 03100; let z[96] = 44; pop 30 end main : x5, dy, hcT : boolean; while - 32 or false and false and 788 : when case - 9 - 08 : chillax end case 402 = 310 : chillax end case 9 : pop end case 29 : chillax end end end

@@ -1,0 +1,1 @@
+program e : EOza : takes i8, d0, g45, w : boolean array; SjT, Q0 : boolean returns nothing UV : boolean; u93, Yb : integer; s : boolean array; chillax end main : pop(310) / 17 and 97 + false and 9 /= - gb - 71 - 77 end

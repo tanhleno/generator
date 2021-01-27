@@ -1,0 +1,1 @@
+program Z : N : takes L9K : integer array; QR, KX : integer; W, N : boolean returns nothing D : integer; e, p, lfeaa : integer array; when case false and 91 /= - 5 : output "" . "" end end main : input D; while - 574 / not 4 and 2690 : chillax end; input h[(78500) or 6] end

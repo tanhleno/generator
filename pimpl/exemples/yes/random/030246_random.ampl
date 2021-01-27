@@ -1,0 +1,1 @@
+program t920a : ss : takes s, O : integer array returns nothing chillax end O9c : takes L54a : boolean; Y3, y, chS0a, wA3, v, n : boolean returns nothing i, z, V, F4 : boolean; chillax end main : while - (795 = 7) rem not true : when case 20 < 7 : when case 79 : chillax end end; input U end end

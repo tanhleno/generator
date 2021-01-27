@@ -1,0 +1,1 @@
+program u : A : takes t, H, yk, q, jd : boolean array returns nothing U : integer; chillax end J9w0 : takes D : integer array; iT : integer returns nothing _, Y, cX : boolean; NB6, z : boolean; chillax end main : chillax end

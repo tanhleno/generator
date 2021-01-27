@@ -1,0 +1,1 @@
+program Ln : oT : takes I, J : integer array; o : boolean array returns boolean array chillax end m : takes x, A4 : integer returns nothing x, n, Xcwaa : boolean array; chillax end main : input j[(3) - false * not 370 - m80 and 5 + 055 - 0]; do C32(- 2 * true, - l); output "\"<0a" . "`"; when case - 59 - 1 : let IR = 4; do w3(5) end otherwise : output "=" end end

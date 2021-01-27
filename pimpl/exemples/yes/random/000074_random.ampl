@@ -1,0 +1,1 @@
+program _ : q : takes y, g8E, m, j6Ja, Tg, c, p_, V : boolean array; o, vV8, b52a, EL4 : boolean array returns nothing CLr, y : integer array; tZ9aa : boolean array; rq : boolean; output - 5 - 6 end main : output ")4"; do wa(true + true and 7 or 4 - 5, - 4 and 8 - 044); pop - 17600; let m8 = array - 0 - 5; when case 10000 = 2830 : chillax end otherwise : pop end; output "8;" end

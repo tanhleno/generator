@@ -1,0 +1,1 @@
+program Q : Y62a : takes S8 : boolean array returns boolean n, V : boolean array; let R = array - not 1; let X = array 3 - 597; input A[9] end main : while - true - not true and(23) and 97 : pop; output 14 end end

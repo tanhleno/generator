@@ -1,0 +1,1 @@
+program T : O : takes ff60 : boolean array; I3q, Ux5a : integer; Aj : integer array returns nothing chillax end main : R, m, T, y0, i : boolean array; when case(395) rem K9(9) : do a(- 4 /= 86, 5 = 9); do SA2(1 = 9); output 9 . "1"; let eO3a = 483; input a; pop end end

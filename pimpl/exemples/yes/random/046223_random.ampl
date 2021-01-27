@@ -1,0 +1,1 @@
+program T3Iaa : W3 : takes G : boolean returns boolean N : boolean array; A9Waa : integer array; output "" end main : S, C9xa : integer; Y : boolean; Y : integer array; Z : integer array; lW : integer array; Uk : boolean; chillax end

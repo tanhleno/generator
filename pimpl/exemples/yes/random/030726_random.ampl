@@ -1,0 +1,1 @@
+program s : cu : takes Y, g : integer array returns nothing i0 : boolean; s6, v : boolean array; do P(- (8) and 153 - 5 - 95, - 559 > 4) end K : takes x, U, U9, f : boolean returns boolean when case - 03 - 5 <= 7 : chillax end end p : takes k : integer array returns integer T, y : boolean; U : boolean; let E = 12 end main : pop - false or not 12 end

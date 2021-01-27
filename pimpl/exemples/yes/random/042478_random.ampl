@@ -1,0 +1,1 @@
+program e : UZLa : takes E : boolean array returns integer array chillax end main : i, G_ : integer array; cd5a, a70 : boolean; let t = false + not 8 - 67 - 1; pop - not 4 + 76700 - 7 <= 78 - 9; pop 6720 - 0; let T[372] = array 80 - 0 end

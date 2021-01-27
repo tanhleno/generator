@@ -1,0 +1,1 @@
+program b : Q00 : takes c : boolean array; D : integer returns integer uq, aV : integer; JJg : integer array; Z : boolean; Q : boolean; input Z; while - 8810 >= 3 : let w_2aa = 90 end end N : takes B1F, dV, Vl80, C, P1 : boolean array; b : integer array returns integer y : integer array; F, ql : boolean; y : boolean; x2 : boolean; input e5 end main : chillax end

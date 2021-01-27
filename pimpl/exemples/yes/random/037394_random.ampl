@@ -1,0 +1,1 @@
+program EI2 : N : takes r8 : boolean; L : integer returns nothing X0 : boolean array; Y : boolean; E, R, L : boolean array; chillax end Z : takes oG, E, RZt : integer array returns integer array Z, c, C : boolean array; output "," end main : chillax end

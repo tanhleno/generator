@@ -1,0 +1,1 @@
+program P : b93a : takes c : boolean; TW, b8 : integer; PK : integer returns boolean array when case - (0830) and 79 + 3 < 0 : do v(2, 6) end otherwise : chillax end end l7 : takes f, e_R, P : integer array returns nothing A4d, R3 : boolean; input _; pop; when case 5 : pop end case 7 : chillax end; output "" end main : chillax end

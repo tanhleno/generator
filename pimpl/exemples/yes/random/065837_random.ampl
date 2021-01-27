@@ -1,0 +1,1 @@
+program o : main : do zZ(- (9) - not false - not 8 or 9 - 9 = Z[0] or not 86 or 6 - 7, - (4) or 93 and 1 or 103, - (0) and 4 or 0 - 0 <= - 2); when case - false and true - (50) and 3 or 70800 : chillax end otherwise : let F9 = 6 end; input L[- not 62]; let ip = array 51100 - 5; while 95400 = 970 : chillax end; input t[46] end

@@ -1,0 +1,1 @@
+program r : main : I, m : integer; w : integer; when case - r(4, 168) - not true and y9 and 23 : let Nnf = 27 = 7 end otherwise : when case 0 = 96 : chillax end end; when case - 11 >= - true : chillax end; input B6[- 39300 and 14 + 0220] end

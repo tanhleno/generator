@@ -1,0 +1,1 @@
+program D : R : takes zYz0, e8 : boolean returns integer when case false >= - 23 - 755 : while 0 : pop end end case 0 : input Q; output "" end otherwise : let S = 1 end; while 9 : chillax end; pop end main : O : boolean array; let tsjaa = array - not(2570) / not true rem 5 or(75000) / not 112 end

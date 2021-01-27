@@ -1,0 +1,1 @@
+program n : I : takes a, J : boolean returns integer array s, R2 : integer array; x, K, b : integer; let f3 = - 884 > 2 end main : T, i2Ba, h, m, L6 : boolean array; b0R : integer; eZ, l0D0a, CX, V6l0a, B : boolean array; h, N : integer; AN2, dl : integer array; X, t7 : boolean; W : boolean; while false * (1) + true / true and 7 or not 9 and 93900 - 47 <= - true : chillax end end

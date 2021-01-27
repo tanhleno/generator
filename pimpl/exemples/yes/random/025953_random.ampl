@@ -1,0 +1,1 @@
+program k : v : takes n2e, D0 : integer; Rv, _v4 : integer returns nothing chillax end main : R : boolean; P0t : boolean; v, o, _DP, G, h : boolean; do Y6(- (0 = 4) rem false, p9 or 0); while - WJ[5] / i and 0 + z : chillax end end

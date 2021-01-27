@@ -1,0 +1,1 @@
+program ph : main : when case 6 - X * w and 94 < 6900 and(85) and 5 : chillax end case false * 7310 and 74 - true + 5 >= - false : chillax end case - L4 >= - 86 - 5 : pop 29300; let hw8 = 326; input OP; pop end end

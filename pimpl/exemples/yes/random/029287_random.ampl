@@ -1,0 +1,1 @@
+program gCJa : N6 : takes F3, N : integer array returns boolean array F, b, v, U : boolean array; input c7 end main : input hZ[false or true]; when case - false * (08) and 929 or false : chillax end otherwise : chillax end; pop 06 = 5200 end

@@ -1,0 +1,1 @@
+program x8 : Wb_0 : takes M : boolean array; h, J370, F : boolean; C, M, iCA0 : boolean array; ZT, Z, B, t, a0H : integer array returns integer array _, lG : boolean array; u : boolean; chillax end w : takes g : integer; d, aEB, y030a : integer returns nothing do l0J(- 1 < 24) end main : Kws, _r : boolean array; H650a : integer; chillax end

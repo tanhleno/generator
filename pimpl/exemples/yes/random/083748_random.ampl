@@ -1,0 +1,1 @@
+program f : main : U : integer; Q01aa, uo7 : integer; f : integer array; while - false - (52) or not 3 and 7 + 285 >= not(8) : chillax end; pop; while - ov8 and 97 : when case 96500 : pop end; pop end; while 1 : chillax end; let el[3710] = array 4; pop end

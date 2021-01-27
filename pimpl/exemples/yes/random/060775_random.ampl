@@ -1,0 +1,1 @@
+program q : G07aa : takes ocea : integer array returns nothing XKz : boolean; A6 : boolean; NKR0 : boolean array; M : boolean; chillax end a9 : takes Ur, i7D : boolean; D, _ : integer returns nothing t8, K0Qa : boolean array; J92 : integer array; b7, cL40a : boolean; chillax end main : input o; input p[- 5 - Q2 + 2] end

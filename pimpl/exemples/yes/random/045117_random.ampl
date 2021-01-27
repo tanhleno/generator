@@ -1,0 +1,1 @@
+program u : RF : takes TC4 : boolean array returns nothing output "" . ""; while - 4 - 4 <= 018 : input E end end sf0 : takes Yp : boolean array; V : boolean returns nothing S : boolean; pop 66 = 4 end main : chillax end

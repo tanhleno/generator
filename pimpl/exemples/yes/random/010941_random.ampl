@@ -1,0 +1,1 @@
+program jU20 : V : takes P, d, hq : boolean array returns integer Peh, rJ50a, x : boolean; input l[- false and 2 or 0 - 01] end j : takes aQ7, R : boolean; h, h : boolean array; L, w, GQC : integer; X, e, zQ9, WS : integer returns nothing hjpaa, c : integer array; chillax end main : N2 : boolean; output false <= true and 02 or 16 - 0750 . - 9 = 6; pop end

@@ -1,0 +1,1 @@
+program X1 : U : takes D9 : boolean; a, V6, f4 : integer; L : integer; O : integer; O, Gv, Z, n : boolean array returns integer array let q[Z - 878 - 6] = - 7 - 023 > 2 end main : while - true or t[6] or not 6 and 6 - 7 - 1 < - k(5) : let P[- 35] = 74 end end

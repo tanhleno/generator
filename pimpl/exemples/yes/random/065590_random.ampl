@@ -1,0 +1,1 @@
+program F : _ : takes T : integer returns nothing while true /= - 7 - 3 : chillax end; let B[65 - 5840] = array 3 - 5 end main : do j(- true > - P rem true and 34, 31, - V5 and 14 or 35 = 196); pop - not 1 /= - 8 - 65 end

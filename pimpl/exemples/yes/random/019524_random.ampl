@@ -1,0 +1,1 @@
+program V : D1h0a : takes t, B : boolean array; n, ok8 : integer array returns boolean output - 5750 - 9 end main : E, C0 : integer; l, M, wr, G7, Ur4 : integer; do _(- (6 = 445) / false); input S23[- S[3]] end

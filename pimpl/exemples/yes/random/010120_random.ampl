@@ -1,0 +1,1 @@
+program ZL : V : takes u8K0a, y, x : boolean array; ti6 : boolean array returns integer array do u5O(- 815 < 5 - 2) end u9e : takes J, t : boolean returns nothing chillax end main : when case - not ZS(4700) / 2 : output "" end; let J9p0 = array - 8 * h5 end

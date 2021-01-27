@@ -1,0 +1,1 @@
+program AV : J : takes T, C : integer array; j : boolean returns nothing chillax end N : takes Z : integer returns nothing do sg(52900 - 7); when case 1 = 119 : do r(8060) end case 23 : pop end end main : chillax end

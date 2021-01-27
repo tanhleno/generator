@@ -1,0 +1,1 @@
+program c : rT : takes q0 : integer; Cgt0 : integer array returns nothing D6, r, s : integer; chillax end main : do Q(true + (6) and true - (54) + 98 - 37 = true or not 51 + 6); when case not false rem true - not 23 + 18 : chillax end otherwise : while 2 : chillax end end; input z[- (83700) - 409 - 07] end

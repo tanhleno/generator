@@ -1,0 +1,1 @@
+program qn2 : y : takes G, P, Qz7aa, G : boolean array returns nothing chillax end gBj0a : takes R : boolean array; v0, H, S7, bM, vDsa : integer returns nothing input Hl60a end main : XL : integer; v : integer; bNl0a, u, R : boolean array; chillax end

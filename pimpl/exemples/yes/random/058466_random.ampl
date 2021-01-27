@@ -1,0 +1,1 @@
+program Y : ZN : takes H : integer array returns boolean input q[6 and 9 or 37]; let T[- 6] = 9 = 60; while 6 : chillax end; input X end main : W : boolean array; K5, dl8 : integer array; B2 : integer; cu, D3J, k : integer array; input L end

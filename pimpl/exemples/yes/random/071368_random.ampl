@@ -1,0 +1,1 @@
+program tp : main : bIW, z, K : boolean array; FW, k, K20, W, S, ea : boolean array; LYH, y : boolean array; SQ : boolean array; Y : integer; m : boolean; E : boolean; x55a : boolean; output 4 / U2 . ""; do B(061 or true and 5) end

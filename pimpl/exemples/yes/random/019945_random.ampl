@@ -1,0 +1,1 @@
+program Xw : Bu : takes k4K0, j6 : boolean array; W7aa : boolean array; f : integer returns nothing u300, Y3z : boolean array; chillax end main : input s5; do Sy(false * false and 576, - RR0a >= 5 - 2, 5, 4, 5000, 7) end

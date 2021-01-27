@@ -1,0 +1,1 @@
+program m47 : Y5 : takes E : integer returns nothing let HkC0a = array false and 7 end main : I : boolean array; r : integer; N, ET0a, H, N4, E8 : boolean; X : integer array; h81 : integer array; V1Z0a : boolean; chillax end

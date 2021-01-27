@@ -1,0 +1,1 @@
+program ZtF : c : takes UNo0a : integer returns nothing when case dA and 5480 + 54200 : when case 7 : pop end; while 67 : chillax end; pop; pop end case - 9 - 99300 : when case 9290 : chillax end end otherwise : chillax end; output "\t\\" . "" . 52700 . "w" end main : SA, n : integer array; l, u : boolean array; Ob : integer array; chillax end

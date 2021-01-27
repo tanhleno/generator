@@ -1,0 +1,1 @@
+program U : G : takes D : integer; mG, C : integer array; wOy : boolean array; t : integer array; G, T, V : integer array returns boolean array let XMMa = - 03 - 5; output "4" . 9170; do PA(7 = 6080) end main : chillax end

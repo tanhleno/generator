@@ -1,0 +1,1 @@
+program r : z : takes j3, R7e : boolean; oX : boolean array; f, F9 : integer array; V, n1 : boolean; j3, dCL0a : integer array; fR : boolean array; e, J : boolean returns nothing chillax end main : R, c : integer; C : integer array; pop end

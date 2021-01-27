@@ -1,0 +1,1 @@
+program e6fa : main : let c = array - DpE0[1] + not cj rem 36400 and 874; do K(true); when case - not 52800 - 880 - 3 >= - 1 : pop 5; while 376 : chillax end end case 802 : while 6 : chillax end; pop end case 6 = 1630 : do HC5(55) end case 3000 : chillax end case 79 : chillax end otherwise : chillax end; output 285 . 4 . "" end

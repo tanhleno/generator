@@ -1,0 +1,1 @@
+program o : main : when case - true rem false / no and 78 <= - (942) rem 1 : while - 3 /= 687 : chillax end; input i; input q[9]; input ns; let v = 2; pop end case - 6 * (1) < - w or 935 - 3170 : chillax end case - not 185 and 6 - 27900 <= - 9 - 0 : chillax end case 36 < 1 : chillax end otherwise : chillax end; let j = - (3) and 891; do U(true and 4630 > - 1650 - 89); pop end

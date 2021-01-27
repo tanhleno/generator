@@ -1,0 +1,1 @@
+program V1 : zl : takes P7Z : integer returns nothing input F7oaa[- 674 - 10] end k : takes P, z : integer; E : boolean; LQ00 : integer array returns nothing chillax end main : b, A : boolean; let f = array - true and ux5a and(2) and 2 - true * not 8 and 14 end

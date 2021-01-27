@@ -1,0 +1,1 @@
+program I : F : takes j : integer array; P, X : integer array returns integer array pop end s_R : takes O8, k : integer array; Z, s6 : boolean array; Y, T : boolean array; Rj6 : boolean array returns integer N, c, W, EIV : integer array; ewO, H, X : integer array; chillax end main : L, L340, Ns : boolean; C5, W, j, n9 : boolean; chillax end

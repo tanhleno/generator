@@ -1,0 +1,1 @@
+program S8 : A7 : takes o : boolean returns nothing chillax end H : takes y : boolean returns integer array chillax end main : input MT; when case true : while 6 = 985 : chillax end end otherwise : pop 4; output ""; while 63 : chillax end; pop end; while false and 92 or 4 : let l[40900] = 46 end; do D(2010 - 3, 00); input I14; while 4 : pop end; pop; input P end

@@ -1,0 +1,1 @@
+program yzZ : c : takes _8 : boolean array returns nothing g, q950a : integer array; zy : integer; Ad50a, J : integer array; n, NB : boolean; G : boolean; L : boolean; let rT[(76)] = array - true and 4; pop 66 end main : pop not false * 7 or not 6460 and 79 - 704 - 5; when case - Br[9] or n /= Q : let X[8] = 4; while 49 : chillax end; input tAL0 end end

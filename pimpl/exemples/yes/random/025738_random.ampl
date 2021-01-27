@@ -1,0 +1,1 @@
+program W : t2G0a : takes uJ, Y4 : integer; j, au2 : integer; yW : boolean array returns nothing bX, F : boolean; x, kC, ctP, t : boolean; pop 35200 - 2 end main : do e(false, not not 0 * not 3 and 08 - true and 416 /= - not 2 or 7 - 59, - true and 6 /= 6, - 81 - 8, 22 = 9) end

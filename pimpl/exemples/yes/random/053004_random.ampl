@@ -1,0 +1,1 @@
+program RkC : y : takes u : integer; ze80a : integer array returns nothing X, Z, gF40a : boolean; do O3(true >= 662 - 7, - 199 - 0 = 5) end main : fc, z : boolean array; do B3(true and not 6 and 3 - Z3i(3) / 4330 and 321 <= - not not 3 + false and 1 or 7 - 5); pop end

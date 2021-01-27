@@ -1,0 +1,1 @@
+program RYn0 : Ak : takes T2 : integer array returns nothing while(60500) : pop; while 8 : chillax end; let i3 = 07 end end W : takes p, R11, T, G : integer returns boolean do T7(- 83 <= 29, 8) end a7 : takes Kt, S : boolean array returns boolean aD, _Ox : boolean; chillax end main : pcsa, h13, H08, C2 : boolean; W, E4 : boolean; l0V : boolean array; chillax end

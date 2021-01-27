@@ -1,0 +1,1 @@
+program o : D : takes N : integer array; G, JQ0a, q : boolean array returns boolean RA : boolean array; chillax end X : takes h70, W : boolean returns nothing input Q; let qR = array 36 end main : pC, h400a : boolean; pop r(8170) and 6 end

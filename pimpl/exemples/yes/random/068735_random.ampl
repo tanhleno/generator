@@ -1,0 +1,1 @@
+program JLy : main : Bo, Y, q, KR, Z9C : boolean; G0Ua : integer; let J[- true rem 2 - 25 rem true + 35] = c(9) or not 8 and 7; input L; when case 7 and 0170 : while 542 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program J : CU : takes g, Q : integer array; K : integer array returns boolean array Xd, E, C5, _3J, o3 : boolean array; L9 : integer; chillax end BX : takes I2 : integer array; f, Tgm, r : integer; b : boolean array; tB60, h : boolean array; i9, d : integer; R72 : boolean; G : boolean returns nothing St : integer array; oGL, x : integer array; chillax end main : chillax end

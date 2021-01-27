@@ -1,0 +1,1 @@
+program Eu8a : n : takes q : boolean returns nothing Q2 : boolean array; _18 : boolean; w : integer; g, k : boolean; r : boolean; input w[true] end sO4 : takes c150 : boolean array returns nothing chillax end main : z2Ea : boolean array; do T3ca(not not false or g[2], 37300 and 4460 and 755 /= - h250a, - true and 6390 <= 0840 - 0, 7 > 0, 0 = 9, 9430) end

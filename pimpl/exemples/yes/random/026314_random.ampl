@@ -1,0 +1,1 @@
+program y : vS : takes q3, E : integer; t67 : boolean array returns nothing a9, o, wJ : integer; bK9a : boolean; Sa00 : boolean; Pp : boolean; chillax end main : do T79(- not(3) rem true or j5[2] / not 8 and 2 - true and 845 - 177 > - not true, true rem(8) and 2); do e(false * (72) and 7 or true); pop end

@@ -1,0 +1,1 @@
+program r : ZCo0a : takes q, A : integer array; m08 : boolean; vv, b, A24 : boolean returns nothing do w(- r - 3, - 6 - 87, 00, 2); when case 9 : chillax end case 2 : chillax end case 587 : pop end case 1 : chillax end otherwise : chillax end; while 41400 = 5 : while 1 : chillax end end end main : U, o, jc, NAB, A, tE1aa, yf : integer; chillax end

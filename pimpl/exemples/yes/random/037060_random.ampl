@@ -1,0 +1,1 @@
+program Ym5aa : g8qa : takes I76 : boolean; B : integer array returns nothing chillax end main : D : integer array; WS, k : boolean array; let f[(30 = 1)] = (639) or true and 3 or 4 - 94; when case - l9(06) and not 36 and 3 <= true or 5 : chillax end otherwise : input o0 end; output "" . 36 = 66 . 0 . 86 end

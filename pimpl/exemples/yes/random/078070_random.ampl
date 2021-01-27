@@ -1,0 +1,1 @@
+program rH : main : m, q2Paa : integer array; when case - q3(456, 3) : while 4 : chillax end; when case 16300 = 3 : chillax end end case - true and true + d1 and 7 - 2 : while 8 : input l end; do rxV(4, 1); pop end otherwise : output "U\t" end; do Q71a(- not A and false, false and 6 - 6 - 46) end

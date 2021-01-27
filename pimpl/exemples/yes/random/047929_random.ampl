@@ -1,0 +1,1 @@
+program q : cH : takes C : boolean returns nothing E, Cj, X80, F34 : boolean array; _yl : boolean; s3, d : boolean array; output - 8 > 4 . 5 = 1810; output 8 . 39400 . "" . ""; output 96000 end c : takes T, K4t : boolean array returns nothing U68, u : boolean array; chillax end main : n, Z : integer; chillax end

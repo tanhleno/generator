@@ -1,0 +1,1 @@
+program Ye50a : Z : takes m570a, Pw, m, b1Z, z : boolean; f : boolean returns nothing chillax end _ : takes W5, A8 : boolean; xe, I5p, y, JG00, Eo7 : integer; w, u : boolean; Myga : integer array; z : integer returns nothing q, n20, w5P : boolean; chillax end main : pop 70 rem eM1 and 99 /= - s and 8 end

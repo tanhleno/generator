@@ -1,0 +1,1 @@
+program iK : main : M, q, q : boolean array; Jb9aa, u, DV20a, T5Zaa, p, Rygaa : boolean; S, e : integer array; s6K : boolean; pop false - r and 21; while(73) * (3) and 220 - false + 6 > not 53 : output "k\\!" . "{a" end; input fO0[(6) and 4]; output 1470 . ""; do T(64) end

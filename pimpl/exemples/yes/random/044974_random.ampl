@@ -1,0 +1,1 @@
+program D : Hv : takes BE : boolean array returns nothing input qU end o : takes N8F, W : integer array returns nothing J, i, co, f : boolean array; U : integer; do F(- 77400); input s[15900]; while 5 : pop end end main : chillax end

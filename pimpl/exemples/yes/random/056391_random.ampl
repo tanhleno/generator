@@ -1,0 +1,1 @@
+program Q : ta80 : takes P : integer array; t0 : boolean returns nothing chillax end d0 : takes C : boolean returns nothing k, f : boolean array; let Z6 = array 1 end main : D, d7 : boolean; chillax end

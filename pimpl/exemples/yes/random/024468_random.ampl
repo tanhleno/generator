@@ -1,0 +1,1 @@
+program U : w5 : takes k68, Y : boolean returns nothing U : boolean; while - false and 5 >= - 7 - 23600 : chillax end end main : I4, g, V9, oiZ0a : integer array; Y, pu, i, L : integer; output - (48) * b and 39 + 117 + 828 . "k"; output not 351 or 7 - 215 end

@@ -1,0 +1,1 @@
+program x : l : takes Z : boolean array returns nothing d, w7Ua, v9, Kp : boolean array; T : boolean; when case not 62400 - 6 /= - 3 - 1 : when case 7 : chillax end end case 5 : input X7U; let Z = 6; pop end case 1 : chillax end case 9 : chillax end case 38200 : chillax end end main : I4 : integer; chillax end

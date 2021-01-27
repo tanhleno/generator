@@ -1,0 +1,1 @@
+program Ba : R : takes O : boolean returns nothing let G = array(3) or 599; output 692 . "" end l210 : takes I4, Iq, E : boolean; t, k : boolean array; i5, xM20 : integer returns boolean array I7y, H, FY, n : boolean array; chillax end main : N : integer; output f0H rem 6 and 9 . false + 3; output - (37) + 4 >= 5 - 7 end

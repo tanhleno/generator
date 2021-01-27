@@ -1,0 +1,1 @@
+program Py : main : while(2 = 92700) or false / (5) and 88 : let TCQ0a[7 - 33] = array - 4; input g[94400]; input r; do T(14); do kkY0a(7) end; when case - true : output 69600 . "t{\"" . ".\\"; input JIQ[6] end; pop end

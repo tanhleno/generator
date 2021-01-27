@@ -1,0 +1,1 @@
+program y4xa : t8 : takes V7, as : boolean returns boolean array g, E : integer array; R5 : integer array; o : boolean; do D(- false - 9 - 1) end e : takes A : integer; N8E : integer returns nothing n2, OMd : integer array; xN, PJ4 : boolean array; let _[- 9 - 56] = array - 5 - 833 end main : chillax end

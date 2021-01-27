@@ -1,0 +1,1 @@
+program b : q0 : takes uo : integer array returns boolean output 6 = 32 . 106 = 29 end yj : takes Y, qxK0a, S, n090, ZG90, o, g : integer; F3 : integer returns boolean pop; let c = array 3; input Gbn end main : sz, v7, R : boolean; N, yH, t : boolean array; while(805) * not g or true + true and 174 or 8 - 68200 >= not d * 2 - (93500) : do E(- 12 < 3, 0, 569, 03) end end

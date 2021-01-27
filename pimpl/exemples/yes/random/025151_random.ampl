@@ -1,0 +1,1 @@
+program z1 : s1 : takes vaOa, z9 : integer; kX, aH, e, pGf : integer returns nothing m : boolean array; when case PP8aa and 2 - 67 - 7 : chillax end case - 993 - 1 > 8370 : when case 70 : chillax end end otherwise : chillax end; let j0[92200] = 867 = 7 end main : chillax end

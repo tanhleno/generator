@@ -1,0 +1,1 @@
+program au : NS : takes y : boolean array returns boolean array r : integer array; a43, X43, e : boolean; do Y890(- not 9 and 106 + 920 /= - 5860); do _7(- 4 > 54200) end main : o, NCqaa : boolean; h : boolean array; chillax end

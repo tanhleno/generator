@@ -1,0 +1,1 @@
+program L : R6i : takes r, G, T : boolean; Q, OFX : integer array; oXT0a : boolean array; hF : integer array; q, q, S77 : boolean returns nothing O : boolean array; while - not 9 or 5 /= 0000 : chillax end; do hU(0 - 0) end main : let Sc[false or 5 / true or(73300)] = array - false or false * true or(5) or 6980 - 8; do y(- (41) and false and 5) end

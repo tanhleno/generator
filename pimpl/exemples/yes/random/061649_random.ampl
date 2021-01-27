@@ -1,0 +1,1 @@
+program r : p : takes v : integer array returns nothing while false : chillax end; while 2200 < 65100 : pop end end Ag : takes G79a : integer array returns nothing jFk, a56aa : integer array; s1, k5e : boolean array; chillax end main : let E04 = - true and 9 and 71 end

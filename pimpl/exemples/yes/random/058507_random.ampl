@@ -1,0 +1,1 @@
+program U : R_J : takes tS : integer array returns boolean pop - 06300 - 2800; output 50 . ""; when case 8 = 35300 : chillax end; output 218 end main : A620a, La, rs, U : boolean; Z0, y : integer; chillax end

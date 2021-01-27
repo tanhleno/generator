@@ -1,0 +1,1 @@
+program o : Gvt : takes L3taa : integer array; W, V1u : boolean array returns nothing s9l : boolean array; chillax end n : takes _, p9Q, Tw : integer; J, ScP, V, n : integer returns integer array F : integer array; chillax end main : input S[K]; do L(- true / 1750); when case - v9d0 - 739 : pop end; input L8; let P920[9] = 71 end

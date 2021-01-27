@@ -1,0 +1,1 @@
+program o0Fa : c010a : takes M2 : boolean array returns integer array LqVa, D, T, lixaa, lS : boolean; d, OY, VS : integer array; input D4 end main : MMB, iGZ, cgB0 : integer; O, T : boolean; K, f, Yi, sx5 : integer; Fnfa, Ic, t, hB0 : integer; input Q[true + true] end

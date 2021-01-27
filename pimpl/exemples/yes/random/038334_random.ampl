@@ -1,0 +1,1 @@
+program f : C : takes F38aa : boolean array; b8, SD60, s : integer array returns boolean input Uj; input FY90; while 3 = 73 : when case 4 : chillax end; pop end; do Q(11, 1) end main : while false : chillax end; pop; do I(- not 6 and 57 or 0 - 1 <= - 93, - 1 = 9, 6 = 533) end

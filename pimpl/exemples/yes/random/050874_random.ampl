@@ -1,0 +1,1 @@
+program K8na : O : takes g : integer; J1, u : integer; d : boolean; r : boolean array; t, _O2 : integer array; H1 : boolean array; _Q00a : boolean returns boolean array chillax end C : takes N3L : integer array returns nothing C : boolean array; chillax end main : let Q = - not true end

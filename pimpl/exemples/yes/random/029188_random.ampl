@@ -1,0 +1,1 @@
+program egF : T : takes m9, L9 : integer array; Q : integer returns nothing dy : integer array; xd1 : integer; chillax end main : c : boolean; when case true + false + rEb + 6 - 0 <= not l : when case - 58 - 8 = 5 : chillax end end case(1) and 468 + (80) and 9 or 7 - 10 : chillax end otherwise : chillax end end

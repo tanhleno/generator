@@ -1,0 +1,1 @@
+program _9j0a : Dj : takes r : integer array; S, V, u, s : integer; Hdd, d64 : integer; O3m : boolean array returns boolean uZ6 : boolean; do t8(o and 82500 >= - 94 - 744) end h : takes W, zwv, pZ, j1caa : integer returns nothing pop; when case 979 = 17 : chillax end; pop 0 end main : Q, xh, b : boolean array; q, w : boolean array; n : integer; when case - true : chillax end end

@@ -1,0 +1,1 @@
+program th : main : when case - not 9 * not(1) and k0s and 9 or false - true and 2 + 4 >= true and true + (7) : output "29" . "\"" . ""; while 22 : output "n" end end case - (675) / V4 and 9 : pop end case 2 - 1 - 8 : chillax end otherwise : when case 7 : while 8 : chillax end end otherwise : pop end; do Wv(609) end end

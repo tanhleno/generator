@@ -1,0 +1,1 @@
+program P : N7 : takes Tg, Dqq, s, G : boolean; o, UGn : boolean array; F, fo, S3, I : boolean array; Q : boolean array returns boolean v : integer; chillax end main : output "8K" . - not 82 and 7 < 1 . "9" end

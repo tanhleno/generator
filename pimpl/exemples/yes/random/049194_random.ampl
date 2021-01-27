@@ -1,0 +1,1 @@
+program tHq : Y1E0a : takes k330 : boolean returns nothing while - true and 7 : chillax end; pop 6 = 18; when case 9 = 375 : do k(52); pop end case 8790 : pop end otherwise : chillax end end main : U : boolean array; Z : boolean array; d : integer; W : integer array; M : boolean; chillax end

@@ -1,0 +1,1 @@
+program A0yaa : U : takes j : integer returns integer array L, a8 : integer; output "." . "za0a" . 6 . "e\\" . ""; while - 8 - 8 : chillax end; output 2 end n : takes L4waa : integer array; r, r : boolean; G4d : boolean array; Id : integer; Gx : integer array returns nothing IXfaa : integer array; jW : integer array; chillax end main : x6 : integer; chillax end

@@ -1,0 +1,1 @@
+program b : main : P : boolean array; R8t0 : integer; gG30, Q : integer; F : boolean array; F : integer array; do v(- false * not 5 rem N, false and not 5 and 2, 45 and 3 or 085 >= - 4, - 6 - 0 = 1); while D < - true and 8 - 628 : when case 2840 = 3 : let _6 = 4 end; when case 59 : chillax end case 6 : chillax end end end

@@ -1,0 +1,1 @@
+program p4baa : Q : takes XC20a, ED : boolean returns integer n : integer; pop end main : output - W and not 8 and 536 > false - 04; while - 1 or(058) >= true : while 57 : chillax end; while 6 : chillax end end end

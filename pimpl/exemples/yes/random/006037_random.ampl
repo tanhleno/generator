@@ -1,0 +1,1 @@
+program P : Es : takes D3, l1, e, n9 : boolean returns integer Q3Maa : boolean; chillax end WMb : takes QM : integer returns boolean array when case 7 : chillax end otherwise : chillax end; when case 3 = 65400 : chillax end end CEk : takes C : integer array; w, Cb : integer array returns boolean array input f[4280] end main : chillax end

@@ -1,0 +1,1 @@
+program Y0 : D0Ta : takes o, I : boolean array; t : boolean array returns boolean chillax end y : takes N, P : integer returns nothing chillax end main : Q, Y, swD : boolean; when case false - (647) = - not not 18 - (4) and 42200 - 7 - 268 : let x = array 1 end case - false : output 9; do D(31) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program zFD : Y : takes uZ5 : integer array; U0, DJ60 : boolean returns nothing input E[- not 11000]; when case - 0 - 62 <= 7 : chillax end case 50 = 6 : chillax end otherwise : chillax end; do c2b(480, 4, 636); output "^!!a"; input b; output "W"; pop end main : bo, l, L : integer; WP : boolean; n, _ : integer; g : integer; chillax end

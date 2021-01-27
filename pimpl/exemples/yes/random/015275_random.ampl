@@ -1,0 +1,1 @@
+program o : B : takes sm, lq5, E : integer array returns nothing n9v, U, d, Fy, P0r : boolean array; chillax end main : do U(- true / F(37400) / 9 or 46 / true and 15 = 861 * 585 and 3 + not 14700 and 6 - 08); when case - not 6 * 0 > true and 1 : input RU50 end otherwise : chillax end end

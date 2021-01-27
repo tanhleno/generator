@@ -1,0 +1,1 @@
+program e5 : E : takes z0R, q, S, YU : boolean array; K1, G, h : boolean array; kpG : boolean array returns nothing chillax end main : do DB((6) rem false / 1 < - (0790) + Xu, - true + 2 >= - (1) + 6, 7 + 64 >= 1 - 98900, 9 - 3, 7, 1); output "" end

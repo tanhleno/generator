@@ -1,0 +1,1 @@
+program X : main : do H6(og * true * true and 7 or false * not 73 and 3 + not 4 - 0 /= - 0 / 09 and 3); do H(- (3) / true /= - (4) and 3, (2) or 8 - 1); input X3; pop; while 01 : output "\tr" end end

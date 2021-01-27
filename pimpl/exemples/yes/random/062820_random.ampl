@@ -1,0 +1,1 @@
+program y7 : Bsq : takes w : integer returns integer array z, V44, L, C8, b : boolean; fo, ggU, Z : integer; input al[false - 9 - 664] end j3 : takes G5, h5 : integer array; s : integer array returns nothing Y : boolean; Oc, V8 : boolean array; GNDaa : boolean; output 07 end main : m, Tw, O, aI, y : integer; z : boolean array; chillax end

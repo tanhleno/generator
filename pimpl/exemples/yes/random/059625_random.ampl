@@ -1,0 +1,1 @@
+program hx1 : y : takes afU0 : integer array returns nothing chillax end If40 : takes BW2aa, Ui00, ACz0, N, P, Xd, VG9 : boolean; l : boolean array returns nothing chillax end l : takes m : boolean array returns boolean array chillax end f : takes v : integer returns integer array chillax end r6 : takes C : integer; x : integer returns nothing chillax end main : chillax end

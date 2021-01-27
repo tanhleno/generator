@@ -1,0 +1,1 @@
+program Xcv0 : QM : takes d : integer array returns integer pn, N8taa, r, p9, t5 : boolean array; T, tZ10, E, K5 : integer; chillax end iP : takes q4 : boolean; AL : integer array returns nothing yAZ0a, h : boolean array; H9s, bnj : boolean; chillax end main : input f; input ps90[- 2 or 55 and 39 or 891] end

@@ -1,0 +1,1 @@
+program Q : S2 : takes i : integer returns boolean array output 3 /= 80200; do a08(5 >= 492, 1 = 7, 4, 78) end K : takes vW : boolean returns boolean array C : integer; le : integer; chillax end main : L : boolean array; bi10, k800 : integer; H40aa, Oy6a, LE : integer; chillax end

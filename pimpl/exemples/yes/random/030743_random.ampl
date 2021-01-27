@@ -1,0 +1,1 @@
+program g : aA : takes m5, V : integer array returns nothing z : boolean; Hc : integer; g, Pd, fQB0a : boolean; chillax end main : gx, l : boolean; uX, T5pa, u7, R, kn : boolean array; pop true * 3 and 9; let aI = array - RV(6) end

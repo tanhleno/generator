@@ -1,0 +1,1 @@
+program v61 : R49 : takes tz : integer; hq, uQ5 : integer; f, X87 : integer returns nothing when case - z0 and 72 or 3 : chillax end case 6 >= 8 : input D end end main : do t4N((1) and(1) + not k6U * B3 and 02 or false and 1 + 2 - 1 > - Z[3] + G7, true - true + 31700 - 0390, not 7, - 1960, 4 = 2, 2) end

@@ -1,0 +1,1 @@
+program su3 : L : takes Tw : integer array returns boolean input e5; output "\to"; output ""; output 79 . ""; output "k\\!" end main : N, Q, TD40a, Ls : integer array; SZh0 : boolean array; let W[- false and false and o and 2 or true rem false and 1 or RD5a and 0 - 2320] = array 9 end

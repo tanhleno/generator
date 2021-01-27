@@ -1,0 +1,1 @@
+program e : main : input O3; while 1 * not 8 + 55 /= 6 : chillax end; while false and 21 : input x; input DU6aa end; when case 5 - 7 : chillax end case 2 : let a = 12 end otherwise : output ""; pop end end

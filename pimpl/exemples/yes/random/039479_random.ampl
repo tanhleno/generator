@@ -1,0 +1,1 @@
+program V6l : Z : takes G940a : boolean array; j, ED40 : integer returns nothing pop 5; do K(- 10 - 28, 88); pop 2 end o37 : takes OZ : boolean array; aq, Huf0 : integer array returns nothing chillax end main : chillax end

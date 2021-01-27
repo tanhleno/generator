@@ -1,0 +1,1 @@
+program Sy : main : Xd : boolean array; p : boolean array; f9, Rrj, of, z : integer; while not false rem false * (3420) : chillax end; let d[true] = true and 12200 - 9 - 3 > - 9; when case 5 or 0 - 0 <= - 34 - 59 : pop end case - 1 : let F = 1; while 6 : chillax end; pop end case 1 = 8 : chillax end otherwise : chillax end; pop; pop; input qB[29]; while 137 : chillax end end

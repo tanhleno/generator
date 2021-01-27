@@ -1,0 +1,1 @@
+program A : Yz : takes W5 : boolean returns boolean array do o(- not 44200 and 224, - 0810, 3780, 080, 3) end main : N, Ld : integer array; bT, S72 : integer; y : boolean array; N, n, z : boolean; l7, d74, t : integer array; Dg : boolean; chillax end

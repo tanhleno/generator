@@ -1,0 +1,1 @@
+program B : N : takes y : integer array; F, C, X : boolean array returns integer vc : boolean array; H8 : integer array; when case - 0 + 72 - 5970 : chillax end otherwise : let dT5 = 3; input Bx; pop end end I5 : takes C5 : integer returns integer array x, z : boolean array; chillax end main : R, lo4aa, n5zaa, SV80a : integer array; chillax end

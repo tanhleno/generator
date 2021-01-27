@@ -1,0 +1,1 @@
+program e : u : takes Y34a, T32, O, G : integer array returns integer aq : integer array; G : boolean array; when case 82 and 4 > 23 - 432 : chillax end; when case - 5 - 3 <= 5 : chillax end case 39800 = 5 : let R4 = 0 end case 6 : pop end otherwise : chillax end; input R0 end main : FCJaa : boolean; while y[75] and w860 / 4 and 6 or K rem 9 or true and 9130 : chillax end end

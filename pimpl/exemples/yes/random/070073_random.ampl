@@ -1,0 +1,1 @@
+program b0 : main : g, K, A6, y : integer; R3, e, yD60, cU, HF4 : boolean array; U : integer array; E1da, W : boolean array; when case - J9(54, 0) / 6 < - false - (4) or 875 : while 1210 >= 5 : pop end; do k(54, 0, 3) end otherwise : do O3(4, 0) end; do i(- true) end

@@ -1,0 +1,1 @@
+program iP5aa : main : i4 : boolean array; v7c : integer array; K, G9 : boolean; p : integer array; i : boolean array; J, Q3 : boolean; let V[false or false] = array - (2) and false rem 0; output ""; while - 64 and 34900 - 1 : output "" . ""; input R1 end end

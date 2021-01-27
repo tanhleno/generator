@@ -1,0 +1,1 @@
+program JQ : y : takes i, x21, V : integer array; T3L0, Z : boolean returns integer w : integer; fr, Z : integer array; while false and 3 - 4 - 7 : when case 0 : pop end case 591 : chillax end otherwise : chillax end end end main : pop 0570 and e7 or 35 or 5 <= - false and 556; input U end

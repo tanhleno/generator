@@ -1,0 +1,1 @@
+program W : f : takes O, t, y4u : integer; Z, W, u : integer returns boolean array f : integer; when case - not 3 : while 7 : pop end end case 89 - 3 /= 69 : chillax end case 6 : output ""; pop end case 12 : pop end case 9 : chillax end; pop end main : C, je5, n, I, D9 : integer array; output - false + (6) = (0) and 3 . false and 2 <= 87600 - 7 . 1 - 6 >= 50 . 1 . 5 . "" end

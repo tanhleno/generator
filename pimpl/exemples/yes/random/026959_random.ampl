@@ -1,0 +1,1 @@
+program cF : X : takes G71a, G : integer; IMka : integer returns nothing do C(- 0050 /= 8 - 2490); while 3 : do f7(6); input v6 end; input d3[57]; output 70 end main : MT, d2P : integer array; M900 : boolean array; q : integer array; s : boolean; chillax end

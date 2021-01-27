@@ -1,0 +1,1 @@
+program K5 : _ : takes p : integer; WQ : integer array; E9g0 : integer array; Y_f0 : boolean returns nothing chillax end Q41a : takes j : boolean returns nothing z0 : integer array; _, i, _ : integer; l : boolean; W : boolean; do L(- 25); pop; let z[730] = 2 end main : Mf, v : boolean array; g8d0a, b : boolean array; chillax end

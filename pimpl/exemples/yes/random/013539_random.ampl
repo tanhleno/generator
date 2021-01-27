@@ -1,0 +1,1 @@
+program O07a : Z8 : takes Vz0, m, u8 : integer; C : integer array returns nothing while - (5) and 835 + 8 - 711 >= 30 : chillax end; output 43 . 333 end main : G810 : boolean array; if, ug : integer array; T, N, A : boolean; d, w7 : integer; p2, hj : boolean; input N49[(6) and(9) or true - d] end

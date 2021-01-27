@@ -1,0 +1,1 @@
+program d_ : j : takes o : integer array; I4H : integer array; T7P0, X5 : boolean; n0, R : boolean array; p4, a, F : boolean; qH00a : integer returns nothing oY2 : boolean; pop 0 - 8 end A : takes r : integer array returns nothing F : boolean; while - 82 - 4 < 47 : chillax end end main : w17 : boolean; LI : integer array; S, t : boolean array; dE : boolean; chillax end

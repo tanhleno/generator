@@ -1,0 +1,1 @@
+program U : v : takes x, g1 : boolean array; q : boolean returns nothing output - 92600 . 24 end La : takes Y : boolean array returns nothing I : boolean array; chillax end TNo0a : takes u : integer; J : integer; o : integer; O4 : boolean array; D, Nw : boolean returns nothing chillax end main : chillax end

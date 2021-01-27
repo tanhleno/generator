@@ -1,0 +1,1 @@
+program o2 : q : takes e : integer; uX60a : boolean array returns integer array v, t : integer array; chillax end SWlaa : takes X : boolean; t, D : boolean array returns nothing chillax end main : chillax end

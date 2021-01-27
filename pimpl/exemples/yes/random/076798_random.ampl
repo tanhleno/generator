@@ -1,0 +1,1 @@
+program g : main : Q, Wo0aa : integer; output "" . true + 1 > 1; let Ki = 1 and 7460 - 1 <= 26; when case(4) and 7 >= - 45 - 8 : pop; pop; while 6 : chillax end; pop end case 68 : when case 3 : chillax end end otherwise : chillax end; while 3 - 8 : do V31(06700) end end

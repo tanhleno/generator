@@ -1,0 +1,1 @@
+program N : Dz : takes E0k0, O, _4 : integer array; F99 : integer; v : boolean returns nothing kp, nz7, j9 : boolean; B39 : boolean; E : integer array; h : boolean; chillax end main : while(2) / false rem f0 > 9 - true : chillax end end

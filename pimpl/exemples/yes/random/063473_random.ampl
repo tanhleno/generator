@@ -1,0 +1,1 @@
+program cp8aa : H : takes h7aa : integer returns integer W8 : integer; chillax end main : s : boolean; input a7[not true / X(131) * 4 and 11 - (44) rem false and 791]; output - false and 0 or 87 - 9600 end

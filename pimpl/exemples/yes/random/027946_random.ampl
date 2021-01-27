@@ -1,0 +1,1 @@
+program h1 : Y : takes T, MI : integer array; g, B : integer array; d : boolean; vY : integer array; d08 : integer array; O : boolean array returns boolean let J = 1 - 8 /= 06700; do _(24 - 1740, 8 = 725); while 0 : chillax end end main : F : integer; chillax end

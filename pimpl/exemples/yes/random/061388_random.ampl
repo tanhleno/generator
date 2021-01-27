@@ -1,0 +1,1 @@
+program b4 : J : takes w1v : integer array returns nothing output "8" . 2 end main : output "]'0" . "" . "" . 7 = 7 . ""; while - C(68) <= (3) - 95700 - 1 : input s[13] end; do _Y(true or 8 - 1 /= - 0 - 748); when case 2 >= 26600 : chillax end otherwise : when case 4 : chillax end; pop end; pop end

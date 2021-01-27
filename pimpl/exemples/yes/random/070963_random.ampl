@@ -1,0 +1,1 @@
+program wt : main : A1, f3, E : boolean; J : boolean; _Cy : boolean array; when case - 6 or false rem not 930 + (47) : while - 4 >= 4 : chillax end; when case 5 = 8970 : chillax end otherwise : chillax end; input Gh1[1]; input p; while 5 : chillax end end case - (1) and not 3050 and 9 = - (2) and 6 + 7 - 60 : chillax end end

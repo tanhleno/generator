@@ -1,0 +1,1 @@
+program NQk0a : YCp0 : takes u2, aL, Z : integer; eC : boolean array; i, lX, P : boolean array; zO20 : integer; M, y16 : integer array; S, j3vaa, jH : integer; o : boolean returns integer chillax end main : let m2 = array - 3 / false and false and 5 end

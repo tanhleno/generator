@@ -1,0 +1,1 @@
+program Y8oaa : OL : takes T1s0 : integer; O, i2 : boolean returns integer chillax end main : z, Y : boolean; O : integer array; let E4 = not v6 or true - 3 /= false and 01 - 9 - 0; pop - not 7 and 38 or 74 /= - 03; input m end

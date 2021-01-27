@@ -1,0 +1,1 @@
+program Wi : kg7 : takes S : integer array; Y, H, ZG : integer array returns boolean J, h, RI, y : boolean array; p1 : boolean array; y, H : boolean array; E : boolean; FK0 : boolean; D7 : boolean; chillax end main : l160 : integer array; do H(not Q + 7 * false = I(6) * true, - 4 >= - not 3, true and 2 + 97 - 23 = - 7, 7 - 22600 /= 0040, 968) end

@@ -1,0 +1,1 @@
+program F : jH4 : takes m : boolean; c, N, xn : boolean array returns nothing chillax end main : let Q = - T rem 56 + zn10a; do F20a(- true /= - not 074 and 7 or 29 - 0); when case - not 4 and 2 or 6 - 21 <= - 3 : do I(56, 0) end otherwise : pop; do A(20) end end

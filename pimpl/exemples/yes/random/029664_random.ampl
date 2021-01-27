@@ -1,0 +1,1 @@
+program m24 : a : takes Pa1, Us : integer array returns boolean when case - true or 5 <= - 1 : chillax end otherwise : do p(2) end end main : g, j : boolean; while - 00 and(4) or not true rem(36700) > - not(2) - not 1 or 6 : chillax end; pop; do D7(- true < 7 - 0, - 31 - 1 /= 4); input b end

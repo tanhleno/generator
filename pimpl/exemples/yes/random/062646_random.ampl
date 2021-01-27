@@ -1,0 +1,1 @@
+program d21 : H67 : takes kX9 : integer returns boolean pop end w : takes J48, J, N, E05aa, n : integer array; Z67a, J : integer array returns nothing c : boolean array; U7x0 : integer array; Ou3, w9 : boolean; m9 : boolean; M : boolean; do M(7 - 67200 < 0); while 043 : chillax end; input J[8] end main : vBC : integer; O : integer array; chillax end

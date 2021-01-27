@@ -1,0 +1,1 @@
+program e : OIN : takes I55, MV8 : integer array returns boolean array chillax end main : f, L, B2, v : boolean array; do U74(- 2 and not not 5); output - false and 5 . - 4 - 55 . 9; do V(- 3030 - 2 - 1 < - 697, - 907 - 4 = 7, 667); when case - 7 - 6 : chillax end case 54 = 4 : chillax end; do hkz(4 = 01); input S5[2]; when case 17 : chillax end end

@@ -1,0 +1,1 @@
+program _ : K6 : takes HV7 : boolean array; z : integer array returns integer array aYd : integer; R : boolean array; k2caa : integer array; chillax end main : let H1[2 + _[93100]] = - 32 rem true and 9; when case - 2 rem true - v + 046 - 164 : when case 3 = 9 : chillax end case 27 : pop end case 7 : chillax end otherwise : chillax end; while 2 : chillax end; pop end end

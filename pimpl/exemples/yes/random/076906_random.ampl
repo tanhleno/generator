@@ -1,0 +1,1 @@
+program Z : main : X, j9 : integer; when case - true or not 7 * (9) > - not 07 : chillax end case true / T45a and 9 + true : input r3 end case(074) : chillax end case - 44700 - 1 > 47 : let m = 2 end; output - false and 80 end

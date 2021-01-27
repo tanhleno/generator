@@ -1,0 +1,1 @@
+program HI : Nv : takes v, K : boolean array returns boolean array z : boolean array; input Vhk end R36 : takes b : boolean returns nothing output 88800 . "" . 764 end N : takes UYia : boolean array; y, L, x : integer array returns nothing chillax end main : Q580 : integer array; let U = array(0) rem c(6); input v end

@@ -1,0 +1,1 @@
+program B64a : n8 : takes i : boolean array returns nothing k5 : boolean; u, L, E, M1iaa : boolean; chillax end F : takes L, L : integer array returns integer when case - 950 = 0 : chillax end otherwise : chillax end end main : chillax end

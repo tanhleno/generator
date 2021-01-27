@@ -1,0 +1,1 @@
+program kZ : h : takes Q8 : boolean array; X : integer returns integer LZXa, D, M : boolean array; while - 3 and 900 + 0320 - 3 = - 8 : chillax end end s8 : takes p : integer; W1, p, AX2, u, n : integer array returns nothing chillax end main : Ie : boolean; let T7 = array - 3800 or false and 95; let e2c = array true - 34 and 74 end

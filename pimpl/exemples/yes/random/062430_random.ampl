@@ -1,0 +1,1 @@
+program U : E : takes E9q : integer returns boolean Vf8, m820 : integer array; chillax end M0P0 : takes g : integer array returns integer array F8 : boolean; when case - 42 - 17 /= 6 : chillax end end main : output "\n\t"; let U = array false end

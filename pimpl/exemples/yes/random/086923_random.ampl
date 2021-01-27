@@ -1,0 +1,1 @@
+program sJ0aa : main : o : integer array; z : integer array; let A = array B(3, 3); while not i : do t(3120 = 228, 94600, 07); output 555 . "" end; let k45a[- (2) + 53 - 345] = - 8; let A_J = 0550; output "4"; when case 1 : chillax end case 031 : chillax end otherwise : chillax end end

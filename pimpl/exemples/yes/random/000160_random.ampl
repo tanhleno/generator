@@ -1,0 +1,1 @@
+program QN : A : takes W, ca, IW, OAva, X9Ba, Ju, h, d44 : boolean array returns boolean array C : integer; while - F and 6 : do o4(6, 8); output "0" end end main : q, C810a : boolean array; do T(- not not false / (8), - (65600) * false and 90500, not 9 /= - 8 - 17, 2 - 3, 976 = 27700, 95100, 1) end

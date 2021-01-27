@@ -1,0 +1,1 @@
+program kUiaa : Q : takes D : integer; b9S0a, F7N0, Twla, n, KR20 : boolean array returns integer array chillax end main : T, e0 : integer array; input m; output "6" . - 6370 - 68 /= 3 . 6; when case false and 57 : chillax end case - 9 - 0 = 5 : chillax end case 7 : chillax end otherwise : while 098 : chillax end; while 91 : chillax end end; let n02a[- 4] = 7 = 1 end

@@ -1,0 +1,1 @@
+program i : qQU0 : takes b, Vk : integer; S, N, BDc0, F23, KTk0a, D3A0a : boolean; R, g : integer array; L, L, B : boolean array; D, t, y1b0 : integer returns boolean chillax end main : while - false * r9[1] : chillax end end

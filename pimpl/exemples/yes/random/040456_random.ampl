@@ -1,0 +1,1 @@
+program d : Ab : takes W8 : boolean array; U0s : boolean returns nothing let t = array true + 2 - 19 end main : Z280 : boolean array; G85 : boolean array; o9 : boolean array; input C; while - not not 4 + false and 6 + 61 - 4 : output "0@a" end end

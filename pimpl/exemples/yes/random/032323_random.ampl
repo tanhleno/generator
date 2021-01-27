@@ -1,0 +1,1 @@
+program s1Raa : e4 : takes W, K : integer returns nothing chillax end main : T, j, h, p, j51, F, S : integer; when case - (2 = 2) * m - true - false + 8 : when case 6 - 6 >= 77000 : do d8(0) end case 99 = 6 : chillax end case 50 : chillax end end end

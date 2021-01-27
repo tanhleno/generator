@@ -1,0 +1,1 @@
+program tp : h : takes H, G4t0a, GQ : integer; Do, Tz70 : integer array; t, E, R6y0a, R : integer returns integer lq_a : boolean; v, VJ : boolean array; XsA, _ : boolean array; pop end Z : takes d1ma, y03a : integer; U2m : integer; W, X9 : integer array returns nothing chillax end main : O, n7, l : integer; chillax end

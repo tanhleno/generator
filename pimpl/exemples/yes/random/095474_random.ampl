@@ -1,0 +1,1 @@
+program f : main : when case(4 = 2) - true rem false and 93 - k and 885 or 26 - 735 : do j(50 - 29) end case 5 / false and 7550 or(0) + 55 - 10 : when case 304 = 39 : let i = 3 end otherwise : chillax end end end

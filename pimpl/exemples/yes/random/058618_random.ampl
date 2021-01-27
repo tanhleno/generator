@@ -1,0 +1,1 @@
+program XU50 : L : takes Ji : integer array returns integer array chillax end AQ2 : takes D : boolean array returns integer array _, fg30, V : boolean; c, L : integer array; D0l0a : boolean; f : boolean; let v[8] = array - 0 - 94 end main : output "08" . (93400) - 44300 <= 9; output 66 and 95 - 3160 - 8 = 5 - 8 . 5 /= 307 . 8 . 342 . 047 . "u" end

@@ -1,0 +1,1 @@
+program b : R : takes Q8, y, qOf : boolean array; wDn : integer; wG, L, Gn8a, _3, Mz : integer returns nothing Q, JNo0a, ut : integer; SZ, BBN : integer array; Y, w7F0a : boolean; XC, h : boolean; when case Y <= - 0 - 0 : chillax end end main : output "" end

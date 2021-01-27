@@ -1,0 +1,1 @@
+program _ : J : takes g, Z : integer returns nothing chillax end main : while - false >= not true / (27600) - false + 3 - 5 : chillax end; while - 194 - y and 30 <= - not 8550 : do O(6 = 222); when case 91000 : pop end case 9 : chillax end otherwise : chillax end end end

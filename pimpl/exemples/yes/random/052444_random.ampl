@@ -1,0 +1,1 @@
+program P7Z : JP4a : takes J : integer; kK : integer; UbO0a, l : boolean returns integer array i, L20a, EPD0 : boolean; Q, x : boolean; f7 : boolean; let UM2 = array true + 4 - 3; let I31 = array 78; output 565 . 293 . "" end main : chillax end

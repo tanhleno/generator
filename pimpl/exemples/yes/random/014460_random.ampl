@@ -1,0 +1,1 @@
+program j6uaa : P : takes P, G, v : integer array; o72 : integer array; U52aa, G : boolean returns boolean w19aa, O5 : boolean array; input hw[- S and 6150]; let y[6] = array 1 - 68 end main : D2, Z : boolean; pop - true rem 8 and 48 end

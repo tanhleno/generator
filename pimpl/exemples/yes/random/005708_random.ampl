@@ -1,0 +1,1 @@
+program O : M : takes r, cG, b28a, D : boolean array returns nothing pE4 : integer; r : boolean array; output "" . ""; when case 4 - 6 : chillax end; pop; while 5 : pop end; while 53900 : chillax end end main : zE, AY5 : integer array; i59a : boolean array; chillax end

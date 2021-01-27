@@ -1,0 +1,1 @@
+program w6U : DDKa : takes r, l : boolean array; bK7a : integer returns integer array D, E5, t3 : boolean array; v9 : boolean; i, _ : integer; T1 : boolean; Y_6 : boolean; lk : boolean; chillax end main : Z6c0 : integer array; Oega : boolean; chillax end

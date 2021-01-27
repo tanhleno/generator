@@ -1,0 +1,1 @@
+program C : I : takes i, G : boolean returns boolean z4 : integer; p88, LQ : boolean array; G : integer; chillax end v : takes j36a, ir : integer returns boolean array U8, n : boolean array; let jb4[- 73 - 9] = array 2 end main : A, RxEa : boolean; E : integer array; s4, QO : boolean array; On0a, Y, S8, lK4 : boolean array; Qjt0 : integer; chillax end

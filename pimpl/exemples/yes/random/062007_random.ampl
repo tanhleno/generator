@@ -1,0 +1,1 @@
+program cXK : S : takes d9J0a : integer returns boolean array x : integer; X, t : integer array; pop; when case 3 - 0 >= 6 : chillax end case 2 = 67200 : input x3 end; do tdcaa(36) end main : chillax end

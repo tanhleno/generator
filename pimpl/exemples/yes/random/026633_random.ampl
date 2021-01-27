@@ -1,0 +1,1 @@
+program Z : k : takes L, I2 : integer; g9 : integer array; n, I, s : integer; jB : boolean returns integer array chillax end Q : takes MS20a, A9b, y9, U : boolean array returns nothing a, g, Wt, D : boolean array; h : integer array; xJ9a : boolean; kk : boolean; q : boolean; input Ia[- 29] end main : chillax end

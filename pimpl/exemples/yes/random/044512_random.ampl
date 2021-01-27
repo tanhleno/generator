@@ -1,0 +1,1 @@
+program ZGA : C : takes iW : boolean array returns nothing aY : boolean; p7 : integer array; while true - 198 - 52900 : pop end end main : d, V : boolean array; A8C : integer array; V : boolean; pop - true < - not 04 end

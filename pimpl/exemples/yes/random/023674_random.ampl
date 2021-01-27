@@ -1,0 +1,1 @@
+program YMJ : X7p : takes O, IE8 : boolean returns integer chillax end main : when case - true or not true - false + 24700 : chillax end case 53 + SJ + 9810 - 70900 : when case 281 : chillax end otherwise : pop end end case true or 13 : when case 1 : chillax end; pop end case 7230 - 0 : chillax end otherwise : chillax end end

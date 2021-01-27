@@ -1,0 +1,1 @@
+program m780a : U : takes q, Q3, r : integer array returns nothing chillax end V6 : takes u, L : integer; g : boolean array; c : integer array returns integer array N : integer array; output "}"; output 5; do h8(202) end main : pop false rem false and 18400 or not 9 = - (2) - 0 - 56 end

@@ -1,0 +1,1 @@
+program pr : Fm5 : takes g2t0 : integer; _1 : boolean; sI : boolean; ue : integer array returns boolean chillax end V1laa : takes BlL : integer array returns nothing r540a, N6 : boolean; input U3[- 64] end main : let j[not not false] = array false or not true / not 67 and 5 or false and 59; when case - false * 9 = - not 356 - 27600 - 7 : chillax end end

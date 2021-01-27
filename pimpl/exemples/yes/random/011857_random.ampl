@@ -1,0 +1,1 @@
+program y4 : c : takes LP, D0, y : boolean returns integer array input Z end j3P0a : takes M : integer array; XDVaa, Jwy0 : boolean; p : boolean array; z8 : boolean returns nothing b, J64aa, u0n, FnD : boolean; chillax end main : while - (70) - not p6 or 8 and 5 : chillax end; input i82; input bQ6 end

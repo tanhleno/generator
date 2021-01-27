@@ -1,0 +1,1 @@
+program a : main : K : integer array; ySga, I6 : integer; h990a, Bv5, Guh, a, PI40a : integer array; t8 : integer; J, x, B6 : integer; i8y0 : boolean; n1 : boolean; s : boolean; do _(false and(2) or 2 < - false * not 7 and 55 + m6 + 484, (9) rem 8 and 6 - not 62400 or 48 = J + 01 - 22, - 021 - 05600 < - 29 - 624, 91 - 378 > 33, 0, 643) end

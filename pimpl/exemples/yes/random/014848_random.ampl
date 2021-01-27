@@ -1,0 +1,1 @@
+program z : M : takes y3, O4u0a, Q : integer array returns boolean _I : boolean array; while - false = - 53 : chillax end; input u[78] end main : M : integer; pop H[23] and false + (9) and 087 /= - false and 7 end

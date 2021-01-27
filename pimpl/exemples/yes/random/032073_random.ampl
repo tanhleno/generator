@@ -1,0 +1,1 @@
+program P : q : takes t, o8 : integer returns integer aI4 : boolean; K : integer array; o, R, kt : boolean; T, W : boolean; W : boolean; do nO7((2) and 0 - 40, 08, 753 = 978, 18) end main : chillax end

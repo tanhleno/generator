@@ -1,0 +1,1 @@
+program ZP5 : h : takes LY : boolean array returns nothing v, W : boolean; W, gC, Fo7 : integer; qV00a, a, a : boolean array; chillax end main : Jr, g, M : integer array; s : integer array; w55, c : integer array; gu : integer; gq50 : integer; q3, Q : boolean; chillax end

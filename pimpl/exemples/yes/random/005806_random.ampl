@@ -1,0 +1,1 @@
+program k9 : E : takes kx1aa, rD, H, M : boolean returns boolean array do u(- 565, - 3) end M23 : takes K, r : integer array returns integer array when case 70 >= 8 : input W46a; pop end otherwise : chillax end; do Hf(1, 55) end qs3 : takes xE : boolean array returns integer array input T770a[6] end main : B, I, y1S0a : boolean; chillax end

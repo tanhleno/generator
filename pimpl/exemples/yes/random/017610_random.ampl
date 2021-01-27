@@ -1,0 +1,1 @@
+program pe : B : takes u, Eb : boolean; p1 : boolean; N, f, Y, bF, _sd : integer returns nothing p4 : integer array; ZMu, sYMa : integer array; chillax end AhT : takes V, Ok7aa, c : integer; v : integer returns nothing chillax end bn0 : takes A0, p6, z : integer array returns nothing pop end ki : takes Jy5 : integer returns nothing chillax end main : chillax end

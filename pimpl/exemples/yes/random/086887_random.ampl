@@ -1,0 +1,1 @@
+program k : main : ih : integer array; x6 : integer array; N : integer; H57a : boolean array; A3, a5, v : integer; input d; let Fz[- false and false and 7] = array not H * not 79 and 15 - (9) - 59 - 3 end

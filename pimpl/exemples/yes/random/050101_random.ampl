@@ -1,0 +1,1 @@
+program r : Hsq : takes l : integer; u9, Te, nc1a : integer array; i7, i : boolean array; TKK, o00a, A, KC : integer array; J, F : integer; p1, iS, d : integer array; G : boolean; o : boolean returns nothing U, x, i, uo80, a9 : boolean; chillax end main : V, v, H : boolean array; W0Y : integer array; chillax end

@@ -1,0 +1,1 @@
+program x : c56 : takes j6z, mb : boolean array; cgJ, h : integer array returns boolean array l9, t0 : boolean array; let N = 6 - 28 end t : takes k : boolean array returns integer array H0ia, F8h : integer; l : boolean; let Q[2] = 45900 end main : chillax end

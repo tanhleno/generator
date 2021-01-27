@@ -1,0 +1,1 @@
+program sRd : CY9aa : takes G, dJ, z, s : boolean array returns boolean o : integer; _, q6 : boolean; z1 : boolean array; g3h : boolean; chillax end main : NI7 : integer array; st : boolean array; input T84 end

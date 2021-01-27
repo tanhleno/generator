@@ -1,0 +1,1 @@
+program U : Ju4 : takes yg0 : integer array returns integer array F : integer; chillax end EYy : takes z, i : boolean; wb4, EtR : integer array returns boolean J : integer; O, p : boolean; chillax end main : I, u47, MvH, y : integer array; Mw : integer array; pop - zw0a; let l = array - 38700 and B or 4 - 97000 end

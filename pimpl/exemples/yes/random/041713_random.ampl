@@ -1,0 +1,1 @@
+program a : p55 : takes D4 : boolean array returns boolean array e : boolean array; do s(true and 0, - 55, 2, 1, 0700) end main : D_y : integer; output(2) + L and 54 >= - 6 and 6 - 399 - 8; input n; input J end

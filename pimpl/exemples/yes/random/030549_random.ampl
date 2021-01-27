@@ -1,0 +1,1 @@
+program _ : h2 : takes Re, J : integer array returns nothing nwa0a, M1, F : integer; do N1((6540) and 2, 68600 = 2); while - 17 - 57800 = 983 : chillax end; output 5 end main : pop; when case - 61 : chillax end; when case false and 5 : let u = 49; input _; while 059 : chillax end; pop end case 9 - 663 : chillax end; do fb10(- 847 <= 8) end

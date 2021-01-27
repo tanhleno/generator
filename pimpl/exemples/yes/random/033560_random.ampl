@@ -1,0 +1,1 @@
+program Mv : U8_aa : takes Fe0 : boolean; E8, A3, b, na : boolean array returns nothing s : boolean; chillax end xg : takes qd, ETo : boolean; w, a4J : boolean array; a9, q : boolean array returns integer array Yy, S850a, y1, C : boolean; X, D, t : integer; chillax end main : input s3L0a; input m[(20)]; pop - 3880 <= 7 end

@@ -1,0 +1,1 @@
+program V1 : o : takes p18, P050a : boolean array; r9 : boolean array returns nothing chillax end vS : takes g : integer; C75 : integer returns boolean when case - 0 - 4 : chillax end otherwise : do V9(09) end end main : du, X : boolean; chillax end

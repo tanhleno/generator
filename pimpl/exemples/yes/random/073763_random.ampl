@@ -1,0 +1,1 @@
+program Hc : main : h, f : boolean; h : boolean; d00aa : integer; _, k, J000, JcY : integer; S : boolean array; when case - not false - true * X and 9 or not 18 > not not 25800 * 1 and 073 : when case - 50 - 63 : chillax end case 8 = 739 : chillax end end; while(6) * 61 - BR : when case 7 = 1 : input W; pop end otherwise : pop end; input h[5] end end

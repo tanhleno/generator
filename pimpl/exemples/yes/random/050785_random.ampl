@@ -1,0 +1,1 @@
+program T : nC : takes UW4 : integer; C, y9 : boolean returns nothing e : integer array; when case - q18 and 28 : chillax end case 77 <= 7 : chillax end otherwise : when case 1520 : chillax end; output "a"; pop end end main : chillax end

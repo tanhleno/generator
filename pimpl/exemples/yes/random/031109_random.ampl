@@ -1,0 +1,1 @@
+program a : r6ja : takes Jy, U : integer array returns nothing when case false and 5 : do K5Ea(1) end otherwise : input nO end end main : input _p40a[- (0 = 9) + not not 07 rem 4210 + true and 83] end

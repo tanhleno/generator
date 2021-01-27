@@ -1,0 +1,1 @@
+program c9 : w : takes g120a, V, P0 : integer array returns nothing r1 : boolean; chillax end main : B : integer; X : integer array; g3l0 : boolean; j, D, m : integer; while - (218) / true rem(8) and 092 - 5 rem not 8 - (2) : chillax end; while - true / 83600 <= - true and 16 or 0 : chillax end; do Hb(false and 3 - 2, 5 < 43100, 970, 93100, 9); pop 7 = 0 end

@@ -1,0 +1,1 @@
+program n : i : takes C, l : integer returns integer e, Y88a : boolean; C : integer; T6 : integer array; chillax end main : X, eT : boolean array; I, o : integer; h_, P : boolean; when case - Ld(89) + (429) rem not 36 or R <= false : chillax end end

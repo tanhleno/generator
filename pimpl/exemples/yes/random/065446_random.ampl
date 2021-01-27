@@ -1,0 +1,1 @@
+program d : n : takes m : integer returns nothing when case(0) and 363 or 6070 < - 9 - 96 : chillax end case - 7 > 2960 : when case 7 : chillax end; input x end; output 7 = 9 end u : takes M9, j : integer returns integer chillax end main : Q : integer array; output "" . - (2) or 9; pop; when case 5 and 78 or 83 > 07300 - 7 : pop end otherwise : chillax end end

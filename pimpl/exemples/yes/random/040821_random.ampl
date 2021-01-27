@@ -1,0 +1,1 @@
+program YX : p : takes tW : boolean array; RqE : integer array; BeJ0a, eV : integer array; RL, s, RK, tO : integer array returns nothing chillax end f9R0a : takes T, c, zn6, vH, kG7a, U8 : boolean; cT : integer array returns integer _T0, dB8a, OG, D : boolean; input h; output "" . "\tfaa" . "" end main : chillax end

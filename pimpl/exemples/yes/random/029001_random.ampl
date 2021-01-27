@@ -1,0 +1,1 @@
+program _ : N : takes r6X0, i : integer array; ro : integer array returns nothing chillax end main : l, X6, E7Na : integer array; when case not not true <= not false + not 953 or 2 : pop end; input b[- false / Q - true or 54 - 468]; pop 7 - 2; output 9 end

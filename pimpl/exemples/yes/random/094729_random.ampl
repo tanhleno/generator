@@ -1,0 +1,1 @@
+program H_ : main : pop; when case - 8 >= - true and 8 : input N[65] end case not 8 and 516 : chillax end case 354 - 6650 >= 2150 : input B8; input V; pop end otherwise : chillax end; while(01) - 02 > 89 - 8 : chillax end; output 5470 end

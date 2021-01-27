@@ -1,0 +1,1 @@
+program Z : w : takes y, Xe : integer array; y : boolean returns integer array output ""; do J(418 <= 42, 9 = 7, 1, 89400); pop 50 end main : while - (69 = 09) rem false / true and 4 : let u = 5 = 038; do V0(1 = 2) end end

@@ -1,0 +1,1 @@
+program T : q7 : takes Fo : integer; qk4, L, on : boolean array returns nothing _, A8r0, n8, pzNa, E : boolean; chillax end main : v, p9 : boolean array; input e[- (5) rem 3 rem not 170]; do g(0 - Cf and 17600 - 41 - 8 >= Y - 98 - 52, - true and 5 + 1); output 6 - 4 . "\"" end

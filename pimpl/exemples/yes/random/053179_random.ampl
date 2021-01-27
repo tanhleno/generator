@@ -1,0 +1,1 @@
+program H : d : takes Af : integer; z : integer returns integer array k, x610a, EO, G : integer array; if6 : boolean array; chillax end jN : takes U9, S : boolean returns boolean array while - 58 - 33200 : chillax end end main : Q : boolean array; chillax end

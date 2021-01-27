@@ -1,0 +1,1 @@
+program Z : main : let iE = array 5 and false * not 2; output - true = - 20; while(1) : when case 05 : chillax end case 40 : chillax end end; do K(- 39 /= 1, 2); pop; when case 5 : pop end case 82 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Uk : q : takes s : boolean returns nothing do qr(y < 20); while 862 = 807 : chillax end end a : takes g5aaa : boolean; L : boolean array returns nothing w, tnp, E, SHsa : integer array; a, g, J : integer; output 32 end main : chillax end

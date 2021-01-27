@@ -1,0 +1,1 @@
+program b : f : takes UU : integer returns nothing v : integer array; let p[- (237) - 3] = 27 - 4 /= 24; when case 00300 : let _q8 = 7 end; while 8 : chillax end; while 0 : pop end; input k; output "" end main : chillax end

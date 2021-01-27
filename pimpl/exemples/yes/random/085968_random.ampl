@@ -1,0 +1,1 @@
+program q : main : F : integer array; B, M : boolean; K, c : boolean array; a6, j, G : integer; K : boolean; output "" . "" . "3\n" . ""; while 01 rem true + (4) and 486 : chillax end; let H[- (06) and 2] = array - 0; when case 25 : chillax end end

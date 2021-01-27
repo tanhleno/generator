@@ -1,0 +1,1 @@
+program o950 : e2Kaa : takes TU : integer returns integer array zd90a, l : integer; l : boolean; q : integer array; chillax end main : _2N0, B : integer array; v, w, h, D, Z, q : boolean array; Z, f : boolean array; Id : integer; G4ca, u, t4O : integer; chillax end

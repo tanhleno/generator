@@ -1,0 +1,1 @@
+program s42 : z18 : takes P0E : boolean array returns boolean G : integer; s190, i : boolean array; k : integer; qE30a : boolean; K : boolean; chillax end main : _3 : integer; TX4a : boolean; let P6 = array 12 * true; let kB[- Qp(5) - q and 1] = (9790) end

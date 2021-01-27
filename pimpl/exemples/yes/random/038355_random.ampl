@@ -1,0 +1,1 @@
+program O : l : takes J0 : boolean array; X, Wg60a, r : integer array returns nothing J, W23, Zt50 : integer; when case not 79800 and 79 /= 92 : pop 7 end otherwise : let en = 7090; pop; pop end end main : C : boolean; b : integer; XK : boolean; chillax end

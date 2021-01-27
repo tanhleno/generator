@@ -1,0 +1,1 @@
+program A : s1 : takes r : integer array; HCNa, a, k : boolean array; KA, y : boolean array returns nothing while(97) /= 87600 : do O(28, 3530) end; let AC = array 3 - 4 end main : M5, BK, XK : integer array; chillax end

@@ -1,0 +1,1 @@
+program b6 : W : takes P, x, AQ : integer; l : boolean array returns nothing X2, w2xa : boolean array; V3, d : integer; chillax end J : takes cVP0, Rr30, rC, Zr, Z00 : boolean array; g : boolean array; x4A : boolean array; f0 : integer returns integer array chillax end main : do T6c0a(true rem 1, s79(9) or t6 and 2160 <= (6), 76 > 07800 - 89800) end

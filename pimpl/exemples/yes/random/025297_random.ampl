@@ -1,0 +1,1 @@
+program k3 : C : takes QXq0, D6 : integer; MSz, Fk80, O : boolean returns nothing when case q2 and 74 : chillax end case - 9500 - 8510 = 66 : when case 14000 : chillax end; input sDQ end case 5 = 09 : chillax end end main : output "" end

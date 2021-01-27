@@ -1,0 +1,1 @@
+program ec : Y : takes w, TV40a, k : integer returns boolean p, D7, Y : boolean array; pop end _ : takes jM : integer returns boolean array chillax end main : do st0(not h and not _8v or V(45500) and I or not 4 + 02900 - 0) end

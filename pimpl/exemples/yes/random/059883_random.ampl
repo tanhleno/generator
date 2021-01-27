@@ -1,0 +1,1 @@
+program x : S : takes R4 : integer array returns nothing chillax end L : takes N : integer array returns nothing when case 30 - 6 : output ""; input zW50; pop end otherwise : chillax end end main : GQPa, I6, z9 : boolean array; Ht8, E, r : integer array; pop end

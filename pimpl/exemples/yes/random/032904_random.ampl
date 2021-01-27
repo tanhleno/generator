@@ -1,0 +1,1 @@
+program R : L : takes orx0a, I : integer returns nothing Mtp : integer; while - 2 + 1 : do Q(1) end end Ljn0 : takes A, Kg : boolean returns integer chillax end M : takes Y90 : boolean returns boolean k, VL : integer; chillax end main : Y, E99, o840, sz : integer array; let FQ[- 021 + 492 / true or 2 and 62000] = 40 / false and 62 - not 67000 and 5 = - J4Ma end

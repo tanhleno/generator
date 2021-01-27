@@ -1,0 +1,1 @@
+program gK : Q : takes H6 : integer; h, M : integer array; g : boolean; wq6aa : boolean; N, g, E, S0 : integer; Z3W, kD0 : boolean array; f, Ya0 : boolean; u : boolean; T : boolean returns nothing e, m52, Hd, k960a, y81 : integer; V, Z42, B9 : integer array; Gb : integer; let y1[- 7 and 2] = 010 end main : chillax end

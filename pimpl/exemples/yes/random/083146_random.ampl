@@ -1,0 +1,1 @@
+program W : main : C8Baa : integer; v6, T4u, UuCa, F, C6X0 : boolean; kW : boolean; q : integer; x : integer; j310, s : boolean; let f[false - o3(7) and true or false - 7 - 2] = array true; let X4Vaa = not 7 - 932 - 95 <= 0 - 7; output "" . "<E" . "9{" . 6 . "9"; do v(0 - 5, 2 = 5); when case 961 = 034 : chillax end case 2 : chillax end otherwise : chillax end; input _ end

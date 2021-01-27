@@ -1,0 +1,1 @@
+program H : main : do JR(true, - Ln0a(52) rem true /= true and 3 - 320, not 3, - 6); when case(0) /= false and 2 : output 6 . "\\"; while 9 : chillax end; let g = 36700; while 81 : chillax end; pop end end

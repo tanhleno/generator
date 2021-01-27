@@ -1,0 +1,1 @@
+program NkA0 : G5C0a : takes L, d : boolean array; R, c : boolean array; Ri : boolean array returns nothing e6, f, h3 : boolean; S8, k, m, j : integer array; p, h, f39aa : boolean; chillax end main : B0 : integer; E40, N9 : integer array; while - not true and false <= - 0 / t - OY80 and 2 + 208 - 5 : do F(957 - 426, 55) end end

@@ -1,0 +1,1 @@
+program TYo : f : takes T, j, boS, Rw : integer; BU, ALsa, b : boolean array; Kc, n41, g, EBIa : integer array returns integer array g, E1 : boolean; chillax end main : q8 : integer array; _ : boolean array; n, U, OmA, USE, Y : integer; uz : integer; E, yH8a : boolean array; j, h620 : boolean; m : boolean; chillax end

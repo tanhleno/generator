@@ -1,0 +1,1 @@
+program O4 : e : takes bj1, q : integer array returns nothing M, EkF : integer array; y3Oa, _6, wo, l : integer array; when case - (3) : while 7 : chillax end; do nb(3); pop end otherwise : chillax end; let M = 5460; when case 150 = 978 : chillax end case 4 : pop end case 95900 : chillax end otherwise : pop end end main : input P; do Y(- (1) >= false, 87 and 9, - 3 - 2) end

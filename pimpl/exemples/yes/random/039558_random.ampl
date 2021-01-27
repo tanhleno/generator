@@ -1,0 +1,1 @@
+program Bc : w8M0 : takes ffW : boolean array; p : boolean; jf6, Sp : boolean; OTBaa : boolean array returns integer array lB9, p : boolean; chillax end main : input V4[false / (22) or true and Wk3aa - l and 7 + 908 - 0] end

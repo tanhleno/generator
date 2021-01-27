@@ -1,0 +1,1 @@
+program L2l : v : takes e0X0, u : integer returns integer array c1, I91 : boolean; d : integer; let r = array - x end z : takes O, kO : integer array; N : boolean array; X0, q : integer array returns boolean chillax end main : chillax end

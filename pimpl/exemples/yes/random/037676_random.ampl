@@ -1,0 +1,1 @@
+program C : _470 : takes pe : boolean array; J, h, R1, j8, N : integer array; T : integer returns integer array I : integer; S, s : boolean; z, bOD : integer array; when case - true : chillax end case - 2 - 47 : chillax end case 8 = 9 : pop end case 6 : chillax end case 1 : chillax end; pop 2 = 80600; do s(9 = 084, 1, 1); let N8w[0220] = array 4; pop end main : chillax end

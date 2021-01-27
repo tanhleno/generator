@@ -1,0 +1,1 @@
+program r8w : qR30a : takes h_, k3l0a, H : integer returns boolean do y(- false or 9 - 3); input Ci7 end A : takes wz4, uV4 : integer; O, k, fTYaa, o, R48aa, W : boolean returns boolean array chillax end S : takes qaf0a : integer array returns boolean array chillax end main : chillax end

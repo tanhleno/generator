@@ -1,0 +1,1 @@
+program w : v41 : takes QdX0 : boolean; Y, w : boolean array returns boolean chillax end Lo : takes e : boolean array returns nothing let s0[- 7] = array - 1 end main : pop not false / kC + (285) and 93900; output "" end

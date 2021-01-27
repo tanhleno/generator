@@ -1,0 +1,1 @@
+program J : main : T, GMX : boolean; when case - 6 * not true * L : chillax end case - false / (38700) <= false and 1 : let r[076] = array 5; input z[26] end otherwise : chillax end; output "7" . "2" . 0 = 7; output "7N\""; input H2; do a(6, 1, 3); let J[6] = array 5; let CIW = 29; while 0 : chillax end end

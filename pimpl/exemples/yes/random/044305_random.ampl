@@ -1,0 +1,1 @@
+program p : nz : takes m52 : boolean array returns nothing O, ea5 : integer; JG, ej, M : integer array; chillax end kD : takes D : boolean returns nothing do x(994 - 48700); while 7 : chillax end end main : pop x(28500) or G0 or 869 end

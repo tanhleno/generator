@@ -1,0 +1,1 @@
+program h : XHb : takes j9 : integer; O : integer; ex : boolean returns integer nj, i0 : integer; pop; while 3 - 5 /= 07 : when case 779 : chillax end end end main : BPC, S, G : integer array; YU5aa : integer array; Xg : boolean; chillax end

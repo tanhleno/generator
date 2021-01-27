@@ -1,0 +1,1 @@
+program A1 : main : EX80, T, u0, a4 : boolean; xF6, MWY : boolean array; g : boolean; Ci_, U, Qi, Z : boolean; output "A2\"" . - dx2aa - 53 - 739 <= - 7 - 127 . 79 - 1 < 3 . ""; when case - true / X and 2430 : chillax end; output "" . "" . "y3!" . "~\t\"" . ""; do R76a(- 745); while 68 = 4 : chillax end; while 06400 : chillax end end

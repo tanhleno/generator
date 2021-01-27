@@ -1,0 +1,1 @@
+program F : z9P : takes i2M0a, x8 : integer; k : boolean array returns nothing WW : integer array; D41, R, F70, W : boolean; chillax end main : c : integer; Q : integer array; A, t, RE : integer array; pop; when case - 1 rem true : chillax end case not 02 + 7 - 7810 : while 2 : pop end; input s38 end case 1 - 8 : input _6 end; do M(- (19)) end

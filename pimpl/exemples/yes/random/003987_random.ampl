@@ -1,0 +1,1 @@
+program M : G : takes Au, m330a, L, k, o : integer returns integer array chillax end k : takes m : boolean returns nothing o82, a0 : integer; p9, C, dk : integer; a : boolean; chillax end N : takes I : boolean returns boolean array chillax end main : z, Wx : integer array; input g[- not false * 11 * M and 169]; output "M" end

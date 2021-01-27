@@ -1,0 +1,1 @@
+program n3 : dp7 : takes g : integer returns boolean chillax end S : takes H : boolean returns nothing do L0B(1 - 11 /= 6); pop 9 end U : takes X8 : boolean array; D06 : boolean array; _, a : integer array returns nothing while 19100 : chillax end end main : let m = array false * false; do j(false rem true and 4, true + 8 - 8 < 65 - 44) end

@@ -1,0 +1,1 @@
+program Oc : O : takes S : boolean; V8Y, Pr, O : integer array; T4Z : integer; g : integer array; __, Q0N : boolean returns nothing chillax end main : R : integer; do Ef1a(7 / not(9) + 5 and not 0) end

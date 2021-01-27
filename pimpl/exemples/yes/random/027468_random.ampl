@@ -1,0 +1,1 @@
+program X63 : WC : takes GT1, F : integer array; x4, n, yF0 : integer; q6 : integer array returns integer GdW0, U2 : boolean; x : boolean; p, W : boolean array; A470 : boolean; A : boolean; ZF : boolean; chillax end c : takes wE, y : boolean; Wg : boolean array; S : integer returns boolean chillax end main : let G[- not true / false] = array - (5) or w(68200) - 7 or 889 - 22 end

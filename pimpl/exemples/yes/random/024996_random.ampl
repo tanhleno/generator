@@ -1,0 +1,1 @@
+program Y3 : x : takes T290a, X4 : integer; d27a, g3Ua, Y, R, r : integer array returns boolean array do Y0C(- s840 and 5 or 56); while - 69 : chillax end end main : j, h, s6, g9 : integer array; chillax end

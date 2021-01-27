@@ -1,0 +1,1 @@
+program U : pY20 : takes h : integer array; C41 : integer array; s3 : integer returns nothing sO4, X : boolean; kT : integer; chillax end main : Fl : boolean; input k[- (2 = 9) or 6 * L]; input U end

@@ -1,0 +1,1 @@
+program XYD : main : while i[608] <= false : input k end; when case true + 3 < - not 59 - 33 - 1 : pop end case - _Z and 3310 : while 99 : pop end end case - 3 : input y end otherwise : chillax end; pop 2190 - 31; output 342 . "7|" . "p" end

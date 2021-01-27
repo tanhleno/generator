@@ -1,0 +1,1 @@
+program c4 : main : R, r : boolean; while mO = - 5 and(8) and 34 : chillax end; let T = false <= - 5 - 6; when case - 4 <= - 7 - 331 : let r92 = array 32500 end otherwise : chillax end; while - 308 > 08 : chillax end; while 7 = 2 : chillax end; do x(0) end

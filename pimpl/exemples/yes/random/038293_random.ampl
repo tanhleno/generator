@@ -1,0 +1,1 @@
+program N : pQ : takes kt6 : boolean array; YE5, ky, s1_0 : integer array; p : boolean array returns boolean array chillax end f9 : takes aeo, g : integer returns nothing chillax end main : let _[- z6(1)] = - false or(0) or 980 >= not 2 end

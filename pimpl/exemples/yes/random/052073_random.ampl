@@ -1,0 +1,1 @@
+program R : Yv : takes iin : integer; a_00a : boolean array returns nothing T830a : integer array; a, R9E, S63a, uw2 : boolean array; chillax end main : when case true and false rem not 0 or cyZaa[8] + 6 or 32 : chillax end case false / true and 64 + 4 - 0 /= not 1 : chillax end otherwise : do zx(9 = 7); do r(6, 2); input g5; output "68aa" end; input y410[- not 3 and false] end

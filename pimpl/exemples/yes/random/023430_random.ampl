@@ -1,0 +1,1 @@
+program s : a : takes C, q8 : boolean returns integer array do EP(- false + 1000 /= - 76 - 65100, - 88 /= 21, 1, 4) end g : takes J : boolean returns nothing do c(465 - 343, 3 = 79100) end main : U070a, J1, _0, UU : integer array; uF : boolean array; chillax end

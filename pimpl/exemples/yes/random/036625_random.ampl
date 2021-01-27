@@ -1,0 +1,1 @@
+program z : O : takes m : boolean; P : integer; Dl : integer returns boolean input v[- false]; let OU2[2 - 4] = 1730 = 0; when case 5 : chillax end case 4 : chillax end otherwise : pop end end main : s : integer array; chillax end

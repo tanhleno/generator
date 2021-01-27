@@ -1,0 +1,1 @@
+program D : p : takes s6 : boolean array; H : boolean; iZ, p, m : boolean; o8 : boolean array returns nothing Om : boolean array; input o8[- true - 19]; output "" end V3 : takes u, _3, i : integer returns boolean while 2 - 2 : chillax end; do F0(78100, 90) end main : k : integer array; pop true + 130 + 61 - 5 end

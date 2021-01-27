@@ -1,0 +1,1 @@
+program O : PQ : takes eC4 : boolean; r6o, n : boolean array; _A, e, S0 : boolean array; Z, em3a, T, Z, I2 : integer array returns nothing IG, Y410a : boolean; n : integer array; k, r0 : integer array; chillax end main : S : integer array; Jx, Q6, G : integer; S, G, K1A, ax, ov70a : integer; chillax end

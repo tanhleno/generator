@@ -1,0 +1,1 @@
+program t : main : u9I : boolean array; when case true : do tN(- 69700 - 2 <= 82, 647 = 38) end case 25 < - l : chillax end case - false : chillax end; when case(8060) < 7 : chillax end case - (7) and 49 /= - 15000 - 93 : when case 72300 : pop end case 0 : chillax end otherwise : chillax end; input p; output "9~" end case - 7260 - 9 : chillax end case 5760 : chillax end end

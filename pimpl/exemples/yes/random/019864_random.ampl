@@ -1,0 +1,1 @@
+program b : wd : takes Q_7a, KS5 : boolean array; O : boolean array; y, I : integer array; tv4 : integer array returns integer v : boolean array; F : boolean; do Te(8 or 206 /= 527 - 5060, 4 > 7) end main : xDia : boolean array; chillax end

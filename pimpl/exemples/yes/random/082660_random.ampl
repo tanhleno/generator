@@ -1,0 +1,1 @@
+program q : main : ISAa : boolean array; when case - (50000 = 4) < - s7Y0(93) * 1 and 98 or S : while - 07700 - 756 /= 34300 : output "" end; let U[9] = 2; output 48 . ">" end case - m3D(29500) + 61 : let y[2] = array 7 end end

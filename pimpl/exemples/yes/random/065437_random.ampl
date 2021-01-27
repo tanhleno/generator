@@ -1,0 +1,1 @@
+program F3 : g : takes z3e : integer returns nothing pop 02600 - 447 end main : while true : input zCm[0]; when case 2 : chillax end case 9 : chillax end case 4 : chillax end otherwise : pop end; input BXe[41100]; do P(1) end end

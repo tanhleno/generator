@@ -1,0 +1,1 @@
+program _0 : main : f : integer; g5, I8, qK50a, k, h, U90aa : boolean; Gu, T, A020 : boolean array; do zqD0a(- true rem true * (42300)); when case - 893 : do f(56 = 3) end otherwise : chillax end; when case - true - 8 - 2 : chillax end otherwise : chillax end; while 19 - 087 /= 334 : input a5 end end

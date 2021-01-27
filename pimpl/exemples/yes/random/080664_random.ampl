@@ -1,0 +1,1 @@
+program D : main : m : boolean array; do TL5aa(- not false /= - false - false + 22 - 900, not q rem L4 <= - false and 411, A and 7 = 9 - 1470, 5 - 50 = 5, 6 = 4, 671, 1); while - 309 <= - w or 752 : chillax end; pop; while - 9 - 8 : pop end; pop 185; while 6 : pop end; while 49 : chillax end; output "/$0a" end

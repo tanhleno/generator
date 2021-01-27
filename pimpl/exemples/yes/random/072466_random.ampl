@@ -1,0 +1,1 @@
+program e : main : p0, F78, X9X : integer; output "!" . "\\30" . ""; when case - Q2(4) or(2) and 3 or 31 - 6 = - (7) and 750 : do O2(7 = 383); when case 24 : pop end case 6750 : chillax end otherwise : chillax end; let j3 = 11; input Fh end case - (44) or 3 >= 329 : let i[8] = 5; when case 5 : chillax end; while 9 : chillax end; pop end case 7 <= 8 : chillax end end

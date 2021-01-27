@@ -1,0 +1,1 @@
+program HjW : _ : takes vdRaa, S : integer array; bZB : integer returns boolean B9x : boolean array; s45aa : integer array; output - 87 > 2 . "" end main : b : boolean array; a, q : boolean array; chillax end

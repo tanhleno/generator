@@ -1,0 +1,1 @@
+program t : V : takes gq : integer returns boolean array chillax end j : takes flFaa : integer array returns integer _A60a : boolean array; do x(4); let V[60000] = array 1950; output 0 end main : K : boolean array; chillax end

@@ -1,0 +1,1 @@
+program k5C0a : _ : takes u7n0 : integer; D1J : boolean returns integer do L(52300 and 1030 + 21 /= - 09, 9, 1 = 6, 1, 1); while 7580 - 94 = 68 : input uDW; pop; pop end end main : when case i3 rem m[2] * true + true > - false - false and 0 + 52 - 449 : let O = 5 = 4; pop 088; do F(29, 75); let a = 11100; output "" end end

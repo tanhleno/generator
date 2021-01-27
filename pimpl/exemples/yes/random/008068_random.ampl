@@ -1,0 +1,1 @@
+program wK3 : I : takes om, F, O, K : integer returns integer array w : integer; d, ZM4 : boolean; chillax end Q : takes _3, m0 : integer array returns boolean array x, y, s, p : boolean array; P : integer array; output "" end main : chillax end

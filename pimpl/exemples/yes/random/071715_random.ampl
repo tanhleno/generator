@@ -1,0 +1,1 @@
+program _ : main : I, v, b : boolean array; v5 : integer array; U : boolean array; while - s - not true / true and 7 /= 056 or(0) and 9 + 11 - 21200 : when case - 6110 - 7 : let T = 0 end otherwise : when case 60 : chillax end; pop end end end

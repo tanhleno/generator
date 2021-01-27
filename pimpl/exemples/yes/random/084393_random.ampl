@@ -1,0 +1,1 @@
+program n : main : leu : integer; Q3S0a : integer; while - not 4 >= - true / false and 6 or not 7 and 785 : input W end; when case - 6 : pop end case 4710 or 6800 - 7 : output "\n8\"a" end otherwise : chillax end end

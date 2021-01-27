@@ -1,0 +1,1 @@
+program e : mg10a : takes Z : boolean array; D, u : boolean array; s, U : boolean array returns integer do e((416) and 1 + 0 - 9 >= - 8 - 21, - 947 <= 1); while - 2 - 1 : pop; when case 6 : chillax end end; output 0 . 4; let l24[9] = array 3; output ""; when case 68 : chillax end end main : chillax end

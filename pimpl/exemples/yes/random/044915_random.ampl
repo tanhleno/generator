@@ -1,0 +1,1 @@
+program F : H8 : takes U : boolean array returns nothing T8e : integer array; when case - (8) and 163 - 02 : chillax end; while - 8 - 30 : let g = 4 end end p : takes z, mE : integer; I : integer; cA : integer returns boolean pop; while 2 : chillax end end main : while - not m(0) : chillax end end

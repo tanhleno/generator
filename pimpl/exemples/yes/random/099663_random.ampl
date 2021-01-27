@@ -1,0 +1,1 @@
+program DV : main : while 6 - KK(4) rem not 141 and 2 - (7) or 0 : chillax end; when case true > - false and 46 : while 2 : pop end; do B0(3, 4); when case 51 : chillax end; pop end otherwise : pop end; when case n or 940 - 6 > - 6 : chillax end otherwise : chillax end; do u(- 3270 - 54 < 8070, 4); when case 9 = 92500 : chillax end; pop; do N8(44900); let f0 = 3 end

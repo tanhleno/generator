@@ -1,0 +1,1 @@
+program B81a : G0w : takes jS, mwU, lyDaa, qWI : integer; f : integer array returns nothing chillax end main : W1l : integer; z04 : boolean; w : boolean; do F280a(7 rem 09 * 10300 and 470, - 4 - 104 and 2 or 4 - 0, - I6 + 6 - 06, 1); output 792 and 60 + 8 . "" end

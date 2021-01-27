@@ -1,0 +1,1 @@
+program y : main : K7 : integer; o : integer array; Dx, F, c, B : boolean; do C7(q[607] >= - _8(3) rem cy and 93 or A - 5, 1, false + 6 - 85); when case - S(2) / false and 8 : pop; do c(6, 8); while 5 : chillax end; do wS(23) end case - false and 9 : chillax end case 86 - 96500 /= 1 : chillax end otherwise : chillax end end

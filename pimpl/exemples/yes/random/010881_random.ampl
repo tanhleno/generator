@@ -1,0 +1,1 @@
+program M : j : takes JGT0a, e, Tdk : boolean array returns integer array while - false - 94 - 0 : pop; pop; let R92 = 313 end end main : y12 : integer; m1, Y, b, a41 : integer array; t, g : boolean; C : integer; N410 : boolean; while 0 * false rem not 3 and 90 + not false * (5170) : chillax end end

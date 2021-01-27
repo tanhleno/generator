@@ -1,0 +1,1 @@
+program n6C0a : main : m : boolean array; while(5) and(2) / 4 and 834 or HAF0[76] / Fp9 <= 325 : while 27 : output ">\"aa"; let N4k = 8; pop end end; pop not 6; input mgp; output "+\naa"; pop 1150; let _[6] = 1; do i(1100); output "S9"; pop end

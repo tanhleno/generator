@@ -1,0 +1,1 @@
+program g9h : main : when case - true rem true and false and 9 >= - true * true : input _[1] end case - Fln : chillax end case(25) and 3 + 14 - 9540 : do _9(3); let U = 26 end case 76 - 4020 : chillax end otherwise : chillax end; do L(- 5440 >= - not 35 - 0 - 0) end

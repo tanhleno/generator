@@ -1,0 +1,1 @@
+program tT20a : F : takes T : integer returns integer array chillax end C290a : takes z, A : integer array returns boolean B380a, l, V : integer; Q, qc9a : integer; C, r8o : boolean; gK4 : boolean; chillax end main : chillax end

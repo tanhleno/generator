@@ -1,0 +1,1 @@
+program n : main : do N1Kaa(- not not 91100 / (14500) + C9(34) and(2810) and 93, not not 43 <= - 34300 + 9980 - 500, false = - 81 - 4, - 57 - 024, 35900 = 9); while - false or true and 31600 - 6 - 3 : chillax end end

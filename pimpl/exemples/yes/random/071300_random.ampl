@@ -1,0 +1,1 @@
+program v : main : R, C280a, U : boolean; while - q(96) rem not(64) - 4 and true and 1970 = - false / not 427 and 10 - 97 and 3 - 8450 - 74 : chillax end; output ""; when case - true = 2 : output ""; when case 0 : chillax end end end

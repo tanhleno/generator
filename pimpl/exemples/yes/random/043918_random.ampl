@@ -1,0 +1,1 @@
+program da : p11aa : takes q : boolean array returns nothing z, Z, m, a, c : boolean; Rk : boolean; chillax end main : Z4 : integer array; A, U : integer array; g, i, sh, Og : integer array; chillax end

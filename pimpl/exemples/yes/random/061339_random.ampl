@@ -1,0 +1,1 @@
+program k : G : takes e : integer array returns nothing let M8[not 7] = - 92 - 282 < 24 end main : let Y = array false; while - o(5340) * true and 05 - true - 4 : let V = 9; output 62; while 1 : chillax end end end

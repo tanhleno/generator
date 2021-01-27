@@ -1,0 +1,1 @@
+program q : s_ : takes F : integer returns boolean s : integer array; B5 : integer; T : integer; Gq2, _8faa : boolean; z : boolean; let H = - 58500 - 73 >= 59200 end v2 : takes s1, c1 : integer array returns integer array when case - 72 - 1 : chillax end end main : C : integer; chillax end

@@ -1,0 +1,1 @@
+program t : U : takes k, o : integer returns integer array when case not 24 and 7 + 934 : let _5Ba = array 6; while 172 : chillax end; let I = 00 end case 3 >= 9 : while 6 : chillax end; input l; pop end case 6 : output ""; pop end; when case 01 /= 0 : chillax end otherwise : chillax end; while 477 = 1 : pop; pop end end main : chillax end

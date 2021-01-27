@@ -1,0 +1,1 @@
+program nN : C : takes p, jLQ, H1Ya, b, LF, w : integer array returns integer array let Z9 = array(508) end main : OIs : boolean array; u : integer array; let x[- NC[2] and 7 * true + false / p and 005] = array(29 = 8) / 019 and not 9; while not not 393 : chillax end; pop 4 - 6; while 695 : output "" end; output "" . 6 . "\"" end

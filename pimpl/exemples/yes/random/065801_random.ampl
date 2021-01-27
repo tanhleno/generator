@@ -1,0 +1,1 @@
+program _9 : main : do W((6 = 21) rem not true and not 4 and 7 - 9 rem not 4 - O or 0 - 3, true rem(75) and 4); when case true + false and 000 < true : output "" . 04700 . ""; let B8F[52] = 8; output "ZOa" end case(1) >= 17 - 4 : chillax end case - 3 - 6 <= 00 : let N42a = 5 end; pop end

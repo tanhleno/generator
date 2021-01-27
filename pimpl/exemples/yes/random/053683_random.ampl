@@ -1,0 +1,1 @@
+program Z : O5_ : takes Wz : integer array; XN, h, NQ8, X : boolean array; GQ : integer array returns integer array while - false : while 8 : pop end; when case 4690 : chillax end end end main : chillax end

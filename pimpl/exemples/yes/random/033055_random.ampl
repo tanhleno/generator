@@ -1,0 +1,1 @@
+program a : D5 : takes v, v : integer returns nothing output - 4910 - 3 > 29800 . ""; output "" . 1 end v3 : takes z, A : integer; E0, L, o, f : boolean returns nothing N61aa : integer; let Q[- 72] = 9 end main : A6V0a : boolean array; pop not N9 and not 27800 and 8 end

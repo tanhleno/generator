@@ -1,0 +1,1 @@
+program so : main : z : boolean array; z9u : boolean; X, GdS0a : boolean; when case - K(4, 4) rem not true * (5) and 70 - true and not 6 >= - true or 749 : chillax end case - true or m8 and 02 or 7 - 0 > - yx90 and 2 + 791 - 82 : chillax end otherwise : input r[0]; output 25 . "_"; let f = 816; let keHa = 9 end end

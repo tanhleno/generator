@@ -1,0 +1,1 @@
+program b3 : main : do l(b0(3, 17200) - false * d); when case - not true or true and 35 : while 28 : when case 7130 : chillax end end end case - 280 and 38100 : chillax end case 4 - 66 : chillax end otherwise : chillax end; input P88a[- not 8] end

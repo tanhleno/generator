@@ -1,0 +1,1 @@
+program i : s3 : takes n : boolean array; Yi, rLy0 : boolean returns nothing hjYaa, f7 : boolean; X98 : integer; k7W0a : boolean array; iEf0 : boolean; when case 9220 and 88 : let d[3] = array 15; when case 0 : chillax end end end main : U, I03 : integer; chillax end

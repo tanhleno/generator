@@ -1,0 +1,1 @@
+program wz : S : takes m4, ba3aa, K1 : boolean array returns integer z : integer; while kr and 10 or 12 - 1 : chillax end end A : takes j : integer array returns nothing output 3 . 9 . 04600; do j(68 = 7) end main : pop; pop end

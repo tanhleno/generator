@@ -1,0 +1,1 @@
+program j : main : when case - false / false rem not 7820 : chillax end case - (6) and false + false - 3 - 042 : chillax end otherwise : output 895 . 035 . "" end; do I9i(- true and true); while - (2) : while 553 : pop end end; let f[6] = array 1 - 7; let d = array 8; pop end

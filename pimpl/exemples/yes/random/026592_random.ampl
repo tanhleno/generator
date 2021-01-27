@@ -1,0 +1,1 @@
+program ZRbaa : h9 : takes UNW0, IQ : integer; dX : integer; xu : integer array returns nothing W, cv3, m : integer array; o60aa, IPi0 : boolean array; wg : boolean; bd : boolean; let ua[true - 5440] = array - 6610 and 7 or 1; pop end main : input e1l; let KI[- V(83) / false and 2] = (23) and 4 = - 6 - 3 end

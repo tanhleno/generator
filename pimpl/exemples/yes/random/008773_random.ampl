@@ -1,0 +1,1 @@
+program E : h7 : takes D, y, K : boolean; q4, V : boolean returns boolean array yLk0a : integer; B, O : integer; j : integer; chillax end main : let mnL[(8 = 2) - not false rem not 499] = not true end

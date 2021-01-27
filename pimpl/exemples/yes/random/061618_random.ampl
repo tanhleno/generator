@@ -1,0 +1,1 @@
+program dB0 : X : takes E_ : integer array returns nothing while - false and 10 + 1 >= - 6 - 8 : input p[22]; while 9340 : chillax end end; input y8 end F : takes j, x, h, D : boolean returns nothing chillax end main : B, Po, S, s2, IO5aa : boolean array; chillax end

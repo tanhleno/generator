@@ -1,0 +1,1 @@
+program g : g : takes o : integer array; G8Xa, C8Qaa : boolean array; i : integer; H, p : integer; s1o0a, Tk, vbO, i : boolean array; _, a, H5 : boolean returns nothing while - not 0 and 06 > 8 - 33000 : chillax end; pop; output "I" . 757; pop; output ""; output "\"%a" end main : K : boolean array; BDtaa, _9 : integer array; chillax end

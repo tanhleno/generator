@@ -1,0 +1,1 @@
+program l : main : when case oR5 + 4 and not 6 - false + 85 = - (7) / true : let oo70a = 7 end case - true = - not 909 and 8 + 8 : do q(4 = 5, 5); let R = 6 end case true and 3320 : chillax end case 4 : chillax end end

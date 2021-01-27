@@ -1,0 +1,1 @@
+program Q : jx0 : takes L3, U, l, d, S3, tZ : integer; X, O, b : integer array; U8, D, Z78a, T : integer returns integer array Y : integer; when case cq8 and 9 or 8 : when case 2 : chillax end case 76 : chillax end otherwise : chillax end end otherwise : do hO(470); while 4 : chillax end end; do P(1 - 5); input D end main : Y04, L : integer array; A4u : integer array; chillax end

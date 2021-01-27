@@ -1,0 +1,1 @@
+program o : x : takes eCs : integer array; MP, sNx0, G : integer returns boolean input V[- not 8 and 69 + 1 - 3] end main : when case false / 11500 + false and true or M or 9 - 11 : chillax end case g(01) rem true and 7 > not 319 : while 21 = 25500 : when case 73 : chillax end end end otherwise : chillax end end

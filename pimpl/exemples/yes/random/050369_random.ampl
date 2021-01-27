@@ -1,0 +1,1 @@
+program G4 : c : takes f : integer; h9, q4 : boolean; A7 : boolean array; F, mGDa : boolean array; v85 : integer; hU : integer array returns integer array chillax end main : pop; while - (0) rem not 04 or true and 3 = - true : let l9Saa[5200] = array 77; when case 631 : pop end case 09 : chillax end otherwise : chillax end end end

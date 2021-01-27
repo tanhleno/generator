@@ -1,0 +1,1 @@
+program rP : v : takes X : boolean returns integer pop 16 - 9 = 4; do Ox7(7 >= 8) end main : zg : integer; F, Brkaa : integer; pM, e : integer; vJ : integer; s : integer; G, o57a : boolean; az : boolean; W : boolean; while - B28 * 154 / (2) and 573 - false or 96 and 64200 : chillax end; let B = array - not G - 9 or 53 end

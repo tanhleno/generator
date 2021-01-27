@@ -1,0 +1,1 @@
+program cKm : gh : takes L : boolean; bV : boolean array returns boolean array when case true and 45 + 7 - 01 >= - 16 - 6 : chillax end case 68 : input D4; pop; pop end case 652 = 5 : do X(4) end case 6670 : pop end otherwise : input uEM; do aW(821) end end main : let m1 = array not 900 end

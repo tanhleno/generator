@@ -1,0 +1,1 @@
+program Tf : DQ : takes p9 : integer returns nothing e, E : integer; do U(- b >= 8 - 98) end main : s : integer array; do Y(- 9 /= (4), w43 or PR and 628 = - (46900) and 27, r6 - 1 - 5, 0 - 3, 21 = 5) end

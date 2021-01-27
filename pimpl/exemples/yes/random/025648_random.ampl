@@ -1,0 +1,1 @@
+program U63a : T : takes e, Y : integer; E73a, A2 : boolean returns integer G : boolean; pop; let c[- 08 - 07700] = 4450 end n4 : takes SA5, D3, i, e7 : boolean array returns integer array w3Kaa, R, f, b45 : boolean array; do n34(3) end m : takes qC, a : integer array returns nothing let wT[61] = array 8; do h(39, 68); while 095 : chillax end end main : chillax end

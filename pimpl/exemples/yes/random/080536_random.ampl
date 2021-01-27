@@ -1,0 +1,1 @@
+program K : main : gl : boolean; while - 5 : input X; when case 88 : chillax end otherwise : chillax end; while 999 : chillax end end; do lsK0((5) * true, 79 or 4, 6 - 25, 4 = 754); while 5 + 306 : while 0 : pop end; input pI end end

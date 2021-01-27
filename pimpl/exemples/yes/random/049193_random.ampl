@@ -1,0 +1,1 @@
+program rP7 : B : takes jm : boolean returns nothing while - true and 0 - 8 > 5 : chillax end; do _(- 93); when case 7 : pop end end zM : takes C : boolean returns boolean array X : integer; input e_40[- 6 - 89] end main : chillax end

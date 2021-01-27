@@ -1,0 +1,1 @@
+program J : main : i : integer; N : integer array; r, Q1, a3paa : integer array; output "19"; do OIj(not not 63 rem true or true and 6 /= (2) and 3, - JA and 04 - 5630 >= - 2 - 7); while - true < 15 - 03 : when case 49 : pop end otherwise : chillax end; while 45 : chillax end end; output 4 = 36 . "\\[0a" . 9; let g6[57] = array 0 end

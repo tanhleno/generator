@@ -1,0 +1,1 @@
+program g : D : takes ZF, s : boolean array; I : integer array returns nothing chillax end main : let u = true or h and 3840 or 442 - 6 >= true; while - true >= false and 809 : chillax end; when case - 0 and 2 >= 39 - 34900 : chillax end otherwise : when case 54000 : chillax end; pop; pop end end

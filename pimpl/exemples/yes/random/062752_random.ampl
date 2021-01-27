@@ -1,0 +1,1 @@
+program N : nD8 : takes Sx : integer returns integer array chillax end r : takes R78aa : integer returns nothing output 3 = 50 end Ne : takes i5, T, l : integer returns nothing chillax end main : chillax end

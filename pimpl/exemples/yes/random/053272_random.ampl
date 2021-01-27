@@ -1,0 +1,1 @@
+program _ : Gvq0a : takes jHxaa : integer; U : integer returns nothing do s(true <= - 1, 02000 - 2, 038 = 7) end Y8 : takes B, jQe0a : integer array returns boolean Yrd, n : integer; chillax end main : nb20a : integer; Y5D0, M0F0, O, nug0a : boolean; chillax end

@@ -1,0 +1,1 @@
+program y6X : q : takes Jy : boolean array returns boolean Q, Y, e5, bR, G : integer array; Z39, t : integer; chillax end main : OM, lY, l : boolean; L, R, lc : integer; m : integer array; chillax end

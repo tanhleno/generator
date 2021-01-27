@@ -1,0 +1,1 @@
+program e : z : takes zvp, lT, V : boolean; C3t : integer array returns nothing chillax end N : takes b6z, T : boolean returns integer array while - 1 - 480 : while 1590 : chillax end; let f_1a = 49; pop end end main : q, vK9aa : integer array; when case 888 = - true or not 1 : when case - 010 - 11800 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program L1 : O : takes S1 : integer; t : integer array; k, w : integer array returns integer array chillax end PBD0 : takes lqA : integer returns nothing T, VZ1, a : boolean array; chillax end main : do Zh5(F rem 1 < - Bx[912] * 1 and 3 or 883, - 4 / (337) = not 0 + 73700); do D(T / i and 6100 + (498)); do oF2((470) and 6, - 73 >= 6560) end

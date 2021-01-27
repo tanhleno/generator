@@ -1,0 +1,1 @@
+program l8Aaa : L : takes V, kf : integer returns nothing pop end X03a : takes AW : integer array returns nothing K, a, l3, B950a : integer array; output "33" . "34" . 38 end T : takes x8 : integer returns nothing output "\"G0a"; output 0 . "4" end main : D, aU, np8, Oq5a : boolean; chillax end

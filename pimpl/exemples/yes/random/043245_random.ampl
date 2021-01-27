@@ -1,0 +1,1 @@
+program u : F2x0 : takes n : boolean array returns integer wC20a : integer; while - N and 87600 : chillax end; pop end b : takes Q, p, o : boolean; w, T0, w, p0, A, m : integer array returns boolean array gZ, X : integer; while 9990 - 6 <= 2 : output "\t%0a" end end main : chillax end

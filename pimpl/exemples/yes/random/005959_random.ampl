@@ -1,0 +1,1 @@
+program n : O1 : takes iDk, A1I, V, f : boolean returns integer array p, TfR : boolean; output - 54; let e[- 4 - 90] = array - 9 - 7; while 9 = 4 : when case 6 : chillax end end end main : P, d5, QJ, H0, H, G, i : boolean array; chillax end

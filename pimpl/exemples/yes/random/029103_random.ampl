@@ -1,0 +1,1 @@
+program S : m : takes Ov, Y3 : integer array; v76 : integer returns integer array when case - (9) + 1 : output 5; output "" end end G : takes A : integer array returns nothing chillax end main : u, L : integer array; HR : boolean array; Q, d8S0a, s4, F, K : boolean array; chillax end

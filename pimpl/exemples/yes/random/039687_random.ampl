@@ -1,0 +1,1 @@
+program N : s7Y0 : takes tR6a : boolean array; UD : boolean; u : integer; g : boolean array returns nothing when case(3) and 5980 + 5 - 0 : chillax end case - 76 - 0 = 66 : chillax end otherwise : chillax end; let I[286] = 59; do j140(27, 8); pop 16900; input c5k; input Z; pop end main : do y0(- false rem true - not 1 + 29, (1) * (5) < not 4 and 75 or 5) end

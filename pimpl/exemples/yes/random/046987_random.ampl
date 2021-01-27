@@ -1,0 +1,1 @@
+program Q8 : U : takes h : boolean returns integer do m((863) and 84 /= - 193) end m : takes T : boolean array; r3 : boolean returns integer array d : boolean array; do k8(8 /= 4, 50 = 467); output 17200 . 8; do x(9) end main : input Pn60 end

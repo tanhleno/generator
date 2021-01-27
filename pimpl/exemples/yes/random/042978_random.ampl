@@ -1,0 +1,1 @@
+program xpX : v22aa : takes W : boolean array returns integer chillax end main : s, e, W : integer; Mz9 : boolean; D, V : boolean; N5 : integer array; input f[- R(6, 19600) / true rem(4220) and 70 + false]; pop end

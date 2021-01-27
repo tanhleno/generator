@@ -1,0 +1,1 @@
+program i : w : takes o : boolean returns boolean hd, a : integer array; chillax end F : takes L7m0, Gu : integer array returns integer array chillax end main : do i(- true and true and 6 and 7 > - (1) * false and 19 - true and 097 + 5) end

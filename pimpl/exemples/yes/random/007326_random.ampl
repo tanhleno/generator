@@ -1,0 +1,1 @@
+program V : o41 : takes S, R, A, bnP : integer array; b : integer array returns nothing w, w : integer; s, X : boolean array; o : integer; chillax end _ : takes B : integer; WzM : integer returns nothing when case - 3 - 34 < 3 : chillax end case 708 = 0 : chillax end otherwise : while 7 : chillax end end end main : when case not S(608) / not not 0 = - true : chillax end end

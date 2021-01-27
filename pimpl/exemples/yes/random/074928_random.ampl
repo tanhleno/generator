@@ -1,0 +1,1 @@
+program n3 : main : _3, u87 : boolean array; P, XA : integer array; m, Pg : boolean; Z, G, y1, ci : boolean; Jyp0a, VT0 : integer; while - (36 = 99) or(25) or ju8 or 0390 - 8240 /= - false : while 6 <= 28600 : chillax end end; do td(- not 96 * false and 57 = not 9 + 70, 2 = 6 - 6) end

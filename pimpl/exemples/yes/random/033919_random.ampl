@@ -1,0 +1,1 @@
+program t62 : lx : takes l3qaa : boolean; E, G, D6w : boolean returns integer array chillax end main : k : boolean; T56, H690 : boolean; output - true + true and 48 or 3 . 4 and 3 or 5 - 7 . - 1160 <= 6 . 6030; output "p" . - 80 . 4 . "8" end

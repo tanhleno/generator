@@ -1,0 +1,1 @@
+program o8 : main : jc : integer; N1i, T64 : integer; U9 : integer; while true <= - (1) + V : when case - 80700 : do Y(1); do q(69800) end otherwise : do sw(4) end end; do mZv(not 2 > - 7 + 5 - 464, - false and 131 - 77, - 0620 - 59 >= 486) end

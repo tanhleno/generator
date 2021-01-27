@@ -1,0 +1,1 @@
+program ot7 : main : r, E74, Z : boolean; Z4, i : integer; b : boolean array; W, uj, O, d2 : boolean array; while J > 0 : output "S"; input DQ; do H(08, 37) end; pop; do O((93) and 5 or 8 - 2 >= 7); let B_[- 19] = array 6; while 8 : chillax end end

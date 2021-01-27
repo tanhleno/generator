@@ -1,0 +1,1 @@
+program Hz9a : main : do wF(false - true - not 11400 and 3 or 9 - 1 > - f[6] and 8 and 59); when case U /= not 73 and 26 : input D5[2]; do d1(1, 1); input o; pop end case - 140 or 8 : pop 8 end; let H6 = array true and 8 end

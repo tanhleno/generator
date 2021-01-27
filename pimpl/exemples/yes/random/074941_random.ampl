@@ -1,0 +1,1 @@
+program m5M0a : main : U, D6 : boolean array; c, b : integer array; x : boolean array; I : integer array; lr : boolean; d : boolean; grB0 : boolean; _ : boolean; input W7; while - true : input b_Aaa[08] end end

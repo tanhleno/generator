@@ -1,0 +1,1 @@
+program c : gs : takes a, Y : boolean array returns nothing a : boolean array; while - (9) and 1850 - 83 - 129 > 97 - 0 : pop 7040; let Qr0 = 5 end; let V[- 963 - 665] = array - 6; input Z; pop 4; while 894 : chillax end end main : let Dfp0a = array - not false / 2 or false end

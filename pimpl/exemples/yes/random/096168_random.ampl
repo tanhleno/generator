@@ -1,0 +1,1 @@
+program W5 : main : when case - not(9) or 2060 * not 464 and 00 = - false or not 16 : chillax end case - not false and 6 or(6) - 8 >= false and 438 + 19 : pop 0 end case 9 and 48 + 9110 - 98 : output "\t8" . "" end case - 879 - 320 < 2640 : input Ot; let D57 = 93 end end

@@ -1,0 +1,1 @@
+program GR10 : JY6a : takes v : integer array returns boolean chillax end main : r : integer; Z, v, Q, Q, v3K, YE : integer; do QV(4 / v / 27 - 611 * (65) or false and 088, - not Dd < 754, - (2) and 25 - 6 - 0) end

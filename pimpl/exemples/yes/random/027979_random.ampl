@@ -1,0 +1,1 @@
+program t770a : x : takes O, _9B0a : integer array; Q, o : integer array returns boolean array chillax end main : while 8 rem true + not true / (066) and 88 <= - bhv[7] - xS and 4 : output "a0" . 0; while 208 : chillax end end end

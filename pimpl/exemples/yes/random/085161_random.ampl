@@ -1,0 +1,1 @@
+program E : main : AL : integer; when case - not true and(1) + false * true - false and 9 : chillax end; let d = array - WW[117]; when case - true > 99 - 1 : chillax end case - 6170 - 55 /= 8 : pop; do z(25); pop end; when case - 2 : chillax end otherwise : while 6230 : chillax end; pop end; let B = 1 end

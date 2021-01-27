@@ -1,0 +1,1 @@
+program W : qmJ0 : takes K : boolean; UF : boolean returns integer array input o7; do f(- 1 - 460 = 5130); input P[540] end main : i, l, ALS : integer array; q : boolean; output "D\\0" . "0Ga" . ""; input O1w[2 and 2]; do R4L0a(true + 5 - 8 = 29) end

@@ -1,0 +1,1 @@
+program rN8 : cII0 : takes J, d : boolean array returns integer chillax end b : takes b, Y : integer; Q7 : boolean array; X : boolean returns nothing pop end E : takes a : boolean array returns boolean array G3f0a : boolean; chillax end main : o : integer; N8I0a, C7 : boolean; chillax end

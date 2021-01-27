@@ -1,0 +1,1 @@
+program D : B : takes on : boolean array returns nothing pop end fI : takes Q, bJ : boolean; er, qj : boolean array returns nothing jB : boolean array; output 9 = 39 end f2 : takes qi7a, Ab : boolean array; D7, x : boolean; x : integer array; TjA, m, E : integer returns nothing chillax end main : bT : integer; chillax end

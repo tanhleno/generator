@@ -1,0 +1,1 @@
+program l2e0a : H : takes _, go, h1t0 : boolean array; WI3 : boolean; oA : integer; q, P : integer array returns boolean r, T, g5, bG : integer; let k5 = array not 86 + 3 - 29400; input V[- 45 - 41] end main : G, y : integer array; w, DD : boolean; while not true and V2[206] / LT and 21 or false or false and 49 : pop 1 end end

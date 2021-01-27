@@ -1,0 +1,1 @@
+program t : x56 : takes P, TQ6a, c5p0, VW8, Hg : integer; ukV, X10, J : boolean returns boolean when case - W and 2 or 8 > - 4 : input gMM0[24]; pop end otherwise : do F(237) end; do wxpaa(1 >= 232, 793, 4); pop 5; do c(19) end Y : takes N : integer array returns boolean do w(- 18, 5 = 40) end main : output 44900 - false + 0 - 43 = - not 41 and 8 . - false and 92 + 71 - 0 end

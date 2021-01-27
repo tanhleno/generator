@@ -1,0 +1,1 @@
+program t2 : GX : takes Ri30, h, B : boolean array returns integer array chillax end h1L0 : takes t, F : integer array returns integer array oc, Q8j, G : integer array; chillax end gZ : takes P : integer array returns boolean output "" . 725 . "" end main : let Lrl0a[- not not not 21 or false and not 5 + not 4 and 29] = array - D(86) end

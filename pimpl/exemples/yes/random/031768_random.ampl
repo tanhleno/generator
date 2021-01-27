@@ -1,0 +1,1 @@
+program I02aa : wp : takes p6, E8 : integer returns integer array n, gT, B : boolean array; Z, _, Y49, na8 : integer; chillax end C140a : takes D7, Zb, G9f, J : integer; z_9 : integer returns nothing let S = array 3 - 11 end main : h, x, u, Cg3 : integer array; chillax end

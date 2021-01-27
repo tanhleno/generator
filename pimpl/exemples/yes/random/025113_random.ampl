@@ -1,0 +1,1 @@
+program S : MK : takes T, U : integer; w, m, jxq0a, W : integer array; x : integer array; n8, h : boolean array returns nothing do T93a(- false and 6 /= 680 - 2); let L7p = array - 9 end j9Haa : takes M : integer array; m : boolean; P6a0a : boolean; R, twz : integer array returns integer array output "" end main : v : boolean; chillax end

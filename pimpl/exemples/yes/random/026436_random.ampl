@@ -1,0 +1,1 @@
+program n1S : h : takes CO, H : integer; H : boolean returns nothing O, _, S, p : boolean; Jv6a, xz : integer array; e99, Z, i : integer; Jx0, u : boolean; do I((84) + 15 - 6 <= - 654 - 52700, 03, 86 = 9) end main : pop - (46600) * not 955 and 9830 or 69 or 40; input Ws; let MG = array g or 3 end

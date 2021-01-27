@@ -1,0 +1,1 @@
+program Ib : main : q : boolean array; z : integer; fU : boolean array; j4, Wx : boolean array; _, u6 : integer; input A; when case not false <= z + 378 - 6 : output "/7!" . 43 . "4" end case - true - 08800 = - 94 - 7 : when case 3170 : chillax end case 8 : chillax end otherwise : chillax end; pop end case 22 - 2 = 52 : do q91(18900) end; pop - 2 - 6; let T = 6 = 133 end

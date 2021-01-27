@@ -1,0 +1,1 @@
+program w : e46a : takes r, B : integer array; o6 : integer returns boolean q, o3, b, qgd0a : boolean array; chillax end main : let p[673] = (2380) rem j > - l and 8 - 84; while - 703 * not 2 > - 24 and 7 + 7 : let j = 4; let N[35] = 3; pop end; pop; output "" . "}\t"; let lk9[7] = array 0 end

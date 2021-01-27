@@ -1,0 +1,1 @@
+program P42 : uQ10a : takes Q8 : boolean array; et, v, AJ : integer array; O880 : boolean; P, R, jZE : boolean; y : boolean array returns boolean array input p[- 66400]; while 1 - 73 : chillax end; let Y6Zaa = 161 end main : while true - w[579] / 57 : input I1[- 0 - 9] end; while not xn : do Jl(6 = 4); input f[844] end; pop end

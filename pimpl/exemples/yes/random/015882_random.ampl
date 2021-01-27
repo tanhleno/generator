@@ -1,0 +1,1 @@
+program K : Z : takes IY, c9, q : integer returns boolean when case not 256 : output "\nl"; output "" end end j : takes a : integer returns boolean i, m, H2, K : integer; e1, A : boolean; pop end main : chillax end

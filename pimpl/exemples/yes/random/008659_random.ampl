@@ -1,0 +1,1 @@
+program X2m : u : takes X, L, Vhr : boolean; L0Xaa, P, w : integer returns boolean chillax end B0 : takes y6, i, g : boolean; U, bv : integer returns boolean array do m(- 22300 - 514) end main : while - J(82) - not false > - false rem false : let _7 = 0 end; let n = (1) and 2 = 65; do E(- not 9 - 3 - 244 < - 9, 8 - 0 >= 76200, 17 = 7, 9, 0) end

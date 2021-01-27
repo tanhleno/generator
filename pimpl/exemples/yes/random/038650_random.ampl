@@ -1,0 +1,1 @@
+program y0Z : D8z : takes c : boolean array; G, k93a : boolean array; c65, L : integer returns boolean while - 8 - 6 - 4 : chillax end; output "" end main : pop - not true * not 86 or not 16 and 39 or 0 < (79); when case - true or true : chillax end; let c = array false - 3; when case 6 - 5 <= 2560 : chillax end otherwise : chillax end end

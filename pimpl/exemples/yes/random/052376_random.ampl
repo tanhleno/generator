@@ -1,0 +1,1 @@
+program v79aa : N : takes Ru : integer; q : integer; h, o, P69aa, q : boolean returns boolean array R : integer array; b, c : boolean array; I, wQn0 : boolean; h3 : boolean; X : boolean; chillax end main : Y : integer; pop v3 end

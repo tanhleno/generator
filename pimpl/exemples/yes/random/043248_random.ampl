@@ -1,0 +1,1 @@
+program Y : Zr40a : takes y : boolean array returns integer ha : integer array; chillax end iD : takes i, w : integer returns boolean chillax end main : when case - 31 and not not 07 rem true = (98) / (1) or L and 6 : chillax end otherwise : while 9 = 935 : chillax end; pop 0; do f(6); while 3 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program K : gf : takes a, o : integer returns nothing chillax end main : ZU, E : integer array; when case - R[7] rem not not 6 - true /= (35) * not 3 : chillax end otherwise : output "U" . 45; let S8[0] = 4 end; while - (3) + true + 6 : chillax end; input M83a[- d and 130 - 3] end

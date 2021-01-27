@@ -1,0 +1,1 @@
+program a : I : takes k : boolean returns nothing do J1(- u and 82500 or 4 > - 591 - 003, - 57 < 64, 352) end mQla : takes j : boolean returns nothing hCZ0, l0, f, E : integer; O, u, a24 : boolean array; pop 7; let DGTa = array 4 end main : chillax end

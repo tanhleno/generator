@@ -1,0 +1,1 @@
+program L : main : q16 : integer array; when case K4 + S(2) / 437 and 67 + (332) or 9 - 63 <= - o * m and 5 : chillax end case false / e7yaa + not 73 and 4 >= - (0) + 5 - 59 : chillax end case - not 218 : chillax end otherwise : output "<W" . 70 . "" end end

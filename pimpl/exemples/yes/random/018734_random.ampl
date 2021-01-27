@@ -1,0 +1,1 @@
+program S : R : takes E, fe : boolean array; V27, Gy, UEN, Iow : boolean array; d, H, qk0, N, j : integer; Hn : integer; sKS, Q3 : integer array returns nothing chillax end H6 : takes Kv3 : boolean array returns nothing w, Z, O, cWI : boolean; do y(2 - 404) end main : z, R3f : boolean array; Y, S, N3, V, m : integer; chillax end

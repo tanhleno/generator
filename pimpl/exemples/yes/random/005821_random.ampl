@@ -1,0 +1,1 @@
+program a : P : takes X, W1r, P, b : boolean returns boolean array g, K : integer array; Y, Q : integer; Qf7aa : boolean; chillax end G5S : takes Y : integer returns nothing M4Caa, l, I3I, L : integer; while - 7 : pop; output "\\"; pop end end main : R, Lz6, EZGaa : integer array; u : integer array; z, XD5, j, P, fG30a : integer; G5, B, L : boolean array; chillax end

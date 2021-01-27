@@ -1,0 +1,1 @@
+program DU : U : takes eC, O7, c8 : integer; m, n, u0, xP7 : boolean array returns integer array while W0 and 6 > 660 : output "\t" end end main : H, jR, K : integer array; m4U, f : boolean array; chillax end

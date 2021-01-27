@@ -1,0 +1,1 @@
+program c9 : h : takes m, rK : integer array; w, H : integer array; x1 : boolean array returns integer array while - (03) and 92 or 3 - 1 : chillax end end T : takes R, qQp0 : boolean array returns boolean array o5X0, I : integer array; chillax end main : chillax end

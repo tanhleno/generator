@@ -1,0 +1,1 @@
+program wk : T0zaa : takes G : boolean returns nothing FCf0, Ay : boolean; when case - true and 572 - 9 - 7 : chillax end; do W(3420 - 82 <= 3100, 8 = 3) end j : takes D : boolean returns boolean V, S : integer; chillax end main : a, k8K0 : boolean array; chillax end

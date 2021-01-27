@@ -1,0 +1,1 @@
+program t : A6s : takes X, kTza, v, z, V3e, z1 : boolean array; Dmt, X, O, L, pG7a : integer; u : integer; A9n : boolean returns nothing U, Gs0 : integer; w : integer; W : integer array; chillax end main : K3, nr5a, h, f, H : integer array; H, O31 : boolean array; input Q6; do d(- B or not 7890) end

@@ -1,0 +1,1 @@
+program i : main : z1 : integer array; tUm0 : integer; do FV(true or(1) / not 79100 and 262 or b and 2 + 8 > - false and not 8940); while - true - true and 0 >= 68 - 56 : while 5 : output ""; pop end; do _9V0a(54, 8) end; output "" . "}" end

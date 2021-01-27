@@ -1,0 +1,1 @@
+program m0 : J : takes o : integer array; F : boolean; i, ncU, m7Qaa : boolean array; sy, S : integer; z, A0 : integer returns boolean array chillax end main : A : integer; ds7 : boolean array; input Y[47 and 278 + false / true and 4 + true and 42 + 3] end

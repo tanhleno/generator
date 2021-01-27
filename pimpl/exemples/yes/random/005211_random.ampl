@@ -1,0 +1,1 @@
+program G0 : t : takes V, G, T, I : boolean array; T31 : integer array returns integer input V8 end T8C : takes Er5a : integer; xNtaa, M, BS5 : boolean array; D : boolean array returns integer k, Q : boolean array; Z : boolean array; O5, g : boolean; chillax end main : while - not not x7 : chillax end end

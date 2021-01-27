@@ -1,0 +1,1 @@
+program c4 : pd0 : takes uy : integer; U7 : integer array returns nothing o, h, x, u : boolean array; m : integer; OC : integer array; C, o : boolean; input CzP end main : input s[- true and true + not 7 and L] end

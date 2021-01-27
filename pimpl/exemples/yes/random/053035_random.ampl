@@ -1,0 +1,1 @@
+program L4 : f : takes Z7Faa : integer; I6 : integer array returns nothing f : boolean; Ua : integer array; PI4, p6r : integer array; chillax end main : g, k : integer array; u7 : boolean array; chillax end

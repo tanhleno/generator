@@ -1,0 +1,1 @@
+program u : e : takes I : boolean array returns nothing chillax end main : n61a : integer array; kT00a, Fj, uAn : boolean array; V : boolean; when case 07 / true rem Rj and 39 = aU[5] / true : let R = 3 end; do VS70a(- 15 > true and 6) end

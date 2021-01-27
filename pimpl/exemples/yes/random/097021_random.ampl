@@ -1,0 +1,1 @@
+program l27 : main : when case h1[41] / not(16) > - true : chillax end; do rsgaa(- true + 69 and 99, not 784 and 9 + 7 >= - 892 - 0820); let z[- (5) and 3740] = - 0; while - 32500 : chillax end; input u07[7] end

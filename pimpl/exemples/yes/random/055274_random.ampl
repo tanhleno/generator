@@ -1,0 +1,1 @@
+program M : F : takes R : integer array; G, e : integer array returns nothing E : integer; Y, GA, G, Du : boolean array; while 01 <= - 1 - 8 : input ca[840] end; do N(- 9 <= 630, 09 = 7); while 0 : chillax end; input q end main : when case - false * true or true + (12) + 0 < 6 : chillax end case true : let l59 = 13 end; while - G[974] : input vh[7]; output "" end end

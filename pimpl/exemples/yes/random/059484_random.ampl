@@ -1,0 +1,1 @@
+program t : U : takes UM80 : integer array returns integer z : integer array; bz : integer; while(20) and 095 : chillax end; when case 0 - 0 : chillax end case 0 = 72 : chillax end; when case 85 : chillax end end main : chillax end

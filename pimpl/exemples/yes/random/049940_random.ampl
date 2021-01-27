@@ -1,0 +1,1 @@
+program X6 : EcD : takes S : integer; X, y, w5z : boolean array returns nothing while - (3) or 78 /= 39 : chillax end end main : V2 : boolean array; when case Lx(936) : while 2 - 57 = 0 : output "9" end; when case 8 : chillax end end case - n(06) < - false and 5240 : chillax end otherwise : chillax end end

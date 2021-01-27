@@ -1,0 +1,1 @@
+program gC6a : Z10 : takes u, o, DR : boolean; e : boolean; d, a, tgY : integer array returns nothing xB : integer; pop end M2Eaa : takes pW : boolean; E, q2, i930, d, fy00, G6G : boolean array returns boolean array when case - 4 : output ""; let v = 5640; pop end otherwise : output ""; pop end; while 86 = 5 : chillax end; output 48 . "9~!"; let QD60a = 4 end main : chillax end

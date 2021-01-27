@@ -1,0 +1,1 @@
+program e : d : takes e0, A : integer returns nothing chillax end L : takes j5, U, X : boolean array returns nothing e7 : integer; j42, G, e : integer; chillax end main : L : boolean; do h(true, true and(37400) and 9850 - true + 2, - 8 + 04) end

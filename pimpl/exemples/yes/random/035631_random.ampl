@@ -1,0 +1,1 @@
+program tM : j : takes A6S : boolean; xi0a : boolean array; A8Z0a, Zz, r2 : integer array returns integer chillax end H1raa : takes A2 : boolean returns boolean array do h(539 <= 927, 5 = 8); while 0 : when case 4 : chillax end; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program o7G0a : main : _1P : boolean array; Iz : integer array; pop - false * Q and 2 < (952) and 04 - 52; pop; when case false + 7 <= 0 : chillax end otherwise : do K(0); do A8(60) end; when case - 4 : chillax end case 45 : pop end case 83 : chillax end case 9 : chillax end otherwise : chillax end; while 0 : let i0 = 4 end; let N[9] = 89 end

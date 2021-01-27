@@ -1,0 +1,1 @@
+program i1 : uE : takes jL, D, Q6, j, r : integer returns nothing while - true : chillax end end Xz3 : takes a85aa : integer; s, e : integer array; P : integer; y, p, o : boolean array returns nothing chillax end main : chillax end

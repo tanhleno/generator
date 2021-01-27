@@ -1,0 +1,1 @@
+program o : main : when case - false rem(13) or(236) and not 21800 and 790 <= 35 * true and 11900 - true and 9 - 87 : output 1 . "1" . ":" end case - 4 and(92) : do pOc0a(4 = 3) end otherwise : when case 317 : input f; pop end end; output false /= 84200; input Y end

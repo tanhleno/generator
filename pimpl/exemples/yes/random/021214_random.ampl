@@ -1,0 +1,1 @@
+program IK20a : k6M0a : takes j, ae : boolean array returns boolean output 1 - 59 <= 9; let j = array - 3 end Qo : takes ER20, a11aa, H : integer array; B, qB9, F : integer array; a : integer array returns nothing let X3[- 5 - 2] = 102 end X : takes gv, NL : integer; T6 : integer returns nothing chillax end main : chillax end

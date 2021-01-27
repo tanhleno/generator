@@ -1,0 +1,1 @@
+program A6 : D99aa : takes i : boolean array returns boolean b : integer array; P : integer array; input N3[- not 5100] end Y : takes h : boolean returns integer chillax end main : BD0, nwp0a : boolean array; chillax end

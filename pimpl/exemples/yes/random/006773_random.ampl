@@ -1,0 +1,1 @@
+program G : hWD0 : takes K1a, S, o, j : integer; A : integer returns integer array E73, k2, j, px2a : boolean; do mD3aa(wK and 0, 04 <= 4) end J : takes x550a, A, XB9 : integer returns integer array Us, K, U4M, bj0 : integer; L, W1ua : integer array; Q5i0, _M6 : boolean; I : boolean; while 3 /= 4 : output "%" end end main : A240a : boolean; u : integer; chillax end

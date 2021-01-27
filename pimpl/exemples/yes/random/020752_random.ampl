@@ -1,0 +1,1 @@
+program oM : IiD : takes f, m : boolean array; m1 : integer returns nothing let x = array - not 8080 + 7720; do ex(4 - 5 = 04, 0 = 991, 01) end main : let P1ja[false rem 8 and not 80] = - not 83 + azz0 < - true; pop end

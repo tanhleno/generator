@@ -1,0 +1,1 @@
+program D : X : takes y, P81aa : boolean; P18a : boolean; O, N : boolean returns integer array chillax end main : V : boolean array; while - 00300 or not J960 rem(66) : while 7 : chillax end; let g[1] = array 3; when case 9960 : chillax end case 0 : chillax end otherwise : chillax end end end

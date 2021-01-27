@@ -1,0 +1,1 @@
+program D : qm : takes iZK : integer returns integer pop 6 - 30 end u : takes S3 : boolean; td8, g, v8 : integer array; p6 : boolean; o : integer; z3 : integer array; as : boolean; K : boolean; pk8a : boolean returns boolean array pz : integer; z29aa, U41 : boolean; output "\n`\"a" . 54 end main : chillax end

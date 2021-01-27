@@ -1,0 +1,1 @@
+program Ig : WrC0 : takes h, u7, pe50 : integer; n : boolean array; VF : integer array returns integer chillax end M : takes co, H : boolean array; E, t : boolean array returns integer array chillax end E : takes M1 : integer array returns nothing output "6"; output 9 . "N\"" end main : v, C4, an70a, TN : integer array; L, u, F : integer array; chillax end

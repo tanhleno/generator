@@ -1,0 +1,1 @@
+program k6 : n : takes G : integer array; D99a : boolean; _m, r, Z : integer returns nothing Ok : integer; I4, uBX0, C7 : integer array; let N = array true and 808 - 7 - 4; pop 6 = 96; pop; let g[1] = array 88 end main : u, Rv4aa, gq : boolean; output "\\W"; input Xs end

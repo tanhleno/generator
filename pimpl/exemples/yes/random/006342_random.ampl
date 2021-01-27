@@ -1,0 +1,1 @@
+program r : nv : takes I, K, g, J : integer; MRP0a, V, V, j65a : boolean returns nothing chillax end ZB90 : takes f5 : boolean array; n1 : integer returns nothing let MG10 = array 3 - 20; do S(07900 = 6, 9770, 665) end main : z : boolean; Y, P, A : boolean; k : boolean; z, k1 : integer array; chillax end

@@ -1,0 +1,1 @@
+program oU3 : N : takes TB, o, P, G, B, p1X, c9 : integer; tNWa, f : integer array returns boolean chillax end L : takes N83 : integer array; sd6, d16, U, K, jh : integer array returns integer o, oS, Y00 : boolean; v, wZWaa, k : boolean; E, S : boolean; u : boolean; o4 : boolean; output 45 . ")o" . 7 end main : chillax end

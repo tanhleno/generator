@@ -1,0 +1,1 @@
+program n8 : main : while 4 and not not 07 * R50a and 3 - true / (1) and 06900 - not 5 and 86 or 8 <= - (6) - (8) + 5 : output "9C0a"; input m end; while - 0 * false and 53300 = GO0a and 6 - 6100 : chillax end end

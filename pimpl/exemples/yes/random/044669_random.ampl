@@ -1,0 +1,1 @@
+program dtm0 : c : takes rULa : boolean array returns nothing I : integer; chillax end d : takes N : boolean returns nothing input _6y; input U; output "\"" end c : takes C5i0, Cr, BB, i, MY : boolean array returns nothing chillax end main : D : boolean; do o(- (3270 = 23), - true * false and 28700 or true < false or 00 - 64, 53 /= 89) end

@@ -1,0 +1,1 @@
+program A : O13 : takes z : boolean array returns nothing chillax end e4 : takes v, K, i, j8 : integer; V : boolean returns nothing pop 99; do m9(28); let x52[919] = array 0; pop; when case 290 : chillax end end main : chillax end

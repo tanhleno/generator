@@ -1,0 +1,1 @@
+program L : main : h4xa : integer; let o1[true] = array not(61) - true; pop; when case - 034 and 001 - 2680 - 079 <= 1 - 34 : chillax end otherwise : chillax end; do EE(19 - 4 >= 999); do G2(6, 315, 7) end

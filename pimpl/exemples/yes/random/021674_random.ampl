@@ -1,0 +1,1 @@
+program Y9Caa : n6 : takes T, Y : boolean array returns integer pG, N45aa : integer array; X6 : boolean; chillax end e71 : takes z, T, p : boolean array returns integer array do Q01(- 03) end Eh : takes Y : integer array; t6haa : integer array returns nothing If2 : boolean; chillax end main : pop; output "P" end

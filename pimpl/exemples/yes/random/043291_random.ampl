@@ -1,0 +1,1 @@
+program j7Q0 : X : takes _ : boolean array returns integer let qtsa = array(55); while 807 - 2 = 4 : chillax end end h1 : takes N : boolean; T : boolean; Z : boolean array returns boolean array o : boolean; output 451 = 1 . 8 end main : a2K0, R1 : integer; input Zg7; input U end

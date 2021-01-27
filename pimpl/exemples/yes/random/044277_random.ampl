@@ -1,0 +1,1 @@
+program nOW0a : Tn : takes A : boolean array returns nothing v2pa, d : boolean array; h : integer array; let Z1 = 547 end main : M : integer array; p, t7 : boolean array; Q : boolean array; chillax end

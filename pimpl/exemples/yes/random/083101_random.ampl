@@ -1,0 +1,1 @@
+program riS0a : main : z : integer; _, Wj3, u, hR, lI8, DP20a : boolean; YB : boolean array; q, p, M94, I : integer array; while - true and 1 + not true rem not 99 + 0 /= - IN(2) : do E98(00, 7730, 32400); let HB0 = 4; output 1 . ""; let j = 1700 end end

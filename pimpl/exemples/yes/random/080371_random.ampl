@@ -1,0 +1,1 @@
+program j : main : mW5 : boolean; when case - not false or(38) > - (54) : let G = 75500 end case(0) * true or not 24 or 08 - 1 : chillax end case P <= - 10 : while 0 : pop end; while 49 : chillax end end; pop; do n(not 9 and 77 + 7, - 4030); when case - 9 = 2 : pop; output "\nJ!a"; pop end; while 36 : chillax end end

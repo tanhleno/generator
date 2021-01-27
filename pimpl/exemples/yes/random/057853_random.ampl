@@ -1,0 +1,1 @@
+program R : Y : takes z8j : integer array returns boolean array T : integer; chillax end J : takes d1, X : boolean returns nothing x : boolean; pop; let B3[93000] = array 1; pop end X : takes A : integer array; v, AN, T : integer array; B20, fZ7a, lV3a : integer; j : boolean returns nothing chillax end main : S7vaa, u7H : integer array; l24 : integer array; chillax end

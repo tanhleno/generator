@@ -1,0 +1,1 @@
+program y : main : when case - false : input S2[- 6]; input x end case - true + 1 + 58800 : let V = 17 end case - true or 5080 >= 5 - 4 : output "e\"" . "\n" end case 3 - 7 : pop; output "" end otherwise : chillax end end

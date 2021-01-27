@@ -1,0 +1,1 @@
+program i : R : takes Nja, yo3 : boolean array; Q : integer returns nothing chillax end C4i : takes n : boolean; p5, U, t : boolean array returns boolean array n3Z : boolean array; when case 86 - 88100 : do s(92) end case 1 : do P(4); pop end otherwise : chillax end; output ""; pop end main : chillax end

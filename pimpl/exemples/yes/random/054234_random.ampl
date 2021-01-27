@@ -1,0 +1,1 @@
+program o : P : takes r : integer array; h, LPa, s4 : integer array; m : integer array; q : integer; Qg : integer returns nothing pop 904 < 7; let oEN[- 3 - 3] = 3 = 31000 end A : takes C : boolean; y4, a15 : boolean; E : integer array; GK, j, M, O2 : boolean returns boolean array V6, i8, S31aa, t : boolean; w, T, z : boolean; D47, k : boolean; chillax end main : chillax end

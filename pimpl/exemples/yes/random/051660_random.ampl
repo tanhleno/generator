@@ -1,0 +1,1 @@
+program v : E5 : takes k : integer; q : boolean array; A, R6K : boolean array returns boolean array input bx[- true]; while 4 >= 4 : do y(5960) end; let a3P0a = array 298; do B7(7, 5); input y; output "" end main : chillax end

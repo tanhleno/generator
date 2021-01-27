@@ -1,0 +1,1 @@
+program X : main : output(1) . "" . 4 . 0 = 604 . 4; let N = - (228) and 4 >= - 302; output "Z"; when case 1 - 75 : output ""; pop; pop end case 5 : output "+"; pop end case 141 : pop end otherwise : chillax end end

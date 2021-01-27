@@ -1,0 +1,1 @@
+program bJ5a : main : h : boolean array; Z, f, d : integer array; p : integer; do I7(not false - true, - false rem true and 33600 + (3) > - uC2, - not 443 and 6 - 3); let n = - false and 5120 + 7270 - 6; while true and 08 or 518 - 83 : chillax end; pop 79 = 1; while 0 = 17 : when case 0 : chillax end end end

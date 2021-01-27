@@ -1,0 +1,1 @@
+program s : main : pop - false / 5 and 6 + true + 612; while(219) + (12) and 5 - 0 = - (47) and 90600 : while 7 : chillax end; when case 8 : chillax end case 9 : chillax end otherwise : chillax end end; do hb(8 and 894 or 8 - 679); let K2[15] = 7; let V[6] = array 0; output ""; do R3p(698) end

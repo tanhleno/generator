@@ -1,0 +1,1 @@
+program r : V4 : takes B, x : integer array returns integer f2K, va00a : boolean; riT0 : boolean; Q : integer; Z390, Z : boolean; Y : boolean; a : boolean; chillax end i : takes o, n0l, P, b1w : boolean; T40 : integer returns boolean N, p, C7D : boolean; chillax end main : output ""; pop; when case true and 6260 = 7 - 8780 : chillax end; pop 6 = 167; do o(7990) end

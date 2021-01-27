@@ -1,0 +1,1 @@
+program H : C660 : takes M510a : integer array returns boolean array do x1Daa(true) end r : takes h28 : integer array; b : boolean array returns boolean array when case 0 < 5 : chillax end otherwise : chillax end end main : let Ok[S14a(8280, 342) * (17100) + i[03] * false or not 84 + 19 - 483] = - not(50) rem v3 and 0 - not 8 + 34 end

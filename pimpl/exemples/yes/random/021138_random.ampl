@@ -1,0 +1,1 @@
+program q : T : takes N6, h : boolean array returns boolean C : boolean; Q72 : boolean array; _, An : boolean array; P, S : boolean; while - not 59 : input O[16] end; when case 8 - 31 /= 756 : chillax end otherwise : pop end; let b = array 99; output "" . "\\" end main : chillax end

@@ -1,0 +1,1 @@
+program gW10 : Wx : takes q1X : boolean array; JDq, L7U0a, E, JPV : boolean array returns nothing chillax end main : do d9(- (0)); do ahj(S = false and 26); when case not 31 and 8 < 3 - 9 : chillax end case - 04 - 2 : input m9i0; output ""; pop end case 0 : chillax end end

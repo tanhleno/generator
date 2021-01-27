@@ -1,0 +1,1 @@
+program x : _ : takes dy6 : boolean array; r : integer array returns integer array output 34 . "e" end main : J : boolean; pop - c6[84] * h and 1 - (7) and 1 + 9; let tM[Q[2] - false + 4 - 438] = array false; input b[(9) - 382] end

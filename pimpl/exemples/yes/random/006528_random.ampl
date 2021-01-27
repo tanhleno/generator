@@ -1,0 +1,1 @@
+program U : N : takes nnmaa, H, P, rZra : integer; x, zo : integer returns boolean array Ta90, y3l, l : integer array; chillax end Qi40 : takes l, V, H, bD : boolean array returns nothing Uu : boolean; I : boolean; iAza : boolean; output 7 = 816 . 6; while 7 = 672 : chillax end; when case 6 : pop end case 8 : chillax end; let L5 = 532 end main : chillax end

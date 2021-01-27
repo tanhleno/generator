@@ -1,0 +1,1 @@
+program j : ff30 : takes cp0aa, n6 : integer array returns nothing chillax end main : do aq7((430 = 83) / 1 - false /= (008) or La); when case - false < 8 : chillax end; when case 32400 >= - 573 - 1 : input f[1] end end

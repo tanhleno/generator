@@ -1,0 +1,1 @@
+program j : main : mZB, h, g, PbE0a, V_ : integer array; Pa3 : boolean; rLt0a : integer array; e, Vo, m1 : boolean array; hy50a : boolean; T : boolean; when case - false * f(54) > 36 or(46400) and 8 : chillax end case(4) < - not 0 - 1 : do _4(2, 237, 61) end case - false and 024 + 4 - 4 : let VN[575] = 77; when case 88200 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program iqq : US4 : takes N29aa : integer returns integer p, sX, ktY0a, G : boolean; P : integer; chillax end W540 : takes en2aa : boolean returns integer array P, YT, r, aEpa : boolean; Q8i0, G0n : integer; pop 6; pop; when case 53 : chillax end; pop end WTRa : takes l23 : boolean returns integer array pg40, p23 : boolean array; chillax end main : chillax end

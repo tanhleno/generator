@@ -1,0 +1,1 @@
+program O : s : takes j : integer array; m4, x : boolean returns boolean array chillax end s7Pa : takes v, k : integer array; x, J6 : boolean returns boolean array KN6 : integer; chillax end main : input e[false * true and 324 or 4 / 9 or false and 9] end

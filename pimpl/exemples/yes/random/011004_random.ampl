@@ -1,0 +1,1 @@
+program B59 : PX5a : takes K, RN8, q8P0 : boolean array returns integer input q[- K and 4440] end main : do J1(c[0] rem 6 and 36900, - true, L1c and 188, - 770); output - 25500 and 2 = 91 . "B" . "" . "/" . "" end

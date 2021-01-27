@@ -1,0 +1,1 @@
+program k10a : main : E4n, v, L, j, Lj6, cC : integer array; DU, D : boolean; v5 : integer array; X, K1, bM, e : boolean; V, F4 : boolean array; x, A6 : boolean; while false rem false * not 47 + P / EK7 - 4 and 2 or 2 - 73 : pop; while 0 = 5 : output "" end; let _WQ = array 2720; let u = 6 end; let gL = array F / not 9 and 72800 - not 5 and 59 end

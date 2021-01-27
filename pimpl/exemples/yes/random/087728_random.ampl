@@ -1,0 +1,1 @@
+program r : main : h : integer array; while Yb70 and false or 7 and false and 51800 or 8 and 056 <= - true or not 94 and 8 : while 6 - 1 : do S(9); while 3 : chillax end; pop end end; while(8) - true and 196 > j and 723 : pop end; while - false <= 59 : output "\n1" . "\\" end end

@@ -1,0 +1,1 @@
+program w : main : w : integer array; U : boolean; b : boolean; U : boolean; K, p1 : integer; g, YX : boolean; let l = array - 4; pop - true or 92 = 63; when case - true > 862 - 49 : input H8o[2]; let r38 = 0 end case 5 - 4 : pop end case 96 : chillax end case 23 : chillax end case 17 : chillax end otherwise : while 4 : chillax end end end

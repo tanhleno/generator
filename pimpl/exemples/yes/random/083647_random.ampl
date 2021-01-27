@@ -1,0 +1,1 @@
+program g : main : H : integer; Rr8aa, P : boolean array; J : integer; hW, V8Ea : boolean; ZZ7, PyL0a, f03 : integer; when case true : chillax end case G[97] * not 50 and 3 <= - (147) and 4 or 54 : input J26[358] end otherwise : output 684 . "" . ""; let H91a = 74 end end

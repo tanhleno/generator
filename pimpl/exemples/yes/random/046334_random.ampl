@@ -1,0 +1,1 @@
+program Y02 : S0Za : takes J1 : boolean returns boolean let PGda[- P88 and 9 + 31 - 3] = array - 17; let Rx[9] = array 92 - 40 end main : T : boolean array; H, I, c51 : integer array; c, y : boolean array; chillax end

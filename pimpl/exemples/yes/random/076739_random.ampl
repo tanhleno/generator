@@ -1,0 +1,1 @@
+program M : main : H8, t : integer; let B[not S(04)] = array s(0360) * true rem not 508 and 7 - (157); while - not false rem false : when case 98 : chillax end end; while - false : chillax end; output "" . 240 . 99300 . "8" end

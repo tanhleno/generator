@@ -1,0 +1,1 @@
+program sG3 : DBQ0 : takes b9 : integer array; M, L, jF : integer array returns nothing O9Raa : integer array; i19 : boolean; Z86 : boolean array; C, P : boolean; pop 99100 - 75; while - 413 > 6 : chillax end; when case 430 : when case 6 : chillax end end case 5150 : chillax end case 9 : chillax end otherwise : chillax end; pop; output ","; input Y4 end main : pop end

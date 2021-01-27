@@ -1,0 +1,1 @@
+program CTp : X : takes Kj, l5, qN : boolean; A0d, k : integer array; w : integer returns boolean QB : boolean; chillax end g0 : takes Y4, uu, VA : boolean returns nothing when case - 7 - 1 : while 06000 : chillax end end; pop 8; pop 2 end main : let cL00[true - NLw[42] * true] = array - (805) * Kd[3] + (0) / wD_aa and 6 + not 7; pop - true and 04 or 5 - 0 end

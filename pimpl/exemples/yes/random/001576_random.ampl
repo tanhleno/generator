@@ -1,0 +1,1 @@
+program q : K2K0 : takes T, m, iu, f, W, t : boolean returns nothing input a; while 174 - 688 : chillax end; output 8 end J : takes PJ : integer; h, v, H : integer array returns boolean input D; do YEC(25 = 31, 963, 138); output 8 . ""; input f end main : Pk : integer array; xP5 : boolean array; bZ, C720, m : integer array; input F[true and y5Laa rem 51700] end

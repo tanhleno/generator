@@ -1,0 +1,1 @@
+program L1 : Yb : takes wO : integer array returns nothing X, u, k : integer; chillax end main : PO7a, jo, k : boolean; J, X0, fD6aa : integer; C3p, p, Ey : boolean; H, Q7, DS, E0 : integer array; X, s : boolean array; do u(- (2) + false / VB) end

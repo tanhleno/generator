@@ -1,0 +1,1 @@
+program x : Q : takes gn, C4B : integer array; q, _9, A : integer array returns nothing z4z : integer array; L59aa, RA8a, B0 : boolean array; chillax end main : output O7[1] rem not 27 and 8 or true /= - not 04 - 056 - 6 end

@@ -1,0 +1,1 @@
+program _l : a : takes Wl, I, s : boolean; sn80, p, p, Z, O25 : integer returns nothing let I[- Z2o0a and 9 - 1970] = 43; pop 144 end main : i, hf2 : integer; v5, n7 : integer array; n : boolean array; chillax end

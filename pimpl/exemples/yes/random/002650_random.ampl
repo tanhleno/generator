@@ -1,0 +1,1 @@
+program H : F3 : takes pp1, l, d, v1, b1l0a : boolean array returns boolean array K2R : integer; chillax end main : let Kn = - false / not 04700 and 8 or Qa and 27 or 4; let d = array - false - I end

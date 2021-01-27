@@ -1,0 +1,1 @@
+program C : L : takes vz, G59 : boolean array; n : integer array; He7, a, c, b5 : integer array; X8, BjJaa : integer array; vf9, G, Z : boolean array; P, k2, FI : boolean returns nothing N0 : boolean; chillax end main : bdXaa, r : boolean; do I(- not true - true - false and 0) end

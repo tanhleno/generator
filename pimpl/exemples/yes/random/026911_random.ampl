@@ -1,0 +1,1 @@
+program h6laa : h : takes C, f : integer; H3 : integer returns integer array chillax end main : while - false >= - false and Y and 0 + 24 or 494 - 4 : chillax end; do j(false - (7970) and 3, false and 6 + 7 = 27100, - 4 - 4); pop end

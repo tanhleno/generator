@@ -1,0 +1,1 @@
+program RIja : main : do O(- (8 = 1) + 06 * (0) - true - 8 - 74 /= true, false rem not 480 and 1540 = - (96) and 77, not 96 - 41 - 441 /= 246, - 9); when case false - false + 53 - 18 : chillax end otherwise : chillax end end

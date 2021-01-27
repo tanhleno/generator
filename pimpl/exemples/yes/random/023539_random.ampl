@@ -1,0 +1,1 @@
+program UbJa : s : takes Z, Jd : boolean returns integer array c7 : integer; chillax end K : takes k : integer; B, W, N3k, j4, c, x : integer; A84, d, Xv, D : boolean array; G : boolean array returns nothing chillax end main : when case - E * false / false - true * true and 5650 : do g(- 6 >= 4, 5320 = 7990, 0, 6) end case - 0 = (9280) and 5 : chillax end end

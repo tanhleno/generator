@@ -1,0 +1,1 @@
+program kV : Q : takes D : integer array; j51aa, J : integer array returns integer lw, J, z0, N : integer array; M, Y, D, a : integer; chillax end main : input QP0aa[- (3 = 797)]; when case Y[8] + 21 + 75 - 94500 : chillax end case not 7 and 3 + 6 - 474 : input S end case - 7 - 72 : chillax end otherwise : do gG2aa(1); do CX(6); pop end; pop end

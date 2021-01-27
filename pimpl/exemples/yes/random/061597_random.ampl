@@ -1,0 +1,1 @@
+program z : R : takes W9M0a : integer array returns nothing when case true : let g = array 7; output "$\\" end case 1 - 2 < 510 : let x = 23 end case 0 = 2 : chillax end case 3 : pop end otherwise : chillax end; do I(02, 791 = 9, 3, 9); let R[99] = 09 end main : V : boolean array; chillax end

@@ -1,0 +1,1 @@
+program ki : T9 : takes kc1aa : boolean array returns nothing fs2 : integer; pop - 0 /= 7 end F4A0 : takes mI3, M9Q, Wl9, A : boolean; HM, Z9yaa : integer; DW, l, e0, S7B : integer returns nothing r, w, f42 : integer; let Vu10a = 9 = 46 end main : zZ1aa, t8, K2 : boolean array; g : boolean; r : integer; chillax end

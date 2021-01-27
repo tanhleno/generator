@@ -1,0 +1,1 @@
+program H7 : Zd : takes H2, Y41, g : boolean array; i, t0 : integer returns nothing t : boolean array; D1x : integer array; while - EL - 5 - 347 = - 08 - 4 : chillax end; input q[21] end main : when case(8 = 7) and 2960 + true - false and 698 : let B = 1 = 0 end otherwise : chillax end end

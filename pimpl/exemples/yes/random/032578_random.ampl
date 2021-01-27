@@ -1,0 +1,1 @@
+program e : SwR0a : takes a, g1K : integer returns nothing eR, M, C : integer array; D00, dgp0 : integer array; output "" . 6 . 4; let O[- 35 - 748] = 04800 = 2 end w : takes P, C7 : boolean returns nothing chillax end main : e : boolean; while - true * 0 + true * (2) and 45 + U720 and 3760 - 7 - 773 >= - false + (509) and 53 - 69 : chillax end; input fR end

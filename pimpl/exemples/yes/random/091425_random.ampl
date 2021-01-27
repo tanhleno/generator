@@ -1,0 +1,1 @@
+program _ : main : let e88a[fz1] = - true * not 41 and 7 - not 86 = - true or 3; when case - k[90] and 7 and 200 : chillax end case not 07800 : chillax end case - 135 - 01100 : chillax end case 3 : chillax end case 4 : chillax end; while - (1) : while 13 : pop end end end

@@ -1,0 +1,1 @@
+program ZXM : Q1 : takes Q3, Nr : integer; w3 : boolean returns integer array while - false and 06 >= 0 : let Auj0a = 3 end end main : while - (8) + (10) or(97) < 9 : when case 51 : chillax end end; pop end

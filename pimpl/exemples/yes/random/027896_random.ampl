@@ -1,0 +1,1 @@
+program r6 : K5 : takes vZ50, e6L : integer array; K, J8 : integer; R6 : integer array returns nothing u3 : integer array; chillax end main : sv, N6, p : boolean; output not false >= - (79) and 2 . - false and 66; do o(- (22) / 87 and 7 + 6 and 7 + 2) end

@@ -1,0 +1,1 @@
+program M : b7z0 : takes w4z, h, Y8 : boolean array returns nothing chillax end U : takes p : boolean; L : boolean returns boolean when case 6 - 00 : chillax end case 75 : when case 8 : chillax end; pop end case 00 : pop end case 0 : chillax end otherwise : do A8wa(1) end end main : E : boolean; while false or(57) : chillax end; pop - not 2 and 14200 end

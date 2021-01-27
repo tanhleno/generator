@@ -1,0 +1,1 @@
+program X : a : takes C890a, N, u16, d5 : boolean returns integer array when case - not 14 and 2 + 743 - 179 : input zt; let B2d0a = 8; let e = 73 end case 2 = 3790 : do a(0); input V end otherwise : chillax end; when case 9970 - 4 : chillax end; input nJ[32] end main : input I[(6) / 5540 * not 9] end

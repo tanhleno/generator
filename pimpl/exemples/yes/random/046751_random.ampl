@@ -1,0 +1,1 @@
+program K : R : takes x5 : boolean returns integer array Q2r : integer array; chillax end main : v41 : integer array; FG : boolean array; x : integer array; B : integer; R12a, T9 : integer array; b, E : boolean; b : boolean; let G5 = array - (7 = 5630); while not 4450 /= not 1 : chillax end; while true and 5 : chillax end end

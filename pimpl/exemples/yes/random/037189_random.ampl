@@ -1,0 +1,1 @@
+program E : B3 : takes _350 : boolean; MiAa : integer returns boolean array H : boolean; chillax end T : takes M3K, ZB, q, E4v0a, A, u : boolean; s : integer; V, W : boolean array returns integer input I end main : chillax end

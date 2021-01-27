@@ -1,0 +1,1 @@
+program e6I : Q : takes O8, h : boolean array; we4, e5 : integer returns integer s0, ME, yg : boolean array; j3, u, d, Oa : integer array; r, P : integer; E0, C : boolean; Y : boolean; r : boolean; chillax end main : let O43[w2(6) rem G[2] * true] = - true > true and 07 + 8 - 475 end

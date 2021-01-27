@@ -1,0 +1,1 @@
+program O : L : takes L26 : integer array returns nothing YD, M3 : integer array; lB, z8 : integer; chillax end main : qX : integer array; ty, c : boolean; _, F, SG, M, b : boolean array; W8 : boolean; y1 : integer; do Y62a(not not T, - false * Y); let f5 = - 7 - 59 >= 7190 - 7; output 68900 >= 10 . 4 . "\""; output "U4" . ")80" . 88 . ""; output 1 . 59 end

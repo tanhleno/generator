@@ -1,0 +1,1 @@
+program wF : main : when case true + true * not 4830 and 5 + not 4 + 80 <= - true : chillax end case - false < true and 7 : do u(9 = 351, 828, 53) end case not 26 or 655 - 707 > - 5 : chillax end case 5 = 0 : pop end case 6 : chillax end case 2 : pop end otherwise : chillax end; input USq[false * not 290 and 90600 or not 43 and 1010] end

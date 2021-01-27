@@ -1,0 +1,1 @@
+program Y : T15a : takes v0p0, ns, C6j0, c : integer array; N7j : integer array returns nothing while 0 : pop 36; output ""; while 9 : chillax end end; while - 8 - 07 <= 6 : chillax end; when case 6 = 9 : pop end case 0 : chillax end end main : q1 : integer; q7 : boolean; f : integer; o, A3 : boolean; output - 5 * v6R0a and 9 + false or 9 >= - not 1 and 3 - 022 - 49200 . "2" end

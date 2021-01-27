@@ -1,0 +1,1 @@
+program e1 : I : takes V, y, D, U, A : integer array returns nothing i3s0a, H6Uaa, r, Y3 : integer; chillax end main : when case false - not(7) / (6) and 06200 < - false and true - false and 1 or 1500 : chillax end end

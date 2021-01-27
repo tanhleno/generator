@@ -1,0 +1,1 @@
+program L : R : takes w5R0 : integer; K76a, p, J, Ea5aa, Po6 : integer array; N, v6, qtG0 : integer array; V6 : integer array returns nothing do E110a(- false and 7 <= - 72 - 3900) end main : let o210a[- not TC(544) * 79] = - (386) end

@@ -1,0 +1,1 @@
+program n : W : takes w6, T7T, _aY : integer array returns nothing t7daa : boolean array; let bJi = - 5 - 799 <= 0; output 00700 . 9 . "h" end sG6 : takes ee4 : integer; C : boolean array returns integer array pop end main : g : integer; N, qE0 : boolean array; A8, L, l : integer; chillax end

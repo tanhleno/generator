@@ -1,0 +1,1 @@
+program pu : t0 : takes uuo0, umc, N, x : integer array; B, Y : integer array; k : boolean; Z, G, V : integer array returns nothing O : boolean; pop 2 - 24000; let aP = 4; while 1 : input rF end end main : let v[- (4) / W(1) / true or false - not 3 and 2 - 22] = array K[68] end

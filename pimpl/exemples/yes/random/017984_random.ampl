@@ -1,0 +1,1 @@
+program h52 : P : takes t, Nuh0 : boolean; Gj : boolean returns boolean P : boolean; G : integer array; output 23 - 450 end V : takes y6V : boolean returns integer output "81!"; while 0 : let V = 1; pop end; while 9090 : pop end; when case 4 : chillax end; pop; pop end main : n, p : boolean array; cvn : integer; C4n0, j : boolean array; chillax end

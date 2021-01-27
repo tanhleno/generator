@@ -1,0 +1,1 @@
+program F : I : takes F3 : boolean array returns boolean chillax end o4 : takes C3 : boolean array; t, VL : integer returns integer array F, R, u, EnE0a : integer array; chillax end main : oM : integer; when case - 3 and frM and(2) >= 07 / (2) : let AG = 02; pop end case - (4) * false and 8 + (68800) and 2 <= - b and 958 or 9 : chillax end end

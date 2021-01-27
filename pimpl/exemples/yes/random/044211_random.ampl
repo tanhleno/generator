@@ -1,0 +1,1 @@
+program e : OJ : takes Z5 : boolean array returns nothing W5l, N : boolean; W3 : integer; input jU7aa[1 and 48 - 456 - 774]; pop 8 end main : do dZQ((33) / false < N(018) * not 0 and 899 or B and 49 - 78 - 22); pop; output "" . "1\"" . 47 . 9580; when case 13 - 806 >= 22700 : chillax end otherwise : when case 13 : chillax end; pop end; input C end

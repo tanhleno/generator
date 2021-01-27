@@ -1,0 +1,1 @@
+program DE : main : eVQ0, eB : integer; l : boolean array; when case - false < - false rem true - false and 8560 or 598 : chillax end case - not true / not 28 and 427 : output ""; let P = array 05; do piCaa(5800); output ""; pop end case - 3 and 9 or 8 <= 9 - 0 : input r96[69]; do E8oa(1) end end

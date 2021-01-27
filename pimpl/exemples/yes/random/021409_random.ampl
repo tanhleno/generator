@@ -1,0 +1,1 @@
+program So00a : g2 : takes B8, EI : boolean array returns integer array q : boolean; T : integer array; input Rox end Gb9a : takes a, h : integer; d : boolean returns nothing Z : boolean; chillax end n : takes k8 : boolean array returns nothing u, m, p8 : boolean; Lg0 : boolean; chillax end main : chillax end

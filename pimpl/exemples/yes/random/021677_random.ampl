@@ -1,0 +1,1 @@
+program u : cuIa : takes py, Q : boolean array returns integer U : boolean; chillax end S : takes g : boolean; N : integer array; i5d, T : integer returns nothing o, LF3aa : boolean array; chillax end Fx : takes iEa0, WOWaa : integer returns boolean chillax end main : do K(h[80] * 6 and(6)) end

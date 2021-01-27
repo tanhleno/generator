@@ -1,0 +1,1 @@
+program W21 : main : do i5raa(- not true / not true / not 8 and 2); when case(0) / true + not 500 + 0 - 66 : chillax end case true and 17 + 7090 - 9 : chillax end case 5 : chillax end; output 8 - 135 > 2720; pop; do i(90900 = 18400, 75, 0); do j(5) end

@@ -1,0 +1,1 @@
+program u : I : takes ce, Ac, t : integer returns integer array pop; do WX(- 5 - 68 /= 0); while 83 = 15 : chillax end; pop; while 518 : chillax end; output ""; pop end tFe0a : takes J990a, t, y, S130 : integer array; U : integer returns nothing RbP, Y : integer array; while 7870 - 7 < 8 : when case 3 : chillax end end; pop 14 end main : chillax end

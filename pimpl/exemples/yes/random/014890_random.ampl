@@ -1,0 +1,1 @@
+program g6 : GF : takes k4, P, s : integer array returns integer array chillax end l97 : takes M5, Q9 : integer returns nothing input Tk[- 31] end C280a : takes Nu, Q, S_60 : boolean returns nothing Z56a : boolean; ft20a, o2 : boolean; v : boolean; his : boolean; input m; do W(2, 93) end main : q : integer array; k : integer; O, s : boolean array; pop - not(7) - (3) end

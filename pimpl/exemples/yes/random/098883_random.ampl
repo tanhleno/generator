@@ -1,0 +1,1 @@
+program w : main : while - true * true or not not 9 rem 6 : input x end; do E(- false / 85 and 6 < - true + 9 - 7); do a(- (34) and 4 > - 13); when case - 005 - 5 < 003 : when case 54 : chillax end; pop; pop end case 314 : chillax end end

@@ -1,0 +1,1 @@
+program Il : q : takes pxZ : integer array returns nothing et2aa : boolean; chillax end main : when case - not 4 - false rem W + (84) : chillax end otherwise : chillax end; let L = - false and 2 or 732 - 682 end

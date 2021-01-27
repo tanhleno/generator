@@ -1,0 +1,1 @@
+program e : uP : takes sGx0a : boolean array; F : integer array; v : integer; y, k, R : boolean returns boolean QtS0a, wJ : integer array; pop - 0 - 3 end main : Pi_, w : integer; pop - true * false - 811 and 386 - 398; when case - pF[9] + (3) + 01 - 1 : output 551; while 76400 : pop end; when case 52 : chillax end end end

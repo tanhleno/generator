@@ -1,0 +1,1 @@
+program m_1 : d : takes t : boolean array; aKy0, H82a, t, Hv : integer array; q, O3, u : integer array returns boolean R, e : integer array; N : integer; l, M, S : boolean array; L7 : boolean; do tm(- true and 0); do W(3750 <= 7); do E(13 = 10); let cJ = 4 end main : m72 : integer array; chillax end

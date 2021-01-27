@@ -1,0 +1,1 @@
+program Wf_ : R : takes CJ, TW, TvB, in : boolean array returns integer pop 7 - 10; while - 2 >= 36 : when case 71 : chillax end; output "4-a" end end main : x : integer array; when case - i(5) and z(42) or false - false - 80 : chillax end otherwise : input K2; when case 7 : pop end end end

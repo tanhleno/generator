@@ -1,0 +1,1 @@
+program Yg8a : OG4 : takes h5, c : boolean array returns integer when case - 424 and 8 >= - 0920 : output 94 end otherwise : output "" end; output 3 = 15 . 08400 . 4 end DT : takes p, e : integer array returns nothing MF : boolean; x9 : boolean; chillax end main : chillax end

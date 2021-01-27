@@ -1,0 +1,1 @@
+program syCaa : H : takes U79 : integer array returns boolean array chillax end b : takes b : integer array returns nothing B : integer; C, S : boolean; x, T : boolean; while 92 : do S(2); input BLpaa; pop end end HFQ : takes z, g : integer array; mT : boolean array returns integer W, k, pO : integer; nd : boolean; g : boolean; chillax end main : jJ : boolean array; chillax end

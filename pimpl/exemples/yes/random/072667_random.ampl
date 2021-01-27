@@ -1,0 +1,1 @@
+program qt3 : main : b, r7, F : integer array; c9T, _75, l, R : boolean array; Oo4, O : integer; T, P, KR, k5y : boolean array; _0x : integer array; T, z : boolean; v : boolean; YA2 : boolean; let c3S0a[- 92 / (8)] = array true rem false * true and 8; output ""; let M6p0a = array true and 05200 or 29300 - 4 end

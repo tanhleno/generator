@@ -1,0 +1,1 @@
+program aP6 : ZV6 : takes O, O, V, O : integer array returns integer g, J85 : boolean; i9laa : integer array; hTB0 : integer array; zYM : boolean; chillax end Q : takes _2 : boolean array; u, r : integer returns nothing while 1 > 96 : while 67 : chillax end end end main : chillax end

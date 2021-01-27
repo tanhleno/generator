@@ -1,0 +1,1 @@
+program L : GtSaa : takes F7, kuH, d2l, k, S, s, hcn0, vc : integer returns integer array G : boolean; i : integer; Z2R : boolean; v, V : boolean; output ""; pop; pop 65 end main : M68aa : boolean; do q(- 8 / false >= - O[667] or 02500 and 34 or 21 - 10) end

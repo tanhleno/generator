@@ -1,0 +1,1 @@
+program T7 : v6 : takes L : integer array; pC : integer; N, B, L9v : boolean; C9, m0 : integer; c, xy : boolean returns nothing when case 7 or 8 - 6 >= - 900 - 2 : chillax end case - 26 - 2 /= 0630 : do v0(130); output "\n"; pop end; do z(4) end main : P : boolean array; O030 : boolean array; chillax end

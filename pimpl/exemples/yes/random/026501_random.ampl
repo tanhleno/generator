@@ -1,0 +1,1 @@
+program Bk60a : h : takes O, b7 : integer; OXe0 : integer; v3baa, e : boolean array; g : boolean; n : boolean; k, g, j : boolean array returns nothing do r(- j7N and 2 - 06, 1 >= 2); let aUpa = array 99 - 28; pop 22; input r; when case 2 : chillax end end main : Cfl : integer; Z : boolean; chillax end

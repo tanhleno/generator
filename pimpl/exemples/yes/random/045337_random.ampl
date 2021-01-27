@@ -1,0 +1,1 @@
+program jtG : f : takes V : boolean array returns nothing while - true and 1 - 19 - 5 : when case 73700 : pop end otherwise : chillax end end; output ""; while 46 = 7 : do V(9) end end main : b : integer; q, D54 : boolean array; let P850 = - true / (0) and 3 = - true and 0 + 5 - 8 end

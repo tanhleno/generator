@@ -1,0 +1,1 @@
+program y : q : takes dA00a : integer; N3E : boolean array; L, t3, _4 : boolean; Q4n0a, k : boolean array; E, R, D6O, J : boolean array returns nothing chillax end main : q, o, I1, P4, K : integer array; S : boolean; E, K3uaa, x, RX10a : integer array; M3b : integer array; input heF0a[- true * true rem false] end

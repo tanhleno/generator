@@ -1,0 +1,1 @@
+program Xk : L0 : takes mI, YP8 : integer returns integer let _[- not 1 and 0] = array true or 3; let p = 1 = 54; pop; output "m\n" . "\\" end main : g : integer; D : integer; T : boolean; chillax end

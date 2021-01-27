@@ -1,0 +1,1 @@
+program f : j : takes P78a, i0o : integer array; h0, h : integer returns nothing chillax end main : _530 : boolean; G : integer; yq20a : integer array; NO, J, Ox0a : boolean; u : integer array; R, KO8 : boolean; pop h940a[6] rem _2 end

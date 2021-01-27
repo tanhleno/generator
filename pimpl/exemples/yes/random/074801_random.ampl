@@ -1,0 +1,1 @@
+program T : main : S, ZLw : boolean array; W, m : boolean; r : integer; do a3(- y5[318] / false and _ and 6, not not 1 rem not 856 = - D or 96 - 92, (035) <= - 1, 91 - 92); output q and 80 = - 7 - 3 . - 5 end

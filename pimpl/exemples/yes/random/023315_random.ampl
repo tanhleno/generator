@@ -1,0 +1,1 @@
+program xs : jl9 : takes b2, Y : boolean returns boolean let G6 = - 64 - 598 <= 4; let Ux[7 - 0] = 4; let fu[0] = array 77; output 01900 . "\\"; let P = 6 end main : let P[not false + false or true and 414 or 3 - 46100] = array - false + 21 / true; output - 92 and 1 or 37 - 8710 . "\\" . 9 = 9; let a = 611 - 4 end

@@ -1,0 +1,1 @@
+program e : o : takes oY00 : boolean array; y, ZJ40, k7, Q75 : boolean; v : integer array returns integer array do I1k((63) and 75 - 12, 416 - 02 > 349); let K = 758 end D9 : takes y, C, MF, lLIaa : integer array returns nothing when case 9 <= 2440 : input u7g end end main : chillax end

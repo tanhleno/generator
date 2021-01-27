@@ -1,0 +1,1 @@
+program r9 : main : when case - G(444, 04) / 69300 / true and 4 - pi[3] / false and 30 + not 5 : chillax end otherwise : chillax end; input Z[- not not 0 and(958)]; while - true and 45 : chillax end end

@@ -1,0 +1,1 @@
+program H : k : takes sp0 : integer returns nothing K330a, G2 : integer array; when case - true and 0060 : chillax end case - 5 > 207 : chillax end case 4 : chillax end case 5 : pop end case 9 : chillax end otherwise : chillax end end main : H : boolean; h, l, _S40 : boolean array; chillax end

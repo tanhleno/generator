@@ -1,0 +1,1 @@
+program vw : u3x : takes i : integer; bf, s, AxS : integer returns nothing while - true and 6 - 3 : while 70 : pop end; output ""; pop end end main : H_, j, vqz, j, A050, lBt0 : integer; while - not SrF0[42800] / not false + M1x(9) + true >= - nn1(273) : output 2 = 3 end end

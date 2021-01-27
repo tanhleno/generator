@@ -1,0 +1,1 @@
+program l : main : i : integer array; j9Q : boolean array; E7 : integer array; L : integer array; output false and true and 5280 . - (8) and 2640 . "w"; output "" . 31700 - 08 /= 515; while true and 5 or 46 - 2 <= 8 : output 024 end; input e; let e[6] = 3; let _p5 = 2; pop end

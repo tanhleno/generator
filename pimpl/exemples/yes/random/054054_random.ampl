@@ -1,0 +1,1 @@
+program QnR : tf0 : takes b : integer array; Q, MIG, g : boolean array returns nothing F66 : integer array; chillax end i : takes J6w, Y : boolean array returns nothing when case - 9 >= 4 : while 5 : chillax end end case 21 = 989 : chillax end end main : H : integer; chillax end

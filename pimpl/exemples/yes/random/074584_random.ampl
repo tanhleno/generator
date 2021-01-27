@@ -1,0 +1,1 @@
+program m7 : main : o, Y0 : boolean array; f, K, cg30, M, A2 : integer; do qJp(- B * not true / not 5 and 95, - o(6) / true and 7 - (7) /= (3) and 6); while - L(300) / (8) : chillax end; let F = 8 end

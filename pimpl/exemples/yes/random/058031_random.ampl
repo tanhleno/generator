@@ -1,0 +1,1 @@
+program n : w : takes q : integer array returns boolean chillax end l : takes ilD, k22, V, fF, l : integer returns nothing input X630[- 3 - 52500] end main : M7 : boolean array; pop - not(8) / not 0570 and 8 > not 5 and 60 end

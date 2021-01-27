@@ -1,0 +1,1 @@
+program Kdf : G78 : takes l, V, G7 : boolean array returns boolean chillax end l : takes I : integer returns integer array i, Tj : integer array; s : integer array; Vc : boolean; LW4aa : boolean; chillax end P9 : takes i : integer returns integer dp20, n : boolean array; TF, N : boolean; let VH = 572 end main : chillax end

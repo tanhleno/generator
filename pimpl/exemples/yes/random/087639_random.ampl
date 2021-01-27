@@ -1,0 +1,1 @@
+program F : main : h560a : integer array; while - (2) / true or 5 / 89 - (0) and 4 or 8 : chillax end; when case - 1 and false and 25 or true or 91 - 9 < - false - 3 - 75 : chillax end otherwise : when case 4 : pop end case 44 : chillax end otherwise : chillax end; let F = 0; let n = 9 end; pop end

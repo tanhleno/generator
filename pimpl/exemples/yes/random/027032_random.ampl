@@ -1,0 +1,1 @@
+program J1v : JZJa : takes O, H7 : integer array; f, D3, M9, l7w0a, X, S2, jr : integer array returns integer array chillax end vH2 : takes Bm, l : integer; W : integer returns integer input E end main : o3I : boolean; when case - (38100) * (4) and 12 : chillax end otherwise : pop 7 end; input A end

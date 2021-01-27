@@ -1,0 +1,1 @@
+program U : j1Iaa : takes o, QY, cj9aa : boolean returns nothing chillax end main : uk, j2 : boolean array; B : boolean array; JmMaa : integer; y : boolean; while not true rem false or not true and(3) and 76 or q or 5 /= - (711) and 29100 and 5 or true or 3 : while - 6 - 1470 : chillax end end; input Y[- false] end

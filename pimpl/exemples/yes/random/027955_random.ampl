@@ -1,0 +1,1 @@
+program P : u : takes d, nY : integer array; H5, b : integer array; Wj : boolean returns boolean array pop 23100 - 67700; while - 64 - 36300 : chillax end end g : takes g : boolean array; N, O, L, UX, Htm0a, i : integer array returns nothing chillax end main : chillax end

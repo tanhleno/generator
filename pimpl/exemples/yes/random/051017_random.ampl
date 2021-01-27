@@ -1,0 +1,1 @@
+program O : wh0a : takes y : integer; u, t : integer array; i : boolean array; i7, gG2, he30a, L23aa : integer; J : boolean; _ : boolean; K : boolean returns nothing chillax end main : while BG(2) rem not false and true and 3 : output 1 = 90 . "9`" end; while not t8 or true - 57 = false : chillax end end

@@ -1,0 +1,1 @@
+program z6 : main : when case true - false = - _[6] : when case - 574 <= 8 : do cUUaa(8); input E; pop end case 0 = 24 : when case 1 : chillax end end otherwise : while 52400 : chillax end end; while 64 : let K7a = 7 end end; output 7 and 8 or 3 < - 68; do j(- false and 1 + 3, - 9, 7) end

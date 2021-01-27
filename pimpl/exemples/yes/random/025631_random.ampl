@@ -1,0 +1,1 @@
+program k : X63a : takes m, g : integer; bgz, kh2aa : boolean returns boolean i, jC : boolean array; R : integer array; sxFaa : integer; do E(- 03 or 0 > - 50, - 891 /= 80); when case 3 - 8 /= 413 : chillax end case 6 : chillax end case 89 : chillax end case 32 : chillax end end main : chillax end

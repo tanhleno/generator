@@ -1,0 +1,1 @@
+program n : H5 : takes o5, yB, R2, A, J2 : integer array; D : boolean returns boolean array Q : integer array; do c(- (92) and 6 /= - 78 - 5) end main : while 3 and OJ / 1 and 64900 - (7) : chillax end end

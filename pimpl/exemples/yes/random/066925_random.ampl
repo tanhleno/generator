@@ -1,0 +1,1 @@
+program I : main : do qrb(- true rem(22) rem false and 96 <= false / 7810 and 3 or(591) and 1 + 4, true / 633 and 3790, - true and 177 - 82100 = - 0); output "q"; input g94aa[(76) + 47 - 7220]; while 980 - 51200 : chillax end end

@@ -1,0 +1,1 @@
+program A120 : A : takes t, Q, G : integer array; Vg : boolean array; C : boolean; AI : integer; s, l, O3 : boolean returns integer array C : integer; chillax end I : takes N : boolean array returns nothing chillax end main : Ag : integer; I83, M : integer array; while - Ds(3, 94) < not not 0370 + false + 4 - 7 : chillax end; input x end

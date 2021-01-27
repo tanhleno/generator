@@ -1,0 +1,1 @@
+program _9 : wb : takes G : boolean returns nothing input Z; output 363 . "\nX\"a"; let e5[0] = 0 end main : do a7F(- not(2) or false + H and 8710 < - (2) rem not 061); when case - (0) /= - not 8 and 47200 : pop 6 end end

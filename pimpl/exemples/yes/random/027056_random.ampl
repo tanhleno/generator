@@ -1,0 +1,1 @@
+program oZE : C : takes nP, h22a : integer array; E22a, BYb, rB, H, S, M : boolean returns integer when case - 43 and 74 + 4 >= 8 : chillax end case 17 - 44 : do k5(99); output "f" end otherwise : chillax end; do C(17 >= 61) end main : chillax end

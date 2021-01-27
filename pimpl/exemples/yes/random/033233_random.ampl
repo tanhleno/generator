@@ -1,0 +1,1 @@
+program n : _2l : takes Nf4 : boolean; I, Q, P, GV90a, k9, l, Z : integer; _, Ub, e : integer array; R, O : integer; H3, i, B : integer array; f, A, N : integer; Q : boolean returns nothing while - true - 4 > 3 : while 903 : pop end end end main : O, Xi5 : integer; do p8y(- (5 = 0) and false * false and 4 > - 88600 and 4); output - v . "" . "" end

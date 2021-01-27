@@ -1,0 +1,1 @@
+program qN1 : Vp : takes m, kH, T2 : boolean array; Y, O : integer array returns integer array chillax end n0l : takes Yw : boolean returns boolean chillax end main : F, wY2, k, O : boolean; q : boolean array; chillax end

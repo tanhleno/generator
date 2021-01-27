@@ -1,0 +1,1 @@
+program y : main : S0Ba : boolean array; e, txL, ura, aR, e : boolean; while - false rem not true : when case 2 : chillax end case 4 : chillax end case 20 : pop end otherwise : input Tg end end; when case - true or not 286 and 066 : pop 13 end otherwise : let D = 7 end end

@@ -1,0 +1,1 @@
+program bFV : N : takes t33, Ix, w02 : boolean returns nothing output "\t0" end QQ1aa : takes C : integer array returns nothing M98aa : integer array; output "8/\""; do ol(0, 6, 1) end W : takes py1, w : integer array; F, Pb00 : integer array; tB1 : boolean array returns nothing T : boolean; do _(81, 0, 2) end main : a : boolean array; chillax end

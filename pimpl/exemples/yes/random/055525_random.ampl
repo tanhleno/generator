@@ -1,0 +1,1 @@
+program o20aa : l : takes A : integer array; u7 : boolean; uh, C : boolean array; f, f, u, Y : boolean returns nothing let D = - 1; let L80a = array 0640; input O; output 2 . "" end I : takes Z, o, c, R : boolean returns boolean array input Y end F : takes xTTaa, C : integer returns integer chillax end main : chillax end

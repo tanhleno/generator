@@ -1,0 +1,1 @@
+program i54aa : N07 : takes A, FK : integer; H, Z1I, u, qd, S, i : boolean returns boolean chillax end main : pop; when case 84 or not 8 : chillax end; output "H"; do D(- 925); while 1 = 8 : chillax end end

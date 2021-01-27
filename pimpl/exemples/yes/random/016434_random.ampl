@@ -1,0 +1,1 @@
+program Hi : y : takes BJm, z, h_Y : integer returns nothing C4G0a : boolean array; c, X : integer array; let E9E[- true and 277 + 6 - 40] = - 7 end main : Z : integer array; B, wv, y2 : integer; I3W0, h48, k4 : boolean; do v(true or not false * D and 3, L6[2] / GA5 and 8 or false and 17 or 35, G69 = 012, - 99300 - 2 < 85700, 8) end

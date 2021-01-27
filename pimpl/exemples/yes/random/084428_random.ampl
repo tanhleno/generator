@@ -1,0 +1,1 @@
+program Pz7 : main : k : integer; E26 : integer array; A, F7, X_, D : integer array; while 9 rem QF6aa[4] : chillax end; do a(- not true rem(5) or gz and 88 or 42800 >= true and 82600); output "" end

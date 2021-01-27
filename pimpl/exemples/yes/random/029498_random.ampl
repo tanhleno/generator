@@ -1,0 +1,1 @@
+program V0R : Fk3 : takes h_t0a, o : integer array returns boolean P650, aZ50, n, j8p : integer; Z, p, z1 : boolean array; chillax end main : l : integer array; input Pd1aa; let J[false rem not 05 and 900] = false or 472 - 5 >= - 5 - 772; let Q = - 60 - 4; let y5 = array 7920 - 459; while 5 : let b = 01; pop end end

@@ -1,0 +1,1 @@
+program TxA : main : c, m : integer array; O0 : boolean array; A3, FSR : integer; y8paa, FN : integer; H : boolean array; u, L : boolean; input u[- not false]; do b82(- false rem true and 25, - (195) - 53 - 8 < 6); pop 605 > 1 end

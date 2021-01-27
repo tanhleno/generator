@@ -1,0 +1,1 @@
+program _92 : N1 : takes bu9aa : boolean array; t, rS : integer; H : boolean array; xn, bZ : boolean returns integer while - (95) and 31 + 62 - 0 : chillax end end main : wz, S : boolean; w0Caa, S, D, o, F30 : boolean; chillax end

@@ -1,0 +1,1 @@
+program A : nk : takes r, M28 : boolean array; KH : boolean array returns integer do X(- 45, - 286 - 4, 4) end U : takes ok1aa, G : integer array returns nothing chillax end T : takes E : integer array returns boolean array output "<R" end main : m12 : integer array; chillax end

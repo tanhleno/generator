@@ -1,0 +1,1 @@
+program uX3 : ve : takes l, k1Z, r : boolean array; T, D, F : integer array; d5Waa, wL, G : boolean returns boolean array f : boolean; pop end r9Kaa : takes f, E9, S : integer; O : boolean array returns nothing chillax end main : i, Ev, J : boolean array; when case - 9 /= - not(3) rem(3) + not 5 : chillax end; pop; do q1(q3 and 1) end

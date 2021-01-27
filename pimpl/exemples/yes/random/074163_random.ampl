@@ -1,0 +1,1 @@
+program Z : main : FNM0, n54 : boolean; let RX = array false + not true and(484) + (1) or 096 - 72; output - 61200 and 2 - 521 - 370; output - 8 - 0; do m(29 <= 0, 28, 2, 2); let y[8] = array 514 end

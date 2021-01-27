@@ -1,0 +1,1 @@
+program B : l : takes le, MG0 : integer array; P, X : integer; h, V : boolean returns nothing chillax end main : K : integer array; M5 : boolean; output "/" . - true /= - 90 - 1 . "\\" . "" . 066 . "" . "" end

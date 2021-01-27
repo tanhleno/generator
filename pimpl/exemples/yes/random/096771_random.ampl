@@ -1,0 +1,1 @@
+program Y : main : when case false / e * not 04 and 5 : chillax end case - not f * (64500) and 8 + Q and 2 /= - (04) + 49 : input b[04] end case - not 29 and 3620 + 182 - 8 : chillax end; pop; when case vCda >= 50 - 03 : chillax end otherwise : pop end end

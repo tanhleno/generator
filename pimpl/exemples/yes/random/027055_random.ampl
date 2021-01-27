@@ -1,0 +1,1 @@
+program C : o : takes pQX0, QL0a : integer array; fP0, g, M, m7, d, n : boolean array returns nothing while - 2 and 83 : do r(1, 67) end; input Z[- 31 - 08300]; let lc7a = 8 end main : S4, E, v : boolean array; chillax end

@@ -1,0 +1,1 @@
+program fh : main : YM : boolean; ZO : boolean array; when case not true - Wth / not 5 and 149 < true + false and 03600 - 61 - 0 : chillax end case - (73700) : do r(12800) end case false + 5 >= 70 - 44 : while 365 : chillax end; when case 2 : chillax end; output "6" end end

@@ -1,0 +1,1 @@
+program h400a : ss60 : takes d, _, _ : boolean returns boolean array output "7" . 377 = 1; while 8 : chillax end; when case 88 : do gQ(8) end otherwise : chillax end end l : takes V : boolean array; k_ : boolean array; vAf : boolean returns nothing M, TH : boolean; chillax end main : chillax end

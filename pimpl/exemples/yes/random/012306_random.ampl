@@ -1,0 +1,1 @@
+program L : D : takes DL, X4, P : boolean returns nothing lzH0 : boolean; J4n0a, V, u160a, E0O0 : integer array; input O1 end KR : takes v0Xaa : boolean array returns boolean array W47a : integer; when case - 1 - 5 : output "\t" end case 6 = 2 : chillax end case 61 : pop end otherwise : do mU(9) end end main : T : integer array; chillax end

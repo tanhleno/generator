@@ -1,0 +1,1 @@
+program Zlt0a : iCs : takes G7Q, J : boolean; u7R, o, vMs, Fs, Mf8 : integer returns nothing I, enq : boolean; JiEa, B, GV, s : boolean; SR7 : boolean array; Lo, G : boolean; l8 : boolean; output "" end main : P : boolean; v : integer array; _K : integer; chillax end

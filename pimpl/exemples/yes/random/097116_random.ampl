@@ -1,0 +1,1 @@
+program Q : main : when case not(7) <= - not 9 : chillax end case - false + true : do v1Y0a(73 = 2); output "r"; when case 2 : chillax end; pop; pop end case - true and 64 = 83 : do x(71) end otherwise : chillax end end

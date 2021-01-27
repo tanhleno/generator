@@ -1,0 +1,1 @@
+program nR : q : takes F : boolean; c7, kg, j, c, O : boolean; D : boolean array returns nothing ex : boolean; when case I and 5 : when case 8220 : pop end otherwise : chillax end end otherwise : chillax end; do pOS(2 < 02) end DeF : takes b7l : boolean array; O2, Ni : integer; EL : integer returns nothing g03 : boolean array; chillax end main : O2 : boolean; chillax end

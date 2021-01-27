@@ -1,0 +1,1 @@
+program sR : Rr : takes i : boolean; _ : integer array; r, N, p : integer array; K : boolean returns nothing Z_, G : boolean array; pop 419 /= 01900; let r[747 - 57] = 8150 = 35; pop end main : input P end

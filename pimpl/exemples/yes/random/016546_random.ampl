@@ -1,0 +1,1 @@
+program cW1a : F4ua : takes e, NE, e : integer returns nothing let I[- true and 0 or 6] = - 7 - 66; output "" . 29; while 183 = 5 : chillax end; do p(2, 738) end main : Cr8 : integer; do r(- true * (8) /= o(89)); pop b + 3 - 4 end

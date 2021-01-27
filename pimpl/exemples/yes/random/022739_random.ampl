@@ -1,0 +1,1 @@
+program J : HV3 : takes a, ff : boolean array returns nothing pop - 6 end H : takes S : integer array returns boolean array NIBaa, mcs, L, p : integer array; AcF0a, B, X : integer; chillax end main : let R6 = array(4 = 1) rem not(8) - true * n3c0 and 2 or false end

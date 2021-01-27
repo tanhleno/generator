@@ -1,0 +1,1 @@
+program _AV : main : lC, zK : boolean; when case - N[6] or true = 1270 and J and 57 : chillax end case S[5] + not 420 + 6 - 5 /= (11500) or 2 - 4 : chillax end otherwise : output 3 . "c" . ""; input D4qa[7] end end

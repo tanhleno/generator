@@ -1,0 +1,1 @@
+program U : oN : takes S : boolean; cH : integer array returns nothing output - 80 - 2 . "" end V : takes e79aa, S, e8, Ey6a, A, e4Z : boolean array; G, w4 : boolean array returns nothing GZ, V6, w : integer; a6, S, TCf0a : integer; d : boolean; e : boolean; u0 : boolean; chillax end main : p : integer; output "" end

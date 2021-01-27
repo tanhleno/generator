@@ -1,0 +1,1 @@
+program XI30 : P : takes k9 : boolean; ZrJ : boolean array; yH7, w : integer array; q8da : integer; AQ3 : boolean array; UME : boolean returns nothing S2Ca, Wk : integer; chillax end main : Jb, w2 : boolean; S, dv30 : boolean; chillax end

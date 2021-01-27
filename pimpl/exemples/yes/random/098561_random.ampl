@@ -1,0 +1,1 @@
+program X : main : while - not T8[7] * not not 0 - not ZE and false - KP0 and 5970 + 7420 : input n51[350 - 56] end; output "\\"; when case - not 2 and 7 or 29 : do R8a0a(49, 6) end case - 43 - 5 : when case 36 : chillax end end case 578 : pop end otherwise : chillax end; output "\\"; output 2 . 35 end

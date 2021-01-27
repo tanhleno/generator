@@ -1,0 +1,1 @@
+program lL : q4 : takes xeb0a, u8 : integer returns nothing do K(- z < - 4 - 71200, 6 - 321 <= 27) end f : takes O, S : integer; C : integer; O : boolean; g : boolean array; H : boolean returns nothing chillax end main : pop end

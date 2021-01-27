@@ -1,0 +1,1 @@
+program V : C0 : takes Xa, F, O : integer array returns integer array chillax end wI : takes HB, P, iO4a, Qq, G : boolean array; c, C98 : integer array; C4S : integer array returns boolean chillax end main : v48, Go : boolean array; S : integer array; Mf, p : boolean; Xol : integer; Be, B : boolean array; chillax end

@@ -1,0 +1,1 @@
+program ww3 : Z : takes I : boolean array; Ja : boolean array; Igp, iY, N, g5b, I3, B : boolean array returns nothing chillax end c : takes Hl, Yh8 : boolean returns integer let A97a[- 3] = 8 end KLM0 : takes Qn : boolean array returns integer q9 : integer array; bf : boolean; chillax end main : chillax end

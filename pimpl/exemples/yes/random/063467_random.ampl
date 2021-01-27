@@ -1,0 +1,1 @@
+program q4 : v7w : takes r : integer returns integer xO : integer; chillax end Z0kaa : takes u4 : boolean array returns nothing R : integer; U1 : boolean array; K, l : boolean; l : boolean; M12 : boolean; while 6910 - 4 : chillax end end main : G, S8daa : integer array; when case L03a or true and false and 261 - false + 32 : do J(- 6 - 0) end otherwise : input I[7] end end

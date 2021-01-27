@@ -1,0 +1,1 @@
+program fdu : l : takes R, G, x : integer returns integer array m, d, f : boolean; z3, v : boolean array; chillax end b0 : takes tc9, Y : boolean; d : integer array returns nothing Y : boolean; chillax end main : j, U, k : boolean array; chillax end

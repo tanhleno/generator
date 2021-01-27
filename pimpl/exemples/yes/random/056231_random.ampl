@@ -1,0 +1,1 @@
+program F3 : q : takes l : integer array; i : boolean array returns nothing while false or 0 - 65 : output "%" end end TjI : takes W, A8 : boolean; l, i : integer array; l, X : boolean; w, Z73 : integer array; ZR8aa, WsLaa, h : integer returns boolean array K2y, io, am7 : integer; while 303 : output "" end; let o[47] = array 16 end main : chillax end

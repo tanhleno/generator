@@ -1,0 +1,1 @@
+program v : pQ0 : takes Gl, u4, Y, a1 : integer returns nothing _d : boolean; output - 4 - 53 <= 51 . "" . "6>" . 4 . "" end f : takes SM, my : integer array returns boolean do o(- 33 /= 3, 05 = 891); when case 22 = 96 : let x = 0280 end end main : chillax end

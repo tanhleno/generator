@@ -1,0 +1,1 @@
+program e7 : m1F : takes w56 : integer returns integer array chillax end WT : takes vZ2 : integer; l0 : boolean; h4M0a : boolean returns nothing chillax end main : pop; when case false / false : chillax end end

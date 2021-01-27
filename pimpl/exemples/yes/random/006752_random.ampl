@@ -1,0 +1,1 @@
+program t5 : Q : takes k, X, c, n : integer; Q : integer array returns integer array chillax end main : let h29[- (36 = 491) or(2) * not 9960 and 03000 or false and 2] = array - (5) * 27 and A and 06 end

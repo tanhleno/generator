@@ -1,0 +1,1 @@
+program g : main : do q8s(- false / (18) / (9), - e8(3) / 541, - true - 4 - 6); when case - 32 or V and 69 : chillax end; do c(- false and 34 - 64 - 5720 > - 5, - 20 /= 31); when case - 14 /= 1 : while 17300 : chillax end end case 5 : pop; pop end end

@@ -1,0 +1,1 @@
+program b0 : Tz8 : takes s, p : boolean; a9 : integer returns boolean array input c; do z5(997); while 13 : chillax end end main : a, b, f, c, y9 : boolean array; EW, k0, V, Ku : boolean; chillax end

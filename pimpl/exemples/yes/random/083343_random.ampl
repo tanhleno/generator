@@ -1,0 +1,1 @@
+program g : main : i5 : integer; is, jH, a : boolean array; do u3c(_ * not yfg0a = Uu); when case(9) / ln_a + (0) : chillax end case n and 0 /= - 0 : let Pv = 7320; output ""; when case 29 : chillax end end otherwise : let Ai0 = array 257 end; output "" . 4 = 4000 end

@@ -1,0 +1,1 @@
+program H : H : takes H530, nx70 : integer; Rkq : integer; j : boolean array; JC4aa, r, U, p6 : integer array; c : boolean array; EdC0 : integer array; J, L : boolean; vV20a : boolean; C : boolean returns integer array h : integer array; chillax end main : input m end

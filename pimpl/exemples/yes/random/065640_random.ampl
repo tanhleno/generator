@@ -1,0 +1,1 @@
+program RK : main : do Ox((155) / false >= (9) / 442, true * not 70100 and 4 < false and 8); while - true * 1 >= false and 7080 : while 10 : chillax end; output 738; let X = 0; output "'"; pop end; let H = array l end

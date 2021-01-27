@@ -1,0 +1,1 @@
+program t : _Uk : takes S, p : boolean; B960a, y, J45 : boolean returns boolean array v4 : boolean; qo, R2d, d : boolean array; chillax end D : takes t53aa : integer returns nothing let X[- 034] = array 47; output "" . "5=0a" . "3" end main : m, Q, kM, q, S, o, L : boolean array; chillax end

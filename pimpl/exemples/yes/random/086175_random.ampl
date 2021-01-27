@@ -1,0 +1,1 @@
+program T : main : q : integer array; U, y : integer; sqI0 : integer array; T : integer array; while not not true <= true - false : let FxO[- 5 - 84] = 4510 = 7 end; let x = - 3 and 03 >= 6 - 5; output 9 end

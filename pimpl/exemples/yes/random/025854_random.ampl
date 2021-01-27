@@ -1,0 +1,1 @@
+program g : j : takes lv, b : integer; B, uC5aa : integer array returns integer array w : integer array; do k(- not 49 - 8 - 7610 < 6670); do h1(- 3, 69 = 2970); pop; pop 2; pop; do C(62) end main : chillax end

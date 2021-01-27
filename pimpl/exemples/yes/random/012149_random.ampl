@@ -1,0 +1,1 @@
+program T92 : r : takes R, G, C : boolean returns nothing do P(false and 9 or 1 - 05, - 71 <= 7) end l7Ya : takes avu : integer; hH00, M, oRu0a, f, w : integer array returns nothing chillax end main : let R[- false and(23) + gsRaa] = - true end

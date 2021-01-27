@@ -1,0 +1,1 @@
+program q : M : takes p, c : integer returns nothing when case gN and 8 - 8 - 5 : output 3 . ""; input fU end otherwise : when case 5 : chillax end; while 4 : chillax end; pop end; when case - 7 - 3 /= 37 : chillax end otherwise : chillax end; while 5 = 7 : chillax end end main : while - true or true rem not 826 and 9 or true : chillax end end

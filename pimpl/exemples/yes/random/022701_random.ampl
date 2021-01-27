@@ -1,0 +1,1 @@
+program J5 : T : takes K5, P0n : boolean array returns nothing output - 14 > 5 . "4" end main : N2B : integer; W, I8f0a : integer; o, J : integer; Yv, C, w, r8j : integer array; input E; do u(O720 * false and 43 + (1) and 0 /= 7 - 29); input BO[not 52 and 7 + 6] end

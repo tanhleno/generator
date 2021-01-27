@@ -1,0 +1,1 @@
+program s : V : takes s5 : integer; u, p : integer returns nothing r6, m : boolean array; chillax end main : _, L6, Ca : integer array; input K[- true - true rem(8)]; while MJWaa(05) : chillax end; when case false and 5 + 1 /= 13 - 64 : while 8 : chillax end; when case 48 : chillax end; pop; pop end end

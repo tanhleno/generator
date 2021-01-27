@@ -1,0 +1,1 @@
+program J : Wz7 : takes gS7 : boolean array returns nothing K, b : boolean; Jy20, k, Rg : integer; r, L, A8 : integer array; while - a8u and 2 > - 4 - 799 : input DY2[6] end end h : takes y, v7 : integer array returns nothing chillax end main : M : boolean array; i : integer array; input UM[- true * true rem 80 and 53 + true / (66) and 648] end

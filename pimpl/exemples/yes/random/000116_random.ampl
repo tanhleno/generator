@@ -1,0 +1,1 @@
+program O : a : takes S6, g8, e, B50a, _c, s, A, Y : boolean array; zj1 : boolean array returns boolean array chillax end M : takes t, I7 : integer returns boolean array K2 : boolean array; chillax end Q : takes i, d : integer array returns nothing F, uq, H : integer; chillax end X : takes G : boolean returns nothing chillax end main : while l0(7) * true : chillax end end

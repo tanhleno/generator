@@ -1,0 +1,1 @@
+program V : X : takes hb90 : integer returns boolean input Q; when case 38 - 5 : while 5 : chillax end end case 4 = 7 : pop; pop end case 3 : pop end case 09 : chillax end; output "" end main : input t; when case - z850a(015) * true : while 50 = 8270 : input lz; pop end; pop 9 end case(60) - 8 : chillax end end

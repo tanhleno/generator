@@ -1,0 +1,1 @@
+program pm9a : main : do N9((98 = 0) rem 06 rem M and 36, - 8 rem 8 and 3 < - not 542, true); input t1[true]; while(2) + 6 - 39400 = - 3 - 483 : chillax end; let JDi0a = 6; when case 08 = 7 : chillax end case 020 : pop end case 018 : chillax end end

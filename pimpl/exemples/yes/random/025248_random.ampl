@@ -1,0 +1,1 @@
+program d : G8V0 : takes D, v9K0a : integer; d, q, q : boolean array returns nothing U, Qa : integer; T : boolean array; K : boolean; g5 : boolean; pop - 1 - 4 end main : t, O, c2 : boolean array; XZ, w : integer array; pop; let A[(6)] = 9260 and 2 = - 1 end

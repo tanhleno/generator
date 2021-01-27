@@ -1,0 +1,1 @@
+program QS : r : takes P, P, M0 : integer returns boolean while X and 17 - 8 <= 864 : do KAr0(586, 2) end end ddMaa : takes Rx9a, Z, b : integer returns integer when case 51 : do R(9970); input E; pop end end main : do LvZ0a(- (537) and BK[534] rem false = - _w8[74]); let g = array n(2); do u(false and 1 > 816 - 6920); do r4(6, 42 = 8840, 3, 898) end

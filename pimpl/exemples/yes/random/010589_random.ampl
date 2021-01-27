@@ -1,0 +1,1 @@
+program V : b : takes M77, n0, ps : boolean array returns boolean array G8 : boolean; output "" . 8 = 8950 . "" end N : takes Zltaa : boolean returns boolean array j, U, a : integer array; output 5 . "b\n"; let u = 507 end main : chillax end

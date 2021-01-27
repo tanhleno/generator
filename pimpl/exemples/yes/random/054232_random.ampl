@@ -1,0 +1,1 @@
+program w4J : x5 : takes Q : integer array; U, i, N8Y0 : integer array; r9g : integer; c0 : integer returns nothing chillax end s4iaa : takes R : boolean array returns nothing let k7k0a[2] = 7220 = 85 end main : B810a, tA : integer; E0 : integer array; m : integer; chillax end

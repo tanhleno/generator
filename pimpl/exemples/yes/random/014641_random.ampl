@@ -1,0 +1,1 @@
+program se : J : takes O, sa9, j : integer array returns boolean array chillax end VTZaa : takes nVba, u, w : boolean returns nothing pop end main : K : boolean array; pop not false - not 58 + 0 - 08 end

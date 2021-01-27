@@ -1,0 +1,1 @@
+program kA : j0 : takes V96 : integer array; v3d : boolean array returns nothing yY2 : integer array; input Q4 end K : takes t9u, n, q : boolean array; ts : boolean returns nothing g, Rk : boolean array; b100a : integer array; W, I : boolean; chillax end main : R : boolean; k : boolean; output "v9" . "" end

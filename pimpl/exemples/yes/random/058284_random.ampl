@@ -1,0 +1,1 @@
+program g880 : j5 : takes I : integer array returns boolean fd3, f : integer array; chillax end main : when case - false rem 97 or not true >= - Iw[84] / pr and 813 : when case 0 - 25 : chillax end case 97400 : chillax end otherwise : chillax end end end

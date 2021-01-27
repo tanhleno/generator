@@ -1,0 +1,1 @@
+program J : main : g, w7g, R : boolean; V : integer array; when case - not(39) >= - niTa rem false and 3 : chillax end case - false = - 36 : chillax end case - false /= 90 - 8 : chillax end otherwise : chillax end end

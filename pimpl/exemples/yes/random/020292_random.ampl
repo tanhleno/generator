@@ -1,0 +1,1 @@
+program idC0a : Um : takes RM, C7 : boolean array; N : integer; oBh0 : boolean; VO, r, I, u01a : integer returns boolean Ve : boolean array; let U = - 396 - 6 <= 14; output 7 = 54000 end main : FJz, p1W, A5J0 : boolean array; chillax end

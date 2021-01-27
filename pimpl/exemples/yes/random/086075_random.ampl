@@ -1,0 +1,1 @@
+program S7 : main : s : integer array; Nbka, H81 : boolean array; I : integer; when case 29 + false : chillax end case not 73 and(8) and 4 > (8) + 7 : chillax end otherwise : while 7 : do f(6); pop end end end

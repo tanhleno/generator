@@ -1,0 +1,1 @@
+program G : main : pop - false /= - (0) - 7; while - en8 < true and 3 - 3 : when case 6530 = 2540 : chillax end otherwise : pop end end; while r2 and 17 + 9 - 07 : while 475 : chillax end; let h = 7 end end

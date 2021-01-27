@@ -1,0 +1,1 @@
+program nt : v7 : takes p, z, l3 : boolean returns integer array L, hD1 : boolean; do GX(true and 087); while 572 : chillax end end W5 : takes PR5aa, I9 : integer; c, h1 : boolean returns boolean array chillax end main : chillax end

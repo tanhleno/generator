@@ -1,0 +1,1 @@
+program U : _niaa : takes U7, hR00a, j : boolean array; i, t : boolean array; F7, d49 : boolean array returns nothing while - not 899 and 05 <= 65 - 610 : let P9[0] = array 52900; pop end end main : chillax end

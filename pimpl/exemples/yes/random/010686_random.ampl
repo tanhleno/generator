@@ -1,0 +1,1 @@
+program Vl00a : Qh : takes g, U, b37 : boolean array returns boolean K, Y, mc : integer array; Z : integer; chillax end main : E9, _5, n : integer; t : integer; while - false * true + not not 63 / true and 47 >= true : chillax end end

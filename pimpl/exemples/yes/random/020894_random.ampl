@@ -1,0 +1,1 @@
+program M230a : S : takes Sr80a, NF6 : boolean array returns boolean array u, Q68 : integer array; o, ST8 : boolean; ImPaa : boolean array; j, W1G0 : boolean; u : boolean; q : boolean; chillax end main : O, f : boolean array; chillax end

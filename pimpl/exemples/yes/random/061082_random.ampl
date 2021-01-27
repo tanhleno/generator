@@ -1,0 +1,1 @@
+program F : S : takes X : integer array returns nothing xM : integer array; chillax end T4ma : takes a : boolean array; J, R : boolean; C : integer array returns nothing let Uu[5] = 3380 = 3; let O030a = array 54; let Sl[1] = 97800 end main : chillax end

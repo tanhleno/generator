@@ -1,0 +1,1 @@
+program _5 : J5 : takes q : boolean array returns nothing Q, z, r : integer array; input ZC0aa; do U(2 = 2) end g : takes Kr20a : boolean array returns nothing chillax end main : t : boolean; Fg0, YP5aa, O44a : boolean array; do _(- (5), (9)) end

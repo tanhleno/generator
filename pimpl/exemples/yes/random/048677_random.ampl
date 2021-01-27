@@ -1,0 +1,1 @@
+program CcR : M : takes Y20 : boolean returns nothing k : integer; let U[true and 5] = 092 - 35; do c0(- 757 - 9); while 0070 : let SBw = 1 end; do V0ja(49200, 4); output ";V" end K : takes F22aa, a : integer array returns nothing im1aa : integer array; chillax end e : takes s, s : integer array returns nothing input N[3]; do my(7) end main : chillax end

@@ -1,0 +1,1 @@
+program tV : z : takes q : boolean array returns nothing input R_10a[- true and 52 + 7 - 6]; do qs6a(- 2 - 42, 9, 31); pop; when case 1 : chillax end case 6 : chillax end; output ""; pop; pop end main : z : boolean array; A63 : boolean array; chillax end

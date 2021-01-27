@@ -1,0 +1,1 @@
+program q65 : main : pop not(5) or gf or 25500 - 3; input E[7 and V or false]; output - 85 >= 6; when case 9 : chillax end otherwise : chillax end; pop; do S(50); do O(3); while 6 : chillax end; pop end

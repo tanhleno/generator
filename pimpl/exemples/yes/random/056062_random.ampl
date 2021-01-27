@@ -1,0 +1,1 @@
+program JXN : J : takes o : integer array; X : boolean array returns integer array output - 38 - 3650 > 0; output 38 = 407 end j : takes A120 : integer array returns nothing output "2#!"; while 1 : chillax end end main : chillax end

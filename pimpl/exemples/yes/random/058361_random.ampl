@@ -1,0 +1,1 @@
+program d : B4 : takes _5 : integer array returns boolean iGb : boolean array; m, Zp40a : boolean array; input K[true and 8]; pop end E : takes tc, Bc, U, G, tG, d1ha, W : boolean; lX : integer returns integer array l5 : integer array; chillax end main : ms, A5, U : integer; Cp : boolean; f : boolean; t, P5d0, h, q : integer array; N, kQ30a : boolean array; chillax end

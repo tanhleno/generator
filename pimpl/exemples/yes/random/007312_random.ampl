@@ -1,0 +1,1 @@
+program C : W : takes C9, N, b, G4H : integer array; I : integer array returns nothing chillax end qa : takes OkQ, o76, v7 : boolean returns nothing CB : boolean array; let k[- 44 - 08] = 4 end main : input x[- false] end

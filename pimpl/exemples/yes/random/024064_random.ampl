@@ -1,0 +1,1 @@
+program z46 : H : takes Z, d8T0a : boolean returns nothing chillax end main : Q : integer array; pop 60 / false and 2 + (97) >= - 6; pop not 9 and 3; pop; when case 6 - 3 < 0 : when case 4 : chillax end; output "&"; pop end end

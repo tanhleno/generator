@@ -1,0 +1,1 @@
+program K : main : Z : integer array; input tG[true rem false * civ]; when case - 7 rem(96) and 5 < not 686 and 8 : chillax end otherwise : chillax end; do OzG(- (0) and 51 + 9 - 2, - 1 - 98 <= 3, 1); let Q1k = array 5 end

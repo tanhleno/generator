@@ -1,0 +1,1 @@
+program P : y : takes w4 : integer; A3, FZ : boolean returns nothing let iX[- false] = 2 - 8 <= 07500 end main : h3_ : integer; D98, DV, Fze : boolean array; I, q : boolean array; j3X : boolean; chillax end

@@ -1,0 +1,1 @@
+program g : T3 : takes M, wh, wu : integer array; Q, S, b : integer array returns nothing while - vB and 68 or 9 - 4 : pop 3 end; while 8 = 2 : chillax end; output 0 . "\t"; pop end f : takes bM, M3R : integer; aw : boolean returns boolean array while 59 : when case 290 : chillax end; output "" end end main : C3, j0z : boolean array; input J end

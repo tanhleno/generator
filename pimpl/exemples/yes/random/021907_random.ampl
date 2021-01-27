@@ -1,0 +1,1 @@
+program Cx : g8g : takes e_, i : boolean array returns nothing chillax end C7 : takes S : boolean array returns boolean pop 63; while 2 = 88 : while 8 : chillax end; pop end end main : G : boolean array; do I(not e >= (1) * 06 and 42, - 3 + C > - false, - false + 9 - 1 <= - 5 - 91) end

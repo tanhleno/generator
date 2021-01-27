@@ -1,0 +1,1 @@
+program w0 : Y6Ka : takes s, Q2U : boolean array returns nothing let m = array q; when case - 03 - 009 : chillax end otherwise : chillax end; while 23 = 83 : output "<"; pop end; let v490 = array 9 end main : input Hy; output true and 37 = 04 - 240; while true - 02 : chillax end end

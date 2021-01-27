@@ -1,0 +1,1 @@
+program Q : P : takes C1 : boolean returns nothing P : integer array; jn0, H : integer array; B, A : integer; when case not 7 and 15 - 1 - 041 = - 514 - 5 : pop 3; output "" end otherwise : output ";^0" end; input h[- 6 - 6] end main : K6 : boolean array; f9, H790a : integer; chillax end

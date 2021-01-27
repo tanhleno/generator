@@ -1,0 +1,1 @@
+program vg0a : G : takes l430a : integer array returns nothing g64, F : integer; eA40 : integer; when case - (3) = - 12500 - 4 : output 8 . ""; pop end otherwise : output "\\w"; output ""; pop end; pop; do S(59700, 6); input X5[9]; pop; pop end main : chillax end

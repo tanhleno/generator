@@ -1,0 +1,1 @@
+program t : V : takes R : integer returns nothing chillax end yq8 : takes xz6aa : integer array; N : boolean; jjF0a, W : integer array returns integer array while - 6 - 532 <= 5 : chillax end; pop; let j[851] = 58 end main : do k40aa(- (756) < - (292) + false, - 5 / 531 and 3 or false, - true, - 73 - 0 <= 70, 0); while false : pop end end

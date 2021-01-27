@@ -1,0 +1,1 @@
+program Q : M : takes y0s, v4, B, F : integer; YJ : boolean returns boolean array chillax end main : V : boolean; u, D, B, G : boolean; R7 : boolean array; when case - not false - true - true + 54 - 9 /= - not N + (6) : chillax end end

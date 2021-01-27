@@ -1,0 +1,1 @@
+program o : O : takes F, s : boolean array returns boolean array input UO1[(9)] end n3X0 : takes Mj30a, x : boolean array; I8w0a : boolean; k : integer returns nothing g : boolean array; let R = array - 833 end main : m4Z, A : boolean array; q : boolean; c, x : integer array; pop true end

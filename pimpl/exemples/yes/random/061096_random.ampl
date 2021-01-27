@@ -1,0 +1,1 @@
+program Q : c97a : takes c : integer array returns nothing t990 : integer array; chillax end main : J : boolean; do W0(- not false = 05700 / V and 3 - P or 518 - 9, (2) * false and 8 > 64 and 183 or 05 - 1, - not 337 and 0 = - 859); when case - T[1480] or(8840) >= - true and 6 : chillax end otherwise : do m96(1, 9) end end

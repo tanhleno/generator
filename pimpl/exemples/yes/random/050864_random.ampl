@@ -1,0 +1,1 @@
+program V : Oe : takes V0 : integer; R, zk : integer; i, E : integer returns boolean array chillax end j : takes p, e : integer array returns nothing t92 : boolean array; M : boolean; do J5N(- 378); output "7" end f : takes JQL0a, X600, V : boolean array; u, mXf, MH, s8 : boolean; aq : boolean array returns integer chillax end main : pop end

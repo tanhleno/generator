@@ -1,0 +1,1 @@
+program x : L : takes EK : boolean array; A : boolean array returns integer array G0D, O9 : boolean array; let u4[853] = array - (040) - 29 - 2; input M[- 21]; do E(33 = 5, 19) end main : r, r : boolean; do FZ(true * 1 * (8), not 05500); output "2\naa" end

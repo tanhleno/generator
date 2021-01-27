@@ -1,0 +1,1 @@
+program g : C0 : takes n, S, A : integer returns integer r, s : boolean; pop end zL2a : takes U3, Y7 : integer; _3, c : integer array; G : integer array; M, v : integer array returns nothing S : boolean; an2 : integer; chillax end main : chillax end

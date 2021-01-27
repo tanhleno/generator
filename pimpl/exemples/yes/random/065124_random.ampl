@@ -1,0 +1,1 @@
+program GKW0 : h : takes c : integer returns nothing Tu : integer array; let Lr = array 54 and 5 end WX6a : takes e23 : boolean array returns nothing ocQaa, k, C, e560 : boolean; U : boolean array; while 1800 : while 59 : chillax end; output ""; pop end end main : d, XG10, N8 : boolean array; v2T : boolean; chillax end

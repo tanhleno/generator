@@ -1,0 +1,1 @@
+program b : XV : takes nA9 : integer returns nothing n, _2, H, z : boolean; PC, N73aa, J : boolean; x : boolean array; chillax end t : takes O : boolean; B : integer returns boolean output 15; when case 04100 : chillax end; input K; let p = 48; while 4 : chillax end; pop end main : do fK(- not 2 / 2); while - 3 and false : chillax end; input _Ru[true + 7] end

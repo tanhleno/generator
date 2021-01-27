@@ -1,0 +1,1 @@
+program v6 : LT : takes q : integer array returns boolean array Xeq : boolean array; sL, d : boolean; B, g : integer array; _X : boolean; K : boolean; chillax end GK70a : takes Q : boolean; o : boolean; jM : boolean array; z, DM : integer array; T71a : boolean array returns boolean t, S6 : integer; while 2 : output "5" end end main : chillax end

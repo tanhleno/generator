@@ -1,0 +1,1 @@
+program V : r : takes G760, CC3, SGq : boolean array returns integer cI, H : boolean array; output - 4240 - 0 . 534 end main : m : boolean array; while - O85 >= - d and 8 and 318 - false and 4 : input D[8] end; let X = true end

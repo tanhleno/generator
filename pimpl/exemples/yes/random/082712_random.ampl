@@ -1,0 +1,1 @@
+program Xl : main : A : boolean array; when case - true / fD70a[6] : chillax end case - false rem not 8 and 8 : input m end case false and 82 < - 9 - 41 : let o3 = array 9; pop end; let i[true + false and 42] = 1 + 0; while false - 6 - 40100 /= 8 : chillax end end

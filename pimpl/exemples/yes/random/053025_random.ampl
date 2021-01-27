@@ -1,0 +1,1 @@
+program D : g : takes a : integer; m : integer array returns nothing u, r : integer; pop - 3 - 0 < 5; input l8 end main : Py9, u : boolean array; D, b5 : integer array; while - false / not v7s * true or true = - not 95500 - true and 5490 or 984 : do n2Ha(- 85 <= 8) end; input p3_aa[(095)]; do k(- true and 3 + 4); let I[9] = 7 end

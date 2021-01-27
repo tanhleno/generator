@@ -1,0 +1,1 @@
+program K : X : takes y : integer array returns nothing h : boolean array; do S(true - 928, - 2 <= 4); let S8Y0 = array - 15000 end o0 : takes k : boolean array returns boolean array j6 : boolean; vJ, UV4a : boolean; while 62 - 0 : when case 3 : chillax end end end main : z21, v, D, aG : integer; l, O, teFaa : boolean array; output ";n0" . "" . "L" . 84; input I_; pop end

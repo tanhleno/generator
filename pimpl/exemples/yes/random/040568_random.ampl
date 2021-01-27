@@ -1,0 +1,1 @@
+program M : i : takes k : boolean array; RN : integer; h, T : integer; os, j, N, u06 : boolean; n : boolean array; KDH, f5 : boolean returns integer pop - 4 - 2 = 8; let _[4] = array - 2; pop end main : input X end

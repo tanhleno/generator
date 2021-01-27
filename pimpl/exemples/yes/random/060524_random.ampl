@@ -1,0 +1,1 @@
+program uL1 : G : takes Tn30 : integer array returns nothing M, Rd4aa : boolean array; do j8(true and 00 >= 7550 - 5, 158 - 5, 3 = 1000, 46, 4); pop 1 end main : Y : integer array; X, c, bqMa : integer array; V, N7p : boolean; o3, er, D9, w66 : boolean; W, D : boolean array; output - true - (11) and 8 . "" . "" end

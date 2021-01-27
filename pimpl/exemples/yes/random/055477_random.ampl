@@ -1,0 +1,1 @@
+program F : h1 : takes S : integer array; oAO0 : boolean; k, p, _3, _ : integer array returns boolean do J2(- not 2 > 82 - 31) end main : while E or E(39) / true + SL and 26100 or 9 - 1 : chillax end end

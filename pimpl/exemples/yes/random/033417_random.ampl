@@ -1,0 +1,1 @@
+program M1 : h : takes ZzW0a : boolean; x0J, rX, iW, z0, P : integer array; h : boolean array returns boolean array Q7A : integer array; NBt, Z4 : boolean array; chillax end main : let g[not not not 4 or false] = array - j[911] * Z(6) / true and 80000; input W[true * 7 and 11500 + true + 3 - 4] end

@@ -1,0 +1,1 @@
+program v0 : KH20a : takes Rx, h : boolean array returns nothing when case - (0) + 1 - 4 : chillax end otherwise : chillax end; output 8 = 3540 end main : input N; let ht = - (3) and 4 + 4 - 7 >= - 94300; input _3[- not 9 or 3] end

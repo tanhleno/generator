@@ -1,0 +1,1 @@
+program P7 : N : takes L : boolean array; HTx, e, P : boolean array returns nothing dI, M33aa : boolean array; when case - Q < - 76 - 4 : chillax end case 1 /= 17 : chillax end otherwise : do N80aa(7) end end main : do ZP(- 4 - 4 or true and 6, - not false and false and 7 or true + 06300, - not 32700 and 609 < 5 - 11); let F[e(944)] = - G or 77 - 178 > 0 end

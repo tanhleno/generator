@@ -1,0 +1,1 @@
+program W7 : main : ynB : integer; when case Ul1(5) : chillax end case - false * (45) = - i9 and 52500 or 65 : do m9Oaa(8 = 95); pop 93; output ""; pop; pop end case - true and 8 + 54 <= - 9 - 0370 : while 4 : chillax end; output "P"; do mKOa(0) end otherwise : do B(5 = 7) end end

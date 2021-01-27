@@ -1,0 +1,1 @@
+program q93 : main : p : integer array; A, N440a : integer; jI : boolean; input NT3; when case - not not 5 - i and 91 + 83 : let C = array 1510; while 1 : pop end; when case 6 : chillax end; do W(3); pop end otherwise : chillax end end

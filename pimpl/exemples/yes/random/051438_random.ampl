@@ -1,0 +1,1 @@
+program cN : P : takes E5 : integer; _86 : boolean; V : boolean; z9, l3, BZ, s : boolean; s8Y : integer returns nothing G060a : boolean; p : integer array; when case not 53 and 48 >= - 25 - 45 : pop end case 2 - 0 > 411 : while 5 : chillax end end end k9 : takes U, WS : boolean array returns integer chillax end main : chillax end

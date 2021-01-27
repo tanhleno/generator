@@ -1,0 +1,1 @@
+program KP : AN20 : takes XW3a : integer array returns nothing let f5 = array - not 4 and 1 - 700; input HY20a[- 9]; pop; output 57; while 9 : chillax end end main : Rv, Z, LvC0 : integer; do hZ(z(36) or 5, - not(1), - x1t0a, - 9 - 348) end

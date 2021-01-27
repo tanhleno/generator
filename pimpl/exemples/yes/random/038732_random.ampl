@@ -1,0 +1,1 @@
+program X1 : QL : takes s : boolean array; S7, mPd0 : boolean array returns boolean K96aa, G, h : boolean array; output - 0 . ""; do T(- 5 - 4); pop 715 end main : output - PkY(5) * 7 and 31 - T + 2 end

@@ -1,0 +1,1 @@
+program e : sR : takes n, A1t, P, G, GS4aa : integer returns boolean chillax end A : takes c : integer returns nothing Ot : boolean array; u, ixNaa : integer; do L(26) end r : takes cH : boolean; Rv4a : boolean array; N : boolean returns integer pop end B0 : takes wI : boolean; x1 : integer array; J : integer array returns boolean array chillax end main : let fN = array false end

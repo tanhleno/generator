@@ -1,0 +1,1 @@
+program R : W : takes Mg : integer; tG4 : integer returns nothing f, L, _, E49a : boolean array; pq, f : boolean array; output "8" end main : x40, J1 : boolean; pop 9 > - false; output "\n:0" . 43 - 29300; output "" end

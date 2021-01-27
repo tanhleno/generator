@@ -1,0 +1,1 @@
+program NqE0a : V : takes h, z : integer array; N : integer; c : integer array; k7, VcEaa, Z7_, d : boolean; E0a0a, E : boolean; y, E, p740 : boolean; c : boolean; N8 : boolean returns nothing a : integer array; do vq(- not 8 and 83 + 3); input Ey3[05]; do c18a(4 = 210); let k3 = array 20 end main : chillax end

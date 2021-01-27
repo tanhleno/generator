@@ -1,0 +1,1 @@
+program i : o : takes Fyd, g7, y : boolean; A : integer array returns boolean Z, gc, H : integer; W3y0, z : boolean; let Hw70 = array not 6 and 55300 - 7 - 8; do n(685 < 14, 8); when case 1 : output "6L" end end p69 : takes PL4aa, c : boolean array; J, V : boolean returns boolean mn : boolean; do S(- 69 > 84) end main : P6X : integer; chillax end

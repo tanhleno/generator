@@ -1,0 +1,1 @@
+program C5 : q7N0a : takes q : integer returns boolean array when case - (3) and 0 - 71900 - 8 : chillax end case 4 - 7 <= 5 : let c = 4; when case 30 : chillax end end case 5 : let W0 = 71; pop end case 3 : pop end end main : input d; do k(- false * true + true and 0 /= - (1) and 5 + 3); let x[- false and 57] = array - true - 2; let gO[8] = 9 end

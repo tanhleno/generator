@@ -1,0 +1,1 @@
+program y : main : do bW(- (6) rem 87200 / false < true * (9) - true and 1 - 09 - 7, - 2 and true and 8 = (8) and 6160, true, - 54 /= 23, 7); pop; do N((56) and 5 or 1 - 8 /= - 87, - 8); pop; input O; output 80 . "" end

@@ -1,0 +1,1 @@
+program X : D : takes g41, i8, L : boolean array returns integer x, L : boolean array; p : boolean array; while - false and 0 + 91 /= - 99 - 0 : chillax end end D : takes Y1, r9 : boolean returns boolean S : integer; Q3K0 : boolean array; input iK[- 483 - 0580] end main : H : boolean array; chillax end

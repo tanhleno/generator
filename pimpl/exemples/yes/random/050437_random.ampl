@@ -1,0 +1,1 @@
+program W : n0Gaa : takes N6b0a : integer; U36, d0 : boolean array; H5, b1, fr, h : integer array returns nothing chillax end main : Za, S1, K : boolean array; when case H(4) * 00600 + false : chillax end end

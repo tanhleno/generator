@@ -1,0 +1,1 @@
+program Z5V0 : main : when case - not false - (0770) and true and 90 : while 1 < 79 : chillax end end case LY9a(8) : chillax end case true : when case 1 : chillax end otherwise : chillax end; while 37 : chillax end; output "<\\"; pop end case 1 - 2 : input G end otherwise : do q(660 = 2, 63) end end

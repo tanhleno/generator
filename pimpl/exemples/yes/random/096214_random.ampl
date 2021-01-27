@@ -1,0 +1,1 @@
+program b : main : when case - not W(32) and true * (5) and 992 - (3) : chillax end case(8) : input K8; let s[34] = array 31; input v3; input P end case - _ and 3 + 15600 >= - 764 : do o(50); while 17 : chillax end end; input S6; output "" . ""; input x end

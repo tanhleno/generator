@@ -1,0 +1,1 @@
+program E4Y0a : F : takes J : integer returns boolean output "k." . "\\t"; let v2 = array - 55300 - 16; pop 91 end W : takes u : boolean returns nothing input u8l[- 0] end main : T : boolean; J : boolean; chillax end

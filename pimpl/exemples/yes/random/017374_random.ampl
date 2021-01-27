@@ -1,0 +1,1 @@
+program PFu0 : pn : takes ZS, D2 : boolean; A40, o : integer; V2, g, KFIaa : integer array; F, hf20a, _, T, a : integer returns nothing N : boolean; output 34 - 83 <= 14 end main : D, EvJ0a : boolean array; R, p : integer array; chillax end

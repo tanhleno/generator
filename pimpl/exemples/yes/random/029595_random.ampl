@@ -1,0 +1,1 @@
+program A : YT : takes x, xkD : integer array returns boolean q : integer array; bR, HNM0, xQ : boolean array; chillax end main : let z[- true - not 99900 / true] = array 2; when case - 3 < true - 02 - 1 : chillax end end

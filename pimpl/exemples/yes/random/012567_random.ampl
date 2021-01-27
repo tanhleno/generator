@@ -1,0 +1,1 @@
+program T8Oaa : q : takes aO, l, H0 : integer; J, g, ZsL, m, Ur : boolean array returns nothing a, l, f, Ja : integer; w3D, Q : boolean array; pop; when case - 9 : chillax end case 7 : input Gd end case 86 : chillax end case 6 : chillax end end main : chillax end

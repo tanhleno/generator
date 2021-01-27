@@ -1,0 +1,1 @@
+program V : main : input ax; do M(- 7 * 103); while(7) and 586 or 42 /= - 8 - 45 : when case 8 : pop end case 3 : chillax end otherwise : chillax end; do jrH(54); when case 57 : chillax end end; do j(- 24, 36, 2); let b29 = array 51 end

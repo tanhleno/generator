@@ -1,0 +1,1 @@
+program ZS : oO3aa : takes O, P, N : integer array; W : boolean; MI, W, Z, p, j, G : integer array returns boolean array Z7 : boolean array; J2, r3Baa, l, n : integer array; F8 : integer; U : boolean; while - 776 + 4 : pop end; input m68[4] end main : chillax end

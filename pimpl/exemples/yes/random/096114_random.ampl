@@ -1,0 +1,1 @@
+program g : main : when case - Y and q2[1] > - (0300) and not 140 : while - 936 : do uo(0430) end; input V[594]; let b[9] = array 60; let UX3 = 105 end otherwise : while 986 = 143 : do P5(7) end end; pop - A4 and 2 + 55; do QT_((661) + 4 - 3 /= - 13 - 70500, - 9 /= 0) end

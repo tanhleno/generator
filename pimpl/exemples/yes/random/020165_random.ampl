@@ -1,0 +1,1 @@
+program FR : KZ7 : takes Xo, K : boolean array; w : boolean returns integer output "" . 9 = 58100; input T[- 3 - 03200]; output 7 . ""; output "\\" end main : gvda, J0, x, D, Q5Z0a : integer; chillax end

@@ -1,0 +1,1 @@
+program W : ue6 : takes a5Z0a, B : integer array; U : boolean array; ho : boolean array; q8, p1, cp, z : boolean; C3U, B, x : integer returns boolean array output "" end Y : takes OEp, B, oG : integer returns nothing do R8K(84) end main : o2, Y, sn, Lq, t8Daa, L, J : integer array; S4 : integer; yM : integer; output "5<" . not 3 < 4 - 1; input EQ end

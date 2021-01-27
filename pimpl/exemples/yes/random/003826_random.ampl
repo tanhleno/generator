@@ -1,0 +1,1 @@
+program v9 : R : takes z, L4, q, K9, f : integer array returns nothing do b(- true and 1); pop 9 = 283; when case 0 = 7 : do s(1); pop end otherwise : pop end; pop 270; output "" end uPI : takes Y9 : integer; F6 : integer array; C : integer returns boolean array chillax end main : pop end

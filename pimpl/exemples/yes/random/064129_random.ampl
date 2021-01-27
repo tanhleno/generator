@@ -1,0 +1,1 @@
+program h : c : takes uqd0 : integer returns nothing do I92(- true and 4 <= - 73000 - 24, 98) end RA : takes c82a : integer returns nothing do f(0470) end h : takes HfN, Y8sa : integer; c, Y060 : integer returns boolean array tH : integer; Q : boolean; when case 1 = 2 : input w end; input NO[08]; output "" end main : K08 : integer; chillax end

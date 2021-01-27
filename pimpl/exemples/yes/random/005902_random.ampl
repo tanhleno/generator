@@ -1,0 +1,1 @@
+program n : E : takes BOCaa, e, v1, Od : boolean returns boolean B0 : boolean; when case false + 17 >= - 88 - 01 : input Ny[48400]; when case 6 : chillax end end end main : let Gi10 = - true and not 42500 end

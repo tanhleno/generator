@@ -1,0 +1,1 @@
+program T8 : main : when case - true rem(0) + (13800) rem false and 2700 + 2 and 5 - 33 - 4 = - false and(5) and 9 or 11 and 006 + 460 : let Z[- 3 - 3] = 1 end otherwise : when case 1 : while 4 : chillax end; pop end; input I[0]; let Z = 50 end; when case - true : chillax end otherwise : chillax end end

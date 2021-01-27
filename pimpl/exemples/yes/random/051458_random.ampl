@@ -1,0 +1,1 @@
+program P : p : takes L : integer; n : boolean; l1 : boolean array; E35, jZ6a, WV : boolean array returns nothing T, c : integer array; X4, y, T9x, E7 : boolean; chillax end main : Ch, No : boolean; C60aa : integer; do R(- true and not not 81); let c9[1 or false and 4] = array true and true and 445 end

@@ -1,0 +1,1 @@
+program Q : e5h0 : takes A5 : boolean returns nothing chillax end OJ : takes e1 : boolean array; s : integer array; M1, s25, S : boolean array returns nothing M8X : integer array; let l[2 - 4] = array 7 - 46200 end main : x : integer array; chillax end

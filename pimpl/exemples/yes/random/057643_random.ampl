@@ -1,0 +1,1 @@
+program j : E : takes kv : integer array returns boolean array chillax end main : IM : integer; zG : integer array; v85aa, q, G : integer array; ND, t : boolean array; Sv : boolean; do q(- false or false < - f or(64) and 1, s80[9] < not 73 and 6 - 0); while - (238) / 8070 + not 7 > - QI and 5 - 2 : do n46(66 = 81300, 5) end; output - 1 <= 913 . "/" end

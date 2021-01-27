@@ -1,0 +1,1 @@
+program X6maa : L420 : takes a, nz, G : boolean array returns integer K, u, f, Ch : boolean array; while 9 + 1 - 41 : let o = array 2; pop end; output "'"; let v[63] = 3; output ";" end JKl : takes D : integer; Ib, P_ : boolean; zsIaa, L7 : integer array; G : integer; DIg0a, X, DW : boolean returns boolean chillax end main : o : boolean; chillax end

@@ -1,0 +1,1 @@
+program YHH : main : U, pd : boolean array; let v[- _ - 951 * false and 6480 + false and 02 - 69] = array not true * false + not 642 - (4) and 9 + 1 - 11; when case - F5(36) <= - 728 - 7 - 1 : while 9 = 2 : chillax end end end

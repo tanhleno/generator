@@ -1,0 +1,1 @@
+program f : main : while(8) : chillax end; let i[- F7 and gZq and 417] = array - true rem 8 and 1 or(2) and 9 + 9 - 314; when case - true and 85 - 04 : chillax end otherwise : let nq = 5; when case 57 : chillax end end; let xc = 80; while 6 : chillax end; do Pu40a(4); do c(4); input j end

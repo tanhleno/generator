@@ -1,0 +1,1 @@
+program S390 : _ : takes x, H, j : integer returns integer output "\t"; pop 61 end Z370a : takes h, z88aa, u7, C : boolean array; xz, p, b4oa : integer; l, X : integer array returns nothing G, p, a, V : integer; L12, Wn, q4 : integer; O : boolean; T99aa : boolean; input a8Baa end main : chillax end

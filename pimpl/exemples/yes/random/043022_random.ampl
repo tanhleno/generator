@@ -1,0 +1,1 @@
+program P0T : iE : takes z : boolean array returns integer do K_(- not 9 and 9770 or 67000 - 6 > - 94 - 6); let B[- 41 - 0] = 968 = 167; do n9(2230); pop; let v = 77; do iv(4); pop end main : input u4[false]; output "9\n!a"; do Eo20a(true + 8) end

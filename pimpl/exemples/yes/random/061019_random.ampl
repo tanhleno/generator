@@ -1,0 +1,1 @@
+program var : v1 : takes Ze3 : integer array returns nothing M : integer; Q : boolean; when case - q and 28 + 8 - 4 : chillax end end uh50a : takes b, g : boolean; q : boolean array returns nothing chillax end main : output false or(43600) and 90800 + 0 = - true and 0 . - 0 and 888 . - 4 <= 9 . 89; input D[false or 588 + 5]; output "" end

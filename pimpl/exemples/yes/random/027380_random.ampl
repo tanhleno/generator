@@ -1,0 +1,1 @@
+program P8i0a : MB : takes I, w5 : integer array; k2kaa, S, t : boolean array returns nothing chillax end L : takes O, e2T : integer array returns nothing o, YLQ : integer; chillax end main : chillax end

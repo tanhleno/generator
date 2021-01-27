@@ -1,0 +1,1 @@
+program k : k1 : takes is, N3, G, n, p, xR, q : integer array; d, c0 : boolean array; c, W : integer array returns integer array input h5; pop; when case 022 : let m = 356 end; when case 638 : chillax end case 5 : chillax end end main : output "" . not 319 end

@@ -1,0 +1,1 @@
+program m1 : V : takes Q : integer returns boolean IX, e : integer array; chillax end F01aa : takes T, D, LN, m : boolean returns nothing l4R, b5 : boolean; F : integer array; do c5j(8, 4 = 1); do kEq0a(5 = 5); when case 9 : chillax end; input d2 end main : chillax end

@@ -1,0 +1,1 @@
+program tj : y : takes e, Q, l1 : boolean returns boolean array B7, B : boolean array; Wl0 : boolean array; pop - 0; pop; when case 29 : when case 055 : chillax end end case 97 : chillax end; output "5o0" end c : takes B4, Q610, vk, i9w0a, ux, d8, u91 : boolean returns nothing pop 6 = 7; while 583 = 5 : chillax end; while 064 : chillax end end main : chillax end

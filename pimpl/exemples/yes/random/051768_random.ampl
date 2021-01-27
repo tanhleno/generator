@@ -1,0 +1,1 @@
+program YV : qrA0 : takes A : integer; e4 : boolean array; T2 : boolean array returns nothing do T(false or 21 >= 1560 - 86, 018 = 11, 83 = 6, 55, 6570) end Ao : takes h, a4J, _4pa : boolean returns nothing Wd : boolean; L : integer array; let s6[26] = 47 = 0 end main : E9 : boolean; Nh, ws, u : integer; D, Pi, q : boolean; ZFs, R : integer array; chillax end

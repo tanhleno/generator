@@ -1,0 +1,1 @@
+program yo : qw6 : takes i7 : boolean array returns nothing qq1, u, f8 : boolean; Z : boolean; chillax end main : aOLa, P : boolean; input F; while - false + (3) or 10 - 61 = not 74 and 0 : pop 15; input f[62]; while 0 : chillax end end end

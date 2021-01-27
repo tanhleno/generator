@@ -1,0 +1,1 @@
+program z : t25 : takes i, l, R, E2, V6 : integer array; r : integer array returns nothing chillax end main : pop; output - j and 9 + 50000; when case - not 2 and 0 - 47 : chillax end otherwise : let T2 = 3; while 4 : chillax end end; while - 25 >= 10300 : chillax end; let e = 7; pop end

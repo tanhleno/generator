@@ -1,0 +1,1 @@
+program JI0aa : gF : takes Q5, X81aa : integer array; Ds, F : boolean array; j, I : integer returns nothing Z : boolean array; let y[true and 8 + 1] = - 0; let j = 7 = 037; when case 68500 : chillax end otherwise : pop end end main : u5T, _, r7, qlHa, n : boolean array; chillax end

@@ -1,0 +1,1 @@
+program n : w : takes O, U4G0, x810a : integer array returns nothing q9a : boolean; input s1; output 5 end main : lF, e : boolean array; e970 : boolean; J, M, f, CG7a : boolean array; n, U, M6, q : integer; chillax end

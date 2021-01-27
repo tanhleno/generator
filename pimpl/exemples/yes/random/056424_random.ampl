@@ -1,0 +1,1 @@
+program C : e : takes z2 : integer array; dPwa : boolean returns nothing kP, N5, A : integer array; when case(8) + 2 - 70 : pop end case - 6 /= 4 : chillax end case 83 = 475 : chillax end case 6960 : chillax end case 7 : chillax end end main : lii0a : integer; Wzh, V6 : integer; output - false + (47800) and 2130 - 8360 . "" . ";3" . 3 = 1 . 117 . "zf!"; pop end

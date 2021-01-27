@@ -1,0 +1,1 @@
+program W : I : takes D, t2, D370a : integer returns integer D : boolean; let O0[not 7] = array l or 1; while 04 - 6 : let T = 60800 end; output "sz\""; when case 9 : chillax end case 76 : chillax end otherwise : chillax end; let iHf = 9 end main : i25aa : integer array; chillax end

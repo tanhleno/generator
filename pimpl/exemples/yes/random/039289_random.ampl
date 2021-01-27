@@ -1,0 +1,1 @@
+program _ : h1 : takes wds : boolean array; R50, NR : integer array returns nothing chillax end c : takes nAyaa, c4aaa, wW7 : integer array returns nothing m, A6 : boolean array; Z : integer; let Q = 8; do x(02); output "e" . "" end main : o, l, i, y0V : integer array; y, G : integer array; chillax end

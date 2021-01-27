@@ -1,0 +1,1 @@
+program S : main : r, p, D9, G, h, E17 : integer; pop - not(8770) <= not 2; let Q8Eaa[- not(695) and 2 and 47800] = (3) or 2 - 1 <= 32900; let k[(5) and 003] = array false; let k[- 37 - 06] = 3; do cP(07 = 7); do f49(5, 85); while 5 : chillax end end

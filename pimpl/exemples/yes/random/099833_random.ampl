@@ -1,0 +1,1 @@
+program H : main : while true + jYJ = true and not 3 and 9 - false - 9630 - 0 : let _ = array - 5 - 4; output ""; input h[519] end; pop; when case - false and 0 : input r0n[123] end otherwise : chillax end end

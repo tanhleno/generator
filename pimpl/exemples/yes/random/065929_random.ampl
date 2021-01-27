@@ -1,0 +1,1 @@
+program V : main : do lx(- (39500 = 2) - not g180a * not 2 >= 0 - true and 19700, - ALm(9) * (80) and 0, true and 95); when case - true rem not 0 + 52 and 04 or 93 >= - 21 - 220 : output 8 end case false + 8610 - 15 : chillax end otherwise : chillax end; output "" . "" end

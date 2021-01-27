@@ -1,0 +1,1 @@
+program F : v : takes X2U0, EU90a, v3, AF, l : boolean returns boolean array chillax end main : h, o, K, m6n, G89, fuE, Ma : integer array; P : boolean array; B, x7 : integer; P, e, k : integer; chillax end

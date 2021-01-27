@@ -1,0 +1,1 @@
+program g3 : e : takes IdA : boolean array; T, T : boolean returns integer E : integer; chillax end z : takes x : integer returns integer array Zc : integer; lBM0 : integer array; while - 0320 - 5 : chillax end end main : A7f, Y12a : boolean; input q[(7) / false / false and 73 + (0) * false] end

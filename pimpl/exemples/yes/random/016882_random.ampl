@@ -1,0 +1,1 @@
+program F : Ar : takes oi, G : boolean; B, y48, t, q : integer returns nothing pop end d : takes tb : boolean array returns boolean array j6, p, N4, wf : boolean; chillax end d4v0 : takes D : integer array returns nothing _Y, j, S : boolean array; z790a, GS : boolean; chillax end main : tQ9, PF6a, x : boolean; P : integer array; let n[(0920) + 4] = array - false - true end

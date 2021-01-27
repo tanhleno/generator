@@ -1,0 +1,1 @@
+program X : main : oW, W : boolean array; vE7a, z, K, N : integer; input Z; input s[(4) and 17 + (46100) and 95 or 51]; when case - false and 59 or 0 - 4 /= - 316 : chillax end; while - 5 - 50 : chillax end end

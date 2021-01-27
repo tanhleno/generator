@@ -1,0 +1,1 @@
+program K4P0a : T55 : takes Y, j, T2 : integer; P : integer; T, n12 : integer; QmS0 : boolean; _7 : boolean returns boolean output 16 - 44 /= 7740; while 2 : let cF = 6; output "kJ\"a" end; input I end main : ns, z : integer array; chillax end

@@ -1,0 +1,1 @@
+program n : s6 : takes Ed, N180a : boolean; Q4, H : integer array returns nothing m, k, zGjaa, l : boolean; g, R, w, na : integer; chillax end o : takes U0, c, I, Kt, zn, w : boolean; s : integer returns nothing when case 5 /= 17 : chillax end end main : t65 : boolean; W : boolean array; chillax end

@@ -1,0 +1,1 @@
+program yz : main : when case h : chillax end case - 29 : input z[6]; while 8 : chillax end; input _H3; while 9300 : chillax end; pop end case true and 2 : input Z; while 9 : chillax end; output "\\"; pop end case - 0 : while 29 : chillax end end case 1 = 34 : chillax end case 25 : chillax end otherwise : chillax end end

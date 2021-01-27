@@ -1,0 +1,1 @@
+program e : main : F7d : boolean array; when case true or 8 / true <= - i7k[10] : chillax end case - false : when case 6 : when case 21 : chillax end; pop end case 9 : chillax end; let y5[21] = 1; when case 4 : chillax end; output "!" end; pop; do D78a(3 and 91 or 4 - 9 >= 732); let H570a = array 636 - 09; pop end

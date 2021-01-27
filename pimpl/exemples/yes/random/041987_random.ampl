@@ -1,0 +1,1 @@
+program Z3V0 : L : takes Y : boolean array returns boolean chillax end main : V, G53, sw, n : boolean array; U31 : integer array; p, K, r9, r : integer array; fg : integer; S0, o0t, r : boolean; chillax end

@@ -1,0 +1,1 @@
+program F : EgYa : takes R6D, Ux : boolean array; Ij0a : boolean returns nothing while 93 and 59 : do k(3); while 6510 : chillax end; output "" end end z : takes B9O, q, P : boolean; J77 : integer returns boolean chillax end main : chillax end

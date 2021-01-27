@@ -1,0 +1,1 @@
+program x3f : d : takes B, h5, _C7 : integer; Y100a, b1 : integer; DV, iq, g : integer array returns nothing N : integer array; when case - not 88 - 0 : while 6930 : chillax end; output ""; output "T"; pop end case 72 - 26 : when case 98 : chillax end end case 22 = 1 : while 1 : chillax end; pop end; pop 69 = 5 end main : pop end

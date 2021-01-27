@@ -1,0 +1,1 @@
+program N : D9 : takes K : boolean array returns boolean array z3n : boolean array; O : boolean array; y, G : boolean; a8 : boolean; do I8(false and 72 = 7) end dO : takes P : integer; S, F, I, u1 : boolean array returns boolean array XN : integer; when case - 5 : chillax end otherwise : do w(9); pop end end main : chillax end

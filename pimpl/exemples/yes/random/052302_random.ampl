@@ -1,0 +1,1 @@
+program a1 : x : takes L050a : integer; J : boolean returns nothing p : boolean; chillax end main : when case(1 = 5) : chillax end case not(46) / 9 and 93 : chillax end otherwise : input d; while 4 : chillax end end end

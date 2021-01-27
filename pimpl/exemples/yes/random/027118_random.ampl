@@ -1,0 +1,1 @@
+program oy : Q8Ba : takes N, j34 : integer array; oK, T, X, Z, h : integer; V, d, T8 : integer returns nothing v, G, KF20a, mWdaa, DU9 : boolean array; pop - 39 = 451; pop; do H(454) end main : output - true >= 75 . "" . - 8; while - (2) * false and 4340 : input ov end end

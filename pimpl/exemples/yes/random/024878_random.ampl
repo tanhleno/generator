@@ -1,0 +1,1 @@
+program M6 : D : takes h, N : boolean returns nothing while Yo > - 8 - 0390 : chillax end end M : takes p, N, los0 : integer returns nothing chillax end o6 : takes c : boolean array returns nothing T6 : boolean array; output 9580 end main : chillax end

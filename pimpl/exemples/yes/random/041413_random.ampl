@@ -1,0 +1,1 @@
+program Utz0 : h : takes F : boolean array; F9 : integer returns nothing output - 8 . "" . "\"\\" . "" . "D=" end P2v : takes I2, m : integer array; U, kHO : boolean array returns boolean do mE(4090 /= 04, 9 = 7); let _[59] = 2; when case 834 : pop end end main : X : integer array; j, p100, T : integer; J6 : boolean; Q : boolean array; chillax end

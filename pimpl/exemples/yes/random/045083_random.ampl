@@ -1,0 +1,1 @@
+program br : V : takes F : boolean array returns nothing output 820; input e[3 - 0]; let I = array 7 end e9r : takes s : integer returns integer F : integer; chillax end main : while - false or false rem not 4580 and 918 or 537 /= true - not 694 : chillax end; do dzda(- false rem iL, (107) and 50); pop 26 - 948 /= 58; output 06 = 1 . "\\" end

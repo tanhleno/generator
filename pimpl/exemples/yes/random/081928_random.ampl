@@ -1,0 +1,1 @@
+program m : main : SKnaa : boolean array; P39aa : integer; n : boolean; when case - (202) and true / true and 4 <= - (2) or _K0aa and 5 or 717 : chillax end case - (1) and K8u0 and 9 - (0) and 51 : chillax end otherwise : chillax end end

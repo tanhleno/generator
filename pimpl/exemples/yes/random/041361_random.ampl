@@ -1,0 +1,1 @@
+program Z8 : u : takes tV : boolean array; m : integer returns nothing C, x, Q : integer array; UP : integer; chillax end main : when case true : let VK[2] = 02 = 1 end otherwise : input V[9] end end

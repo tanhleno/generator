@@ -1,0 +1,1 @@
+program a : main : while 31 + true : when case 11 - 4 : output "" end case 06 = 2 : chillax end case 1 : chillax end end; while - S[076] = - 38100 : chillax end; do xGXaa(- (5) <= 1, 91 <= 92300, 06, 97, 999); pop end

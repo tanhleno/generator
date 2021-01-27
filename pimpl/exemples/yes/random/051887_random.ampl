@@ -1,0 +1,1 @@
+program M : Z : takes C : integer; n : boolean array returns boolean array gbn : integer; p : boolean array; n : integer array; chillax end main : tOcaa, u : integer array; e, w : boolean array; g : boolean array; pop not(9); input lL[c[1] and false]; output ">" end

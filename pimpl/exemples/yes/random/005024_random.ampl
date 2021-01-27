@@ -1,0 +1,1 @@
+program W : Ue1 : takes TM, H, TT, f : boolean array; H7 : boolean; J : integer array returns nothing chillax end f : takes l : integer array; Aw, KEJ, z, Sj : integer returns boolean array output 8 end p : takes u510a, n20aa : boolean array returns nothing pop end main : chillax end

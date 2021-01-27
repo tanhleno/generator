@@ -1,0 +1,1 @@
+program u9 : d760a : takes C5, i : boolean array; r, Cx_, t4faa, wD1, I : boolean; a99aa : boolean array returns nothing E51 : boolean array; T, p32 : integer array; U, G, G : integer; L : boolean; chillax end main : do x(- (65 = 680) + (5) /= - false rem(8) + _41); pop - false + 4 >= 7 end

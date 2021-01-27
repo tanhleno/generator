@@ -1,0 +1,1 @@
+program zV : main : when case - true rem(53500) and false : chillax end; while - s and not 2 : while 564 = 6 : chillax end end; when case - true and 58 - 4 - 67700 : output "" end case - 6 : chillax end end

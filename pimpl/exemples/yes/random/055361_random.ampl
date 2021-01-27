@@ -1,0 +1,1 @@
+program w9 : u0 : takes s : integer array; a350a, x : integer returns integer chillax end main : y5K, R0O0a, k : integer array; while false * 1 - _(0) and true and 01 : input jD end; let k15[true rem true and 5] = - false /= - 5 - 68; pop - 05; while 38 = 1 : while 09 : chillax end; output "\"" end end

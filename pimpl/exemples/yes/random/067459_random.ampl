@@ -1,0 +1,1 @@
+program TOd : main : do h(not not 7 + false * U7haa and 9 >= - false or(1) - 2 - 80, - (30) - not 7 and 54 = false, 8090 and 9410 + 98); input u[- true]; let RT[- 1 and 9] = - 33800 - 20; let a = 15 end

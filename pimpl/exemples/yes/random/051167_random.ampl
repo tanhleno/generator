@@ -1,0 +1,1 @@
+program bW8 : B : takes OT : integer; h, h : integer array returns nothing pop 66 - 6 < 50; let S1 = 70; while 713 = 5 : do n4(28); pop end; output "" . ""; input DY; do o(0); pop end main : K, X2 : boolean; j7ba : integer array; chillax end

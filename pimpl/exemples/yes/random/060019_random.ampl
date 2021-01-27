@@ -1,0 +1,1 @@
+program QQ : A2 : takes R : integer array returns nothing chillax end main : n : integer; do B(true / false * false - true + true = w8[7] - false and 9 + 7, - false - e and 46 + 8, true or 41, - 340); do d(- false * (8) and 1 - not 97 and 74 > not 0 and 1, false + 77, - 23 /= 445, 2); when case S79a - 536 : output 0 end end

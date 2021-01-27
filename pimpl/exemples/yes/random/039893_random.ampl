@@ -1,0 +1,1 @@
+program fG : m : takes f3 : boolean array; m : boolean array; f : boolean array returns integer chillax end s : takes _ : integer returns nothing ar5aa : boolean; chillax end main : let h = pE or(9580) + 7 - 4 end

@@ -1,0 +1,1 @@
+program p : A : takes hI0aa, R : boolean returns boolean chillax end jT : takes S, W7H0 : integer returns boolean p : integer array; chillax end main : l : boolean; d9, R860, d9, F : integer; pop - true; output "H" . "\"" . 2 . 902 . "#5" . ""; pop - 196 end

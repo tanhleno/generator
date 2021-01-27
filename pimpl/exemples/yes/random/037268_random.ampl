@@ -1,0 +1,1 @@
+program P : Fw8a : takes aUN : boolean; a : integer returns integer array let f[- (5) and 5 or 7 - 79] = 5 /= 634 end main : pop; when case - T3[2] and IU and 00 - 0 and 2 - 0 - 6 = - not 30 - 471 : do RN(52900 = 83) end case - true and 4 : let v = 391 end otherwise : output 1 end; do N(- true, - 862 - 9250, 6 = 3490, 4, 6); do K(9 /= 0) end

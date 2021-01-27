@@ -1,0 +1,1 @@
+program x9 : h : takes BUO, d6, p9Y, uO, k37 : boolean; n : boolean array returns integer array Caya : integer array; do Rm(true or 8 - 1, - 09 - 00, 8) end main : g, S9Saa : boolean; Bnh : boolean; chillax end

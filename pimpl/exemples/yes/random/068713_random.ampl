@@ -1,0 +1,1 @@
+program V : main : nEF, r0c, b8, w6, l0 : boolean; I : boolean array; c, U4p : integer array; when case - not(7) * S28 : chillax end case 5 > - (8) + 6 - 3 : when case 2 : input x end otherwise : chillax end; pop 22 end end

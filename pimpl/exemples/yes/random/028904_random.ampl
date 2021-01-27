@@ -1,0 +1,1 @@
+program s : d : takes Z9Z, ps : integer array; QZ : integer array; F : integer array; w6 : boolean returns integer d, Z : integer array; P : integer; input w[(51) and 9]; output ":" . 49 . 2; output "" . 79 end main : chillax end

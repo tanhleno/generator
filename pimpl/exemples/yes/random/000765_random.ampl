@@ -1,0 +1,1 @@
+program q : V3 : takes ea, W, X, AC, t, g, n : boolean returns integer array output ".\\" . "\n"; do M2(- 31); let Y790 = 4 end main : JYT, afE0a, _, k6X0 : boolean array; a : boolean; while(17) rem false and(5) and 99300 or true /= 0 : when case 3 < 4 : input bQ; when case 60 : chillax end end case 08600 = 80 : chillax end case 8 : pop end end end

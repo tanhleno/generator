@@ -1,0 +1,1 @@
+program TY : x4L : takes z9V0a : boolean; B7, a4 : boolean array; X, k : boolean; v, pX4, X55 : integer array; S, l8 : integer array; o : boolean array; tR3 : boolean; v : boolean returns nothing while - not 14 and 76900 - 31 - 6 : chillax end; pop 3; pop end main : chillax end

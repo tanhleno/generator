@@ -1,0 +1,1 @@
+program w74aa : L0waa : takes Mr : boolean returns integer Y0p0, dXF, E : integer array; f, x99 : integer; Q, E : integer; L, Q : boolean; chillax end main : pop; do Yb(- true - V and 071 + 92600 - 07600) end

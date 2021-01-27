@@ -1,0 +1,1 @@
+program f8t0 : main : hK : boolean array; o, p, R8, C4_a, X, N : integer; when case 4 and t : output 982 = 4 . 85 . "H7" . "77a"; while 16 = 87 : output "" end end case B[48] /= - (9) or 6 : chillax end case - (1) - 6 - 2 < 5 - 3 : do coCa(305) end; do G(- true rem YW and 69 = - H and 6 - 7) end

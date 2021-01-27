@@ -1,0 +1,1 @@
+program qj6 : Cn : takes C030a : integer; Uo9, t, _0i : boolean returns nothing chillax end main : when case not(5) * (91700) / true - 4 : while - 27 : while 553 : chillax end end; let z = array 9 end case(01) + not 8 and 3 + 2 : chillax end otherwise : chillax end end

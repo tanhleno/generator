@@ -1,0 +1,1 @@
+program m : Q : takes LS, f, f69 : integer returns nothing do T(true and 11 > 6, - 0 - 83 >= 84) end main : output - (499) / (3) + (6) - 3 - 4 . - not 86 + 76100 > 7 - 25 . "5\t" . 3 = 5; do Br(O / false and 60 - 1 and 2 = - not 557) end

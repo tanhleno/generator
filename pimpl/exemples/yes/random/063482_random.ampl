@@ -1,0 +1,1 @@
+program B : s : takes H : integer returns integer U0Baa : integer; Q : boolean array; cH, L : integer array; K2, dB : boolean; rY : boolean; f : boolean; input t71; do w(4 - 56000 = 5) end main : chillax end

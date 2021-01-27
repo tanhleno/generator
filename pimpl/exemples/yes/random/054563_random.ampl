@@ -1,0 +1,1 @@
+program fc4 : x : takes r : integer array; B, kV : boolean array; J : boolean array; cp, A, i, H5, hD : boolean array; f8a, gN2 : integer returns boolean do b(589 and 2, - 1 <= 9, 7); while 5 <= 31 : do yZ90a(7); input J; pop end end main : M6 : integer array; bj8 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program H : o6 : takes x3p0a, k6, C, P : integer array returns integer e : integer array; Hjl, Dkh, j, vF2 : boolean array; while(19) and 60 or 52100 : chillax end; let t69aa = 94 = 3 end main : k, r, To, d14, Ta80a : boolean; pop 8 / true; while Wt or(4) and 1 : chillax end; while - 7 and 33 : chillax end end

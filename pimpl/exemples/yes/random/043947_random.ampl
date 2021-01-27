@@ -1,0 +1,1 @@
+program cq0 : AEA : takes v : boolean array returns nothing M, _F, R53, O, Ia : integer; chillax end Sp : takes Q : integer array returns nothing Q : integer; chillax end main : do R4Daa(true = - (2) - 2, - false + false and 6800 or 7 - 74 < 6 and 5); let U = array - false and not 9 and 1 - GYe0a and 8 end

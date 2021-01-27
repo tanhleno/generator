@@ -1,0 +1,1 @@
+program bu5 : iu : takes t4j, s, z, C, p4 : boolean; qF, nZ, b, T : boolean returns integer array r : boolean; a0n0a : integer; input H3[true and 5] end R : takes Cb4aa, XC : integer; H6 : boolean returns nothing A, VF8, k1 : boolean; input p end U : takes qr : integer; XG3, Dk : integer array returns nothing chillax end main : chillax end

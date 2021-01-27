@@ -1,0 +1,1 @@
+program N : xO9 : takes h, O0, H : integer array; K : integer returns boolean evH0 : integer; q, l250, BC5 : integer array; X : boolean array; s : boolean; B900a : boolean; output 1 - 314 < 7; output "" end main : h5, mY7 : boolean; chillax end

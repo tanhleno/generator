@@ -1,0 +1,1 @@
+program t3 : VD : takes U1O, E, vnP, Lw : boolean array returns integer array d4Za, x, T, F : boolean; x5L, Qo70 : boolean array; F : integer array; s, N9x : boolean; R : boolean; do u3(z and 6 - 54) end xaN0 : takes j320a : boolean returns nothing chillax end main : cA : boolean; input qx; input v78[- r[4] / not 3 and 762 or not 277] end

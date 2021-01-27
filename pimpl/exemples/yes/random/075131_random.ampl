@@ -1,0 +1,1 @@
+program BG0aa : main : a, f : boolean array; n38 : boolean array; h5Vaa : integer array; pop 09 / false >= - false; pop 7 + 0 - 2680 < 366 - 2; when case false + 2 <= - 47 : output 78; let i = 99900 end; input y[- 2 - 7] end

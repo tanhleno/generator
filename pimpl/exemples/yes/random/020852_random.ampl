@@ -1,0 +1,1 @@
+program MF : u76 : takes fs, J0R : boolean array returns boolean array A, h, z : boolean array; Hkzaa, L : boolean; W : integer array; chillax end main : W : boolean array; x : integer array; input yn[- B rem true]; let N[(4) and 1 or iW and 2] = - false and 55 - 4; do I(7 - 37 > 7 - 5, - 229 - 3 /= 3); do b(4) end

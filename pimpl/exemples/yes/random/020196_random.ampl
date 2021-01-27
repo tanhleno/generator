@@ -1,0 +1,1 @@
+program V : pC : takes l3P, E : boolean array; l : boolean returns nothing l : boolean; A : boolean array; pop; input Yt[- 9 - 08]; pop; pop end w : takes t98 : integer array returns boolean array let o[79 - 76] = 491 = 0; let o5g0[69] = 6; let B[3] = array 1; output "" end main : chillax end

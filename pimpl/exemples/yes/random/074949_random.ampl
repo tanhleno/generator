@@ -1,0 +1,1 @@
+program a : main : XZ, X : boolean array; Pkx, n99 : integer array; b : integer array; _, c : integer array; when case - not 810 / d18 and _ or not not 55 and not 36 and 9 or(7) and 261 - 9250 /= false : chillax end case true / not 8 > true : input b end; let c[- (4) rem 183 and 25] = array 86 rem false end

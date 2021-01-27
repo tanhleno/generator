@@ -1,0 +1,1 @@
+program a57aa : main : when case true + 165 or true and 44 /= (93) rem true and 12 : let N[- 6 - 7] = 75300 = 059; output ""; when case 6 : pop end otherwise : chillax end end case - false / false and 5 : chillax end case 7 /= - 1580 : chillax end end

@@ -1,0 +1,1 @@
+program n0 : l : takes A, k, _, K, z, k : integer returns nothing chillax end main : SI4 : boolean array; LJV, O, n : integer array; when case not true * 52700 rem 511 and 4 - not(1) = - 5 : when case - 41900 <= 25 : input B9; do cI(00) end otherwise : when case 41 : chillax end end end case - true / 0 + 9 and 6980 : let K4v[90] = 3 end; input j[- true]; let J0R = 395 end

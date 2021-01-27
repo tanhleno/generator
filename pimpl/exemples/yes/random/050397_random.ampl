@@ -1,0 +1,1 @@
+program A : G98 : takes t : integer; B, i : boolean; Oa : boolean returns nothing output "1\\aa" . "" . 25; output "5"; pop 718 end main : while - 9 rem false / not 2 : while 40 >= 7 : pop; let h = 3 end end end

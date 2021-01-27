@@ -1,0 +1,1 @@
+program z7 : b3 : takes x9G : boolean; b : integer array returns nothing k31aa, X, R : boolean; chillax end v : takes y2 : integer returns integer N44 : integer array; pop end main : Z, RKc : integer; output "q" . "02"; input M[- Y(6060) * not 805 and 03100 or 60] end

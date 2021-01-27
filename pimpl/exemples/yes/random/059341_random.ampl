@@ -1,0 +1,1 @@
+program P9 : W4 : takes j : integer array returns integer g, c : integer; W : integer; chillax end Y : takes E100a, h : integer returns boolean array M : integer array; T7G0a : boolean array; P, g : boolean; output "880" end main : L : boolean array; chillax end

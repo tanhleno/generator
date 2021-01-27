@@ -1,0 +1,1 @@
+program l : j6 : takes D : integer array returns nothing pl, sr, z, k : integer array; V, c5u, X, Y : integer; x2w : boolean; when case - not 8 and 99 = 0 : let ikvaa = 924; do U3(8) end end main : chillax end

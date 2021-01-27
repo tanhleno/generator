@@ -1,0 +1,1 @@
+program o5 : mS : takes R : boolean; b : boolean; Y, gQ20a : integer array; o, J_m : boolean array; B3, It2 : integer array returns nothing v : integer; X0W : boolean array; output "" . "" . "{" . 5 . "8" end Yz : takes c : boolean returns nothing while 1 >= 5 : pop; while 06 : chillax end end; let S[6] = 1 end main : chillax end

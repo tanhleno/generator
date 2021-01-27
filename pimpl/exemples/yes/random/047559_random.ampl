@@ -1,0 +1,1 @@
+program I9 : H : takes t : boolean returns nothing chillax end m : takes A : integer; T7, hP10, o : integer; WE : boolean array; opW, oL4aa, lY : boolean array returns nothing chillax end O : takes OvN : boolean array returns integer A, p, c : boolean array; chillax end main : t : integer; f, z : boolean array; input K[_m[5] rem(78) * (1) and 9 or true + not 8] end

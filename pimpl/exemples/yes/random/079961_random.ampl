@@ -1,0 +1,1 @@
+program we6 : main : N : boolean; let C2 = array false / true rem 999 - false / false and 8 + not 875; while not not 6 or true + 51 - 3 : do w9g(3 = 306, 453); let X6M[1] = 52 end; while true and 11 or 43100 - 34 < 73 : chillax end; input xf[66 - 5]; do W40aa(6) end

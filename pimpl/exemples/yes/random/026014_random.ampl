@@ -1,0 +1,1 @@
+program m25 : x9P0 : takes N, X : integer; L : boolean; n6_, s, a8 : integer returns boolean Gl9aa : boolean; chillax end fz7 : takes H : boolean array returns nothing o, _78, D, D07 : integer array; fS, z9s : boolean; pop; while 18500 : do A(4); pop end; let c = array 49 end main : k7t, sG : boolean; chillax end

@@ -1,0 +1,1 @@
+program S : F : takes t : boolean returns boolean f : integer array; d, g6 : integer array; chillax end main : E3, W, Jk, OmA0, V8Y : integer; ua : integer array; input rB[0 * not false / g and 86 + G20[5] or true and 69]; input M; let d = array false + 3 - 2; while 2420 : chillax end end

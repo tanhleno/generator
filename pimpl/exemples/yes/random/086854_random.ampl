@@ -1,0 +1,1 @@
+program GT : main : R : integer array; n : integer array; q : boolean; pj : boolean; T0 : integer array; let R[k[755] * (8) / true and 4] = true + YPA and 5 = - false; do K13(- false and d and 1, - 2, - 4 >= 65000, 1, 2) end

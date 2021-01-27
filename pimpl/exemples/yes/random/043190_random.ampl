@@ -1,0 +1,1 @@
+program f : Q : takes U : boolean array returns integer p3 : boolean; while - Ia7 - 2 : chillax end end O : takes w7, P, p : integer array; tHo : boolean array returns boolean array chillax end main : d, L, cxT, c : boolean; chillax end

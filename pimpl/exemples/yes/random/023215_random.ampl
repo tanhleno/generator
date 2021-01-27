@@ -1,0 +1,1 @@
+program t : v1 : takes r, O : boolean returns boolean Z, K8 : boolean array; xLYaa : boolean array; output - 0 /= 572 . "\"" . "" . ""; output 7 . 3 . 054 end main : B, SD : boolean array; Y : boolean array; G, T94 : boolean; Ivxaa, D, w, X : integer; pop not false + not 7 and 36 end

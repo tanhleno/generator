@@ -1,0 +1,1 @@
+program mI : j : takes DU7, bQj, c, ZX : integer array returns boolean array av40, R : integer array; T : boolean array; chillax end m0 : takes w : integer; z, I6, SF, d4, GF3 : boolean array returns nothing A07 : integer array; let P8[- 4 - 4] = array 17 end main : f : integer; chillax end

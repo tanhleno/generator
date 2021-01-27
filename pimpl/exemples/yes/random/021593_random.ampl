@@ -1,0 +1,1 @@
+program z : U : takes nji, G3 : boolean array returns integer chillax end main : while false / JO9(1910) / 26400 and 515 : output "890" . 8; do J(55 = 1); while 2 : pop end end; output "}\"\"a"; let C = array - 573; while 10 : chillax end end

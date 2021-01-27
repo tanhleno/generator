@@ -1,0 +1,1 @@
+program ZSO : main : do o(- true rem 6870 * not 71 <= (72) and dF + 1 and 77 - 30 - 3, - false); output "O\t" . - 0 . "2"; when case - false - 9 = - 7 : do M7(43) end case - 1 : while 26 : chillax end end case 38900 = 3 : let r = 1 end end

@@ -1,0 +1,1 @@
+program d : _1 : takes _ : boolean; wQ0a : boolean; h5 : boolean returns integer chillax end x : takes s5, X, I, l : integer returns nothing et : integer array; let a4qa = array 7 end f : takes w, y : integer array returns nothing N7, J : integer; chillax end R : takes s6k0 : boolean array returns nothing output 748 . "" end main : chillax end

@@ -1,0 +1,1 @@
+program ltqa : main : y10 : boolean array; while - false / true / true and 2 or TX[9020] * (0) + c and 3 = - true / 73 or Z and 7 or 57 - 627 : when case - 13 : input i5 end case 0 = 479 : when case 418 : chillax end end case 6 : chillax end otherwise : output "" end end; output - W and 1; let N[- D] = - 97 > 076; while 1 <= 97 : chillax end; output 2 end

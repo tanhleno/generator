@@ -1,0 +1,1 @@
+program U : main : when case - (5 = 4140) * true - not not 9 or not 15 - 8320 - 8 : when case - 9 - 1 : let hnDaa = 190; while 7 : chillax end; pop end otherwise : chillax end end case - (959) rem KR and 0 or not 7 - 4 : let T[822] = array 9 end otherwise : while 0 : do c0j(4); pop end end end

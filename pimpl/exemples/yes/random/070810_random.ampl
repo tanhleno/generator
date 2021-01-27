@@ -1,0 +1,1 @@
+program q : main : jp, Z0, D6 : boolean; o8, oAD, N : boolean array; while - (7 = 89) < - true and 2 + true : output "\"?!"; do Zlm(4 = 0, 9); pop end; let V[- false - false] = array x1[2280] rem s end

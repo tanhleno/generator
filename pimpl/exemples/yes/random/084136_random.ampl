@@ -1,0 +1,1 @@
+program U : main : A4 : integer; V : boolean array; v28aa : boolean array; c9, v250a : integer; output - true - 2 and 88 > not 38 . "\tx" . ""; output - true and 79 or 2 - 737 >= - 10 - 3 . - 4 - 9 /= 16 end

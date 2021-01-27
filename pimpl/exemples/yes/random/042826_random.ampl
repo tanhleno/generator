@@ -1,0 +1,1 @@
+program mp : e : takes b : boolean array returns integer array output - 31 >= 4 . "" . "\n" . 851 . "\"90a"; output "" end b : takes B : integer array; Z8 : boolean returns integer chillax end N : takes n, x : integer; J, Np, A, c8, Y670 : integer; j, e060 : integer; P : boolean array returns nothing output "" . 90; let eKKaa[8] = 502 end main : pop h(84) rem Y end

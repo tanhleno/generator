@@ -1,0 +1,1 @@
+program O : I220a : takes eI : boolean array; H, h : boolean array; e1z0a, P8, rS : integer; WU, u : integer array returns boolean array let f[- h and 7510] = 16 - 9 > 1780; input q end T2 : takes k4Ja : boolean array returns boolean array b0ta : integer array; let k[- 18] = 9 end main : Z : boolean array; ES2, K, g, ah : integer; output "L" . "" end

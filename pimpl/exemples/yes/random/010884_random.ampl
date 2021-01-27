@@ -1,0 +1,1 @@
+program n1 : d : takes TD20, J4O, t : boolean array returns integer array while QTa0a or 9 < - 909 : input Y[4]; pop; input a; pop end end main : D0J0a : integer; s, PC, i1Xa, V : boolean array; jV0 : boolean array; let F = (1) * On; do c(not not 540 rem true < - true and 6); input ahF[07 and 32 + 0]; input N6; let _xk = 72; let I[2040] = 91700 end

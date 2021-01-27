@@ -1,0 +1,1 @@
+program k : JGI : takes Wo, b, K : boolean returns boolean s, l, U : integer array; l, m33 : boolean; U : boolean array; Ywl : boolean; q : boolean; output ""; when case 0 - 68 : chillax end otherwise : do V(38) end; let B[7] = array 92 end main : oO, Y5ha, n, K, U5 : boolean array; Og : integer; N, DA3, W, M, z27 : boolean array; let z1 = - w <= - not 4 end

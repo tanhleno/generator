@@ -1,0 +1,1 @@
+program f : y : takes q77, a, J, B : integer array returns nothing w : integer array; r, a : boolean array; let FfG = - 6 - 2 /= 4 end W : takes u06 : boolean returns nothing chillax end main : chillax end

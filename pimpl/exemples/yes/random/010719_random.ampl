@@ -1,0 +1,1 @@
+program I5 : MZ : takes T, M, y : boolean array returns boolean m : boolean array; when case - 57 : do Iv(5, 3) end case - 9 - 65 : pop end case 91 = 38 : let M = 2; pop end case 12 : chillax end end main : G, V, o990, R : integer array; when case not xk50 > true rem true and 49 or V7 : chillax end end

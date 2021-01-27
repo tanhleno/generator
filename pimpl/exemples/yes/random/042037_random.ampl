@@ -1,0 +1,1 @@
+program R : b8 : takes o9 : boolean array returns boolean do X(- (3) and 6540 or 1 <= 368 - 1) end T : takes w, e, I12a : boolean returns nothing q5 : integer array; pop 77 = 86; output 8 end main : chillax end

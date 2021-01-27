@@ -1,0 +1,1 @@
+program _ : gF1 : takes EL : integer array returns integer array c : boolean; K, Su0aa, _p, j : integer array; input b[true] end main : do oYE0(true - (02) + not 5 and 9, (5)); output - Rzz - 4; output ""; while 7510 - 6 : chillax end; when case 9 : chillax end case 1 : chillax end case 7 : chillax end end

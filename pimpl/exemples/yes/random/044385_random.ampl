@@ -1,0 +1,1 @@
+program U : MG : takes jn7 : boolean array returns nothing IZ, YI20a : integer array; SA : boolean array; w : boolean array; chillax end main : do o(- true / not true rem false and 2 or true * 3 and 2) end

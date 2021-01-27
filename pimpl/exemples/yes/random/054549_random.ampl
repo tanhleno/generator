@@ -1,0 +1,1 @@
+program u : GnX : takes y01 : integer array; D, S : boolean array; O1, rv1aa : integer array; h, i2 : boolean; Y, o, i0 : integer array; r3, QMk : integer returns integer h : integer; input B5O[- (44) or 7] end main : Rxn0a, SG, Y, C5Aaa : boolean; Y2 : boolean array; chillax end

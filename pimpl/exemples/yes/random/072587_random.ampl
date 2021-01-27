@@ -1,0 +1,1 @@
+program EJ : main : M, r4_a, X5 : integer; while 10 * AJi0 : output 53 = 6 end; when case - Og(5) / l and 8 : chillax end case q - 9 /= 28 - 1 : let Rx = array 06 end case - 0 - 8060 : chillax end otherwise : chillax end; input p; input th; let G = 8; let o = 035 end

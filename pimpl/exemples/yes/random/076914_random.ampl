@@ -1,0 +1,1 @@
+program k : main : A, M : integer; when case s and(35700) rem O and 7 <= (5790) - true and 961 + 031 - 0 : do q(- 7770 - 88 > 361, 15 = 181); do k(43); input mk; while 8 : chillax end; while 09 : chillax end end otherwise : output 7; when case 6 : chillax end otherwise : chillax end end end

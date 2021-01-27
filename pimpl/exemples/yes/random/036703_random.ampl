@@ -1,0 +1,1 @@
+program Ysl : A : takes v : boolean; m : integer array; D, ou : boolean array; LZ8, F, O56 : boolean array returns nothing g, V : integer array; g : boolean array; OHE0a, G05, GT : boolean; pop end main : input t5D0[not true / CF1(6) * (68) and 60] end

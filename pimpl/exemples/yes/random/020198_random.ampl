@@ -1,0 +1,1 @@
+program e : P : takes t680a, ZD : boolean array; t : boolean returns nothing g110 : boolean array; chillax end C9 : takes H : integer; W : integer returns nothing g : boolean array; A4j, vCxa, C8 : boolean; do BG(7 - 3) end e3v0 : takes B, aHy, V, q0, oJC, p : integer array returns nothing yF1, g3, G : integer; chillax end main : Vr, Nn, c : integer; chillax end

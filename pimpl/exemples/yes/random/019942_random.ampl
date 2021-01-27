@@ -1,0 +1,1 @@
+program u35a : O8 : takes kpp, W : boolean array; mT4 : boolean array; Y : integer returns integer y : boolean; do bA9((43), 2 - 73200, 3040, 19) end main : O : integer array; SUl : integer array; let WzE0a = array true + false + (1) and 7370 end

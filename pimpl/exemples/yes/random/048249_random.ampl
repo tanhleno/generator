@@ -1,0 +1,1 @@
+program T : X : takes K : boolean returns nothing L, Hmt0a : integer; let O = array false or 5580 - 8; output "" . ""; do K2S(39, 1) end main : En : integer; Z, H : integer array; etq : boolean array; U46 : boolean array; chillax end

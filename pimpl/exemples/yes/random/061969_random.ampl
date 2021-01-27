@@ -1,0 +1,1 @@
+program L8 : S : takes _7 : integer returns boolean array ve : boolean array; let A = 9 - 4 < 52300 end main : let T[- 80] = array - not false + false * not 93 and 99 + 611 and 46; do m(35 - true or 87 - 386, - false and 5 > - 857, - 87); pop - 6 - 0 = 56900 end

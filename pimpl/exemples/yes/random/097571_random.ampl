@@ -1,0 +1,1 @@
+program Lq1 : main : when case true - not not 02 : pop 963 end otherwise : chillax end; when case - M1[44] or true or 20 > 2670 + 67 - 19400 : chillax end case - false - 10800 - 39 /= 39400 - 61 : do k(1) end end

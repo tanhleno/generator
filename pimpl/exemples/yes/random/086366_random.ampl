@@ -1,0 +1,1 @@
+program w : main : M : integer array; w : boolean; R : boolean array; P : boolean array; when case(0130 = 5) : chillax end otherwise : chillax end; while - false * A8 and 5 : when case 093 : when case 85 : chillax end; pop end; while 52 : chillax end end; let G6 = array true and 4 + 5 - 95; output "\tn" . ""; do Y(363 = 7720, 2); input t; while 1 : chillax end; do a(8930) end

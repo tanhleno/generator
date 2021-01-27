@@ -1,0 +1,1 @@
+program l : rb5aa : takes e : boolean returns integer u4N, r, t7E0 : boolean; chillax end m3 : takes p9, x : integer array returns nothing chillax end Q8 : takes b390, FA6aa : boolean returns nothing vo1a, pLj0a : boolean; when case 800 = 2140 : do N(4); pop end; while 95 : pop end; output ""; do JbI0(4330) end main : let JB0 = true or 380 end

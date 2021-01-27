@@ -1,0 +1,1 @@
+program n : main : let a = - true * W5 and 1; while - not(0600) > - (168) and 34 : input Z end; while - (7) and 13 - 4 - 431 : do U5D(7, 51); when case 7 : chillax end; let a = 780 end; pop 9; do A(82100 = 5) end

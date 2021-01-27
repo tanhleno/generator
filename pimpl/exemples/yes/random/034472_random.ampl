@@ -1,0 +1,1 @@
+program V : DS80 : takes V : boolean; BO0, R1m : boolean array; P : integer array; w4 : integer array; T75 : boolean returns nothing I, a : boolean; let Q = array 83 and 1 - 6 - 34 end main : D, M01aa, w, dT4 : boolean array; Qf, MU, h : integer array; pop not(21) and true and 199 - not 692 - 10; let RtRaa = array - (2) - (5); input T; let K = 8 = 55100 end

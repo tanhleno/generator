@@ -1,0 +1,1 @@
+program n : main : OsM, I65 : boolean array; F, qb : boolean; o, u, L : integer; Qjl : integer array; do aU1a(011 = (7), w[5] rem false and 5 + I48 or 1 - 755, I and 8 + 39 - 06 <= - 322 - 1270); do y(- 348 and f = PM, 1 and 44000, 3 >= 9, 6 = 9, 9, 0) end

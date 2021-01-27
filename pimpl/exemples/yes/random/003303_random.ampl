@@ -1,0 +1,1 @@
+program s : tl : takes RJ, b, O, pn, G7o : integer; C100 : boolean returns nothing Oa2, e9 : integer; chillax end Z : takes y : integer; D, Nn8, Bs : integer returns integer array f9C : integer; while - 4 - 1 : do K(7) end; while 7 : chillax end; let S = 244; when case 99 : chillax end end main : G : boolean; chillax end

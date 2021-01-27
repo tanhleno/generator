@@ -1,0 +1,1 @@
+program N : k1 : takes Z7, n8 : boolean returns nothing chillax end W1jaa : takes a1 : boolean; xq : boolean returns integer chillax end main : Xa4, C : integer array; O0, F73 : boolean; do Y1(- B(72) * not d9 rem false /= - false); pop; while - true and 76 /= 8 - 94500 : chillax end end

@@ -1,0 +1,1 @@
+program j : main : L : integer; output(1300) >= not 8 + 4 . 9 + 74300 <= - 18 - 8 . - 772 . 91 = 682 . 2060 . "" . "\t\\"; do b0h(- c and l and 35, - false or 509 - 75 < - 3 - 71, - 109, 936 = 01, 7, 9) end

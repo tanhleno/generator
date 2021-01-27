@@ -1,0 +1,1 @@
+program b : K : takes Z11, C4 : integer array returns boolean array F_v, n, D, l4 : boolean array; when case - (271) + 803 - 5 > - 9 : do Jf(5, 4); do v(86) end; input u[- 3840]; input r4[6500] end main : chillax end

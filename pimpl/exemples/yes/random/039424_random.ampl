@@ -1,0 +1,1 @@
+program c : uM2 : takes Oi : boolean array; V, WR : integer returns nothing chillax end y20aa : takes V, r, U : integer array returns boolean array i : integer array; input S9; let E4T = 85; let A3l0 = 7; do u(7) end main : Z1 : integer array; chillax end

@@ -1,0 +1,1 @@
+program b : main : when case - Wq(4, 6) / false or false * not 735 and 3 or true and 6 >= 76800 or true or 88 - 531 : chillax end otherwise : chillax end; output "3E" . "4l0"; let L[- (868) or 98100 - 94] = - 1 - 145 >= 030 end

@@ -1,0 +1,1 @@
+program q8 : t : takes b8a0a : integer array; T : integer array; i : integer; q : boolean; u, e : integer; K130, bz, d : boolean; jKF, A79 : boolean; p01 : boolean; O5 : boolean returns boolean do Fcdaa(- 8 and 65 + 8, - 2 >= 756); let n48a = array - 8 end main : d7 : boolean array; output false <= N or 9 end

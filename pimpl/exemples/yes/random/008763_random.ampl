@@ -1,0 +1,1 @@
+program V780 : fL : takes y, B, kG1 : boolean; s1, J : boolean array returns nothing oB, t : integer array; do H0(- (5) or 5 - 54 /= 2, - 0); do W58(- 1 = 29) end main : x0 : integer array; let jh[- not 38] = array 133 + (7) rem true and 8 - r or 5 - 09400 end

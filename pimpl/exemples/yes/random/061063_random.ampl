@@ -1,0 +1,1 @@
+program P : u : takes W7f : integer array returns nothing jU1 : integer; when case - not 29 and 45 or 999 /= - 862 : do ou3a(5, 3) end case - 10 - 88 : chillax end; when case 239 - 3 : chillax end; let m[8] = array 5 end x : takes B, L16aa : boolean array; J : integer array returns nothing Cg6 : boolean; R8c, m3 : boolean; H : boolean; let w = 07700 end main : chillax end

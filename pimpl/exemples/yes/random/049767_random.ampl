@@ -1,0 +1,1 @@
+program S : dw : takes b6c0 : integer; Bt60, H, uN50a : boolean; w, m3 : boolean array; r : boolean returns integer array f : integer array; Y, D, E : boolean; d6J0a : boolean; pop 994; do nm(8 - 09 /= 9, 82 = 1); when case 13 = 7 : input T; pop end case 53 : pop end case 55 : chillax end; input Y; when case 1 : chillax end; while 06700 : chillax end end main : chillax end

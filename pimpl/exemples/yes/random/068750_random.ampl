@@ -1,0 +1,1 @@
+program i : main : Mu, D, e3ha, L5, W1 : boolean; Jt : integer array; G : boolean array; U, T : integer array; do v((67 = 00)); output - true and 6 or 93; when case - 2 and 02800 - 136 < 739 : chillax end otherwise : let p = 2; when case 02 : chillax end end; let m9Z[1] = 5 = 91 end

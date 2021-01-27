@@ -1,0 +1,1 @@
+program a77aa : c2 : takes _, w : boolean; Jg6, b : integer returns integer array while - (45) and 81 + 85 - 6 : while 60 : chillax end end end r : takes y9, G : integer returns boolean G, nU : boolean array; chillax end main : F2, e, G : integer array; b, J : boolean array; H : integer array; A : boolean; z : integer; u : boolean; H91 : boolean; C : boolean; chillax end

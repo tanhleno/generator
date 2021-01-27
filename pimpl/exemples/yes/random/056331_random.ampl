@@ -1,0 +1,1 @@
+program a : XCR0a : takes WM : integer array; N : boolean returns integer array i : integer; Z : boolean; T : integer; h3, Q98aa : boolean; output "?"; pop 1; do F1(0); let L[74700] = array 9; input Z2P; input Ga; pop end main : d44, F : integer array; do E(7 > - f(46) - 27 and 28, not OZ - true and 18 < true or 56) end

@@ -1,0 +1,1 @@
+program Vs : H93 : takes V5 : boolean returns boolean array l, o, S, L, X3 : integer; YC8 : integer; output 94; pop 4 = 1; pop; output 80 end X : takes R2A : boolean; u : integer returns integer D88 : integer array; chillax end main : U, q1 : integer array; chillax end

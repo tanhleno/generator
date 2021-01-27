@@ -1,0 +1,1 @@
+program B : J : takes Y, l, Vor : integer array returns nothing input M660a[true and 64600] end main : when case(6 = 3) + (7) : input b1M end case(79800) : chillax end; let K8 = array - not 0 and(49) and 7 + true and 5 end

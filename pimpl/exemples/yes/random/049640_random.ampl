@@ -1,0 +1,1 @@
+program n : B : takes w : integer; DW, n8, n, x : integer; Lz1aa, ek : integer; j : integer array returns nothing input y[- (279) and 3]; when case - 005 - 6 : pop; pop; pop end end y : takes M : integer array returns nothing do J6(- 59 >= 5, 7 = 2, 9, 3) end main : let J[- not(8) + true] = - not not 6 and Uw and 1 or false - 3490 - 4 <= false or 39700 - 058 end

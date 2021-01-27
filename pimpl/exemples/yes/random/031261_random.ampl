@@ -1,0 +1,1 @@
+program c7 : o : takes p1yaa, z1 : integer returns boolean array b, c9a, fI9a : boolean array; S, q : boolean; chillax end main : a8, R2, o : integer; while - hb8a * false - not false rem not 67800 and 31 : chillax end end

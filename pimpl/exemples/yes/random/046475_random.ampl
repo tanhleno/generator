@@ -1,0 +1,1 @@
+program wN6 : A : takes h : boolean returns integer array chillax end main : Q80aa : boolean array; j, F6, p : boolean array; when case QU4 * (9) or not 93 > - true : output 297 = 6 . "" . "" . "" end; output "7u"; pop - 6 - 35 end

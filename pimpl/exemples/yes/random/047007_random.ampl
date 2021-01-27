@@ -1,0 +1,1 @@
+program E : v : takes w8 : boolean returns integer f7R, l, t, A, rf : boolean; chillax end K : takes k : integer returns integer pop; do Upo(71) end main : do n5(- false - not false = false, 215 = (68) + 43400 - 1); output - E - 20800 end

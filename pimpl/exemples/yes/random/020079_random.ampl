@@ -1,0 +1,1 @@
+program ft : J1P : takes E, b1Aa : boolean array; D : boolean array returns nothing input w0[false + 8960]; when case 236 /= 92000 : while 2 : chillax end; let x = 46 end; when case 3 = 51 : chillax end case 6 : pop end end main : U7x0 : integer; x78a, W : boolean array; b, B5, F, G, z6 : integer; chillax end

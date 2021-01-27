@@ -1,0 +1,1 @@
+program R : sAa : takes m : integer returns nothing let P = - 60 = 6; do r0(97, 43, 73); input O64a[70900] end S : takes X, _ : boolean array returns integer pop end main : do U0O(- not false * 805 and(22800) or n(5) + not 31600 and 4 - 18 - 27 <= DK / (87) + 3, not not 6 + (8)); input G990[- I5W[052] * true and 2 + U] end

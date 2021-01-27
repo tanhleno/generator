@@ -1,0 +1,1 @@
+program D : x : takes v1P, M5, v4_aa, L8, t1 : integer array returns integer array input S6[(13) and 1]; pop 52 end SK : takes S : integer array returns nothing let nv = 22 = 51700; when case 7 : chillax end otherwise : chillax end; while 79 : chillax end; while 4 : chillax end end main : A, h : integer array; Vc, c0Ua, h : boolean array; chillax end

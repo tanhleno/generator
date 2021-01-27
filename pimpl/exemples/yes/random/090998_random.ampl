@@ -1,0 +1,1 @@
+program C : main : let a7D[- not not(123) / false rem s and 78] = array true; let d7 = 2 + 088 - 19 <= 396 - 3; when case true and 96 or 5 - 777 : while 90 : chillax end; let r = 88 end case - 6 - 192 >= 6 : while 76700 : chillax end end case 9380 = 71 : let WJ = 199 end otherwise : input p end end

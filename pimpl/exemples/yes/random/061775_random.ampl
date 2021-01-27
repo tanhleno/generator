@@ -1,0 +1,1 @@
+program j7ja : o : takes I2ma : integer returns boolean array chillax end main : aQ70 : integer array; g8 : integer; while 6 : when case - 82 - 436 /= 9 : chillax end otherwise : output ""; pop end; do E(4) end end

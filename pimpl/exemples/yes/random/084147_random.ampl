@@ -1,0 +1,1 @@
+program WE : main : tAZ : integer; _3 : boolean array; i : integer; N990, x, Es70a : boolean array; output ""; while false * not 70 + not 43 and 57 - 0 - 3 : chillax end; input f; let o = 6; let D = 95; when case 17 : chillax end case 5 : chillax end otherwise : chillax end end

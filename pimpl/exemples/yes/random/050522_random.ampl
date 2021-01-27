@@ -1,0 +1,1 @@
+program r39 : F : takes lHG : integer; lr, b : boolean array; y : integer; n710, U, jD, Y1F : integer returns boolean array L15 : integer array; do G460(2 and 0 + 4 - 78 <= - 4); when case 508 - 45 < 43 : let i4 = 4; do h(17); pop end; output 3; output "" end main : x : integer; let a = array true rem false; let r[A(2) / not 3 and 81] = array - not not 68; do Z(- G, 5) end

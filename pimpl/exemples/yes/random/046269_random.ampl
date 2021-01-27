@@ -1,0 +1,1 @@
+program t5 : Q : takes L : boolean returns boolean a14 : integer array; chillax end n : takes m, EI9a, Z3, t0D : boolean array; K250a : boolean; CE : boolean; a, mx, A, U : integer returns nothing K, Z71, R4, W : integer array; do LR5(- 91300 - 6) end main : chillax end

@@ -1,0 +1,1 @@
+program EE : S : takes qu7, q, X, n, e, H, L, d0H : integer array returns boolean array while not 8 and 7 : pop end end main : when case - (5) / (8640) and 151 and 1 + false rem true - not 8 - 92 : when case - 4 - 29 : while 24 : chillax end; output "7y\"a"; pop end case 4 = 7 : pop end case 86 : pop end otherwise : chillax end end otherwise : chillax end; pop end

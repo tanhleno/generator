@@ -1,0 +1,1 @@
+program m0 : U : takes n, K, a2 : boolean array returns nothing while 0 and 9 - 613 - 4 : input P870 end; while 2 > 1 : while 815 : chillax end end; do iF_0a(7840 = 4, 36) end main : l : integer; s, hI4, z, R : boolean array; u : boolean array; chillax end

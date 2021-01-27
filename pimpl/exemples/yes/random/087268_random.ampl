@@ -1,0 +1,1 @@
+program j : main : f : integer array; output - true * MW1; when case false and not 1 and 3930 or false and 8 > not 983 : chillax end otherwise : when case 1 : chillax end otherwise : chillax end; pop end; when case - not 5 and 44600 or 49 - 47 : pop 21 end end

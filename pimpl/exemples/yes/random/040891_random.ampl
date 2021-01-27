@@ -1,0 +1,1 @@
+program Q : p : takes wV : boolean array; c : integer array; N18 : boolean returns boolean r0 : integer; output ""; pop; output 05 . 6 end main : WF90a : boolean; Z : boolean array; p : integer; F : integer array; pop - not 37; do qk((3) > 81000 and 7); output - 649 end

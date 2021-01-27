@@ -1,0 +1,1 @@
+program i : main : L, O, UDwaa : integer array; m, K, fac0 : integer array; pop not not 7 * false and 34 - not 3 and 2 or 9730; while(8) rem true and 4120 >= - N and 042 or 107 : output 4 . "" . ""; input W[99400] end end

@@ -1,0 +1,1 @@
+program K : p : takes u, p5 : integer array returns integer array chillax end D5 : takes tM00a : boolean array; OY : integer array; WRoa, a, vQ_ : integer array returns integer let uZ = array - 34; let DR8aa = 84500 end main : X : boolean; rY : boolean array; C, F94, O, d7, m : integer; chillax end

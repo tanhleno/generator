@@ -1,0 +1,1 @@
+program t : main : S20, A, E, G, V : integer; b, Q, Ye, W730a : integer; n2 : integer array; _z, j : integer array; e, M1, I2h : integer array; pop true /= true and 80; when case true - false + 711 : let r6[7] = array 275 end case - true and 6 : chillax end case 4 < 98 : output ""; while 71 : chillax end; pop end end

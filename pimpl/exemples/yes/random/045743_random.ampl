@@ -1,0 +1,1 @@
+program fB : Bv : takes i : boolean returns boolean array l : integer array; XFu, We6 : boolean; chillax end S3 : takes E980, a : integer; X, Ux8aa : boolean; d : integer array; Z, O, TH7a : boolean array returns boolean array chillax end o : takes v3c, r, I : boolean returns nothing pop end main : chillax end

@@ -1,0 +1,1 @@
+program AV : S : takes M, T : boolean returns boolean array o0 : boolean; xo40a : integer array; _05, rx, N : integer; output 2 = 172 end Q3 : takes e5, B, c550, P6f : integer returns integer array WUda, I : boolean array; chillax end main : e : integer array; input V[- false - false * false] end

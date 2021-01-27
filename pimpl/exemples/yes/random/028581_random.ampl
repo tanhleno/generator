@@ -1,0 +1,1 @@
+program H : Y7 : takes K, Lg9 : integer array; mIG : boolean returns nothing do U1(true and 45 - 0 <= - 8 - 8, 5 - 33700 > 6, 4) end xg1 : takes l : boolean returns integer array chillax end main : Uub, c : boolean array; Y : integer array; V : integer array; output - (9) and false < not 1 . ""; do eB40((5) * F2 or(5980) and 9 - 8 - 5590, true and 3) end

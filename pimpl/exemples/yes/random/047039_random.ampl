@@ -1,0 +1,1 @@
+program Z : r : takes CT6 : boolean returns integer v, n, B : boolean; chillax end main : a : integer; L : boolean array; while - 37100 / not not 9 and true and 0 or not true + not 39 + 9 - 29 : chillax end end

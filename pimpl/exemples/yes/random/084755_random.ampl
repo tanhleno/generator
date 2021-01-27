@@ -1,0 +1,1 @@
+program C : main : p3 : integer; let u4f0 = array not false; input tG3[false rem 910]; when case false and 12 - 9 - 0 : output 3; while 55 : chillax end end case 3 /= 4 : chillax end case 369 = 2 : chillax end case 8 : chillax end; pop 585 end

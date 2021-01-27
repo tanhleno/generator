@@ -1,0 +1,1 @@
+program i : main : Q : integer; r, A, b87, M8 : boolean array; h : boolean; R72, O, P, V : integer; _220 : integer array; while false and not not 065 rem tB and 6 + (7) : output 37 . "\""; input G[0]; input r[077] end end

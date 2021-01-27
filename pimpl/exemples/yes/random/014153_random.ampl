@@ -1,0 +1,1 @@
+program pP5a : _ : takes E, a150a, NO : integer array; w : boolean; g, D, Zju : boolean array returns boolean F : boolean; I35, X0, W : boolean; output 655 - 8 <= 7 . 4 = 1 . 711 . "E" end main : QNwa : integer array; chillax end

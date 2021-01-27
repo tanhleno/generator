@@ -1,0 +1,1 @@
+program kG : b : takes A : integer array returns nothing pop; let N[- 51] = 664; input M; output "" end X32 : takes kY3 : boolean array; T : integer array; w : boolean returns boolean j : boolean; Z : boolean; chillax end main : Awda : integer array; chillax end

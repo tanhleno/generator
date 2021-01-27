@@ -1,0 +1,1 @@
+program a790 : main : when case - 9 * not u2 * false + not true * not 0180 : when case 09 : while 0 : chillax end; let g6 = 45 end; while 56200 : while 5 : chillax end end; pop 8 end otherwise : chillax end; while - (8) - true and 70 : chillax end; pop - 7 end

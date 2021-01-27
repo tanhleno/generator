@@ -1,0 +1,1 @@
+program p : I : takes L : boolean returns nothing i9 : boolean; t, K, D : boolean; chillax end PK : takes R8, F, b, c4m0 : boolean returns nothing pop 68300 = 93; when case 1 : do y(014) end otherwise : pop end; input GJM[865]; let G = 815; pop end main : while not B8 <= - 7 : when case 326 /= 77 : do P(53) end; while 270 : chillax end; do U(6, 237); let h = 5 end end

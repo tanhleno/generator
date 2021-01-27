@@ -1,0 +1,1 @@
+program b : A : takes DA, Mi9 : boolean array; w : integer array returns nothing yV, iT : integer; input R[I1 and 86] end main : output - false and false and 49; input F; let W[- false] = 5200; output 3 = 9 end

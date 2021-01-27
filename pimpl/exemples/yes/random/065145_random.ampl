@@ -1,0 +1,1 @@
+program _ : WZ : takes jnt : integer returns nothing f : integer array; while - not 7620 and 43600 - 898 : chillax end; input K; input B end q : takes Mb30a, e : integer array returns integer array l : boolean; T : boolean array; SNb : boolean; p : boolean; F : boolean; output 4 end main : z : integer; chillax end

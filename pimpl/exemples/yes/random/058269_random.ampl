@@ -1,0 +1,1 @@
+program Cx_ : V : takes M : integer array returns boolean qWnaa, n : integer; vv7, s : boolean array; when case(78) + 38 - 23 : pop 8; do u(3); pop end otherwise : when case 8 : chillax end; when case 1 : chillax end; pop end end main : chillax end

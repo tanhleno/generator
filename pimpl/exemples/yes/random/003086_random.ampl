@@ -1,0 +1,1 @@
+program La : FML : takes O, e9, e270a, yX2aa, j : boolean returns nothing output "\"Z\"" . 13; while - 2350 /= 6 : chillax end end W8A0a : takes b : boolean returns integer m78a : integer array; chillax end k : takes xV4 : integer; FX : integer array; aptaa : integer returns nothing bl, H : integer array; pop 634 end main : chillax end

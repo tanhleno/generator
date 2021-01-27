@@ -1,0 +1,1 @@
+program T0 : main : l4, r : integer array; uo, j : boolean; while - false + false - true and 05 or 9 : chillax end; input s8F; when case 2 : chillax end otherwise : output "74aa"; pop end; input _8[- 091] end

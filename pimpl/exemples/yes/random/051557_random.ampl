@@ -1,0 +1,1 @@
+program o : ya8 : takes z : integer; Rz : boolean; Y2W : integer returns nothing c, dg, FG, F, l64aa : integer array; U : boolean array; chillax end main : H, R3, n : boolean array; while not UqI0a(8) and not not 4 : let Kq[71] = 50 end end

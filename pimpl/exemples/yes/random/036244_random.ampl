@@ -1,0 +1,1 @@
+program C : F : takes M0 : boolean; s : boolean returns integer input B; pop; do _9(6, 7, 9) end main : z, J8 : integer array; s : integer array; T : boolean array; d7ya : boolean; while - false * (3) / false and 17500 : chillax end end

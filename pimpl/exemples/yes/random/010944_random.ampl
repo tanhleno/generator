@@ -1,0 +1,1 @@
+program k3 : ZSs0a : takes h75a, e, d8 : boolean array returns integer q060a, JY_aa, d : integer array; chillax end main : xj_ : integer; let oA[true] = 9830 * true and 9; do y1(- true rem 572 - not 10, (8) + 3 - 4 > 325 - 0) end

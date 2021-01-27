@@ -1,0 +1,1 @@
+program wrp : main : while - false + false and false and 2 < 861 - not 393 and 3 : pop 5 = 7 end; pop - false < - 0 - 4; do S9(W060 and 13 - 27 - 2, - 5930 < 58300); input n; while 401 = 04600 : chillax end end

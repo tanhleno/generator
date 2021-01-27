@@ -1,0 +1,1 @@
+program b : QQ : takes P840a : integer; g1P, vV1a : boolean; o_Da : integer; y, JA0a : boolean; Y, j : boolean array; R, h3y0a : boolean array returns boolean array pop - 5; do q(0); when case 4 = 226 : while 3490 : chillax end; pop end case 9 : chillax end end main : I : integer; s, z7, T, l : boolean array; chillax end

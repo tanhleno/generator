@@ -1,0 +1,1 @@
+program f : I8m0a : takes Y5, _8K : boolean returns integer array chillax end i : takes _, V, o : boolean; SQ : integer array; S : integer returns boolean vIX : boolean array; chillax end k : takes FG : integer returns integer y7, Iq6aa, L : integer array; chillax end main : G, Ic10, m : boolean; chillax end

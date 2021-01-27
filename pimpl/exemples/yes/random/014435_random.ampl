@@ -1,0 +1,1 @@
+program o1 : m : takes pF, L0a, iK9a : integer array; B95 : integer; G : integer returns boolean array M6k : boolean array; n1, y9a0a, IGf, V1h : integer; e, I : boolean; chillax end main : output - true + (6) end

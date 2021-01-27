@@ -1,0 +1,1 @@
+program g81 : M : takes t : integer returns boolean do S5(false and 23 or 3350 - 568 <= 35, - 132 - 05) end Ab : takes G, lk80 : boolean array returns nothing O : integer; let S = array - 727 - 9; do n160(563 = 09, 291) end main : e : boolean array; k, V5 : integer; pop end

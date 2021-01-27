@@ -1,0 +1,1 @@
+program f : main : let y[c46aa] = array false + Y rem true and 8 or 25 and 121; while - true rem 17 and 8 : when case 78 = 90 : while 5 : chillax end end case 040 : pop end case 03 : chillax end otherwise : chillax end end; let H[- 834 or 5] = array 3 and 37 + 436; input W[59] end

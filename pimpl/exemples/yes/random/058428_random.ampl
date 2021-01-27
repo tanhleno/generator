@@ -1,0 +1,1 @@
+program Z8 : Bvb0a : takes M1d : integer array returns boolean GGj : integer array; chillax end main : Dp : integer; uES : integer array; x8 : boolean array; do Kc60(not true, CL and true and 3, not 60600 + 5 - 446 /= - 1260) end

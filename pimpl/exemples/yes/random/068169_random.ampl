@@ -1,0 +1,1 @@
+program G : main : gL10a, n, Q7, u, tR, w, BO : integer; output "6" . - 399 + 0 - 6170 <= 26 - 8; when case - not false rem UP and 74 or false : chillax end case false : chillax end case - 14 - 9 : input o; output "" end; input Ut[true - 0] end

@@ -1,0 +1,1 @@
+program O7 : _2 : takes a, q59 : integer; d82, Q, W47, N, t : boolean returns boolean l1M, u, qD : boolean; A570, sL : integer; O : integer array; while - (29) or 18900 - 4 >= - 4 - 6 : chillax end; input z; do s(06, 496) end main : c, Tce0a, K6 : integer; P : integer array; zf : boolean array; QjA0a : integer; input A; let l[g] = false and 965 <= - 14 end

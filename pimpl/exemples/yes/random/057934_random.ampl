@@ -1,0 +1,1 @@
+program r : b : takes p6 : integer array returns boolean array let P = 50 < 61200 end main : n, C, g7c : integer; Y4d, D3q, K1 : boolean array; while - true * (223) * X9m0a or 49900 + _1 + 6 : while - 76100 - 14 : chillax end; let T[2] = 3 end; output "" end

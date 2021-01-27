@@ -1,0 +1,1 @@
+program U : q : takes c : boolean array; B : boolean; s, Yz, o7, H, n5 : boolean returns nothing u, ef9 : boolean; KA, y, z, N : integer array; i5 : boolean array; _Wq : boolean; let _[- false] = - 2 <= 51 end main : output "$2" . "" end

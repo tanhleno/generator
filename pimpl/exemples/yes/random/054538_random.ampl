@@ -1,0 +1,1 @@
+program rb9 : ky3 : takes afR : integer array; X3, E : boolean array; D, G17 : boolean array returns nothing i3U : boolean array; do jY(- j and 12100 or 6 - 72 <= 35); pop; let l[5] = 646; when case 0550 : pop end case 69700 : chillax end otherwise : chillax end end main : F, Z2 : boolean array; d : boolean array; do S(- false) end

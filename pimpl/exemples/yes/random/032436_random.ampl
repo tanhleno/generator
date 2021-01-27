@@ -1,0 +1,1 @@
+program i6 : Sa : takes HE, v : integer returns nothing do HR(M570a and 0 >= 35 - 0, - 16 /= 2630, 9 = 4) end main : let K = - 72600; do maZa(- (77900) rem l3 /= - 65000 and 9); pop; while - 018 - 0 : chillax end; while 572 = 590 : chillax end; pop; output "\\h!a"; when case 51800 : chillax end; pop end

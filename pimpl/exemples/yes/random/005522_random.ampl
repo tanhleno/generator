@@ -1,0 +1,1 @@
+program gC : Cm3a : takes gX, I, r, k : boolean array returns integer pop; input V end main : O18, K : integer; D0, Nvg, F7, yr, W, k : boolean array; A, E4 : integer; input kA[8 and 8 * 57 and 93100] end

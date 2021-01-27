@@ -1,0 +1,1 @@
+program L : main : while - (81200 = 6) / 5 : when case 8 = 7 : do Y22aa(41); when case 7 : chillax end end otherwise : when case 775 : chillax end; pop end; pop 1 end; do q2(- RZKaa[12] /= (6) - 227); pop; do H99(2 - 0 <= 91); let s = 9 end

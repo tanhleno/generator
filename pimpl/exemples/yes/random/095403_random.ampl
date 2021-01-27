@@ -1,0 +1,1 @@
+program f6T : main : when case(74) : chillax end case - true <= - 70 and 07 + 48 : let x[2] = array 448; let QY = array 42 end case - true and 9070 + 6 < - 79 - 70 : pop 29; do Et(6); while 46 : chillax end end case 7 : input V; pop; pop end end

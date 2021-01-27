@@ -1,0 +1,1 @@
+program Wi : X5 : takes Qe : boolean array; y : boolean array; G, U, kfp0a, Sn : boolean; Z, G, bf2, J160, u : integer; H : boolean array returns boolean T, d : boolean array; e, e : integer array; oj5a, P2 : integer; chillax end gH : takes a : boolean returns nothing G9 : boolean array; do r9(- 1250 <= 1, 2 = 29) end main : chillax end

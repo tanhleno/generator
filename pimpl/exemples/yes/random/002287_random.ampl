@@ -1,0 +1,1 @@
+program T610 : xwS : takes F100a, O, p, C, EZ : boolean; x : boolean array returns nothing do v9(not 0 and 13600, 521 - 7 > 4) end W : takes j73, o, z : integer returns nothing chillax end main : when case not true / true rem false : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program b : tdi0a : takes i, bw30a, iowa, E, cU, y_Xa : integer array returns nothing chillax end O2 : takes ss8a : integer array; z : boolean; C : boolean array returns boolean array chillax end w5M : takes t8a, u, Zz, eB : boolean returns nothing chillax end main : kX, E9 : integer; when case true / 9 / D and 446 or not(6) - 84 = false : let s = array 18 end end

@@ -1,0 +1,1 @@
+program Lr : e : takes F9_aa : boolean; yq : boolean array returns nothing YEx, M, i0 : boolean; do O5J(6 and 163) end YD5a : takes k : integer returns boolean chillax end g : takes J, f9la : boolean array; Z, B : boolean; K, iy, SE, qy80 : integer; F : boolean array returns nothing M1w, i : integer; let Z2 = 6; pop end main : output - true - 0 and 8 = - cp + 1 end

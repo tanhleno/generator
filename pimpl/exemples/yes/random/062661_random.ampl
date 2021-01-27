@@ -1,0 +1,1 @@
+program C : V2 : takes S : integer returns boolean when case false and 4 >= 8 : chillax end case - 0 - 2 /= 5 : chillax end; pop 0 = 1; let FL6[97] = 56200; pop 40; input Rt; pop; pop end R : takes E, Z6 : boolean array returns boolean array u : boolean; chillax end main : pop end

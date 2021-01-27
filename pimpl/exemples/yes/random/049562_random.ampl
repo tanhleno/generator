@@ -1,0 +1,1 @@
+program u : xJ : takes p : integer; Z6A, F, s3, sc : boolean array; hJ : integer returns integer r, JZwaa : boolean; pop; do F0(- 51 - 4 /= 32); when case 2 = 61 : pop end otherwise : chillax end end l : takes Sxg : boolean returns nothing chillax end main : while - true rem true / 10 : let pY = array 7230 end end

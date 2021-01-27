@@ -1,0 +1,1 @@
+program IMH : b : takes Z, V5, M, n, Z : boolean; c, I, FBZ0a : boolean array; V, IR1, X : boolean; Aw, qC : boolean array; Q, W0M, ZL : boolean; K, A, fq : boolean returns integer S, K : boolean array; w : boolean array; let U4iaa = - 0 - 6 /= 060 end main : _C : boolean; output "" . - 84 and 8 - 3 - 7 . "N" end

@@ -1,0 +1,1 @@
+program e : et3 : takes l, O, s, H : boolean returns integer p, R53, W3, v : boolean; when case(908) : while 5 : chillax end; pop; while 2090 : chillax end; pop end case - 6 : input R end case 4 : chillax end case 29 : chillax end case 5 : chillax end otherwise : let N = 5; do K(7) end end main : chillax end

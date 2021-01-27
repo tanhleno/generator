@@ -1,0 +1,1 @@
+program L : WF90 : takes nX5a : integer; hS : integer; W8, Q9, q : integer array returns nothing let u = array 0 end main : while 170 : let H[- 758] = 63; do o(02); output ""; output ""; let R9 = 63; pop end end

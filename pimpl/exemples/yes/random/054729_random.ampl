@@ -1,0 +1,1 @@
+program v : y8 : takes T : integer array; qq, H : boolean array returns nothing v : boolean; z3t0a, n : integer; do P(- (2) and 22 - 7 - 3730 <= 00) end O : takes R, NE6, PY : integer; R0f, q, I0taa, VVG, k9a, k : integer array; t : integer returns nothing while - 1 : chillax end; input D[5]; output 04 . "1" end main : chillax end

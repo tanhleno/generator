@@ -1,0 +1,1 @@
+program R0 : r94a : takes Y : integer; n54a : integer array; yX, i, N : integer returns integer pop end main : B, v : integer array; d1l : integer array; while not Q[230] rem not d89a / not 47 and 2750 : chillax end end

@@ -1,0 +1,1 @@
+program m : h8A : takes T40, q4fa : integer array; r8, F6 : boolean returns nothing pop; pop 5 = 83300; do M(8, 3, 9); let q[869] = array 1780; do sG(9); while 93 : chillax end; pop end main : m : boolean array; when case - 0 * not(44) > - 8080 : output "_" . 9 . 2 . "\n" end case g >= not 6 and 92 + 7 - 37 : chillax end case - not 3530 and 91 : chillax end end

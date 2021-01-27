@@ -1,0 +1,1 @@
+program f : H36a : takes d, B, f : integer returns boolean Y, v, k8 : boolean array; V6, H, zO : boolean; let c8G = - 01500 > 4210; input q5; output ":\t" . 8 end main : i6 : integer array; chillax end

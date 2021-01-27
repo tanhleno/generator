@@ -1,0 +1,1 @@
+program _4X0a : main : when case - false / 08 rem not 889 : when case - 5 : chillax end otherwise : pop; pop end end otherwise : input S7[9]; input b end; let Q1[- p(442) or(5) + 70] = array - true; let a27[not 7 or 3480] = array true end

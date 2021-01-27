@@ -1,0 +1,1 @@
+program t : q8 : takes KA30 : integer array; H10 : integer array returns boolean array bK : boolean array; while 1 : output 8 end end _ : takes B, Kl : integer returns nothing pop end Qj80 : takes XZ6 : boolean array returns nothing p : integer; output "MIaa" end main : r7 : integer; f9n0, e5baa : boolean array; chillax end

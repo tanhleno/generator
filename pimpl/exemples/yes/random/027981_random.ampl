@@ -1,0 +1,1 @@
+program OFJ : _8a : takes C, z : integer array; K, Y : integer array returns boolean array A8 : integer array; chillax end main : when case(94) and C(90) rem not 683 <= 0 : chillax end otherwise : when case 37500 = 6 : output ""; pop end end end

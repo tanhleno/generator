@@ -1,0 +1,1 @@
+program x : a : takes Z, S2, B : boolean returns nothing let S[- not 2170 and 208] = array - (3) and 5 - 141 end main : x46aa, V : integer array; while false + (71) rem(9) and 89 : let T[- 4 - 405] = 23 = 5; let RC2[0350] = array 6; input j[8]; pop end; let P[48] = false and 9 >= 8300 end

@@ -1,0 +1,1 @@
+program vI2a : r : takes J, ZW : boolean array returns boolean let n2P = array - (0) - 4 - 2 end main : OyL : boolean array; J3g0 : integer array; bZ0a, S : boolean; output - 2 > - true - 87; input Z8 end

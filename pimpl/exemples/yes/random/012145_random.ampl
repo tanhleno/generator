@@ -1,0 +1,1 @@
+program o : kJI0 : takes VDA, ope0a, q : boolean returns nothing do O(- not 62 and 07 or 4 - 748 = - 33, 9, 4, 248) end SUM : takes n : boolean array returns integer while 416 - 35 : input lv; do H69aa(6) end end main : chillax end

@@ -1,0 +1,1 @@
+program R : main : _0, x : integer array; r9 : integer array; G, S : boolean; h, ZT, QG, L : boolean array; while - 071 and oS[0] or false - (5) : when case - 2 - 3 : output "q6"; when case 9 : chillax end end; let l = 67 end; do eh(e26 > - false); pop 6 <= 983; output "" end

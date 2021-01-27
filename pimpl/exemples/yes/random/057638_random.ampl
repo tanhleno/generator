@@ -1,0 +1,1 @@
+program i : o810a : takes t8 : integer array returns boolean array chillax end main : F : integer; bc00 : boolean; do o(- 40 and u[26] + not false + true and 3970 /= - (5), - not 12 < - not 7); when case - true rem false and 5 : when case 1 = 96 : chillax end case 5 : pop end otherwise : chillax end; do v(463, 23) end; do qo1(false and 2 - 690 - 8) end

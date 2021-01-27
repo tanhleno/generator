@@ -1,0 +1,1 @@
+program v1d0 : E0i0a : takes z, vmk, F, n, P : boolean array; g : integer array returns nothing n6 : integer array; output "(" . "\t" end main : Q44aa : integer; output "" . - false and 043 or 7 /= - 83 end

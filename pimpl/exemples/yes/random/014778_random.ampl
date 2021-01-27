@@ -1,0 +1,1 @@
+program n : m : takes R4C, aO0, w : integer array returns boolean chillax end n : takes r : boolean; u : boolean array; w1x0a, kL, W, L, _ : boolean returns nothing chillax end main : input u42aa[4 and I840a[90700] / true or(26)] end

@@ -1,0 +1,1 @@
+program v4 : u : takes n, w : boolean returns nothing chillax end G : takes i41aa : integer; u, n : boolean array; H_4a : integer returns nothing let Wu = array - 6310; pop end main : UL, zi, Utmaa : boolean array; CzO0a, J, Z : boolean array; chillax end

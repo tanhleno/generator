@@ -1,0 +1,1 @@
+program O : R : takes m44 : boolean array returns integer chillax end r8 : takes GL6 : boolean; lRV0 : integer; ZGv0a, Bjl : boolean array; k0, O, dcM, V : boolean array returns nothing X, CR2, W, z : integer; Xg : integer array; pop end main : chillax end

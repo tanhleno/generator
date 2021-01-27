@@ -1,0 +1,1 @@
+program a : main : Y0Q, m2, u, r03aa, ox : boolean array; j, D, ia, W : integer; t, S53 : integer array; o7p : integer array; output true - (17) and 18 . "\n"; do G7(- 55); do W(y52aa and 4 - 293 - 72700) end

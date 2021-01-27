@@ -1,0 +1,1 @@
+program P : m1N : takes k, ZTD : boolean array; SC : boolean returns nothing chillax end main : output "2&"; output - true and 6 . - 7 - 36500; output "\n8"; do f8(4 - 23 >= 11700, 0 = 178); output 8 . 1; pop 87 end

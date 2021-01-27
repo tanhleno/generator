@@ -1,0 +1,1 @@
+program tJDa : Mdm : takes Q : boolean array returns nothing chillax end main : do d79(not not H6 * false = not F and H6 and 41); when case not(32) = m and 6 : chillax end case - (8) = - 1 - 9360 : when case 9 : pop end end case - 9 - 9570 : output "\"\"0a"; do N(5) end case 8 = 8 : let mQ7 = 2 end end

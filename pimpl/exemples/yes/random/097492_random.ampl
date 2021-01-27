@@ -1,0 +1,1 @@
+program r : main : when case 3 or true and not 8 + (6) - 77 - 42 <= (08) : input s; do u4g(025 = 2, 82, 452); pop 2; when case 4 : chillax end; input Z720; pop end case - not(6) * true and 7 <= - k and 65 : chillax end case Rj < - 125 : chillax end case 396 < 9 : input su end case 3 = 11 : when case 2 : chillax end; pop end otherwise : chillax end end

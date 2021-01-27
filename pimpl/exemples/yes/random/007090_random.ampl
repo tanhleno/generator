@@ -1,0 +1,1 @@
+program X : f27aa : takes f, pz, WR2, B4 : integer array; o, H : integer returns nothing H : boolean; B, l : integer array; chillax end main : x, a, s4 : integer; _8, A, W, Y, D : boolean array; chillax end

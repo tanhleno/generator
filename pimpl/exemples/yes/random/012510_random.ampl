@@ -1,0 +1,1 @@
+program g : b : takes a, Xp, BT : boolean returns nothing while - vf : while 00400 : pop end end; when case - 0 - 9410 >= 74 : chillax end end main : do Hb(- 4 / not false and 13 < - 5 and 965); pop - not 66 and 93 end

@@ -1,0 +1,1 @@
+program N1Aa : u : takes Yr8a : boolean array; _ : integer array; Q9C : boolean array; Jb60, uD : boolean; o5 : integer array returns integer array chillax end main : cJ10a : integer array; chillax end

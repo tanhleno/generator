@@ -1,0 +1,1 @@
+program a1 : P4e : takes K, S7 : boolean; P, P : integer array; Af : integer array returns integer array chillax end main : M2, ACQ : boolean; O3 : boolean array; S : integer; N : boolean array; when case - not(29) * l + not 4 * 1 and 2760 : chillax end otherwise : chillax end end

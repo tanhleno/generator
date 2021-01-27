@@ -1,0 +1,1 @@
+program g : J : takes MF, d : integer returns nothing Z, sg : boolean; chillax end h : takes w49a, F, I, k, Dn, v : integer array returns nothing F, qS, mn : boolean; chillax end main : input S[- true * (7720) rem(839)] end

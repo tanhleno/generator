@@ -1,0 +1,1 @@
+program Mf : wK : takes a1, g7c0 : integer array returns nothing chillax end jF : takes M6, G5G, w7 : integer returns boolean chillax end main : J, K4r, c : integer array; z1, r : integer array; e81, Z : boolean array; let f[- false and 4 or false / false or true and 2170] = false * false >= not 4 end

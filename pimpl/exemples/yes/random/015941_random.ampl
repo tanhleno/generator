@@ -1,0 +1,1 @@
+program Z : x : takes i380a, xi0, m : integer returns integer array G2, D9 : integer array; m : integer array; when case - false and 34 or 49500 > 0 - 3 : pop; pop end case - 76600 : chillax end end main : chillax end

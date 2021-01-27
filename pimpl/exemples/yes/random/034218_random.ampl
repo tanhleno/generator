@@ -1,0 +1,1 @@
+program l : t5 : takes Zv10 : boolean; d5, a7O : boolean; Eq, N, J54aa, q, w8 : boolean returns nothing chillax end l6 : takes N : integer returns boolean array chillax end main : do _(true > - true - (6), (7) * D <= (52) or 6) end

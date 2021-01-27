@@ -1,0 +1,1 @@
+program o : Q58a : takes bO, U1 : boolean; Xb : integer array returns boolean array qa : boolean; do f9t(- false > 3 - 5); do C(- 33 > 785); do X(1 = 9) end main : Y6 : boolean; K, E24 : boolean; pM : integer; input E[- false or n(6) rem 9 and 900] end

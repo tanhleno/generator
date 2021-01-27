@@ -1,0 +1,1 @@
+program dc : Vd : takes _N70a : boolean; p, rV90a, P : integer returns boolean array n, rr90, G3c : integer; chillax end r : takes x, w08aa, _ : boolean array; D, eB : integer array returns nothing chillax end main : input m7; pop - not 321; while - not 755 + 1 : chillax end; output "" . 92 end

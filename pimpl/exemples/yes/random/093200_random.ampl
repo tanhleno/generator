@@ -1,0 +1,1 @@
+program L510 : main : output "@d" . "h" . "" . "\n[\""; when case false + false or 65 - 77 : pop 9 end case not 4 or 85 - 0 /= 8 : chillax end case - 2 /= 32 : chillax end otherwise : let N = array 474 end; input R; output 128 . 7; output "7"; pop; let Sp9a = 4; output "4\t!a" end

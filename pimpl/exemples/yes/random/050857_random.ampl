@@ -1,0 +1,1 @@
+program v63 : B8 : takes O23 : integer; p, iE : integer; c, oz2 : integer array returns boolean array pop end main : v, H, R : boolean array; i070a : integer array; output - (2) rem true and 1 > - VZ and 3710; input H; output ""; pop; while 65 : do o(51) end; output ""; let HI2 = 07; pop end

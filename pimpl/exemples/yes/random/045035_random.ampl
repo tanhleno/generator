@@ -1,0 +1,1 @@
+program I : l : takes Y78aa : boolean array returns nothing let uG[- (802) and 2790] = array 1 and 836; let x5O[43 - 34] = 06 = 66; let F = 4; input ylb; when case 25 : chillax end end YHN0a : takes _8, V57a, E, aR, TO, J, t : integer; mo60, T : integer array; xF : boolean returns nothing O2 : boolean; do V8(- 31500 - 9480 <= 5) end main : chillax end

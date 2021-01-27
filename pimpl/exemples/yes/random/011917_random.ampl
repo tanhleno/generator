@@ -1,0 +1,1 @@
+program e : y : takes v, KZZaa, bd : boolean returns integer JTwaa, l_m, vY, ap7aa, IO : boolean; chillax end main : when case 8 / (87) / false + not not 35 rem not 0 - (0) and 472 : pop 1; let W1[71] = 1; input GCz end; do U(- 2 - (0) - 3) end

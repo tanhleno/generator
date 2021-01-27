@@ -1,0 +1,1 @@
+program Q : H : takes W8 : boolean array returns nothing while - false and 1 : chillax end; while 7600 - 916 /= 8 : chillax end end I : takes Z, i, i58aa : boolean array returns nothing input P4 end main : while false < 21 * not 2 and 7 + (5) and 7 : while - 1 - 22 : pop; output "I\t0"; pop end; do gx(8, 59, 4); output "" . "0M0" end end

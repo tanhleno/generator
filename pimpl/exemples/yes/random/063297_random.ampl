@@ -1,0 +1,1 @@
+program D : P : takes Ls0 : integer returns integer do E(not 0 and 28 + 81 < 03 - 33); input K end main : input Lz; when case - (51) + false >= - (15) - 1 : when case 17 = 8 : input v49 end case 406 : pop end end end

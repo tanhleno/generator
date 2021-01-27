@@ -1,0 +1,1 @@
+program m : dI : takes g, X, p : boolean; V : boolean returns nothing pop 6 - 829 <= 8; let e = array 4 - 09; when case 1 = 7 : chillax end; let VZ9[52] = array 598 end Rr : takes c, z, w, UX70a, H : integer returns nothing E0V : boolean; a : integer array; chillax end main : r : integer array; XX, I8, f : integer array; chillax end

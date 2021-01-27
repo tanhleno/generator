@@ -1,0 +1,1 @@
+program F0caa : main : H3, n : boolean array; when case P8o / false and true < (109) / (67) and 1 + false and 3 + 44900 : when case 91700 : chillax end case 7 : input m end case 89000 : chillax end; let K96[07] = 92 end end

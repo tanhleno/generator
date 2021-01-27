@@ -1,0 +1,1 @@
+program p : P : takes Fv : boolean array; B000, d, cO2aa, O, q79, d, _X : integer; O : integer; P, X : boolean; L, p78a, k, E : integer returns boolean array qu, g, W9 : integer; E, d8 : integer; chillax end main : input fys0; input sR; pop - 1 <= 17 end

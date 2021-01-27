@@ -1,0 +1,1 @@
+program W : main : pop - true; when case(6) and s0 : let Rm[12] = 9; pop 3; while 9 : chillax end end case - (37) + 42800 - 4 : chillax end case - 537 = 5 : chillax end case 845 = 7 : chillax end case 3 : pop end otherwise : when case 9 : pop end otherwise : chillax end end end

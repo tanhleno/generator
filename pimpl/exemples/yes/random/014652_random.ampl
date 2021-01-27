@@ -1,0 +1,1 @@
+program G : h : takes a2, U, u : integer array returns boolean array chillax end qG : takes R : integer; F : integer returns nothing chillax end main : do F(- T[2830] / O6(24) - not H - true or 03); input Q[- false or false - 76100 - 5]; output - 4 - 2 . 009 . ""; output 0 . "B6" end

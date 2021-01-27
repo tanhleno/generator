@@ -1,0 +1,1 @@
+program e : pW : takes d, m0 : integer; cg : boolean array; a24a : integer; c4, i : integer; i, r : boolean array; _MB : integer array returns boolean array while - L and 78 or 7 - 43000 : chillax end; input o7; do n(94 = 4); do F(2320, 2) end main : pop(1560) = - true and 8 end

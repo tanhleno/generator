@@ -1,0 +1,1 @@
+program e : Y2 : takes Y, a : integer returns nothing when case 7 : chillax end otherwise : output "6" end; input O; pop 6; pop 63; while 8 : chillax end end e : takes y70, x2 : integer; g, hR, T6 : boolean; vi4, po : boolean; Q, S9c : boolean array; b, l : integer array returns integer array chillax end eI3a : takes E : integer returns integer chillax end main : chillax end

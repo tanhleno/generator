@@ -1,0 +1,1 @@
+program n : U : takes nF8, Hu5aa : integer array; L, XG, e440a : integer array; U5, c : integer returns boolean chillax end A : takes a8 : boolean returns nothing output "z7"; output "![" . "" . "660"; while 8 : chillax end end HA : takes Q : integer array; h, V45a : integer; Y, z : boolean array returns integer let aUQ0a = array 987 end main : m, K : integer; chillax end

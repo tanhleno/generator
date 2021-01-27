@@ -1,0 +1,1 @@
+program Y5 : n5 : takes m : boolean returns nothing when case - 7520 and 7 : chillax end; while 786 = 7 : chillax end end a8 : takes DV2, K : integer array; Nwr0, x : boolean array returns boolean array E : integer array; Z : boolean; u : boolean; r : boolean; let A[5 - 77] = 2 end main : chillax end

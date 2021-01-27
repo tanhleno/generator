@@ -1,0 +1,1 @@
+program P : I980 : takes E, JDU, il : boolean returns boolean array when case - (96) and 6 : chillax end case 1 > 93 : chillax end end main : do Y(true, TY(718) /= false and 45 + 486, - (9) - 9 - 86); do LyO(- g, - (991) + 70 - 76) end

@@ -1,0 +1,1 @@
+program w5 : G7 : takes Q4 : integer array; l : boolean; T, sn0a, mM, o, y : boolean returns nothing input WV; do K(- 09, 2, 798) end main : D16, db : boolean array; output "" . ""; pop - 65 /= - 2 end

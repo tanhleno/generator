@@ -1,0 +1,1 @@
+program i24 : a : takes A4 : boolean array; l : integer array; u : boolean array returns integer array chillax end K : takes W, Az, B8, X, A, e7 : boolean returns integer array chillax end main : KZ, N : integer array; D : integer array; c44 : boolean; T, w : integer array; t, S4I0a : boolean; N : boolean; F : boolean; r99 : boolean; pop; output "4" . 4 - 39 /= 88 end

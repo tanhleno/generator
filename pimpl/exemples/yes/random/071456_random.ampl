@@ -1,0 +1,1 @@
+program l : main : X36a, jj1, n26 : boolean array; y, S, fu : integer array; q : integer; f4 : integer array; pop; when case - true / 3 and 3 - (6) : chillax end otherwise : chillax end; output 86 - 5560 <= 6710 end

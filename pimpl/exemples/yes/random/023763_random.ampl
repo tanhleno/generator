@@ -1,0 +1,1 @@
+program l : N : takes n, X : boolean returns integer _ : boolean array; sv4, Nwm, X6X, s : integer; WG, U, e : integer array; DOka : boolean; while - not 4420 : when case 049 : chillax end otherwise : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program iN7 : sC : takes b, g : integer returns nothing b : boolean; P : integer array; vq, U : integer array; chillax end e : takes Vc8, sf : integer array; U9 : boolean returns boolean array W0, Y, y09 : integer array; let X = array 0 - 2 end Pn : takes c, cO : boolean array returns boolean chillax end main : B : boolean; chillax end

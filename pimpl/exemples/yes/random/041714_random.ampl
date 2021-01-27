@@ -1,0 +1,1 @@
+program F9 : n_ : takes t1P : boolean array returns boolean array R : boolean array; Qk, Z69, _93, a : boolean array; zfva, FbC0, NT : integer array; U : boolean; qXX0a : boolean; P : boolean; chillax end E : takes _, G5 : boolean array returns integer L2, v, z, n : boolean array; do zX(- 92 - 500, 1, 02500) end main : chillax end

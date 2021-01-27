@@ -1,0 +1,1 @@
+program qX6aa : P0 : takes E, g9 : integer returns nothing J2 : boolean; B : boolean array; D, b : boolean; g : boolean; uRjaa : boolean; Y : boolean; let u = array - true and 62 + 756; do LY(- 29, 6, 81) end main : T, n1 : integer; let f6 = - 581 / 80 and 6 or true + 32 < - true + 7 end

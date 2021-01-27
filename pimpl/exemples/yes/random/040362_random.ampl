@@ -1,0 +1,1 @@
+program _ : c2Sa : takes p : boolean array; _M0 : boolean returns integer while - 1140 and 9 or 56 : output 1; output ""; let w5 = 158; pop end; do K(868 - 7 /= 4, 39); output 602 end main : chillax end

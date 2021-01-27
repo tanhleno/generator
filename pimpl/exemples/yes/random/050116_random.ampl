@@ -1,0 +1,1 @@
+program ZRS0a : Bn50a : takes R9 : integer; K5, A, TB : integer array; qS9a : boolean array; s2X, c3 : integer array; E, k0Z, n, T : integer array; o, L9 : integer array returns integer output - 1 - 98 . 6 . 41 . "\n" . "r" end main : chillax end

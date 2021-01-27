@@ -1,0 +1,1 @@
+program K360 : B : takes SQla : integer; H, TU1aa : integer returns nothing output - 7 - 879; while - 30 - 46 <= 913 : chillax end end main : output - 9 rem not 63 and 4 or 9 . ":\\"; input N5T[- 61800 / 49] end

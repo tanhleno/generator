@@ -1,0 +1,1 @@
+program e : f97 : takes b, K : boolean returns integer Xe, L, e : integer; e, X9, Kr : boolean array; when case - not 7 - 3 : chillax end otherwise : chillax end end r3 : takes Mm9, r8 : boolean; U, E2o, gxs, w8 : boolean array returns boolean array chillax end main : chillax end

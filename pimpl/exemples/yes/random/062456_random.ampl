@@ -1,0 +1,1 @@
+program o : Jx : takes dt : integer returns boolean F0Ja : boolean; do V(false) end c : takes hUE0a, e : integer array returns nothing when case 5 - 5 : while 0 : chillax end; output ""; pop end case 0 : chillax end otherwise : chillax end end c : takes G : boolean returns boolean chillax end main : while - (02 = 11) /= not 2 - (26) and 7 : input X end end

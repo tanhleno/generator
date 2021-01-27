@@ -1,0 +1,1 @@
+program z : C : takes aF, f2 : boolean array returns nothing OJ, z : integer array; E0, HtV, G, Cl5aa : boolean array; Ht : boolean array; S, S : boolean; when case - 519 and 1 or 1 : input ry[43] end otherwise : let m0 = 7; pop end end main : chillax end

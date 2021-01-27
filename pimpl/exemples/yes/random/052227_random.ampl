@@ -1,0 +1,1 @@
+program Znu : Hp8 : takes uI3 : integer; W : boolean returns integer c, I2G, _ : boolean array; j, fSl, q : integer; vO8aa : boolean array; when case - true : when case 47 : chillax end case 7 : chillax end end; pop 1750 = 74; input A[2310] end main : input WP; let v[b * false and 3 + not 73] = false + 08 - 98 < - 6; let H = 9 < 5 end

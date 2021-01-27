@@ -1,0 +1,1 @@
+program T : nA : takes X6, H, D : integer array returns nothing when case - true = 6310 - 89 : chillax end otherwise : chillax end end main : a : boolean array; M, G, m : boolean array; N : boolean; h, Y, m3ka, g : integer; let WH4 = array false - false; let Y5[5 rem true] = array not(6) * not 25400 end

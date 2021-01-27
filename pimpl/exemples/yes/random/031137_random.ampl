@@ -1,0 +1,1 @@
+program q : o1 : takes U, V3b0a : integer array returns nothing while - not 2 = 5270 : chillax end; when case 70 > 2 : chillax end; do _(60) end main : l9, PP3, S9 : boolean array; n : integer; chillax end

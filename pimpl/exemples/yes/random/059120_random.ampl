@@ -1,0 +1,1 @@
+program cbL0 : O : takes b0 : integer array returns integer chillax end dS : takes k4 : boolean array; D : integer; S, w4H, s : integer returns nothing A : integer array; T : integer; c, E : boolean; while 45 : chillax end; while 681 = 6 : let z = 49500; pop end; do v25aa(664, 599); output "9y\""; pop; pop end main : sV, r : boolean; YE : boolean array; chillax end

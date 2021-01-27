@@ -1,0 +1,1 @@
+program zW5 : i : takes c, W, L3, ZZ5, Z1 : boolean array; aU : boolean array returns boolean chillax end s : takes P, u3 : integer array; t, G9, BGaaa, Q : boolean array returns integer array while 9 - 39 >= 3 : do H(6); when case 38 : chillax end; pop end end R : takes x, x270, l : boolean array; l : boolean array returns nothing chillax end main : chillax end

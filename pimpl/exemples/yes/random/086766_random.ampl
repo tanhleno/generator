@@ -1,0 +1,1 @@
+program J : main : D : integer array; Mf2 : integer; when case - 15000 : output 7 . ""; pop; input K; let fI = 3 end; do s(- o[17900] /= false, 86 or 24 <= 7, - 218); when case(9) and 7 or 675 - 5600 : chillax end otherwise : chillax end end

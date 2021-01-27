@@ -1,0 +1,1 @@
+program e : X : takes a, A : integer array; D : boolean array returns integer output "" . 9 = 0; input e[- 24700 - 252] end Z : takes tU : integer; K5 : boolean array returns nothing output 75500 = 7 . "{}aa" . ""; pop 0 end k : takes Z : integer returns nothing p, b, l : boolean; while 6 = 776 : chillax end; output 5 . ""; do M(792); do T(86); pop end main : input X[false] end

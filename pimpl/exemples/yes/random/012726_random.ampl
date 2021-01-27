@@ -1,0 +1,1 @@
+program h : p2 : takes k, DM, a : integer; x, h5, N : boolean returns nothing V : integer; n37a : boolean; chillax end main : when case - false rem(65) / not 11400 > not gN : output 38; when case 0 = 78 : chillax end otherwise : chillax end end case - not V : output "'" . "" . ""; pop 813 end; let U9La = not 579 and 8; input N end

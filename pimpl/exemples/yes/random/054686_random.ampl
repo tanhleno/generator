@@ -1,0 +1,1 @@
+program K : m : takes uK : integer array; K, Q : boolean array returns integer do W(- p and 0 or 8 - 3 /= - 9 - 5, - 6 - 71 >= 53); while 48 : chillax end; output "" . 891 end main : let C = - (1) and(109) end

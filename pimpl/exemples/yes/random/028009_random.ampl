@@ -1,0 +1,1 @@
+program X : qK7a : takes WW, NM : integer array; g, j : integer array returns nothing chillax end D : takes D : integer returns nothing a : boolean array; _, yQ : boolean array; pop; pop 18300 end ur6 : takes b, x : integer returns nothing input r0 end main : B : boolean array; s, Y0, V7 : boolean; VCS : boolean; L2 : integer; wyka : integer; X : boolean; output "" end

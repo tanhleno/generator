@@ -1,0 +1,1 @@
+program U : q : takes f : boolean array returns nothing chillax end main : X, C, n31 : boolean array; do NbE0(- true and 447 >= 0 rem false - not 9 and 46600 - 88 - 6, (3) and true and 30500 + (88700) - 3 - 6 < - not 5 and 384); let tSw = - false and 1 or 0; while false - 8 : input E[86] end end

@@ -1,0 +1,1 @@
+program e : O : takes q2, h, fhr : boolean array; o : integer array returns boolean array k, H : boolean array; chillax end k0 : takes t, L, T5 : integer array returns integer chillax end main : do F98a(- not not true or false > 5 rem(7) and 3 or(241) and 47 or 32 - 21, - (26100), false and 155 + 501) end

@@ -1,0 +1,1 @@
+program Z31 : C : takes o, J0, k : integer array returns nothing M, d81a, m : boolean array; d, s3y0, o8O, u : integer; tK : boolean; v, Y : boolean; du7 : boolean; A : boolean; chillax end main : output false + false or 0 - 8; do m(2 / 067 < not 12 + 5); pop end

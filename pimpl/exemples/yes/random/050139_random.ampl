@@ -1,0 +1,1 @@
+program Mq : v9 : takes VB6a : integer; M2, B, X : integer array; TBra : integer array returns nothing F, t : boolean; while true and 36 > - 7 - 3 : chillax end end main : P2M, rM9 : integer; Do, M : integer; chillax end

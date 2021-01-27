@@ -1,0 +1,1 @@
+program LX : ag : takes x, P9 : integer; o, xz : boolean; wR7, U, fp : boolean returns integer xWu : boolean; chillax end L7 : takes A : integer; MH : integer returns nothing let qX[- 77] = array 2 end main : pop - 37 - 1 and 1 + 7 - 1; input b5q0a[(74) * false and 11] end

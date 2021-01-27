@@ -1,0 +1,1 @@
+program G : F0 : takes p3 : boolean returns boolean XXb, v9, Z : integer array; chillax end w : takes _9 : boolean array; Z33 : integer array returns boolean dG7 : integer; do me8(- 597 < 5) end main : output "c6\"" end

@@ -1,0 +1,1 @@
+program t : main : c : boolean; y2 : integer; v, g : integer; I : boolean; m : boolean array; when case - not 9 + t[0230] and 1 + not 18 or 6 - 4 > 64 and true : while 15 = 2 : pop; while 09 : chillax end; pop end; output "" . "" . "" end; input L end

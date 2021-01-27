@@ -1,0 +1,1 @@
+program A : main : H : boolean array; _BJaa, w : boolean array; input g8la[true or not true or false and 416]; pop - not 7 and 68; output 3 - 6 . 7 = 08 . "="; while 1 - 8 : chillax end; while 9 = 21300 : while 014 : chillax end; pop end; output 2 . "t"; input J end

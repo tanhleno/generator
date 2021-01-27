@@ -1,0 +1,1 @@
+program o : W : takes F : integer returns boolean array do E8(false or 1) end IV : takes q, U : integer array returns nothing output "" . ""; while 713 : chillax end end a : takes n : boolean; Obda, kS : integer returns integer array R : boolean array; _G5, Q : boolean; let v8 = 19500 end e4 : takes x : boolean array returns nothing do I(2, 18) end main : chillax end

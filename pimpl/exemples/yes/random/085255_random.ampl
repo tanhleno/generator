@@ -1,0 +1,1 @@
+program xiB : main : H6_ : integer; while(8) rem(9) + true * true : when case - 81 - 4330 : chillax end case 6 : chillax end case 22 : chillax end; input t[39]; when case 7 : chillax end otherwise : chillax end; pop end; input T; pop 66 - 1 = 4 end

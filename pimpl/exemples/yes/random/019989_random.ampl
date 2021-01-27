@@ -1,0 +1,1 @@
+program o1 : V : takes t42, K : boolean array; s : boolean array returns integer array chillax end main : ET60a : integer array; OQN, ntC0a : boolean array; XJ0, k3 : integer array; let k20 = false /= - D240; let f[- 7 + false] = array(2) and(7) - true; while - 8 : chillax end end

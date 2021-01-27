@@ -1,0 +1,1 @@
+program e : u : takes sX9a, N9, X82aa, v, u : boolean array returns nothing chillax end Z8Kaa : takes tG7, _ : boolean array returns nothing chillax end main : l1, x : boolean array; while false / z[6] * false - (460) <= - 9 rem(178) + not 3 and 92600 : let mM = array - 14800; pop 97700 end; while true rem 9 and 8 <= false or 66 - 92 : chillax end; do zj(- false); input H end

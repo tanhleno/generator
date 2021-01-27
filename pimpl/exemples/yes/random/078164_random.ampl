@@ -1,0 +1,1 @@
+program s : main : jA, fZ : integer array; while - not 3 * not d2 rem XYraa and 2 : when case 0 - 6 : chillax end case 5 : chillax end case 5 : chillax end case 4 : chillax end otherwise : chillax end end end

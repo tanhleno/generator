@@ -1,0 +1,1 @@
+program R : main : dB2 : integer array; oK, d1 : boolean; let m72 = array 4 * v08 rem false; while - 8 or not 01 and 02 - 38 - 36 > false : chillax end; let r = 904 - 5250; while 8 - 13 >= 50800 : output ""; pop end; when case 5550 = 3 : input C end end

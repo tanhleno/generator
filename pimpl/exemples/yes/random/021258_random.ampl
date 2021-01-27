@@ -1,0 +1,1 @@
+program q : Hh3a : takes Qy, q0j : boolean array returns integer array chillax end k : takes Y9, pn, l, T, O : boolean array returns boolean bg : boolean array; R, r, p3 : boolean; output 1; output ""; pop end main : chillax end

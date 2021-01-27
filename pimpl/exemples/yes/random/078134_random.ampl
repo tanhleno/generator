@@ -1,0 +1,1 @@
+program Gah : main : y2F, WZm : integer array; when case true rem 267 and 631 /= o rem j and 84 : do U(001 < 35) end case not not 6 / (06) : do b(1, 7); when case 7 : chillax end case 401 : chillax end otherwise : chillax end; let KS = 0 end case - false and 71000 : chillax end otherwise : when case 22 = 80 : input b end end end

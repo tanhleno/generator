@@ -1,0 +1,1 @@
+program H : P09 : takes l3Ga, m, E1, a : boolean array returns nothing output "3"; when case 1 - 71 : while 7 : chillax end end otherwise : chillax end; let S2[01] = array 7; while 61000 : pop end end main : LG9, i, o : integer array; chillax end

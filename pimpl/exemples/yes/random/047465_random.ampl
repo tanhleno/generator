@@ -1,0 +1,1 @@
+program BXPaa : x : takes sA : boolean returns nothing chillax end I : takes v, s : integer array; m, l : boolean returns nothing VQ, s, V : boolean array; r1, d2 : boolean; chillax end main : input y; pop; when case - (4) or 1 - 2 : do O93a(0380) end; input Ar00 end

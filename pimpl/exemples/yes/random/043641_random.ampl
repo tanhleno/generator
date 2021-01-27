@@ -1,0 +1,1 @@
+program X0 : g6Z : takes R : boolean array returns nothing chillax end u12aa : takes v : integer array; F07 : integer array returns boolean yA : integer array; let a[- 9] = array - 0; do z(77); while 38 : chillax end; let k1 = 4 end main : y36 : boolean; chillax end

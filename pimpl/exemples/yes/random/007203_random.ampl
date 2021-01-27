@@ -1,0 +1,1 @@
+program K : qV : takes T, je, U, E : integer array; KX7 : boolean returns integer s, EE : boolean array; g7w : integer; when case - e8l0a or 7 /= 8 : let K = 783 end case 014 - 5 : when case 2 : chillax end end; while - 8 : while 4600 : chillax end; when case 66 : chillax end end; let S = array 04; input K99a[258] end main : D7n, l, A : integer; E, V : boolean array; chillax end

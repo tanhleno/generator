@@ -1,0 +1,1 @@
+program q96a : QT : takes l, Q, E0, py : integer; x, VD3, a, U : integer returns nothing chillax end C : takes U9, PR : boolean returns boolean chillax end B : takes y, E7V0, Sah : integer array returns nothing chillax end main : d : boolean; z : integer; chillax end

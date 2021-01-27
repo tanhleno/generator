@@ -1,0 +1,1 @@
+program a5 : D : takes f, R : integer array; G : boolean; Z : integer array returns boolean array chillax end main : Ke5aa : integer array; do a3(- not not false / (0) and not 53 and 0 - true rem not 1 + (17), not false); pop - false and 2 + 02800 - 1480 end

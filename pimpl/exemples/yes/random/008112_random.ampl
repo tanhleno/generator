@@ -1,0 +1,1 @@
+program k16 : g : takes H, t, wM, lC : integer returns integer x, x : integer; chillax end A3 : takes i96 : boolean; y : integer; e, h : integer array; O : boolean array returns nothing F0 : integer array; d, t81, mZ : boolean; t, _l : boolean; qQ : boolean; p3h : boolean; chillax end main : output "" . DwB - 3400 < 5 - 4 . 6 - 558 <= 6 end

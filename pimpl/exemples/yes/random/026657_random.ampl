@@ -1,0 +1,1 @@
+program ba4aa : Nr : takes WM3aa, B4 : integer; r45 : integer array; rr, w : integer; R8, V9, d : boolean returns integer array output 0 . ""; do rYE0(- 9 - 3, 436 = 5); pop; output "%7"; let LYy0 = 9 end main : CYQ : integer array; input Z4 end

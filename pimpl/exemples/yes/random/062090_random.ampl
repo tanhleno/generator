@@ -1,0 +1,1 @@
+program p0l : r : takes F : integer returns boolean array output - 3 = 8; while - 6 : chillax end end main : while 6 - (9) + false <= (457) and true and 993 : chillax end; when case - (578) and M_c : chillax end otherwise : chillax end end

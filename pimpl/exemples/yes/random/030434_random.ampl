@@ -1,0 +1,1 @@
+program i : i : takes A, G : integer array returns nothing do u(not 8 or 074); pop; output "J40a" . 9000 end p : takes s5O0a : boolean returns nothing Y3 : boolean; M, L8, G3 : boolean array; chillax end KE : takes O : integer array returns boolean u, v : boolean; chillax end main : XC : integer; chillax end

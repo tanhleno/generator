@@ -1,0 +1,1 @@
+program W : P : takes q1, F : integer array returns integer array E1Aaa, k, WT, r : boolean; qv : boolean array; ol2, R : boolean array; input pe; while 0 - 9 > 9 : input I; while 54 : chillax end; pop end; while 857 : let QJ0a = 6710; pop end end main : while 58 > true : chillax end end

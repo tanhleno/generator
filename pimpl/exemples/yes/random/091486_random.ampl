@@ -1,0 +1,1 @@
+program p : main : let H[not not(1) / Y2(58100)] = array 2240 / (37) / 25 - 7 / false and 43400 + not 92 and 50; while false < - (04) : when case 35 : chillax end case 5 : pop end case 1 : chillax end; while 3 : pop end; when case 8 : chillax end end; do eN7((8) and 1 + 54 /= 9); when case 7 - 1 >= 3 : pop end; do B(63 = 7) end

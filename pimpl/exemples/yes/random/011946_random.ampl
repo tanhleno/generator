@@ -1,0 +1,1 @@
+program Q : B : takes c02, G2, r : boolean returns integer t, a : integer; pop end main : input Wt7a; do ytzaa(- 3 and(8) and 15 + false and 097); input Pl6[not 73]; output "*" . 6; input F6Zaa; let JiA = array 1; while 9 : chillax end end

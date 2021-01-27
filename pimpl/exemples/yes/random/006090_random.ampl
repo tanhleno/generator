@@ -1,0 +1,1 @@
+program _ : n98aa : takes xK, AJ, q, uz8aa : boolean returns nothing chillax end G : takes ub2 : boolean array; b : integer; v : integer array returns nothing chillax end main : w : boolean array; n, O, My20, C7 : boolean; s : boolean array; while true / 55 * O : chillax end end

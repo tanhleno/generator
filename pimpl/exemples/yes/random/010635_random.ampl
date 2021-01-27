@@ -1,0 +1,1 @@
+program y58 : t : takes g9, l52, r : boolean array returns boolean array when case - not 4 or 8 = 7 : chillax end; while - 2540 = 5 : pop; let w5Z = 4; pop end end T : takes Um, y9ka, y, J, nk, k, _ : boolean; B3P, x : boolean array; X : integer array; bqE, lU : integer array returns integer array chillax end main : m9I0 : boolean array; chillax end

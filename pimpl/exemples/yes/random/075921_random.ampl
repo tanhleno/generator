@@ -1,0 +1,1 @@
+program N3Za : main : JT0, P : integer; ud3, Qm, t5paa, Y7 : integer; rv, F6v, m : integer array; Z, V02 : boolean; U, E : boolean array; l : boolean; let K[- B rem true] = array - (0) and(79) or not not 7 and(8) and 09300; input i[- not true / true] end

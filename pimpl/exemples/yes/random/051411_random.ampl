@@ -1,0 +1,1 @@
+program k : U : takes m12 : integer; C : boolean; oG, Q : integer array; o930a, h, r080 : integer; Vh7 : integer array; U, ib10, SK : integer array; A7 : boolean; zs : boolean returns nothing chillax end main : l5 : integer array; output false; let h = - IJ and 9950 + 4 = 4; let q[72] = 90 < 92300 end

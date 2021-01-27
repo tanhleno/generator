@@ -1,0 +1,1 @@
+program sl : main : while - true > - (9) : pop 622 end; when case(4130) * q + true and 3650 > T3 : while 48 : chillax end; output 3; when case 4 : chillax end end case false or 178 - 9 : pop 42; do e6Iaa(402) end case 6 - 7 /= 2 : chillax end case 76 = 8 : pop end otherwise : chillax end; do g(60 and 64 = - 26 - 5); while - 1 - 72 : let E8 = 45; output "}" end end

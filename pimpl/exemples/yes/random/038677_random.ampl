@@ -1,0 +1,1 @@
+program g980 : z : takes I : boolean array; R22a, L : boolean array; h : boolean returns nothing mE : boolean; IG40a : boolean; A : boolean array; V, x : boolean; chillax end qL4 : takes d, y : integer array returns boolean do G(- 9); do b9(0380 = 86300) end main : chillax end

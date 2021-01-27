@@ -1,0 +1,1 @@
+program lg7 : main : while - not 9 <= - true or(6) or 665 : when case 54 >= 745 : output ""; output "x"; pop end otherwise : chillax end; let l = array 53; when case 6 : pop end case 0 : chillax end; pop end end

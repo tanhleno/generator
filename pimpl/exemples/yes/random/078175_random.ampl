@@ -1,0 +1,1 @@
+program NeO0 : main : InW, B2 : integer array; while - true + true rem 6 and 9 <= 75 - false : input kp[- 26 - 26]; do J870(6, 9) end; let F[1 - (0)] = false and 10 + 05600; do B(- not 123 - 39 - 119) end

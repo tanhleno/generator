@@ -1,0 +1,1 @@
+program Uq : P : takes Jk : integer array returns integer array G5I0a, q, i8b : integer; c : integer; p : boolean array; l, l : boolean; Z7 : boolean; A : boolean; input P68[- not 986 and 2 - 00200] end main : chillax end

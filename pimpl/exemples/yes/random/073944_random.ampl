@@ -1,0 +1,1 @@
+program _9 : main : N4gaa, h : boolean; g0 : integer; tGMa : boolean array; output - 271; while - (0) >= not 8 and 302 : output 6 . "}+"; while 52900 : chillax end end; do Q8(- false and 8 - 0 - 8 >= - 40 - 19, 9 - 65); let D[0] = 450 = 8 end

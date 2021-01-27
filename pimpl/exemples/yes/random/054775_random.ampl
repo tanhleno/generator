@@ -1,0 +1,1 @@
+program B8 : R : takes rl : integer array; V, U : boolean returns boolean array c8 : boolean array; while - true and 26 : output "" . "" end; do u(- 00 - 40 > 3, 3 = 141); pop; let o[1450] = 7 end main : l : integer array; do F0P0a(- false - co80a(155) and oc and 5920 or 439 = - not 2510) end

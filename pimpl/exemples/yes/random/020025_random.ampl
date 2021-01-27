@@ -1,0 +1,1 @@
+program A : r : takes t62, N : boolean array; B : boolean array returns nothing chillax end main : qt, B, r : integer; O6F0, A, r, F, xA : boolean; j : boolean; N : boolean array; N : integer array; m9 : boolean; u6 : boolean; chillax end

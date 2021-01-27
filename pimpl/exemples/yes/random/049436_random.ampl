@@ -1,0 +1,1 @@
+program v4 : qSs : takes Y : integer; g, M4Uaa, l, Rd, n : boolean returns nothing do fCO(98 - 7, 0 - 00 < 28) end main : v, i, Ha2, j2 : boolean; input e4[- false and(5) and not 9 and 47 + false]; when case not not 94 <= (7) or 4 - 2 : while 977 = 10 : pop end end; do T(- false - 0 - 609 <= - 1) end

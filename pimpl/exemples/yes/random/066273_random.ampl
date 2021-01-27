@@ -1,0 +1,1 @@
+program f : main : do M(- c9 * C710[1] * false >= g[12000] / true - (701) and 0530); when case - 4740 - 37 and 1440 : chillax end case false and 8 : input Uy[14]; while 02 : chillax end end case 8 : chillax end case 2570 = 584 : let h5W0a = 22 end end

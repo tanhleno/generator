@@ -1,0 +1,1 @@
+program WPM : _ : takes h, l, Z4 : boolean array returns nothing T : integer array; while(67400) and 2 - 260 - 0 > 8 : chillax end end NUl : takes Z, AkD0 : integer returns boolean Q9 : boolean array; A5Aaa, Le8, u : boolean array; O, P7 : boolean; UZ : boolean; Z : boolean; chillax end main : input k end

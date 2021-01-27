@@ -1,0 +1,1 @@
+program r : c0 : takes OO : integer array returns nothing js5 : integer; when case - r25 : chillax end otherwise : chillax end end w8 : takes L, ZYg, k : integer array returns nothing c1 : integer array; chillax end main : chillax end

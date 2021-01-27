@@ -1,0 +1,1 @@
+program lT : main : Nk, B : integer array; d12, d, hHG : boolean; j, j9 : integer; G : integer; when case - false : chillax end otherwise : while 85 : while 3 : chillax end; pop end end; while - mm(6) * 4 and 2 <= - true : chillax end; do p((100) and 2 or 8 - 7020) end

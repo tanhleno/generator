@@ -1,0 +1,1 @@
+program i : main : s23a, D, U : integer array; when case true + not false or(5750) >= y2 + false and 0 + 6 - 6 : chillax end; let Z[8210 and false and 05] = - not 3 <= - 0; while m9 and 25 + 8 - 110 = 4 - 69 : chillax end end

@@ -1,0 +1,1 @@
+program A : main : while(5310) : let c = array 2; do XVs0(6 = 01600) end; do E380a(false rem not 09 + not 2 or 4 < - false and 165); input o[- t and 352 + 34 - 68600]; when case - 6880 - 56 : pop end case 0 : do V(87); pop end case 1 : pop end case 9890 : chillax end otherwise : input j700 end end

@@ -1,0 +1,1 @@
+program xk9 : main : P : integer; Pj9 : boolean; m : integer; when case - not(21) >= - true * 2 and 4 : pop 08 = 26 end case(57900) * 6 < 8 : chillax end otherwise : output "=y" . "" . "" end; pop - 4 and 350 >= 57 - 467 end

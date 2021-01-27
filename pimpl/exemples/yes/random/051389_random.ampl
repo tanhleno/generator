@@ -1,0 +1,1 @@
+program g : q : takes V : integer; x : boolean; g8U, a2 : boolean array returns nothing f8, L, K, N43, e : boolean array; chillax end main : W : boolean array; v1 : integer; QGG : boolean array; TZ : boolean array; output "" . ""; pop; input O; while - 1 - 505 : when case 6 : chillax end end; when case 2 : let J = 167; pop end; while 7950 : chillax end end

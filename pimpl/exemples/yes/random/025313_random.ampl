@@ -1,0 +1,1 @@
+program J : YwYaa : takes rE, h : integer; f53a, n, B : integer; s, x380 : integer; X03 : boolean returns nothing F, Hip0a : integer array; w4Zaa, x : boolean array; when case(7) and 1 : chillax end case 46 - 6 >= 83400 : input Hk3; let _K = 99; pop end end main : while - 585 * true and 47 and 70100 : chillax end; output "\n" end

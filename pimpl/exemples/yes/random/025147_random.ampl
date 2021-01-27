@@ -1,0 +1,1 @@
+program p : S2 : takes s, d : integer; R7, weX0a, R630, O : integer returns nothing chillax end main : F2 : boolean array; z : boolean array; W7P : integer; v, p, t, f : integer array; when case(3 = 50) + true + true : when case - 3 >= 2 : chillax end otherwise : chillax end end case - 5 and true and 2 or true >= q2d0 and 356 : pop 75 end end

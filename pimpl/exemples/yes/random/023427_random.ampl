@@ -1,0 +1,1 @@
+program t : ml : takes r, R00 : boolean returns integer array chillax end main : when case - (2) - false or 0 and 1 + 30 >= Ps + false and 8 - 83 : chillax end; output "U8!" . 89; input pk6; pop 9 = 9 end

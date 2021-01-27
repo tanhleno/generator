@@ -1,0 +1,1 @@
+program T07a : uJ7 : takes i420 : integer; K6 : integer; G8d : boolean array; i, H : boolean; e : integer array; w8 : integer array returns boolean array chillax end k0 : takes n : integer returns boolean array chillax end main : a, te, z : integer array; y : boolean; pop not 54000 or false and 2 - 2 end

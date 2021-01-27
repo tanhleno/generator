@@ -1,0 +1,1 @@
+program b5ra : main : E, o : boolean array; iu : boolean; while 91600 / false <= false : input i[- 9] end; input u3[- q[96] rem 0 or 7 and 667]; while false = 5 - 8720 : chillax end; input h[2]; let m22 = 151 end

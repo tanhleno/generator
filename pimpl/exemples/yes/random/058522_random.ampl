@@ -1,0 +1,1 @@
+program g45 : x : takes O : integer array returns boolean pop 99 - 434 <= 744 end j : takes Q1K, U : integer returns integer chillax end p : takes b : integer returns integer input k[8790]; output 4 . "" end x490a : takes YI80, y, Ow : integer array returns nothing Z, C2 : boolean; do DL(4) end pw60a : takes l4 : integer array returns boolean array input x4 end main : chillax end

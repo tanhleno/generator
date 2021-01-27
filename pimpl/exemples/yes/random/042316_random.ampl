@@ -1,0 +1,1 @@
+program u : AB5 : takes HBoaa : boolean array returns boolean let gu = 9 - 92; output "" . "{n" . ""; let T[07] = array 65; let m = 7; let f190 = 15700; output "\th" end U0 : takes C : boolean returns integer y, a : boolean array; s, yz50a : integer array; K, i : boolean; output 854 . "" end main : let j34 = array - (5 = 0) end

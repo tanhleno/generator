@@ -1,0 +1,1 @@
+program i : main : do zvhaa(- false * false * 66); when case not true <= - not 471 : chillax end case - (753) - 27 /= 28 - 3 : while 441 : pop end; pop end case 9990 : chillax end case 7 = 31700 : chillax end case 12 : chillax end case 54 : chillax end end

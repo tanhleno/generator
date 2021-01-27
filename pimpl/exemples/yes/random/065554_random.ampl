@@ -1,0 +1,1 @@
+program B : V : takes f : integer returns nothing while - true <= 249 - 90 : while 2 : pop end end end x6 : takes f, X, q, d, Z, Z1 : boolean returns nothing when case 0 - 5 <= 142 : output "-" end case 17 : output "9" end otherwise : chillax end; input Vm[1]; do c(75, 03); output ""; do A5(80); pop end main : F, V : boolean array; chillax end

@@ -1,0 +1,1 @@
+program yP : i5 : takes aI, U6, S, So, Q : boolean returns nothing when case false - 64 >= - 3 - 65000 : input v[4] end otherwise : when case 62 : chillax end; do a(6) end end b : takes r8I : boolean returns integer L, E : integer; _ : integer; cJ, kcUa : boolean; input sZj; let z = array 60 end main : f4, dWf, g : integer; let F[- 9 * true] = - c(5770) + lzR and 4 < 6 end

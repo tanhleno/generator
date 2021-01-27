@@ -1,0 +1,1 @@
+program C : s : takes u : integer array returns boolean when case not 5 and 4 : do y(020, 271) end case - 1 /= 9 : pop; input sL; pop end case 22 = 3 : chillax end; input e[420] end main : chillax end

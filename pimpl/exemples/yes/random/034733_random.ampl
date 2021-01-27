@@ -1,0 +1,1 @@
+program o_E : J : takes Dk : boolean; Z, pq : boolean returns nothing let z7ba[- not 69 and 39] = 18700 end main : output "|I"; while - true * not 97 : while 65 = 18 : chillax end end; while a5 and 2 : when case 0 : chillax end otherwise : chillax end; when case 19 : chillax end end end

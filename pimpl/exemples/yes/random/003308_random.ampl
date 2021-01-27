@@ -1,0 +1,1 @@
+program T : r04 : takes Hz0a, k3, T07a, Z86, E5 : integer; f : boolean returns nothing input H[not 435 and 1 + 6330] end main : n, ylW : boolean; let E[false * true] = array - false; while not 4130 and false and 9 or 4040 + 4 - 3340 : input a end end

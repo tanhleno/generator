@@ -1,0 +1,1 @@
+program W : E01 : takes O, Y, s220, l, S : boolean; Q6Z, r : boolean array returns boolean array input rG; input H99[1110]; let vX = 5500 end main : while - false / false and not 2 - (1) and false and 3 or(2) and 4 >= 66 : output 344 = 6; while 13100 : do Y(14) end end end

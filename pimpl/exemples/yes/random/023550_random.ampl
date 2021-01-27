@@ -1,0 +1,1 @@
+program Np30 : u : takes F, B : boolean returns integer array Na : integer; I, U : integer array; v : integer; chillax end main : w, b, K4J0a : boolean array; s : integer; K, K : boolean; c, nH : integer; t3a0a : integer array; p : boolean; chillax end

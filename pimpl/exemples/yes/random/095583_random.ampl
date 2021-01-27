@@ -1,0 +1,1 @@
+program MmI : main : when case - (593) : chillax end otherwise : input G170a[35] end; do l3(not(3) or true and 51 /= - false or 8); let Pb[k] = - 6 - 5500; output 91 . "h" . "P-0a" . "\n"; let L = 85 end

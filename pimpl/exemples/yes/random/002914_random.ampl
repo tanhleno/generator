@@ -1,0 +1,1 @@
+program oV : K5 : takes K, n1sa, K, Y4, W : boolean returns boolean q : boolean array; QZ, w, qqHaa, i1 : integer; do S7(- 1 and 7 = 6180 - 50); pop; input V9[28]; when case 512 : pop end; do P7(8); output "" end main : let t[- true + true and false and 9 or(8590)] = array(41) rem true end

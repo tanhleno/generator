@@ -1,0 +1,1 @@
+program g93 : Y2 : takes v, o, b70, B0 : integer array; y2, Z : boolean returns integer chillax end r : takes xE, P3 : integer returns nothing u : integer array; chillax end main : let j[- false - true] = array true / true; pop 17000 or 705 - 374 /= 3 - 7; while - _6J0a and 2 - 4 - 25 : output 034; input V end; do G(- 0 - 7 < 9); pop end

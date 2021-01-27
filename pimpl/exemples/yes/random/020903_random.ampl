@@ -1,0 +1,1 @@
+program B : q : takes W, Cy : boolean array returns boolean array m4 : boolean; Jm6aa : integer array; w, L94, R590 : boolean; chillax end s94aa : takes Bu : integer array returns boolean let z = 0 = 2 end main : do m6Ua(- true, 0 or not 2 + 53 - 65 = false - 45100 - 3, Z and 28) end

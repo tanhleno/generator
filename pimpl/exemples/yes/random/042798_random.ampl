@@ -1,0 +1,1 @@
+program m : z : takes R : boolean array returns integer array input c end main : do t2(- 726 * 747 + 90 * true and 3460 - 1210 and 6 - 6, - zY8a >= false and 2); while - false rem true and 7 >= true and 9 : while 707 = 2 : while 7140 : chillax end; pop end; pop 8 end end

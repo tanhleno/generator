@@ -1,0 +1,1 @@
+program i9 : C : takes H, u, j : integer; i : integer returns nothing when case - not 3060 /= 00 : chillax end otherwise : chillax end end eh6 : takes w : boolean array returns nothing D, btY : integer; pop; let M = 4 end m : takes uK : integer returns integer d : boolean; P3 : boolean; output "/" end main : chillax end

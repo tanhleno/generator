@@ -1,0 +1,1 @@
+program gZu : CA6 : takes s, O5X : boolean array returns nothing z, eE : integer; Q : boolean; v0 : boolean; I : boolean; W5 : boolean; let T[- (0880) and 00] = array - 5 end main : GjUaa : boolean array; S : integer array; output - H0(0380) / not 737 or m end

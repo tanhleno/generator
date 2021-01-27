@@ -1,0 +1,1 @@
+program H : j : takes R22aa : boolean array; B : integer array returns boolean array when case not 4870 or 838 - 0 <= 2 - 9 : do Knc(70, 203) end otherwise : chillax end end main : a5, B2, W : integer array; chillax end

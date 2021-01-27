@@ -1,0 +1,1 @@
+program T : main : e, Wj, f8R, X, Zy : integer; G, Na50a, E, yTua, X13 : boolean; R1o0a, Pg : boolean; when case - false * (7) <= - true * s and 9 : do s(68 - 0, 69 = 4, 9, 805); input m[8070]; when case 444 : pop end case 2 : chillax end otherwise : chillax end; let u = 34 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program QW : G : takes l, n : boolean array; u : integer array; Xa4a, go2aa, CrS : boolean; T : boolean returns nothing k, PaPa, u : integer array; chillax end main : Z : integer array; while false rem true or 4440 < - (4) / not 9 or(252) or 6 : chillax end end

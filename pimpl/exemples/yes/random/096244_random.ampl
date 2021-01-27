@@ -1,0 +1,1 @@
+program TL7 : main : when case - not not false + true rem j - (2) and 4020 - 5 : while - 55 : pop end; do g(6, 332); input j[989] end case 61 + not 86 or 9 - 8 : when case 266 = 09 : chillax end end case - false : chillax end case - 8 - 23 : do s(1) end otherwise : output 849 . 3 . ""; input G end end

@@ -1,0 +1,1 @@
+program E : G : takes Cv : integer; G0, if : boolean returns nothing B : boolean; while - (2390) and 3 - 353 - 88 > - 992 : chillax end; input e; while 4 : chillax end; while 1770 : pop end end K : takes F580a : integer returns nothing pop 8 = 1; do w(97) end main : ME6a, Q : integer array; p, KmH0a : integer; ia, e : boolean array; output "\\" . "3*0a" end

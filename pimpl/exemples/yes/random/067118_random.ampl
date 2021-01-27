@@ -1,0 +1,1 @@
+program N : main : do H72(K(92) + true < (9260) or _G8 and 2 - 1, - not F9 - 58 and 25 + 467 - 50 /= 6 and 895 + 532 - 3); output x250a . "" . "4/!a"; when case(40) and 5 + 9 < 2 : when case 75 : pop end case 9 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program K7 : ZR : takes h6 : boolean array; Hup : boolean array; D, q : integer array returns nothing chillax end main : Pw, H_, JDf0a : integer array; P : boolean; _4 : boolean; Z, _ : boolean; c, jZI, T17 : boolean array; when case not false - false : chillax end case - k / (0) : do M(73000, 1) end case - true and 67 + 5 - 653 = - 84 : chillax end otherwise : chillax end end

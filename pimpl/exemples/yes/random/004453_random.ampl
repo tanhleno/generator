@@ -1,0 +1,1 @@
+program J : z : takes k, dfLaa, PK, S : boolean; X, M6i : integer returns nothing HI, vw : integer array; do lu(- i, 6 - 05 /= 1, 3 = 487) end main : jq : boolean array; when case - 34 * not(1) <= - false / false and 418 + false : chillax end case - not J4laa and 1 > false and 200 - 87 : while 8 : chillax end end end

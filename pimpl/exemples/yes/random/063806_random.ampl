@@ -1,0 +1,1 @@
+program F : m : takes p : integer returns nothing chillax end C : takes YII : integer; Sb1 : boolean returns nothing JL, F7, Eiwaa, qN : boolean array; fyh0a, R_ : boolean array; output 86 = 5; let f = array 359 end main : input zg2 end

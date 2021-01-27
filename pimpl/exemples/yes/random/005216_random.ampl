@@ -1,0 +1,1 @@
+program j9 : o : takes q65, I, j, eW3 : boolean array; T : integer array returns nothing D, z, z, e5 : integer array; Ma60 : integer array; chillax end main : while(1 = 14) / X5(455) / not 6 or false + (2) - 98400 - 6 : chillax end; output "\n"; input m0[- 13500] end

@@ -1,0 +1,1 @@
+program J : U2 : takes u89a, U, I : boolean; s : integer returns integer h8, P, S : boolean; chillax end r4 : takes HD8 : boolean array returns integer let U = array - 9; do Jm(372, 0) end main : Am80a, E0 : integer array; while - HHD + (9070) - (6) : let v = array - 88800 end end

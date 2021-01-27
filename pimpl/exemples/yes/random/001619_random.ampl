@@ -1,0 +1,1 @@
+program J : x3 : takes I, k4, V0, OF, w36, T7Ya : integer; M6, m62a : boolean; G, o9t0, Cu : integer returns boolean chillax end main : CA, o8, du : boolean; output "a/"; pop - true and 3; pop; when case 08 : chillax end end

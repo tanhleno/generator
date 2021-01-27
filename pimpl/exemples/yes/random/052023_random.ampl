@@ -1,0 +1,1 @@
+program y : F : takes j : integer; vbE : boolean array returns nothing do X070a(- (7) or 16 - 4, - 0 - 9 >= 42, 892) end main : when case false * 3 * (29) : input xn end; input tPq0[8 and 326 + (23)] end

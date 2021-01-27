@@ -1,0 +1,1 @@
+program _230 : XY6aa : takes n, l, J : integer array; R, k, u : integer array; k, t : integer returns nothing S : integer; chillax end main : q, A : boolean; let Hod0 = array - not not true / (8) / not 15 end

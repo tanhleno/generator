@@ -1,0 +1,1 @@
+program m1 : main : input QK; input vW[- 1 rem true and 71000 + not 67 - 25]; while 779 : while 357 : chillax end; pop; pop; pop end; while - 3 - 8 >= 3700 : chillax end; pop; do v(32, 1740); let Nr4 = 11; pop; pop end

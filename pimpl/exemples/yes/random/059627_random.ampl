@@ -1,0 +1,1 @@
+program O : A : takes VPD : integer array returns nothing chillax end d : takes I9, Y9F0, _, Wf, W9, uw30, H8j : integer array; m, y : boolean returns boolean array while - 37 - 2 >= 9 : while 48 : chillax end end; do m(56) end main : chillax end

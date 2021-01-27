@@ -1,0 +1,1 @@
+program Y : main : v, _b7aa : boolean array; when case - (9) > - true and u90 : chillax end otherwise : input i end; when case - r(1) > not 5 : chillax end case - not 0 + 8 < - 9700 : let h0 = array 92 end otherwise : when case 01 : pop end end; while true : chillax end end

@@ -1,0 +1,1 @@
+program L : r : takes U, KlD : integer array returns nothing l : boolean; C93a, _j9, E : integer; q : integer array; Es0, s : boolean; chillax end main : N, Ct : integer array; output - xE < - false and 9660 . true and 8 or 089 end

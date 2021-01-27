@@ -1,0 +1,1 @@
+program W6 : U : takes u, A6p : integer array; o, b, RX : integer array returns boolean array chillax end S : takes i17, p : boolean array; y : integer returns nothing sY, U : boolean; output "6" . 48 . "2"; while 67 = 86 : do ic(03700) end end main : Ku5, t2c : integer; while false = OeDaa[7] - true and 20 + 678 : pop 3 = 55 end end

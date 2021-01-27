@@ -1,0 +1,1 @@
+program SP : H : takes Qn : boolean array returns boolean e : boolean; z19a, o, f : boolean; d, I : integer; a55, E : boolean; chillax end hN : takes B, H : boolean array; Q : integer array returns nothing do l(95 - 2 > 92, 5470, 74); output "$"; let ie = array 92 end main : output "r,!" . "7" end

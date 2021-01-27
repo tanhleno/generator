@@ -1,0 +1,1 @@
+program A5I : m31 : takes o, o, W : integer array; _4, AhS0a, q : boolean array returns nothing output - 2 - 8 >= 947 . 995 = 7 end d97a : takes W4 : integer array returns nothing jx, N, H4M, p36 : integer array; while 9 = 45 : chillax end; input Q end main : KL : integer; let I[- not(33300) or 7] = array true - true end

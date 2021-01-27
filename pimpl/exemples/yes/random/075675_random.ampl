@@ -1,0 +1,1 @@
+program H : main : e, g94 : boolean array; when case true : chillax end case true * hW00 and 4 + not 8 and 24 + 1 - 3130 <= true + 34 : chillax end; do cb80a(false + false and 7, true and 3 >= - 9); while m23 < 39 - 384 : chillax end end

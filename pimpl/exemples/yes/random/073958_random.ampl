@@ -1,0 +1,1 @@
+program nn : main : e7, d : boolean; IM00a : integer; J : integer array; nH40 : boolean array; j7Q, J : integer; output - 01400 or S and 6 or 44 - 824 < - (9900) and 67 - 2 . - t and 5 - 347; pop not 331 end

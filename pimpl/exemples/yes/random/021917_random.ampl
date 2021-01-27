@@ -1,0 +1,1 @@
+program J : Bgha : takes FGnaa, a : boolean array returns nothing chillax end b : takes Ae : boolean array returns nothing hW00 : integer; chillax end main : R, z730a : boolean array; output - true + (25600) > - aU + 73600 . "W2!" . - 5 - 83 < 84 end

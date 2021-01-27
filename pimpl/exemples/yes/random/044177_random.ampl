@@ -1,0 +1,1 @@
+program lo : z : takes g : boolean array returns nothing P, J : boolean; chillax end main : G : boolean array; l : boolean array; ir, p, L9paa, bu, wab0 : integer; H : integer; w, c, X : integer array; do d(- false or false - not 2 and 71 or 88 - 7, true - not 6 and 6 + 88 - 7) end

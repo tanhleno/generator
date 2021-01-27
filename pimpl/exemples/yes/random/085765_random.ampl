@@ -1,0 +1,1 @@
+program _ : main : I : integer array; L07, c, y : boolean; wq : boolean array; when case - e2_a(5, 3) * i94 / false and 531 or y(8) /= - true * false and 36500 : let F92a[- 6] = array 27 - 6 end otherwise : chillax end; do s20a(b / not 8 >= q and 345) end

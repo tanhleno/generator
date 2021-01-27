@@ -1,0 +1,1 @@
+program n : main : do T(- not not true or 67100); when case - (96) rem 53 or(6) - 3 - 456 <= 7870 : pop; output 3770; when case 46 : chillax end; pop; pop end case - false + 1 - 74 : pop end case 01 : pop; input h5E end case 7 = 5 : do E3Faa(354); pop end; while - mj5 and 50 or 0 >= - 38 : chillax end end

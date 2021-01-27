@@ -1,0 +1,1 @@
+program b5O0a : m : takes su, B83 : integer array; z : integer array returns nothing pop; output "" . 77; do yB(3 = 9, 52200, 07) end main : while true * 6 or false rem not 4 and 7 - C and 93 + 79 : chillax end end

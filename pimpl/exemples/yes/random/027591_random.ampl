@@ -1,0 +1,1 @@
+program z : Sqqaa : takes Y5z, p5Q : integer array; A, E : boolean; GGs : boolean; Q, Q, I, T, _ : integer; T, B0 : integer array; v : integer; ae0a : boolean returns boolean array aMX0 : integer; M, k8, s, Y4 : integer; WJB0a : boolean array; FIda, GT : boolean; chillax end main : do Yw(- true or true * false or true or 73) end

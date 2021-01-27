@@ -1,0 +1,1 @@
+program c : main : output "^"; when case(95) * X and 3 - 7 and 9 + 8710 - 33 : input D[2]; when case 04 : chillax end otherwise : chillax end end case not 4 and 0 + 372 - 10 : let A84 = array 4570; when case 8 : chillax end end case - 44 - 65 <= 4 : chillax end otherwise : while 59 : pop end; output "\""; input n4 end end

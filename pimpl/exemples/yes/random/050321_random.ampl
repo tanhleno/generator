@@ -1,0 +1,1 @@
+program Z : w : takes oe : integer; Lo8a, ox5 : boolean; T, m : boolean; Ga9aa, Ha : integer returns boolean let p8E = array false and 0 end main : do JW9((7) - false rem false >= - (589) + not 45 - 18); input P5; while - b and 21 + 3 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program d : ah7 : takes X51 : integer array returns nothing chillax end R : takes e : boolean array returns integer array output 05900 = 84; pop 11; when case 4 : chillax end case 19 : chillax end otherwise : chillax end end main : chillax end

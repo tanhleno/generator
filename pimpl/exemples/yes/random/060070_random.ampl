@@ -1,0 +1,1 @@
+program d : Me3 : takes Kb : integer array returns nothing chillax end main : output "N" . ""; while - b(75) : when case 1 : chillax end case 39 : pop end case 041 : chillax end otherwise : pop end end; let n = array - 08 and 4550 + 6 end

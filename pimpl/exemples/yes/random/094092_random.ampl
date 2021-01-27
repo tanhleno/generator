@@ -1,0 +1,1 @@
+program T : main : pop - not 778 /= (6) and 6 or 0; while false /= - not 4 : while 4 : while 1380 : chillax end; pop end; output 6; while 9 : chillax end end; when case - (85) : chillax end otherwise : output ""; let yAQ = 4; pop end end

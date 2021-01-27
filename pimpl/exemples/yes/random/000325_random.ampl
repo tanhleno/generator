@@ -1,0 +1,1 @@
+program O : m3naa : takes r53aa, T, GE, Y, l, a6P0a, b, T : integer; J, VI : integer; H : boolean array returns boolean array T5, y : integer array; do Z0(- true and 1); pop; let m5[6] = 8; do wA(4, 8) end main : F3, O44 : boolean array; Z1, _6, t : boolean array; let h31[ok[87] / false] = - (3) - (9) and 93 /= - true and 06 end

@@ -1,0 +1,1 @@
+program V95 : Q : takes Y, f, B, Tn6, S3F0a : integer array; Y, Da : boolean returns boolean input l3d; output ")"; when case 3 = 40 : input zH7aa; pop end end h : takes J, N9 : boolean array returns nothing i, C : boolean; output ""; let i = array 5; do n(518, 338) end main : do H(- true, - false rem 11 and 519, not 35, - 67 - 2 < 3) end

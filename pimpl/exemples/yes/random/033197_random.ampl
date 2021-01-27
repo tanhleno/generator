@@ -1,0 +1,1 @@
+program R1 : d : takes Z4Ha : boolean; G, Yo, Uu, xN, n, Q0, T : boolean; sl, N370a : boolean returns integer I : integer; ia5 : boolean; y : boolean; b, ub : boolean; dz0a : boolean; tn2aa : boolean; chillax end main : chillax end

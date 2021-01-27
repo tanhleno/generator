@@ -1,0 +1,1 @@
+program I : gK7 : takes W, p, p : boolean; g, lOF : integer array returns nothing chillax end main : T, S, f, _620a : integer; when case - 85 and not(1) and not 5 and 89 /= - f[06] and true : pop 3; pop end; let IO[7 rem not 8] = array - PZ[1]; when case - 45800 and 36 - 7 /= 085 - 29 : while 14 : chillax end; do c(6) end case - 5650 = 33800 : let H = 5; do JVs(8) end; pop 00 end

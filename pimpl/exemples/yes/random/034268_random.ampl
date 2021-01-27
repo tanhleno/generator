@@ -1,0 +1,1 @@
+program z : c : takes T1 : boolean; JZ0, s79 : boolean; Y, g76 : integer; c9, P61 : integer array returns nothing when case false + 7 - 6 : chillax end end P : takes d5 : integer array returns nothing w : boolean array; rska, Q : integer array; _, j2V : boolean; chillax end main : D, M : boolean array; do U(false - (67300) * false and 2040 or true and 940) end

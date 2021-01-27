@@ -1,0 +1,1 @@
+program E : h : takes X, e : integer; U8x0 : boolean; P : boolean array returns boolean array do vR(- false and 03 + 9 >= - 4, - 7) end main : while - o(7) rem not false / l and 2 >= - true * not 03 and 62000 - (75) and 8 - 27 - 9 : pop end end

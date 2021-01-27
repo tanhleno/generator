@@ -1,0 +1,1 @@
+program p : main : s8e : boolean array; when case g7(716) * not(7) = true - 3 - 63 - 5 : chillax end case 4 rem v + (5540) and 1 - 716 /= not 8 + 0 : chillax end otherwise : input z end; let IM4[9 and not 7 - 498] = P or 5 < - 14 end

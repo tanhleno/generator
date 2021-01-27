@@ -1,0 +1,1 @@
+program C : Z : takes Q, asF0a, E, Y, j7, v, E, F : boolean array; W8r0a : boolean array returns nothing chillax end G : takes G : integer array returns integer array XgR, e3, sr : boolean; chillax end main : pop(65) < - false and 2 + 2; input z[false or false and 9] end

@@ -1,0 +1,1 @@
+program B_g : q : takes n4 : integer returns nothing chillax end sd : takes zK : integer array returns nothing chillax end main : do Z(184 + false and not 586 or false - 70400 - 2010, - b5(86) and false and 2560, - not 2 or 4 <= 7 - 99); let I[1 + not 39 and 92] = array - false or not 0 end

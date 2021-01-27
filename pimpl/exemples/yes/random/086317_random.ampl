@@ -1,0 +1,1 @@
+program V : main : y : integer array; FA9 : boolean; w0, Yn, c : boolean; input n[- (87) * 74 / 2 and 13 - not 5]; while not true and not 1 and 2 : when case 01 : chillax end case 6 : pop end case 3070 : chillax end; output 0 end; pop end

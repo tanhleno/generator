@@ -1,0 +1,1 @@
+program a : Q : takes h : integer; Y700a, R : integer array returns integer array chillax end x910a : takes Aj : boolean array returns boolean input Yr70[8970 - 21] end A : takes i : boolean array returns nothing while 10 = 94 : pop end; pop 20; let Ab2 = 623; while 5 : chillax end end main : chillax end

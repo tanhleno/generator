@@ -1,0 +1,1 @@
+program F : b : takes D : boolean array; T : boolean array; M, If3, o24aa, Xt3aa, f5 : boolean array; O, nA0, I : integer array returns boolean array chillax end main : pop - not 094 * false and 1810; pop - false and 77 > - 8 - 08 end

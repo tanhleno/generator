@@ -1,0 +1,1 @@
+program y : tqP : takes O79, C : boolean returns boolean array ff : integer array; chillax end main : while true / x2[29] rem true or not 35 rem(6) and 6340 > - not true - (20100) and 16 + 0 : pop 56000 end end

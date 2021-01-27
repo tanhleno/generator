@@ -1,0 +1,1 @@
+program w1 : H : takes O, H : boolean; T : boolean returns integer pop - 8 - 8; input j3[8 - 78200] end main : pop; when case - true rem(00) /= not 091 and 912 : chillax end case X0 and 9 : let rH[3] = array 7 end case - 29 - 2 : pop; do Vn(7); pop end end

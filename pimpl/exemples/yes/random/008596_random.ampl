@@ -1,0 +1,1 @@
+program m : L : takes f, x, vFq : boolean; e, ZZP0a, wJ : boolean array returns nothing let J[- not 8 and 410] = - 1; input V6 end main : while 7 and BD7a[70] rem dui0a or not(9) : chillax end; output 2 and 6 end

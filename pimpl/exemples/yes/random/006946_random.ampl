@@ -1,0 +1,1 @@
+program I : PY3aa : takes g, LP7, _, T6 : integer array; E, mOR, jR : integer array returns nothing IDSaa : boolean; chillax end D : takes e, q85a, m : integer returns nothing _3O : integer; B : boolean; k : boolean; ONyaa : boolean; input M0X0a end main : w : integer array; chillax end

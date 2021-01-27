@@ -1,0 +1,1 @@
+program x : xe : takes q, M, m6, D : integer; X : boolean array; r : boolean array returns boolean array K, N : boolean; F : integer; when case - true - 84400 - 3 = 8 - 0 : pop end otherwise : chillax end end main : input _[- true]; output 3 and 47 > - 9 - 51 . "\t~!" end

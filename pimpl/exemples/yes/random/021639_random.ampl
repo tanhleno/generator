@@ -1,0 +1,1 @@
+program p100 : V4 : takes X, o : boolean array returns integer M, Tj, Y : integer array; e0R0a, F, i : boolean array; G : boolean array; Q : boolean; chillax end main : U730 : boolean; do J5(- z_faa(07) rem a * false and 85); while 2 or false and 8 - 4 - 82 < - not 5150 : output 91 . 944 end; while true and 460 or 546 : chillax end end

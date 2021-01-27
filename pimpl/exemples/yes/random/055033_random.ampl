@@ -1,0 +1,1 @@
+program M59 : t : takes j : integer array; pa, W2 : integer; J : integer returns nothing W : integer; when case U9Ka >= 3 : do J8(97) end end main : let q[(5)] = - true + false and 9960 /= (8) and 09 - 9880 - 7; while - true * 10 and 51 + false : when case 4 : chillax end end; input X5 end

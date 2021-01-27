@@ -1,0 +1,1 @@
+program b2q : I3 : takes kM7 : boolean returns integer wV : integer array; Zj, Gk00a : integer array; chillax end AU60a : takes C3 : integer returns boolean array chillax end N : takes U : boolean array; Ij3, txY0a, Y5 : integer returns nothing chillax end n7 : takes cEW : boolean returns boolean array Ml6, gj8 : boolean; chillax end main : chillax end

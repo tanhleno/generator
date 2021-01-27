@@ -1,0 +1,1 @@
+program m0 : _ : takes b : integer array returns integer Vj, w, h, O : integer array; let wehaa = 9 /= 0; do D(- 28 <= 96, 4 = 91); do Q(2 = 838); do z8J(5, 82) end GE : takes R : integer; _, _76 : boolean; NM, D, fcP : boolean array returns nothing L : integer; pop end main : umIaa, It6a, IU9, T : boolean; Z, n : boolean array; chillax end

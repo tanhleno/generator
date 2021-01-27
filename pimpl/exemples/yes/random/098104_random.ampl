@@ -1,0 +1,1 @@
+program cU : main : while - (2 = 829) or not not 1 > - false and false and 9 - 02 and 2 : pop 39300; while 28 = 93 : let y5Ea = 5; pop end; do e(5, 6); input X570a; let J = 1; pop end; output false + 0 . - 2 = 7; while false and 4640 - 7 : chillax end end

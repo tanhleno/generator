@@ -1,0 +1,1 @@
+program v : Gv : takes X, b, I8k, oI : boolean array; T : boolean array; Y, jA : boolean array returns integer p, QYR : integer; R, q3F : integer; chillax end main : let _L[if[12] or false] = (27900) * false and 2 or true - 3 - 7 <= (53) - 73400 end

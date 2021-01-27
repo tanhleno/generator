@@ -1,0 +1,1 @@
+program Hc : m9 : takes s, W, Ax : integer returns nothing I : integer; O : boolean array; output - 23500 - 43100 > 66 end U : takes y : boolean array returns nothing let M = array - 73; input t67[491] end main : while - (4 = 9) : chillax end; input _[- not w7]; input JRq0[- 3 + 2]; do N9(8 - 7, 90) end

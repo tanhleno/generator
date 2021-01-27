@@ -1,0 +1,1 @@
+program W9K : W58a : takes a, Q9, X, k : boolean array returns nothing pop 6 /= 73000 end J4 : takes B97aa : integer array returns boolean x : boolean; do a2(692 /= 140) end main : mMK : integer; chillax end

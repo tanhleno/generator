@@ -1,0 +1,1 @@
+program q : main : l, E4Wa : integer; do M(- false /= - p[3]); input s[41]; when case - false = - 7330 - 84 : chillax end case 2 - 5 >= 978 : input tq end case 10 = 5 : let B7B0 = 95600; pop end case 81400 : pop end case 82 : chillax end otherwise : when case 0700 : chillax end end end

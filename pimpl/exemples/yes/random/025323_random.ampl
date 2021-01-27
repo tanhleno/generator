@@ -1,0 +1,1 @@
+program m : Sp : takes o, R3 : integer; Bw, q, K : integer; TI : boolean returns nothing dSC : boolean array; H, H, X2, F : integer array; let m240 = - 71 - 1 /= 8 end main : R7, Yd1aa, Y9 : integer; while - u2 or B95[2] rem false and 565 : do s(- 792 - 05 > 69, 018) end; output - not 23 and 217 + 3 - 3260; input w12[l6 and 85 - 7]; pop 90 end

@@ -1,0 +1,1 @@
+program d : f : takes S : boolean returns boolean array gA, s, SQ, k, x : integer; r : integer; chillax end O : takes V : boolean array returns boolean y4, i, LK : integer array; do e(32); pop; pop 914 end main : chillax end

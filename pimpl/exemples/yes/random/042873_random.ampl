@@ -1,0 +1,1 @@
+program f : g : takes Ff : boolean array returns integer array while(8) and 642 <= - 243 - 698 : let l[45] = 91; pop end end w : takes g, w, w58a, H_T, LD, u : boolean returns boolean H, Q, R9 : boolean array; do a(- 2); input ZS[74]; output 99 . "{5"; while 334 : chillax end; pop end main : x9, n6, C8 : integer; U : integer array; chillax end

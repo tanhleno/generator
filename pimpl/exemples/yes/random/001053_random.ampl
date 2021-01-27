@@ -1,0 +1,1 @@
+program r1 : E : takes G_, Q, sd, i590a, I, YX, Jua0a : integer returns nothing cdB, q, v7 : boolean; while - (1) and 45 + 0840 - 8 <= 9 : chillax end; output "" . 9 . "\"e" . ""; while 7 : let W1 = 2500; pop end end main : chillax end

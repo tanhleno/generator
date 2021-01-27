@@ -1,0 +1,1 @@
+program F4Yaa : n3 : takes ye : integer returns boolean array while - false and 7 : when case 6 : chillax end end; while 1 : chillax end; input f; let R = 412; do J(74); while 55 : chillax end; pop end main : chillax end

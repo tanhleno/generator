@@ -1,0 +1,1 @@
+program N : m4 : takes v : integer array returns boolean array chillax end main : D9 : integer; _ : boolean; X470a : integer; vF, f : integer; z, ea1a, x : boolean array; lK : boolean; O80aa : boolean; do d5(- (22) + 0 rem 7 and 84000 + not 04400 and 4); output - V and 6 . 4290 = 497 . "6" . "" end

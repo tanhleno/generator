@@ -1,0 +1,1 @@
+program v : P9I0 : takes qX, xGd, p, g8h, s, S : boolean array returns nothing s, O, A, w, k_ : boolean array; chillax end main : hi50, M : boolean array; C350a, l, d : integer array; ua, kM : boolean; chillax end

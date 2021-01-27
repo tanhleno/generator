@@ -1,0 +1,1 @@
+program N : N : takes O : boolean array; a64 : integer array; Cw6 : boolean array; F, k96, Fa, h8 : integer array returns integer array M : integer; while j > - 5 : chillax end end main : input S3f[not 85 and 19 rem true and 057]; while - t : chillax end end

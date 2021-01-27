@@ -1,0 +1,1 @@
+program O : E5 : takes r22aa : integer array; _w : boolean; R, H7W0a, D, SP : boolean array; U : boolean; w : boolean array; u7 : boolean array; cE : boolean returns integer Og : integer; chillax end main : IF9, A, k6, m, W, S, uw : integer; let EB = not 6 or X; while - (3) + TH or 89100 - 2 > (6) : when case 7 = 945 : do Q(3) end end end

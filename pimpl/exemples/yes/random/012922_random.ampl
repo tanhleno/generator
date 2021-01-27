@@ -1,0 +1,1 @@
+program w9 : A8 : takes L, n66, v6 : integer; z, nc : boolean returns nothing g : boolean; pop 038 - 824 end C : takes f1, X1, K, a : integer returns nothing chillax end main : while - false rem Q / (26) and 698 : input H6[- 77200 - 01]; let t[33300] = 9 end end

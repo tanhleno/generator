@@ -1,0 +1,1 @@
+program u : main : when case true and(34) + X(57) /= true or 6 and 0 : input u190a; output 41; output "\n\t" end case c / false + false - 2 - 7 : chillax end case - F + 8750 /= - 0 : when case 2 : chillax end case 6 : chillax end end case - 83 : pop end case 72100 = 7 : chillax end; do G(V[9] * 55 - true, false and 07 - 8 > 6 - 2); pop end

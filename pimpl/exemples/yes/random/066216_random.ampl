@@ -1,0 +1,1 @@
+program y : main : do t(- H560a(5) and not false or false and not 3 + true and 6 /= true + not 3 - 8 - 56, - false or e); do C3(8, not 13 or 4 - 2); let k[- not 1] = array - (97) and 6 - 8490 - 3 end

@@ -1,0 +1,1 @@
+program C : main : L : boolean array; t, X : integer; let p = - false - false - 10 - 77; let T8caa = array true - 97900 and 846; while true < 80700 - 6 : output 09100 . "" end; while 06 - 70 >= 6 : pop; do n2(728); pop end; while 4 = 15 : chillax end end

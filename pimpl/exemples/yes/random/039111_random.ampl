@@ -1,0 +1,1 @@
+program u : L1 : takes X3O : boolean array; Y1, l : integer array; T8j, M, q : integer; f3, T : boolean array; P, hr9 : integer array returns nothing do O9(- not 53) end main : Pb, d, O : integer array; Q : boolean; chillax end

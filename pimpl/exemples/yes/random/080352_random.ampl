@@ -1,0 +1,1 @@
+program N7pa : main : V : boolean; when case - false or(8) rem(74) + (0) or 0 <= not 559 : do Y(8 - 4 = 03300, 2 = 7, 340, 43); input O end case 0750 + true and 873 /= K5 and 914 - 45 : chillax end; while - a[9] : pop; while 32 : chillax end; let B = 1; do p(58300); pop end; pop end

@@ -1,0 +1,1 @@
+program j : main : g04, z, t7, F : boolean array; when case 7290 * true and 1 : when case - 3 - 634 > 43900 : chillax end case 65 : chillax end end otherwise : when case 9 : chillax end case 08 : chillax end case 724 : chillax end otherwise : chillax end end end

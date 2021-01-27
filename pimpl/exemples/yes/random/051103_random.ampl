@@ -1,0 +1,1 @@
+program Yn : O : takes V9gaa : integer; Vy, V : integer array returns integer input KA end s : takes oX20a, Q9 : integer array returns boolean while 916 : output "\\" end end main : F5, n : integer array; Mmt : integer; mB, P19a, v : integer; r : boolean array; a6K, T, vb2 : boolean; uGV, J : boolean; chillax end

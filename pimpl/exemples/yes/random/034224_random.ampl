@@ -1,0 +1,1 @@
+program A : Pke : takes aA : boolean; L, k0 : boolean; D79, U2, a, H : integer array returns nothing chillax end main : Tr, F6, r : integer; pop; do m(false * icA and 310, - (5) and 9 <= - 31 - 0, - 2 = 6770, 82, 8) end

@@ -1,0 +1,1 @@
+program f1 : H5 : takes L : boolean array returns nothing chillax end main : s3Q : integer; while - not false rem 6 rem false + z[97] / 082 or not 22200 : chillax end; when case(95) rem D7 and 5 - J and 0 : chillax end; pop; pop 53800 = 546 end

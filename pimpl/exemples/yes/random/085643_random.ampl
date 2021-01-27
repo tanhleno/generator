@@ -1,0 +1,1 @@
+program PGU : main : TQ40a : integer array; n, H, c, a5, C0 : integer array; D : boolean; when case - false / not(8170) or true rem 6 <= - 88 / true and 497 or true and 6 - 5 : chillax end case - not true + 6 : chillax end otherwise : chillax end end

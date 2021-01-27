@@ -1,0 +1,1 @@
+program xB : o : takes T : integer array returns nothing let c6 = array(6) or 5690; do HM80a(- 0 = 5, 1 = 14, 61, 32); input T3baa end main : S4ya, b, Lpd : integer array; B6, _4, D, zW, s : boolean; chillax end

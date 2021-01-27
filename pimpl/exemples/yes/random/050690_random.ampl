@@ -1,0 +1,1 @@
+program hR : KC6aa : takes _ : integer; g0j, b : boolean returns boolean R, i4 : integer; chillax end u : takes lp, f, y79a : integer array; N : boolean; VW9, v : integer; M, BO : boolean returns nothing A, W : integer array; chillax end y : takes I, T : boolean returns nothing J : boolean array; i3, I : boolean; input o[43] end main : J, T : integer; chillax end

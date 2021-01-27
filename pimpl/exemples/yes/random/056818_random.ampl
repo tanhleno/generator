@@ -1,0 +1,1 @@
+program K8J0 : AM50a : takes Vc : integer array; _k7a : integer array; L, zV, sS6, Q1 : boolean array; X : integer array; t4 : integer array; X : integer returns nothing yQ, kik : boolean; chillax end fQ30a : takes kH : integer returns boolean KiW0, _ : boolean; chillax end main : chillax end

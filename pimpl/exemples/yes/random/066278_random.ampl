@@ -1,0 +1,1 @@
+program OD : main : do y(- s - 0); when case R /= P : input t45; when case 857 : pop end end case c9 > - 9 - 0 : input v; do b(83800) end case 0 - 56 : chillax end case 1 : chillax end otherwise : let h[093] = 25; while 6 : chillax end; output ""; pop end end

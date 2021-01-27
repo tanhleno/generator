@@ -1,0 +1,1 @@
+program u80aa : main : x7, tc : integer; x07 : boolean; input U; while - false and(780) + (6) : while 34 : chillax end; when case 4 : chillax end otherwise : chillax end end; pop 79 - 35; let D[- 1] = 60 = 6780; pop end

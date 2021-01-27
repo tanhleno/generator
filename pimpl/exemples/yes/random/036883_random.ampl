@@ -1,0 +1,1 @@
+program h : ax00a : takes YT9 : boolean; Lnba : integer array; E : integer returns boolean array chillax end a : takes g : integer array; r : integer returns boolean array chillax end a : takes Y : boolean array returns boolean array chillax end main : pop(178) * not 35 - true and 7220 end

@@ -1,0 +1,1 @@
+program B : jWu : takes Da : boolean array returns boolean do Y(- (9)) end O : takes r, x : integer array; B, ko : integer returns integer array do U3(- 6 < 4, 615 = 1, 7) end U44aa : takes Aa : integer array returns integer array do nn5(6 = 3890, 8, 8) end main : chillax end

@@ -1,0 +1,1 @@
+program o : main : when case - ED[65] and true rem false and 8 = 08 and not 7 and 91 : chillax end; do A(true or not 67 or 5 - 42, - 66300 and 80, 8); when case Q and 8 + 6 - 4 : chillax end case - 923 - 8 <= 4900 : chillax end otherwise : chillax end end

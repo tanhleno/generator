@@ -1,0 +1,1 @@
+program pJyaa : M : takes RKTa, z3, l9 : boolean; V, P2, p6, D : integer; S, s, vy, AFQ : integer; g : integer returns nothing o2 : integer; pop 5 - 71800 end R : takes r : integer array returns integer z6, cv1a : integer array; Uv : boolean; input aq[- 9 - 1] end main : input s[false or false] end

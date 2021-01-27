@@ -1,0 +1,1 @@
+program Y : p : takes lG : integer returns nothing chillax end i : takes _9 : integer array returns nothing let cT[5] = array - 2 - 7 end h : takes oFW, _ : boolean array; z : integer; y, A, iG20a : boolean; br8, f, r020 : integer array returns integer array let M = 80; while 4 : pop end; output "" end main : chillax end

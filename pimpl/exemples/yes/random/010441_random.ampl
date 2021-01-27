@@ -1,0 +1,1 @@
+program kZ4 : z : takes N, H47, A : boolean array; J : integer returns integer array chillax end zG00a : takes G2 : integer array returns nothing when case 4 : chillax end case 1 = 7 : chillax end case 981 : chillax end end main : chillax end

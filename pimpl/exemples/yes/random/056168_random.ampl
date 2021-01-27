@@ -1,0 +1,1 @@
+program _ : v : takes J55aa : integer array; h : boolean array returns nothing t : boolean; f650 : boolean; do UY6a((6), 0 < 1, 8); do E140(- 4560 - 9); pop end main : qy, wEX, V : boolean; chillax end

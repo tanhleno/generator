@@ -1,0 +1,1 @@
+program j6 : e : takes I : boolean returns nothing input W end EUF0 : takes M : integer; Z : integer returns nothing P130 : integer array; chillax end main : f5xaa, bnVa : integer; b1, _ : integer array; output ""; when case not m9M rem(29) and 3480 : chillax end case - true > - 82 : chillax end otherwise : chillax end end

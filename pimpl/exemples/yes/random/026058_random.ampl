@@ -1,0 +1,1 @@
+program g : ZH8 : takes rk3a, Ex : integer; V1 : boolean; z, K : integer returns integer array O : integer; x, eWraa : boolean; M210, u2L0 : boolean array; IO, R : boolean; while(80) and 109 + 245 > 1 : chillax end; input Y18a[0] end main : F0n, Q7 : integer array; while - (3 = 2) : let O[6 - 8] = array - 8 - 2 end end

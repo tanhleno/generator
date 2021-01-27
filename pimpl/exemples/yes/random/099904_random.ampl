@@ -1,0 +1,1 @@
+program T : main : while true : while 70 : chillax end end; input A6[- not l]; let h = array - true and 272; when case - 4 > 292 : chillax end case 2 : when case 8 : chillax end; pop end case 5 : pop end case 406 : chillax end; do td2(7 = 64) end

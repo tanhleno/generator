@@ -1,0 +1,1 @@
+program Z6Paa : Q : takes A, K : boolean returns boolean array C0 : boolean; when case bD and 890 + 2 = - 0 - 79 : output "^)\"a" end case - 88 : chillax end case 712 = 94 : pop; pop end case 23 : chillax end case 035 : chillax end otherwise : chillax end end main : let X = true * 7 and 1 + not 4 and 2670 end

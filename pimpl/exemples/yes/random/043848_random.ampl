@@ -1,0 +1,1 @@
+program f5x : P0 : takes w8 : boolean array returns nothing do Q96a(- false - 19, - 5 - 8, 6 = 5, 4, 7); let kR[- 1120] = array 0200 - 2 end DRm : takes x, p, H : boolean array returns nothing Z : boolean array; C6, z, o1 : integer array; chillax end main : s, F840, T5x, XL : integer array; na6 : boolean; a, m : integer array; A, u : boolean; chillax end

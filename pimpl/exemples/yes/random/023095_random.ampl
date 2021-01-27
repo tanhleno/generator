@@ -1,0 +1,1 @@
+program wW : D : takes Z, ok5aa : boolean returns boolean array while GE and 70 : pop 2 end; let e = 62; input G70 end Q : takes K8 : boolean array returns integer array chillax end f : takes R : boolean returns nothing Qqs0a : integer array; input cV2a; pop 9 end main : k2, Z800, q, Q820a, g : boolean array; chillax end

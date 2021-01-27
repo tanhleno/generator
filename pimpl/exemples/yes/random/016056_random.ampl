@@ -1,0 +1,1 @@
+program r : bLe0a : takes d, gk, j2 : integer returns integer l, V2 : boolean; let Z = array - x end main : do f7l0a(- D rem em * 91, - not E5, 2 and 4 + 0, 28); output - not 6 and 57100 >= 7 . "" . 2750 = 41 . "" . 6; while - 51 : chillax end end

@@ -1,0 +1,1 @@
+program Ems : _ : takes Wtw, z : boolean; u : boolean returns nothing chillax end main : when case - Q8b0(6) * not(730) and not 6 and 5100 or(72) or not 9 : input V7; let Dm[3] = 1; let A = 40; pop end; while e[0] and 72 : while 66 = 519 : chillax end; pop 2; when case 1 : chillax end; when case 1 : chillax end end end

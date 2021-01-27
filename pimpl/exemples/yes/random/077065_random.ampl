@@ -1,0 +1,1 @@
+program pGI : main : Z, Bj : integer array; do n(true); let u[- false and true and 8] = - 7 - 685 > - 47100 - 02; when case 12 : chillax end case - 6 : chillax end case 4100 : chillax end case 2360 : pop end end

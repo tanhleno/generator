@@ -1,0 +1,1 @@
+program am50a : VJ : takes p, I, L2, C, aX : integer array returns boolean U44 : boolean array; hD4, Q : integer array; r, h : boolean array; s : boolean; S : boolean; O : boolean; chillax end main : while - false * O(7) /= (7) : chillax end end

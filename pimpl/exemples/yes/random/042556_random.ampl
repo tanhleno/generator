@@ -1,0 +1,1 @@
+program v : X : takes C5 : boolean array returns integer array U550, N, w3 : boolean; L : boolean array; G0, uf_0, _6P : integer; e : boolean; L58 : boolean; do f7k(false < - 5, 751 - 9 > 780) end main : chillax end

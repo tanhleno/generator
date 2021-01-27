@@ -1,0 +1,1 @@
+program ST : J2 : takes C : boolean returns boolean chillax end B : takes J5M, A, e, x65 : boolean array returns nothing PBWaa : boolean array; when case 10 < 5780 : output "" end case 9 = 7790 : chillax end otherwise : let e = 64; pop end; do D(2630, 2, 905) end main : chillax end

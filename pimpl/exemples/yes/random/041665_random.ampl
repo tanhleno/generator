@@ -1,0 +1,1 @@
+program K : m7 : takes S : boolean array returns boolean array j, tf2aa : integer; Q1 : integer array; pop; do n(6 - 4); pop 1 end k : takes v, JA, S : integer array; YA, Zm40a : boolean array; _S : boolean returns integer array T, G99 : integer; W : boolean; when case 4 /= 0 : chillax end end main : h : integer; chillax end

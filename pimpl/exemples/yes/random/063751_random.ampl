@@ -1,0 +1,1 @@
+program Tl : j_ : takes Y : integer returns nothing chillax end R : takes b : boolean array; Sj, b : boolean; vE60a, p, vB : integer; B : boolean returns boolean A, P6h0 : integer array; xP : integer; f, k9 : boolean; input d5[477] end main : chillax end

@@ -1,0 +1,1 @@
+program W : v : takes S : boolean returns nothing while - not 65 + 4420 - 1 : let T = array 45; when case 70 : chillax end end; do Z7Oa(- 53700 /= 57); output "\n$"; when case 7 : chillax end otherwise : chillax end; pop; input J end main : chillax end

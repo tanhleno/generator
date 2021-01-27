@@ -1,0 +1,1 @@
+program s : main : when case - true / 79 rem false : do _8(1 - 2 < 5); pop; pop 710 end case - not 20 - true and 8 + 38 - 8 : chillax end case not 892 or 80 - 73 <= 14 : chillax end case - 6 - 72300 = 8 : pop end otherwise : chillax end; let a7[254 * true] = array v rem 27; when case - not 6 and 394 + 7 - 214 = - 51 : chillax end case 89 - 28100 < 80 : let YM = 560 end end

@@ -1,0 +1,1 @@
+program O0Iaa : G : takes w, I, QS, u, j, W, we, u84a : integer returns nothing gN70a, I : boolean; when case true : chillax end; pop end d : takes i7 : integer array; D, l : boolean returns boolean E, C2, K, P65 : boolean array; pop; output "0" end c8baa : takes h : boolean returns integer while 30 : let A = 4 end end main : M_ : boolean; input fB10 end

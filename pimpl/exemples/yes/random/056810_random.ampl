@@ -1,0 +1,1 @@
+program j : X3 : takes Y : integer array; UPa : integer array; K, b, C6, A, r0 : integer array; o, x050 : integer returns nothing z, hEZ, U6, i, eV : boolean array; while - true and 32000 <= 8 : chillax end; do YR(- 3 - 5, 43, 963, 30) end main : chillax end

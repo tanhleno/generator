@@ -1,0 +1,1 @@
+program N52 : j5 : takes gOGa : boolean; jJ, ZZB0 : boolean array returns boolean array mV2, E7 : boolean array; Mt, UY : boolean; V0z : boolean array; vx : boolean; b : boolean; chillax end kL : takes XV : integer array returns nothing chillax end main : am40, ZD0 : boolean; while - u(1) * false * not 7 - false / 42 and 0 : chillax end end

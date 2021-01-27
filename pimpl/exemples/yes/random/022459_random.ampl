@@ -1,0 +1,1 @@
+program XI00 : P : takes B8, c : boolean array returns nothing a2G : boolean array; C, d : boolean array; E6 : integer array; input iu[- Lu1]; let A75[3830 - 9] = 6 end u : takes Ke6aa, f : integer returns nothing j, R, Z : integer array; V, o940, b19aa : boolean; E : boolean; g : boolean; chillax end main : J70aa : integer array; R : integer array; chillax end

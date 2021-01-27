@@ -1,0 +1,1 @@
+program Y4 : jn : takes YLP : integer; hb : boolean returns nothing c : boolean array; do Tb(not 5 - 8 <= 26, 132 - 36, 519 = 8); pop 0; output ""; let V[98600] = 29; while 8 : chillax end end main : toM, rq, TD : integer array; F, O, h4, L, T39, AMVaa : boolean array; chillax end

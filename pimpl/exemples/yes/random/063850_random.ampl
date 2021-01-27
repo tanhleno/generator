@@ -1,0 +1,1 @@
+program B2 : ML8 : takes X8 : integer returns nothing chillax end Yd : takes b : integer returns integer pop; input ZF6 end main : eu, xF1a, o, X : integer; L, A : boolean array; _M40a, P : integer; VW20, p88, Gy3 : integer array; u4 : integer array; chillax end

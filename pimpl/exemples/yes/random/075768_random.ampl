@@ -1,0 +1,1 @@
+program i : main : l, S : integer; do z((8 = 3) and 0 / 0 and 01 or false < - 602 rem(7), not o / (93500) - 634 and 257 or 3 - 90 /= - (6) and 5 - 6, - not 49); when case 000 : while 7 : while 9 : chillax end; pop end end case - not 697 - 7 : do F(671, 46) end end

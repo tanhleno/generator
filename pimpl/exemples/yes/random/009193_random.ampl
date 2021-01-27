@@ -1,0 +1,1 @@
+program DjE : J1ka : takes Ig2, p, k : boolean; z3 : boolean returns nothing chillax end A70 : takes d : boolean array; c : integer array returns boolean array i0 : integer; k : integer; pop 0; let Q700a[6] = array 7 end main : B, H : integer; u : boolean; Q : boolean array; chillax end

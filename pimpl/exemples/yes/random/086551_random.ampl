@@ -1,0 +1,1 @@
+program T3m0a : main : g : integer array; im : boolean array; _ : integer; W4 : integer; J, S8 : integer; input X3; when case true + 4 < U and 2 : chillax end case - false >= - 45600 : chillax end end

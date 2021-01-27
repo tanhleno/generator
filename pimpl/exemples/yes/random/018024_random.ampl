@@ -1,0 +1,1 @@
+program f3waa : q0 : takes y, o : boolean; y : boolean returns integer while 5510 + 7 : when case 34 : chillax end otherwise : chillax end end end lGb : takes d9, f : integer returns nothing input U end main : BB1, D8, o : boolean; chillax end

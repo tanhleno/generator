@@ -1,0 +1,1 @@
+program lBv : main : ihd : boolean array; while(3 = 1) or false >= 2 rem 64 : chillax end; do N(W0[29] > false and 112 or 4, - tx >= - 6130); input E; do P(339 - 7 /= 52); output "|" . "" . "3$!" end

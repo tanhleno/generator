@@ -1,0 +1,1 @@
+program Qc4aa : qNF0 : takes a5, v, gj6 : boolean array returns nothing b, J : integer; n, qNV, O : boolean array; chillax end _ : takes jp, w, s : integer array returns nothing chillax end main : v6 : integer; chillax end

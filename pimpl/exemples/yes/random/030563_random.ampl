@@ -1,0 +1,1 @@
+program yC : t : takes M, Q : integer array returns nothing od60a, aeb, tC9 : integer array; chillax end m : takes k : boolean returns nothing m : integer; M : integer array; W, hl : boolean; dz : boolean; chillax end c4 : takes fnu0 : boolean array; hCB, s : integer; Qx, v, am, Pn : integer array returns nothing chillax end main : output "" . "9\"" . "\\" end

@@ -1,0 +1,1 @@
+program j : d : takes Z5iaa, h990, R : boolean array; q3, k : boolean returns boolean while 1 <= - 7 - 6170 : while 89 : pop end end; do a890(3, 622 = 5, 0480, 9) end main : pop not false and not 97; input L; do g(not 4 and 6 or 03 = - 0 - 3, 8, 0 = 54, 9, 2190); when case 1 : chillax end otherwise : chillax end; input W4 end

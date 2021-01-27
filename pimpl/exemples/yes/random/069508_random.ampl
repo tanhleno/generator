@@ -1,0 +1,1 @@
+program M8 : main : y, T, Q, P3 : boolean; D : boolean array; g, r : boolean; woa0a, Z, X6, jKJ : integer; D720a : integer array; do P630(- false or false); output "'" . ""; when case - 2 or 3 - 94 >= - 8 : pop end case - 7 - 2 : output ""; output ""; pop end case 0 = 6 : chillax end case 39 : pop end case 763 : chillax end otherwise : chillax end end

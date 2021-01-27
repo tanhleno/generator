@@ -1,0 +1,1 @@
+program H2X0 : kQ : takes L0 : boolean array returns integer Hei, h : integer array; T : boolean array; d1, k1Yaa : integer array; D : boolean; D69a : boolean; do CX(true - 86 = 8); pop; let C4[07] = array 8; input M end main : input J[- x(34)]; let o = - true and 6 or 4; let E = - 0 - 9 end

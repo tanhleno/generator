@@ -1,0 +1,1 @@
+program F : kq6 : takes L78aa, As0 : integer array; c8Laa, J, i7ia, m0F : boolean; Qp, S, Y8, z, n4, Bnn : integer returns integer array V, yx1, U : integer array; w0, q : integer; chillax end B : takes en : boolean; H7 : boolean array returns nothing b : boolean; do G(18 - 7, 0 = 5220) end main : m, rw6, e, J : boolean; n : boolean array; while false : chillax end end

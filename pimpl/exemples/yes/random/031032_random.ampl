@@ -1,0 +1,1 @@
+program i9 : _ : takes kB, _9 : integer array returns nothing output - 00 - 3200; when case - 8 - 86 : chillax end; while 75 = 4 : chillax end end a : takes N : boolean array; Z3, o : integer; sD0, _, v, C36aa : integer returns nothing Y : integer; chillax end main : TC2, Q : boolean; chillax end

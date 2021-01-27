@@ -1,0 +1,1 @@
+program cSO0a : nB : takes Y, iQ, Owoa : boolean returns nothing chillax end J : takes P : integer array; O71, k5 : boolean; J0, q4F, nK : integer array returns nothing chillax end x : takes V : boolean array returns nothing when case 69 = 1 : chillax end otherwise : pop end end main : pop - false and 2 and 2 - true - 9 - 9; input vix[false]; output - 9 - 0 > 69 . 3; pop 4 end

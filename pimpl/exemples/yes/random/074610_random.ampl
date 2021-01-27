@@ -1,0 +1,1 @@
+program mO : main : nO, N : boolean array; z, m, F, Rw0 : boolean; i, ly : boolean; y4 : boolean array; gP : integer array; while - not false / xQ - (67000) / false and 784 + false and 9 <= - (7) : output ""; let k = 5 end; pop false - 00 - 9 end

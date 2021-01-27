@@ -1,0 +1,1 @@
+program d : u8r : takes e : boolean; e : boolean array; T65 : boolean; B, Sx, Gx : boolean array returns boolean array e5, sa, v9 : integer; jMY, tr80a : boolean array; ja, XAe : integer; e, bP : boolean; chillax end s9 : takes RIy : integer returns boolean while - 1 - 82 : chillax end end main : chillax end

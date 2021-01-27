@@ -1,0 +1,1 @@
+program jo : main : I36aa : integer; U, pwV, w : boolean array; W : boolean; let b0 = array - not f(0) - (4) * not 0; while - false * iQP0a and 0 : chillax end; when case - false : chillax end case - 97 = 87 : let m8 = 7; pop end case 4 : chillax end end

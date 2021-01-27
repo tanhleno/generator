@@ -1,0 +1,1 @@
+program zX3 : Yn4 : takes A : integer; V9R0, _, brGa, tU : boolean array returns nothing e1 : integer; rQ10a : boolean; q8, gj : integer; output 99 - 2 end VAg : takes O : boolean array; xJ4 : boolean returns nothing E5, u82 : integer array; BTX : integer; while - 1940 - 7 > 35 : chillax end end main : I : boolean array; pop - 54600 end

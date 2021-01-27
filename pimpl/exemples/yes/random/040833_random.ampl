@@ -1,0 +1,1 @@
+program J : Nr : takes b : boolean array; k7 : integer array; t, I : integer array returns nothing do P1(- true); while - 76200 - 73 : do t(38) end end A4ya : takes Ob, x, e9C, w, G3, aLG, _o4 : boolean; c, d, LS1a, G, f, a9P0a : integer returns integer chillax end main : chillax end

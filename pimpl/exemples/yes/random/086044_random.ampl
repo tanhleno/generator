@@ -1,0 +1,1 @@
+program g7S : main : S_ : integer array; N, e8Q : boolean array; _, S, T4, x : integer array; eIn0, GIZ, hG, n5Gaa : boolean; pop - false rem not 5 and 0 or true and 29 + 2; output - 03 and 62 - 9 - 37 = 78 . - 6 - 2 . "\nf" end

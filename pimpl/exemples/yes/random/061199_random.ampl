@@ -1,0 +1,1 @@
+program yw4a : b : takes p : integer array returns nothing lVDaa : integer array; while - true or 5 - 1 > 18 : do e0L0(2); do pX(0); when case 1 : chillax end end; let c[- 68500] = array - 557 - 83; let B[33500] = array 893 end I0d : takes S, W, Q : boolean array returns nothing T, S, M, kft : integer array; j, u, u2 : integer; chillax end main : chillax end

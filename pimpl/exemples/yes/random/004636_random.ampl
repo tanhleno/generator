@@ -1,0 +1,1 @@
+program E : W : takes A, o, B, y_3a : boolean; A : integer array; Y, kgh : integer array returns nothing B1, Sv : integer array; d8 : integer; output "|"; do v(1 <= 59) end main : O0, j, K7, d : integer; E : integer; o : boolean; chillax end

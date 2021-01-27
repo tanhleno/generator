@@ -1,0 +1,1 @@
+program s : YN : takes xvB : integer; q9 : boolean; s0Wa : integer returns nothing b : integer array; while false and 1 - 5 - 76 > - 8270 - 51 : pop 84 end; while 97 - 2 >= 16 : pop end; output "\\h" . 0; let srE0 = 1 end main : when case - false and true /= - (56) - false + 0 - 7 : chillax end otherwise : chillax end end

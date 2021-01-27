@@ -1,0 +1,1 @@
+program l : K : takes aG : boolean; i, g, j5 : integer returns integer array o9 : integer array; gIm : integer; chillax end c8 : takes r, j : boolean array returns nothing chillax end main : pop - (96) + 7 > - not 2 and 76500 or 3880 end

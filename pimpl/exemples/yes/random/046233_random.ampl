@@ -1,0 +1,1 @@
+program h : F : takes is6 : boolean returns boolean c : integer; chillax end B : takes q, dD1 : integer array returns integer array Hl, TP, WQ, A : integer; chillax end main : do p(not true rem true * not 13 and 2 = - false, false or 9 and 3 >= - 9); input D[not L7kaa and Xoj and 210] end

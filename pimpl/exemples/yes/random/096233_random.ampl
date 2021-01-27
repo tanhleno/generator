@@ -1,0 +1,1 @@
+program W : main : when case - not ay[4] : output "\t" . 50 . 1; let Re = array 57; do Ogn(2); do d(615) end case - (6) rem 04 and 8 > false and 71 or 81 - 83 : while 5 = 74 : chillax end; input bp60 end otherwise : chillax end end

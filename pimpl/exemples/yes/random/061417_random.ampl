@@ -1,0 +1,1 @@
+program a : i : takes i : integer array returns nothing output ""; while - 6 - 201 /= 34300 : pop; input S; pop end end q : takes eH : integer; Pe, W, IJK, C, _2, b : integer array; lMx, p, G : integer array returns integer let r = array 516 - 0; when case 28 : chillax end otherwise : pop end end main : chillax end

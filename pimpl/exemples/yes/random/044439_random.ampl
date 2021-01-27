@@ -1,0 +1,1 @@
+program vn : j : takes pX : boolean array returns nothing btw : boolean; chillax end main : pop; do b1a(5 = true + 6 - 331, - S, - 31 - 9320, 30 = 11); while - t96 and 63 - 7 - 78 >= - 4 - 22 : chillax end; input q end

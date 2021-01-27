@@ -1,0 +1,1 @@
+program WZ : P : takes v3 : boolean array returns integer output "\n."; input o[- 7] end N : takes o9 : boolean array; X, II : boolean array returns integer chillax end main : input lh[- true / m[3] or not(1) or false or 23 - 4]; let W = - false or 231 - 3 /= - 798 - 39 end

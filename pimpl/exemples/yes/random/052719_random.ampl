@@ -1,0 +1,1 @@
+program I : A : takes U : integer; Ii : integer array; E, d : integer array returns integer array L, Q, VY : integer array; u9, N : integer; J_, s : boolean array; do r(true and 0950, - 48 < 0, 9, 3); pop; while 69 : output ""; pop end end main : C440, _ : boolean; while - true * (9) and false and 9030 : let jL = 2 = 92; pop end end

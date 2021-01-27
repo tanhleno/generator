@@ -1,0 +1,1 @@
+program S : Kg8aa : takes p : boolean; _, n : integer array; _5, IX40 : boolean array; G20 : boolean; K69 : integer returns integer chillax end main : when case i and(1) : chillax end otherwise : chillax end; output "Y" . "\t"; input k; do _b70(- 636) end

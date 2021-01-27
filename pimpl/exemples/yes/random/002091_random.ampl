@@ -1,0 +1,1 @@
+program U0U : h : takes Guo, e, j3, A, r, k5 : integer returns nothing let v[- L1O and 5 + 3 - 4] = array not 3 and 57 or 34; pop 4; let l[8] = array 8 end main : when case o(877) - z9 rem 5 : chillax end otherwise : chillax end; do XX(- q >= - (6)) end

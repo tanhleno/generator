@@ -1,0 +1,1 @@
+program Tr8a : p : takes r7H : integer returns integer let O[- not 3 and 2] = array - 1 end v : takes m, vY : boolean array returns nothing m : boolean; chillax end main : O, C : boolean; chillax end

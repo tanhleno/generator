@@ -1,0 +1,1 @@
+program W3w : L1Waa : takes D, hl, f, c, h1 : boolean array returns boolean f : integer; chillax end PDR : takes i : integer array returns nothing F180a, Si, B, sW5 : boolean array; i : integer; let N9d[- 483 - 97] = array - 53400; input Q[200]; input Z[6] end main : _liaa, p0Q0, X3w, u3 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Z520a : iv : takes I3 : integer array; Ao4 : integer returns nothing mp20 : boolean array; when case - S64a and 9 or 26400 /= 0 - 980 : chillax end; output 2290 = 3 . "6\t" . ">" . ""; pop 4710; do j(2) end main : chillax end

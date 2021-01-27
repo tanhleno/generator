@@ -1,0 +1,1 @@
+program P : G : takes n, n : integer array; I07 : boolean array returns nothing when case 49 - 2 > - 7 - 0 : pop end otherwise : when case 26 : chillax end end; let Yc = 72 = 17800 end main : c94, J8, N : integer array; FS : boolean; P8, k : integer array; chillax end

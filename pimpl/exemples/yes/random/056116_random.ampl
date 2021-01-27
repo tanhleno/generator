@@ -1,0 +1,1 @@
+program t3caa : m : takes Ylt0a : integer array; cr : boolean array returns nothing chillax end main : X : boolean array; S, K, ow, n2, aL0, Mi1 : integer; when case - Le and 3 : chillax end case - true and true < (811) or 8 - 6 : pop 7 end case - W7 and 0 or 44 <= - 6 : output 3; pop; do xTt0a(48000); pop end case - 9 : output "4" end end

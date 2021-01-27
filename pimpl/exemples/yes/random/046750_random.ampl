@@ -1,0 +1,1 @@
+program N : J9 : takes R : boolean returns integer array y : integer array; chillax end main : W, tj00 : integer array; n_ : integer; while not true or 5 <= - 54700 / (83) : chillax end; let U4h = hqNa; output "" . 62 = 6 . "\n%aa"; do b(8 - 21, 2, 7) end

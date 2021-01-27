@@ -1,0 +1,1 @@
+program M2 : n510 : takes F, sE, g1v0a, m, F, o : boolean array returns nothing do O(not 35 and 75 > 93400) end F : takes L : boolean; L, O, L, P : integer array returns nothing v7, Pf : boolean; while 223 : chillax end; when case 2 : chillax end; do l63(7, 54100); when case 3 : chillax end end main : R, m : integer; R6f : integer array; chillax end

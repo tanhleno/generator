@@ -1,0 +1,1 @@
+program rs : eC : takes P74a : boolean; y3 : boolean array; P : integer array; E130 : boolean; d : boolean; I7q0 : integer array returns integer array Q, fql : boolean; pop; when case - 83 : chillax end case 18 : when case 475 : chillax end end case 7 : chillax end; while 1 = 86 : chillax end end main : chillax end

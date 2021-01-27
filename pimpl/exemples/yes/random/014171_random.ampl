@@ -1,0 +1,1 @@
+program r : Ct : takes K32aa, x, I1 : integer array; Tw : boolean; j, J : integer array; s61 : integer; D, i : integer returns integer while false + 9 - 15800 < 1 - 31 : chillax end end main : QI : boolean array; _7m, Tb, H : boolean array; _7, P0, US90, UMJ, L : boolean; chillax end

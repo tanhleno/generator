@@ -1,0 +1,1 @@
+program jxZ : R : takes S, A1R : boolean returns nothing do ts40a(- true and 166 < - 31 - 2); output 91 . 5 . 99 . "~\n\"" end _ : takes f, O27a, N : integer returns nothing chillax end main : K, Y1, s : boolean array; dB : boolean; pop - 70400 and false and 1; when case true >= (6) + 1 : chillax end otherwise : chillax end; input b end

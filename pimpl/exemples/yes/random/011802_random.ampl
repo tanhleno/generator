@@ -1,0 +1,1 @@
+program N : JU1 : takes N, nl2aa, itea : boolean returns integer array y0, M : boolean array; l1, jY, Mmaa, K : integer; B2, _3, l : boolean; output "" . 6; output "" . "gOaa" . "X" . "" end main : m : boolean; when case Y(9650) / true * true >= - true and false and 9 + rk and 1 : chillax end case(2) * false and 0 > true and 45 + 4 : chillax end end

@@ -1,0 +1,1 @@
+program k : k : takes My : integer; S4, b, i8H : integer returns nothing when case false and 2 - 354 : chillax end case - 633 : chillax end otherwise : when case 7 : chillax end; while 4090 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program XTr0 : J : takes l : integer array returns nothing Dk4, y2 : integer array; P : boolean; chillax end Ro : takes f : integer array; wRJ, f : boolean; U2, W2 : integer; MAL : boolean returns nothing l, l : integer array; p, D : boolean; chillax end main : P : boolean; chillax end

@@ -1,0 +1,1 @@
+program q : VJ : takes S, f : integer array; mN, i : integer; Fe, c : boolean array; o7k : boolean array; m : boolean; d93, C24, g070 : integer; s9, pP : boolean returns integer array Mm4, h : boolean; do cF(- 08000 and 98600 > 3 - 9) end main : let V = array - 10 or true rem true and 62 end

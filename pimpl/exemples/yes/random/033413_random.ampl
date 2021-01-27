@@ -1,0 +1,1 @@
+program m : s : takes gv : boolean; KD, U, L, J5T0a, T0 : integer array; d, Y : integer array returns nothing let t[- true] = - 5 >= 50 end main : e, X, AITa : integer; a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program l : b14aa : takes faV, S : boolean array returns boolean pop; output "B"; pop 72 end main : l, d_saa, Uo8 : boolean array; m, a9 : integer; while(4050) * false / true and 50400 : let IW[2620 - 43400] = array - 53 - 8; while 0320 = 28 : chillax end end end

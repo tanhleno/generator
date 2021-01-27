@@ -1,0 +1,1 @@
+program C : dOF0a : takes guu, YL, E : integer array; i, Ft, mjna, sr7, E : boolean; R : integer returns nothing chillax end main : d, Gp, c18aa, q, xZ10, x, S8U0a : boolean array; G : integer; chillax end

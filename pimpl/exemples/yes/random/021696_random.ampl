@@ -1,0 +1,1 @@
+program e : j7 : takes KG, l9i0a : boolean array returns integer Gxr : boolean array; o : integer; mR10, b6 : boolean array; chillax end main : output not(2) rem not 6 . "#3!"; let A[true] = - Cb6aa; input wK; let E = array - 2 end

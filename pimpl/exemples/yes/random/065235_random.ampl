@@ -1,0 +1,1 @@
+program uV2 : c : takes a : integer returns nothing let Jz = array - (27800); do q(62 - 7 /= 804, 6, 15, 29); let m = 4; when case 207 : chillax end otherwise : chillax end end main : M, H : boolean; chillax end

@@ -1,0 +1,1 @@
+program W8 : m3 : takes Z : boolean array returns nothing do q(true and 0 + 8, 6); pop end oQ5 : takes d, n : boolean returns nothing while - 51 - 29 : chillax end end Q2 : takes Tf : boolean; Z4, y : boolean array; sIz0 : boolean; B510, U, b3 : boolean returns integer chillax end main : c, D, tED0 : boolean array; chillax end

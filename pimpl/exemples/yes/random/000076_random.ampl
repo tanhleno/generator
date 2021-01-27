@@ -1,0 +1,1 @@
+program t8 : r : takes W, N, r, vJ20, P, TU, t, b : boolean array; C, V, Ay, n6 : integer; E, I : integer; I, B : integer array; b : boolean; Ai : integer array; u : boolean returns nothing when case - not 7 : chillax end end main : U, WM, z9H, Yo2a, h, Uq40, P6K0 : integer; pop - not false and true - true and 7 + 4 < not 161 and 761 end

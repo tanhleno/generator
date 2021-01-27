@@ -1,0 +1,1 @@
+program l : u : takes S5 : integer returns nothing chillax end main : a4 : boolean; let r = array - (235 = 5) and 8 and not 0; let g5n[- not 992 and true or 4550] = - false and 3 + 149 - 44 >= 71000; do d(true, - 86400 - 67); input Z[- 04 - 85] end

@@ -1,0 +1,1 @@
+program W : d : takes X6, o : integer returns integer array e9Kaa : integer; G : boolean array; c, OV, T : integer array; let E4[GI and 5230 or 9 - 7210] = - 1 - 1 /= 33900 end main : fEX : boolean array; do cg(not true <= - o43(423)); let x1 = array not false + true; let W77[not 3 or 6] = 1 /= 2; do T(056, 38000, 1) end

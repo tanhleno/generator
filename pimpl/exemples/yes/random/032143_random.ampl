@@ -1,0 +1,1 @@
+program CX6aa : D : takes HYyaa, P0O : integer returns integer let dhb = array FgB end main : when case - not(7) + y070a rem not 9 + 9 >= - (6) : output 35; output "/" . 3 . "" end; input r19; let V32aa = 5 - 5 >= 824; pop end

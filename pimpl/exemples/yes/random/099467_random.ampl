@@ -1,0 +1,1 @@
+program _0 : main : while not false - true and ZN00a and 92300 - (124) and 5 : chillax end; when case - not true and(0) <= - true and 03 : chillax end case - false and 8 : do Uuu0a(8, 62100) end case - 74 - 820 = 0 : chillax end; let OL = - 40 end

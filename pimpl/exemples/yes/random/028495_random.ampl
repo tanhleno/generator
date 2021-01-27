@@ -1,0 +1,1 @@
+program B : o : takes W, I : integer array; I640 : boolean array returns nothing while - false : while 6 : pop end; do Rc(9) end; input BQjaa; when case 3 = 47 : let b = 2; pop end case 77 : pop end otherwise : pop end; input L[25] end main : chillax end

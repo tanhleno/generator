@@ -1,0 +1,1 @@
+program C72 : ZM_ : takes f9, B0, c : integer array returns nothing q : boolean; Z3 : integer; pQ : integer; pop; output ""; do Q0T0a(475) end main : h, O96, y2u : integer; x : boolean; n9 : integer; AzOa, s3 : integer array; Y : boolean array; chillax end

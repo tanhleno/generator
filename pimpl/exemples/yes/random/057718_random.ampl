@@ -1,0 +1,1 @@
+program j : X : takes V09aa : integer array returns boolean array k7l0, a08aa, Z7 : integer; v : integer; let mc[- false] = 8 end wg : takes M : integer returns nothing G, G, D31a, AA : boolean; output "%4" . 7 . 3530; when case 9 : pop; pop end otherwise : pop end end main : f3gaa, e1, Dj : boolean array; chillax end

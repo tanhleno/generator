@@ -1,0 +1,1 @@
+program o0p : B : takes I, Y1 : boolean array; LV : integer array; x : boolean array; c0Q : boolean array; g, Ek50a : integer returns nothing chillax end main : output "" . - true and 63 /= - 51 - 7; while - false or not 0 + 16300 : chillax end; input K; when case - 3 - 1500 > 727 : chillax end otherwise : chillax end; let u[4] = array 5; when case 8 : chillax end end

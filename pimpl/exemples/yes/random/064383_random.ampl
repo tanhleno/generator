@@ -1,0 +1,1 @@
+program s : Ix00a : takes P97a : integer returns nothing t_, u, t3 : integer array; r7s : integer; _T, b : integer array; input su; when case 4 : when case 584 : chillax end; let u = 38; pop end otherwise : chillax end; do f(07 = 3); input Kn4; input P; do yF(2) end V : takes N : integer returns integer array chillax end main : chillax end

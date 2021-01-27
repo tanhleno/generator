@@ -1,0 +1,1 @@
+program e3 : OF : takes p14, x2a0 : integer returns integer array chillax end S : takes m1U, _, c : integer array returns nothing chillax end I : takes Zd9 : integer returns nothing chillax end main : q36 : integer array; c48, GJja, k7G : integer array; x : integer; do M(not false) end

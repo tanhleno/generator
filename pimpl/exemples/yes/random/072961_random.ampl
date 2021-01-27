@@ -1,0 +1,1 @@
+program k : main : I, RS, L : integer array; uS : integer; A9 : integer array; Z : boolean; J : boolean array; j, i5B : boolean; do m04aa(- (1), - (6) / l4 and 785 > - (851) and 2 - 3360, - 953 and 3 or 1 /= - 4) end

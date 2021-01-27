@@ -1,0 +1,1 @@
+program K : E : takes P8E : integer array returns nothing when case true or 0 <= 91 : chillax end case - 2 >= 56 : chillax end otherwise : chillax end; pop 07 end main : while - (79 = 79) and not true * not 54 and 5 : chillax end; output "\"" . "."; when case - true or 1 - 9 : chillax end; let K = array - 8720; pop; do t290(3) end

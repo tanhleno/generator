@@ -1,0 +1,1 @@
+program e6 : R : takes OR : boolean returns nothing j : integer array; r, PlM, r, P : boolean; while - not 61 : chillax end; do r(- 95) end Q7 : takes l5 : integer; m, S, Y, o9 : integer array returns boolean array let Wo6 = array - 33; while 64 : let Ic1 = 5; pop end end main : chillax end

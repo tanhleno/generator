@@ -1,0 +1,1 @@
+program N_ : main : do L1(not 986 rem(9230) * true or false rem false - i460 and 4); do Q7(true * c and 4 - not 01 and 96 or 7590 - 6 /= - (4) + 1); output - 1670 - 8; do G1j(2090 = 93, 49); pop 290 end

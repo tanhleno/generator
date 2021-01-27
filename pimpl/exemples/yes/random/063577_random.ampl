@@ -1,0 +1,1 @@
+program U3 : Z : takes u : integer returns integer pop - 369 - 3 > 6; when case 8890 - 0 : input l end; pop 2040; when case 1 : chillax end case 5 : chillax end otherwise : chillax end; pop; pop; pop end LA : takes R, W3X0 : boolean returns nothing let s4haa = 4 = 43000 end main : V85aa : integer array; iB1, w : integer array; let P = 9 or true and 92 >= true and 12 - 99 - 99 end

@@ -1,0 +1,1 @@
+program n9m : O : takes RJn, r0, t, C : integer returns boolean array P, h : integer; FfA : integer array; while not 3 and 3 - 4 /= 3 - 4 : chillax end; while 47 - 9 : chillax end end main : do L(- false / (2) / X and 7 - false - Ea7aa, (269) - false + 6960); when case false and false and 0310 : do rF(532) end otherwise : chillax end end

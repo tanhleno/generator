@@ -1,0 +1,1 @@
+program sU7 : main : do k(- false or true - llV0a and 6 - 68); output "" . "" . "L4" . "5r"; when case(6) : while 1 : chillax end; do O(3); output "" end case 1 /= 956 : chillax end case 5 = 861 : while 5 : chillax end end; when case - 53 /= 7 : chillax end end

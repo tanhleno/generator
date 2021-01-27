@@ -1,0 +1,1 @@
+program o : CsXa : takes h, O88a, d, OQ, W : integer array returns nothing let Vf90a[- 50 and 73 - 2 - 28] = 7 >= 8270 end c : takes Y7x : boolean array returns nothing o94aa : integer array; pop end main : pop not(4) = true + 6 end

@@ -1,0 +1,1 @@
+program D : Co90 : takes S1 : integer returns nothing chillax end main : when case - false * E7[6] or false * true and 9 : pop 2 = 41600 end case O - (8) - 9 : do A(7 = 5) end case false <= - 1 : let Q[9540] = 5 end; do R9u(C rem not 43, - true and 58 or 2 - 28, - 6 >= 2) end

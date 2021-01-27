@@ -1,0 +1,1 @@
+program W2L0 : main : _9, Un3 : integer array; f, U5, LR, ZK, o : integer; WR80 : integer; let u9o0a = - false / U and 02; when case true + 960 : input aR4a end; pop - 67 /= 91; input O8[1620 - 8] end

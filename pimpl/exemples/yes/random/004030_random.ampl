@@ -1,0 +1,1 @@
+program E01 : xG : takes o, F0, W, M, s2 : integer returns integer g : boolean; chillax end Q : takes J, t0 : integer array; WZ, FZ1 : integer returns integer array output 96 = 77900 end main : chillax end

@@ -1,0 +1,1 @@
+program K : Y : takes meB0 : integer array; i : boolean array; sV9 : boolean returns integer R, e, sC, JM6a, z : integer; pop 55 - 4 /= 7 end main : when case - true + false and not 2 and 6 : output "" end; output "" end

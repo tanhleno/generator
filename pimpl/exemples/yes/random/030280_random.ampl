@@ -1,0 +1,1 @@
+program kN : c : takes bb5aa, Di7 : integer array returns nothing chillax end O8 : takes T32 : boolean returns nothing when case 48 - 6 : chillax end case 43 = 3920 : chillax end otherwise : output "\"4"; pop end end yXw : takes T6Q0, uQ, NE, Sj : boolean array; Y : integer returns nothing input lH end U : takes G590, F1 : integer returns nothing chillax end main : pop - true end

@@ -1,0 +1,1 @@
+program O : D8_ : takes bP, X, C, E : integer; r : integer returns integer X : boolean array; do A(- 75 and 8 + 6); let V = array - 5; do Y(19 = 140); do EN(6, 86) end n : takes U : boolean returns boolean array u4K, G, K5L, K : boolean; I : boolean; chillax end main : chillax end

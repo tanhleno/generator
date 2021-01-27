@@ -1,0 +1,1 @@
+program X9 : main : KR, h : boolean; when case - false and not 1 and z0 and 85600 /= - true or e3E0 : chillax end; when case - not(1) rem false > false : chillax end otherwise : input zT end; while - false and 06 < - 5 - 0 : output 48 . "w" end end

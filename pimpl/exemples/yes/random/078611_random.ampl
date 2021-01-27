@@ -1,0 +1,1 @@
+program u : main : t : boolean; brk0a, E0, _5 : boolean; let BI[(88) / Z6(9) - T(93) - m] = array - true; input v6[not 26 rem J and 7 - false and 7520]; let R = array false and 11 + 9 - 1; while - 6 : chillax end end

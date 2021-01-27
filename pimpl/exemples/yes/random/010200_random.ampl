@@ -1,0 +1,1 @@
+program dOE0a : ci : takes kr, g, Zwsa : boolean array; s : boolean returns integer chillax end main : let Ct = array - c rem true and(3) + not(3) + jJza; output "{"; when case not 82 and 9 = - 5 - 9090 : chillax end; input t11a[67600] end

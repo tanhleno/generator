@@ -1,0 +1,1 @@
+program Z : e : takes i7h : boolean array returns boolean chillax end S70 : takes ao1 : integer array; UU, oH, a9, n : integer array returns nothing chillax end main : r, j700, V3, RwNaa, D46a, P1ca, f7 : integer; x53, N, Iw5, C : boolean array; let W2[p / (27)] = false * true >= not 09; input gt end

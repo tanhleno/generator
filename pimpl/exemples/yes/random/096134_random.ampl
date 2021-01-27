@@ -1,0 +1,1 @@
+program b : main : when case - a rem not true and 4840 and 6 or not D * false : do v8y0(- 357); let l[068] = array 75400; output "@" . ","; pop end case - (75) : pop 3 end otherwise : chillax end; input e end

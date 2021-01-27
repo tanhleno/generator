@@ -1,0 +1,1 @@
+program nCp : X4 : takes V, JWRa : integer; d : integer returns boolean Of0 : boolean; chillax end main : di7a, p, mZ, SL, f, nu, z : boolean array; A_, L : boolean array; k, A, kaaa : integer array; input e5[- not 3 rem false]; when case 48600 rem false - (53) or 77100 : output "" end case nUb + 991 : chillax end case - 2 >= 07 : while 03 : chillax end end end

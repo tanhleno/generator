@@ -1,0 +1,1 @@
+program B9Pa : main : mX, lf2, Q : integer array; when case false and 9 < - true / not 18800 and 218 or(8750) and 6250 : chillax end case(1) / true and 3 + not 05 and 9 : let e = array 50 end otherwise : chillax end end

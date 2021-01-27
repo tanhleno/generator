@@ -1,0 +1,1 @@
+program z3 : G3 : takes Rb, z : integer array; l5caa, Q1, dRg : integer; S, l, d : boolean array returns nothing e : boolean array; m750, e, c0gaa : boolean; r : boolean array; d, C : boolean; Pf : boolean; M5 : boolean; while - false and 05 /= - 910 : chillax end end main : G : integer; Uq7 : integer; u : integer array; chillax end

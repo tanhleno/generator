@@ -1,0 +1,1 @@
+program d : Gs : takes R, R : boolean returns boolean array do bd50a(false and 0 - 9 - 3); while - 824 - 0 : chillax end end G : takes tzCa : integer returns integer chillax end main : R : boolean; chillax end

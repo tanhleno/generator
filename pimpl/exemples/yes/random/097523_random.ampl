@@ -1,0 +1,1 @@
+program TdP0 : main : when case 6 rem true and(26300) and 990 /= - (4) and not 9 and 529 or not 8 and 38100 or 1 - 46 : chillax end case - true <= - true and 47 - 91 : while 8 = 8 : pop end; when case 047 : pop end case 43 : chillax end end case 783 - 7040 - 9 : chillax end; let W[- true and(5) + false] = array - true / (3) and 9 + true - 25800 - 18 end

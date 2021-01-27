@@ -1,0 +1,1 @@
+program i : i86 : takes lp30, R : integer array returns boolean array chillax end main : pL : integer; D : boolean; Y : integer; input dRCaa; when case - false + true and 2 - 278 - 3 >= N : chillax end case - (9) - 593 - 4 : while 07 : pop end; do I(5); do _(0); pop end otherwise : let y620a = 32; when case 329 : chillax end; when case 1 : chillax end; pop end end

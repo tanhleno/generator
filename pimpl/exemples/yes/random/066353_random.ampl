@@ -1,0 +1,1 @@
+program kvA : main : do t2_0a(- o[2] or N / (88) and 5 or true and 290 /= - false and C8, - not(52) + Q and 916 + 538, - uK90 + 2900 - 27800, - 99 = 7); when case - false + not 164 : chillax end otherwise : pop end; do c(not 37 and 6) end

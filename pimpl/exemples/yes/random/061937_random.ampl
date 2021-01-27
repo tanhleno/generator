@@ -1,0 +1,1 @@
+program ms : kJ : takes O : integer returns boolean array a : boolean array; chillax end i : takes c : integer array returns boolean chillax end uY : takes G5Z, H : integer array; d5, t : integer returns integer array do On80(4400, 346); while 30 : chillax end end main : while - P600a(50, 49300) * false + not not 621 / not 46 >= V(6) : while - 7 : chillax end end end

@@ -1,0 +1,1 @@
+program W2 : main : S : boolean array; do f(not not true); let Jk[not _Nt0a and not 6 and 6 - false and 8050] = array - O(8) / not 211; when case true and 8 > - 4 - 754 : chillax end otherwise : chillax end; output 4 = 90 . 5 end

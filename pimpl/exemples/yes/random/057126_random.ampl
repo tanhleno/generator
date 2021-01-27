@@ -1,0 +1,1 @@
+program EJx : mQF : takes F8 : integer array; C2 : integer array returns boolean output 73 . 8 . "\t:" end main : when case(8) or g <= - false : chillax end otherwise : chillax end; while not true and false > - JO : when case 7 = 8 : do d(65); pop end case 0 : chillax end case 7 : chillax end otherwise : pop end; pop 06; let i = 4 end end

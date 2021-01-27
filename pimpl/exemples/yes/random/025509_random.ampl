@@ -1,0 +1,1 @@
+program D : Ph9 : takes dPs, H : integer; z, z7 : boolean array; u6Waa, F : integer returns nothing do e(- 93700 and 8, - 6 - 95 = 7940, 6); do um6(- 34 /= 8) end main : k : boolean array; BB, L, Y : boolean array; P, YZ1a : boolean array; ks, q010 : integer; when case not true > not true and false - (1) + 3 : chillax end otherwise : output "d" end end

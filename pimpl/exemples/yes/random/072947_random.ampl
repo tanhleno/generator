@@ -1,0 +1,1 @@
+program a : main : B350a, u, _AK : integer array; Op : integer; A2H, bRq0a : integer array; pop; input o4s0a; while - true and 96 : do g(3, 30) end; input X; when case 5 = 30 : output "7"; pop end otherwise : chillax end; input T1e end

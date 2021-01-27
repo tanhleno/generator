@@ -1,0 +1,1 @@
+program r : main : y04aa, hJ, A, _, nr, a : integer; R2, a : boolean; F : integer array; N1, W : integer array; R, vR0, i5 : boolean; while false and not true : do r6(8 >= 2890) end; input D[true * true] end

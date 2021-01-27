@@ -1,0 +1,1 @@
+program q : d3 : takes d, c, L, y590, A4 : boolean; s : boolean array; PV6 : boolean returns boolean array qL : integer array; C, m, e, x4 : boolean; chillax end main : h : boolean array; G47, d, d, E, H27a : boolean; let a[- w] = array 0; pop 23; while - g6 and 8 - 04800 - 3 > - 904 : pop end; while 44 > 55 : chillax end; pop; do A(4110, 00) end

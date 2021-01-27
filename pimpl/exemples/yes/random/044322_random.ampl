@@ -1,0 +1,1 @@
+program i : NWx : takes j24 : boolean array returns nothing ht0aa, Q8 : integer; D9 : integer; chillax end h9 : takes H, d : boolean returns nothing let z = 22 end main : my3 : boolean; M, h0, H : integer; chillax end

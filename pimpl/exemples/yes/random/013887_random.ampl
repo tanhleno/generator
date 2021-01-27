@@ -1,0 +1,1 @@
+program b : z : takes e, nl, KZK : integer array; x, qz : boolean; q4 : integer; q, f, A, z69aa, B : integer; PX, i, t0va, kRJ : integer array; M : integer; NE, V : boolean; Q : boolean returns nothing chillax end main : uk9 : integer array; e9 : integer; pop 2 <= - not 2700 and 2; do P98aa(- (51) or Z and 64) end

@@ -1,0 +1,1 @@
+program M9 : f : takes g7y : boolean returns boolean array W, h5, x5 : integer array; O : boolean array; K8Y, R : boolean; j, a3 : boolean; chillax end main : let Q = false * 3 and 974 + (8) or 9 < not 2 and 7 + 1 - 180; pop; input Y end

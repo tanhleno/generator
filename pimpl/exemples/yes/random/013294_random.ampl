@@ -1,0 +1,1 @@
+program Q9 : h : takes w, E, J : integer; ev6 : boolean returns integer chillax end NZ : takes C : boolean returns nothing z, k38 : integer array; D0, J7oaa : integer; pgS : boolean; c : boolean; chillax end A : takes M2 : boolean array returns nothing chillax end main : x, J43aa : boolean array; pop - (1) - 5 and 0 < - B end

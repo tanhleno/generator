@@ -1,0 +1,1 @@
+program d : E : takes b9q, Ty : integer returns integer array do U6(false, 79100, 7020 = 35, 3070, 1); do U(- 0890 - 6); let sW = 7 end G : takes k : boolean array returns integer array L66a : integer; chillax end main : J : integer array; P, T4j0, D, K0Da, X : integer array; chillax end

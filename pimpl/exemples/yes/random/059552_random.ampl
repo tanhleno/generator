@@ -1,0 +1,1 @@
+program u : S8 : takes a9 : integer array returns integer output "I"; do CId(- 4 - 7 >= 5, 179); while 6 : when case 7 : chillax end; pop end end main : P : integer array; Z, x : boolean; thh : integer array; chillax end

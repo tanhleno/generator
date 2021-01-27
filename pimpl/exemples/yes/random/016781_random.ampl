@@ -1,0 +1,1 @@
+program O : A6 : takes rf, t : boolean; x, c2D0a, lG, yx : boolean; e : integer array returns boolean array when case(34) : chillax end; do g3S(- 83 - 1, 36 = 0500); do j(197 = 0); pop; pop; when case 9 : chillax end; pop end main : chillax end

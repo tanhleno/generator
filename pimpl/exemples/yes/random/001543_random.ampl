@@ -1,0 +1,1 @@
+program Wr : l510a : takes q130a, L, P, I, T, HO9a : boolean returns nothing chillax end main : while - false / false + true / 1 and 28800 or not 5 and 34 >= - false or 5 and 84 + 48800 : do ei0aa(- 8); when case 28 : chillax end case 6 : pop end otherwise : chillax end end end

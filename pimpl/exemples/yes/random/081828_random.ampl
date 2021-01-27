@@ -1,0 +1,1 @@
+program u : main : qT7aa : boolean array; G4 : boolean array; when case(3) * (58) /= - 95 or(4) or 08 : pop 906; output "p" end case - Y[6] /= not 59 and 9 + 9 - 65 : do E(70 = 29400, 3) end case true and 148 - 66 >= - 0 : output "6" . "" end otherwise : input i[02] end; while a(6) and B < not 5 and 97 or 0 : pop; while 57 : pop end end end

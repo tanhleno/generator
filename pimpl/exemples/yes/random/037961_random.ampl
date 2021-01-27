@@ -1,0 +1,1 @@
+program Z : z : takes _ : boolean array; r, X, f : boolean; E, TkX0a : boolean array returns boolean a63, w, t8 : integer; pop; do g(37) end main : Te, t, h8_aa : integer array; y, F, G : boolean array; f : integer; chillax end

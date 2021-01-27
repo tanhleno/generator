@@ -1,0 +1,1 @@
+program Au : r : takes M58a, od : boolean returns nothing CF, DS : boolean; B, K79a, fl, m : integer array; KNVa : integer; output ""; while - 520 <= 8 : input e; while 9830 : chillax end end end main : i : integer array; J : integer array; chillax end

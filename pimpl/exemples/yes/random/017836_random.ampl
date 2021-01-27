@@ -1,0 +1,1 @@
+program sF : H : takes V, jr00a : boolean; lk : boolean array; A : integer array returns nothing Q7, lXm : integer array; D3Z0a, P : boolean array; while - not 7 and 6 - 37 : chillax end end main : C, B1, SE9, t, m, R, l380 : boolean array; Gn, P3B0a, B : integer array; input s[true or B(658) and L4M0a - (6150)] end

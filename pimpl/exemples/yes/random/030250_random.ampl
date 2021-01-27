@@ -1,0 +1,1 @@
+program l : _ : takes _, n3 : integer array returns nothing chillax end FS : takes W : boolean; t, o, x22 : boolean returns integer array r : boolean; F : integer array; BWlaa, V : boolean; ipJ0 : boolean; VB9aa : boolean; do bzF(- 6, 41 = 9); do L(1 = 05400, 2); do p(49, 7) end main : _ : boolean; chillax end

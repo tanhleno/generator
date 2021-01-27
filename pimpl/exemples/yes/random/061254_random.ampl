@@ -1,0 +1,1 @@
+program c : m : takes w : integer array returns nothing input S[6 and 1 - 9] end V2 : takes g, V5t0 : integer array returns boolean array S, NU30a : integer; hx8 : integer; b : boolean; chillax end main : Yz, Dr, M3P : boolean; chillax end

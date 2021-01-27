@@ -1,0 +1,1 @@
+program Sq0 : Gk : takes J : boolean returns nothing y91, la : boolean array; while not 8 - 1590 - 1 : chillax end; while 346 : chillax end; pop 24; input eWj[3] end main : E15aa, ez5, U, K : boolean array; input g[4 * 20500] end

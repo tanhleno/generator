@@ -1,0 +1,1 @@
+program r : V : takes Ay, j : integer returns nothing P : boolean; chillax end main : let S[- 334 / true + not not 7 - kX0a or 3] = array - YyV0a(8, 4) / (7) and false and 328; when case - 04 : do Ct0(4 = 2, 1) end case true < - 9 : chillax end case 95 : output "L\\0"; while 65 : chillax end; pop end end

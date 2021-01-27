@@ -1,0 +1,1 @@
+program d : main : when case - false - true /= 9 + false and 224 + 6 : chillax end case not true / (53) and 10 or(61) and 08 - 96 - 1 = 0 and 3 - 0 - 1 : chillax end; while false + H >= - true : when case 47 : while 43500 : chillax end; pop end otherwise : pop end; output ""; output ""; input r; pop end; pop 532 - 3 < 1 end

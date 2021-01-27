@@ -1,0 +1,1 @@
+program Z : rI : takes z : integer array returns nothing input ORl0[- true + 9]; pop 8 = 9 end main : while false * false / V2 and 230 + 5 and 8 : pop; output "\n"; let W[03] = array 23; do V70(6); output ""; pop end end

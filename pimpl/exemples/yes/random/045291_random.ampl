@@ -1,0 +1,1 @@
+program IMV0 : qb1 : takes D : boolean array returns nothing while - (23) and 9 + 7 - 6 <= 37800 - 17 : while 56 : pop end; input X; do o(6); pop end; when case 0 - 7 : when case 40 : chillax end end; pop end main : input P end

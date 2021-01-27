@@ -1,0 +1,1 @@
+program I : T6 : takes FIqaa, Q, obz0, NV, l, b, l2Z0 : integer; MDn, g1, X3, k, W, IzJ, EtJ : boolean; P : integer array returns integer array chillax end Eu : takes v : boolean array; L, QDQ : integer array returns integer array chillax end J00a : takes N : boolean array returns nothing when case 3 : chillax end end main : X4M, a : boolean; do r(- not U(6) + (7)) end

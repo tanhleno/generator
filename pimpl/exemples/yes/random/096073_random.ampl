@@ -1,0 +1,1 @@
+program _H : main : when case - z[7] < not not 15 : output "T5\"a" . 56; output 05 . "" . ""; output 5; when case 4 : chillax end; while 9 : chillax end end otherwise : input o; pop 45; do J(42); output ""; pop end end

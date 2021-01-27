@@ -1,0 +1,1 @@
+program U : q : takes j, Y400, A : integer; y : boolean array; z : integer array returns boolean chillax end main : while - true = - false + not 66 and 566 : pop end; do q6(182 and not 16200 and 13 + 6 and 46 > u and 8060) end

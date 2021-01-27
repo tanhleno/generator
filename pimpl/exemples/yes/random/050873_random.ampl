@@ -1,0 +1,1 @@
+program x : T6 : takes j : integer; r, U8 : integer; C : boolean; y0g0a, T : integer; I : integer array; x, P : integer array returns boolean lIf : boolean array; when case - false >= 7 : let O = 6 end case - 9 < 5 : do D(27200) end end pV70 : takes l : integer returns nothing D2, t : integer array; ONB, ili : integer array; chillax end main : chillax end

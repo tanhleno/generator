@@ -1,0 +1,1 @@
+program q : SK : takes eM80 : boolean array returns boolean chillax end P : takes c : boolean array; i : integer returns nothing chillax end N7Ma : takes Z : boolean returns boolean le3 : boolean; chillax end main : D9vaa : integer array; c, U : integer array; t, B9o : boolean; x : boolean; chillax end

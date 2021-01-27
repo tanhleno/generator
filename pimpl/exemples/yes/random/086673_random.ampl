@@ -1,0 +1,1 @@
+program J : main : a : integer array; i6ga : integer; Jp, _ : integer; O : integer array; D3 : integer; do FW(- false rem true * not 73300 and 8, - (35) rem(0), - true <= 1, 8, 2 = 8, 11); output - false end

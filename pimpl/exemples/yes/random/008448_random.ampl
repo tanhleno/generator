@@ -1,0 +1,1 @@
+program _l : y : takes i64, q, G : boolean; ru, V96, H, Q, d, pn1a : integer returns nothing r, Y5, Q : integer array; chillax end z2D0 : takes Oh : integer returns boolean array chillax end main : UF, K, U, B, dW5, Vg : integer; let F[- true and 3] = - V420a[35]; when case - O + not 4 and 31 + 31 - 896 : input x[8] end end

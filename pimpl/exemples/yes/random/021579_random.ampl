@@ -1,0 +1,1 @@
+program fW : G : takes t, Q_ : boolean array returns integer chillax end main : s7 : boolean; when case - 1 > - Z(8) and b and 6 + true : chillax end case 70 / not 2 : chillax end case fZ + 8 - 43 < 9 - 03 : pop 942; pop; output "\"0\"a"; pop end otherwise : let e[0] = 9 end end

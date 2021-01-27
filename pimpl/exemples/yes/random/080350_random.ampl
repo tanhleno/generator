@@ -1,0 +1,1 @@
+program uG : main : hb : boolean; when case - false >= 8 or 72 : while 169 - 8 : chillax end; output 7; input n; while 6 : chillax end; do Xd(163) end case 5 and B <= false and 6 : chillax end otherwise : let f = array 2 end; do G(- false rem 64100 and 9); let P = - 6 end

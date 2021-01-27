@@ -1,0 +1,1 @@
+program o : uY5a : takes _ : integer array; el : integer; N3, Er, C1 : boolean returns nothing when case true - 15 >= 75 - 21 : chillax end end main : while o <= - drf0a - not 5 - 872 : pop 40 end end

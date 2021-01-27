@@ -1,0 +1,1 @@
+program R : R : takes r, D : integer array; Lt : integer; y : boolean array returns nothing chillax end W : takes k4 : boolean array returns integer array A_jaa : boolean array; chillax end main : qN : integer; G : boolean; pop 5 and 17 and 420 or false and 6 <= - not 9; when case aZ1[3] / z and 191 + (9) and 8 : chillax end otherwise : chillax end; pop; output "\\" . "\n" end

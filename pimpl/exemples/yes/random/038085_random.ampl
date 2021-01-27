@@ -1,0 +1,1 @@
+program v : b6 : takes PA : boolean array; mn30, y, X : boolean array returns integer array B, Gw, U7l0 : boolean; chillax end l : takes c7, h : boolean returns boolean array ZEGaa : boolean; pop; input Y; input VO[45] end main : chillax end

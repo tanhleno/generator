@@ -1,0 +1,1 @@
+program Q : X6Yaa : takes So90a : boolean array returns nothing let d[- false + 4] = array not 61 and 48 - 31 - 8 end nZ4aa : takes o : boolean returns nothing input JZ; do J9e0a(5, 6) end main : chillax end

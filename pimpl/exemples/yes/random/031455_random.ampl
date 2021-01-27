@@ -1,0 +1,1 @@
+program j : y : takes ot, a : integer returns boolean chillax end H : takes TIG : boolean returns boolean array chillax end main : do s6(false or false + false and 3 <= - true, - kj or(22) and 8 /= - (84) and 80) end

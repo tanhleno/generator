@@ -1,0 +1,1 @@
+program p75aa : vg80a : takes Z4 : integer array returns nothing oC : boolean; when case true and 34 : output 5; while 3220 : chillax end; when case 04 : chillax end end otherwise : input Z end end R : takes vU0, xk, WP : boolean array returns integer m : integer; chillax end main : chillax end

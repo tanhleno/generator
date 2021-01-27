@@ -1,0 +1,1 @@
+program hh5a : g1 : takes RI30a, de3a : boolean; r4 : integer array returns nothing s, o : boolean; do B(true + 8 = 84, 9, 28 = 02100); when case - 98 = 2 : chillax end case 1 : chillax end; pop; let J8 = array 43; do T(87) end main : input u[- l[0] or false or not 06] end

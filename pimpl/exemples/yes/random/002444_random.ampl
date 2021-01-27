@@ -1,0 +1,1 @@
+program e : b1i : takes N, X0, f, Lv, V : boolean array; tl, Y : boolean array; G5k0, X : integer array returns nothing chillax end e : takes y, g1, p69 : boolean array returns nothing f, v8 : boolean; pop 90 end main : pop - false and(279) and 1 = - 63 + 1 end

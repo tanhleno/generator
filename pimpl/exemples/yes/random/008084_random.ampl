@@ -1,0 +1,1 @@
+program b5E0 : D : takes _rca, da, A, Q : integer returns integer array pop end r : takes j1 : integer; v5 : integer array; P, i, OVS, aCh : integer array returns boolean do _(- 21 - 3 = 8); let A[8] = array 8 end main : when case - true * true : chillax end case vU rem 7 or(4) and 49 + 11 : input W end otherwise : chillax end end

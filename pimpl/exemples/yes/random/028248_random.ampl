@@ -1,0 +1,1 @@
+program Nh8 : o : takes P0h, F : integer array; q : boolean array; o52, i, S9 : integer array; Q8 : boolean array returns nothing chillax end main : let SC[- false - U[2]] = array - T4; do O8(true / true <= - (6) + 39) end

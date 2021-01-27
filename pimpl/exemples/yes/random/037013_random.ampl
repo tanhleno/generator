@@ -1,0 +1,1 @@
+program B : A44 : takes zN : boolean; b : integer array returns integer B, H0, c : integer array; r : integer; input BK5; let u[05] = array - 32 - 6; let w[59] = 7; do J(8, 3); when case 41 : chillax end; do us(9420) end main : chillax end

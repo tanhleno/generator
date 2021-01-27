@@ -1,0 +1,1 @@
+program KoOaa : Z : takes QR : boolean array; L, y0 : boolean array; O3_aa : integer array returns integer let WLH = array - not 6 and 77; output "\\\"\"a" . ""; let z610a[4] = 2 end main : vyL : boolean array; p : boolean array; chillax end

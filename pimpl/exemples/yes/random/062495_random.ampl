@@ -1,0 +1,1 @@
+program M : p : takes Zt : integer returns boolean T : boolean array; ng5, jq, s : boolean; while - (1) + 36 >= - 38 : while 8 : pop end; while 8 : chillax end; when case 2 : chillax end end end main : R : boolean array; input j5 end

@@ -1,0 +1,1 @@
+program Y : j : takes t7, li : integer array; xv, T, X6, U : integer array returns integer chillax end O1 : takes q40aa : integer; V : boolean array returns integer array do h(999); output 1 end _ : takes K, A : boolean returns integer array F : boolean; do b(8) end main : ps, xn : boolean; chillax end

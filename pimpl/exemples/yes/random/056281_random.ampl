@@ -1,0 +1,1 @@
+program y : E : takes O : integer array; r : boolean returns boolean T6, c, M, g0, k : boolean array; r, cAU, Yx : integer; MU30, w, B : integer array; chillax end XT6 : takes Y : integer returns nothing pop 5 = 20700; pop end main : chillax end

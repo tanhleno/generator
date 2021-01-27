@@ -1,0 +1,1 @@
+program v : main : when case true * h(2) : let u6x0[24] = array - 1 - 5; do f(8); while 85200 : pop end end otherwise : input o[0]; let Uj6[0] = 3; input L4; pop end; let VD3a = true and 49 <= 7; do nG((5) and 24 /= - 911, 5, 711 = 83); pop; let oI = 3 end

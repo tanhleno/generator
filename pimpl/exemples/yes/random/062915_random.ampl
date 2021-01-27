@@ -1,0 +1,1 @@
+program K : R : takes j810 : integer returns integer array a, n : integer; bY, i6 : boolean; We4 : boolean array; M, s91 : boolean; pop; when case - 8 - 552 : do J(7) end otherwise : when case 6 : chillax end end end D : takes v, Da3 : integer array returns integer array let g = 1 = 5; input E[1] end main : K : boolean; chillax end

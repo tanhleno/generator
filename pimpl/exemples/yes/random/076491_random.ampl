@@ -1,0 +1,1 @@
+program V : main : O, R : integer; sW4 : integer; when case - 8 and 95 : while - 137 - 44 = 023 : chillax end; let P[0] = 3; while 367 : chillax end; do u(17) end case - not true * (85200) : let B5 = 1 end; pop; when case B and 5 : chillax end case 45 > 8330 : output ""; while 6 : chillax end; pop end otherwise : chillax end; while - 3 >= 1130 : input e; let H = 9 end end

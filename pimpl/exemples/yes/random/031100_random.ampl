@@ -1,0 +1,1 @@
+program mR7aa : Z62 : takes c7, c : integer array returns nothing when case - I and 2930 - 68 = 1 - 7 : chillax end end G : takes M, k, EK, g, F, m, QO : integer array; AK, m : integer array; E : integer array; BI : boolean array; G6 : boolean array returns boolean let F5Taa[2] = array 2 end main : k : integer; let r100a[- true] = - false / d and 763 or false end

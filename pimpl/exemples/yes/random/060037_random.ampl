@@ -1,0 +1,1 @@
+program TJ : V : takes aX : integer array returns nothing chillax end main : P550a : integer array; do Dk0a(63 + false * true + (6680) and 2, (0710) / false and 051 - false and 9, not 49 and 94 - 64 - 6) end

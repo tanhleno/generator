@@ -1,0 +1,1 @@
+program p : j : takes X8J, z : integer; X : integer returns nothing when case not 6 and 5 = 633 - 82400 : chillax end otherwise : input K1l0a; output "D" end; when case - 9 - 7 : pop; let k = 5 end; input l[1] end main : input D55 end

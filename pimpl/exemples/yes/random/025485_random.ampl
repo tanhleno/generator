@@ -1,0 +1,1 @@
+program V : B : takes UP, v : integer; X, V : boolean array; D96aa, n, f : integer array; X0R0, J51aa : boolean; G : boolean; qg : integer returns nothing v : integer array; output 6 = 2 . "/"; let rr[5 - 86] = 90600 = 2 end main : W, MvR, _, X : integer; Z, Y2, I2G0a : boolean; P, w8 : integer array; s : boolean array; chillax end

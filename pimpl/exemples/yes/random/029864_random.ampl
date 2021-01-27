@@ -1,0 +1,1 @@
+program Au1a : n : takes YF, b : integer array returns integer array _ : integer array; output - 872 - 28 end I8K0 : takes e6d0 : integer returns integer array do N(2 >= 7) end main : Lh0 : integer array; r9Q : boolean array; pop(9) - Hm9 and 23 >= - false; input vXzaa end

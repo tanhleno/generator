@@ -1,0 +1,1 @@
+program K : O9 : takes e, xh8, rx, J : boolean returns integer i : boolean array; output 502; do l89(- 7 - 09, 4); input n8[2]; when case 58 : pop end case 84300 : chillax end otherwise : chillax end end main : U, D5 : integer; chillax end

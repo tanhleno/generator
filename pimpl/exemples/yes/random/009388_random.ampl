@@ -1,0 +1,1 @@
+program L4g0 : sm0 : takes X, z4, M : boolean; b1 : integer array returns nothing iq8a, K, T, I : integer; pop 0190 > 32000; input pP20[- 5]; when case 8 = 9550 : output "Z" end case 41 : pop end case 2 : chillax end otherwise : pop end; when case 2 : chillax end case 69 : chillax end; do p9(83); let z0naa = 14 end main : output "\\;" end

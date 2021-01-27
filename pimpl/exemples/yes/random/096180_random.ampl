@@ -1,0 +1,1 @@
+program s : main : when case - not false / false : pop end; output - D and 924; let H9 = 70500; let L2 = array 6 - 5; output 04; when case 4 : pop end case 0 : chillax end; when case 83 : chillax end end

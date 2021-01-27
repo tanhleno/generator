@@ -1,0 +1,1 @@
+program K9Y0a : g : takes C : boolean array; fz : boolean array returns nothing chillax end main : while - true * (24) : chillax end; let V = array not 9; let B1 = - 5; do na(417 - 2690, 6, 79); while 5 = 2 : chillax end; let h = 2200 end

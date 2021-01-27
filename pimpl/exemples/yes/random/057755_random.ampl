@@ -1,0 +1,1 @@
+program C : h : takes ff2 : integer array returns boolean array P, _ : boolean array; e : integer array; y : integer array; d, w1 : boolean; Y : boolean; g0 : boolean; while(4) - 78 - 1 = 8 : chillax end; do cM(- 0) end main : chillax end

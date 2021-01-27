@@ -1,0 +1,1 @@
+program Ji : w2Y : takes MWNaa : integer returns boolean h0, X6faa, B : integer array; input w end xM4 : takes GK, L : integer array; xmN0a, v7c : integer returns boolean array let G = array 2; while 2 : pop end; while 5 : chillax end end main : chillax end

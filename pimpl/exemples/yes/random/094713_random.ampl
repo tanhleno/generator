@@ -1,0 +1,1 @@
+program z7 : main : pop; when case - not e6 + not 8 and 2 /= 45 and 1 : chillax end otherwise : while 0 : chillax end end; when case(7190) and 52 > - 410 : chillax end otherwise : do _440(3); input t end end

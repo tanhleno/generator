@@ -1,0 +1,1 @@
+program o : K : takes T4, N : boolean returns integer input G end R : takes h : boolean array; t : boolean returns nothing let r[3 - 5] = array 1 - 6; while 9380 = 345 : do wpt(7) end end main : chillax end

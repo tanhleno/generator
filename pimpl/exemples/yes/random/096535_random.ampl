@@ -1,0 +1,1 @@
+program X64aa : main : when case - 93 rem true / false + not true * 2 + k = not 778 : chillax end case h5(220) * (6) and 5 : do m(0 = 3) end case - false : chillax end case 03600 - 3 : chillax end otherwise : while 4 : let I = 8 end end end

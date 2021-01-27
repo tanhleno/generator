@@ -1,0 +1,1 @@
+program L : _3N0 : takes Bz3a, Q, N : boolean array; v, l, EV0aa : boolean; O4da : boolean; U, k, WQ1, xY : integer; J : integer array; O : integer; a6, c : boolean; It70 : boolean; G : boolean returns boolean U4 : boolean array; wC9aa : integer; ef, h1a0, f4 : integer array; l6, oD : boolean; g0 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Wi : Fi7 : takes Eb0aa : integer returns nothing chillax end u440a : takes V : integer array returns integer array output "a60"; pop 5; input P; let k840a = 86; when case 5 : chillax end; pop end main : CA : boolean array; Flx : integer array; pop; output - gx and 257 + 43900 . - 3 >= 9 end

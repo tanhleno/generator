@@ -1,0 +1,1 @@
+program VJ : wb : takes m : integer array; D39, P : boolean array returns nothing u5 : boolean; pop; input pa20[- 6470 - 67100] end main : while - (582 = 24) * true : chillax end; do B4(- true > - 2 and 350) end

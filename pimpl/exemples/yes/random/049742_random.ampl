@@ -1,0 +1,1 @@
+program h : i : takes Y : integer; T, e, k, J : integer returns nothing J, Pb6, L7, XJ : integer; Y : boolean; ty2 : integer; jA, N : boolean; do n(- 64 and 98); output 407 . 1 end main : d92aa, Q, P9, r33 : integer; l7, B : integer array; chillax end

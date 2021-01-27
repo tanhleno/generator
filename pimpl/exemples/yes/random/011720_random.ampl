@@ -1,0 +1,1 @@
+program t : W : takes I6, l, I2 : boolean returns boolean K : boolean array; g : boolean; chillax end main : Mk, H : boolean; m : integer; O, r : boolean array; while - true rem true + M(563) rem(1) and 1 : chillax end; do FI1(- 72400 rem 54 and 44 + not 771 - 494 - 1, false < 6100 - 8, - 544 - 41, 77, 6, 36); output - 97 - 09 = 4 . 14 = 92 end

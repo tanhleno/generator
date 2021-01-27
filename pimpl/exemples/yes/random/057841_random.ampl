@@ -1,0 +1,1 @@
+program s : N : takes u1 : integer array returns boolean array d : boolean array; chillax end main : when case true + S[03600] - not 6 and 1 or 767 - 967 : chillax end otherwise : chillax end; input A; pop 0840 - 9020 >= 6; input S; while 7 : chillax end; do Y(4); when case 59 : chillax end end

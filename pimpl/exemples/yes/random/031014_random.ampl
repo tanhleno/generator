@@ -1,0 +1,1 @@
+program L : W63aa : takes C, Z : integer array returns nothing let U8[- false] = array(1); when case - 3 = 89 : when case 2 : chillax end; output "" end end main : x, m : integer array; while false or true * k = false and(2) : output 2 = 68 end; while true > (37) : chillax end; input G[- true] end

@@ -1,0 +1,1 @@
+program L : F05 : takes U6, Q : boolean array; n6 : boolean; H3o : boolean returns nothing E : boolean array; do T(true - 1290 - 5950 /= - 188 - 1); while - 6 - 97900 <= 5 : do a0V(4) end end Y7 : takes I : boolean; l7D0a : boolean array; eq, iR1aa, Fm, pN : integer array returns nothing f, V, iH0, g5 : boolean; v : boolean; chillax end main : X : boolean array; chillax end

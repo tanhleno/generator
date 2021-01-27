@@ -1,0 +1,1 @@
+program W : h6 : takes Pn : integer; J : integer; Pa, B : boolean; C : boolean; f53aa, bY, A : integer returns boolean n, x : boolean; output - 95 - 21 = 6 . "" end main : L43, H33, r2 : integer; y5 : boolean; ziz : boolean; pop; do B(- (1), - true or 435 - 8 < 00 - 92) end

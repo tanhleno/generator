@@ -1,0 +1,1 @@
+program _ : O : takes H : boolean array; e : boolean array; pA2aa : integer; J, gJ, E, d5, r : integer array returns boolean C : integer; input mH10a[- not 20 and 5 - 2] end main : o570, x : integer; output - not false * false and 27 + not 5 . "" end

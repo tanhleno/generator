@@ -1,0 +1,1 @@
+program k : N : takes L, Mm, S, p : boolean; AnD0 : integer array; t, fc, sTc0a : integer returns nothing I : boolean array; K, sU, xG3a : integer; chillax end main : z, t1 : integer; lQn, C, Z1 : boolean array; r, w7, F : integer; input E0 end

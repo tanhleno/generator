@@ -1,0 +1,1 @@
+program R : Y0 : takes r : integer array returns nothing C : integer; chillax end ofb0 : takes E : boolean; j0 : boolean returns integer Ek, D070a : integer array; pop 46 = 9; pop end main : x, o, Kp : boolean array; chillax end

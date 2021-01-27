@@ -1,0 +1,1 @@
+program q3Y : N : takes H5 : integer; Hn : integer array; V : integer array; _ : integer array; qL : boolean array returns nothing while false : pop 4 end end y : takes n, E, v : boolean; D2, Y, O : integer returns nothing chillax end main : chillax end

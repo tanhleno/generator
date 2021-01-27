@@ -1,0 +1,1 @@
+program t41 : Gz6 : takes bn, u : boolean returns integer U : integer array; Y : integer array; A, C : boolean; P8, Abm0a : boolean; let U[false] = - 6250 - 485 end main : vrL, D9A : integer array; f : boolean; MY : integer; G : boolean; output ""; do f(- true * fq and 85); let gA = array - hi + 0 end

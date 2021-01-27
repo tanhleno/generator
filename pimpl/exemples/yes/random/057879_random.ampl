@@ -1,0 +1,1 @@
+program Vl : _ : takes l : integer array returns boolean array C : integer; pop end main : let U6D[false rem aJb[8] + (78) or 77] = array - Z3I[69] or qm[8] and(99) and 88; do d((4) * (3) and 50 - not 8 >= not 447 and 986 - 1); output 9 end

@@ -1,0 +1,1 @@
+program pQ : Y : takes V, d, GT20a, G5 : integer array; F2, Q, Po, B, ga : integer; o : boolean returns boolean w74a, q, d : boolean; lU0 : boolean array; y : integer array; chillax end main : chillax end

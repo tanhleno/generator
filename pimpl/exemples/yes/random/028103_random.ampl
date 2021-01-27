@@ -1,0 +1,1 @@
+program k : e7h : takes u5, R9 : integer array; Q, v7taa : integer returns nothing input L0; when case 7 - 45 <= 3 : let _17 = 3; do z(0); pop end case 04400 = 5 : chillax end case 82 : pop end case 32 : chillax end; do D9(756 = 42, 2320, 22) end main : Ga, A1, e, OHj, a, rO, m : integer; chillax end

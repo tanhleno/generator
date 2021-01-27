@@ -1,0 +1,1 @@
+program HX9 : UdT : takes q, D, n, N : boolean array; n, j : boolean array; M9U0, M4 : integer array returns boolean array o : integer; B0v, x, YJ2 : boolean array; chillax end main : M, d, Mw9 : boolean array; chillax end

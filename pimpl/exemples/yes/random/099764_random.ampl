@@ -1,0 +1,1 @@
+program W : main : while 83200 or(7) - (18) and 9 or 98200 - 967 : when case - 7520 - 4 >= 01000 : when case 95 : chillax end; pop end case 1 = 657 : chillax end otherwise : let EDua = 0; pop end end end

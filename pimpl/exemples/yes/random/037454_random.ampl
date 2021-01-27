@@ -1,0 +1,1 @@
+program cXY : N55 : takes W : boolean array; y, s1, m, _, s, J6, Y3x : boolean array returns integer output "_" . ""; output "" end main : t6 : boolean; _ : boolean; T : integer; c : boolean array; y6 : integer array; output "" . 1 = - 09 end

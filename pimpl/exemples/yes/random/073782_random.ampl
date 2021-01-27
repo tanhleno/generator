@@ -1,0 +1,1 @@
+program a : main : L, BaN : boolean; z92 : boolean; input l[- not r(918)]; when case - true / not 3 and 92 - true : when case 7110 = 2 : chillax end case 1 : chillax end case 8850 : chillax end otherwise : chillax end; input GB; input T end case false /= - 0 - 4520 : chillax end case 89800 : when case 68 : chillax end; while 62 : chillax end end case 23 = 1 : do E(2) end end

@@ -1,0 +1,1 @@
+program DY20 : U1Z0 : takes r450 : integer returns nothing Hig0 : boolean; B, Yj, a, K0 : boolean array; I : integer; chillax end main : when case e >= - 7 / (3280) : let T = array 502 - 262; do KW(403 = 684); pop end case true / not 1 and 42 or 804 or 9 - 8 : chillax end; let O[- true / not 3 or true and 1] = - W and 6 + 95 < - 608 - 57; pop end

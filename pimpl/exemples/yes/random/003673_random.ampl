@@ -1,0 +1,1 @@
+program pAS0a : j : takes B, V, R8J, HN, Z : integer array returns boolean array output "}" end main : Yc, q : integer; while(5 = 5) rem(430) = true or true + 6 - 1 : chillax end; do LI(Tq[1] / false + not 5650) end

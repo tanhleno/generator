@@ -1,0 +1,1 @@
+program gh : M : takes B, Z, NG, M, _E, _, kxU0, F : integer array; yN60a : integer array returns boolean do X(not 9 and 4 or 0 < - 3 - 4, 2 <= 813) end w : takes SN, C3 : boolean returns nothing w68 : integer; chillax end p : takes Ur, w1W, o5E, y_2 : boolean returns nothing l : boolean; when case 09 = 1 : let W = 539; pop end; let P3[9] = array 5 end main : chillax end

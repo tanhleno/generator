@@ -1,0 +1,1 @@
+program WxI : o : takes l, k, SN5 : integer array; x2Kaa : boolean array returns nothing j : boolean array; w : boolean; wr6aa, c, v0 : boolean array; M, IPPaa : boolean; input PS[- (9) - 1 - 39]; let A7[47] = array 05; let T = 25; let H66[7] = array 0 end main : while false and 0 < 0 / not 9 and 0 : chillax end; pop; input N14[- true]; pop 1 = 7 end

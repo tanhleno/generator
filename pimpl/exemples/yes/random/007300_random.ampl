@@ -1,0 +1,1 @@
+program WT7a : LS5 : takes t, B, F2, F : integer array; B30 : integer array returns integer array chillax end R : takes t : boolean array returns nothing chillax end main : v8, w : boolean; a : integer array; chillax end

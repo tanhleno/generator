@@ -1,0 +1,1 @@
+program o : u : takes gXK0a, QReaa, aPr0 : boolean returns boolean let q = 9 - 2; when case 51 <= 882 : output "\t8"; let g8 = 9; pop end otherwise : chillax end end main : a_, U, _ : boolean; W : integer array; zh3aa : boolean; a, k, R0 : boolean array; Uv, R : integer; chillax end

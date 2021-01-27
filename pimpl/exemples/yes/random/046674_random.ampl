@@ -1,0 +1,1 @@
+program Mo6 : F : takes b06 : boolean returns integer array w3G0 : boolean array; chillax end l55aa : takes sata : integer array returns boolean array when case 66 - 83300 = 80 : while 8 : chillax end end otherwise : chillax end end F : takes c0 : integer; U, qYl0a, _, eH : boolean array; N : boolean returns integer do m(988, 9, 0) end main : chillax end

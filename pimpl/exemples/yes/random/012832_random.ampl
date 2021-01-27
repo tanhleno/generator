@@ -1,0 +1,1 @@
+program L : P : takes S, S1, V : integer; d, c4 : boolean array; P, iS1, b, I, m, j : integer returns nothing let w7d[- v and 0 - 14 - 01500] = - 2 - 40 <= 08 end Y1 : takes _4V : boolean array returns nothing V2S, Mcr, Gq : integer array; input S[8 - 667]; output 032; input q end main : chillax end

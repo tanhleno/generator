@@ -1,0 +1,1 @@
+program A : main : output 767 / 33 and 7 >= - false . "}" . 06 > 9 . 5 . "\\8!"; while - 9 rem(216) + i and 6 = not 8 : input t end; when case 6 : input n; input V; pop; pop end otherwise : output "'0"; pop; pop end; let C1 = array 4; output 2; when case 5 : chillax end end

@@ -1,0 +1,1 @@
+program hPn0a : l : takes J2, Nz5, I3, f5Y : boolean returns nothing chillax end Y6ma : takes L : boolean returns nothing qtk, d : integer array; output 739 = 7 end C : takes K, Q, r86, CR3 : integer; Xb : boolean array returns nothing q : boolean array; b, L : boolean; chillax end main : x73 : boolean array; do b(- true >= - (335)); pop - not 49 /= - 637; let i4H = 43 - 7 end

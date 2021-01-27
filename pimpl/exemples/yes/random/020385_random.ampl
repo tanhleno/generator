@@ -1,0 +1,1 @@
+program MR : g : takes D, rdga : boolean array; Ciy : integer array; Mn, s, Bo, A : integer array returns integer J, dV80 : integer; s3 : boolean array; output "" . "T" . 29 . 8 . "" end G : takes N : boolean; EVB : integer returns integer chillax end main : chillax end

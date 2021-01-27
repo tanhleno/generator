@@ -1,0 +1,1 @@
+program s : Q : takes q : boolean array returns nothing let h[- true] = 5 - 2; output "\n"; input T7[747] end main : pop; when case - 0 * m >= - true : do yD20a(7, 2, 8) end case not 16 - 54200 : chillax end; let x[- 4 and 1] = 18; output "&" . "6" end

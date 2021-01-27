@@ -1,0 +1,1 @@
+program wH0 : hf60a : takes X, F4, m, lUd : boolean array returns nothing when case - true : do z(89) end case 9 : while 21800 : chillax end; let c5J0 = 9; pop end otherwise : when case 0 : chillax end end end OY6 : takes w, E7 : integer; x, Z : integer returns nothing chillax end main : output ""; output "(1"; output - 4 - 48 /= 108; do z(- 32800 > 85) end

@@ -1,0 +1,1 @@
+program e2 : I1 : takes o : integer array; m, NH2 : integer array; n, l : integer returns nothing yE : integer array; chillax end main : M1G, w9F, ob20 : boolean array; x, F1Ea, TQ, R, f, RI : integer array; h, I : integer; input wvc[not not 276 / (4) - true] end

@@ -1,0 +1,1 @@
+program O5 : M : takes X1, c : integer array returns nothing Q : integer; G0 : integer array; output "\\" end i080a : takes e, x : boolean; t : integer; m : integer array returns boolean when case 2 /= 321 : chillax end case 62 : chillax end end main : j, G, ts, E : integer; x5, hR, J : boolean array; chillax end

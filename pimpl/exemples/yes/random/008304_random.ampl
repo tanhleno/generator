@@ -1,0 +1,1 @@
+program j : S : takes G, E3, kj, F : integer returns nothing x : boolean; while - true + 84 - 5 <= 2 : do z(0, 264); pop; output "2" end end F4P : takes PK, D170a, VW : boolean returns nothing P : boolean; chillax end main : i, T : boolean; F : integer array; chillax end

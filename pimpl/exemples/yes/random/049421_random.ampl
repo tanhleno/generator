@@ -1,0 +1,1 @@
+program F : O36 : takes y : integer; Q, w, i3, F, u : boolean array returns nothing d, y, T5j0a, q87 : integer array; o : boolean; L, V, YtT : integer; d : boolean; XB : boolean; chillax end main : when case 2 or true / P and 3 or not 93 + 68 : let r = 9 end; pop - false and 2 + 09 >= 1 end

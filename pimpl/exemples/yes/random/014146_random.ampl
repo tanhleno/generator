@@ -1,0 +1,1 @@
+program A9 : b : takes l4, wA9, E : integer array; E : boolean; V, s, Dk, R : boolean returns integer array I, VS : boolean; do p(- not 76 and 9 = 3 - 9, 3 - 3, 63 = 545, 8) end main : w14aa, Y9 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program TI : y : takes ee7, zy0a, ie : boolean array; Z : boolean; h : boolean array; Z : integer returns boolean array j580 : boolean; S0 : integer; input L[- true and 44]; pop end Zb1aa : takes HJ : boolean; J : boolean; yM5, lv : integer returns boolean let o = 37 = 8 end main : k : boolean array; c : boolean; j, i0, k, u, e : boolean array; chillax end

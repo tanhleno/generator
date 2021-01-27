@@ -1,0 +1,1 @@
+program H11 : N : takes i : boolean array returns boolean chillax end y : takes ia : integer array returns nothing pop 2; when case 49000 : chillax end; input o470a end main : l3 : boolean; Q : boolean; T, Y68a : boolean; chillax end

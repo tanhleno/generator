@@ -1,0 +1,1 @@
+program q8 : Z7J0a : takes D68, u0D : boolean; NQiaa : boolean returns nothing z : boolean; do B0(- not 2 and 3 = - 6 - 9, 9300 - 8); pop end J : takes L6 : integer; me : boolean returns nothing chillax end main : chillax end

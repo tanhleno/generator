@@ -1,0 +1,1 @@
+program l : no2aa : takes qJm0 : boolean array returns nothing x, s04a : boolean array; when case - true and 1 : chillax end; let D[- 22 - 91] = 8; input y end c : takes k2 : integer returns nothing m73 : boolean; NV80a : boolean array; output 7 . "" . ";" end main : G : boolean; chillax end

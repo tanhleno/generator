@@ -1,0 +1,1 @@
+program Zl6 : v : takes Z : integer; FFf, U6, J67a, v, xQ : integer; v2, O : integer array returns boolean n : boolean array; output "" . "2" . 9 . "" end n : takes G5Na : integer; W9 : integer returns nothing T, iCR0a, o8 : integer; chillax end main : V, T : integer array; chillax end

@@ -1,0 +1,1 @@
+program c63 : rX : takes g, N9, f980, X : boolean; I : boolean array; M, Q7N0a, t7 : boolean; T480, B, Iw5aa, X1m0a, o : integer array; R_ : integer array returns nothing while false and 90 <= - 4 - 15 : pop 42; while 9 : chillax end; input n end end main : Qv : integer array; chillax end

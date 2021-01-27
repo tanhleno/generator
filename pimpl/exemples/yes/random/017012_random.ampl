@@ -1,0 +1,1 @@
+program Ij : rx8 : takes j30, C : boolean; l, Q1, vA : boolean returns nothing u, p, N1 : integer; x, Wy1aa : boolean array; input x[- y970 and 9] end N : takes K : integer; XR : boolean array returns nothing chillax end main : v, ZC6 : integer; Y, Fl, q41aa : boolean array; chillax end

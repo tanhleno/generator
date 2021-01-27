@@ -1,0 +1,1 @@
+program F0 : h6 : takes n : integer; d61, x : boolean array returns nothing chillax end G6q0a : takes O7R : integer array; b, nO, M, U, x : boolean returns nothing do V(- 749); when case 7 : while 8 : chillax end; pop end case 95000 : chillax end otherwise : pop end; input GY[32] end main : R9 : boolean; let l[- (796) * w77[0]] = array false and not true / C end

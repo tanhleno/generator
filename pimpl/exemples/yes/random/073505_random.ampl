@@ -1,0 +1,1 @@
+program l : main : v, w : boolean; xl, X, G : integer array; when case - true / (35) rem not 755 and 8070 - not 5890 and(05) and 8 : chillax end case - false rem not 6 + T0 /= 9 and 968 : chillax end otherwise : chillax end end

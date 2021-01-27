@@ -1,0 +1,1 @@
+program iJ : iI : takes d8 : integer returns integer array while 8 and 3 : do iJIaa(02) end; while - 33 - 5 : chillax end; input t end main : T1 : boolean array; Th, bAfa, X : integer array; chillax end

@@ -1,0 +1,1 @@
+program w3 : z : takes O5, S, mHA0a, X : boolean; f : integer array returns nothing U35aa, Y, b : boolean; d, qZPaa : integer array; do z(- not 2 and 7 - 60, 5 - 9) end k710a : takes Au00, k, A, Cmz : integer array returns nothing f76, _ : integer array; O6 : boolean; chillax end main : chillax end

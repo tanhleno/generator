@@ -1,0 +1,1 @@
+program P1 : i17 : takes A : boolean array; j9K0a, J : boolean array; Y : integer array returns integer array a7, L, ni10, P : boolean array; r28a : boolean; h, I : integer; _31, z : boolean; C4 : boolean; chillax end y4h : takes w : integer array; h0 : integer array returns nothing chillax end main : let oA4aa = array - (965 = 46) * not dN rem false + not 29 - (6) and 5 end

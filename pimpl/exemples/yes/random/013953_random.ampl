@@ -1,0 +1,1 @@
+program k : U : takes O, s24a, S4s0 : integer array; Z, L : boolean array returns nothing let Xu8aa = 9 - 97; pop 2 = 49600 end z1 : takes QI : boolean array; aAqa, bO : integer; x : boolean array returns nothing G, g : boolean array; when case 0 - 0 = 5 : output ""; let Pm = 0; pop end end main : H2aa, g, D8 : integer array; chillax end

@@ -1,0 +1,1 @@
+program P : N : takes CLUaa, P : boolean array; pXO : boolean array returns nothing input L[(3) and 95800]; output "\"" . ">0" . ""; let w = 60; pop end x : takes X93aa, S86a : boolean; k : boolean returns nothing chillax end main : W7 : boolean array; t, q : boolean; y, WC, N, r : integer array; chillax end

@@ -1,0 +1,1 @@
+program I : z : takes Z7l0, M : integer array returns integer X, k, yy : boolean; z, S, X, W0 : boolean; us : integer array; while true and 5 : do hhd(2) end; output "" . "h~" . "" . ""; output 3220; input nf end main : W24aa : integer; Vk, x73 : integer; chillax end

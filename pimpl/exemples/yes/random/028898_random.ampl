@@ -1,0 +1,1 @@
+program jB : HMma : takes q, F : integer array; V : integer array; l : integer; dl4 : boolean array returns nothing input b[- (0290) and 6030] end D : takes w, P : integer array; pcVa, b, jNR, O, H7, K : integer array; wS, e, E, c, v : boolean array; E, w : boolean; v, S : boolean array returns nothing chillax end main : chillax end

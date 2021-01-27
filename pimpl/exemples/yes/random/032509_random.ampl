@@ -1,0 +1,1 @@
+program k : TM50a : takes y, J6 : integer returns nothing b, l, u, _S : integer; input VU; let y[543] = array - 7 end main : w : integer array; E : boolean array; input W7[true * 894]; while true * false and 5 or false and 74 - 6 : output 8150 . "" . "" end end

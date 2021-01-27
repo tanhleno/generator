@@ -1,0 +1,1 @@
+program A : v : takes s, kJ4aa, i5, n, X : integer; Q, mB : integer array returns integer array DD : boolean; S : integer; W, x, b3 : integer; when case 40200 - 55 /= 43 : do D8t0a(5); when case 8 : chillax end; when case 01 : chillax end end otherwise : output "" end end main : chillax end

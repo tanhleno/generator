@@ -1,0 +1,1 @@
+program S : O6j : takes a03, K5 : boolean array; B : boolean returns nothing Q, XaV : integer; g8, A : integer array; k : integer array; pop; when case 01 - 2 = 9 : chillax end case 4390 = 61 : output ""; pop end case 5 : chillax end otherwise : when case 5 : chillax end end end main : chillax end

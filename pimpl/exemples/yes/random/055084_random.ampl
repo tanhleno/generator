@@ -1,0 +1,1 @@
+program ebxaa : W65 : takes d4z : integer array; Wl, Y : integer array; D, x : boolean array; IjE, R5 : boolean returns nothing when case true and 8 <= 021 : do l(83) end otherwise : output ""; input p; pop end; input i[- 159]; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program h3 : main : j, C : boolean; when case not 56 * (2) : pop 22 = 77 end otherwise : chillax end; when case - true * true and 0 or true = - false and 60 : while 3 = 90 : chillax end; while 74000 : pop end end otherwise : input d[9]; when case 05600 : chillax end; do x(63) end; output "C" end

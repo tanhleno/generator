@@ -1,0 +1,1 @@
+program g3 : BB : takes y : boolean array; n, dq : integer returns integer array w : boolean; q, P4, Gr, nO : integer; v : integer array; iw : boolean; R : boolean; V : boolean; while Y + 171 - 0 < 76400 - 45 : chillax end end main : chillax end

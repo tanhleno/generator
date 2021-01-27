@@ -1,0 +1,1 @@
+program Tj : E : takes e270a, d : boolean array; E : boolean array returns nothing do z((80) <= 83) end main : o, lu : boolean array; let mWI = - false rem not 7 and 72; let g59 = array false / false + (7); do T4d0a(990 and 6 + 1 - 7); output 4 end

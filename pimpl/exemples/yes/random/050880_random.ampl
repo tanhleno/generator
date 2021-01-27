@@ -1,0 +1,1 @@
+program E3B : Ac : takes f : integer; B, BN : integer; O1 : boolean array; L5l0a, x : integer; W : boolean array returns nothing output 717 - 1 >= 04; input y; when case 74 : do l(2); pop end; pop 4400; when case 3 : chillax end end a6 : takes t : integer returns nothing let E7 = 9 = 7; while 21 = 8 : input r8 end end main : pop; do O14(not false); do o(s5w - 476); input lt end

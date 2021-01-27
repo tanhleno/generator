@@ -1,0 +1,1 @@
+program x0ya : main : V : boolean; O : integer; pop; when case 4 / 06 and 0 - false and 4 + 219 - 63 : pop; when case 8120 : chillax end otherwise : chillax end; when case 59300 : chillax end; pop end case - (792) and 9 > 8 : chillax end end

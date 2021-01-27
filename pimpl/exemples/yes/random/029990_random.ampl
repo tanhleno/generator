@@ -1,0 +1,1 @@
+program e100a : Qw7 : takes l51aa, ok : integer array returns integer b, e, Q510a, M : boolean; XHk : boolean; chillax end main : V3x0, tK8, q, F, f : boolean; while - true * true - false rem false and 0 /= - 81 / false and 58 + 1 and 5 - 034 - 5 : chillax end end

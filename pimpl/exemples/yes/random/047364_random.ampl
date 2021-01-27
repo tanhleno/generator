@@ -1,0 +1,1 @@
+program KZ : E : takes EC : boolean returns integer while true : chillax end end vB : takes Z, e0L : integer array; OO, OO : integer array; c, Y6 : integer array returns nothing let N[- 414] = 6 end G1 : takes Mwy0 : boolean array returns boolean V : integer; output "" . "a" end main : _ : boolean array; O, Y : integer; S : boolean; chillax end

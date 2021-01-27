@@ -1,0 +1,1 @@
+program y : o : takes g : boolean array returns nothing chillax end w : takes ue20 : boolean array; O : integer array; T, oxf, l : integer array returns boolean array H : integer; chillax end main : Gz : boolean; t2 : boolean; chillax end

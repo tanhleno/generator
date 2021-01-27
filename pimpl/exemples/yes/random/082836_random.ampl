@@ -1,0 +1,1 @@
+program s : main : ok5a : boolean array; while - kK(6840, 2) * (3) and(8) and 723 or false - true : output 1 = 304 . "-"; while 3 : while 65 : chillax end end end; while true * (1) and 2 - (0) and 62 < - 2 and 115 - 4 - 4 : chillax end end

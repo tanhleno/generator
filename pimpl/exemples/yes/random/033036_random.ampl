@@ -1,0 +1,1 @@
+program W : F : takes e, jK : integer returns nothing let S[- true and 5 + 4] = - 9 > 9; when case 9 : output "#" end case 1 = 3 : chillax end otherwise : chillax end; let o8waa[9] = array 71500 end main : u : boolean array; ym, u, E9, dM5, U9 : integer array; chillax end

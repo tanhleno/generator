@@ -1,0 +1,1 @@
+program Mc : main : while - true * (6) rem true - false or(640) /= - (2) / M - false and 2 : output "" . 3 . 8; pop; while 2 : chillax end; pop; while 83 : chillax end; pop end; input e7T0a[- (265) * true and 02 - 9] end

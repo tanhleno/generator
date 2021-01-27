@@ -1,0 +1,1 @@
+program f01aa : THaa : takes m : boolean array; S320a, y : integer returns integer nG : boolean array; Z : integer array; output "" . "`" . 0 . "" end H1 : takes W, xz, wPz, G : integer array returns nothing f : boolean; chillax end main : do s(- 19 * 57900 /= false + 741 + 0) end

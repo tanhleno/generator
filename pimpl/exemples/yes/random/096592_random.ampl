@@ -1,0 +1,1 @@
+program s23 : main : when case - true / not(78) * false < not false or 7 - 69 - 863 : let q9D = array 85 - 89 end case false and(7) and 510 : chillax end case - 4 and 6 < - 5 : chillax end; pop - Y or 7 <= - 6 - 9 end

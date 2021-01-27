@@ -1,0 +1,1 @@
+program W : t : takes J7M0 : integer array returns nothing J87, p9ha : boolean; when case - (34) and 68 : input gR[992]; when case 3 : chillax end end; let Kl7aa[- 3 - 1] = 2 = 2680; do e3(18 = 63); do A(680); output "\t" end main : input p; while L27a(95) rem 80 and 7 or not 8 and 9 : chillax end end

@@ -1,0 +1,1 @@
+program K : KbZ : takes e : boolean array returns nothing input l end main : let LLF[not true rem true] = array - not(43400) - 3 rem false + true; do u(false rem false and 9); input o[- false and 8] end

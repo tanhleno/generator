@@ -1,0 +1,1 @@
+program AV3 : o : takes b : boolean array; p, hWY : integer array returns boolean output 8 - 4 end main : K2, v0, n, i, l : integer array; while - not true * 5140 and false and 50 or(2) or 51 > 79600 rem true + true or 8 : chillax end end

@@ -1,0 +1,1 @@
+program K89 : h : takes R : boolean array; p, V8 : boolean returns integer array j8yaa : integer array; do b2(- 0 and 3 + 57 - 9, - 42 - 00 < 6); output "F"; while 78 = 062 : while 1 : chillax end; pop end; let yp[37] = array 272; output "}" end main : chillax end

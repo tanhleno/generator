@@ -1,0 +1,1 @@
+program kj : DF9aa : takes H, n : boolean array; E : boolean; hj10a, o3 : integer returns nothing chillax end main : do jW(- 0 and(4280) and false and 929 or 10800, - false * not 3 and 6); input oY[- not false * true] end

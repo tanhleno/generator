@@ -1,0 +1,1 @@
+program o93a : FLza : takes d : integer array; S : boolean; fC, t, j : integer array; Yp, q, a9 : boolean returns nothing j, d3F, u0, z : boolean array; while not 17 or 3 : when case 8 : pop end; output "" end; output 95 = 1; do P6(524 = 7, 2) end main : Fy, y, XN80, s : boolean; p8o, fW4, p2X0 : boolean array; chillax end

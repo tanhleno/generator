@@ -1,0 +1,1 @@
+program C6 : z : takes Zp, C9 : boolean; I : boolean returns nothing R6 : boolean array; Ez0, s, ZG : integer; F7Uaa, M : boolean; w, C2 : boolean; do M(- X and 4) end main : i, pM3aa, JbT0 : integer; pop; while(58) rem not 1 < - not 24 and 7 : chillax end end

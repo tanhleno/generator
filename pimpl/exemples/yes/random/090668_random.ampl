@@ -1,0 +1,1 @@
+program ep : main : let WZ[- (385) and 44400] = array false rem false - 4 / not 5; when case not 02 or j and 3 : when case 156 : chillax end case 6 : chillax end case 80 : chillax end otherwise : pop end; while 6 : pop end; do J(3); output "" end case 05 or 0 /= 7 : pop 6 end case - 480 : chillax end; while not 482 and 98600 : pop 4 end; while 540 - 819 : chillax end; pop end

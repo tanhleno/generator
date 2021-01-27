@@ -1,0 +1,1 @@
+program R66a : G : takes E, b48 : boolean returns boolean chillax end b2 : takes L : boolean; S : boolean returns nothing pop 5170; pop; pop end main : when case - not(729) : let i = 6; input w[3]; while 051 : pop end end case - 8 : when case 4 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program qK : GvGaa : takes K, y, N5, X, GELa, y, UCF, p2 : boolean array returns boolean array f : boolean array; chillax end main : input A; when case 86 rem false and 603 + (4) and 5 or 59 < D + 0 - 01 : chillax end end

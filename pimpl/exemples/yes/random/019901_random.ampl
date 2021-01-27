@@ -1,0 +1,1 @@
+program L : c41 : takes Sj, p : boolean array; gD : boolean array; c : boolean returns boolean array k, X0 : integer; let KPT0[- false] = array - not 0 and 245; let zN[4 - 2] = array - 44 - 6 end main : Y5 : integer array; chillax end

@@ -1,0 +1,1 @@
+program p2 : Um : takes V, w, yz4, Rt20a : integer; m, J3r0, p, r8, m, H6 : integer array returns integer array let EP7[(136)] = array - not 531 and 5 end main : D : boolean array; B, G : boolean; chillax end

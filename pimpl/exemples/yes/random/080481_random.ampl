@@ -1,0 +1,1 @@
+program j2 : main : g840a : boolean; while - (66) + z and r or 67 : while 56 : pop; when case 1240 : chillax end; pop end; when case 0 : when case 9 : chillax end end case 36 : chillax end case 84 : chillax end; when case 2100 : chillax end end end

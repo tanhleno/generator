@@ -1,0 +1,1 @@
+program adn0a : A3Uaa : takes JX : boolean array; l : integer; _p : integer returns integer array chillax end main : output - not T5 + false - 4 - 9 . "\"|\"a"; while MFh0a or 3 - 5 : output 6 . 6 end end

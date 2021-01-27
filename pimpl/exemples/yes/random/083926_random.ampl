@@ -1,0 +1,1 @@
+program j570 : main : e : integer; jI : boolean; QNi0, nx : boolean array; when case - 179 / (2) and(3) : pop; input xYM[65] end case - false / false <= - true or 3 - 75 : do L8(50900 = 57300) end end

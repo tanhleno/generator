@@ -1,0 +1,1 @@
+program w : T8 : takes Fv : integer returns nothing Z, t, R : boolean array; chillax end main : Q1o, T9aaa : integer; output "" . ""; output "*" . 669 - 60700; do B4B(- not 0 <= 832 - 9, - 44); while 3 : input d0; do I(715); pop end; pop 495 end

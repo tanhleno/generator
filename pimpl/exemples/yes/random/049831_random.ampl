@@ -1,0 +1,1 @@
+program tO8aa : O : takes U : integer; l, B7, r1ga : boolean array; Hh, T, Y : integer array returns boolean array chillax end main : q1k, A, Y8Uaa, H, n1xa : integer array; input c; let eh = array - false * 46 + (2); input BE[true] end

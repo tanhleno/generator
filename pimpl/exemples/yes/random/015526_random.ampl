@@ -1,0 +1,1 @@
+program Y : O : takes s3, O, ciy0a : integer array returns nothing p : integer array; d5 : integer array; output - 7 = 3 . 7080 end t : takes d : boolean returns nothing chillax end R : takes Q, k : boolean; e, R3B0, rt, o4n, o : integer array; VA, KNY0 : integer; A : boolean array returns nothing chillax end main : f : boolean array; while true / 3 : pop 2 = 5 end end

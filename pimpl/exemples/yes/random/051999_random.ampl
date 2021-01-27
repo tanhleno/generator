@@ -1,0 +1,1 @@
+program O180a : n : takes fgza : integer; R : boolean array returns nothing chillax end E : takes J, P1 : boolean array; D74, t19 : integer returns integer array m, xr6 : integer array; chillax end R : takes Q, x0X0a : integer array returns nothing chillax end main : E, U6W0a : integer array; chillax end

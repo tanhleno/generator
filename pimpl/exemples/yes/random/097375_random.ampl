@@ -1,0 +1,1 @@
+program N : main : when case 4 / (106) and false + false / (06) and 37 < - (41) and true and 0090 : output "" . 71; input h67[09]; when case 9 : chillax end case 5 : chillax end otherwise : chillax end end case true - false and 5 : when case 515 : chillax end case 5 : chillax end case 86400 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program k : main : W, Pw4, v5Qaa : boolean array; i2, Qp2a : integer; output - (8) rem false and 0 + f >= T5N and 7 or 9 - 831; pop; do f((5) and 95 - 86 = - 00700 - 0); input V1A0a; let pfPaa[2] = 9; input rM[7] end

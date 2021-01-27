@@ -1,0 +1,1 @@
+program g : a94 : takes X60a, G, A, D, a3o0, e, Bqya : integer returns integer chillax end main : output true rem true and 6770 or(0) and 70 . "3" . "" . "" . 53 . "" . "@7aa"; input n[- not not 45 + not 119 - 29] end

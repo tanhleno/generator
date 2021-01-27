@@ -1,0 +1,1 @@
+program nm : f : takes M, O, GP6a, By : integer; T0 : integer array; t, O63, c, B : boolean returns nothing output "" end C0ya : takes l : boolean array; N, Q, F0 : integer array returns integer chillax end f : takes e : integer array returns nothing let Y6 = 96700; pop end main : chillax end

@@ -1,0 +1,1 @@
+program W : r : takes Jd : boolean; Te : integer returns nothing R : boolean array; chillax end main : e, Bj1aa, p5, cA, t50, W8 : integer array; do qH(- not c[5] * false / not 85 and 92 + r(6)); input RkQaa; output - 9 - 934 . "" . 9; pop 2 = 9; let Q[2] = 2 end

@@ -1,0 +1,1 @@
+program GO6 : j : takes S0, U, t : integer array returns boolean do cB7(9 and 2 >= - 6650 - 41, 34) end G : takes a, m1N : integer; w, ko : boolean returns nothing C, i : boolean array; chillax end main : input uWj end

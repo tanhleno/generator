@@ -1,0 +1,1 @@
+program Dj7 : main : when case - not 79 / 1 - false rem false or not 775 <= y1P0 : while - 3 : output "e."; do c9(0) end; let i9 = array 6 end otherwise : chillax end; do r0Ua(- true and 6, 64500 and 91 > - 2 - 9010); let p4[- not 37 - 9] = - 7 > 3; when case 053 - 70 >= 96 : chillax end case 6 : output ""; pop end case 2 : chillax end case 53 : chillax end end

@@ -1,0 +1,1 @@
+program i : l66 : takes N, Z1, I8_ : boolean array; K8, J : integer array; n3 : integer returns boolean pop 6 < 94; while - 80 <= 10 : let ns = 64; input Z3; pop end end j : takes Z, C, k : integer returns integer pop end fU : takes b : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program k : IG80 : takes H, z : boolean returns boolean array c6, FL : boolean; b0daa, aV, W4M, R : integer; q, f : integer; when case(08) or 6 /= - 526 : while 63 : chillax end end end main : k, r8, y6M0 : boolean array; when case - (13) / k rem not 9 and 7 or(16900) : do H(- 4 >= 83); pop end end

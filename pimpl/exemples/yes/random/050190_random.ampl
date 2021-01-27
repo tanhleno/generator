@@ -1,0 +1,1 @@
+program gn3 : X : takes Ug : integer; qs, l, Qj : integer array returns nothing OB3aa : boolean array; q : integer array; chillax end Y : takes rZ : boolean array returns nothing chillax end main : n6, Dt : boolean array; N3, k, Ry : boolean array; c, B, z : boolean array; z : boolean array; chillax end

@@ -1,0 +1,1 @@
+program c : eB : takes F4 : boolean array returns nothing V : integer array; V29, x : boolean; while 1 and 32 + 486 - 21 > - 4 : do v(676, 61) end end main : pop not 53 and true <= 2 and 2 - 1 - 3 end

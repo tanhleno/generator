@@ -1,0 +1,1 @@
+program m3 : l : takes l : boolean returns nothing chillax end A : takes Qd6aa : integer array returns integer G, F, er9aa, V : boolean; l : boolean array; when case 76 : let Vz4 = 63 end end main : chillax end

@@ -1,0 +1,1 @@
+program mdZ : main : k45aa, W, o : integer array; vk : integer array; L : integer; I, BEh0, Xa, N1P0a : integer; VZqa : boolean array; I8u, V78a : boolean; rS : boolean; a6 : boolean; when case W - not true / 1 - false and 5 + 94500 - 4 = (3) : chillax end; let Z5[- 72 and not 821 + not 26 and 1] = array false * not 2 and 53 - true and 58; let E = 5 - 14 < 1 end

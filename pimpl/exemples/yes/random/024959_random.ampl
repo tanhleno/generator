@@ -1,0 +1,1 @@
+program UD : V8 : takes h, f : integer; X360a, g, T, a5, K : boolean array; j, B840a, f, JV : integer returns nothing chillax end main : F, h : boolean array; do U4(- true / true rem not 4 and 56 < - A(8) - true and 205, o6[426] * not 757 and 73, - V and 2 < - 56, - 53 - 07 > 9) end

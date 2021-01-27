@@ -1,0 +1,1 @@
+program o7 : nMU0 : takes w5 : integer array; W81 : boolean array returns nothing chillax end z : takes X : integer array; H : integer array; B, qeS0a : boolean array returns nothing d, d1e0a, a : boolean array; chillax end sk : takes UO : integer array; b : boolean returns nothing chillax end n : takes w : integer returns integer let xWS[4] = array 3; pop end main : input R end

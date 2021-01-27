@@ -1,0 +1,1 @@
+program F : main : E, b0, _ : integer; y4, B3i : integer array; let OTL = array not true + 9; when case - 6 + 053 or 37 - 612 : do _(1 = 658) end; while false and 45 >= 3 : output "6" . ""; output ""; when case 104 : chillax end; pop end end

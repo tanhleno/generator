@@ -1,0 +1,1 @@
+program X : e55 : takes u4 : boolean returns nothing let X[- false and 8] = array(4) or 9; input va; when case 6 = 2 : when case 1 : chillax end; pop end otherwise : chillax end end main : while true rem(66900) * false <= (9) or 980 - 0 : chillax end end

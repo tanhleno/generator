@@ -1,0 +1,1 @@
+program k : main : AI4 : boolean; K : boolean; CaQ : boolean; when case false : pop; do Ha(83, 8) end case(9) or false /= not 0 and 0 + 132 : do V(6); pop 8; pop end otherwise : when case 9300 = 9170 : chillax end case 6 : chillax end otherwise : chillax end; when case 9 : chillax end otherwise : chillax end end end

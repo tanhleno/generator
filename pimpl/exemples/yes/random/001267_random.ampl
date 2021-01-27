@@ -1,0 +1,1 @@
+program J : knF : takes u, DXQ0, vq, i, e, B95 : boolean array; g080a, W : boolean returns nothing v9o, TD : boolean; chillax end main : Sl, I : boolean array; JI : integer; U, s, ao10a, E, _F : boolean array; q, Z5, h270, Z : boolean; Py8 : boolean array; F : boolean; ke : boolean; while 64 / 63200 < - 5 rem false : let ta = 2 = 8 end end

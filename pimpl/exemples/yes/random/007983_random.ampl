@@ -1,0 +1,1 @@
+program x : GG3 : takes fC, h, t, Uj : integer returns boolean ql, Z4 : boolean; z0X, trD0 : boolean; o : integer array; N : boolean; input c end main : iq : integer array; m, X, V2 : integer; P : integer array; chillax end

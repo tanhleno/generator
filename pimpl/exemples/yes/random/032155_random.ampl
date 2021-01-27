@@ -1,0 +1,1 @@
+program N : f : takes x, C : integer returns integer output "74" . 2 = 0 . 62 end Kw5 : takes a, X, n3, T, W : integer array returns integer chillax end main : s, em, z, c : boolean array; WG, E : boolean; U, Al40, Y, q : integer; chillax end

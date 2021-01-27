@@ -1,0 +1,1 @@
+program i3 : G : takes A : integer array; L, y0, eA : boolean; J2W0a : boolean; b1, S : boolean array returns integer input my7a end main : iw, y : boolean; A : integer array; let D = P[5] <= - false and 27 - 05 - 035 end

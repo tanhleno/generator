@@ -1,0 +1,1 @@
+program UpLaa : SXb : takes _ : integer array; fR, x : integer array returns integer input Z[- 6 or 5 - 239] end main : dw9 : integer; b, r, gQ : integer array; Yg90a : boolean; ZQ : integer; X : boolean array; chillax end

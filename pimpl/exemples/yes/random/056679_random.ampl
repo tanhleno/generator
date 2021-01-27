@@ -1,0 +1,1 @@
+program p8E : T : takes u1 : integer array; N : integer; m : boolean array returns boolean Y, o9, w260 : integer array; output 639 - 2 > 82 . 2 = 179 . "" . 5; let p7 = 62 end K : takes q, Y : integer array; f, q : integer array returns integer l, PY : boolean array; chillax end main : chillax end

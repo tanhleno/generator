@@ -1,0 +1,1 @@
+program cLx0 : _ : takes b7z0 : boolean array; k150 : boolean; H3 : boolean returns nothing m : integer; Q8, d : integer; K, eL9, K : integer; output "" end main : do aF(- not(49) rem true * 60300 + not false, - not not 7, not 0 and 5) end

@@ -1,0 +1,1 @@
+program k : _L4 : takes Da : integer returns nothing chillax end main : znJ, Z, TCT0a, i, Yz0, b56 : boolean array; G, B, e_ : boolean; G9, I, Z, jc50a : integer array; while false rem not not 0 / Q6waa and 71800 : chillax end; when case - W[344] rem 4 + 15 - 333 : chillax end case - (3) and 0 > - 20 : chillax end otherwise : while 6 : pop end end end

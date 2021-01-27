@@ -1,0 +1,1 @@
+program X : r0f0a : takes u5E, l, __S : boolean returns integer let W = array - 2 and 95; while - 04 - 9 > 91 : chillax end; input Vm3[0780] end In : takes rw80a : integer returns nothing chillax end aM : takes H, k, i : boolean array returns nothing do u9(37 = 98400, 6) end main : chillax end

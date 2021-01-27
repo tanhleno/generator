@@ -1,0 +1,1 @@
+program t : main : pop false; while - true / not 3 or c or 8 - 2 : chillax end; when case - (507) and 2120 = 6 - 8 : let qe = 655; when case 66100 : chillax end end; when case 3 - 6 : pop end case 70700 = 106 : chillax end otherwise : chillax end end

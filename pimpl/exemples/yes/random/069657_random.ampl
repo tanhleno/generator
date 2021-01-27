@@ -1,0 +1,1 @@
+program L : main : phqa, J, C8y, B230 : boolean; when case - false : while 753 >= 85 : let x = 0 end; input I[8]; let VH[2] = array 4 end otherwise : while 6 = 73 : pop end end; let J4 = array not true / (25) and 62; input jo[- false or 02 - 4] end

@@ -1,0 +1,1 @@
+program S : main : let t[- (9 = 55) * false - Dv80] = 0 / true or false - 9 - 892; while - false and true or false and 4 or 11 : chillax end; while - 5 and 0 + 392 - 36 = 68 - 21 : let ls3a = array 7130; do p(9); pop; pop end; while - 9 : pop end end

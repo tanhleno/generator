@@ -1,0 +1,1 @@
+program C3D0 : main : c, I7Z : integer array; while - not(15900) * false - true / (27300) : when case - 6 - 0 : input O end case 67 = 5 : chillax end case 25 : chillax end end; let z52 = array - w8R(232) or 390 and 5 + 98 - 51; input Y; while - 4 : chillax end; while 76800 = 4 : chillax end; when case 0 : chillax end otherwise : chillax end end

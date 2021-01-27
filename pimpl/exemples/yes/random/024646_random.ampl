@@ -1,0 +1,1 @@
+program q : u : takes c5, V : boolean returns nothing c7 : integer array; o05 : integer array; input P[false + 75] end J : takes m, C, m5 : integer array returns nothing chillax end main : input R0[(0 = 4870) / false and not 98] end

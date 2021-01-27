@@ -1,0 +1,1 @@
+program X : j : takes U0t : integer returns integer array chillax end main : while(82) * true rem 82 - 22 and 2 or false and 0 : when case - 94 - 3 : chillax end case 31100 : let tH = 02; pop end; let t8Ea = array 12 end; while - eN20a[9] + p and 1 + 46 <= - false and 38 + 798 : chillax end end

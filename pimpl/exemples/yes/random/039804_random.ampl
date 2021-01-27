@@ -1,0 +1,1 @@
+program i : T : takes j : boolean array; K : boolean array; O, _ : boolean array returns nothing chillax end AwIaa : takes qd : integer array; k9d : integer array returns nothing chillax end main : input VEra end

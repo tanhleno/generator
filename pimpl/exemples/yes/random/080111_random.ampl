@@ -1,0 +1,1 @@
+program P7 : main : h : boolean; output - not false; input I80; when case 886 : chillax end case - 11 <= 388 : chillax end case 026 : while 33200 : chillax end end case 3 : pop end case 71200 : chillax end end

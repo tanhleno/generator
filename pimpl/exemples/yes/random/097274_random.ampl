@@ -1,0 +1,1 @@
+program F : main : when case not true / false < - 40 / not 0 and 6 : while - 42 : chillax end end case - false - false + 2 - 1 <= - h8 and 0 - 59100 - 1 : do S(4, 8, 87) end case - not 2 and 4 /= 8 - 35600 : chillax end otherwise : while 1 = 0260 : chillax end end end

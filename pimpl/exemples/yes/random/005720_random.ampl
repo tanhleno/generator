@@ -1,0 +1,1 @@
+program a3 : Vc70 : takes q, n, x0, b : boolean array returns nothing S : integer array; wL4, a : integer; E1J : integer array; i, P1 : boolean; z2 : boolean; E : boolean; when case - K and 7 : do f(2, 8); output ")\t0"; output "@\n"; pop end case - 36 : input S; input P2 end case 300 : chillax end end main : input N21[false / Z[5] - K(899) or 48 and 353 + 8 - 233] end

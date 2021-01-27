@@ -1,0 +1,1 @@
+program W : b : takes Y, a, Z, bZk0 : boolean array returns boolean array pop - 818 end main : fi : integer; while - not(881) + (565) + W and 63 - 49 < - false rem true - b9Z0a : input j[51]; input m[0] end; pop - Z and 4; when case - (9) and 394 + 9 - 49 >= - 487 - 07600 : chillax end case 867 : let S = 5 end case 5160 = 1 : chillax end case 73 : pop end end

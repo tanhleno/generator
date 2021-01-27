@@ -1,0 +1,1 @@
+program V3 : m : takes _T, _, v2, B : boolean array returns nothing let N = - 6150 - 6 < 75; when case 30 - 0 : pop; while 7 : chillax end end case 1330 : chillax end end g : takes F : integer; O : boolean array; n, HL_ : integer array; i : integer array returns boolean array chillax end main : chillax end

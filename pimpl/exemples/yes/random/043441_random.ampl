@@ -1,0 +1,1 @@
+program Hk20a : P8Z : takes V1M : boolean array returns nothing chillax end g40 : takes s, T, v : boolean array; A : boolean array returns nothing chillax end main : let Q = - 31 or(7) or 0 - 4180 end

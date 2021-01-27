@@ -1,0 +1,1 @@
+program B : main : when case - 910 : chillax end case true and(7) > - Y9 and 1 + 6 : output 25 . 860 . ""; let B[6] = array 3; do B4(0) end case false and 51 = - 612 - 1 : input S[0060] end otherwise : input b51aa[7] end end

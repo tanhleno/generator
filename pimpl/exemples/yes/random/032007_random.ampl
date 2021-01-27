@@ -1,0 +1,1 @@
+program NGc0a : W : takes inU, _d : integer returns integer O2, C, _, X, t : boolean array; chillax end ZoB : takes h : integer; U, P, TV, k : boolean array returns boolean J7 : boolean; input IsF[- 5] end z : takes yZ : boolean returns boolean pop end main : c45 : boolean array; m : integer; chillax end

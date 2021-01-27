@@ -1,0 +1,1 @@
+program h46 : k0 : takes kL, F95a, js7a, k : integer array returns boolean array I8M, woo : boolean array; y9 : integer array; while - (5) and 8410 = 1 - 4 : chillax end end main : y : integer; output "\tZ0" . "" . "K\t" end

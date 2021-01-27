@@ -1,0 +1,1 @@
+program a0 : z : takes x, h, D6ea : boolean; F2, CD6a : boolean; U : integer array returns nothing cY, YG : boolean array; L2, ij5, XcTaa, O : integer; J21 : boolean array; p, J : boolean; while 416 and 9 - 280 - 2 : pop; output "33" end; while - 33 : chillax end end main : M6n0 : boolean array; K4, j6, e : integer array; chillax end

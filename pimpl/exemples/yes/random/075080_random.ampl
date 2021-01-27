@@ -1,0 +1,1 @@
+program G580a : main : L, U : boolean array; _ : boolean array; q, y7j, W : boolean; when case F * not(0) < false : when case - 3 : when case 4 : chillax end end case 81 = 3 : pop; pop end case 1 : pop end; do v7(7, 42); let xI20[5160] = 15 end otherwise : output "" end; pop end

@@ -1,0 +1,1 @@
+program f43aa : S1 : takes zk, i9I0, b, C, B : integer array returns nothing chillax end main : hs, X, O : boolean; kS : integer; let v = array - toE[3] rem j31(5) * (033) and 3 or not not 1 or true and 9 or 36 end

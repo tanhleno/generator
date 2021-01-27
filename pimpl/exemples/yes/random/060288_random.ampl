@@ -1,0 +1,1 @@
+program _ : i : takes u : integer array returns nothing f, b, V, O : integer; P : boolean; chillax end main : Eq, Xz, v69 : boolean array; let D = array - xi1[86] - 0; do _9(- Xg7a(05700) rem true or true and 49 + 556 > 2); while - (05) and 2 - 26 - 5 : chillax end; do D(84 - 3 /= 487, 756 = 9); while 46 = 2 : chillax end; when case 4 : pop end end

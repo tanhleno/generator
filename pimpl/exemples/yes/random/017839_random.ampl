@@ -1,0 +1,1 @@
+program a : S : takes o2La, y : boolean; I31aa : boolean array; K : integer array returns nothing pop end f : takes Q : integer; w, O, d4, M : integer returns nothing let Jpya[77 - 96] = array - 46 end A : takes a : integer array returns boolean cJS0, D : boolean; chillax end main : let Ef[- not false + not z - false and 38] = array 0 and 2 - 6; pop end

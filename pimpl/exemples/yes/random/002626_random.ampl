@@ -1,0 +1,1 @@
+program o8 : dJQ : takes d0a0a, B, WWu, c29aa, E : boolean array; H : integer returns nothing chillax end main : RD : boolean array; t : integer; when case not true and false - true * false and 96 : pop; when case 07 = 4 : when case 3 : chillax end; pop end; output 96 . "" end case not(42) + I0 or 9 - 11 : chillax end otherwise : chillax end end

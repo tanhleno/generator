@@ -1,0 +1,1 @@
+program T : ho : takes KZ8 : integer; O21, Q : integer array; n, f17 : boolean array returns nothing E, C : boolean array; PH, EPh : boolean; chillax end main : Nl, G4, V97 : integer array; let n[- false / false rem not 2 and 34 - (62) / T and 5] = array - 29 and V(53) - P200[0] * not 6; while(4) : pop; let G9[998] = array 0 end end

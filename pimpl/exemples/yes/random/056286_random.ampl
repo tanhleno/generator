@@ -1,0 +1,1 @@
+program g : b : takes Or : integer array; v8a : boolean returns boolean NO, W38, AA40 : boolean; d : boolean array; chillax end f7 : takes _r1, y37, r, Nk : boolean; d0, N, s6 : boolean; Qy9 : boolean; w85aa : integer returns nothing do O(8 = 1); pop end main : t, f : integer array; pop - true end

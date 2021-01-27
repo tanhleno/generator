@@ -1,0 +1,1 @@
+program Az : G : takes jM2, d52aa : boolean array returns nothing C4a0, bw9, LR, z, Zh2 : integer; while - false and 5 or 39 : pop 2 end; do I(- 77 /= 86, 9, 5, 0); input JT; while 4 : chillax end end main : pop end

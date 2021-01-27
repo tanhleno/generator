@@ -1,0 +1,1 @@
+program B : q : takes LlL : integer array returns nothing z, Pz : boolean; chillax end jhQ0 : takes y44aa : integer array returns nothing Vm4, s930 : boolean; x7c : integer; L : boolean; chillax end main : output ""; output u >= - 50 - 0 . "6" end

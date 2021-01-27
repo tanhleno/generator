@@ -1,0 +1,1 @@
+program nl : Y1 : takes UL0 : integer returns nothing chillax end main : _ : boolean array; p1 : integer; G : boolean array; kV : boolean array; while - true and not false and false + not dr : input Wk20[40 - 7]; let W[01] = 3 end end

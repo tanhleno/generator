@@ -1,0 +1,1 @@
+program pzo : a9 : takes S, bj : boolean array; l0, E6w0, Ww00 : boolean array returns integer array v : integer array; pop; output 89; let QR4[4] = array 32 end main : a9, w : integer; LR : integer array; L5s0a : boolean; Tl80a : integer; chillax end

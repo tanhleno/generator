@@ -1,0 +1,1 @@
+program E : qs : takes U : integer; A : boolean; V, A, j5 : integer array returns nothing J, xe5, XK : integer array; do p(not 66200 - 6 = - 409 - 28) end main : do lN(- false rem z * 47600 and 8 <= true rem(8) or 077 and 18500, - CE[73] * (74) and 319 = - Zt, (40) - 4 <= 9 - 92500, - 65 - 9 > 7); input h; while(3) and 9 <= 17700 : pop 7 end end

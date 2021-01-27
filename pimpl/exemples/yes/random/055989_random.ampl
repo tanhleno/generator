@@ -1,0 +1,1 @@
+program q08 : T7 : takes y : integer array; dK : boolean array returns boolean array hI5, a, R : boolean array; chillax end main : N : integer; A4, R0 : integer array; d47 : boolean array; input bk0; do T(- (771) <= - true, J - 83 - 6 < - 51800, 7) end

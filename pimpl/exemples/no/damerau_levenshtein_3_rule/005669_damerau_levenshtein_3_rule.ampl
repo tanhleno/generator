@@ -1,0 +1,1 @@
+program case a : main : input a[0] end

@@ -1,0 +1,1 @@
+program a : A : takes x, n : integer returns nothing T2Faa : boolean array; k92a : integer array; when case false and 7 : pop end otherwise : chillax end; input m94; do K(641 = 16300, 72) end N : takes f : integer returns integer chillax end l : takes x, h : boolean array returns nothing o, d3, x : boolean array; chillax end main : chillax end

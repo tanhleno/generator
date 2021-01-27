@@ -1,0 +1,1 @@
+program r4 : d9_aa : takes Bqg0, K25, rcm : boolean returns nothing g, t, p, QO9a : integer; pop; do Y(- 3) end _ : takes RK6 : integer returns nothing _1, bj : integer; when case - 5 : chillax end case 23 : chillax end; while 6 : while 04 : chillax end; pop end end main : input Y3P; when case - 6 rem(56) <= false + 3 - 1 : chillax end end

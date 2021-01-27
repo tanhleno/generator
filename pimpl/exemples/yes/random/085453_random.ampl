@@ -1,0 +1,1 @@
+program Q : main : h : integer array; do MP0a(- not(7) and y(115) rem false and 17100 - true and not 541 and 95000 < - Z4(4) rem 56 and 4 or Ir and 406, true / false >= - gN2, - false + 625); let i6[(61)] = f and 9210 > - 8; do jN(- (1) >= 46 - 85, 1, 9 = 1, 0, 1) end

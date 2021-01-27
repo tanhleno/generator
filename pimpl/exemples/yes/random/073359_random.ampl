@@ -1,0 +1,1 @@
+program _d70 : main : y, z58 : boolean; kd, tj, I, z, Z : integer array; input fY[false / true]; while - Z4Uaa(80) or 7 and 487 : while 7 : chillax end; when case 2 : pop end case 9 : chillax end end end

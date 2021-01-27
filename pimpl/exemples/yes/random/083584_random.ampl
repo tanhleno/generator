@@ -1,0 +1,1 @@
+program X0 : main : ln : integer; V, i360 : boolean; while - 2 : when case 9 : let su = 150; pop end case 1 : chillax end otherwise : chillax end; input l; while 3110 : chillax end; while 6 : chillax end end end

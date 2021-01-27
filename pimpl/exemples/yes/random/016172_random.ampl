@@ -1,0 +1,1 @@
+program A : E : takes c, M, NL : integer returns nothing chillax end _ : takes J : boolean; ovGaa : integer returns nothing tbi, Y2K, TQ, G : integer; while 951 <= 69400 : pop end; do L(9, 5160, 371) end main : y : boolean; output "\"" end

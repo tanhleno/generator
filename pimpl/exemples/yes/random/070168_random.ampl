@@ -1,0 +1,1 @@
+program Y5S : main : N, e, K7, N : integer; Z76, LM : integer array; let I34 = array - 62700 or(3) and true and 6 - not 15 and 41 - 159 - 8; when case(9) and(089) and 7830 - false and 8620 or 6 - 4 : chillax end case - (2) and 2 > - 78 : chillax end; do I8(- false and 1 = 8) end

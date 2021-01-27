@@ -1,0 +1,1 @@
+program wr : Ir : takes N : boolean returns nothing X, aCX, I490a, uU, S020 : boolean; chillax end main : while - 703 rem true + not 1 : while - 6 - 8420 : when case 56 : chillax end; do p(6) end; when case 8 : when case 49 : chillax end; pop end; input r[42] end end

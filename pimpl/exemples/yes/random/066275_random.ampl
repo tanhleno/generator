@@ -1,0 +1,1 @@
+program o : main : do sa60(- D * not e / 7 and 0 <= - not(94) / 2 - false and 3, not false + (4) + 28, - true and 71 - 28 - 3, 9 - 8); do j(- Mv(47) or w5 or 68500 - 02, true - 4); do s(not 69 and 6 - 617 - 7 < 46, 8 - 43 < 8520); let Ma = array - 2 - 3670; while 2 = 2 : chillax end end

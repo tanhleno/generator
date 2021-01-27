@@ -1,0 +1,1 @@
+program x7 : I : takes _v : boolean array; I, HPf, O : boolean; N, d74 : boolean; sl1 : integer array; O, _, oZ7 : integer returns nothing input G; do _n7(- 0); input _XM; input G[1] end main : chillax end

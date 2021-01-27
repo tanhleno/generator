@@ -1,0 +1,1 @@
+program B : Y5 : takes x, x : integer array returns integer array q7, u, H86 : boolean; S, PKQ0, ES0, NJJ : boolean array; pop - 5 = 37; let z = array 6; pop 02; when case 6 : pop end otherwise : chillax end end main : wz, G, g : boolean array; T27 : boolean; chillax end

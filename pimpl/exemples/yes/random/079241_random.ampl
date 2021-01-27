@@ -1,0 +1,1 @@
+program R : main : X : boolean; h_1aa : boolean; N0 : boolean array; when case not h(5) rem Z and 6 and 56 > - true : chillax end otherwise : when case 6 = 68 : pop end otherwise : pop end; let y6 = 10; output ""; do s(4) end end

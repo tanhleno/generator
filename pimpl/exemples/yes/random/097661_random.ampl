@@ -1,0 +1,1 @@
+program Ij : main : when case true and false : do g(- 4); when case 97600 : output ""; pop end otherwise : pop end end case - (83) : when case 7 : when case 579 : chillax end end end case - true and 24 or 13 - 0 < - 27700 : do R(41, 1) end otherwise : chillax end end

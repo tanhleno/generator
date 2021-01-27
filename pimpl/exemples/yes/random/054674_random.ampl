@@ -1,0 +1,1 @@
+program Z : AV : takes VOq : integer array; Ct, I : boolean array returns integer array x : boolean array; hYc, J6, z : boolean array; chillax end nK : takes D, i, R, d : integer; U0, Vfa : integer; o : integer returns nothing do ma9(- 1 - 3 /= 1); output "="; pop 043 end main : G42aa : boolean; E68, rj0 : boolean array; chillax end

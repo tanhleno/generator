@@ -1,0 +1,1 @@
+program km : tvo0a : takes f : boolean array returns nothing Akq : integer; g : integer; E, Tz, W : integer array; let f2[- S and 7 or 35 - 676] = 9 - 5560 end main : q, Gf5 : boolean; pop; do Y(- not p9 * true, - 6 + 42) end

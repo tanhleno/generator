@@ -1,0 +1,1 @@
+program K : O : takes M : boolean; SN, F32 : integer; P : integer returns nothing chillax end main : lH, a3, _i9, f, l3m0a, h : integer; pop - true / true - (6190) - 6; let y[true + false and 59700] = - f - 9 /= 94; while(1) and 7910 /= 62 : let hSa = 8; input sY3aa; input k; pop end end

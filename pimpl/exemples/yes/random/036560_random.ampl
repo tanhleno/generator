@@ -1,0 +1,1 @@
+program P6 : o5U : takes _sTa : boolean; kM10a : integer; x8z : boolean returns integer pop end cmX : takes y, r : boolean array; T, e9, f : boolean returns nothing let e[83] = array 8; let z6 = 69 end main : chillax end

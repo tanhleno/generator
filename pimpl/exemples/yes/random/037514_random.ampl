@@ -1,0 +1,1 @@
+program G_2 : o : takes N56 : boolean array; X, r, Yl40a, n, V, a : boolean array; _U, v3, Rs : boolean array; M, J, I0 : boolean returns nothing V : boolean; let i2 = array 7; when case - 6780 > 97 : chillax end case 80 : input y; pop end otherwise : do i(0); pop end end q : takes rQM0 : integer array returns nothing pop 23 end main : chillax end

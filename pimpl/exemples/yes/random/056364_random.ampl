@@ -1,0 +1,1 @@
+program t : D8 : takes Ne : integer array; N : boolean returns integer input g; output "o=0" . 5860; while 3 = 5 : output ""; pop end; when case 4 : chillax end otherwise : chillax end; let XS = 0 end main : S, L2a : integer; chillax end

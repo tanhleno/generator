@@ -1,0 +1,1 @@
+program w6_0a : main : when case - false + false - false : while - 9 : pop end end case true or 384 or 78 : chillax end case not 7 and 9 or 7 : chillax end case 8 : chillax end case 4 = 860 : input O2 end case 76100 : chillax end otherwise : chillax end end

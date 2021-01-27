@@ -1,0 +1,1 @@
+program ZCf : R : takes Ih, S, _q, E, Z : integer returns boolean array Qvj0a, LG : boolean; output "" end CEZ : takes gO, T : boolean returns boolean output "" end F : takes _4 : boolean; b : boolean returns boolean array do B(770) end main : chillax end

@@ -1,0 +1,1 @@
+program D8 : main : Ru, v1K0a : boolean; while(7 = 518) - O[5] + b and 219 < true - 8 and 12 : while 43 - 5 <= 88800 : pop; when case 5 : chillax end end; let t8 = 2 end; do eA(- 6 or not 0 or 5 - 29) end

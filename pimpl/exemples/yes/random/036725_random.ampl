@@ -1,0 +1,1 @@
+program k : Xs : takes Y : boolean; m : integer array; a, b : boolean returns nothing input toj0[- not 06100 or 2] end uI1 : takes U : boolean array returns nothing when case - 0880 - 91 >= 02 : chillax end; output "" . "59!a" . ""; input OW6; let zE = 7 end main : pop - true + 3 and 06 = y or 69; input y[2 / (99) and 9 - true]; do qN(b or 378); let P8 = array 5 - 7 end

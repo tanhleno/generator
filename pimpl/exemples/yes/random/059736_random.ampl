@@ -1,0 +1,1 @@
+program H : D : takes K : integer array returns nothing chillax end LwI0 : takes y, l360a : integer; r5 : boolean; z8, p : boolean array returns nothing q : boolean; O1, _1, C : boolean; QB6 : boolean; when case 5 - 17 : chillax end case 1 : chillax end end main : chillax end

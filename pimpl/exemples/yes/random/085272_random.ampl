@@ -1,0 +1,1 @@
+program MV : main : FC0aa : integer; while - (26 = 40100) and false or false rem E8 : chillax end; output - true and 2 or 7 - 31 <= 3 - 3 . "" . "M"; let Tl4[- true and 8310 or 49] = 5 - 9 /= 3; pop 3 = 8; pop 2; do O(6); let B = 34; pop end

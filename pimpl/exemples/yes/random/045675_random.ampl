@@ -1,0 +1,1 @@
+program xKfa : u : takes r : boolean returns boolean array Js8 : boolean; while - B and 39 : when case 6 : chillax end end end _3 : takes g : boolean; g7, Q, p : boolean; u, r, l : boolean array; R : boolean array returns nothing u : boolean array; P, eg3 : boolean; let qjP0a = array - 03500 end main : BO : boolean; chillax end

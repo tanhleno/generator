@@ -1,0 +1,1 @@
+program A : G : takes y : boolean array; C, n : integer returns nothing do Q(not 2 + 05) end x_ : takes u : integer array returns nothing ew2aa, b9 : integer; u, p : boolean array; while 67 : chillax end; while 0 = 95500 : chillax end end main : pop end

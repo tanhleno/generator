@@ -1,0 +1,1 @@
+program t : i6 : takes pcy, t5 : integer; U : boolean; r : integer returns boolean array R5 : integer array; chillax end i : takes S : boolean array returns boolean array input v1 end K75 : takes R : boolean; J8, p : boolean array returns nothing do j(23); pop end main : chillax end

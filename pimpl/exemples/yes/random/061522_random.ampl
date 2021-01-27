@@ -1,0 +1,1 @@
+program f4 : Q8 : takes z : integer array returns nothing when case - (9390) and 2 or 57 - 82 < 93200 : let rl = 4; pop end case 3 - 2 : chillax end end L : takes g4p, f : boolean array returns boolean array chillax end xI : takes X38a : boolean; iH : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program v : main : E, NiA : integer array; Nfd, rT : boolean array; F : integer; S2Z : boolean array; C, xF, Tb : integer; sY6, cbv : boolean; V : boolean; when case - not(08) >= - true : when case 9720 - 48400 /= 8 : chillax end case 63 = 4 : chillax end end case - t[27] or true and 411 - 2820 - 3 > 9 - 259 : chillax end case - true - 36 - 58 <= - 4 - 61 : chillax end end

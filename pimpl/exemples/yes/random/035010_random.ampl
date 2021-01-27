@@ -1,0 +1,1 @@
+program Y : jhd0 : takes t : boolean; fo, W : integer array; N : integer array returns nothing k5y : boolean; x1, w : integer array; D0, hv : integer array; chillax end L : takes r, DF2aa, F : boolean returns boolean chillax end main : output false * 37 and 80 + (3) and 58000 + 92 end

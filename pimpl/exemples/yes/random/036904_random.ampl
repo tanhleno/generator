@@ -1,0 +1,1 @@
+program C : a : takes Y620a : boolean; F : integer array returns boolean array chillax end c : takes yaD : integer array; y46 : boolean array returns integer array chillax end H : takes l6m : integer array returns boolean array while 6 : when case 925 : chillax end end end main : g, j, T : integer; yU9a, K : integer; Kw, P0, f : boolean array; chillax end

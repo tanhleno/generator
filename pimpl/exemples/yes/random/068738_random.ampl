@@ -1,0 +1,1 @@
+program h : main : i24, l, I1, I5h0a, X : boolean; t : integer; when case 30 rem not 053 + not false = - not 4 and(6) and 49 - true : chillax end; pop true <= 6; pop; while - 7 - 324 : do E(35) end; while 6 = 8 : chillax end; input Whc0 end

@@ -1,0 +1,1 @@
+program y3 : R : takes b, D3, vc : boolean; a, cis0a : integer returns integer array chillax end k5R : takes E, n7a, q67 : boolean returns nothing when case 431 - 8 : pop; while 8 : chillax end; pop end otherwise : while 2 : chillax end; pop end; pop 0 end W : takes Mv10, x : integer returns integer v : integer array; chillax end main : s7, s : boolean; chillax end

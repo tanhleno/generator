@@ -1,0 +1,1 @@
+program e : Qw : takes DK : boolean returns boolean array output - 63 - 95 . "s80a" end Hi : takes S, N, ZNla, E : integer array; y, lx50, I, G : integer; w : boolean array; V : boolean array; nlR, x, A8 : integer array returns nothing G : boolean array; W : integer; M, xqy : boolean; H : boolean; O : boolean; output 0 = 61400 end main : chillax end

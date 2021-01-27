@@ -1,0 +1,1 @@
+program v : main : j, h : integer array; N, cZ, u, sn : boolean; R7 : integer array; F : integer; P7, Z : boolean; let ih[FFM + b7 / true or 6150] = false * true + Uk and 2 or 44 = true + 4 - 1460 end

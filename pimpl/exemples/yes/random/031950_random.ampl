@@ -1,0 +1,1 @@
+program G1 : _ : takes W7, G : integer returns integer chillax end ny : takes kvD, A05 : integer; h : integer returns boolean R75a : integer array; R : integer array; pop 7 = 4 end main : g52a, u, Z : integer array; let y3 = array not not V25 * V[540] rem false and 23 - true; while(04) and(3) and 52700 or false - 3 : chillax end end

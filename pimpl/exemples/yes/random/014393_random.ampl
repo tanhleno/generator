@@ -1,0 +1,1 @@
+program W42 : G : takes u, m, f4 : integer array; kk : integer; vE30a, B, C : integer returns boolean while - true and 43 /= - 38 : do a(8); input f; when case 0 : chillax end; pop end end main : X : boolean; chillax end

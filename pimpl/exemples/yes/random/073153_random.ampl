@@ -1,0 +1,1 @@
+program bi1aa : main : g, cat, Yp : integer array; when case(3 = 4) and 84 + not n27 rem 11 and 8 <= not true rem v + true or 3 - 912 : chillax end case(18) / (632) and 69600 + (87) or 4 - 3580 : chillax end case(6580) - 48 : chillax end; output - true + 65000 - 14000 . 43500 >= 92 end

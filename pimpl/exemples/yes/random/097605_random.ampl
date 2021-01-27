@@ -1,0 +1,1 @@
+program I : main : when case true /= - hr9(2) / q7 and 1910 : while - 97700 = 5 : pop; when case 7 : chillax end end; do t64(02200 = 65) end case not false + 5 or 147 - 90200 : pop; while 9 : pop end; output "%" end case - true and 864 : when case 76200 : chillax end otherwise : chillax end end case 65 >= 999 : chillax end; pop - true end

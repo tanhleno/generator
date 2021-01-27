@@ -1,0 +1,1 @@
+program Y : YeR : takes J, D : boolean array returns nothing yq2, n : boolean; let K7[- (9) and 84 - 7] = array - (9) end main : output "\\" . - not 07300 and 9; output - not 9 - 9 > - 586 - 6; while true and 6 : chillax end; when case 610 = 3 : chillax end end

@@ -1,0 +1,1 @@
+program Kat0a : main : V, b : boolean array; while true rem true * (4) and 1 or 5 /= 7 : chillax end; when case - true : chillax end case true and 6 /= 0 - 1 : chillax end case 5340 : chillax end case 60 = 246 : let B = 2 end end

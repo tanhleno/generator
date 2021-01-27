@@ -1,0 +1,1 @@
+program us : V13aa : takes T9 : integer array; z : integer array; b : boolean returns nothing P, eo40a : integer array; A, oa2, K : boolean array; Fv3aa : boolean array; chillax end W9O0 : takes b : integer returns integer array let s = array - 2 - 413; let Gu90a = array 7; when case 7 : pop end case 824 : chillax end otherwise : chillax end end main : chillax end

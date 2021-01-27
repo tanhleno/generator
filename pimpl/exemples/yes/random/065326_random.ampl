@@ -1,0 +1,1 @@
+program M : q : takes N : integer returns nothing output 3 - 8 end EY : takes x : boolean array returns boolean array input Z9; while 9 : chillax end end main : Y, V : integer; K : boolean array; Ebq, i : integer; X : integer array; JO_, zU0 : integer; chillax end

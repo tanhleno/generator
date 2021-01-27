@@ -1,0 +1,1 @@
+program TR : K4 : takes h2, C : boolean array returns integer array chillax end W7 : takes X : boolean; g2, G2p0, r, o, V0, H : boolean; RC : integer array returns boolean pop 0; let H = array 0 end main : let HZ9 = not not 1750 / 1 or(350) > false and 6 or 8 - 8 end

@@ -1,0 +1,1 @@
+program I : l : takes L6, J7, S1V, w : integer array returns nothing T : boolean array; r : integer; let Q[(0340) and 475 - 93] = - 64; do Ke40a(- 5, 81); do T4(4, 5500) end main : let T = false / (9) + f and 70 - 6 - 7; let V = - not 97 end

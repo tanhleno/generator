@@ -1,0 +1,1 @@
+program o : x8 : takes F3 : boolean array returns boolean chillax end l6v0 : takes G : integer array; X5e0a, C, rP, h : boolean array returns integer array do K(- 5 - 9, 7 = 27, 30) end main : chillax end

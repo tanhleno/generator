@@ -1,0 +1,1 @@
+program R : d : takes z : integer array; BRYaa, E4 : integer array; u : boolean array; kn40, yK, s : integer array returns boolean array chillax end hm : takes Twk : integer array; _ : integer returns nothing pop end j8aaa : takes pc1a : boolean returns nothing jH5a, c8 : integer; g : boolean; pop end main : output "" end

@@ -1,0 +1,1 @@
+program U : b : takes qmP, HM, Y_W : boolean; L8_aa : boolean; C : boolean array returns boolean B, VM : integer; let a5[- (15) or 8 - 6] = 08; let xb[8] = 22 end x8 : takes JJn0a : boolean array; R : integer array; e, l : integer; uq : integer array; b : integer array returns boolean input o end main : Es : integer; chillax end

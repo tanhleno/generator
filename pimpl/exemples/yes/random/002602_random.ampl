@@ -1,0 +1,1 @@
+program n66a : G : takes m, H, IT, vM, o6 : boolean array; T : integer array returns boolean array E : integer array; when case(1) /= 4 : output 8 end case - 4 - 730 <= 3 : chillax end; let g290a[75] = array - 4; do IzYaa(4, 21); while 7 : chillax end end main : _Oj, P, W, IHf : boolean array; chillax end

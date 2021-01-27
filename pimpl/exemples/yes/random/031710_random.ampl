@@ -1,0 +1,1 @@
+program y : m : takes o0d, w5Ka : integer returns integer array chillax end aJ : takes X : boolean array; l7 : integer array returns boolean let WB[- 3] = array 65 - 87 end f : takes R48 : integer; D, Ui : integer array returns integer chillax end main : Kr : integer; chillax end

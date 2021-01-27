@@ -1,0 +1,1 @@
+program b9 : V5S : takes V, m3, U, Z : boolean array; O : boolean array returns nothing J : boolean; e04 : boolean; K, k : boolean array; do W(- W7 and 1390 >= 1, 0) end main : input BMQ0[false and not(2) * false - (47) - x4 and 853 - 5] end

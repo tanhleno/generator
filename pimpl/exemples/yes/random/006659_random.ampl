@@ -1,0 +1,1 @@
+program t : f : takes SB7, C8, q4, s : integer; G4Ma : boolean returns nothing chillax end u5Sa : takes a : integer; O, g : integer array returns integer x, dx : integer; qM6aa : boolean array; f2k, z9 : boolean; Rx50a : boolean; chillax end main : input t7 end

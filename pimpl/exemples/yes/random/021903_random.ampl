@@ -1,0 +1,1 @@
+program YU : U : takes f, A : boolean array returns nothing chillax end YW : takes X : boolean array; R : integer array returns nothing KVya : boolean; chillax end main : pop; input Gs9[- 40600 rem false]; when case - BR : chillax end case - 7 : chillax end end

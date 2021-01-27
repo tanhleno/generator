@@ -1,0 +1,1 @@
+program cBZ : K : takes U : boolean; IR5 : boolean returns nothing X13, B : integer; while - not 1 and 1 - 520 : chillax end; when case - 9 > 4550 : chillax end otherwise : chillax end; pop; let k[34000] = 7 end main : o, nnZ : boolean; f9, UU : integer array; y : integer array; p : integer array; R1z, X : boolean; input X740a[pqX(49) / (7870)] end

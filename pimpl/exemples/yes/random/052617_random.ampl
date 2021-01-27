@@ -1,0 +1,1 @@
+program mU : M : takes z : integer; r : integer array; K6z, m2Yaa, qh, v, j : integer; K5 : integer; kga, cR9 : integer array returns integer array chillax end main : do V(25 + not 8 or not 7 and 2 - 750, H - true or 3 < 1 and 79) end

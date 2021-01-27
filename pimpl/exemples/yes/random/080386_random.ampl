@@ -1,0 +1,1 @@
+program QCaa : main : k : boolean; when case - 016 /= not not 155 - (1) and 9830 + 9 - 62800 : chillax end case - false + true : pop 50200 end case - qw + 28200 > - 2 : do D680a(5, 48); pop; output "0" end case - 67 : chillax end case 33 = 41100 : chillax end otherwise : input W; while 1 : chillax end end end

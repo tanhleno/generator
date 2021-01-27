@@ -1,0 +1,1 @@
+program j8 : D : takes E1 : integer returns nothing Xj, V : integer; chillax end o9 : takes vs4 : integer returns nothing v3, k, z : boolean; when case - 33 > 03 : output "\\" end end main : T0 : integer array; Boa0, z8 : integer array; output true or 0 and 33 or 0 . 8 or 40 - 4 < 2610 . "6." . "7" end

@@ -1,0 +1,1 @@
+program Wu : N8 : takes Mduaa, Sr : integer array returns boolean _ : integer array; let Ov[- x4 or 8] = - 7 = 008; input I4iaa[5]; input WxJ[7]; while 7 : pop end; pop; output "A8" end L2 : takes I, s : boolean array returns nothing when case 27 >= 0060 : chillax end otherwise : do Q(0) end end main : s010a : integer; chillax end

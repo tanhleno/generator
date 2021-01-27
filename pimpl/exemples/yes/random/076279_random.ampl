@@ -1,0 +1,1 @@
+program z0x : main : Fm, U : integer; R790 : boolean; G : integer; qT6 : integer; k, n, F : boolean; when case - true / false or true rem true and 6 + false and 9220 : when case - 4 <= 6 : output "3" end case 19 : chillax end end otherwise : chillax end end

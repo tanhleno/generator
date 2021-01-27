@@ -1,0 +1,1 @@
+program a4 : m : takes F67, P : boolean array; b : integer array; F : integer; Y, mu : integer array returns nothing v : boolean array; when case - B5ya and 7 - 297 - 4 : chillax end case - 02 - 5 : pop; input i260a end end main : v : boolean; chillax end

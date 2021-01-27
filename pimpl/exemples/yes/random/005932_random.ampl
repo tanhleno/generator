@@ -1,0 +1,1 @@
+program m : e : takes V5l0a, JN, J0, S : boolean returns boolean while - not 36 and 5 - 94 - 33 : output "" . "~" end end AS6 : takes a, c8L0a, i, Tz, w49 : boolean array returns nothing yW1aa, v, nH, k : boolean array; chillax end main : lv : boolean array; chillax end

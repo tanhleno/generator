@@ -1,0 +1,1 @@
+program L : b : takes m7 : integer array; s7, w : boolean array returns nothing chillax end i : takes Jx4a : boolean array returns nothing chillax end U : takes o, l : boolean returns nothing D050a, c2 : boolean array; chillax end O : takes f : boolean; L, j, B : boolean array returns integer chillax end main : let q4o = false or not 20 and 8 - 7 - 1; pop end

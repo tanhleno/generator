@@ -1,0 +1,1 @@
+program E29 : X : takes s, X7 : boolean array returns nothing chillax end f : takes H : integer; S : integer array; Q5E, R3W : integer returns integer J, u : integer; k76 : boolean; while 265 <= 9 : chillax end; when case 8 = 07 : pop; pop end case 24 : chillax end case 56 : chillax end end main : chillax end

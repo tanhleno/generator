@@ -1,0 +1,1 @@
+program V : B830a : takes w, Tf, o, pT : boolean array returns nothing s : boolean array; ZkHa, V990, N5b : integer; chillax end Re80 : takes W7E0 : boolean array returns integer kOP, T, p : boolean array; x : boolean array; chillax end z9K : takes D, G4caa : integer returns nothing chillax end main : x, oJ : boolean array; chillax end

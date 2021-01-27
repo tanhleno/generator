@@ -1,0 +1,1 @@
+program Oc : h : takes j, K, Q : integer; i : integer; J67 : integer array; l : integer array; c : boolean; KtX0 : integer array returns integer Q : boolean; do u880a((852) or 7830 - 5 = - 18) end main : chillax end

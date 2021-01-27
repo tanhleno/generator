@@ -1,0 +1,1 @@
+program K : main : do Y7(false * (36), u[1] and(385) - false + 753, - CR + 2 - 758); while - (0870) < true : chillax end; when case - true and 6 or 1 >= 6040 - 1 : chillax end; let Kt_[- 23] = array - 6; while 291 : chillax end; do uD(9) end

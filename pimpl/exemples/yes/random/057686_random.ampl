@@ -1,0 +1,1 @@
+program P : p : takes C : integer array returns boolean array WwJaa, b, m, z, st0aa : integer array; d : boolean; Z, J, e : integer array; nG, u2F0 : boolean; chillax end o : takes D4, Y1 : boolean array; E2Daa, I, l : boolean returns nothing d : boolean array; R74 : boolean array; chillax end main : while 001 and not(11) / L4 : chillax end end

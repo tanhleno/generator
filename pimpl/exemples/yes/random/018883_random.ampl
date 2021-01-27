@@ -1,0 +1,1 @@
+program r : b86aa : takes q, Da6 : boolean array; _o, R, q3k : boolean array; I, f, J : boolean returns nothing do M(- true - 7 /= - 6); output 77 = 659 . 4130 . 7190 . "" end main : output true / false and 55 or false and 11400 . "" . "9,aa" end

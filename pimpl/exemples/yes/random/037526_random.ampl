@@ -1,0 +1,1 @@
+program O : O : takes O8R : boolean array; Rcy, J, N, G, lt60, nP : boolean array returns integer array Oq : boolean array; rI4aa, Whh : boolean array; pop - 5 - 18700 /= 6 end main : when case - d : while 9 - 08 > 5 : chillax end; let hb = 23 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program P : B760 : takes p, sZx : boolean array; jm, qs50a, mh, a, m, l, HF40a : integer; R : boolean array returns integer array output - 6 > 3; do p(9 - 28 <= 43) end main : input f[U8aa / z1L[597] / true]; let D = z end

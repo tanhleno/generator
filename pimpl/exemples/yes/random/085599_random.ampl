@@ -1,0 +1,1 @@
+program N : main : TP : integer array; B7, Kyj, o, W, z : boolean; x, nf, Fqn, _, v : integer array; when case - true rem p[25] >= false - 37 or 8 - 967 : chillax end case b7U[3] = 8660 and 5 : when case 7 : output "" end case 21400 : chillax end case 9 : chillax end; pop end case - true and 12 /= - 8 - 20 : chillax end; do S(- false * true and 0140, true and 296) end

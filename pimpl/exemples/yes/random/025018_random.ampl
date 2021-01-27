@@ -1,0 +1,1 @@
+program pF : Z0za : takes q, pH : integer; J, e12aa, T, tFw0a : boolean; K1, q : integer array returns boolean do Y(- not 5650 + 1 <= - 6060); let t = array 0 - 228 end main : g1aaa : integer array; chillax end

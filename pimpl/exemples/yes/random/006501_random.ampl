@@ -1,0 +1,1 @@
+program i : A : takes j, C, D, c1 : integer; M, z5 : integer array; x : integer; m : boolean array; Q7 : boolean array returns nothing u, jU, Y, b_, Q : boolean; Tp_ : integer; chillax end main : output "|t" . (13) and 7 = 5 - 13; let j[d - 3] = array - 1 end

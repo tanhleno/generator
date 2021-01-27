@@ -1,0 +1,1 @@
+program r9 : f : takes x2, N30aa, yX : integer returns integer g : boolean; output - 53 = 4 end main : while false or true and false - (35) and 37 + 5 - 2 /= - false or true and 583 or 05 - 66 : do E9(9 - 850, 90 = 6, 460); while 8 : output "" end; pop; let w = 83600 end; while - true rem(2) >= - true and 681 : chillax end end

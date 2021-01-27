@@ -1,0 +1,1 @@
+program f : main : let U[true * not not 8 * 37 or not 0 + false] = false rem false and 37; while 429 - (5) and 4 /= - 42 + 11 : let c[15300] = array 6; when case 1 : pop end case 379 : chillax end; while 2 : chillax end; when case 1 : chillax end end end

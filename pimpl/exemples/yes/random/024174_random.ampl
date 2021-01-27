@@ -1,0 +1,1 @@
+program P : R2 : takes z17aa, I40a : boolean returns nothing N, u2, a, x7 : boolean; q2, A : boolean array; L, N : boolean array; m, Y : boolean; while - (54300) : chillax end; do P(6 - 13); output "\"" . "" . "" end main : chillax end

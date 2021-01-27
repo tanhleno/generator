@@ -1,0 +1,1 @@
+program w : J : takes dd, _ : integer array returns boolean array s, E, j520a : boolean; w, I96a, K : integer array; chillax end II : takes g : boolean array; y4, w6Y0 : integer returns integer N, m24 : boolean array; chillax end main : do MI4(8 * D and not 93100, - gK / (6) and 66600, - not 0); when case true - not 8 - 75 : chillax end; pop end

@@ -1,0 +1,1 @@
+program I : S : takes z9 : integer array; pk : boolean array returns boolean chillax end Yo60a : takes E, y2, V, m : integer returns boolean Rhd0, y, L_ : boolean array; qS1a : integer array; do p4(296 - 56, 92) end main : R, g : integer; let s[- m34aa[200] / false / true and 25] = - I[99] rem true and 248 or 72 and 13; while - not false >= - (91) and 455 : input f5 end end

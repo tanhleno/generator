@@ -1,0 +1,1 @@
+program y : s : takes p9, B5, c8, G940 : boolean returns boolean array b5O : boolean array; N, Gaj0 : boolean; chillax end GGe : takes V6 : integer; w, J3 : boolean returns nothing chillax end E : takes F : integer returns nothing let c[8] = array 122; output 8 . ""; pop; pop; pop end main : chillax end

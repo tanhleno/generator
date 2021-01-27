@@ -1,0 +1,1 @@
+program z : main : d, w : integer array; z, d : integer array; A40a, V : boolean array; when case - true / true - p(67) - 34 and 5 - 2 - 6850 : do C(70 - 1, 016 = 63); when case 3 : output "\"" end case 1 : pop end end otherwise : chillax end; while - false * 249 and 3880 + A and 38 - 1 - 58 /= - true and 01 : input r1[11] end; output "" . "" end

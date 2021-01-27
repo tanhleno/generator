@@ -1,0 +1,1 @@
+program z : U : takes Y9, c : boolean array returns boolean b76 : boolean; zc6 : integer array; chillax end main : pop - 0 or w and 08; when case - (0) * 54100 + (079) and 2 = - not 6 and 11 : while 2 : chillax end end case false and 2 : chillax end otherwise : chillax end; do E((91) or 99); input Y; do n(90 = 1, 01100, 38400) end

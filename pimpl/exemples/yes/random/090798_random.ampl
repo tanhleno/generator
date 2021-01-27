@@ -1,0 +1,1 @@
+program ht : main : let Qow0a[- false] = not true - true; do j(Y31[1] / not 27 <= true and 17, H, 5, 91 = 6670, 509, 65); when case - true or 3 : input jK; pop; input U; pop end case - 8 : pop; input E9B end case 47 = 5 : chillax end case 480 : chillax end otherwise : let Hl = 24; pop end; pop 683 = 1600; while 7 : when case 1 : chillax end; pop end; let AB = array 957 end

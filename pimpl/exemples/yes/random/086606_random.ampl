@@ -1,0 +1,1 @@
+program m1 : main : Qe : integer array; w7 : boolean array; when case - 7 rem(2) <= (44) : chillax end otherwise : while 72 : while 2 : chillax end; pop end end; when case 623 * not 2 /= z and 1 + 69 : output "" . "" end otherwise : chillax end; let j4[false and 17] = 75 - 27 = 89 end

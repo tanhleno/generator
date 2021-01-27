@@ -1,0 +1,1 @@
+program mo : Kq70 : takes gY, r : boolean returns integer MG3 : boolean array; input m4; input z5[5 - 89] end k : takes d5, M, Z_h : integer returns boolean let x[- 8 - 12] = array - 0 end main : y, u, w6 : boolean array; chillax end

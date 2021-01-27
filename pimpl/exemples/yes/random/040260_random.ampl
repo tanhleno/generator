@@ -1,0 +1,1 @@
+program D3 : H : takes n6 : boolean array; O_v : boolean returns boolean chillax end z : takes K6K, V, Dn, d15aa, R : boolean returns integer NHq : boolean; EZ10, CKw, J11 : boolean; chillax end main : output 9 rem true + 0 > - (1) and 00 - 83 - 67 end

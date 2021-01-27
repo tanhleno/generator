@@ -1,0 +1,1 @@
+program C0 : i3 : takes R : integer array; Uy, E3i, I, uj, F : boolean array returns nothing chillax end N : takes Q : boolean; T, u : boolean array; Qn : integer; k, m : integer array returns boolean array when case 27900 : chillax end case 92 = 8 : when case 67300 : chillax end end; input A end main : input I[888 + false - K] end

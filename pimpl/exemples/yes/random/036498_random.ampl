@@ -1,0 +1,1 @@
+program A : a : takes d : boolean; K : integer; np : boolean; dq7, A08, q3, V8Maa : boolean array; w1, s, u : integer array; A : boolean array returns boolean array input f; do W(8 - 8) end main : chillax end

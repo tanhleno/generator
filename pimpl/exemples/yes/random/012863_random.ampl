@@ -1,0 +1,1 @@
+program I : B : takes s, w, edJ : integer; f, d6k : boolean array; DN9a : integer array; xIo, F, kB9, y : integer array returns integer G2 : integer array; chillax end main : K, z : integer array; C : integer array; pop end

@@ -1,0 +1,1 @@
+program y : main : z : integer array; k2 : integer; S550a, i, yQ, I7 : boolean; pop false or T; input So2[- not not 32]; do ZM(false and 911 /= 768, - 05 - 87); when case 03 - 2 /= 192 : chillax end end

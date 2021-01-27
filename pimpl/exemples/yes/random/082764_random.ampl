@@ -1,0 +1,1 @@
+program k : main : P : boolean array; when case 1 * 23 / (825) <= - O7[0] rem true and 2 : do VP(- 88) end case r7(2) / false and 1620 : output 2 . 7 end otherwise : when case 0 = 2 : do W25aa(7); pop end; pop end end

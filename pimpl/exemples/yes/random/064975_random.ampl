@@ -1,0 +1,1 @@
+program g6aaa : Y : takes qr : integer returns nothing u86 : integer; x5Z0a : boolean; output - 5 - 0150; output 40 . "" end JbJ : takes i : integer; X, zI00a, q5Da, V, L : integer returns nothing rB, K, u6E0a, X88aa : boolean; p9, y, D : boolean; chillax end main : input TJ[not false and(33) rem(55000) and 8 - (312)]; input M[not false + false and 3790] end

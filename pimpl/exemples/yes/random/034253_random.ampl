@@ -1,0 +1,1 @@
+program n8oa : U : takes b : boolean; d, Y : boolean; M, o : boolean array; pJdaa, C9 : integer returns integer y, qw : integer array; _ : integer; chillax end main : Fvp0, F1, Y, D7 : boolean; chillax end

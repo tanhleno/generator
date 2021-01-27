@@ -1,0 +1,1 @@
+program NQ : main : C4_, g5, Y_, S2, D, Xt1aa : integer array; while 187 rem false - 2 + E and 523 or 620 - 6 /= - true or(42) and 63 - 021 - 74 : input pX6a[- 7 - 7]; input CU[123] end; while 7 and false - true and 373 <= f0 and 60 or 645 : do mH(8 = 004); pop end; input I[- false]; pop end

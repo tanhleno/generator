@@ -1,0 +1,1 @@
+program r23 : LN : takes V : boolean; cQWa : boolean array returns nothing chillax end Z4 : takes T52a, W, q : integer array; M7 : integer returns boolean do uS50(- 85 - 9, 05); input a end main : C : boolean array; R42 : integer array; chillax end

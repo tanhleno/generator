@@ -1,0 +1,1 @@
+program si3 : Z : takes p3P0 : integer; OwU : boolean returns integer array chillax end Ad : takes U, _, r20 : integer array; o, bQ4 : integer; w : integer returns boolean array chillax end main : input g end

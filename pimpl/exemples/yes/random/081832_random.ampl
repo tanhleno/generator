@@ -1,0 +1,1 @@
+program h : main : P : boolean array; _ : boolean array; when case - not true * false < - false - false or 29 : while 4 : chillax end; do S(9160 = 5, 90, 2) end case - (657) / not 8 - not 2 or 8 - 84 < true and 119 : chillax end case true or 8 - 2 > 6 : chillax end case 2290 - 06 < 04 : input o end case 3 = 6 : chillax end end

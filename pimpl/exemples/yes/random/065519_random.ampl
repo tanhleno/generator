@@ -1,0 +1,1 @@
+program w : MMC : takes U : integer returns nothing when case 3 or 3 - 37600 : chillax end case 67 <= 87 : while 6 : chillax end; let U = 9 end end k : takes W, G8x, p3Zaa, n, OMG : boolean returns nothing chillax end H8K0 : takes _4, C : boolean array returns boolean array H, o : integer array; y : boolean; chillax end main : W : integer; s57 : integer; chillax end

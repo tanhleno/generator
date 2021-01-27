@@ -1,0 +1,1 @@
+program F : main : l4, e : integer; Ia60, P : boolean array; gqwaa, C0 : integer; w3 : boolean array; yT : boolean; pop; while 9 - CAy0a and 42 + 5 : chillax end; while - false and 9 or 54700 - 82 : output "\""; while 83 : chillax end; while 38 : chillax end end; do A1(- 802, 4, 2); let pjP0a[0] = 1 end

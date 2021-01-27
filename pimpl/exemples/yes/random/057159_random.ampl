@@ -1,0 +1,1 @@
+program bE : U9 : takes Xs4 : integer array; Q1 : integer array returns integer chillax end S : takes u, Pj, A5, on, N, g : integer returns boolean ds, r5W : boolean array; pt, z : boolean array; w : boolean; do r26(16900 /= 22, 0 = 1); pop; while 6 : chillax end end main : R, i3a : integer; X : integer array; _, n, t9, p0 : integer array; ic : integer array; pop - true end

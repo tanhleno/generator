@@ -1,0 +1,1 @@
+program V : UX : takes o1y : integer returns nothing CV7aa : boolean array; v7h0, C, V, fV4 : integer; d7 : integer; chillax end p0v : takes X0Z : integer array returns nothing when case 1300 - 50600 : chillax end otherwise : chillax end; input Er[2] end main : chillax end

@@ -1,0 +1,1 @@
+program Tfw : Co : takes a, Y180a, N, _0, RC8a, g40 : integer returns integer chillax end B : takes q, DL, F, x3, uX : boolean returns nothing chillax end main : do u7(59 + false + true and 8 or 51300 /= - (88) * 9 - not 98 - 72 - 4, - (5580) rem not 4430 and 440 - true and 943 or 0 - 961); output "" end

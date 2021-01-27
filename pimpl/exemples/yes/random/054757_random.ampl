@@ -1,0 +1,1 @@
+program t40 : O1s : takes UU : integer array; B6, E : boolean array returns nothing when case 4 and 7 <= 834 : when case 3 : chillax end; while 2000 : chillax end end; while 94 - 2 : chillax end; input Qm[8]; when case 86 : pop end case 40 : chillax end end main : chillax end

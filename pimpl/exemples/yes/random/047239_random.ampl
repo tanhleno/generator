@@ -1,0 +1,1 @@
+program Rss : dn : takes v65 : boolean returns integer w : integer array; h : boolean; when case a and 991 : let O[25200] = array 31200 end case 8 : chillax end case 94500 : chillax end case 374 : chillax end case 15 : chillax end otherwise : do c(3) end end main : chillax end

@@ -1,0 +1,1 @@
+program a : main : output 0 or end 0 end

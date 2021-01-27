@@ -1,0 +1,1 @@
+program y3 : e : takes k9, g : boolean array returns nothing chillax end Vv : takes v, FF40a, Srv : boolean returns nothing when case - 004 : let rO = 16 end otherwise : chillax end; pop 88 end nr : takes Uh : integer array returns nothing chillax end main : k27 : integer array; q, d, J4k, v, k590a : boolean array; A3 : boolean array; Bb : boolean array; chillax end

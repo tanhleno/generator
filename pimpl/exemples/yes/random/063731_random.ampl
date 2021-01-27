@@ -1,0 +1,1 @@
+program h : qrQaa : takes NV : integer returns nothing chillax end h2 : takes t, mylaa : integer array; Ux : boolean returns nothing chillax end main : do Q(- true * not not 9 * 4 and 3520 - false / true + not 64, l - not 6 > - false and 51, - true or 258, 3 - 089, 8 = 7, 8790, 18); input G[- not false + false and 0 - 056]; while - true : chillax end; let h25aa = 4 end

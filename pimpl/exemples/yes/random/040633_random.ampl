@@ -1,0 +1,1 @@
+program S : z5Paa : takes Wu9 : boolean array; A36 : integer; V6 : boolean array returns boolean array L, M5, P, I0 : integer array; pc : integer array; pop; do r2(5270 - 30, 2510 = 0, 9, 0) end a : takes m, k, F, v0, f6, p7i : boolean returns nothing chillax end main : chillax end

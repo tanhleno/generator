@@ -1,0 +1,1 @@
+program _S : y8 : takes oLf : boolean array; AR, v : boolean; wq : boolean array; B08a : integer; Fo : integer array returns boolean e : boolean; WA7a : boolean array; aE : boolean; when case - (62700) : let B[8] = 6 end otherwise : chillax end; output 6 = 12 . "" . 61; let N1[998] = array 8 end main : q, P, kb6, B2Ra, g : boolean; O_0, _0, s5 : integer array; input E end

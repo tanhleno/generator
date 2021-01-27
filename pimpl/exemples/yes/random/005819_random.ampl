@@ -1,0 +1,1 @@
+program z6 : i : takes gclaa, RC, v, Y91a : boolean returns boolean array c9S, s340 : integer array; c, XGY0 : boolean; input vH[true] end C : takes E, JjR0, wOb : boolean array returns nothing do m(6 - 996, 7870) end main : input g end

@@ -1,0 +1,1 @@
+program S6 : B200 : takes Oe5a, a, L, EH : boolean returns nothing ZO : integer; n : boolean array; eF7, yd, N : boolean array; chillax end x : takes W : boolean returns integer s : boolean array; chillax end main : R4 : integer; chillax end

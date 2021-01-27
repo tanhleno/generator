@@ -1,0 +1,1 @@
+program vUO : main : E, L : integer array; output(73) * 9; output "" . "" . "\"" . "" . "0}"; output 43 - 2 = 061; when case 2 - 04 < 48 : let d5uaa = 1; output "?10" end case 52600 : chillax end; when case 09 : while 093 : chillax end end otherwise : chillax end; let tk0aa[582] = 69; do O(0); when case 3 : chillax end; pop end

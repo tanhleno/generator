@@ -1,0 +1,1 @@
+program x : S : takes _Hv0 : boolean; rc, b : integer array returns nothing chillax end main : K0, l, g : integer; Eh2aa : integer array; do F(- 751 and(07) and L3 - Y93 / 20 and 9 + false and 3580); let w[true + 6] = (94) and 2 = - 934 - 7; pop 0 = 740; pop 3 = 548 end

@@ -1,0 +1,1 @@
+program V : XY : takes f, U8R : boolean array returns boolean array M : boolean; nk1aa, C0, Z, F4 : integer; C7, y, Un : integer array; chillax end main : do fic0(true + false, not(9440) * Cr70a); let E23[- true and not 2 and 3 + 670 and 2] = array false; let z5R0a = - 66 end

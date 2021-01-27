@@ -1,0 +1,1 @@
+program w : hfra : takes oI, fZ3a, BO : integer array; hg60 : integer returns nothing j2, Io : integer array; S : integer; i, f, P6 : boolean array; H0 : boolean; let g3 = array(20) end main : chillax end

@@ -1,0 +1,1 @@
+program O : main : W : integer array; xP, X, i1, a2 : boolean; j1 : boolean; l4 : integer; Ds10 : integer array; input u; pop; input k; pop; input w[1]; output 8; while 1 : chillax end; input p4Q; pop end

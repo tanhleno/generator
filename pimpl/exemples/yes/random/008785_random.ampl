@@ -1,0 +1,1 @@
+program b : kLa : takes A, G, J6 : boolean; w4, s : boolean returns integer array when case a and 56 + 4 - 5 : chillax end otherwise : chillax end end main : V, I, J, y9S, uE, u : integer; do Z30(- not(3) - false rem not 9 and 42); pop end

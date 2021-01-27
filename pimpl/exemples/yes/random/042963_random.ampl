@@ -1,0 +1,1 @@
+program b5 : jqdaa : takes _3 : boolean array returns integer chillax end MBR : takes m3 : integer array returns nothing input PI end main : n2 : integer; W1d, _, m, M39 : boolean array; C3, T : boolean array; while not true > 92200 rem false and 2 - not 83100 : chillax end end

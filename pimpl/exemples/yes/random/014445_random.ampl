@@ -1,0 +1,1 @@
+program r : d : takes W70a, h, V2A0a : integer array; i : integer array; j4, e31aa, qz, KIVa : integer array returns nothing F : integer array; chillax end C28a : takes n, Qy, mM : boolean; Hrsaa : boolean array returns boolean array pop 73 = 3 end main : chillax end

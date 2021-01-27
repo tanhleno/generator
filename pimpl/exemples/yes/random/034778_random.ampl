@@ -1,0 +1,1 @@
+program P4 : o71 : takes Z0W : boolean; WX, F : integer; Q, z : boolean; pq : boolean returns nothing do z(- s and 63) end UW70a : takes T : integer returns nothing R : integer; chillax end U : takes z : integer array; Hp, K83a, Ut10 : integer returns nothing w, s5, B : boolean array; _4, W : boolean; let k[37] = 0; input F[7] end main : chillax end

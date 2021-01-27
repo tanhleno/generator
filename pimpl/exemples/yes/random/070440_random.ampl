@@ -1,0 +1,1 @@
+program I : main : L, O, Oq, r : integer array; T, q : boolean; when case - false : while 66100 - 1 > 1 : when case 530 : chillax end; when case 5 : chillax end; pop end end otherwise : chillax end; while - K - false /= - 4 : chillax end; input k; do xn(41 - 408 >= 8) end

@@ -1,0 +1,1 @@
+program a4 : _oA : takes wFt : boolean returns nothing chillax end F : takes f, p : integer returns nothing pop 8 = 15; input K[813] end Y5 : takes nF, KYyaa : boolean returns nothing chillax end F1z0a : takes V2 : integer array returns boolean when case 9 : pop end case 331 : chillax end otherwise : chillax end end main : wtQ : boolean array; pop end

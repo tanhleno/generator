@@ -1,0 +1,1 @@
+program R1 : main : B, F4, h_0 : boolean array; n9 : integer; h, A, e, CO7 : boolean; while - true > - 872 or j and 1 + 4790 - 2 : while - 2 > 803 : do W(11); while 67 : chillax end end; pop 9; when case 1 : pop end otherwise : chillax end; let w = 27 end end

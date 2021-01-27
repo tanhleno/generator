@@ -1,0 +1,1 @@
+program e : BK : takes z1y0a : boolean array; W38 : boolean returns nothing cQXaa, _ : boolean array; r : boolean; e, Q0 : integer array; pop 9900 - 88 /= 4; let V = 5 = 082; when case 2 = 6470 : pop; pop end case 4 : chillax end otherwise : pop end; let p[7] = 3 end main : L3naa : integer array; Mo, I : integer array; t : boolean array; chillax end

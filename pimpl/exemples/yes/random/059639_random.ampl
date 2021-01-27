@@ -1,0 +1,1 @@
+program T : v : takes Zo : integer array returns nothing chillax end uhca : takes r5, W7, MI, Y, L : boolean array; n : integer returns integer array jN, Q : integer array; do hv(- 6 - 8 >= 4, 7) end main : chillax end

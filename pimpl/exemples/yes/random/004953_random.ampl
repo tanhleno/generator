@@ -1,0 +1,1 @@
+program I7 : C : takes K, r, V, _ : boolean array; C620a, Hl : integer array; r0ra : integer; Oi5 : integer; Qi, C : boolean returns nothing V : integer; chillax end main : s : integer array; let G = array not false * 452; when case not(5) or true > (665) and 8 : chillax end; do n(3 + 9 >= 5); while 9 : chillax end end

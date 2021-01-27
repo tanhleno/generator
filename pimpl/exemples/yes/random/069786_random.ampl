@@ -1,0 +1,1 @@
+program d_ : main : c, N8, D, L : boolean array; U, Z, Gb10a : integer array; while 28600 rem not X + true * false = t(1720) - not 4 and 40 + 4 : while - 63 - 815 : do x(7); let F = 06600 end; pop 9 end; do Vm(V[63] = - (0) and 61 or 9, 16 - 98 - 92700); output - 82 - 76 >= 5 end

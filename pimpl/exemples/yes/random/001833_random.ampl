@@ -1,0 +1,1 @@
+program E13 : XIh : takes f, B, G0, BA0a, PnX, CB2aa : integer array; LIo : integer array; q_ : integer returns nothing output "" end g : takes fE, v : integer array returns integer A : integer array; B3, x : integer array; n, i : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program m3p : X : takes f, zb5 : integer array; e5 : boolean returns integer SZ, x : integer; let Z = array - not 9 and 190 or 6 end c : takes x : boolean returns boolean array pop 1; when case 9 = 0200 : chillax end otherwise : chillax end end main : chillax end

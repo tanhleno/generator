@@ -1,0 +1,1 @@
+program t : x : takes Pfvaa : boolean returns integer u, Q20aa, F : integer; while - 60600 + 9 : input O83a[5]; when case 7 : chillax end; let X2 = 7 end; input W; let m4[1] = 87300; pop 9; do x(741); output "5" end main : chillax end

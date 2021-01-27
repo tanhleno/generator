@@ -1,0 +1,1 @@
+program bDH : iF0a : takes TF, S : integer; Z : integer array; A1, Ri : boolean; nR, s : integer returns boolean array g2 : integer; L, a, F92 : integer array; chillax end A7 : takes Pzgaa, S88aa : integer array; G : integer array returns nothing F, y2 : boolean; chillax end main : kt : integer; output "/!\"" . (86) and 4 /= - 81 end

@@ -1,0 +1,1 @@
+program q0 : main : do e4A(- 673 or true rem true and 0 + false and 8 + 6 - 51400 <= - (7) and true, - F850[10] and 9 and 479 - 0 and 94 = - e); do J(false / (76) and 037 + true and 35200 <= - 6550); pop end

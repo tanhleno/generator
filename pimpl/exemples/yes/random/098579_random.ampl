@@ -1,0 +1,1 @@
+program L2f0a : main : while - not not false : do W2Uaa(- 5 - 91 > 8) end; while - j[0] = - (83100) - 9260 : chillax end; when case not 0 : chillax end case 936 - 1 : chillax end case 6380 : chillax end; do gd50a(36, 5, 1); do szr0(053, 728) end

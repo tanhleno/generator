@@ -1,0 +1,1 @@
+program L : Z : takes I, U : boolean array; p8y0a, u : integer array returns integer output 2 - 7 > 4 . 5; input v5[64 - 49]; output ")" end K : takes q, D, _, F56a, G, c9, rck : integer returns nothing n8, c : boolean array; cq60 : integer array; t : boolean; chillax end main : _ : boolean array; output - 51 * not 1 or(957) and 4 - 364 - 82700 end

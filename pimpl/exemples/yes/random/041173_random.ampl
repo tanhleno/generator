@@ -1,0 +1,1 @@
+program H2aaa : e1X0a : takes D9x : boolean array; c : integer array returns nothing output 0 - 6; when case - 71 - 135 : while 1 : chillax end end otherwise : chillax end end Hk1aa : takes T010 : integer returns nothing x, v : boolean; when case - 3 : chillax end end main : chillax end

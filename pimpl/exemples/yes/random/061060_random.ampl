@@ -1,0 +1,1 @@
+program x04 : f : takes U49 : integer array returns nothing D : integer; when case - a7 /= - 42600 - 02 : do a(0, 69) end; let L86 = 04 = 87900; do I(2, 1); pop 99 end H : takes z0, _, df5aa, z2a, l : boolean returns integer pG : boolean; chillax end main : do AS7(true rem(15) >= false / not 8); input P; input r end

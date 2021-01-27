@@ -1,0 +1,1 @@
+program m0 : main : u2, nP8aa, o, g, T : integer array; n : boolean array; g, L, f : boolean array; A6, ckp, M, g : integer array; l : boolean; while - true * not q rem false or true : chillax end end

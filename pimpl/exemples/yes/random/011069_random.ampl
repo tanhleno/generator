@@ -1,0 +1,1 @@
+program WK6 : lm1a : takes xx, V2, u : boolean array returns nothing chillax end Y1 : takes W : boolean array; I1 : boolean array returns boolean w, HbBa : integer; k : boolean; chillax end main : F : boolean array; I, d, m, ccK, k3, _D : integer array; pop - true - true + 1 - 3 end

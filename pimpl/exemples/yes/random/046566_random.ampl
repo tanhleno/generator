@@ -1,0 +1,1 @@
+program EjH : N : takes p2 : boolean returns integer array q9, G8, g : integer array; chillax end Zx : takes T41 : boolean array returns nothing XZ : integer array; chillax end main : C : integer; chillax end

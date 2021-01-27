@@ -1,0 +1,1 @@
+program w01 : f : takes o : integer array; j5, F, OE10, c9, nqF : integer returns nothing while true : chillax end; output 31 = 4; output 44 . 1 . ""; when case 21 : chillax end; while 4 : chillax end end main : V, U56aa, Y : boolean; chillax end

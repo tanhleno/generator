@@ -1,0 +1,1 @@
+program p14 : main : I, gv : boolean array; V0Ca, Lz_ : integer array; when case false and not 50 rem true - I < - 50 or false or 2 : chillax end case - false and(7) and 6 or true and 193 - 3 : pop end otherwise : chillax end; output "1_" end

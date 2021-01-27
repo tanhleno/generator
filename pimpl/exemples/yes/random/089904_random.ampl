@@ -1,0 +1,1 @@
+program r : main : let e = array - C[84000] / false; while(3) * 7040 - (3500) or 530 - 9 >= false and 938 - 51100 : output 958 . 4 end; when case not 19 - 95 - 98 : input Rm6; do aoe(96100) end otherwise : chillax end end

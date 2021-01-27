@@ -1,0 +1,1 @@
+program _ab : _ : takes sc1aa : boolean array returns nothing j9X0a, Q : boolean array; let C = - 5 - 8 = 6; pop 402 = 62500 end r : takes x3 : integer returns nothing zB : integer; EG10a, gD, q : integer array; Z0 : boolean; chillax end main : when case false or 950 rem(510) + true and 68400 : chillax end end

@@ -1,0 +1,1 @@
+program Z6 : W : takes R : integer; P, n : integer returns boolean array q : integer array; input X[2 and 70] end n : takes t : integer array; c : boolean; O6, z : boolean returns nothing Lh2, ov : boolean array; of8, a71 : boolean; i : boolean; chillax end main : let Ta = array false rem Z5 end

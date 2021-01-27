@@ -1,0 +1,1 @@
+program Q : main : O5x0a : integer array; Qm : boolean array; while(58 = 1) > (9) rem 0 - not 52 : while - 68 /= 9 : when case 71 : chillax end end; while 8 : when case 4 : chillax end; pop end end end

@@ -1,0 +1,1 @@
+program z : main : when case 0 or not Vn - false and 8 or 9 - 60 : when case - 72 : output "" end otherwise : do dB(02) end; output "" end case - (9) * true or not 53 : pop 4 end; while - f[215] or B and 0 : chillax end; when case 4 and 11 or 9 - 78 >= 6 - 9 : chillax end otherwise : when case 35 : chillax end end end

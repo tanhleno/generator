@@ -1,0 +1,1 @@
+program M8 : main : while - false and false < - (0) : chillax end; when case - false <= - 994 and 39 : chillax end case - true and 911 <= - 09 - 34 : when case 60100 : chillax end case 41 : chillax end otherwise : chillax end; pop end otherwise : input wh2; do C(6) end; pop; pop end

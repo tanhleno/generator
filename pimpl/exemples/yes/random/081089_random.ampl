@@ -1,0 +1,1 @@
+program t : main : O : boolean array; k3, wPQ0, S : integer; W : boolean array; b, u50, k6 : boolean array; when case 4 = - j1(5) rem false and 8 or false + 7 : pop 56; input n[22500] end case 205 or true <= 15 : chillax end end

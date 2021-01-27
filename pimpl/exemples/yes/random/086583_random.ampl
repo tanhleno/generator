@@ -1,0 +1,1 @@
+program V3_ : main : H : integer array; M : boolean array; let Wk[f[738] - (4) rem not 4 and 7 or(51) and 044 - 1900 - 9] = - true and false and 680 or false and 2 >= - true + 79; input WT[(16)]; output ";^" . "" end

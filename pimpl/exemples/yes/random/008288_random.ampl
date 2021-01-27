@@ -1,0 +1,1 @@
+program wb : hq : takes Q1, Q2naa, t, l290a : integer returns nothing N, K8fa : integer array; S3K : boolean; y : integer array; while - N and 829 : chillax end end j : takes n4, U3 : integer returns integer array Dl : integer array; t, e, f1 : integer array; c : boolean; output 0 = 6 end main : chillax end

@@ -1,0 +1,1 @@
+program e : P : takes n, FLY, WBO : integer returns nothing let p23[true and 662] = 7 - 5 >= 27 end s1C : takes o : integer array; Y42 : integer; v : integer returns boolean array z1 : boolean; DN, D : boolean array; chillax end main : f, u : boolean; input Kem[false]; input h end

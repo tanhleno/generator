@@ -1,0 +1,1 @@
+program ea : u0 : takes PL80, h, h, Y : integer array returns boolean array chillax end main : n6, wB : boolean; yvV0 : boolean array; when case - not 60 + false / not 9 and 0 : let c[- 31] = array - 3 - 0; do ac(3 = 53) end case - (5) or Q and 6530 <= - true and 4 : do R(0 = 4, 1) end otherwise : do fQdaa(6) end; while - true * false <= true and 4 : input h end end

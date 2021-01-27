@@ -1,0 +1,1 @@
+program t : Z : takes S4 : boolean array; c : integer; e9x : integer array; K0yaa : boolean returns integer nQq0 : boolean; when case - true and 1 /= 681 : output 850 end end iS : takes Zo, L, O, w_9, n : boolean array returns nothing chillax end main : J9 : boolean array; i350a : boolean array; W73 : boolean array; chillax end

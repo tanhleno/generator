@@ -1,0 +1,1 @@
+program wZ : main : xT70a, C, l5g : integer; when case true * (154) = - not false : do s340(- 06 - 4370 > 7) end otherwise : chillax end; while - (23100) * (91) and 62200 + 24 and 54 - 2 - 15 >= 6 and 167 : chillax end end

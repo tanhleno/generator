@@ -1,0 +1,1 @@
+program wj : a : takes k5J0a, z, v : integer array returns nothing let h = array n - 8 - 249; let Xy3[95400 - 8] = array - 0 - 40 end main : let Ke7 = array(57 = 7); input j0T; while true = - 310 : input C; output "5h" end; pop 607 = 4440 end

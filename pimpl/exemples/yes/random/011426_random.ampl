@@ -1,0 +1,1 @@
+program q : D680 : takes k, o71, u : boolean array returns nothing input yU; do JPR0a(4 - 3140 <= 61); while 3 : do a(85); pop end; output 3 end main : n : integer; while false <= - 46 / (1) - (16) and 65 or 94 - 0 : chillax end end

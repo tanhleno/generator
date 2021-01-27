@@ -1,0 +1,1 @@
+program sAca : main : O : integer array; Q : integer array; w, M, c3, lE : integer array; when case P(3) /= not true : do yP(- 0 >= 81) end case - not true and 9310 and 0200 : while 39 = 298 : chillax end; while 10100 : chillax end end case - false = 057 : when case 661 : chillax end otherwise : chillax end end case - 40 >= 0 : pop; input _V; pop end end

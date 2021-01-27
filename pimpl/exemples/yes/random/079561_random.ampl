@@ -1,0 +1,1 @@
+program O : main : N1 : boolean; U1 : integer; L : boolean; K : boolean array; let Gy[n[1]] = array 6190 or not false; when case - CC(5) : let n9[67] = 8 end case true <= - 1 - 1 : pop end case - 4 : chillax end; do Ru(VGm or 17200 - 231, - 7 - 7 /= 85, 67, 5) end

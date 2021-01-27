@@ -1,0 +1,1 @@
+program T : jI4aa : takes lk8, gs50, d : boolean returns integer mTX, cf, R73, u0_0 : boolean; when case - (2) and 85 = 00800 - 04200 : chillax end end main : R, H : integer; p07, H, fge0, Iv60, z, Wu : integer; input i end

@@ -1,0 +1,1 @@
+program F : main : v8q : boolean array; output(36) or not 2790 and 421 or 5 . "7\t\""; pop U + 1 - 31; when case - not 04 : when case 3 : chillax end case 2 : chillax end otherwise : chillax end; output "7"; input h end case - 6 - 8 <= 1 : let Y = 8 end case 4 = 18 : input J end; let u = array 79 - 4 end

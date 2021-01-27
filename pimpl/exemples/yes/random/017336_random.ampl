@@ -1,0 +1,1 @@
+program P : y : takes l, D : boolean; Z37aa, i : boolean returns nothing chillax end main : do E(not(2) * q64(985) * (28) and 0160 >= false rem false and 88 + true or 1 - 376, - not false or false, not 2 and 903 or 58 <= - 5000); input Yj[- true and(0) and 1] end

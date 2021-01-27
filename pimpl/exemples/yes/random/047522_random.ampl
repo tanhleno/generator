@@ -1,0 +1,1 @@
+program i : r3 : takes wd : boolean returns nothing chillax end P540a : takes d23 : boolean array returns integer array chillax end main : M2, R2 : boolean array; w : integer; do v(- c1e[66100] and not U5S) end

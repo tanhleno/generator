@@ -1,0 +1,1 @@
+program pNQ : o : takes r88a : integer returns integer array chillax end WD : takes Z : boolean; o, k63a : integer; sQ, Dy, dy40 : boolean returns boolean array Y : integer; chillax end t : takes q : boolean returns boolean U, S, B2 : integer; N, g : boolean; chillax end main : chillax end

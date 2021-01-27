@@ -1,0 +1,1 @@
+program L1 : L : takes HF4a : boolean; n : boolean array returns integer array do K3r((02) and 6 + 8 = - 9, - 5 - 34 = 56500) end main : L1 : boolean array; V_0aa : boolean array; let cz9 = array - O0Daa[6] and KN[4] / true and 6 or 71 end

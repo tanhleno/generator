@@ -1,0 +1,1 @@
+program W8A : main : e4 : boolean array; input qA20a[true or true + 6 and 64100 + 5 - 7]; output(8) and 5 or 889 - 03000; do w(- (35) or 2490 - 9260 <= - 6 - 5); input L[698]; output "\n=0" . "" . ""; output "\n$" end

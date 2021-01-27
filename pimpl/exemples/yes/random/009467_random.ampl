@@ -1,0 +1,1 @@
+program miya : h : takes J7, ZM, T : boolean; HPiaa : integer returns nothing chillax end main : pop - false or 558 > _01 - 46; when case false >= R5sa and 24 : do N(72, 088); while 327 : chillax end end otherwise : chillax end; pop - 35 - 203 end

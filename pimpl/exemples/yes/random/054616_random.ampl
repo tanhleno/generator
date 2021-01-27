@@ -1,0 +1,1 @@
+program s : Y : takes s : integer array; A, y : boolean array; K : integer returns nothing D9, b : boolean; o : integer; V5 : integer; tW50 : boolean; input HJ[- false and 465] end main : Fp9aa, w6, F, aU : integer; JW6, Ga7a : integer; i : boolean; chillax end

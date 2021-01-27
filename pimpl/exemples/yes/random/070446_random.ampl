@@ -1,0 +1,1 @@
+program i7 : main : l8, w, l8, q : integer array; E, k : boolean array; U3 : boolean; iVu : integer; pop; let q2u[- not 01600] = array true or t; when case - (17700) + 941 - 1 <= - 27 : chillax end otherwise : chillax end end

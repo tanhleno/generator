@@ -1,0 +1,1 @@
+program Ge : YF4 : takes W7, r : boolean returns integer CH : boolean array; n5 : boolean; c, rs7aa, Wv : integer; W220a : boolean; _ : boolean; Kv : boolean; do l(- true - 88 - 365 > - 1) end main : dAo0a, i430a : integer; pop end

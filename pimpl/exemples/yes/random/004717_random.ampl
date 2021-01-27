@@ -1,0 +1,1 @@
+program r : I : takes s6, d, n, T3yaa : boolean array; o, Nj2aa, I7, mq, y, Y, D : boolean returns nothing xqy0 : boolean; while true + 1 = - 76 : do Z(825, 1); do Iq0(6) end; output 0 . 2 end z3Paa : takes w, Jtd0, Qd30, Y9, E7, HI, WM : integer array; U, j37, aqS, U : boolean returns nothing R, y : integer; j : integer; do o9V(7 - 5); do p2(5) end main : chillax end

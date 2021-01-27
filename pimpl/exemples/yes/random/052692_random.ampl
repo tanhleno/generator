@@ -1,0 +1,1 @@
+program Q : r4R0a : takes Hk80a : integer; s : integer array; s, Z : boolean returns boolean array while true - 9 - 7 > 51 - 8 : do q31(8, 8) end; let oaqa[- 9 - 007] = array 77600; pop; input D[49] end main : pop end

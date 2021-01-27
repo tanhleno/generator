@@ -1,0 +1,1 @@
+program q2 : I : takes k, B : boolean; e : boolean array; Q, T0 : integer array; R3f0, j : integer array; p : integer array returns nothing chillax end main : input k; do i4r(- 5 rem false, - true or 7 - 5, - 4 - 0); output "" end

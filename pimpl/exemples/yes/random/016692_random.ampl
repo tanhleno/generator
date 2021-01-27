@@ -1,0 +1,1 @@
+program Q : D2 : takes G49a, m6 : boolean; n, F, U, Z, l, f : integer array returns nothing f6, A : integer array; e, W2 : integer; r3 : integer array; while true and 9 > - 4 : while 6 : chillax end end; output 0 = 8 end main : _ : integer; chillax end

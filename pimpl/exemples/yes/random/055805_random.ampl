@@ -1,0 +1,1 @@
+program C : w : takes G64 : integer array; XXZ : boolean array; KB, l940a : boolean returns integer chillax end M3 : takes j, b, Y95, x : boolean returns boolean array chillax end main : A8 : boolean; do j((36) rem false, - (035) <= false + 74200) end

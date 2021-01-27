@@ -1,0 +1,1 @@
+program E98aa : zxh : takes v, w9 : integer returns nothing when case - not 2 and 5 : chillax end case 185 - 5 = 66 : let i = 739; output ""; pop end; output 53 = 191 . 5 . "" . "\to" end main : chillax end

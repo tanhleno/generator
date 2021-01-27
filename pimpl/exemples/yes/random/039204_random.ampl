@@ -1,0 +1,1 @@
+program M : O : takes G : boolean array; Vue, c : integer array; bju : integer array returns nothing when case - not 2670 - 11800 : while 2 : pop end; while 8 : chillax end end case - 2 - 0 : output ""; when case 2 : chillax end end end main : when case true * (3) / not 03 : chillax end; pop - not 61900 or 7950 - 35 >= 2000 - 9 end

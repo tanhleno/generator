@@ -1,0 +1,1 @@
+program Q400a : main : ce : integer array; while - (529 = 211) - not false and false : while 31 : while 669 : chillax end end; input P[210]; output 2 . "<j0a"; while 2 : chillax end; let n77 = 307; pop end end

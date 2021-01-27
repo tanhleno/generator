@@ -1,0 +1,1 @@
+program g : B23 : takes Hl, n : integer array returns nothing S6 : integer array; i : boolean array; x6 : boolean; bN5aa, I : boolean; U : boolean; do G(- true and 63); when case - 075 : input Xv; when case 649 : chillax end; pop end otherwise : chillax end end main : chillax end

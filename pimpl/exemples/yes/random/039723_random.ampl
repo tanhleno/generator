@@ -1,0 +1,1 @@
+program P2 : f : takes M : boolean array; G : boolean; l7 : integer returns integer array chillax end N5 : takes A5, rY9, x : integer array; U5_aa, _, AN : boolean returns nothing do F(91900 - 7) end main : Un6, cD4, Y : boolean; chillax end

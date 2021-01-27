@@ -1,0 +1,1 @@
+program U : main : while false * not 0500 + (5) rem not 9 and 6 <= - 6 - (2) and 73500 or 61 - 4270 : while - 102 <= 97 : let nSk = 2; pop; pop end; pop 7; output 3 . "Q\\!a"; pop; do X9(6); pop end end

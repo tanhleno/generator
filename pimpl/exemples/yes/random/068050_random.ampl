@@ -1,0 +1,1 @@
+program zg : main : v0, H, A, K, lG, H0, D : boolean array; y : boolean array; pop; when case - not true * (7) and 68 + not 23 : do Ss1aa(9) end case - not 13 = 0 : when case 41100 : chillax end case 35 : chillax end end; when case - (2) + 4 - 15 : while 02 : pop end; input k; let z = 8860; pop end end

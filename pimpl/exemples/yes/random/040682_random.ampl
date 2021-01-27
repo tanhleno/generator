@@ -1,0 +1,1 @@
+program qRraa : E9 : takes Q : boolean array; Y : integer; Y4iaa : integer array; e, A : boolean; y : boolean returns boolean array A7za : boolean; j, RV8, S7p, tp : integer array; I, q, Y8K : boolean array; chillax end c9Jaa : takes L : integer array returns boolean array chillax end main : output R * 928 or(8) >= false or 415 - 4 end

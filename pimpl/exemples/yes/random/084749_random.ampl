@@ -1,0 +1,1 @@
+program QdB0a : main : P : integer; let i = array r(1) / (26) rem true; when case false < - 98 : chillax end case - 9 and 2 - 9 <= 7 - 6 : while 9 : pop end end case 7 : let p97 = 7; let A4Oa = 726; pop end case 14 = 31 : output "8" end case 9 : pop end otherwise : input hjQaa[8] end end

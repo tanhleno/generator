@@ -1,0 +1,1 @@
+program Q3L : w6 : takes mP0 : boolean array; J : integer returns nothing input w7; output 91 end Ls : takes X : boolean array; g : boolean returns boolean while 587 : chillax end; while 6 : chillax end; when case 2 : pop end otherwise : chillax end end main : chillax end

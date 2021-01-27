@@ -1,0 +1,1 @@
+program nq : nf9aa : takes Ka : boolean; m, M : boolean returns boolean P : boolean array; KN0 : boolean; output "s"; when case 4 : input n6; while 0 : chillax end end otherwise : chillax end end main : chillax end

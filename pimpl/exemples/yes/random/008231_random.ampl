@@ -1,0 +1,1 @@
+program m : G : takes Xh, wW, U, j : integer returns nothing Qy9, m, h8, n : integer array; b, N5kaa : integer array; z9 : boolean array; k5b0a : boolean; chillax end PL : takes K : boolean array returns nothing R : integer; G, R, F : integer array; t : boolean; do HY(- 859 - 4, 7 = 82, 7) end main : do M1(- false and not(20600) / L8); pop - (7) > - 6 - 7; pop end

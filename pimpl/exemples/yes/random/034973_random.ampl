@@ -1,0 +1,1 @@
+program n : iR : takes oq : boolean; F730, Y8l0a : integer array; n : boolean returns boolean array d1 : integer; Bh, X : integer; do E74(false and 17 = 9); let n[6 - 2] = 9 end Z : takes m0 : integer returns boolean chillax end bc : takes yr5aa, S : boolean; S31, p : integer array returns integer array do wOS(24 = 45200, 21, 0) end main : chillax end

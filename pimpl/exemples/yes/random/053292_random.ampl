@@ -1,0 +1,1 @@
+program o : U : takes y : integer; M3 : integer returns nothing Q, v : boolean; when case - 483 - 2 <= - 85 : while 0 : pop end end otherwise : input q12a end; output "1" . "" . "" end main : chillax end

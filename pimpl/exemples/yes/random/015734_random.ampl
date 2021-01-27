@@ -1,0 +1,1 @@
+program g_n : t : takes r, B1, C : integer returns boolean array g : integer array; input W0h[V and 2] end e : takes b, N : boolean array; dV7 : integer returns boolean k18a : integer; while - 5 : input RL; output "" end end main : ZF, q7 : boolean array; W : integer array; Y3H : integer array; do F(- 37 and 494, - not(5) rem(75) and 2 - (935) or 72700) end

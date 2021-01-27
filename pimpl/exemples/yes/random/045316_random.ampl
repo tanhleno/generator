@@ -1,0 +1,1 @@
+program B : D : takes E1 : boolean array returns nothing while - not 7 : do Q30(42700, 36) end end k : takes Xj, k2 : boolean returns nothing k : integer array; tJ7 : boolean; let pt9[- 44 - 0] = 8 end m : takes Sf40a : integer array returns boolean b : integer; let G = 5 end main : f : boolean; chillax end

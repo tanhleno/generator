@@ -1,0 +1,1 @@
+program m : _ : takes ujfa, _3 : boolean; sV4, s1, I : integer; _vi0a, n, Y : integer array; m : boolean; E : integer array; i, RO3, B : boolean array; i : boolean; _x90a : boolean; e : boolean returns integer Q : boolean array; chillax end main : sAh0a, H74a : boolean; L, pSt, p : integer array; chillax end

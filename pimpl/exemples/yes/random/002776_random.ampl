@@ -1,0 +1,1 @@
+program Xyp0 : tX : takes a4c, kT, S2, e, k220 : boolean array returns nothing chillax end main : v6 : integer; B : boolean array; do E(- 951 and(9) and false >= - s[7] or oZ6a and 3 + 3, true >= false, not 79 and 44 + 49 = 5 - 701, - 7 - 472 >= 94100, 3, 1, 5); when case - true rem true : chillax end end

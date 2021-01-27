@@ -1,0 +1,1 @@
+program c50 : main : z, ui0 : integer; P, _9d, d2 : integer; while not lZ and true : chillax end; do F7Waa(- not(9200) /= - true or 3 - 3); pop - 7 = 99; output 9 = 0; do d(59); pop; pop; do P(04) end

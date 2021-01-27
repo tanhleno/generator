@@ -1,0 +1,1 @@
+program YQ : Pn_ : takes Pw, w3, u : integer; h, r : integer; fVw0 : boolean returns nothing K : integer; chillax end Xl40a : takes xg3 : integer; gU_0, q, A : boolean array; w, x, l8k : integer array returns nothing chillax end T : takes I, o340a, A5 : integer returns nothing when case 4 = 096 : chillax end otherwise : pop end end main : let p = array not D65aa end

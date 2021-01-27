@@ -1,0 +1,1 @@
+program j : o : takes F : integer array; f, rZ2 : integer returns nothing while - g and 24 < 0 : do L9(900); when case 1210 : chillax end end; when case - 9 < 528 : pop end end main : S : boolean array; chillax end

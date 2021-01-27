@@ -1,0 +1,1 @@
+program K : main : Zxd0a, b : integer; KQ, wZ : integer; WG, Q : integer; o5V : boolean; while E and true + 8 / true and 9 or true and 82900 = - (9) / not 047 : do YQ(- 2, 007) end; while - 50 * false and 7 <= - false : chillax end end

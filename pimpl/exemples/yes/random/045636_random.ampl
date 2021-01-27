@@ -1,0 +1,1 @@
+program S : O : takes fT : boolean returns boolean array F2, V2 : integer array; c2i, R7 : integer array; pcR, Z, r : integer; let mDx = - 3 <= 3; when case 6 - 9 : while 33 : chillax end end end main : output "59!a"; let w = array 1 and true and 0 end

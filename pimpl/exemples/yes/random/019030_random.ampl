@@ -1,0 +1,1 @@
+program v8waa : YY : takes U7d, M : boolean array; g, E, DB : integer array; h4e, A : integer array returns boolean q5, m : boolean; R9Z0a : boolean; T2T : integer; maI, W : boolean; A6 : boolean; j : boolean; chillax end main : output - Z * m3 and 0 - (7) and 80 or 0 - 8 . true and 1 + 66 - 80000 <= - 2 - 274; let D = - true and 4 >= - 8 end

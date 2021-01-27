@@ -1,0 +1,1 @@
+program x : Mw0 : takes d2, O : integer array returns nothing chillax end R : takes Z, N2 : integer array; F : integer; qzRa : boolean array; gT : boolean returns nothing while 8 - 110 : while 0 : chillax end end; let k[8] = array 714; input KX[91300] end r3U0 : takes O, V74a, a6ca, S, P : boolean array returns nothing chillax end main : chillax end

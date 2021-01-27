@@ -1,0 +1,1 @@
+program o : pe : takes V : integer array; S9j : integer; uY, R3 : integer returns integer array chillax end WV90 : takes zS4, r : boolean; q5, A160, S, Y, S46 : integer array; G, M930 : boolean array returns nothing Xa : boolean; chillax end main : do uR1((71) and(1) rem true and 4) end

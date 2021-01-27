@@ -1,0 +1,1 @@
+program B : l : takes aP3 : integer returns nothing chillax end main : h, B : boolean; do s(- true + 93 and true and 8 or false + 235, - s(78) / t and 66 or not 2 and 79 >= (89), 4 + 312 - 2); do s4(t4(5) * k and 5 or not 6 and 48 > not 8 and 57 - 0, Qc70 and 8 /= 82000 - 042) end

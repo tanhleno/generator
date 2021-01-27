@@ -1,0 +1,1 @@
+program ZHJ : qV : takes u, m6q0a, K3I, i : boolean returns nothing chillax end L2 : takes h4o, P8x0a, yX7aa : integer; c : boolean; s, P : boolean array returns integer i : integer; t7Z, jY, k : integer array; Kt, Ar : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program wV : E : takes c : integer array; x8, x6, v18a, Y, MB, S, G : boolean array; K : integer returns boolean array DQ3, Zm : boolean array; pop end main : u9raa, w : boolean array; while - true and W8(321) and not 179 /= 6 : output "\""; input y end end

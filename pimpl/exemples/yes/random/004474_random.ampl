@@ -1,0 +1,1 @@
+program Y : X : takes e, c4, c, V : boolean; n : boolean; zT5 : boolean; MxZ, g, Z6 : integer array returns boolean array input F[lH]; pop; output "" . "01" . "" end main : while - 0 rem(418) : output 1 . "" . "" . ""; input C3[4] end end

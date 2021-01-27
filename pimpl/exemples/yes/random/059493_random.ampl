@@ -1,0 +1,1 @@
+program L870a : WK : takes j : integer array returns integer Y : integer array; let F = array - 9 and 3 + 1; when case - 5 - 97 < 8 : while 371 : chillax end end case 0 = 41400 : let sK70a = 4; pop end otherwise : chillax end end main : chillax end

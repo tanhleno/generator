@@ -1,0 +1,1 @@
+program OX : jf2 : takes v, a, k : integer array; S, n33, W : integer; X : integer returns nothing chillax end np : takes e : integer; D : integer array returns nothing input y[- 0720]; input L end q : takes x : boolean array returns boolean array hu : integer; i : boolean; chillax end main : je, N, O02, s : integer array; chillax end

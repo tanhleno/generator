@@ -1,0 +1,1 @@
+program r54a : main : R, q, X : integer array; output "" . - true and 96 . - 0 - 3 > 4 . "*"; output "69a" . "\"\t"; while false and 0 + 6 - 78300 < 3160 - 1 : pop; while 3 : chillax end end; when case 70 - 78 : chillax end case 2 = 9 : chillax end; let j6 = array 1; pop end

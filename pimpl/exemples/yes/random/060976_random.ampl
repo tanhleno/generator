@@ -1,0 +1,1 @@
+program rJ : Z0wa : takes e6 : integer array returns nothing XB00a : integer; chillax end main : ecn0 : boolean array; t8, z : boolean array; output "n" . "_^!"; input G[not false * true + not 1]; input G[- 9 or 5 - 8] end

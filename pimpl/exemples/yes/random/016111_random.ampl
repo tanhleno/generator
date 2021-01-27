@@ -1,0 +1,1 @@
+program D2 : R1 : takes O, J, RRYaa : integer returns integer let dB[- not 4] = array - true and 1 or 5750 - 9; do P(1290 - 894 > 3, 94, 5) end z830a : takes K : integer array; h, W : boolean array; qN : integer returns boolean chillax end main : chillax end

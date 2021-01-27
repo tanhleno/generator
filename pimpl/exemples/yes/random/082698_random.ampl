@@ -1,0 +1,1 @@
+program _ : main : t : boolean array; when case - not not true and(5) * (6) and 213 - not 18 and not 60 <= - px[3] and(87) and 51 : chillax end case - not not 9 : chillax end case - false : chillax end otherwise : chillax end; pop - not 2 and 854 > 0 - 824 end

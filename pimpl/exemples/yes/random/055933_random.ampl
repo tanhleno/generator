@@ -1,0 +1,1 @@
+program U : G : takes f : integer array; v : boolean array; j : integer array; Y470, a, W : integer array returns integer Bly : integer; let VD[not 5 + 82 - 8] = array false and 34400 or 984 - 76800; input fX[- 34] end main : chillax end

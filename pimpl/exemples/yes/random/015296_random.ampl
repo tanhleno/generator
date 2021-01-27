@@ -1,0 +1,1 @@
+program jhx0 : xJ5aa : takes Y, a08, H : integer array returns nothing D, nR6, F5, H : integer array; chillax end C : takes j8, W, M, d58 : integer returns nothing pop; do c(6330 = 8, 7, 37700); input t; pop; while 3 : chillax end end u6 : takes k, U : boolean returns boolean chillax end main : chillax end

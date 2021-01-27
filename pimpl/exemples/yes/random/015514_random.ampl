@@ -1,0 +1,1 @@
+program s3 : C88 : takes d, bp5aa, O3 : integer array returns nothing s : integer array; chillax end AU9 : takes aw : integer array; H : integer array returns boolean array chillax end z7 : takes V2f, M, V : boolean returns integer let N = 69; let j0 = 9 end main : when case false / (840) + true : chillax end otherwise : chillax end end

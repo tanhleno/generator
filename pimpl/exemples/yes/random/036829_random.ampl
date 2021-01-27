@@ -1,0 +1,1 @@
+program Y : y6 : takes o4Fa : boolean; k5X0a : integer array; X8M : integer; l, Z, A : integer; S, c : boolean array; XTia, o, F5 : boolean; V : boolean returns boolean array while not 325 and 8 : let r41[789] = array 80 end end qD10a : takes j : integer array returns nothing k_ : boolean array; V : integer array; pop 2 = 3 end main : b1, I : boolean; input s end

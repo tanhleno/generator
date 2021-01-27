@@ -1,0 +1,1 @@
+program e : p2 : takes V : boolean; d, b : integer array returns nothing O : integer; Bs : integer array; do N(true or 4 < 0); do Y1V0(9) end main : ls, s, xTD, I3 : boolean; XnMaa : integer; G : integer; Pa, t, V : boolean; chillax end

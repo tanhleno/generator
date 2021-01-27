@@ -1,0 +1,1 @@
+program hU : main : xoT : integer array; output - (630) = - (084) and 2 - 5 . ""; while - ITe0(7) and(24) and 513 or false - 6 - 5 >= Qjga and 2 + 1170 : chillax end; input C[true or 1]; do T(- 3 - 1 >= 01, 6 = 26) end

@@ -1,0 +1,1 @@
+program e8 : P : takes c : integer returns integer array chillax end main : m79 : boolean array; WPK, uK, O : boolean array; do v(4 > not not 1); do f(- true rem IY + not 3960 and 7, - 9 or 9 - 08); input jEH end

@@ -1,0 +1,1 @@
+program v : E : takes W : boolean returns boolean when case 6 and 498 : do y(3, 4) end case 31500 - 56 <= 4 : pop; do i4(38) end case 2 : chillax end case 0 : pop end end main : when case - not true rem not false >= 3540 / true and 5 + (65900) and 87000 : do l(- 8, 7 = 603); output 332 . "5B0a"; input Yu0a[65] end end

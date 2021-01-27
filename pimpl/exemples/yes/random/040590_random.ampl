@@ -1,0 +1,1 @@
+program GvA : TPN : takes P : boolean array; l : integer; HeO, mVZaa : integer array returns integer Z, d, i3Haa : boolean array; output - 40 - 4 = 7 . 3 = 1 . "S\"!a" . 50; pop end w440a : takes x : integer; gk7 : boolean returns integer array B0E, L9q : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program tp : mA : takes K, b9, z, C45, m, y, s, T820 : boolean returns boolean array F3 : integer; Q, cc : integer array; do n0(- uA4 = 9910 - 5, - 0 - 06, 2340 = 64400, 74400, 97) end U : takes mz3 : boolean array; MA, Fo : boolean; J, i : boolean returns nothing g6, F2N, zlt, p : boolean array; chillax end main : chillax end

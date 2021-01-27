@@ -1,0 +1,1 @@
+program M0qa : y : takes fv, pxK0a, B, n46 : boolean array returns integer array pop; do j(- 2) end main : fC : integer array; v0, D8, ns, gR : boolean; do U((05) and(8) rem true and 99 or(936) / false); do X(- true - not 0 and 6 or 17 /= - false, - false) end

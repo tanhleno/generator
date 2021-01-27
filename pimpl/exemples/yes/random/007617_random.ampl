@@ -1,0 +1,1 @@
+program LU : Ad : takes y, m, X, F : integer array returns integer Y6 : boolean; _71, aFr, Za : integer array; chillax end DTZa : takes d : integer; Y8 : integer; zu4 : boolean array returns boolean array chillax end Ko : takes DT, t, v, BN : integer array returns boolean array r, F5 : integer array; O, I : boolean; chillax end main : y : integer; chillax end

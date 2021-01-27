@@ -1,0 +1,1 @@
+program w5oaa : FQ : takes w : boolean array returns integer chillax end I : takes u82 : boolean array returns boolean array pop; while 22 : chillax end end main : a, X460a, s_ : integer array; pop - 7 <= false and 8 - 2500 end

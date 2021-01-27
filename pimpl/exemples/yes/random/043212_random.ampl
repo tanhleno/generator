@@ -1,0 +1,1 @@
+program k : R : takes g : boolean array returns integer ps0 : boolean array; while - 7280 : output 2 . ""; while 32400 : chillax end; when case 5180 : chillax end; pop end end D1c : takes zz, At, Rv8 : boolean returns nothing S2D : integer array; input fv end main : do M7Ga(not(4) rem 920 and not 978 >= E1[0] + not 0 and 0, C[2] or false >= - not 9 and 86, 1 or 789) end

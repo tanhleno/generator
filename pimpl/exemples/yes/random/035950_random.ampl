@@ -1,0 +1,1 @@
+program AZ6 : Yd : takes D : boolean; B9 : boolean array returns integer u31, Cyh : integer; let RFN0[- not 2 and 9 - 6 - 5] = - 3 - 26500 /= 54; output 4; pop 87600 end main : X3 : integer; chillax end

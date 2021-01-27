@@ -1,0 +1,1 @@
+program eK : main : S : integer; output - not not 9 and not 0370 and 6560 - true and 0 + 3 < 7 . "\""; when case not 4160 * (0) and 7 or false and 86 : output "\n\n0" . "" . ""; do d8E(9, 004); input p; output "\"6!a"; pop end case true >= - 6 - 1 : chillax end case - 69500 - 3230 : chillax end end

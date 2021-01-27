@@ -1,0 +1,1 @@
+program a1 : n3P : takes D8, z02aa : integer array; huQaa : boolean array returns boolean array input k; do o3m(- 71 = 87); when case 2 : chillax end case 2 : chillax end otherwise : pop end end main : y, x2wa, Z5, _ : integer; N6 : boolean; output not 84 . false and 5 end

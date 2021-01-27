@@ -1,0 +1,1 @@
+program s : pT1 : takes Yvi0 : boolean array returns integer chillax end G : takes DX : integer array; u, c4 : boolean array; Jl, N, WSP : boolean returns nothing Np, rp : boolean; chillax end main : S, d, J : boolean; S : integer; do Z((4) / (8), - (7) and 09 and 6 < true - 63 - 78); while - Vk(4) - not 3330 - 66 : input _ end end

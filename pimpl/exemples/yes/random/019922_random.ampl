@@ -1,0 +1,1 @@
+program w : K : takes h, u : boolean array; s : boolean array; T : integer array; a28 : boolean array returns nothing chillax end d : takes q16, u5 : integer returns integer array let d7[8710] = 9 end main : pop true end

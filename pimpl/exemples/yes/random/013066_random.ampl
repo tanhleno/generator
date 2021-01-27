@@ -1,0 +1,1 @@
+program R2n : b : takes S2, lIn, Z1j0 : integer; b, be : integer returns nothing Lr : integer array; do m(false and 2); when case 536 - 76 <= 2 : output ""; while 407 : chillax end end end yL3 : takes a, i, J77, ssP0 : integer returns nothing chillax end main : A26aa : integer; chillax end

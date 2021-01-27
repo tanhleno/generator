@@ -1,0 +1,1 @@
+program s8 : N : takes L, Z47, Eu4 : integer array; _W7, M70a : integer; S, n0, Ce4aa : integer array; K : boolean; L, F, m : integer returns nothing output "\t:a" end main : while(1) * true <= - (8) - false and 50300 - 5 : chillax end; do i8(not not 5 <= - true) end

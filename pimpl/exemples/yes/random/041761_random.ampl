@@ -1,0 +1,1 @@
+program H8l : Mk5aa : takes T : boolean array returns boolean array u : integer; input Y; while - 54 = 5370 : chillax end end main : A81, g, I4, I7 : boolean; G : integer array; A : integer array; m8 : boolean array; LPI : integer array; e : boolean; J : boolean; chillax end

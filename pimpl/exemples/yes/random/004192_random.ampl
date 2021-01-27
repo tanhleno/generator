@@ -1,0 +1,1 @@
+program H : W : takes Z, G180, r, j340a : boolean; d3k0a, i, ny, l, F : boolean; s7 : boolean returns integer chillax end main : u, O2Pa, u9, Z440a : boolean; J, r7maa : integer; FP7 : integer array; input j end

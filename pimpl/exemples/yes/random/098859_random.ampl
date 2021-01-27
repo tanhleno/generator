@@ -1,0 +1,1 @@
+program sk : main : while - true * false or not not 630 + not 5440 or 1 : pop 7 end; when case - true * true > - tk and 0 : do k410a(761) end case true and 974 - 1050 <= - 29100 : pop; pop; output "" end case - 2 - 3 < 07 : input oN_ end otherwise : input MF8[74]; pop; let a = 7800 end; do S(49, - 2 < 9) end

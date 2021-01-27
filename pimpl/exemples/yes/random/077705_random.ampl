@@ -1,0 +1,1 @@
+program X : main : F1, M : integer array; c5wa : integer; S12 : integer array; while - false - (25) * false + 1 - 4 : let N = array 5540; output 9 . 5470 end; output 5 and 03 >= 5 - 45 . ""; let F7[- 80 and 309] = array k or 07 end

@@ -1,0 +1,1 @@
+program G5 : S : takes rxw0, y, b, k, f7, O : integer returns nothing chillax end main : q6, Y : integer; O9p, RL7 : boolean array; I, t, kIlaa : integer; do cU9(- 4 and(06) + not k3 rem(8)); let qU = a; when case true and 1170 + 132 : input Q0S; pop end case - 459 : do n(00) end case 80 = 8 : chillax end case 50300 : pop end case 2 : chillax end otherwise : chillax end; pop end

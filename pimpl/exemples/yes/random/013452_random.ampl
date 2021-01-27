@@ -1,0 +1,1 @@
+program m3kaa : U : takes M, Qt8a, f6 : integer; ACi : integer array; _ : boolean; a : integer; VX, h0, P : boolean array; p2 : integer returns nothing m : boolean; a, M : boolean array; chillax end main : E, B : boolean; A2 : integer; chillax end

@@ -1,0 +1,1 @@
+program m : m19aa : takes x6, KX, a12 : boolean; b : boolean returns nothing dd, k, Xd, c : boolean array; input D[- false] end f : takes H : integer returns nothing output 96 . "" end main : c, L : integer array; a, B : integer array; E18 : integer; output true >= false end

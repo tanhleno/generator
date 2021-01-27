@@ -1,0 +1,1 @@
+program Q4 : d2 : takes D, X : boolean; b : integer; K : integer returns boolean array q, fc : integer array; let o4[l2 and 383] = array not 1 and 793 + 41 - 06; output 870 = 2 . "" . "" . "N\t" end main : chillax end

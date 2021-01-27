@@ -1,0 +1,1 @@
+program E : main : when case not true * not(73) rem not 3 < not 392 rem not 2 and 932 : chillax end otherwise : chillax end; input v; when case true and 9 : output 16900 . "y\n"; pop; while 1 : chillax end end case 256 - 6 : chillax end case 6 = 7 : when case 9 : chillax end end end

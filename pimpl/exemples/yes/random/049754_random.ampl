@@ -1,0 +1,1 @@
+program I : J : takes V : integer; F57, V, W37 : boolean; A, T, P, M : integer array returns nothing pop; when case 066 - 8 = 28 : do Tr(12); while 8940 : chillax end end case 4 : let t = 3; pop end end main : Mn4 : boolean; J7 : boolean array; chillax end

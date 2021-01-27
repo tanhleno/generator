@@ -1,0 +1,1 @@
+program D : w : takes X, d : integer array returns nothing W6 : boolean; z, CW2 : integer; input M[false and 24 - 78]; when case - 21 - 2 : input jT; while 3190 : chillax end end end main : O0 : boolean array; rn : integer array; chillax end

@@ -1,0 +1,1 @@
+program z : v : takes eg : boolean returns nothing EGs, Xo7, r : boolean array; chillax end main : T6Vaa : integer array; when case 77600 or false and ld10a >= - not(00) : output 2; input n[2]; output 90; pop end case not not 5 and not 6 and 0 or false + 1 - 247 = - true : do l2X(3 = 4, 5) end case - false and 1 + 0 : pop 5 end case 1480 - 35 > 51 : chillax end end

@@ -1,0 +1,1 @@
+program f : P : takes RF, UJ80, xVaaa : integer array returns nothing L5Ra : integer; W, DI2 : boolean array; X, u, j1qaa : integer array; j_, G : boolean; Z71 : boolean; input R130[not 2 and 60] end main : J : integer; J : boolean; chillax end

@@ -1,0 +1,1 @@
+program XW : main : Z : boolean array; let Z[(0) and(64500) or(85) rem 6540 and 40700 + not 6 and 3] = array false / T[0] * 2910 and 6 - false * 49 and 6; output 0 + 251 . 5770 = 07; input tK[true and 8 - 3]; input M[- 76 - 6] end

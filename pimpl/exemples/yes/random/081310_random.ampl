@@ -1,0 +1,1 @@
+program L : main : EB : boolean array; x6, _9T : boolean array; m : integer; when case - (8) * 7 + (1) - false = QS(8) and W4 or not 7 and 992 : pop end case(51) * not 264 : let t1 = 86 end otherwise : chillax end; input q[7540 / (0) and 13] end

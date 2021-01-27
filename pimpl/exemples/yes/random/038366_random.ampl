@@ -1,0 +1,1 @@
+program X7ba : L : takes A : boolean array; V60, m4, W : integer array returns nothing C : integer; C : boolean array; output - 3 > 7 . 13600 = 16; while - 1 = 5 : chillax end end main : t : boolean array; do P(570 or 3 * not 691 and 457 - not 8 - 4 - 437) end

@@ -1,0 +1,1 @@
+program y5 : Cf : takes X2V, NY : integer; C18, wI, l7N, J6 : integer returns nothing output "Y" . "I" . "" end z7Na : takes q : boolean returns integer ZW : integer; D : integer; pop 093 = 17; pop; when case 4 : pop end case 0 : chillax end; pop; pop end _Mj0 : takes q2 : boolean returns nothing d, O, D : boolean; chillax end main : chillax end

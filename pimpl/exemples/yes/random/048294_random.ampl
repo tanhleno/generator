@@ -1,0 +1,1 @@
+program f : In : takes H630a : boolean returns nothing m8, eH : integer array; KSd0a, X7 : integer; T, H : integer; D8 : boolean; chillax end R : takes eNFa : integer returns nothing Y : integer; a90, E : boolean; v8 : boolean; output 63600 = 18 . "" . "" end main : input b[- (11 = 2) rem not 7] end

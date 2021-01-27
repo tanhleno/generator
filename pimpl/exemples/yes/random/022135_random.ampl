@@ -1,0 +1,1 @@
+program u74 : E59 : takes T, L : boolean array returns nothing c, q0C, O9Y0a, c8 : boolean; T, J, qZ90, B : boolean array; U3h0a, sc, X : boolean; x : boolean; ZI : boolean; s : boolean; chillax end main : chillax end

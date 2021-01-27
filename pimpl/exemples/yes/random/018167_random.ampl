@@ -1,0 +1,1 @@
+program wj7 : a9 : takes l, X : boolean; T : integer; xJ40a : boolean array returns nothing u2, G : boolean; Y, e6A, oy3, Z8n0 : boolean array; jqra : boolean; H4a : boolean; HE : boolean; when case false and 0 + 4010 : chillax end; do v(5 - 0, 866 = 19300) end main : tNq0 : integer array; q : boolean; chillax end

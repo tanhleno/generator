@@ -1,0 +1,1 @@
+program rNT0 : n : takes Na0 : boolean array returns boolean G : integer; w1, Hht0a : integer; output "78" end P : takes U61 : boolean; h : boolean; KUW0, B : boolean array; I8, m9Raa : boolean returns integer array e6 : integer; do i(58500 - 3, 32, 43) end main : r : integer array; B, g, M : integer array; let C = - 98200 end

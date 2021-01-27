@@ -1,0 +1,1 @@
+program c : B7 : takes ks : integer returns nothing I, g, e18a, iM : integer; chillax end H6 : takes T9 : integer; G, Z, IK : boolean array returns nothing while - 4 - 4 <= 69 : output ""; while 72900 : chillax end end; do l3(5790 = 0, 78700, 59); input Ka5a end main : nh2, by70, j, lTx, Z0, K8 : integer array; B : boolean; chillax end

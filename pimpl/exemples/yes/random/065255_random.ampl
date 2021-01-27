@@ -1,0 +1,1 @@
+program j0 : f : takes f3i0 : integer returns nothing let z = array true and 923 end c : takes Y : integer; T, IU1 : integer returns nothing chillax end f : takes j : integer array; M, n3x : integer; B0 : integer array; x : boolean array returns nothing zf, Hn : boolean array; K, B : boolean; chillax end main : jd : integer array; chillax end

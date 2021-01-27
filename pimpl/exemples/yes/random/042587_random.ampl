@@ -1,0 +1,1 @@
+program ta : w : takes L : boolean array returns integer array vl, R2, hs : integer array; t : boolean; pw : boolean array; output "\t" . "Yjaa" end V : takes y, v5a, P, tP, R : integer; x : boolean array returns nothing chillax end main : chillax end

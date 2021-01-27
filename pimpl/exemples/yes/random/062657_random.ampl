@@ -1,0 +1,1 @@
+program Y7 : J : takes C7 : integer returns boolean when case - false and 5 : when case 13 : chillax end case 23 : chillax end end case 4 : chillax end end main : r : integer; while - not(9) and not 13 / (60) and 26 or 38 rem true + false = 574 rem rG4 and 1 : chillax end; output f end

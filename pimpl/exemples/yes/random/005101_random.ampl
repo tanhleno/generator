@@ -1,0 +1,1 @@
+program j : Dj80a : takes vQ, J, n, Tv8 : boolean array; B : boolean returns integer array rX : integer array; U, eJ : integer; chillax end aV : takes F6 : boolean array returns boolean chillax end main : let I76 = - false or not 2; output "3\na" . "!W!" . 2 = 8 . "9\n" . 0 end

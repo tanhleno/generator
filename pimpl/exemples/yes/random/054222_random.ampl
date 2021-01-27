@@ -1,0 +1,1 @@
+program Q : K : takes kQt0 : integer array; Kw, bG, a1o : integer array; Y030a : boolean array returns nothing B : boolean; do p3(false and 1 > - 9 - 01); input Gp[- 61] end main : Z : boolean; chillax end

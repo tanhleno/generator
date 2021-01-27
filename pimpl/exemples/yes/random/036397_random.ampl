@@ -1,0 +1,1 @@
+program K : Pv : takes UI1 : boolean; m4D0 : integer; V770a, Z, V, P : integer; n, n : integer returns nothing do j(- true or 8, - 0 >= 15, 2210 = 41, 04300); while - 9 - 9 /= 015 : when case 71 : chillax end end; let I[4] = 8 end main : d, NOn : integer; input L[- 83]; when case - (7) * aTQ /= (6150) and 5 or 0 - 16 : do aJF0a(9 = 532, 5) end end

@@ -1,0 +1,1 @@
+program c : b0 : takes EbC, a, f8, e : boolean array returns integer array let I = 62 - 3 end main : dA, q190, vf : integer array; k8 : integer; iJeaa : boolean array; input PK2a; while not 4 * 0 and 4 - false > - false and 32200 + 66400 : output 01 . "" . "." end end

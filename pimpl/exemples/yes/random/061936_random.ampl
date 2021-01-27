@@ -1,0 +1,1 @@
+program P5T0 : l : takes WU : integer returns boolean array O2 : boolean array; chillax end B : takes n : integer; E : boolean array returns boolean array A : integer; output "" end main : aQ30 : boolean array; jA8a : integer array; chillax end

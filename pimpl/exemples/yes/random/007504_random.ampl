@@ -1,0 +1,1 @@
+program o : R : takes _5V, G7, Y, ZM80 : integer array returns integer array chillax end lA : takes S, F62, G : integer array; mN, Z, l, D7Ua, EM, P : integer returns boolean array H9 : boolean array; let Mq5 = 7; let c0 = 9; output "" . "85\"" end main : output - false - true and 5; output "4!" . "k\"\""; pop end

@@ -1,0 +1,1 @@
+program w06 : z4 : takes XEvaa : integer array; l, B : boolean returns boolean do K(- false - 6 - 650 >= - 3, - 8 - 17 = 08, 4 = 71600) end u : takes N, w, V, i, h : boolean; Q1, d26, f, Qz : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program b : R : takes q, W : integer array returns boolean let j[false] = array not 6920; do r5(4 = 69400) end main : pop; while - 6 * wE and 854 : when case 9 = 7710 : while 8 : chillax end; pop end case 4 : pop end otherwise : pop end end end

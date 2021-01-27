@@ -1,0 +1,1 @@
+program t : main : while - 8 / true : pop 5; input Qmh[82]; input qT[7] end; when case true * false > - 1130 and 4 - 48 - 07 : while 28300 : chillax end; pop end otherwise : chillax end; input g[- (080) and 2 + 59 - 79]; while - 0 < 05700 : do _Ws(36); when case 68800 : chillax end end end

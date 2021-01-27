@@ -1,0 +1,1 @@
+program hP : S8 : takes L8 : boolean array returns boolean input x1b0[- (8) and 8500]; input DKJ[2] end o8k0a : takes l : integer; S, EX1 : integer array; P : boolean returns boolean array when case 6 : pop end; input k3p; pop 71 end main : input _dt; when case false * not 32400 and 988 - true + 950 /= (44) and 40 : pop 8 end; pop end

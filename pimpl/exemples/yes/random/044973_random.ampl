@@ -1,0 +1,1 @@
+program l980a : X7y0 : takes a : boolean array returns nothing input FL end kpVa : takes o, aE2 : integer array; i2O0, Wd, J, Pa : boolean array; g : integer array; x, g : boolean array; U, y1Jaa, O : integer array returns integer array chillax end main : M : boolean; chillax end

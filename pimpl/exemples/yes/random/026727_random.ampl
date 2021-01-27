@@ -1,0 +1,1 @@
+program dR4 : X : takes y9, PQ6 : integer; z : integer array; sC : integer array returns nothing output 3 . "V" . 2; when case 525 > 6 : chillax end; do L(4 = 3, 1) end v : takes L07, d9 : integer array; nt : boolean; L1w : boolean array; z0, I21 : boolean array returns integer array when case 0 - 824 = 9 : chillax end; pop end main : f6 : boolean; go : integer array; chillax end

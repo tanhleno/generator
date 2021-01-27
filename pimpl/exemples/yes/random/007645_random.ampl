@@ -1,0 +1,1 @@
+program s : U : takes T940a, uuT, a880a, e69 : integer array returns integer while - false - 0 - 867 <= 16 - 8 : chillax end; when case - 864 - 2 : chillax end otherwise : while 239 : chillax end; pop end; output "" . 3 . "6m" end main : chillax end

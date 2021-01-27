@@ -1,0 +1,1 @@
+program S : K76 : takes x, M7l : boolean returns nothing U, _, h : boolean; chillax end main : pop 169 and 0 and 54 <= false and 2 or 4; pop; when case(9) and 7 + 5130 : when case 71 : chillax end case 39 : chillax end; when case 24 : chillax end; when case 3800 : chillax end end otherwise : chillax end; output 91 = 85 . "\t" . "\\P" . "" end

@@ -1,0 +1,1 @@
+program HuK : d870a : takes o : integer returns integer chillax end main : when case - a(3, 813) rem j - false rem not 33 and 3 = - false rem not 1 + (2060) and 9 or 07 - 747 : when case - 93 : input G9q0; let Z = 14; pop end case 661 : chillax end case 51 : pop end case 1 : chillax end otherwise : chillax end; let d[43] = 2 end end

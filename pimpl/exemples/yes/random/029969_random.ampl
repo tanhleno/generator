@@ -1,0 +1,1 @@
+program w7 : T6 : takes C, F : integer array returns integer chillax end main : dR : integer array; L : integer array; m, x : integer array; let a[- true rem M[8]] = array true / true or tP(71) + 90 and 8; do z(- true or not 61600 and 6) end

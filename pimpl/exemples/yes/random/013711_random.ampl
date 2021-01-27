@@ -1,0 +1,1 @@
+program _ : E0 : takes V, v, oP : integer array; k, Q, h, nY : boolean returns nothing r, X, G, h5f0a, W : integer; input eD end v : takes E9R : integer array; mhy0a, jmKa, P0 : boolean returns boolean chillax end main : d : boolean array; m6, h : boolean; input KJ[- false] end

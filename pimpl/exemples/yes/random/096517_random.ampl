@@ -1,0 +1,1 @@
+program z : main : when case - 8 rem false * true and 896 /= - not true / (62) and 7 + (7) and 76 or 62300 : do G(8 - 7); pop end case - 30 and f31aa and 95 : output 6 . "\nX" end case 9 /= 9 - 21 : let gn1a[7] = array 9; pop; pop; pop end case 0 : chillax end otherwise : when case 6000 : chillax end otherwise : chillax end; pop 9; do V9k(5) end; output "\\" end

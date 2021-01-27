@@ -1,0 +1,1 @@
+program Fn_ : p0jaa : takes f3 : integer; E : integer returns integer array W : boolean array; chillax end l : takes v470 : integer array returns nothing input b[4540] end main : output(4) and(0) and 4 - x >= (3) - 36200 . "3" . ""; pop; do b((2) - 2510 - 43 > 1, - 6 > 68, 16 = 988, 19) end

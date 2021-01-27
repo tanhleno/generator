@@ -1,0 +1,1 @@
+program i : main : EM, qv, q, BA7a, W : boolean; moJ, E550 : boolean; when case - 8 / not 2 : output "" . "" end case - j(0) * (5) and 20 > - true + 57 : while 0 : output ""; pop end; output 3 . "" end case 4 and 24300 - 7 - 7 < - 97 : output 70 . "\n"; pop; let u = 2 end; do G(true = 4 and 3 - 7, E = - 7 - 2, - 8 > 3) end

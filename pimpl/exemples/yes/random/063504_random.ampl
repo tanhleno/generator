@@ -1,0 +1,1 @@
+program P : t : takes C : integer returns integer m : integer array; k : boolean; chillax end main : C, w790, r : integer array; Bo, i : boolean; V1Fa, s3 : boolean array; do oC((8 = 1040) - (108) /= - not w or(1), false /= - not 2, k6 and 6 + 11) end

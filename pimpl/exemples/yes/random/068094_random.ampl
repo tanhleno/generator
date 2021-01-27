@@ -1,0 +1,1 @@
+program a : main : q, c, BG, f, A7, I0, A98 : integer; do I(- not tS90a[24] / (78) * false and 61500 or H or true and 23 + 95 = - (4340) / false + true + 5 - 22600, W rem false and 55 >= - false, (34) or 3 < - 17 - 9) end

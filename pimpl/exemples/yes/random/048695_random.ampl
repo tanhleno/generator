@@ -1,0 +1,1 @@
+program q_C : q : takes v : boolean returns nothing fr : integer array; chillax end r : takes E, UqZaa, V : integer array returns nothing k : boolean array; _ : integer; Wa9 : boolean; input yb; when case 2 = 8810 : do fc1(07100); pop end case 147 : pop end case 9 : chillax end otherwise : chillax end; while 72400 : pop end; pop end main : chillax end

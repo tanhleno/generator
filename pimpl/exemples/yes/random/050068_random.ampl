@@ -1,0 +1,1 @@
+program s : F : takes I : integer; Er20a, A, L : integer; O : integer array; B : boolean array; v : integer array returns nothing chillax end t : takes o : boolean array; L : boolean returns nothing do W(- 36 - 5, 6) end main : d, d, WX5, l : integer array; i : integer array; j : boolean; a : boolean array; when case - 40400 - not not 08 and H : do g7(- 55 = 8) end end

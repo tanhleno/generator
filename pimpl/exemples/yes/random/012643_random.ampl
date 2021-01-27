@@ -1,0 +1,1 @@
+program P : k : takes s, H, f : integer; P, Vt, o3Eaa, G1 : boolean returns nothing when case - true and 00 < - 727 : when case 6 : pop end case 5 : chillax end otherwise : chillax end; do Qh2aa(8); while 5750 : chillax end end; pop end main : chillax end

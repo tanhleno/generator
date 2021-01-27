@@ -1,0 +1,1 @@
+program Q6U : Wa20a : takes t, p : boolean array returns boolean while false and 8 or 87 : pop; let w2 = 6 end; pop 0 = 95 end main : A : integer array; P, N, PV : integer array; when case false * true /= - (8) and true : do Q7(08700, 7 = 8, 6) end otherwise : let G5 = 70 end end

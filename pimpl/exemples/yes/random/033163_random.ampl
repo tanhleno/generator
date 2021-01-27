@@ -1,0 +1,1 @@
+program weV : XVFa : takes m, v : integer returns nothing while - not 03300 and 031 /= 5390 - 0 : chillax end end G : takes Yp, _ : integer array returns boolean when case - 576 : input t; input v; pop end otherwise : chillax end end main : Iy, q, d5 : boolean; N, kH, t3Na : boolean array; v, K6 : boolean array; p, BE : boolean; h : integer array; chillax end

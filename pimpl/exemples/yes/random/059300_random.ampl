@@ -1,0 +1,1 @@
+program u : LB1 : takes v : integer array returns integer V, L : boolean; g7f0a : integer; b : boolean array; w, _ : boolean; rTH0 : boolean; output - 8 - 066 . "84\"a"; output 279; input Yv; input NF; pop; let H3 = 47; pop end main : h, fs : boolean array; chillax end

@@ -1,0 +1,1 @@
+program rpV0 : U : takes g, qI, qm, N1, Y, E : integer returns nothing chillax end Bd2 : takes q060, jG : integer returns nothing input q61 end main : P : boolean; H, z : integer array; while - fP[772] rem G and 74 and 71 - iHua[96] < not 2 or true and 0 - 4 : input _[- 4] end; do AO(true) end

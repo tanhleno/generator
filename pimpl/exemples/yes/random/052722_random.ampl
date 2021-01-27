@@ -1,0 +1,1 @@
+program H69a : a : takes b : integer; g7 : integer array; QWQ0a, Y : integer array returns nothing chillax end main : while - Z[3] * 06 : chillax end; do nz(I(53) * not 71300 and 2, true and 23 or 31500 - 9, 57600 - 49) end

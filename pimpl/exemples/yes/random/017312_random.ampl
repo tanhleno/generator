@@ -1,0 +1,1 @@
+program n6y : P : takes _n, _ : boolean; L, c6 : boolean returns boolean when case - (5) <= - 5 : input jAg; let r = 5 end otherwise : chillax end; when case - 4 : chillax end case 1 = 1840 : chillax end otherwise : output "\n"; pop end; do X5(57 = 916, 3) end main : let L = array - true rem not 5 * true or true or j58aa + 6; do de(true rem not 06 and 8); pop - 6 - 56 end

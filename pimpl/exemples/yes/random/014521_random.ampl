@@ -1,0 +1,1 @@
+program z : r7O : takes z5, J, v6 : integer array; E : integer array returns boolean when case not 4 or 09 /= 7 - 8 : chillax end case 7 < 99100 : let C = 1; do xf(54); pop end; when case - 5 : chillax end case 8 : input d4 end otherwise : output ""; pop end; input n; let V[694] = 2 end main : chillax end

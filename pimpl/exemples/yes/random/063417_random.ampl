@@ -1,0 +1,1 @@
+program x180 : u : takes Q2j : integer returns integer o7, Ksqa : integer array; input TMm[- (09) and 92 or 0 - 9]; do bZCa(- 9 - 1 <= 78, 80100) end wA : takes Y0 : integer array; nqQa : boolean array returns nothing output ""; let Z[34400] = array 29700 end main : let ay = array - 1 and false / not 1430 end

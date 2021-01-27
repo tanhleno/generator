@@ -1,0 +1,1 @@
+program Z : Py : takes GjK, QO, _3e0a : integer returns nothing chillax end A1 : takes p, CHO : integer array returns nothing h : boolean array; chillax end main : while KKo and(30) / (14) and 7 - PM7 >= - Z9(9) rem 5 and 448 or false : input Bx; pop; let VG[02] = array 716 end end

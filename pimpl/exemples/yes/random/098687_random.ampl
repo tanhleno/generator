@@ -1,0 +1,1 @@
+program o : main : while - 192 * not true rem(7) and 60900 + hI[42] rem Q and 772 or(77) or 9 : chillax end; do l610(- false rem(26300) and 00 - not 5 - 66); let o530 = 7230 - 2910; let h6S[- 2 - 8] = array - 11 end

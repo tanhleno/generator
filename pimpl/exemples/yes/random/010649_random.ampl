@@ -1,0 +1,1 @@
+program n5 : G : takes Ma, G, o2 : boolean array returns boolean chillax end tG : takes fh, dB : boolean returns integer _, dxe, J, SA : boolean; while 22 > 45 : chillax end end main : do w(- u(229) and true > 5 - true and 9) end

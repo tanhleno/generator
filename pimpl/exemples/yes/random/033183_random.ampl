@@ -1,0 +1,1 @@
+program x : m : takes XQ, Pt : integer returns nothing while not 7 or 0980 /= - 9 : chillax end; input B; when case 8 : chillax end end ow : takes H, cC, d : boolean array returns boolean array chillax end a : takes E : integer array returns nothing let O1 = 00; do x(03100) end main : input h[- not false and not false / true]; input w; let W[- false and 7] = array not 8 and 3 end

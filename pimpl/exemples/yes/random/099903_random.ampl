@@ -1,0 +1,1 @@
+program t : main : while true : while - 161 - 32500 < 80 : pop; let Y = 3100 end; pop; when case 09700 : pop end end; when case M0K0a[3] / not 9 and 8490 : chillax end case - f5 and 7 - 4 - 2 : while 8 : chillax end; do xD2(7); when case 27 : chillax end end case - 72 = 3960 : let B = 2 end case 87200 = 632 : chillax end case 9800 : pop end otherwise : chillax end end

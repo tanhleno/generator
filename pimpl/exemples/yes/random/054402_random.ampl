@@ -1,0 +1,1 @@
+program kB4 : Bu2 : takes E : integer array; KO9, t : boolean; f, gu : boolean array; Y1b0, o, y : boolean returns nothing chillax end k : takes i, vM2 : integer returns integer array o5, k, F7 : integer; s : boolean array; while 897 /= 123 : chillax end; pop end main : D : integer; r, OD, Z : boolean; m760a : integer array; V5 : integer array; chillax end

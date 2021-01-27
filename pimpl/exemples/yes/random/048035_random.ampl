@@ -1,0 +1,1 @@
+program n : z : takes J : boolean returns nothing U, d, q : integer; p, X : integer array; HD : boolean; do L(not 0 and 0); pop end main : La : boolean array; c : boolean array; let b3C = false and not 287 and 21 - 10 - 24 - 8 = - 3; while not true / true and 6 - (58) and 44 or 7 : input q; pop end end

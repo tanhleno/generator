@@ -1,0 +1,1 @@
+program x8va : main : i, E1, S, O : integer; w8e, e : integer; when case GA(332, 73) or true + (3) = - true rem not 2 and 5 or 38 and 0630 - 07 - 1 : chillax end otherwise : while 8 = 00 : let m = 1 end; pop end; input W50[not(0) and not 38 and 801 + (11600) - 7]; let VP = - 7 <= 0 end

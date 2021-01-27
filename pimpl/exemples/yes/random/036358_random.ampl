@@ -1,0 +1,1 @@
+program s8 : Fe : takes Z3 : boolean; R : boolean returns nothing pop 4 - 6; do Kj2(- 43 - 93100, 31 = 03); do m(6 = 0420, 321, 94); when case 9 : chillax end case 6 : chillax end otherwise : chillax end; let C = 41; do x(46700) end a : takes R : boolean array returns integer array R, EX5aa : integer array; chillax end main : H, Bj, V, M, E7 : boolean array; input H; input v end

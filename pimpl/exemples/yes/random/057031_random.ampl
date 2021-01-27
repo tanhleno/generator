@@ -1,0 +1,1 @@
+program u98 : TS : takes zNN0a : integer array; G : integer array; Lb : integer array; x : integer; EY5aa, V6X, y, a : boolean array; R, u : boolean array returns boolean array input XP9aa; input H910a; pop; output 010 . "-" end main : chillax end

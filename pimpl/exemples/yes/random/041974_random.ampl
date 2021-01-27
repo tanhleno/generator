@@ -1,0 +1,1 @@
+program k : W4w : takes c : boolean array returns boolean chillax end Ej4 : takes u9 : integer array returns nothing J : integer; F8, J, G : boolean; B, c : boolean; u : boolean; output "" . "" end main : C : boolean array; M : integer; input k; let Fib0[(1)] = array Hf * not 32400 end

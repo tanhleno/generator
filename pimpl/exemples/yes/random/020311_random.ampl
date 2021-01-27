@@ -1,0 +1,1 @@
+program qaVa : _98aa : takes V, ETB : boolean array; l0u0a : integer; n6u : boolean array; X : integer array returns nothing Tl : integer array; H : integer; q, P : integer; do o(not 4 and 94, 819 - 76); when case 686 : chillax end otherwise : while 0 : chillax end end end main : x, Y27aa, X, h, Y : integer array; chillax end

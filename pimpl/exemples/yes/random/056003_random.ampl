@@ -1,0 +1,1 @@
+program k : i : takes y42 : integer array; r : boolean array returns boolean array pop 98500 - 17 > 72600; when case - 3580 : chillax end otherwise : chillax end end main : do cV(- 06100 * not 3 * k6Q + not false rem(7) /= - true or true and 2 - 5) end

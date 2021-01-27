@@ -1,0 +1,1 @@
+program mmM : Eyva : takes C0d : integer returns boolean array chillax end LM5 : takes u0, v : boolean returns nothing while - 9 <= 8 : while 9 : chillax end; pop end; pop 14; input s[23]; when case 05100 : chillax end; do _NB(8); pop end main : c85 : integer array; chillax end

@@ -1,0 +1,1 @@
+program zb : C9 : takes DB5a : boolean returns boolean array q, h : boolean array; chillax end main : sgDaa, q, d, PJ : boolean; mH9aa, n, V : boolean array; o : integer array; A, Ig0aa, oOT, j44aa : boolean array; l, c, O : boolean array; while - _o2 : chillax end end

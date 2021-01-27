@@ -1,0 +1,1 @@
+program H : main : do K3(not(68) * true * false and 2 + true - false and 5 - 90100 <= not 2, true < - (6), 2 or 7 = - 3 - 03); do kTc(false, (9350) < 075 - 56); when case - false and 9 = - 6 : output "" . "7@" end otherwise : chillax end end

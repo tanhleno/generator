@@ -1,0 +1,1 @@
+program YpL : l : takes R7C, e670 : integer array returns nothing R : integer; output 795 = 84 . "X" . "G30a" . 25; do qZ(- 2 - 8 < 81) end main : gc9, VO : boolean; QW, g52, U, i : integer; w5e : boolean array; _, V5 : boolean array; NY7aa, e, UL : integer array; chillax end

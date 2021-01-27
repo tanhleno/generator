@@ -1,0 +1,1 @@
+program v : q : takes g_e0, Y, rXja : integer array; o6, x : integer array returns nothing J6, m, x : boolean; X : boolean; chillax end main : d, Da3 : boolean array; let g[- bI1] = not(23) < K and 10 - 4; while - true and(0) or 97 : do w8x(0 = 7) end end

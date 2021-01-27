@@ -1,0 +1,1 @@
+program U : n4 : takes O : integer returns nothing h : integer array; I, S6, u : boolean; when case - v + 690 /= 0 : chillax end case - 7 : let p = 5 end case 1 : pop; pop end otherwise : output ""; let b = 2; pop end; input W[- 8 - 205]; when case 5 = 070 : chillax end case 0 : pop end end main : chillax end

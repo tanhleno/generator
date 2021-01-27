@@ -1,0 +1,1 @@
+program I1 : hs2a : takes F, Nsn0a : integer array returns nothing k6j : boolean; yX : integer; H4 : integer; while true and 3 /= - 47 - 64900 : chillax end end U : takes N9 : integer array; b : boolean; lm, j : boolean returns boolean let r28 = 1 = 5; do ea70(96 = 3); do F(1); output "\nwa"; input c end main : i3 : boolean; chillax end

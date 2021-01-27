@@ -1,0 +1,1 @@
+program fc : p : takes D : integer array; S : boolean returns boolean chillax end P : takes i : boolean; W : integer; e : boolean; KP0a, a0 : boolean; Y : integer array returns boolean array ST, T, a, A : boolean; z0 : integer array; do Y91(- 4 - 9, 1 = 0, 59, 6); while 2 : while 27600 : chillax end; pop end end main : chillax end

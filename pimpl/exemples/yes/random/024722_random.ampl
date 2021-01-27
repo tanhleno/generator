@@ -1,0 +1,1 @@
+program y0 : O : takes x, r : boolean returns nothing let Z[- Wm40 and 38 + 6] = array Pw1 and 42 or 26 - 2; input u8; when case 23 = 1 : when case 746 : chillax end; pop end case 9 : pop end otherwise : pop end end Z : takes O : integer array; Hj : integer returns nothing d, nBx : integer; pop end main : pop - (6) and not 9 end

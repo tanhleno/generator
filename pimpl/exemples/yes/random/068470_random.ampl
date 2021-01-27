@@ -1,0 +1,1 @@
+program j9 : main : V, T, g8D, X, u, tl : boolean array; when case - not false : do a(3620 - 8); when case 0020 : chillax end end otherwise : chillax end; while 31 rem true and 9 + (1) and 4730 - 75 - 486 /= - F38 + 724 - 2 : do L(09); do G(244, 7) end; while not 8 : input D[6]; output ""; input u; pop end; output "" . "j" . "" end

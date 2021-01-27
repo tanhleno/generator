@@ -1,0 +1,1 @@
+program b : main : C8 : boolean array; F : boolean; w, jC4a, f, R : integer; when case - true > true or false : pop; output 6 . "" . "" end otherwise : chillax end; output not 991 and 8 - 0 <= 13 - 0 . ""; when case - false and 06 /= 5 : chillax end end

@@ -1,0 +1,1 @@
+program j : f : takes K, S, N : boolean; Q, cq3a, D41 : integer array returns integer e4 : boolean array; pop; output "5\"a"; input Xp8 end JS : takes a : integer returns nothing V, e, g : boolean; s, Pr, K : boolean; Q8 : boolean; ZIY : boolean; when case - 7 > 42900 : pop end case 07 = 0 : chillax end; pop 4; do N(39) end main : chillax end

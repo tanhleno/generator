@@ -1,0 +1,1 @@
+program B7_0a : g : takes f9y : integer array returns nothing p3Ea, pjR : integer array; S, I74, h2 : boolean; iF : boolean array; output - 8 >= 0 end AZ1a : takes _, P : integer; evw, uC, n6v : integer array; i, lT3 : boolean; Qf : boolean; C : integer array returns nothing A : integer array; pop 1 end main : chillax end

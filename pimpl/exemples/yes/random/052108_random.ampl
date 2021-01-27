@@ -1,0 +1,1 @@
+program o9 : m : takes f5 : integer; q8Xa : boolean returns boolean array chillax end main : i1oaa, v, Ab : integer array; when case - (1) rem 97 * false and 30 - 1 >= (7) / not 2 or(23) and 30 : let J = array - 63 end otherwise : chillax end end

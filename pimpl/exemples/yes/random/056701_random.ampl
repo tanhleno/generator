@@ -1,0 +1,1 @@
+program t : u : takes U : integer array; O : integer; Yx : boolean returns boolean chillax end qS : takes s, VZ, I, T1 : integer array; rZ, G : integer array returns integer array chillax end CI : takes g : integer returns integer chillax end main : j : integer; let Lc[507 + true rem not 77 and 307 + true + 4 - 2] = array - 0 - 47900 * (126) and 9460 - 22 and 922 + 8 end

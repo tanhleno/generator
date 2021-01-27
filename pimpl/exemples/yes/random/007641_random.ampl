@@ -1,0 +1,1 @@
+program r4a : _6 : takes d5, D3R, v, P : integer array returns integer output "K" . 4 = 648 . 62 end main : do L(- (91) * Z(8510) / 7 and 85 or false rem not 27); when case - (94) <= true or 60 - 8 : chillax end end

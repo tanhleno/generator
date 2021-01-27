@@ -1,0 +1,1 @@
+program qR : aG : takes v23 : integer array returns nothing let e = - 122 - 18; do D20(- 66 - 5 > 0); let B = array 0190 end T : takes Lk7, I : boolean returns boolean c : boolean array; output 4 = 3; pop 9 end main : w : boolean; pop end

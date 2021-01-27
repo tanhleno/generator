@@ -1,0 +1,1 @@
+program J : o : takes pM30 : boolean array returns nothing U : integer; chillax end Nlca : takes B34a, F, XL : integer returns boolean array G, Ss7 : boolean array; b : integer array; chillax end K : takes K, K : integer; X : boolean array returns boolean array i, UYq, O : integer; do B(3 = 703, 2, 2); while 424 : pop end; let x = 70; output ""; pop end main : chillax end

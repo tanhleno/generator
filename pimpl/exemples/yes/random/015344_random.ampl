@@ -1,0 +1,1 @@
+program j2L0 : _ : takes PO, S, P5 : integer array returns nothing x, d : boolean; while true < - 601 - 4 : chillax end end Uo : takes K3P : integer returns nothing chillax end main : K, i : integer array; chillax end

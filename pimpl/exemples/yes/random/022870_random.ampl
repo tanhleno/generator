@@ -1,0 +1,1 @@
+program ST : V4 : takes xe, E : boolean returns boolean array chillax end E8 : takes z : integer array; V : integer array; cy1, Gb70a, A, P1 : integer array returns integer vjfaa : boolean; output 8 = 1 . "" . "1" . ""; pop end xv : takes bD : integer returns integer let H[093] = array 00300; when case 09 : chillax end case 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program V8 : y8d0a : takes m, U : integer returns boolean Y7e : integer; z : boolean; f16, M1 : integer; do y(- (8) and 72700); pop 0730; output 1 . "?" . "\n\\!a" end jf1 : takes B, E, V, b, k, UY : boolean returns integer array do f0(4 - 4970) end main : B : integer array; OOg : integer array; input U2_aa end

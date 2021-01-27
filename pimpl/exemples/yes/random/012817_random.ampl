@@ -1,0 +1,1 @@
+program f75a : c0 : takes o, _, d : integer; U6Ea, c : boolean; Z, q : integer returns nothing Z : integer; rc5, s, oXf : integer array; when case Hw7 and 595 : pop end case 04 - 14 : do D(4); output "\\"; pop end; do Pt(5, 1); input D end main : l7k, BF40 : integer array; chillax end

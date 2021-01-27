@@ -1,0 +1,1 @@
+program Zl : M2 : takes Nt9 : boolean array returns integer D9ka : boolean; X4 : integer; chillax end e : takes dd : integer returns nothing c9 : integer; pop 86; pop 1 end main : Q8 : integer array; chillax end

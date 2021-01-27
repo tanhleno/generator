@@ -1,0 +1,1 @@
+program z : N : takes K340a, p, QkW, h : integer array; h69 : boolean; j8, z5 : boolean; A4u, q6, Zt, k : boolean array; u, U39, n : boolean; k980a : boolean array; CzPa, r32 : boolean returns nothing V, ER30a : boolean array; chillax end main : input T end

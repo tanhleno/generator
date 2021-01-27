@@ -1,0 +1,1 @@
+program f : C : takes t : boolean array; em, y, F, A : integer returns integer array chillax end main : pop not true rem 2 and 3 - true and 18 > false; input d; input v3; let g = 1; when case 5 : pop; pop end case 0 : pop end case 34 : chillax end; input g2f end

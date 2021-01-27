@@ -1,0 +1,1 @@
+program q65aa : J : takes Xf8 : boolean array; S, i : boolean returns nothing do k(- D, 7, 52, 6); when case 7 - 65800 >= 1 : chillax end case 0 : pop; pop end case 69 : chillax end case 40 : chillax end end c : takes A : integer returns integer CS3, x, tt9 : integer; chillax end Yo : takes R42a : integer; d : boolean returns boolean pop 4 end main : V0p, V : boolean; chillax end

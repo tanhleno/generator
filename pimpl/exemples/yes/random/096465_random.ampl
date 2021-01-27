@@ -1,0 +1,1 @@
+program h840a : main : when case - 75 >= - 3 rem not 1 and 2 : output "" . 6; while 02 = 24 : chillax end; when case 3 : pop end otherwise : chillax end; when case 4 : chillax end end otherwise : do R(00); let Aw = 4 end end

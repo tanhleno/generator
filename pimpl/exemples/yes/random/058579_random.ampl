@@ -1,0 +1,1 @@
+program G : m : takes drj : integer array returns integer array chillax end GL : takes hj, P, N : boolean; a, X : integer array; J, Z, eW : integer array returns boolean pop end U : takes L500, l7, x : boolean array returns nothing let wM = array 9; let l[24000] = array 7 end main : input a560[true] end

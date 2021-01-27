@@ -1,0 +1,1 @@
+program k8 : main : do B((8) + true rem true and 69 - false and 3); when case(93) or not 560 - 7 - 6 : chillax end otherwise : do _(2930, 885); output "" end; while - not 91 and 6 or 2 - 956 : input e[8880]; while 47 : chillax end; while 61 : chillax end end; input _40aa end

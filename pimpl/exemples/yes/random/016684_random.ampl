@@ -1,0 +1,1 @@
+program Z5n0 : x26a : takes t, l2 : boolean; m, N, P, e300a, H, v : integer; X : integer array; o0, A4i : boolean array; U7 : boolean array; V9 : boolean; PvU, N8 : boolean; t8 : boolean returns boolean array M : boolean; chillax end main : when case 221 - true - not 2 + 20500 - 2 : let Ee = array 7 - 29 end case - b4(2) : pop end end

@@ -1,0 +1,1 @@
+program Y : main : V, c : integer; ocw0a, Y, Q7Ma, c : boolean array; pop; when case true or true and 18 - 32 - 18800 = - bB4 : chillax end case(70) or 6700 - 6 > - 7 : while 066 : pop end; while 03 : chillax end end case 44 - 35 : input i7 end end

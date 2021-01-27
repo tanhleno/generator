@@ -1,0 +1,1 @@
+program _ : S : takes f6Waa, V : integer returns boolean array when case - OX6a and 45 /= 1 - 5 : chillax end case 576 - 439 : pop end case 944 = 2 : output ""; pop end case 4 : pop end case 1 : chillax end; while 1 : chillax end end main : output - 2 rem 90800 and 5 <= - (8) and 7 - 2 - 9; output "\t_" . - 26 . 45 end

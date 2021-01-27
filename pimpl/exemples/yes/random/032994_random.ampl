@@ -1,0 +1,1 @@
+program o : Fg2a : takes x1, v : integer returns nothing input y0[not 5]; pop 7; pop 87 end main : u7, H0Xaa : boolean array; R, Q5n0 : boolean; S : boolean array; output - true * (7) > not 77 + 36 . ""; let K5L = false and 9; input o[false and 338]; input M8[- 9]; do b(278 = 576); output "" . ""; output "\"\"\"" end

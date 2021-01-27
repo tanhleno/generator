@@ -1,0 +1,1 @@
+program cVn : main : f : integer array; Z15, z, KT : integer array; input yK[false * 051 or(7) and 3 and 577 + not 0 and 9 or 5 - 2]; while false <= - true and 02 : chillax end; while - g : output "" . "l" end end

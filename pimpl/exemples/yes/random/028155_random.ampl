@@ -1,0 +1,1 @@
+program U1 : S4J : takes cU4, o : integer array; w : boolean; k5, l5g : boolean returns nothing chillax end main : v4 : boolean; G, Im, qk : integer; j, js, n5Eaa, d : integer; y1N0a : integer array; L : boolean array; XA, u : boolean; WH : boolean; let R_[false + true - (24) + 8] = - false * true + false and 20 end

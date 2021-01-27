@@ -1,0 +1,1 @@
+program _w : j : takes b7, b : integer array returns boolean array P : boolean; do aQ3a(- not 6000 and 6 <= 28 - 615, 02 /= 46, 1) end l : takes gl : integer array returns nothing pop 6 end main : S, k3, Q1 : integer; qq, cZ1 : boolean; t8 : boolean array; o10aa : boolean; chillax end

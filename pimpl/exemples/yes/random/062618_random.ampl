@@ -1,0 +1,1 @@
+program A3taa : K2 : takes Z5 : integer returns boolean let u0[false] = - 0; do Q(692 - 8 > 7); while 51 = 1040 : pop; pop end; output 1; output "" end main : m6K : integer; c, Ao, JV2aa : boolean array; e : integer; when case - 30 : chillax end case 6 = true and 3 : chillax end otherwise : chillax end end

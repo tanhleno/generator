@@ -1,0 +1,1 @@
+program Kb : main : O : integer; pop - true * false and 49 /= - (5) and 62 or 0 - 0; when case - Z : when case 1 : chillax end end case - false : input MP end; while m61aa and 7340 - 251 - 2 /= - 6 : chillax end end

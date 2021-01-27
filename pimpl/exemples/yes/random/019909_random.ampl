@@ -1,0 +1,1 @@
+program d : B : takes X, Wt : boolean array; d9zaa : boolean array; K : integer; v, RQt0a, W, i, U : integer; dB, f : boolean; X : boolean returns nothing pop; let Vs60a = array 88 - 37 end main : pop not _; output "" end

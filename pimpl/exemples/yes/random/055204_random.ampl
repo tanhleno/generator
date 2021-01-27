@@ -1,0 +1,1 @@
+program O : t : takes B1 : integer array; b, d : integer array returns integer array q8, uH8, M400 : integer; let Xa[true and 8 + 0 - 9] = array - (8) and 6 + 73; pop 8 = 9750; while 3 = 6 : chillax end end main : M5, _ : integer array; Tk : integer array; chillax end

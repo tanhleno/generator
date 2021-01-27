@@ -1,0 +1,1 @@
+program Y : T : takes S : boolean; k33 : boolean returns nothing chillax end y1 : takes S : boolean; ud : integer array returns nothing chillax end main : U3x0 : boolean; while - hGta[1860] rem false and Bk00 and 52 : chillax end; while - 98 rem not 2 : chillax end end

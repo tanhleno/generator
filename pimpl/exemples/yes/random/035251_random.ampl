@@ -1,0 +1,1 @@
+program J : w : takes U : boolean; A, e : integer returns nothing chillax end main : while f[225] - not true * X - rX and 9 or 13 - 398 /= not 306 / 48 and 225 + true or 57 : do M(7, 0760, 2350) end; input t1[not false rem false] end

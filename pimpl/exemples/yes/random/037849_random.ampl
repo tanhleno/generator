@@ -1,0 +1,1 @@
+program O13 : WY : takes i : boolean array; x1, zD6, B8, X1 : integer; ZU6 : integer array; q, yQ, i8 : integer returns nothing input Y[- 23400]; when case 7 : pop end otherwise : chillax end; pop 1 end main : F51aa, e, O : boolean; let _t[- true] = - false rem 39 - P + 3 - 8 end

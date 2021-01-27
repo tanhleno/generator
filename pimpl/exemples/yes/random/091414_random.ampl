@@ -1,0 +1,1 @@
+program l : main : let xDo0a[VW[083] and f[89] * true and 3 + not true rem I + (24) and 198 + 1] = array - false / FJ(927); while true + false <= true + 6 - 5 : chillax end; while - C : chillax end; let YX50a[56] = 1 = 2 end

@@ -1,0 +1,1 @@
+program m00a : main : input E[- not not true - not 45 and not 41 or u0 + 9 - 3]; when case not(4) * true and 9 - z and 2 + 4 : chillax end; do b9(u, - 6); do xYj0a(- 3 - 2 >= 280, 2, 0510, 520); let nJ[8190] = 221 end

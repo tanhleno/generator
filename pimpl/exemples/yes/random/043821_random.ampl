@@ -1,0 +1,1 @@
+program z1 : G : takes w : boolean array returns nothing chillax end main : when case - 57 and true : while 4 - 43 <= 9 : let Nswaa = 6; when case 6680 : chillax end end; when case 5 = 18400 : input G8; pop end case 14 : pop end end end

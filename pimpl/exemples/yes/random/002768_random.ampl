@@ -1,0 +1,1 @@
+program D : iid : takes iv, N, N, h20a, ao80 : boolean array returns nothing chillax end main : A2ba, B2S0a, b : integer; Y : boolean; b, R, Z, R, Z4 : integer; output "" . - not 40 and 216 + 1 > 5 - 80 end

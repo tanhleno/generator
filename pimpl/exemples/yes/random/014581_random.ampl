@@ -1,0 +1,1 @@
+program w : m : takes o, jy, I : integer array; ok : integer returns boolean n, z : boolean array; n, rhNaa : integer array; chillax end o : takes RE : integer; wk, NK, x3W0a : integer returns nothing lK : boolean; pop 656 = 4; do I(05 = 51) end main : a, e, I110, X : boolean; chillax end

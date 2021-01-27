@@ -1,0 +1,1 @@
+program _5 : oeq : takes DFe, s : integer; k : integer; xoH, QQVaa : boolean returns integer chillax end yi : takes ct00a, O, A : boolean returns nothing G, Nf : integer array; C0D : boolean; B4 : boolean; d80a : boolean; chillax end main : W : boolean array; s2, n : integer; p, PP : integer array; chillax end

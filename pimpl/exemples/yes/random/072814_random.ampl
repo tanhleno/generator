@@ -1,0 +1,1 @@
+program Qtha : main : x8, G8, e : integer array; H, n_a : integer; ef : boolean; d, j, O : integer; f, b : boolean array; when case - z(55, 05) - 3440 and 49 and 2 + false : chillax end otherwise : chillax end end

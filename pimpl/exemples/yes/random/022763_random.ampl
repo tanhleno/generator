@@ -1,0 +1,1 @@
+program X7 : O : takes O, xm : boolean array returns nothing pop 8 - 568 end b60 : takes G4 : integer; u, P : integer returns nothing qj70 : boolean; i, X7, W : integer; chillax end main : when case false > true - (68) : pop 8 = 22 end otherwise : chillax end; pop; pop 24 <= 5 end

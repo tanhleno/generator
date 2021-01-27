@@ -1,0 +1,1 @@
+program b : S : takes M2x, E24 : boolean; a, G, q, Y, sK1a, I08aa : integer array returns nothing pop; when case - 6 - 2 > 99 : output ""; output "F5" end end main : output true = - true and 3 or 67 . "Y|"; pop end

@@ -1,0 +1,1 @@
+program p5 : main : y9p : integer array; u2 : boolean array; when case - false - true = i6 rem false and 62 - not 2 and 0 : chillax end case true : output "*N\"a" . 27 . "\""; do bG4a(64400, 46000) end case not 3670 and 7 <= 58 : pop end end

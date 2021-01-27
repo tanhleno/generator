@@ -1,0 +1,1 @@
+program f0 : tQ : takes k5 : integer returns nothing do r(- false + 1 - 624 < - 9 - 45300); input Y end main : when case(690) or false : input bZ7[- 96]; pop 37 end; while not(2) rem(7690) and 04 - R and 01 + 52 - 1 : input M_Ua[3] end; when case true = - 71 : input PIy[0] end case 17 : chillax end end

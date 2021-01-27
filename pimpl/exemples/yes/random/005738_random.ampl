@@ -1,0 +1,1 @@
+program r : S68a : takes X9, T, N, S : boolean array returns nothing let OC[257 and 9 + 2 - 4] = array(76) + 04900 - 949; do j(350 <= 7); let Rx[30] = array 0; output 7 end main : D5, p6D, o1c0a, y, _V, v0, i : integer; T, V32a : boolean; input f0[W(13, 6390) / false and(7) - not not 86]; input O; pop - 1 - 84300 >= 9800 end

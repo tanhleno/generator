@@ -1,0 +1,1 @@
+program I : N0 : takes Aj : boolean; WL : integer; B6 : integer array returns nothing F, I : boolean; chillax end main : v : integer array; output - 1 and H > - not 0 and 22; do e7(f[23] * not 9 /= not 3 - 3 - 440, true, 796, 02800 = 4, 737, 0) end

@@ -1,0 +1,1 @@
+program D : be5 : takes Lm : boolean returns integer array vD, l3 : integer array; output - 85 - 85 > 956; while 3490 <= 78 : chillax end end h : takes lQ6 : integer array returns nothing chillax end main : X, L, o5A : integer array; input Y[d[729] - (9) and true and 62] end

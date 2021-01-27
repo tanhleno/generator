@@ -1,0 +1,1 @@
+program z : z : takes h : integer; ra8aa : boolean array; X, e52a : boolean array; N : integer returns nothing v1, J, B, C_x : boolean; L3, E, b, u : integer array; chillax end T : takes pT : boolean array returns nothing chillax end qu : takes d3 : boolean array returns nothing let c[9] = 073; do q(05200, 51) end main : E23, qL : integer; chillax end

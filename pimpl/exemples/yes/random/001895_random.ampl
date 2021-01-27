@@ -1,0 +1,1 @@
+program S : b100a : takes T, R1, A, MU, l, ir : integer array returns integer array when case - true = - 203 - 70 : chillax end otherwise : chillax end end U : takes Yi, V8 : integer array returns integer array chillax end main : F1, w_2a : integer array; chillax end

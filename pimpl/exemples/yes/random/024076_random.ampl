@@ -1,0 +1,1 @@
+program d : Y : takes W, BeG : boolean returns nothing chillax end main : output - 645 . - true and 1 > - 151 . 652 . 104 . "#4!a"; pop 760; when case - true and 0 < 1 - 59 : chillax end case 1 - 306 : chillax end; do a6(7 - 49); when case 3700 = 310 : output ""; pop end end

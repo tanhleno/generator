@@ -1,0 +1,1 @@
+program o8 : a : takes j, k1W : integer returns boolean Q : integer; XK : boolean; s : integer; sd : boolean; A : boolean; do U(false or 595 - 7, 6 /= 1); input T0Y end P : takes K : integer; k1s, t : boolean array; d8j, c, X, j0, r : integer returns boolean chillax end main : chillax end

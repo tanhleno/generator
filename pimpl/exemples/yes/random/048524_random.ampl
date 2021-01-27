@@ -1,0 +1,1 @@
+program Qt70 : aB0aa : takes pF : boolean returns nothing v : boolean array; u : boolean array; input Y4q0 end l : takes ht, hC80a : integer; CP, d1, q5 : boolean; TX80a, W : integer array returns nothing chillax end main : T : integer array; chillax end

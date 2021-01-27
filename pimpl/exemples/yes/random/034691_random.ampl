@@ -1,0 +1,1 @@
+program C : e : takes MGf : boolean; r, e : boolean returns nothing chillax end main : W, UT, K : boolean; M, yc60a : integer; do g7(X(5, 78) < (14) and(217) and 16); do i0(true - true - 80 - 4190, - false and 2540, 92800); input OH[(328) and 6 or 9 - 3] end

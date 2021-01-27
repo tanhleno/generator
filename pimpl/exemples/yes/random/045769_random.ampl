@@ -1,0 +1,1 @@
+program D : k : takes D7R : boolean returns boolean array input S[- not 6 - 15]; output "" . ""; when case 165 : chillax end case 52 : chillax end case 4 : chillax end otherwise : chillax end; do u(75, 0); when case 9 : chillax end; while 65 : chillax end end main : t : boolean array; chillax end

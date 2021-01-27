@@ -1,0 +1,1 @@
+program S750a : s28 : takes S : boolean; Gy, yu : integer array returns boolean array let O[- 229 and 0 + 3350] = array true or 5 end main : output "\n\n\"" . false or 87 < 05 . 77 - 4; while true or 41800 or 2 : chillax end; do aL((935), 1 < 04, 6 = 4170, 39800, 1); pop 4850 end

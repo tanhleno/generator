@@ -1,0 +1,1 @@
+program Ig8 : r : takes Q : boolean array returns nothing chillax end K : takes z, N : integer array; a3e0, eB : boolean array; po, B93, J1e : boolean array; W8, Ee70 : integer array; w6 : boolean array returns boolean while - 44900 - 3 : chillax end; input E[43] end main : chillax end

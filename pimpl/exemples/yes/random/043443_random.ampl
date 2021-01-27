@@ -1,0 +1,1 @@
+program A1Raa : e : takes Y : boolean array returns nothing chillax end O : takes b7, z3, E : boolean array returns boolean chillax end main : output "" . (354) and 7 /= 3 . - 58 - 5 < 5 . "O" . "" . "n" end

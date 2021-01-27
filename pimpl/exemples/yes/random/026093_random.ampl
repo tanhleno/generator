@@ -1,0 +1,1 @@
+program d70a : Rp6 : takes T, R86aa : integer; H5T : boolean; r : integer; b6W : integer array; P, t, K, S : integer array returns boolean iG80a : boolean; chillax end main : hXb0a, g : integer array; chillax end

@@ -1,0 +1,1 @@
+program L72 : Z : takes TU : boolean array returns nothing zN : boolean; when case not 126 and 1 or 4 - 40900 : chillax end case - 6 : chillax end case 9 = 6 : chillax end otherwise : chillax end end t : takes akJ : integer array returns integer t5, B8D0a : integer; c : boolean array; pop end main : while(1 = 40) : chillax end; output MS3 and 19700 . 804 = 62 . "" end

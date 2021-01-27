@@ -1,0 +1,1 @@
+program Rv : R : takes NTla, dN : integer array; k8 : boolean; A9V0a : boolean; Z : integer returns nothing c4X, S : integer array; let aOx = 3 < 9; do ro(- 9 - 415 = 74, 375 = 99, 61); while 8 = 13 : input yQ50; pop end; let k[04] = 1; pop end f : takes G, M3Z, i8_ : boolean returns integer chillax end main : chillax end

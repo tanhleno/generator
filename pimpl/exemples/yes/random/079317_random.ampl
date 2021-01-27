@@ -1,0 +1,1 @@
+program Jn6a : main : FQ : boolean; aQ : boolean array; do BSJ0a(- 5 /= (57200)); output - 7560 and 3 - 99200 - 6850 . "\n"; when case - false - 5 <= 93400 : while 45 : pop end end case 019 - 30 : chillax end end

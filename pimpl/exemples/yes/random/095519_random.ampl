@@ -1,0 +1,1 @@
+program K : main : when case(11 = 730) or 46 / true and 04 = (4) and(6) and 9 - (0) and 673 : input _4; input n0T0a[2] end case not(07) - false = 32 and 4 + 1 - 0 : chillax end otherwise : chillax end end

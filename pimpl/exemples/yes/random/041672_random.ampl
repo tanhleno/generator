@@ -1,0 +1,1 @@
+program wQ : g3Ga : takes M : boolean array returns boolean array C, N : integer array; do gRb0(- not 6 and 03500 - 638 /= - 0) end M0 : takes SX5a, T, r9, g9 : integer array; W, d, Pl : boolean array; B4 : integer; g : boolean array returns boolean q30 : integer array; chillax end main : chillax end

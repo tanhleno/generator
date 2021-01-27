@@ -1,0 +1,1 @@
+program i : main : AN, H, o, F080 : integer array; C4v, i : integer array; when case 3 - not(8) rem true and 732 : while 544 - 8 : chillax end; when case 3 : input Ai2; pop end case 9 : pop end end end

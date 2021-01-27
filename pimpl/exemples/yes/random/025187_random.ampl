@@ -1,0 +1,1 @@
+program D : d1 : takes yAp0, T : integer; I, UO, K : boolean; kl : integer returns nothing c, y, k, t, pI : integer array; while - false and 3 : pop 0 end end main : input k38aa[t9 * 41 or(3) / (623) and 699] end

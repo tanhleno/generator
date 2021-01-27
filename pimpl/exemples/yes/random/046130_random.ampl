@@ -1,0 +1,1 @@
+program rV : Y : takes z3B : boolean returns boolean I, s : boolean array; chillax end main : while - not(3610) and false : let Q[2 - 9] = 4; when case 4 = 17 : when case 13 : chillax end end; output "\n" end end

@@ -1,0 +1,1 @@
+program c : Y : takes n1, _650a : boolean returns nothing B, e, _ : boolean; r5, e, y0x, Q : integer; pop 8 - 1 end l : takes B50aa : boolean returns integer sdy, p, rR3a : integer array; C4 : integer; do Ezw(0 < 4600, 9) end main : chillax end

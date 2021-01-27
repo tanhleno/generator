@@ -1,0 +1,1 @@
+program e2s : ud70a : takes p, igV : integer; b4 : integer; l, r : integer array; Ok, F : boolean; R, Xb, D, I2v : boolean returns nothing while 2890 and 76 - 1 - 0 /= - 5 : chillax end end HY40 : takes R8, e : boolean returns integer chillax end main : P, n : integer array; chillax end

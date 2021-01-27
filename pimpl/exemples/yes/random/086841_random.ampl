@@ -1,0 +1,1 @@
+program q : main : G6la : integer array; l03 : integer array; _, s : integer array; do n0(- (675 = 47) < true * not 540 and 2, (296) + false >= - not 3510); while - true and 37 < - D and 1 : when case 1 = 5 : chillax end otherwise : chillax end end; input kVm[(433) and 03 - 3]; pop end

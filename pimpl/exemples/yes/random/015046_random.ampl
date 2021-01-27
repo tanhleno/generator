@@ -1,0 +1,1 @@
+program f : k : takes Uno, S8, R : integer array returns integer BT8aa, m, f : integer array; q4 : integer array; i3t0a : integer array; chillax end main : let pR = t / true < true; let F = array - 1 - 1 and 8 or 2 end

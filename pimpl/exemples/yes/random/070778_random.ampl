@@ -1,0 +1,1 @@
+program w6W : main : N, sG8, iA : boolean; N, Q, M, Y : integer array; U : integer; let XR[- true / not(8) rem(97) and 58] = array - 92400 and false rem(5560) and 11100 + true * I and 2 + false and 00 or 25 - 28; do X(- V[0] > not 052 and 72, - a - 2) end

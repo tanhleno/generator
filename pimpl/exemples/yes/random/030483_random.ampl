@@ -1,0 +1,1 @@
+program uMj : O : takes tp1, e : integer array returns nothing p, I2, Jc, q : boolean array; N, Ix, yA, h : boolean array; XK, cA : boolean array; chillax end main : Xp8, X : integer; do Zn(- (99 = 83600) - 7 rem not 2450 > false or(356) and 0 + 42, - (461) * true and 6 + (3) and 673 or 27 - 7 = (26) and 8, - M and 8 or 63400 - 68, 780 - 90, 6) end

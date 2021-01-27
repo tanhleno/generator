@@ -1,0 +1,1 @@
+program i : main : input C[- 86 * tH40a[274] - 362]; input H[- true + not 3]; let Q7W[4] = - 3 - 4 > 36; do P3(- 3, 8, 16, 131); input Pz8[3]; when case 486 : chillax end case 24900 : chillax end end

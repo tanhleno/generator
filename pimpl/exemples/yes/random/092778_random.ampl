@@ -1,0 +1,1 @@
+program u : main : output 2 / 66 or(029) < - z; when case - 7 rem true : pop; when case 0 : chillax end case 6580 : chillax end otherwise : chillax end end case 9 and 4830 : output 838 end; pop 49900 - 12 end

@@ -1,0 +1,1 @@
+program NDhaa : OK : takes A, f : boolean array; QO0, p, d, t, I : boolean array; W, M, n, ihz, n, F : integer array returns integer array pop 1 /= 6; input U end main : do W(- (167) >= false, 8 and 7 and 60 < 08, - false - 1 - 3060); pop true and 55 end

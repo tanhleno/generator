@@ -1,0 +1,1 @@
+program l : Q : takes O : integer array returns nothing chillax end F5 : takes _ : boolean returns boolean array chillax end main : Rt, O, ZHmaa, U3 : boolean; while false * z[84] * (7) and 6990 + 6 or not 9 and 5 + 760 - 2 > - true rem H2n and 294 + false + 7 - 3 : chillax end end

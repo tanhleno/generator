@@ -1,0 +1,1 @@
+program S9 : t7 : takes C, i32, F, n : boolean returns nothing m8 : integer array; Z79 : boolean; chillax end main : when case - true - not(87700) / (6080) + not 4 - 52 - 3 <= (6) and(0) and 81 + 4 and 2 : do Z(06) end case not Zd - 7 and 12 < (1) and 7 or 4560 : chillax end case - K3 and 4 or 3 <= 758 - 647 : chillax end; let Z[true + true] = - lB and 10 < 72600 - 2 end

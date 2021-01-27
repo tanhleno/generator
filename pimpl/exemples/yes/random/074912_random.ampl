@@ -1,0 +1,1 @@
+program sX : main : V, x3Maa : boolean array; G, Grg0 : integer; output - true and 8 and 35 = - true or 3 - 25 . not 9160 - 5 . - 9; do z(true rem(3) and 4 or(6) and 5 + 3 > - (0) and 47 or 357, - not 09 or 428 - 6 = 225, 640 >= 18300); input TH end

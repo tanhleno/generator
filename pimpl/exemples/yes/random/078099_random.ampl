@@ -1,0 +1,1 @@
+program _ : main : I, fh : integer array; when case - true / not not 6050 and(8) and 3 or not 8 = 4 * v and 9 - It and 1 : let s = array - 9 - 0 end; pop false or 6 <= 411; do Vt0(- j and 2 - 4); pop 1 end

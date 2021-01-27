@@ -1,0 +1,1 @@
+program N : J : takes j720a, Dp3 : boolean returns nothing chillax end y : takes a, i : integer; G, a : boolean array; E : integer returns boolean array while 32 = 1 : chillax end; while 0 : chillax end; let F4L0[67] = 27 end main : chillax end

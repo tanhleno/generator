@@ -1,0 +1,1 @@
+program C : i64a : takes k : boolean array; c : boolean; v, V : integer; Y : integer array returns nothing Bw, l, LJ, Kw, d6 : integer array; vfdaa : boolean; P9, H22 : boolean array; ZW, O : boolean; J0 : boolean; chillax end F : takes I, T4e0a, n2L, Y : boolean returns nothing do l(57700) end main : p : integer array; input h[- 578]; pop - (6) and 5 = - 46 end

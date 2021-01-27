@@ -1,0 +1,1 @@
+program Mh3a : n520 : takes c5L : boolean array; E, Zr, Ph : boolean returns nothing output 7 - 0 /= 92 . "8" . ""; input a; pop 7; when case 4 : pop end otherwise : chillax end end main : output "00"; pop 9 and 653 + 87 > 09 end

@@ -1,0 +1,1 @@
+program r : xpS : takes c49 : boolean array returns nothing pop 34200 <= 8; do n2(54 - 0 <= 71); when case 2 = 038 : do J(53) end otherwise : chillax end end main : when case - G70 <= - false : chillax end case false / k and 7 + 3 or 72 : chillax end; while - true - L6 : while 3 = 44 : input e end end end

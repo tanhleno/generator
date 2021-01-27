@@ -1,0 +1,1 @@
+program T4 : gx : takes B : boolean returns boolean do _(- O and 0450, - 18 - 5 < 4); when case 26 - 2250 < 82100 : when case 2 : chillax end end case 91 = 8 : chillax end case 0970 : pop end end yPD : takes kE1, ZC, Xe3 : integer array returns nothing t5, T : boolean array; _180 : integer array; a7, Zx : boolean; output "" . "|\t\"a" . "" . "" end main : chillax end

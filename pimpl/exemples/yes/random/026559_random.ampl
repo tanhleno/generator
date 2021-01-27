@@ -1,0 +1,1 @@
+program e : M7 : takes J9, J : integer; K : integer; Bg4 : boolean returns boolean array j460 : integer; when case - false : let p8[05] = 21 end case - 40 - 1 >= 66600 : do i9(5); do a01(2) end otherwise : do b(83); pop end end main : d : integer array; Pv : integer; input fh end

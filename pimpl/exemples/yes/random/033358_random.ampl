@@ -1,0 +1,1 @@
+program l : x : takes ZVp : boolean; x, V, h5Q, v, ZnDa : boolean array returns boolean C, T5I : boolean array; chillax end main : B9 : integer array; while - false rem not F / (8) and 0 <= false - false and 60 : chillax end; output "\t"; let Gk[- false and 72 + 86 - 12] = array - 60 + 0; pop; do m30a(657 = 1, 9) end

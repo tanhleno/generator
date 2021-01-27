@@ -1,0 +1,1 @@
+program xeN : R : takes x, x : integer array; tZ, Y : integer array; V : integer array; Npk0, X1 : boolean; u : integer; h : boolean array returns nothing N2 : boolean; let V3 = 6 - 38; pop 1 end main : chillax end

@@ -1,0 +1,1 @@
+program ab7a : kjAa : takes SN, a : integer; U : integer; v : integer returns nothing M : integer; Lv9 : boolean array; ff9 : integer; input l71[(6)]; while - 04300 : chillax end; do O(7 = 852) end t7 : takes G, Q : integer array returns nothing chillax end C7P0 : takes x : boolean array returns nothing chillax end main : k4 : boolean array; DO : integer array; chillax end

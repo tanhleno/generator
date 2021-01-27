@@ -1,0 +1,1 @@
+program b : main : bESaa : integer; fM : integer; f : integer array; f19, tc80 : boolean array; D : integer array; while(9) and 55500 and EV and 9 - Z rem not 4450 and 67 + 22700 and 6 + 60 : chillax end; when case - not 3 rem(75) and 19 : chillax end otherwise : chillax end; pop end

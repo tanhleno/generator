@@ -1,0 +1,1 @@
+program p : main : Z_ : integer array; F, E7, O9v : integer array; f : boolean array; Mfw0a, f, T : integer array; output 601 - 370 and 5 . "61\""; while - t rem S /= - true and 0430 - 49 - 7 : pop 92800; pop 10 end; do e4(true, - 0 - 43800 >= 4, 10) end

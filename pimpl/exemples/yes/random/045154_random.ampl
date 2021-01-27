@@ -1,0 +1,1 @@
+program q70 : Q : takes d1 : boolean array returns nothing pop; do v(- 0 <= 128); let i4 = array 18 end r2 : takes f, eK, v0Gaa : boolean array; P : integer returns nothing chillax end main : vV : boolean array; let I = - false < - false; do wi10a(- not false, false and 78 - 19 - 2 <= - 56 - 0, - 1, 52300) end

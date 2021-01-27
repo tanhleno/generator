@@ -1,0 +1,1 @@
+program v : J : takes A6M : boolean array; WP60 : integer returns boolean input _ end Ca : takes G, BBg : integer array; q, QOq : integer array; I : integer; K : boolean array; R : integer array returns nothing P : boolean; chillax end main : output "\tj\"a" . - false and 5030 or 60 . "" . "8" end

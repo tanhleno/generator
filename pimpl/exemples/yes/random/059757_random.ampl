@@ -1,0 +1,1 @@
+program l : r : takes Poh : integer array returns nothing chillax end r : takes M9, _DTaa : integer array returns nothing output 042 end main : K : boolean array; do r9Y(- ZB rem W[3] / false, - (3) or(82) or 53 - 55, 48300 /= - 6, 8 > 34, 7); output "" end

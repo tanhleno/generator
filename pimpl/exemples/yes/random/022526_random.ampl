@@ -1,0 +1,1 @@
+program E : f6 : takes c, f : boolean array returns nothing y4 : integer; P : boolean; ito0 : integer array; when case false and 05 or 29 : let Ho[97] = array 810; when case 07 : chillax end end case - 2 - 8 > 630 : chillax end case 640 : chillax end end main : input I[- 2 rem dP(56)] end

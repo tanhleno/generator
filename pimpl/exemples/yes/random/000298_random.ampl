@@ -1,0 +1,1 @@
+program Fe : HQ0aa : takes C, y5, o000, w, V, I5ea, RA, kzQ : integer; O, _, T, h : boolean array; Sf9, k : integer returns nothing B : boolean; do p(false and 7 <= - 5 - 786) end main : output - G9 rem 31 and 7 - Mm2 - 626 - 61900 . ""; do kE(- false and KK and 18, false + 4 /= - 54); when case - true and 26300 - 2 : do SZ(0, 4) end otherwise : chillax end; input n end

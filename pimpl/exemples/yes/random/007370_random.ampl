@@ -1,0 +1,1 @@
+program L6 : c : takes Z, h5ca, Nv, Cb : integer array returns boolean array chillax end _P3 : takes SxV0, W, YJ : boolean array; e0 : boolean; icZ : boolean array returns integer array q : integer; chillax end main : v81 : integer array; M : boolean; LE : boolean array; X2 : boolean; KV3a : integer; P05 : boolean; pop - 281 end

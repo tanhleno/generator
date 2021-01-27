@@ -1,0 +1,1 @@
+program B : main : x : integer array; while - false - true - oU6 and 04 - 2 - 286 > G0[7] : input D end; when case g0[523] and 8800 and 7 - (63100) and 85 or 0 : pop; when case 9 : chillax end end case false and 55 - 2 > 9 - 34700 : let p = array 8; let K = 97; let kR = 72; pop end case 0 : chillax end case 4 : chillax end end

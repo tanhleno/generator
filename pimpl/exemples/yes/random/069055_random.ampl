@@ -1,0 +1,1 @@
+program o : main : ba, D6yaa, Z, r, t : integer; R3, C_ : integer; ow90 : integer array; v2, u52aa : boolean; P, mI : integer array; z, y : boolean; tQS0 : boolean; when case - B9 * not 0 and false and 5 : chillax end otherwise : output 1 end; do s6(- (069) * true and 6 < - not 4 and 3 or 63 - 599); do G(- true and 00 + 0270, - 3) end

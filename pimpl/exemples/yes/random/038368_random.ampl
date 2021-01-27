@@ -1,0 +1,1 @@
+program jAV0a : G : takes a : boolean array; Q, b1, S : integer array returns nothing input F; let sNg[1450 - 78300] = array 7 - 98; input Rt7[4]; output "Z;" . "" end main : do M22(- o and false <= - (4) + (5) and 7 + 8 - 9, not true + true and 8 < true) end

@@ -1,0 +1,1 @@
+program XU : q : takes Q, j47a : integer array returns boolean array do X(not 8 and 30, 8 - 04, 170 = 45); when case 9 - 09600 < 4500 : chillax end otherwise : while 200 : chillax end end; while 7 : do d4(15); pop end; let RQf[4] = array 8; while 0 : chillax end end main : P8 : boolean array; chillax end

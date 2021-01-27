@@ -1,0 +1,1 @@
+program v : Wi : takes fe, I, nm : integer returns nothing do KR4aa(- (8) and 1 - 35) end J7d0 : takes de : integer; PC : integer array; J4paa : boolean; OL : integer array; YWDa, i : boolean returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program M : _aQ0 : takes r, h : boolean array returns nothing AjVa, PR, g : integer array; p2 : integer array; chillax end main : e : boolean; input a6w0[- true + 583 rem true and 9]; do S4oa((4) and not 2); when case - (8) : chillax end case - 45 - 9 <= 4 : input E8 end case 49 : chillax end case 13 : pop end; input Rvu[- 77 - 1] end

@@ -1,0 +1,1 @@
+program h : h : takes p, pH : integer array returns integer array let E[false and 38] = - 2 = 7 end main : nQ70, N, g : boolean array; T, q, UO : boolean array; output "" . (74) and 9 or 0 - 2990 /= 54 . - 04 - 0 > 66200 end

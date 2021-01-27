@@ -1,0 +1,1 @@
+program y : main : when case - not true = true rem true or not 083 : let J8fa = array 928; when case 3 = 800 : chillax end otherwise : chillax end end otherwise : chillax end; input PNb[- (4) and true and 6920 or(9) and 74]; while - y and 12 : pop; do wY10(293); output "4"; pop end; when case 4 - 71100 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Y : t : takes J : boolean array returns nothing I, w, l, Ow6, x : boolean array; chillax end main : D8 : boolean array; Q, u, X : boolean; l, X, zCI0, R, P : integer array; P, K, h : boolean array; Q : integer array; h : boolean; input E[- false or not eR rem not 0] end

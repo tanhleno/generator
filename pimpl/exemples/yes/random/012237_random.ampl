@@ -1,0 +1,1 @@
+program M : vFra : takes E, g, _z : boolean returns nothing qJ1, d : boolean; D : integer; L0, j7, c : boolean array; chillax end main : q : integer; output 75 / true or 82600 and 0 + 45000 = - false and 81 end

@@ -1,0 +1,1 @@
+program Qa60 : Ix : takes N : boolean array; V4 : boolean array returns nothing pop - 8230 = 25; let QoP[399] = array - 0 - 7; pop; input Ul40a[79]; do h(19) end main : qnT, B : boolean array; chillax end

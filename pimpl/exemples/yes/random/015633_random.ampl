@@ -1,0 +1,1 @@
+program h : q : takes g, V, z : integer array returns nothing while 7 and 59 or 861 - 54 = 5 - 13 : chillax end end main : let S = array - (3 = 8) + false / true and 6; input A; while iO + 21 - 299 > - 16 : output 9 . "{" end; when case 09 : while 89 : chillax end end case 58700 : chillax end otherwise : do y(5); pop end; pop 264; let VR1aa = 77 end

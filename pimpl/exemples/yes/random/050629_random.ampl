@@ -1,0 +1,1 @@
+program V9 : ON : takes Z : integer; Pcj, C : boolean array returns nothing YO, M, N5 : boolean; chillax end d : takes X_, z : boolean array; r : boolean array returns nothing chillax end main : output - not 512 - true and 6 end

@@ -1,0 +1,1 @@
+program m : main : vF, _q, N6 : boolean array; pop - 86 - not 28 /= - false and 27; input be; when case not 6 and 51 <= - 3 - 11 : chillax end case 4 - 8 > 48 : chillax end case 84 = 7 : while 0 : chillax end; pop end case 2 : pop end case 4 : chillax end end

@@ -1,0 +1,1 @@
+program xGX : m : takes P9 : boolean array; T7 : integer array; C : integer; X : boolean array returns nothing output - 897 . "" . 99500; pop 236; pop 30 end T : takes Q, ft60a, l5K, r : boolean array; H, e, H46a, r, N : integer returns boolean Rc, C, L7 : integer; xl : boolean array; Lx70a : boolean; j05a : boolean; chillax end main : chillax end

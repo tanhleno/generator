@@ -1,0 +1,1 @@
+program S5 : main : while true < (6) + not 4 and 72300 or 47 : chillax end; while - false and K and 7 or 29 /= (9) and 5 or 2 : while 1 : chillax end end; do Y(- (74100) /= 3 - 1, 32 >= 5, 3380, 9); while - 0 - 092 : chillax end; input r[1]; pop 37 end

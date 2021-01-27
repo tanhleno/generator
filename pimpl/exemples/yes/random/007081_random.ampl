@@ -1,0 +1,1 @@
+program h : C : takes V4K, y, W6, O7 : integer array; G, o0 : integer returns boolean array chillax end F2 : takes zb0 : integer array returns boolean array output 3120 = 0; do Q(1 = 0, 6); input m end main : h, P : boolean; oh, l130, h, K, w : integer; chillax end

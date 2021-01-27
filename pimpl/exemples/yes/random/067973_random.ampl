@@ -1,0 +1,1 @@
+program m : main : _XMa, uj, xvk0a, i, g, Q, k : boolean; z1 : boolean; g3, r : integer array; do Nm(true rem false or 2 >= false rem 79900 and 6); do M(not(731) * false and 085 - 560 - 405 >= 0 and 6 + 9 - 0, t7 and 3200 + 6 - 1590 = - 93) end

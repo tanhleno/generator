@@ -1,0 +1,1 @@
+program uH : D9 : takes Q5, Eor, t, D, fK : boolean array; An7, q51aa, m : boolean array returns integer array D, a9h, H1E : integer; while - 6110 or 2 = - 9 - 2 : chillax end end main : while(6 = 5) * 306 rem H1 - (7) / Q9 < (676) - xd - 3 - 19 : chillax end end

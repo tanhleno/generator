@@ -1,0 +1,1 @@
+program m : Fh : takes wo6a, R, f, W : boolean array; G, b, W : boolean array; Y, D : integer returns nothing n, h1 : integer; while - (1) : input BW[2]; let TV = 5; output "" end end main : do VF0a(- false - 24 + not 53400 and 1 - 1, - (8) / t4 - true) end

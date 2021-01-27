@@ -1,0 +1,1 @@
+program WG : S : takes VSCa : integer array; p : integer; I8 : boolean array returns boolean do q(y, 17800 = 08); let YO[8] = array 3 - 3 end v7 : takes I_maa, G, s, Z : boolean array returns boolean array Q0 : boolean array; _J1, F9, a5 : boolean array; chillax end main : j : boolean; c : boolean array; do J1(- (1) and not w45 / (748) > - xV rem not 00 and 6 or false) end

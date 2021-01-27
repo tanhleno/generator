@@ -1,0 +1,1 @@
+program b : main : E7 : integer; output ""; pop; when case true and 10 or 428 - 30 : output 4; when case 0 : chillax end; let N48aa = 15 end case 060 = 4 : while 7900 : chillax end; input t61 end otherwise : let w = 4 end; while - 0 - 5 = 41 : when case 28 : chillax end; pop end end

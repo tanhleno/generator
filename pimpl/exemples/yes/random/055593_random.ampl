@@ -1,0 +1,1 @@
+program P : O : takes G : integer array; zs : boolean; d, V : integer returns nothing f, M, O, H, GYC : boolean array; r67aa, w70a : boolean array; RMya, P, V2Zaa : boolean; W : boolean; PA : boolean; pop end main : pop; when case(1) and r58 and 15900 >= not 5 : chillax end otherwise : while 60 : chillax end end end

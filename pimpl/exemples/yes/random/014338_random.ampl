@@ -1,0 +1,1 @@
+program G : YF8 : takes p3, QM, E9 : integer array; e : boolean returns integer array S, K, d : integer; Z, FK8 : boolean; z : boolean array; O9 : boolean; g : boolean; q7Q : boolean; chillax end main : s, A : integer; e, i, N3, y6Uaa, Zr, y70 : boolean array; chillax end

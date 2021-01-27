@@ -1,0 +1,1 @@
+program H : FL6 : takes G, o : integer; H, m3, x : boolean returns nothing H, Q8 : integer array; q : integer array; input D4g0a; let t = array 8 end main : t : integer; N, Q, w, D2T : integer array; y, C : boolean; input C; output ""; input O end

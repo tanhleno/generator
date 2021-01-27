@@ -1,0 +1,1 @@
+program zH : X : takes p, o, S, Ud, M, d650, SM5, Fb : integer; L : boolean; P, kaH, e : boolean array returns boolean array while EMK and 7710 - 0 - 09 = 02 - 2 : chillax end; while - 0 = 72 : chillax end end w09 : takes A, B7, j : boolean array; T : integer array returns boolean input mq[- 26] end main : chillax end

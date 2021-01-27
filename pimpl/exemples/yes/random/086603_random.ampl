@@ -1,0 +1,1 @@
+program RK : main : r0 : integer array; f : boolean array; when case - not(598) and H9q0a(52) and 0 and 41 + true * 7140 and 503 or not 9420 and 74 or 82 - 4 : chillax end; let P[- false * 567] = - (123) and 15000 or 25 - 23 /= 71 end

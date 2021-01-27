@@ -1,0 +1,1 @@
+program Eu_ : main : I, g, H3 : integer; p, d, U, C2 : integer; do f(- false and y2m); output - not 16 and 0 = - 5; do FKp(false and 0); let mA20[- 33] = 4; when case 7 = 37 : chillax end otherwise : pop end end

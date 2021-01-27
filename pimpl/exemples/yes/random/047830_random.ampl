@@ -1,0 +1,1 @@
+program u : Xc : takes OX : boolean returns nothing do e58(TT and 1 >= 292, 975 = 2310, 1 = 622); output "|" end N : takes ck : integer array; s : boolean returns nothing while 87 : chillax end end K7 : takes C7 : boolean; J, K, d5R, Uj7 : integer returns boolean E : integer; chillax end main : X : integer; chillax end

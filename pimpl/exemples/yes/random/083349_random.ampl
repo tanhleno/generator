@@ -1,0 +1,1 @@
+program G : main : i : integer; z, WDfaa, K9 : boolean array; Wc, Z, e17, _9, yYG : integer array; vg4aa : boolean array; output - not true > - false + 9 . 0930 and 37600 - 2880 . - 9 - 26 . "" . "" . "" end

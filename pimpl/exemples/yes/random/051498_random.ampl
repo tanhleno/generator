@@ -1,0 +1,1 @@
+program I : B6 : takes UW : integer; _ : boolean; dR : boolean returns nothing BP : integer; e8, S : boolean array; while - true > 3 - 20 : chillax end end ma2a : takes SGy0a : boolean returns nothing while - 73 - 0 < 0 : chillax end; output 204; output "" . ""; while 1 : chillax end; do M0oaa(7) end main : chillax end

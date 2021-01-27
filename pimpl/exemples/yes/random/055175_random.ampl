@@ -1,0 +1,1 @@
+program X : v67a : takes U : integer array; E, jr : integer array returns boolean array S2W : boolean array; output - 7 - 0 < 0 . "" end A1E : takes _f, N5E : boolean array returns nothing bX, HMw0a, R650a : boolean array; h : boolean; N2_0a, Z7 : boolean; output "" . "" end main : A, Z, x4a, O1g : boolean array; _ : integer; QR : integer array; chillax end

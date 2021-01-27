@@ -1,0 +1,1 @@
+program j : k : takes L0s : integer returns boolean when case 473 : chillax end case - 72700 : when case 72 : chillax end; when case 1 : chillax end end end main : E1ka : boolean; Z73 : boolean; T : integer; J : integer array; d, o : boolean array; let QB[53 and(91) or not true - true and 5 or 8 - 8] = - 930 or true <= (24) end

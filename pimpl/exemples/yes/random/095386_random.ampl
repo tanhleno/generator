@@ -1,0 +1,1 @@
+program b0z : main : when case(6) - true * (33) and 31 = - v0(4) or 56300 - 7 : chillax end case 6 and 64 and 1 + false > true : let j[41500] = 575 end; input G8[- not UK]; input m0; when case - 5 - 35 : output "" end case 3 = 2 : when case 42 : chillax end end case 64 : pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program o : K : takes F : boolean; a : integer array; w : boolean array returns boolean when case not 68 and 36 + 9 /= 9 : chillax end; output 351 = 0 . "\\?" . "L\na"; do X(4 = 1); pop; while 39 : chillax end; pop end main : pop; pop - not 92 and 8 or 3 - 4 > - 92; input x[- true and 7]; when case - 722 : when case 63 : chillax end; when case 336 : chillax end end end

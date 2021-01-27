@@ -1,0 +1,1 @@
+program WzB : o : takes j, O_8aa, f, L6 : boolean array; bQ : integer array returns boolean when case not 67 and 0 or 07200 <= 6 : let Z = 51 end end x_ : takes kn, a2 : integer array returns integer oKRaa, L2 : integer array; pop 1; output 84 . "" . "?\\!a" end sBs : takes t : integer returns boolean chillax end main : chillax end

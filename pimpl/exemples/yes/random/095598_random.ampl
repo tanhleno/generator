@@ -1,0 +1,1 @@
+program s : main : when case - (24) > l(7) : input D; while 3 = 4 : input c6; pop end; input rE[98] end case - true - false - 88 - 5 >= (8) and 00200 or 31 - 2 : pop end otherwise : chillax end; output - not 3 or 44 - 1 . "" end

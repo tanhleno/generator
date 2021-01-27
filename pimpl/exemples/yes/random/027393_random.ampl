@@ -1,0 +1,1 @@
+program J590a : K4 : takes O8, S : integer array; V5, q, Z : boolean array returns nothing s : integer array; chillax end C22 : takes C3, T, bM, ks8a : integer returns nothing chillax end main : input pTIaa[- 3]; let k = 31 and 59 <= 60800 end

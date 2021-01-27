@@ -1,0 +1,1 @@
+program I : main : OE, lP90 : boolean array; input K; while false /= 1 and 5 - 1 - 53 : pop 80300; when case 4 : pop end case 47 : chillax end end; while - 83 and 5 + 6 < 3 : when case 1 : chillax end case 7 : chillax end end end

@@ -1,0 +1,1 @@
+program c70 : S : takes fNkaa, w, M, f : integer returns boolean M : boolean; chillax end g4 : takes h, tD, ACg : integer array; PeG : boolean returns nothing output "[" . 8 . ""; while 30800 : chillax end; let iY = 6 end main : chillax end

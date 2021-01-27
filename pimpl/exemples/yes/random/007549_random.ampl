@@ -1,0 +1,1 @@
+program kw : c : takes N3m, M4, J0B, TCU : integer array returns integer array f : integer; chillax end main : when case - cc rem not xCE - true : chillax end; while - (5) - 2 - 250 - 5950 > false and 1 - 1 : chillax end end

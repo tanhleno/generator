@@ -1,0 +1,1 @@
+program FWJ : f : takes YJi : boolean array; Zb : boolean array returns nothing o_o : boolean array; c9va, _, D, _84aa : integer; input ojx end main : output false or 18 and 11 - 7 - 8 = - false; do vE0a(- not(440) rem 4 and 9) end

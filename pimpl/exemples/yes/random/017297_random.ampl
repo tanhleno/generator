@@ -1,0 +1,1 @@
+program X : Gs : takes dp2, ZDE : boolean; l0, uai0 : boolean returns boolean array chillax end main : H : integer array; M, Plh0, O6c0a, o : boolean; when case - not not true : when case - 7 - 2 : chillax end; when case 322 = 794 : chillax end case 1 : pop end case 673 : chillax end end otherwise : input A end end

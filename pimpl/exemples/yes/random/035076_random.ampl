@@ -1,0 +1,1 @@
+program Q : Q : takes M8 : boolean; d8, Zi : integer array returns integer array when case - not 9 and 4000 = 7 : output 41; pop; when case 56 : chillax end; pop end otherwise : chillax end; while - 707 : chillax end end main : output not true and true and 3 - a - 6 <= not 14 . "470a" end

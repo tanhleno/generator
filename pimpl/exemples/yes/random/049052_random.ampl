@@ -1,0 +1,1 @@
+program x19 : P : takes ubp0 : boolean returns nothing pop; when case 9 : chillax end otherwise : chillax end end J18 : takes a1 : boolean array; E : boolean array; o7, a : boolean array returns integer sdN : boolean; m, t, h : integer; oW0aa, O : boolean; let a[- 3] = array - 8; pop 75 end main : KA, xt, R31a : integer array; gO, c77 : boolean; chillax end

@@ -1,0 +1,1 @@
+program r7 : main : yH1 : integer; NoD : boolean array; while - p76aa + false / 5 and 1 : chillax end; when case - false - false and 2 or 0 >= true and 409 : output "]]!a"; while 2 : pop end; pop end otherwise : output 1 end; input E7M0a end

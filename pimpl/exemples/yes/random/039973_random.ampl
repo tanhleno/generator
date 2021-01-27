@@ -1,0 +1,1 @@
+program H : ip : takes g : boolean array; hb : boolean array; G : integer array returns nothing L : boolean array; let cL[- 5 and 76 + 4] = array(60) and 4 or 8 - 7 end main : j, Bj5a : integer; chillax end

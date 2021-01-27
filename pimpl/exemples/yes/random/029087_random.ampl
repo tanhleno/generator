@@ -1,0 +1,1 @@
+program u : i8 : takes is, Q4 : integer array; F5 : integer returns boolean pop; output "84"; pop 5 end iY : takes C, f, Ol : boolean; v, pU7aa : integer returns integer while - 1 - 5 > 9 : while 2 : chillax end; input GW end end main : chillax end

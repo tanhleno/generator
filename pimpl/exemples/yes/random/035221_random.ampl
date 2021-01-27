@@ -1,0 +1,1 @@
+program G : V : takes b : boolean; S, xbs : integer returns integer a, q13 : boolean; x : integer array; s : integer array; chillax end A9 : takes Sx : integer array returns integer array O : integer; do m(41400, 3, 57400, 201) end main : chillax end

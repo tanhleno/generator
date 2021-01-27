@@ -1,0 +1,1 @@
+program c73a : BF4aa : takes W, c, H, J10, RwE, E, _, lK : boolean; R75aa, b, u, O8b, vo, Tz3, o : boolean array returns nothing chillax end main : l : boolean array; when case - not(7) / 5 - false or false and 41100 - 149 - 9 /= - false or false - 3 - 760 : chillax end otherwise : chillax end end

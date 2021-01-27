@@ -1,0 +1,1 @@
+program sU : Y : takes G090a : integer returns integer array chillax end y : takes I : integer; xh, N : integer array returns nothing do p(- 3 - 0080, 220) end main : output ""; let N = not 04 and 22 - 17 >= - 372 end

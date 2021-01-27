@@ -1,0 +1,1 @@
+program Y : U : takes T : boolean array returns nothing while true and 39 : chillax end; input n[- 48 - 3]; pop 0; input g[05] end main : let g310 = (49) rem(18); do K(3 * (4)); input C[- true + 483]; do G0(2 - 0, 4 = 52, 3, 93) end

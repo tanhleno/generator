@@ -1,0 +1,1 @@
+program fg : Z39 : takes M, Q : boolean array; j2 : integer returns integer array i73a, G6d0a : boolean array; input R[X5 - 447 - 3]; output 2 . "5" end E : takes _ : integer returns nothing k, b9, a : boolean array; let iQ = array 5 - 2; when case 362 = 57500 : do X(7); pop end otherwise : pop end end main : wy : integer; j, CG7aa, T8O, Yg : boolean; pop - false <= - true end

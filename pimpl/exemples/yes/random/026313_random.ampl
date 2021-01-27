@@ -1,0 +1,1 @@
+program t : Q : takes A, K : integer; u7 : boolean array returns nothing rt, e, D24, C : integer; oI, o4, r : integer array; d : integer array; D : boolean; Z : boolean; n : boolean; chillax end main : Y : integer; let b[- (5 = 185)] = array - true end

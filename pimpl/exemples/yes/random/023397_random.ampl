@@ -1,0 +1,1 @@
+program p : mt : takes p, KE7a : boolean returns integer array chillax end gw0 : takes z : boolean array returns nothing VEB0 : integer; output "Y" . "c"; let m = 7; when case 3 : pop end otherwise : chillax end end main : chillax end

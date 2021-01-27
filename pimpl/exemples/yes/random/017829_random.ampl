@@ -1,0 +1,1 @@
+program lQr : tl : takes Z, k9l0a : boolean; T4vaa : boolean array; t : integer; f : integer returns nothing x_ : boolean array; pop end main : when case true * not not 8 or 9 * false and 68 - false + 4 - 7 : while - 5 : chillax end end end

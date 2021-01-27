@@ -1,0 +1,1 @@
+program X : E : takes E, G81, m : integer array returns integer D5, mX : boolean array; f : boolean; yfQ : boolean; do p(not 2 and 85); pop 4960 end main : do S(- 88200 / not 961); output - true or 18 - 24 . 320 - 6 end

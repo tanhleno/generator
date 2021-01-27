@@ -1,0 +1,1 @@
+program L : A : takes I7 : integer array; l, Zr4 : boolean returns integer pop; pop 51 = 58900 end Sl : takes p7, Y9, M, z, CLc0 : boolean array returns integer d36a, N2, D, U2n0 : integer array; u, C01a, mQs : integer array; pop 3650 = 85 end q : takes ld : integer array; C : integer array; n : integer array; z35a : integer returns integer array chillax end main : chillax end

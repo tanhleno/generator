@@ -1,0 +1,1 @@
+program O : po : takes h, i : boolean array; S, m, Q090a, A : boolean array; CW : boolean; d : boolean returns boolean array output 9 - 8 < 1 end main : MGx : integer; do P(- (86300 = 263) + y6q >= - true and false, - true and(5) and 93 - true and 4 < - 7120 and 95 + 997, not 586) end

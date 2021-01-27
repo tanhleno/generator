@@ -1,0 +1,1 @@
+program kA1 : O7pa : takes vG : boolean array returns nothing kPya : boolean; chillax end main : i, vU, i32, W : boolean array; Y : boolean array; d7Yaa, V, DM, NKv : integer array; J, n50, ac : boolean; chillax end

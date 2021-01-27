@@ -1,0 +1,1 @@
+program fl : BwB : takes b8Paa : boolean array; j3, V : boolean array returns integer P : integer; chillax end o : takes D7, rW : boolean array returns nothing X85a : integer; input r6[2] end main : chillax end

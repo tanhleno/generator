@@ -1,0 +1,1 @@
+program Ol7 : main : Z7, T : integer array; o : boolean array; J8 : integer; kkIaa : boolean; while - (63) = 918 : when case 45 - 96000 < 56 : while 8310 : chillax end end otherwise : input e end end end

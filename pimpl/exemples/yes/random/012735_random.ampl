@@ -1,0 +1,1 @@
+program PBx : Kn : takes l, h, m4v0a : integer; i, z, I : integer; _, J, b : boolean returns integer tQ : boolean; do u(- s and 938 /= - 7, 14 < 3); input R[35 - 72]; while 1 = 64 : while 6 : chillax end; pop end; while 2 : pop end end main : d6K0a, u9 : integer array; _, I : integer; chillax end

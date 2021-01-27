@@ -1,0 +1,1 @@
+program sm40 : d7N : takes f4F : boolean returns boolean array x2, c : integer; cn0a, _ : integer array; d3z0a : boolean; C9 : boolean; L : boolean; lJ : boolean; chillax end S1I : takes z63 : integer returns integer Z, hI : integer; b, B3F, t : integer array; e, z8 : boolean; q : boolean; B : boolean; chillax end main : when case - not not true : chillax end end

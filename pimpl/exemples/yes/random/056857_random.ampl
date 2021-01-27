@@ -1,0 +1,1 @@
+program K : Ct : takes Z : integer array; j : integer array; z, X, D : integer returns nothing ff : boolean array; y, z, u6 : integer; f, brR0a, W4 : integer; SE : boolean; chillax end b1T0a : takes CL : integer array returns boolean let O[1 - 6] = array - 8 - 7; pop 9810; input E; do ezaa(94) end main : ak50 : integer; chillax end

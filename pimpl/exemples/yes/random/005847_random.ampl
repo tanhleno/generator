@@ -1,0 +1,1 @@
+program Y : Ga4 : takes K, I, F, H : boolean returns boolean array let H[- false or 891] = array - (77) and 7 - 57 - 2; output "" . "h\\"; input N end main : k, Q6 : integer; output not not 39 - not 4 or 9 - 6 . "'" . "" . 7 = 2; let W[- (9) / (571) and 5] = not 1; output "w"; input RU end

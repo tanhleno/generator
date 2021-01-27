@@ -1,0 +1,1 @@
+program j : R6 : takes I, z, hm, R4, n, I4, s : boolean returns integer array chillax end main : F6, RZ : boolean array; q, C, X : integer; z, y2, N9ia, e : boolean; gs, R : boolean array; C, O, h : integer; do xh4(true / 360 > - (35)) end

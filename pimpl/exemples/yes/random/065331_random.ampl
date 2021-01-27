@@ -1,0 +1,1 @@
+program H : u : takes Z : integer returns nothing output "h%0a" . 6 . "" . 27300 . "5`"; input N end w : takes D : integer array returns nothing m, U, Q4t0, Qp : integer array; input J[- 46] end main : oW, F : integer; input b; pop b and 9 end

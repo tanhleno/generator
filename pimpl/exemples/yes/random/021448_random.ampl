@@ -1,0 +1,1 @@
+program v4Jaa : K_ : takes T, Z14 : boolean array returns integer array YQI : integer; output ""; do O240a(- 7 - 31 <= 30800, 5) end main : while(8510) > - (2) rem true and 89 : do K14(- 9, 79 = 82100, 0, 436) end; output(5400) and 3210 + 21 > - 1720; while 9 - 0 - 9 <= 250 - 0 : let wE[4] = array 0 end end

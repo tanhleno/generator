@@ -1,0 +1,1 @@
+program E6E : main : when case - 52200 rem e270a[77] - 67 and false - not 938 and 72 : chillax end; when case - true rem true and 8 or true and 8 : chillax end case(1) and 0 >= 2 : output 3990 . ""; output "56a"; let Sc = 7 end case 10 - 2730 : chillax end otherwise : chillax end end

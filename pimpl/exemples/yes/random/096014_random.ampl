@@ -1,0 +1,1 @@
+program q : main : when case - U / e12[59] * Q + (23) * false /= - false : do P6(- 5 /= 0); input b end otherwise : chillax end; when case true rem(3) : while 1 : while 96 : chillax end; pop end end otherwise : chillax end end

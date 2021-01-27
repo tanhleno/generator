@@ -1,0 +1,1 @@
+program Y6 : h6 : takes F2X0, I79 : boolean; b : boolean; p4Uaa : integer returns nothing s : integer; d, i3, Y9 : integer array; x, L3, G : boolean; chillax end fxD : takes y7b, b : integer; K : boolean; v, A : boolean; ZT, m, u, M : boolean returns nothing P, W : boolean; chillax end main : pop - (55) rem false end

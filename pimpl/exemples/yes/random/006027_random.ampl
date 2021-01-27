@@ -1,0 +1,1 @@
+program o : w1n0 : takes P, u, U, s25 : boolean returns integer s, E : integer; chillax end D : takes n4p0 : integer; vW : integer array returns boolean chillax end my : takes i, L4, F : boolean array; Q, R, L, Saz, s : boolean array returns boolean array N, w, w : boolean array; do q(0 = 8, 2, 973) end main : input rl[- true rem 7]; pop(3) < - 154; output "\\\""; do e(- 2) end

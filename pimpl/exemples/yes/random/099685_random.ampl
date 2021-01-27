@@ -1,0 +1,1 @@
+program MQ : main : while 9 / a810(3) /= not b1 rem false and 9 : pop 3 = 82800; do P(7); while 3 : chillax end; do b(60); while 6 : chillax end; pop end; output - false > - 042 - 0540; let v[(593) and 8 - 590] = 47; while - 87 - 006 <= 7 : input f end; while 00500 : chillax end end

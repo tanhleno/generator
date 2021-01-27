@@ -1,0 +1,1 @@
+program H6 : main : D2, EH, m1ma : boolean; h : integer; when case B(22500) + 72 : chillax end otherwise : pop end; do hbda(- true - true and 179 + 3 - 71); let v = - 3 - 81 < 24; while 5 - 97 <= 637 : chillax end end

@@ -1,0 +1,1 @@
+program B3 : b : takes Q, s, z, jDXa : boolean array; y5u, q : boolean returns boolean array while - (1010) or 6 : chillax end; while 5 : chillax end; when case 55 = 6 : chillax end case 5160 : chillax end; input c[99200] end C : takes M260 : integer array returns integer array d5 : boolean; chillax end main : chillax end

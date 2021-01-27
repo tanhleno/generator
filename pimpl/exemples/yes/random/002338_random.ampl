@@ -1,0 +1,1 @@
+program ez : N : takes v4, N, _T2, a, s : boolean; j8x : integer array returns integer array chillax end main : I2Ya : boolean; while - W(9) * 4 or true and(01) and 013 or w < c(9) + (51) and 1 + 34 : chillax end; while 72 and _ : let l = array 94 end end

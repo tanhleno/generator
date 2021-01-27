@@ -1,0 +1,1 @@
+program q7 : j : takes W : boolean; d9, vx : integer array; V2p : integer array returns integer p06a : boolean; lL0 : integer array; Q : integer array; W : boolean; chillax end main : X, M6 : integer array; K5C, Hb5, k59aa : integer; chillax end

@@ -1,0 +1,1 @@
+program E : WE : takes S, DJ1 : boolean array returns nothing let P = 2 - 3 > 0 end main : do B(false - true and 85 = false or(04600), - D6[5] - not 8940 and 06, - (2540) and 4 - 4 - 0 /= 70 - 90) end

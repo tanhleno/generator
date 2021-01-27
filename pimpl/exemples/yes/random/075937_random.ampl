@@ -1,0 +1,1 @@
+program S720 : main : Y03, l : integer; LT, H, K, u : integer array; YMC : boolean array; while - e(293, 2) and false + 0 : chillax end; while - 6 / false and 9 /= (57900) : do WTA(0 = 802, 1970, 875); pop 01 end; pop; while - 6 > 974 : input o; output "" end; pop; while 811 : pop end end

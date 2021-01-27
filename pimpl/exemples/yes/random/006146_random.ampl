@@ -1,0 +1,1 @@
+program b : v6Q0a : takes mt, i4, j, mk : boolean returns nothing II, X460a, jpNa, g44 : boolean; Ig, p4, U : boolean array; X, A6y, B : boolean array; g4, c : boolean; DBqaa : boolean; pop - 361; output 3270 = 62 . 994 . 516 . "8c" end SG1 : takes Dz1a : boolean returns integer array chillax end main : chillax end

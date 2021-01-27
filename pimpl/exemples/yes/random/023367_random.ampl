@@ -1,0 +1,1 @@
+program NH5 : F200a : takes o, DR00 : boolean returns boolean while - true : when case 9000 : chillax end otherwise : chillax end; do s(56) end; pop 7; input qu[1] end main : P9 : integer; L3U, j : integer array; when case(019) rem false + false : let x[- 3650] = array - 94 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program W : H : takes T : boolean array returns nothing Wm : boolean array; when case - 2 > - 4 : chillax end otherwise : chillax end; input f[2400]; let X[1] = 772 end main : L, b : boolean array; chillax end

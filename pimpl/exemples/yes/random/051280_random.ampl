@@ -1,0 +1,1 @@
+program E7 : C : takes R230 : integer; y9, kU : integer returns nothing iL0aa : integer array; chillax end R : takes e : boolean returns nothing Q : boolean array; do MUs(761); input Ip7 end u3 : takes D, t3D0a, o7p0a : boolean array; M33aa, b6, f6paa : boolean returns nothing chillax end main : I : integer; chillax end

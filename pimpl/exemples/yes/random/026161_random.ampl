@@ -1,0 +1,1 @@
+program x8 : N : takes OHv, J6 : integer; eY : boolean array; g6, P : boolean returns nothing pop 465 - 72 end main : S7l0 : boolean; sm, foT, M, V : boolean array; do j1(- not not 0 / false / 0 - false, 0 rem Y - 6 /= not 5, - (9) /= - 2580 - 3, 6, 11 = 4, 7) end

@@ -1,0 +1,1 @@
+program Q5R : main : n3F, sH : boolean array; b5 : boolean array; H : boolean; x, d : boolean; F : integer; pop; when case(18) - T or 36600 : chillax end otherwise : when case 48800 : chillax end otherwise : chillax end; do l7T0a(8) end; do C0(- false and 6150 - 6 < - 15 - 5); do sp50(- 1420 <= 9, 22); do n(30 = 78); input o; when case 27 : chillax end; output "c" end

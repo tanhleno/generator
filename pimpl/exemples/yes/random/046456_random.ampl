@@ -1,0 +1,1 @@
+program g : o7va : takes xkS : boolean returns integer array chillax end Hq : takes B : integer returns boolean array while - 9 >= 97300 : output "8"; output ""; pop end end t : takes Sk : boolean array; UE : integer returns boolean array output "\\h"; while 9 : chillax end; when case 1 : chillax end end main : pop; input C0[u and false - 8 and 49 or 9] end

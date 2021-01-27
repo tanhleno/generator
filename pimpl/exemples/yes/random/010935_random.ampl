@@ -1,0 +1,1 @@
+program P : HmK0a : takes M1, cUN0a, l : boolean array returns integer vw40a, Ler0, p, GK : boolean array; p, H, N : boolean; pop end main : while - (1) + false and true and 1 > - 2550 and(5) - 5 and 2870 : chillax end; when case - true * true and 1 + (930) and 1 - 70 - 6 : chillax end end

@@ -1,0 +1,1 @@
+program M8Ra : c5 : takes c6o : integer array; g9, os0aa : integer returns boolean b : boolean array; F, Qh, Cg5 : integer; _hqa, e27a, r : boolean; Spw : boolean; output - 4 end main : p, L : boolean; chillax end

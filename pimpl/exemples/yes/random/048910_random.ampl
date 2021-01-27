@@ -1,0 +1,1 @@
+program I : w : takes Rt : boolean returns nothing let k7 = array - true - 02 - 6 end p : takes Z, X : integer array; A : boolean returns integer do y(- 47700 - 79, 55 = 97200, 8, 2) end main : chillax end

@@ -1,0 +1,1 @@
+program Ip0aa : c : takes Bcva : integer array; e, j : boolean returns nothing while 8190 and 0 : input s; when case 49 : chillax end end; while 13 - 1 <= 1 : while 1110 : chillax end; output "\t\"\"a" end; when case 1 = 7 : pop; pop end case 3 : chillax end case 331 : chillax end otherwise : chillax end; output 269; output "!"; output ""; pop end main : chillax end

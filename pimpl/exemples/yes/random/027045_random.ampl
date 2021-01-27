@@ -1,0 +1,1 @@
+program LO1 : dUb : takes pCTa, P : integer array; a, Ag70a, y, F, __a, W : boolean array; A6, d5 : boolean; ywv, k8I0, DE : integer; p : integer array returns boolean A : integer array; r120a : integer array; V : integer; h74, DY5 : boolean; do ro(P and 76, - 69 - 213, 0) end main : chillax end

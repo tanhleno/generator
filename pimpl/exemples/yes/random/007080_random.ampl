@@ -1,0 +1,1 @@
+program S : L9t0 : takes g, Q, W8, o : integer array; K, Dd00 : integer array returns nothing output - 90600 - 8 > 992 . "1"; when case - 63 <= 3 : output ""; do M(0) end case 5 : while 2 : chillax end end case 6 : pop end case 6 : chillax end otherwise : chillax end; pop 8; while 2 : chillax end; output "\"c" end main : chillax end

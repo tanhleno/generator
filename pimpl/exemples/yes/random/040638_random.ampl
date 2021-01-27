@@ -1,0 +1,1 @@
+program f : H : takes C : boolean array; E : integer; vb : boolean array returns boolean Q : integer array; when case(6) - 2 - 520 : pop 6160; input b; let z = 861; pop end otherwise : while 12700 : chillax end end end main : output "\t"; output - true + 5 - 23 end

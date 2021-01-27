@@ -1,0 +1,1 @@
+program Q : V : takes F, S6 : boolean; a : integer; F, Z, V, S : boolean; q : integer; z, cI4 : boolean returns nothing z : boolean array; when case - not 07 and 476 > 89 - 35 : chillax end case 1 - 6 : chillax end case 1 = 4 : let l = 47; pop end; input a[- 5 - 92] end main : let F = true * u and 7780 < - (1) and 5 + 6; while false rem not 7410 and 47 > - false : chillax end end

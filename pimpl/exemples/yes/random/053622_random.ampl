@@ -1,0 +1,1 @@
+program G : E : takes X89 : integer array; J, Km, W, F, y : integer returns integer while - true and 0680 - 2 - 15600 < 85 - 68 : let d[1] = 883 end; while - 58200 : while 52 : chillax end; do A(13) end end main : while(3980 = 45600) : chillax end; when case 46 and false and 017 /= true and 6 or 6 - 4 : chillax end otherwise : chillax end end

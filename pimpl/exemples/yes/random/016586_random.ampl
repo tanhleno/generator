@@ -1,0 +1,1 @@
+program T2N : I290a : takes aAUa, d, Z : integer returns nothing pop end X52a : takes X, A1Caa : integer returns nothing D, V4 : boolean; chillax end ae : takes G : integer array; xZ00a : boolean; K : integer returns boolean chillax end v : takes K : integer array returns integer array a580 : boolean; UD : boolean; pop end main : chillax end

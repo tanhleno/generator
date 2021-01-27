@@ -1,0 +1,1 @@
+program W3I0a : e : takes TBOaa : boolean array; fs10a, k, V : boolean; y : boolean; h4Aa, Z2, q9, M0Y0a : integer; Jy, j : integer; c1 : boolean array; el, g3p0a : boolean; W : boolean returns boolean array while true and 8 < 12700 - 5 : chillax end end e : takes b : boolean returns integer chillax end main : chillax end

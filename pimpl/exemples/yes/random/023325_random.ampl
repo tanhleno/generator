@@ -1,0 +1,1 @@
+program z : x : takes E, BS3a : boolean returns boolean output - 967 /= 2; while - 7 - 2 : chillax end; while 60 = 483 : chillax end; while 192 : chillax end; input w05; do eDta(097) end main : chillax end

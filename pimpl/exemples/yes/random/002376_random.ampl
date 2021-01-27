@@ -1,0 +1,1 @@
+program V6 : Y : takes v8, H7, UW8, j240a, U75 : boolean array; h, H47, NKx0a, F890, i : integer array returns nothing input h1Na end main : T : boolean array; t530a : integer array; O2p : integer array; input o[95 rem true - I1[0200]] end

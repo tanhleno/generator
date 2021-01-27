@@ -1,0 +1,1 @@
+program n : n : takes c : integer array; v, x5fa, u0 : integer array returns integer array chillax end main : y4 : integer; while false + not Z82 - w and 07 or 2 /= - 85 : while 8 - 8 : chillax end; do n9jaa(1 = 4, 5, 5) end end

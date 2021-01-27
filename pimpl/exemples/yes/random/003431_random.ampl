@@ -1,0 +1,1 @@
+program B4 : WA4a : takes Lvh, J6, j, G, z : integer array; XsG, tt, y : integer; _, L4 : integer; M : boolean returns nothing chillax end E : takes o2, g1, tdE : boolean returns nothing chillax end main : E : boolean; let x[- (73) rem true * false and 1] = array - I(7) / false rem not 5 end

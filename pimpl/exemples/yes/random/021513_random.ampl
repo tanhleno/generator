@@ -1,0 +1,1 @@
+program pvX : p : takes rE80a, n : boolean array returns integer array when case - not 6 and 09 : chillax end; do v1(4 - 910 /= 038); pop end main : B : integer array; let Sp_ = 6 * false and 22 + false + 3 > P and 21900 or 7; output "" . 232 >= 7 . 0 . 7; pop - 6 = 26; when case - 36 - 32 = 9 : chillax end end

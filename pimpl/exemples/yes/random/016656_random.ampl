@@ -1,0 +1,1 @@
+program dW : j9 : takes W66, p : boolean; t, S2, D, Q, y5, y5, l : integer; Z4 : integer array; Pb40a : integer returns boolean array chillax end E1 : takes u, ta : boolean array; S1zaa, J : integer array returns nothing e : boolean; pop 51; output "A9" . 1 . ""; do E(5590); pop; when case 130 : chillax end end main : output ""; while true * M = - false : pop 3 end end

@@ -1,0 +1,1 @@
+program J9W : n : takes TTS, u : integer; I, hz : boolean; G, b170a : boolean array returns nothing Pn, C, L : integer; input jO; when case 82 - 1 >= 1 : input N2Wa end end Y2 : takes _FF : boolean returns boolean array chillax end main : l : integer array; m6 : boolean; chillax end

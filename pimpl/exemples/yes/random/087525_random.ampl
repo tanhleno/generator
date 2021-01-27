@@ -1,0 +1,1 @@
+program at : main : c : integer array; when case - not 20 + 0650 and not 5 - true and 23 >= - 628 + (53) : chillax end case false /= d3Naa : chillax end case(0) : when case 5 : chillax end case 69300 : chillax end; when case 65 : chillax end; output "+" end case 03 - 084 >= 52200 : chillax end; output 1980 and 73 - 46; pop end

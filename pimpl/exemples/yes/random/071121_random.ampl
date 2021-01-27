@@ -1,0 +1,1 @@
+program Y : main : U, RC, r : boolean; s : integer array; a : integer; while - not(9) rem not 4920 - true : chillax end; output(637) and 3 + 9; while false and 5 - 9 = - 6 : chillax end; input k[90400]; while 0 = 0 : input d end; while 2 : pop end end

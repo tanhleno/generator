@@ -1,0 +1,1 @@
+program i : main : pop; when case - Z[48] : let U[24] = 03 end case - 4120 and 6010 or 394 : let w85 = array 09; when case 6 : chillax end end otherwise : when case 8970 : chillax end; do r(947) end end

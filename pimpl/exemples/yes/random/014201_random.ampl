@@ -1,0 +1,1 @@
+program ph : XU : takes z, jpR, h6 : integer array; B : boolean; E : integer array returns integer array chillax end main : input i[- not true / (873) / not 8 and 05]; while not false * true + false and 2 : while 0 = 80 : output ""; pop end end; do H170a(- false and 9 or 7 - 2); pop 9 end

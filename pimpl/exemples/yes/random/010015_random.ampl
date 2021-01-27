@@ -1,0 +1,1 @@
+program J5 : b : takes d66, b, r : boolean array; B : boolean; Z : boolean array; R : integer array returns nothing when case - (176) + 4 : chillax end otherwise : chillax end; when case - 646 : chillax end case 3 = 1 : output "a" end end main : chillax end

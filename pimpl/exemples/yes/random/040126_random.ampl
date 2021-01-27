@@ -1,0 +1,1 @@
+program E : ieI : takes E : boolean array; q : boolean array returns nothing chillax end main : p, r, Jd, s : boolean array; while not true rem false <= - true + true or 63 : output 3 . "" . "0`"; pop; do l55(62200, 25) end end

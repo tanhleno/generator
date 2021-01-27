@@ -1,0 +1,1 @@
+program W : E : takes k : integer; _ : boolean returns nothing input q[true - 7 - 4] end main : t : integer array; a : boolean; b0, v : boolean array; L8h : integer array; C0, u, y56a : boolean array; output i5 and(2520) or false and 0 end

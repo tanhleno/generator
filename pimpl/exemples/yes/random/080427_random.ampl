@@ -1,0 +1,1 @@
+program I : main : Y13aa : boolean; when case w[8] / (78900) and false and 7 = - true : chillax end case 9 * (31800) and 8600 > - 0 : chillax end case - true or 1 : when case 395 : chillax end; output "\t60"; let j = 3; pop end otherwise : let Y = 51300 end; while - not(12) - true : do u4(02 = 64, 1040, 53); while 8 : chillax end; let Eq = 4960 end end

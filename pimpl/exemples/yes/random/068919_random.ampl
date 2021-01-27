@@ -1,0 +1,1 @@
+program o16 : main : p, Y, b, x, o : boolean array; iP : boolean array; pop - true + false and 5; let Rw[2 or not 9] = array not CU / not 5 and 95200 - r - 21 - 02; while not 782 and 1 or 1 - 83 = - 6 : output "" . "8L!a"; while 991 : chillax end end end

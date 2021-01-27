@@ -1,0 +1,1 @@
+program zP3 : v : takes H : integer array returns integer x, Cc : boolean array; p : integer; chillax end main : W, _ : boolean; K : boolean; pop; do DQF(true + (8) and 50 - 3 - 0 > - not 046 and 4 + 6); when case(2) + 4 >= - 68700 : pop 7 end end

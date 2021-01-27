@@ -1,0 +1,1 @@
+program Eyea : n9 : takes Igea : boolean; Y0 : boolean array; V8x, M1 : boolean array; d4b0 : integer array; c : boolean array; xr3aa : integer array returns boolean z : integer; chillax end JIT0a : takes vA, _, B, y, a0 : integer returns integer array chillax end main : input C[- not m[8210] - not true and false and 10] end

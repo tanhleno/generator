@@ -1,0 +1,1 @@
+program r9 : h6 : takes yP, M : integer array; m8 : boolean array returns boolean w : integer; chillax end X : takes h, b4Caa, o22, F : boolean array; Q : integer array returns nothing do A40aa(210 - 0 /= 71); do E(0) end DnZ : takes K96 : boolean array returns boolean Nt5 : integer; output 56 . 47400 . ""; do t2ra(52, 2) end main : chillax end

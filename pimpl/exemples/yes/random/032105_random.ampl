@@ -1,0 +1,1 @@
+program D : Y : takes O6, i : integer returns integer q : integer; GWe, wP5a, A, N6 : boolean; while - (2) : output "g" . "2@0a" end end q3 : takes N : integer; zPm0a : boolean returns nothing chillax end main : vG : integer array; chillax end

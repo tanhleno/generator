@@ -1,0 +1,1 @@
+program kdn0 : f : takes s2, D : integer array; X : integer array returns boolean A, h9r, V, X05 : integer; do HRxa(- true and 61 = - 6 - 352, 392) end T : takes v4_0a : boolean returns nothing chillax end main : l3g0, hA, O : boolean; y : integer; f : integer; chillax end

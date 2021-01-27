@@ -1,0 +1,1 @@
+program A6 : o8 : takes l : integer returns nothing when case - false and 6 or 042 : chillax end; pop 7; pop 2 end T : takes H : boolean; o, Gxb, Q : integer; I3 : integer array returns nothing chillax end s : takes S : boolean returns boolean array n, drfa : integer array; d : boolean; when case 0600 : pop; pop end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program Z1 : _1q0a : takes od0, _j : boolean; Vv0, U2, Z : integer array returns nothing let n[(2) and 81 - 7] = 6 - 4; pop end main : J, UM : integer; input W[- (37 = 3) / true or 3]; while - true / true : chillax end end

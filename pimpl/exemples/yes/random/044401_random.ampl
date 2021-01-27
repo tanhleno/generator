@@ -1,0 +1,1 @@
+program u : P : takes g : boolean array returns nothing b1, uW : integer array; let y = 75 - 5 = 56; pop 6 end Y6 : takes H : boolean array; j : boolean array returns nothing chillax end main : X, dbKa : boolean array; iN50a, V : boolean array; when case J(25600, 18) and true and true and 2 or 5390 * q : do kg(32) end end

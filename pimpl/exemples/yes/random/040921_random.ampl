@@ -1,0 +1,1 @@
+program LB2 : C : takes R : boolean array; n : integer array; o5 : integer array; P, v : boolean array; Ev, m6, x6, Q : boolean; C4Kaa, kU8, nU8 : boolean; w, B : boolean; z : boolean; l : boolean returns nothing chillax end main : pop; when case - false or not 0470 and 431 - 2 - 8 : chillax end case - (38) + 0 - 345 < 2 : chillax end end

@@ -1,0 +1,1 @@
+program i : S8_ : takes Y : integer array returns integer let e4 = - 2 end sKS : takes FsO, AY : integer returns nothing when case - 2 : chillax end otherwise : while 1 : chillax end; pop end end main : chillax end

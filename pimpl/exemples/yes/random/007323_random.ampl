@@ -1,0 +1,1 @@
+program o7W : AK8 : takes C5, P, q, ZJ7 : integer array; E1 : integer array returns nothing Sd6, o4Daa, s : boolean array; when case - not 60 or 7860 - 4 >= 5 - 865 : do m(0); let k = 78 end otherwise : chillax end end main : let Fv = - 218; while not false + not 84 : chillax end end

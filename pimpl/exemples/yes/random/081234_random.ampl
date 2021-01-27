@@ -1,0 +1,1 @@
+program hk : main : zeJ : boolean array; Hm40a, g9b : boolean; let I[75 rem false rem false or 0 + 636 or 655 - 30] = - yc0[259] and true and 9 - (5) > 058 and 2; let K[not Q * G] = true and 99; output 4 - 76 /= 3 end

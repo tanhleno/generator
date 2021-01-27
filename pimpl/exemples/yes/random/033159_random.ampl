@@ -1,0 +1,1 @@
+program g22aa : N : takes F0, s4 : integer returns nothing while - false and 687 or 39 : chillax end end main : when case not false + (40) /= (88) and xEj - false and 2 : chillax end case - false - Y8 and 3 or 307 = - OG40 or 5 : chillax end end

@@ -1,0 +1,1 @@
+program e : i350a : takes B3H : integer array; E, D : boolean array returns boolean array eI6a : integer array; ys2 : boolean; pop end hO : takes gX, L4 : boolean array returns integer array g, t, F7, uZ : integer; chillax end main : C, Y : integer; chillax end

@@ -1,0 +1,1 @@
+program x73a : s7Vaa : takes S, g, s68aa : integer array returns nothing s : integer; chillax end main : L, iq60 : integer array; r2 : boolean array; d : integer; mr : boolean; s : boolean array; while - false + u[4] or true - 7 - 0070 /= - (7) : output 5 = 1; do WV8(3, 98); do I(8); let D = 4 end end

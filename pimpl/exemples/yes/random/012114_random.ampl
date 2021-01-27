@@ -1,0 +1,1 @@
+program P1t0 : n : takes H3R0a, n, oU : boolean returns nothing chillax end main : Ot2a, E : integer; when case - (8670 = 37) - true rem F and 3 /= - not false rem 88 and 6 : chillax end case - (50) / true and 9810 - 0 = iw and 67 + 2 : chillax end case(21) and 5 - 3 - 8 : chillax end otherwise : chillax end; output - false and 76 + 5 < 3 - 50; pop 60; input _ end

@@ -1,0 +1,1 @@
+program Q : s27aa : takes K : integer array; g : boolean returns integer output "s\n"; let L[- 6] = array - 39 end main : let u = (2) * false and 019 < (59800) - 262; when case 6 : chillax end case false and 6 < 3 : chillax end case 6 - 9 : output "" end otherwise : output 31; do d(7) end end

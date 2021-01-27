@@ -1,0 +1,1 @@
+program mH9aa : At : takes Mt : boolean; B, D9, yu, j, E, j2l, J : boolean returns boolean input n end i3 : takes uc : integer array; V : integer returns boolean array chillax end yi7 : takes L : integer returns boolean array do w(40500 = 3, 8810, 83) end F : takes Uto, n7v, U5 : integer array returns boolean array BpH : boolean; chillax end main : chillax end

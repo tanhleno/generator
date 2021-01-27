@@ -1,0 +1,1 @@
+program l : E : takes FU : integer; g8 : integer array; Q : boolean; z9 : integer returns integer array chillax end X1 : takes c : boolean array returns nothing let K = array 59 end i : takes q : boolean returns nothing pop 12; pop end main : while - (9) + false and true : chillax end; do ru(- (91) * true and 16 or true and 66 + 7, (4), - 30500 - 7) end

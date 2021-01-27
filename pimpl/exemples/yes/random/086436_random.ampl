@@ -1,0 +1,1 @@
+program T : main : Q : integer array; i : boolean; when case - false rem false + (984) / D and 3810 + true and 08 = - (0) + I and 6 + 6 : chillax end otherwise : while 48 : let s030a = 8 end; output ""; let ZL60a = 797; input j end end

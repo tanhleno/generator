@@ -1,0 +1,1 @@
+program S : c : takes v, I, H, G : integer array returns nothing when case not 0 : while 5 : chillax end end otherwise : chillax end; do N(- 6 - 6); do N(80, 8, 16) end k : takes n04, Tp, a : boolean; r, b : integer returns boolean x : integer; chillax end main : chillax end

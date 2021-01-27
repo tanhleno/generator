@@ -1,0 +1,1 @@
+program W : main : when case - not U <= false / false and 62400 or not 89 : pop end otherwise : input M7 end; output not 8 and 5 or 7 > 0; when case 6 and 1 - 7 - 78 : output "\n" end; while 0 : chillax end end

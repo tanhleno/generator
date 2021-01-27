@@ -1,0 +1,1 @@
+program F0Y0a : jt30a : takes D, b : integer returns nothing O, o, Y1Z0, Yd, I : boolean; do y_(- 16, - 23) end main : pop; output - true or 750 > 17400; pop; when case - 4 - 7 /= 6 : pop end case 1 = 89 : chillax end end

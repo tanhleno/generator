@@ -1,0 +1,1 @@
+program i37 : F2 : takes Q2P : integer array; J, A : boolean returns boolean array Gc : boolean; chillax end o : takes Z : boolean; QM80a : boolean array returns nothing chillax end main : let F250[- bvq0 + y / (540)] = array - 4; when case - not 3 >= (49) and 5 + 95 : chillax end otherwise : chillax end end

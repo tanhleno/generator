@@ -1,0 +1,1 @@
+program l : zi8 : takes q : boolean; nYE : integer returns nothing N, S, G : boolean; while false and 3 <= - 26100 : chillax end end main : Y_Ia, b : integer array; K, _Ed, z0haa : boolean; x0j, Cu : boolean; Yh4 : boolean array; F7T, J, D9Caa : boolean array; E : boolean; N9raa : boolean; a : boolean; pop - (8) - (1) and 50 - 71 <= - false end

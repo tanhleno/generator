@@ -1,0 +1,1 @@
+program U : main : G4, db : integer array; Y2 : integer array; U2t, e, z : boolean; M9, HC : integer; while - (606 = 39000) + y62 : chillax end; output - not 7 and 18 - 8 . "" . 49600 . 2 . "" . ""; when case - (3) and 86 + 86 - 15 = 02 - 62 : chillax end case - 198 - 4 <= 92 : chillax end case 1 : chillax end otherwise : pop; input m end end

@@ -1,0 +1,1 @@
+program Q : main : e8G : integer array; let V[- true rem true - (2) / (8) and 2] = array 65600; when case 57 and 8 + true and 3 + 89 - 2 /= - (7) and 8540 : chillax end case - 0080 or 9 - 9 : chillax end case 976 : chillax end otherwise : chillax end; do C(J > - 66 - 3510) end

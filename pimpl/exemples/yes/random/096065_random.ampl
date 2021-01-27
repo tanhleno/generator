@@ -1,0 +1,1 @@
+program scT : main : when case - FYk[70600] : chillax end case true - false >= - 0 and 2 or 063 : chillax end otherwise : chillax end; while false * not 8 and 86100 - not 9 and 67200 : chillax end; pop 0; let D[028] = 58; when case 797 = 2 : output "\\&" end otherwise : chillax end end

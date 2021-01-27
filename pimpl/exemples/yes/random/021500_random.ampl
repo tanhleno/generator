@@ -1,0 +1,1 @@
+program N96 : E : takes ES, O : boolean array returns integer array pop - 7; when case - 52 >= 7 : do QPq0a(1) end case 0 : input i; pop end otherwise : when case 03600 : chillax end; pop end; when case 9 : output "" end; when case 60 : pop end case 7 : chillax end end main : C, o : boolean; chillax end

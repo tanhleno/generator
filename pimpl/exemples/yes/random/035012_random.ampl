@@ -1,0 +1,1 @@
+program d : M : takes R190 : boolean; _, ibSaa : integer array; w : integer returns boolean array i7, o95, j, vv, O9 : integer array; when case - not 913 or 8 /= 7 - 388 : chillax end case 4 : chillax end end X97 : takes P : integer returns integer chillax end main : L9 : boolean; w52aa, y4, N5W : integer array; let s = array - 0 - 9 - true - 4 - 36 end

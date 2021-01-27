@@ -1,0 +1,1 @@
+program o : J : takes eK, cb : integer; y : integer array; T3A0a : integer array returns nothing chillax end main : while not A1(1) rem true / 4780 > - (7) and(1) or true and 3 - 5 - 56 : while 564 - 02 <= 26 : when case 1 : chillax end; output "" end end; do pl(- false and false or true) end

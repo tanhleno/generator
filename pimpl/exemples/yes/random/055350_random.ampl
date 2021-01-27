@@ -1,0 +1,1 @@
+program D24a : u : takes U : integer array; o70, C : integer returns integer array output - 6 < 7; while 6 - 16 < 7 : when case 67 : chillax end; pop; pop end end main : lU : integer array; chillax end

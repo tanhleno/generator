@@ -1,0 +1,1 @@
+program jp : I300a : takes u : boolean array returns integer array K : integer; N : integer; g7 : boolean array; G : boolean; XO : boolean; chillax end c21aa : takes m : boolean array; b100, x, t7, X, e5, as : integer returns nothing chillax end main : let Gj = - not AG or not 19 and 2 end

@@ -1,0 +1,1 @@
+program VE : main : input q[(9 = 1550) / (21) rem H and 473 - false rem true]; when case - 20600 < - true and 12 - 1 : chillax end otherwise : while 2 : pop end end; do D(true or 22100, 6, 10900) end

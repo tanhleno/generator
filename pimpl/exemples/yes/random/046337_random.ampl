@@ -1,0 +1,1 @@
+program I2n0 : Gp60 : takes c3 : boolean returns boolean let DZ[- 7 and 6520] = array - Rw and 39 end J : takes Z, t_9, FA5 : integer returns nothing while - 0 - 7820 : input m end end main : D8 : boolean; let _7[- (0 = 0) or not not 2 + (631) and 0 + 14 - 4] = array false and false + 32 rem true and 5 end

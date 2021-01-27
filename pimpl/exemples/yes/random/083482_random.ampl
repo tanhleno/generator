@@ -1,0 +1,1 @@
+program B : main : ow1 : integer; T6, q, W : integer array; i : integer array; A1 : boolean; dnma, q, yU : integer array; c, Z : boolean; x : boolean; BJ6 : boolean; let U[(65 = 0) / 0 and not 2] = false and true end

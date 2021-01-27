@@ -1,0 +1,1 @@
+program MdY0 : main : when case s - (8) < k : input f4; when case 630 : when case 9 : chillax end end case 661 : chillax end otherwise : pop end end; pop - not 93 or 0 = 7; let z[false] = array - not 46 and 84 + 45 - 85000 end

@@ -1,0 +1,1 @@
+program RZ : B : takes OA, mnUa, Q, t, R97 : integer; v : boolean returns nothing chillax end main : U : boolean; O5, ow1, I : boolean array; Q84 : boolean array; while(042) + xPQ rem not 6 : while - 0 - 9 = 1 : output "6" end end; let P5[- not false] = array - T[62] * A6 and 3 + (8) end

@@ -1,0 +1,1 @@
+program Oy5 : s9 : takes rz : boolean; c : boolean returns nothing QD20a : boolean array; chillax end O : takes O : boolean array returns nothing a : integer; eX, d9, c : integer; cHxaa, a : boolean; X5i0 : boolean; chillax end main : pD2a : boolean; eT, O : boolean; chillax end

@@ -1,0 +1,1 @@
+program I : A : takes v, bv, Pq : boolean; f, I : boolean array; B8 : integer returns nothing p : boolean array; when case not 75 : chillax end otherwise : when case 859 : chillax end end end main : v7Uaa, u : integer array; chillax end

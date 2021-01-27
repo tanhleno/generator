@@ -1,0 +1,1 @@
+program w : main : when case - not(46) * 8 rem true and 48 <= - 8520 : pop 14700; pop 5; output "&"; input Zi5 end case false - false - 6 < - false and 84 - 7 - 74 : chillax end otherwise : input fQ; do q(4, 1) end end

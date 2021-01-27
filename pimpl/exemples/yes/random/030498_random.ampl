@@ -1,0 +1,1 @@
+program P : lB : takes teTaa, UA : integer array returns nothing T, JA8aa, T1, e : integer; v : integer; x18, Q : boolean array; chillax end main : c : boolean; gk, _G : integer; M1Oa, S : integer; pop end

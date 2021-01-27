@@ -1,0 +1,1 @@
+program K : RRn : takes i09 : integer; B0, n, i, W6 : boolean array returns nothing h : integer; _ : boolean; TXt : boolean array; while not 7 and 3 - 7 /= - 298 : do v(109, 9) end; output 6 . 5 end X : takes t, g, V6 : integer returns boolean u6, QD, F : integer; O1 : boolean array; input a[8]; pop 13 end main : QH60a : integer; ym : boolean array; chillax end

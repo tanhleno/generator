@@ -1,0 +1,1 @@
+program w : K : takes f990a : integer array; q, Tb, B8Xa, Z56a : boolean array; G : integer array returns integer array iq, J : integer array; chillax end main : when case(6) + not true + 8 and 5 or 158 : pop end end

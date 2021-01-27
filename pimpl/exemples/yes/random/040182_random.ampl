@@ -1,0 +1,1 @@
+program N : sh : takes t : boolean array; e : boolean array returns nothing gf : boolean; input K70 end main : s : integer; hi : boolean array; pA : integer; pop; while - false + true and 64 <= false and 36 : chillax end end

@@ -1,0 +1,1 @@
+program Iy : L4 : takes f, J8, J, l4 : boolean array returns boolean array C : integer array; do A(- (58) and 3 or 28600 - 681) end main : G3 : boolean; do f(- false and false rem(0) and 2 or true rem true) end

@@ -1,0 +1,1 @@
+program G : C : takes T, YEs0a, H, r, C9, a8x : boolean; F : boolean returns integer array let Y[true and 2] = array - false and 054 end main : V, I5 : integer array; I : integer array; n6, i, zyD0a, T, U : integer; iV, B, W8Ua : boolean array; zK : integer array; x : boolean; let rq1aa[- 1] = array(2) / not false and 9 + not not 7 / (7) and 5; output - (1) - 9 - 6 end

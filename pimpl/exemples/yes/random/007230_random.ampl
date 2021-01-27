@@ -1,0 +1,1 @@
+program m : D4qa : takes u9, d, v, R : integer array; t : integer; Y, h, Ml, V : integer returns boolean k3, q, k560, Kc70a : boolean array; do Etq(false and 6 + 9750 - 5 /= - 6 - 5, - 680, 7, 370, 34); do c(94, 4670) end main : let u = array - (8) / not t * 3 and 2 - not c * false and 2 end

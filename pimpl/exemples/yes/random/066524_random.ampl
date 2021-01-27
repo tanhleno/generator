@@ -1,0 +1,1 @@
+program d7p : main : do T(- not 9 and(4) <= - not false or iy and 3 - 935); when case(636) * true and 5 - (100) and 605 or 3390 - 24 = - f and 0 or 398 - 7 : chillax end case not 44 and 9 + 47 - 306 <= 31 - 5 : input o47 end case - 8 - 8 : chillax end otherwise : when case 34 : pop end case 71 : chillax end otherwise : chillax end; input N5; do Q(8); pop end end

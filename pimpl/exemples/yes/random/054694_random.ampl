@@ -1,0 +1,1 @@
+program s : T : takes R : integer array; Jdca, O : boolean array returns nothing chillax end DO70a : takes vd, ipc, Ab : boolean array; B5Da, M3U0 : integer array returns nothing while 0 : output "j"; pop; pop end; while 9 = 0 : chillax end end main : m : integer array; chillax end

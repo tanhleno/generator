@@ -1,0 +1,1 @@
+program VR : p9 : takes N2, AP, Ke30 : boolean; y : integer array returns boolean array chillax end o : takes D, Y3, i, JG80a, y : integer; R : boolean; O4 : boolean array; a1x0a, Q3 : integer returns boolean input O; output "\\" . "" end E : takes uG1aa, V, c, VIKaa, t : boolean returns nothing chillax end main : K : boolean array; chillax end

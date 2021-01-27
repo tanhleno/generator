@@ -1,0 +1,1 @@
+program q : aZR0a : takes c : boolean array returns boolean let y[true and 6 + 4] = 3 < 5 end main : M7, Fg1aa, vR, HPa, K1, G : boolean; T0Za, UTp0a : boolean; when case 9 * (06) = - true + 05 : do X5xaa(32, 7, 19); output 0 . 15 . "[" end case not(9) - H <= - i and 7 + 8 - 8 : chillax end end

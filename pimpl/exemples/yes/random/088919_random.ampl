@@ -1,0 +1,1 @@
+program g : main : input R[false * true / (44400) and 2 - false - A]; when case false or(478) <= - 4 or 7740 : when case 2 = 3 : output "" end case 96 : pop end end case true and 8 <= 9 : chillax end case 2 - 6 = 50 : chillax end case 07 = 13 : chillax end case 6 : chillax end case 8 : chillax end; let yO3[- not 25 and 4] = array true and 00 end

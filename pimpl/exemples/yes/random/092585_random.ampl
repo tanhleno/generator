@@ -1,0 +1,1 @@
+program wK2 : main : output Y9 = - 8740 or 57600 - 74; input t53aa[- (8) / false and 1]; when case(7) and 1 + 5 - 151 = 6 - 9 : chillax end case 732 : while 9 : chillax end end otherwise : chillax end end

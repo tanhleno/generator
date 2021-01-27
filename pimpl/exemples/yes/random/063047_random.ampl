@@ -1,0 +1,1 @@
+program X : g : takes nl : integer returns integer array d : integer array; z, d81 : boolean; T, T, S : integer array; gB, V : boolean; H9 : boolean; Fi : boolean; chillax end main : input WU[- not false + true + true and 3] end

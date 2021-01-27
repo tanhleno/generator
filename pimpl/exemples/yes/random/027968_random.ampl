@@ -1,0 +1,1 @@
+program Q : u : takes J, Yu : integer array; b, lD : integer array; o : integer array; H0 : boolean returns nothing p89, I, p2Aaa, urU, k : integer; W : boolean; t : integer; pop 31700; output 12 = 19 . 15; while 0 = 04300 : output "*`a"; pop end; output 2 . ""; while 39 : chillax end; when case 35 : chillax end end main : chillax end

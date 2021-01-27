@@ -1,0 +1,1 @@
+program P : main : when case - true or true - false and 89 or 4 <= - Qpnaa : pop 703 end case - false and false : chillax end case not 3 <= - 5 - 37500 : chillax end; when case - 8 rem M : input YF5aa; input q6[82300]; input n end otherwise : chillax end; while not 698 and 085 /= - 5 : chillax end; do m0(- 4 - 5 /= 85); pop; do m2(01, 788); input J01 end

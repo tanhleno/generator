@@ -1,0 +1,1 @@
+program H : main : when case - 83 / true /= - true rem Z77 + true or 802 - 454 : while 8 : chillax end end case - not(26) * false - true + 7 : chillax end case not 55 = - 8590 : chillax end case - 00 : chillax end case 23 = 15 : let O = 81 end case 32 : pop end case 5 : chillax end; output ""; pop - 91 - 86; do zVZa(5 - 05); input o end

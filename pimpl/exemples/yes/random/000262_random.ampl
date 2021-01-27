@@ -1,0 +1,1 @@
+program L : X : takes a, W, Xl, z, T, j300a, _, a : boolean returns nothing do Vo(- 08 and 61, - 5 - 3230); input zI; let y8[4790] = 51; while 0310 : chillax end end z0 : takes B : boolean array returns nothing pop end t : takes z, C7N, H7, X9 : boolean array returns integer array input T[10] end main : x : integer array; j : integer; chillax end

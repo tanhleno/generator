@@ -1,0 +1,1 @@
+program w : P : takes u69 : integer returns integer array Ac : integer array; S5 : integer; chillax end e4 : takes z, Z : integer array returns nothing chillax end c5 : takes S : integer; u : integer array; y, w : boolean array; U, H : boolean; G : boolean returns nothing do I99aa(96800 = 0) end main : chillax end

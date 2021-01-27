@@ -1,0 +1,1 @@
+program T : k : takes v44 : integer returns boolean array m : integer array; chillax end main : while(79) > - false + (195) and 0 : chillax end; when case - 2 / false + false and 7 + 5 < C_laa and 4 : when case 7 : chillax end otherwise : pop end end end

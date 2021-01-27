@@ -1,0 +1,1 @@
+program fiC : O : takes v0, a83, M, f, q : boolean returns integer a : integer; do kCO(- false = 5 - 8860, 8, 30, 02900); output 7; input Gx end main : when case not 6 * true * J and 19 + F[35] and true and 0 or 1 = - (71) : chillax end otherwise : pop 351 end; do nt((0)) end

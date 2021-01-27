@@ -1,0 +1,1 @@
+program h : B0 : takes S430 : boolean; f : boolean array; Q : boolean; p7E : integer array returns integer array chillax end JYU : takes z2, Md4aa : integer array returns boolean hAV, PG : integer array; M : integer; qz : boolean; o : boolean; Y : boolean; do p5(5 - 46300 >= 6, 7, 5, 05) end tK4aa : takes t0, gim, r : boolean returns nothing chillax end main : chillax end

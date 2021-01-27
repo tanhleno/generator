@@ -1,0 +1,1 @@
+program tgn : h8 : takes X : boolean array; k : boolean returns boolean JW10a, q : integer; chillax end main : pop - not true + N + 9 - 03 > - 35300; do q(- C[4940] rem not 61 and 4 or 56 and 2 >= 9 - 99 - 18); output "68"; do n3(5, 755) end

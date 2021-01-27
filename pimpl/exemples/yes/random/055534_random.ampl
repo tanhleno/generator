@@ -1,0 +1,1 @@
+program O : o6 : takes w1 : integer array; hp : boolean; q, g1 : boolean array; z7 : integer; HI6a : boolean array returns nothing m6 : boolean; output "\\-!a" . "" end main : U : integer array; chillax end

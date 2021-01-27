@@ -1,0 +1,1 @@
+program F76 : S : takes x, p : boolean array; D : integer; CPm, h : integer; RI00a, uD8aa : boolean array; O5Ra, q34aa : integer returns nothing Gi : integer; chillax end j0 : takes Xw4aa : boolean returns boolean Q, t : integer array; pop 4; do Or9(4 = 572, 6, 4); input d0s; pop; when case 991 : chillax end; pop end main : chillax end

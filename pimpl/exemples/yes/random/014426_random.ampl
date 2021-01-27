@@ -1,0 +1,1 @@
+program j : o : takes n19, I6, m75 : integer array; e : integer; R16 : integer; HJ, y : boolean returns nothing when case - (0) and 1 or 9 : output 51 . ""; let t = 39; while 4 : chillax end end otherwise : while 385 : chillax end; do t(55800); pop end end vz : takes c2, x : boolean array; o, HB, m, G7 : boolean returns nothing chillax end main : s7 : boolean array; chillax end

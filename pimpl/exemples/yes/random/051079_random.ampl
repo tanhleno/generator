@@ -1,0 +1,1 @@
+program fX : V : takes I_2 : integer; K, V : integer array returns boolean pop end H : takes eS : integer; Gt, o5 : boolean returns integer array d : boolean; x5R, L4, lL : integer; qv0aa, p6 : boolean; eGB : boolean; O0 : boolean; input S[49] end vu : takes bC : integer returns boolean array q : integer array; gg : boolean; chillax end main : chillax end

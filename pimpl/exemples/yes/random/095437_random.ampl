@@ -1,0 +1,1 @@
+program _4 : main : when case(68) rem false and true + z5(79) : while 7 - 3340 : chillax end; when case 03500 = 52 : chillax end otherwise : pop end; when case 6 : pop end otherwise : chillax end end case - 0 : chillax end case true and 4 <= 2 - 27700 : when case 8 : chillax end case 6 : chillax end end case - 3 - 0720 : chillax end otherwise : when case 5 : chillax end end end

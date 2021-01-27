@@ -1,0 +1,1 @@
+program Iz : l : takes Z : integer; r : boolean; Fe6 : integer returns nothing while true - 80 /= - 5 : chillax end; when case - 2 - 6 = 7 : pop end otherwise : chillax end end main : j, c, d1, nw, Zt7 : integer; input Q2; when case - ZY - i or 6 >= (5) : while 4 : do I6(4690); pop end end case - (4) and 59 + 3 - 20 : do Z(0, 82); output "" end end

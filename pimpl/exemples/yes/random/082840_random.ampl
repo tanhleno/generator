@@ -1,0 +1,1 @@
+program i : main : f5 : boolean array; while - J - fC / 03 : chillax end; while h13(70) : when case 36 : input q end case 33 : pop end; while 65 : pop end end; when case - false - 6730 >= 6 : output "" end end

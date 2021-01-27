@@ -1,0 +1,1 @@
+program RM50 : p7 : takes Z : boolean array; x : boolean returns integer array when case true : input AK[07] end end E4 : takes o : integer array; IGVa, Hw9aa : boolean array returns integer array let u[- 45] = 487 end h4 : takes l9, YW : boolean; TV5 : integer returns nothing q24, _j1 : integer array; h, P : boolean; do rL(4 = 0, 5, 03); let l520 = 4 end main : chillax end

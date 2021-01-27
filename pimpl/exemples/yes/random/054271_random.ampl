@@ -1,0 +1,1 @@
+program V9 : b : takes nE5 : integer array; W, I, t6I : integer array returns integer array when case(19600) = 04300 - 2 : chillax end; do r(- 05200 >= 2500) end main : Jv : boolean array; chillax end

@@ -1,0 +1,1 @@
+program u4 : Y0 : takes F9 : boolean; n7Z, H, E : boolean array; k, _5 : boolean; I, K : integer array; H160 : boolean returns nothing let t[- P and 16] = 08 - 81; pop 6 end main : while - true + not(7) rem false and 0 : do E(- 1410 < 178); while 8 : output ""; pop end end end

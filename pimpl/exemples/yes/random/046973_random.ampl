@@ -1,0 +1,1 @@
+program wU : c : takes H : boolean returns integer chillax end main : let V = not true and false - true and 4 + 2; while - (48) : let _[80] = array 0; do Bb60a(1, 8); pop; let P8oa = 7; pop end; when case - 2 + 5 <= - 9 : when case 02 : pop end otherwise : chillax end; output "" end case 87 - 9 : chillax end case 0 : do d(7); pop end case 7 : chillax end end

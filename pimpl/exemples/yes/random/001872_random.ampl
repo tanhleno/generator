@@ -1,0 +1,1 @@
+program V : C : takes _j, e, _2S, T1, IH, Q : integer array returns boolean output "5\"!a" . 1 = 063 . 5; let V3E = 2; input k end E6 : takes p : integer returns nothing chillax end main : pop - UZ[183] / nh40 and 4250 + (51) or 96200 - 265; when case - 3 = (66200) and 3 : chillax end; pop end

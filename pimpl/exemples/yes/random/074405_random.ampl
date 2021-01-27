@@ -1,0 +1,1 @@
+program G : main : l, jpHa : boolean; when case not false rem 48 or iJ and d and 5 or 0 and 1 + 240 - 849 : chillax end case - true : chillax end case - 8 and 199 + 64 - 7 <= 274 - 4 : chillax end case 01500 - 1 : chillax end otherwise : pop end; input zx[not true]; do a(- false and 941 = - 2 - 1, 402 - 1 = 8) end

@@ -1,0 +1,1 @@
+program H : YA : takes v7 : integer; oD, i94 : integer; F1d : boolean; j2 : boolean array returns boolean s, aae : integer; chillax end Q : takes wnuaa, vr20, K : boolean array; G, U : integer array; l, F08 : boolean array returns integer array output 36 end main : mRSaa : integer array; N : integer array; while - true / true : output ""; output "" end end

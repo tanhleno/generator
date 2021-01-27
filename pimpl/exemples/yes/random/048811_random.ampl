@@ -1,0 +1,1 @@
+program T : g : takes fMn0a : boolean returns nothing W6x : integer array; when case z7ra >= - 3 : chillax end end F76a : takes Xx : boolean; h72 : integer array returns boolean array a, I750, t, y6I : boolean; chillax end main : chillax end

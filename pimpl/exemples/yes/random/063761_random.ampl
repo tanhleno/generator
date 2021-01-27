@@ -1,0 +1,1 @@
+program S : o6 : takes R : integer returns nothing chillax end Yy : takes i : boolean array; F : integer returns nothing do B4(4 > 81) end _r : takes hG : boolean; b, P2 : integer array returns boolean when case 4 : input T; pop end case 9 : chillax end case 9 : chillax end otherwise : chillax end end main : h2 : integer array; chillax end

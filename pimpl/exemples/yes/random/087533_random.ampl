@@ -1,0 +1,1 @@
+program Q3J : main : M0 : integer array; when case - 93 / not false and not 6 and 6 - false * true /= l(51) * false or 59 and 5 - 0 : output 6; input RD10[3]; pop 384 end case true >= - true and 0720 : chillax end otherwise : chillax end end

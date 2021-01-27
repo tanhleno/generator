@@ -1,0 +1,1 @@
+program ag : F9 : takes J53, A4 : integer array; y : integer array; b, i6 : integer array returns nothing g1 : boolean array; do z700(true and 0 or 6 - 6) end main : output "_" . "\t" . - 7 - 9 < 6 end

@@ -1,0 +1,1 @@
+program uJW : e : takes z, dI, O, Eg : boolean returns nothing while - true or 5 - 588 : do s_(52, 3) end end main : when case - Or[44] : do d(53200); while 83 : chillax end end; when case - false + false or 4 = - (217) - 944 : chillax end case - true and 94 : while 785 : chillax end end case - 3 <= 1 : pop end case 138 : chillax end case 4 : chillax end; input W6Za end

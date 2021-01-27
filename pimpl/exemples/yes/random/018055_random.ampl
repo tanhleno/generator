@@ -1,0 +1,1 @@
+program X : rt_ : takes QU9, O6f : boolean; S : boolean returns nothing U, k : boolean; D7Xa, K, O : boolean; while - true and 883 < 1230 - 6 : when case 029 : pop end otherwise : chillax end; input M59; let E = 05; pop end; pop 3 = 60400; output 2; pop 8 end main : g : integer; chillax end

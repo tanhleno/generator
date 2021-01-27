@@ -1,0 +1,1 @@
+program T2 : NGvaa : takes O5jaa : integer; Q, G, xy, I, yR, bxV0, P : integer array; p : integer array returns integer OcQ, XP, V : integer array; output "\nI"; pop 35 = 58; do r(93300) end main : while - H[65700] rem(5200) / x2E and 96 <= (64) + 31 : let yWv = array 92 - 8; input L end end

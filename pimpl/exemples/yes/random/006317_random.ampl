@@ -1,0 +1,1 @@
+program khM : _7 : takes _Leaa, _, fc, XaA : integer; j34, s8H, W, I, Y2m : boolean returns integer array z : boolean; BgH : integer array; e, td : boolean array; F, psFaa : boolean; output 1 - 61 = 0530 . ""; let u = array - 842; input z[0] end main : do QJ(- 492 > not false) end

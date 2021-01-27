@@ -1,0 +1,1 @@
+program l1T : Y : takes L, K : boolean array; u : boolean array returns nothing f : integer; jf, KO : boolean; j, X : integer array; do B2((1) or 3 - 72 = - 0 - 4, - 4, 87800, 524); when case 9 - 781 >= 33 : chillax end; do au5(76900 = 4, 06400, 3) end main : B, ZN, Ib : boolean; output "\"" . "" end

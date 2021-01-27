@@ -1,0 +1,1 @@
+program R780a : I : takes b, N : boolean returns integer array KD8 : integer; O, de : integer; EL : integer; when case - false and 89 + 97 - 493 > - 581 - 714 : chillax end; input i[39]; output "J8" . ")" end main : chillax end

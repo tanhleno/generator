@@ -1,0 +1,1 @@
+program g3 : k : takes _, P, c, g : boolean; xk, _3K, f93 : integer array returns nothing t : boolean; Y7 : boolean array; Q : integer array; chillax end main : y : integer array; z0, L, q : integer array; do o130(not(14) or(2) / false and 30 - false and 8, - not true and not 31 + not 8, - (1) = 15 - 9, - 87 - 85, 7 = 98) end

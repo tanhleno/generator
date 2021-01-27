@@ -1,0 +1,1 @@
+program Y : main : when case - QY rem not a3 / false : output 2; let VR = 6 end case - not(5) + 1 and 4 + 4 - 6 : while 3 : chillax end end otherwise : when case 31 : chillax end otherwise : chillax end; while 1 : pop end end; input H4ba[- true + ovHaa + 88000] end

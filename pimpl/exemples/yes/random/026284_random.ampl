@@ -1,0 +1,1 @@
+program k7 : l : takes wN, aZ : integer; M : boolean array returns integer u, V8 : boolean; W7, kD, N, t : integer; NDm0, v0, R17 : integer array; chillax end main : j, B, t8 : integer; output a(13) + o5G0 end

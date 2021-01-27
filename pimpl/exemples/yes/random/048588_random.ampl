@@ -1,0 +1,1 @@
+program s : Fy3 : takes b : boolean returns nothing Z : integer; chillax end main : Z : boolean array; pop; when case not false * (98) + not 4 and 1 + 16 : let UO = 7; let S[53] = array 39; pop end case - not 7620 and 0 or 7 > 8 : chillax end otherwise : chillax end; output "" . 6 = 664 . "(" end

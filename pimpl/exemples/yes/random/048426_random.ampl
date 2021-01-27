@@ -1,0 +1,1 @@
+program yK : p : takes j : boolean returns nothing W1 : boolean; when case - (34) and 36 <= - 97900 : chillax end; while 21 - 8 /= 55 : input W end; pop; do E(24400); let Y = 3; when case 063 : chillax end end PH5 : takes Y, h, t : integer returns nothing output ""; pop; pop 8 end main : chillax end

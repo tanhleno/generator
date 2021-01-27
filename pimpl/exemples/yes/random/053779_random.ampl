@@ -1,0 +1,1 @@
+program et7 : L0 : takes w : integer array; xR, U, WZ0, Aq : integer; Q : integer returns boolean array while - false and 1 + 2 > - 1 : chillax end; let C4 = 2 = 35; when case 43100 : let j = 01900 end otherwise : chillax end; let Lo20a = 6; output "}3"; pop end main : pop end

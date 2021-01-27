@@ -1,0 +1,1 @@
+program R1 : i : takes j : boolean array returns integer output 80 /= 29 . "%"; pop end n : takes lD6 : integer returns integer chillax end j0i : takes T9, rn, bU : boolean array; e, _89a, R, OL6a, H8 : integer array returns integer array h1f : boolean; g : boolean; j4O : boolean; v : boolean; chillax end main : chillax end

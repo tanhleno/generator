@@ -1,0 +1,1 @@
+program cU : main : U : integer; hp, B : integer; u : integer array; O, _0_aa : integer array; when case false and not not 8 and 520 or 22 = Wt4(880) * 57 and 6 : chillax end otherwise : let T[25] = 05500; pop; input YrZ; input y end; do rE(- 8 < - true, not 885 + 1930 - 2); output - 99 - 22300 end

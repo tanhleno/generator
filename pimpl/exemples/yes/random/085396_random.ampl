@@ -1,0 +1,1 @@
+program iLA : main : dz : integer; while 2 rem false rem 8 - (3) : input HU; while 74 = 3610 : chillax end end; do i9(not true rem V or 6 + 9); when case - true and 9 < - 72 - 4 : when case 2 : chillax end case 06 : chillax end otherwise : chillax end end case - 64 > 39500 : input V end; pop 5 = 7 end

@@ -1,0 +1,1 @@
+program z : b : takes r, T, Q9, i : boolean; P : boolean array returns integer array C, K390, bJ, GF : boolean; let G400 = - 6 - 5 /= 67 end d4O0 : takes Y, R2f : boolean array; UJ9, A : integer; YX7a : integer; a : integer array returns nothing y : boolean array; QX40, i, K : integer array; chillax end main : input m end

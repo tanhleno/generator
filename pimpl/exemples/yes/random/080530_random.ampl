@@ -1,0 +1,1 @@
+program t : main : V : boolean; while - 184 * 0 rem(75) and 70 + (7) - 3 or 4 : while - 1 - 20 : chillax end; while 164 : pop end; pop; pop end; when case - false : while 7 : chillax end end case true and 19 + 1 : when case 2 : chillax end case 23300 : chillax end otherwise : chillax end; when case 10 : chillax end end case - 9 < 5910 : chillax end end

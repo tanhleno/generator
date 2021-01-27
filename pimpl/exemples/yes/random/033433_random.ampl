@@ -1,0 +1,1 @@
+program l220 : Ja : takes Z : boolean; NU3a, U38, s, M, A0 : integer array returns nothing D : integer array; u97 : integer array; P, K41, c : integer array; b7, o : boolean; bUr0a : boolean; chillax end main : pop - 3; pop; let J = array true; while 70 - 78 = 90 : do i(53300) end end

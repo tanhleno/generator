@@ -1,0 +1,1 @@
+program e : c : takes i, U, j : boolean returns nothing B : integer; J : integer array; s, a, ewN : integer; while 7 = 4640 - 2 : chillax end; input f[0] end main : while - k + (5) = not(458) - false : chillax end end

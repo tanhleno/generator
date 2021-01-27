@@ -1,0 +1,1 @@
+program l : K : takes q, g, V, _, ra7, n : boolean array; F2, J31aa, vbY0a, c7 : integer returns integer output "5" . ""; pop; while 0 = 81 : chillax end end main : Q, tiA : boolean array; VcM : integer array; output "e" . - VVca - 5 - 876 . 5 - 31 . 98 = 7; do v(not 03 * false - true, G2 <= 37500); let bo[j2S - 3] = array - not 4 and 6 end

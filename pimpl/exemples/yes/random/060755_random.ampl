@@ -1,0 +1,1 @@
+program M : P : takes L : integer array returns nothing jB : boolean; yR, Y9Aaa, f : boolean array; while - true and 0 /= 900 - 776 : chillax end end main : when case - not not 04 and false or true + not 4 : do Q(- 38 - 6); output "^)" . 3 . "" end otherwise : let n830 = 177; pop 23; output "6"; pop; pop end; output 6 and 1 end

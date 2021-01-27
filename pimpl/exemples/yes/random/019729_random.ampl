@@ -1,0 +1,1 @@
+program Q : zx : takes T, L : boolean array; XX : boolean; t7 : boolean; FFu : integer returns boolean array T, ZCma, w : integer array; H3, yQQ0a : boolean array; n86 : integer; zX, y : boolean; let zU2[not 5 + 9] = 4 - 588 end qA3 : takes H76 : integer returns boolean d6, q2, X8 : integer; pop 7 end main : chillax end

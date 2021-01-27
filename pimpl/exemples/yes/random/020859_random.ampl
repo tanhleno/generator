@@ -1,0 +1,1 @@
+program L : R480 : takes D2, eT5a : boolean array returns boolean array G0, W7, h : integer; d9, q : boolean; chillax end xH : takes pWE0 : boolean array returns nothing P : boolean array; w : boolean; chillax end main : sF, m : boolean; chillax end

@@ -1,0 +1,1 @@
+program u6 : main : while 8 * not not 39 * false : input q[3 - 91]; when case 8 = 95 : chillax end case 66 : pop end; output "z" . ""; while 86700 : chillax end; when case 9 : chillax end end; output "7" end

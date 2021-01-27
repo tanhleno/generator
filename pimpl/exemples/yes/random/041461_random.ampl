@@ -1,0 +1,1 @@
+program va60 : D : takes MFg : boolean array returns boolean array chillax end s_ : takes g97, KR30a : integer; S, x, i2za : integer array; P, T, nU : integer returns nothing M, q040a, B02 : boolean array; B : boolean; output 59 = 2 end main : chillax end

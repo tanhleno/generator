@@ -1,0 +1,1 @@
+program K : t : takes s6kaa, LqO : boolean returns integer array chillax end _ : takes J : integer; Zc3, cX9 : integer array; V3O : integer array; Y : integer array; U, M, K : boolean; T2taa : boolean; X0 : boolean returns boolean output "2" . ""; input k[1] end main : m, D : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Ug : y : takes h : integer; z, _B, Do4, R, We, j2 : boolean; Q00aa : integer array; fQP0, G : integer; Koc, wf, Tq : integer; c : integer; WI : boolean returns integer d1 : integer; q : integer; while false or 0 - 65 : chillax end end main : chillax end

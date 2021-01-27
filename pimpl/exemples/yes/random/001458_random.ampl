@@ -1,0 +1,1 @@
+program W : U : takes N, z, _, z930, hh, W : boolean array returns nothing J : integer; u : integer array; Rv, Kf, B : integer array; output - 7350 > 82 . "" end k : takes TT : integer returns boolean output "-t" . 9; while 7 : chillax end end W : takes Oj : integer returns boolean SZ20 : integer; d, I : boolean; Y : boolean; f : boolean; chillax end main : chillax end

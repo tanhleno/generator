@@ -1,0 +1,1 @@
+program J : F : takes G, p, d : integer array; P6, d : boolean returns nothing chillax end P9 : takes H : integer; ta0 : boolean; p1, N63a, d : integer returns nothing cr5, c, f : integer; na, c : boolean; chillax end s : takes DXnaa : boolean returns integer array chillax end main : n3i0, tG : integer; do t(_ = - 9 rem F and 2, 1 - false /= - (2) or 4 - 6, 40) end

@@ -1,0 +1,1 @@
+program N : X : takes s : boolean returns nothing E4 : boolean array; G11 : integer array; pop; do _5(- 9 - 8); pop 95600 end main : CBQ0 : integer array; do Z(- xd[7] / false /= - not(286) + (08), - false and false + 1 and 8 < - true and 55 or 3 - 6) end

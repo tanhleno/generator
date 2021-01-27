@@ -1,0 +1,1 @@
+program Taw0 : f : takes ed : integer array; F0, HW, hF, uC3aa, t, l, yRl : integer array; Sh : integer returns nothing chillax end main : Ae, r : boolean array; j5_ : integer; when case - 4200 rem 3 /= false : while - 4 - 92 : input pk; let pp_ = 66000 end end; let gy[true] = array - true + not 8210 and 0670 end

@@ -1,0 +1,1 @@
+program K : l5 : takes M, r : boolean array returns nothing input fyS; pop end p : takes O, X590a : integer returns integer chillax end main : when case - true and 2 : chillax end case p8[5] - mH2 : chillax end end

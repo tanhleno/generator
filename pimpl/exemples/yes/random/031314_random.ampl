@@ -1,0 +1,1 @@
+program Vh : qN : takes f, T : integer returns boolean array r8 : boolean; while not 25 and 6 or 5 < - 646 - 47 : chillax end; output 8260 = 1 . 0 . 9900 . "" end main : pop not not 16 / true = - IpA0 and 2 end

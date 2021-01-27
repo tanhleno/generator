@@ -1,0 +1,1 @@
+program w : l40 : takes Q5d : integer array returns nothing C7 : integer array; chillax end O : takes _8 : boolean array; BV, o : integer array; p, B0 : integer; o, p89, L, V1fa : integer array; p : boolean; x8 : boolean; F : boolean; lLm0 : boolean returns integer array U : boolean array; input T300a; output 0; let k[2] = array 524; let R = 1; do bzW0(7) end main : chillax end

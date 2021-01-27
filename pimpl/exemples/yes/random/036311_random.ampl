@@ -1,0 +1,1 @@
+program B6Oa : H3 : takes F : boolean; Z2 : boolean returns nothing _, R1 : integer array; t : boolean array; F, R2Ba, h1 : boolean array; do B2(- (23) /= - 8390); output "6" . 75; pop 9; while 6 : chillax end end t : takes k8O, G, u : integer; J : integer array returns nothing do G(- 0 - 9); pop end main : u, f, O3 : integer array; chillax end

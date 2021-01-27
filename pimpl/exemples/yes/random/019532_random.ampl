@@ -1,0 +1,1 @@
+program V : _G00a : takes y3, r : boolean array; I, B : integer array returns integer array d1, e, f, N : boolean; while true and 8 + 83 > - 6 : chillax end; while 18500 - 52 : chillax end; do O(6, 73); when case 2 : chillax end case 93 : chillax end otherwise : chillax end; while 1520 : chillax end; when case 1 : chillax end end main : J6 : boolean; chillax end

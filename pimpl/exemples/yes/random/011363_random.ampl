@@ -1,0 +1,1 @@
+program t : u : takes yov, i, _ : boolean array returns nothing j : integer; chillax end KOF0 : takes e860a, Wog0, b : integer returns boolean D, t : integer array; m, o15 : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program uy4a : main : output ""; when case - false rem 03 and 8 - true - 3 - 9 <= - O or 7 : output "" . "" . "" end case - (4) and 20 <= 4220 - 12 : chillax end otherwise : while 28 : pop end end end

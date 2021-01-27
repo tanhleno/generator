@@ -1,0 +1,1 @@
+program Dg8 : l : takes _e, EH2, j, N : integer array returns boolean while - false : chillax end; when case - 1 : when case 0 : chillax end; while 1 : chillax end end case 0 = 581 : chillax end end main : chillax end

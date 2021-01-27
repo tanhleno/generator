@@ -1,0 +1,1 @@
+program o1K0 : j : takes y, ka : boolean; z, J, X240, TWu, I : boolean array; E : boolean array; uI : integer; l, D : boolean returns integer when case - t : let b = 8 end otherwise : chillax end end main : h : integer array; F2, B, lO, b, RC : integer array; let n[9] = false and true and 8 end

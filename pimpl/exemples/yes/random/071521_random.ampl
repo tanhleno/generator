@@ -1,0 +1,1 @@
+program VUo : main : D, f, rC : boolean array; jX9, Z1 : integer; when case not true = - 4 / false and 073 + false : chillax end case(38800) - true - 9 - 98900 : chillax end; when case - 6 / 06 and 08 or(4) + 8 <= - false - 08300 - 556 : chillax end case e2s and 1 : while 5 : pop end; while 9 : chillax end; pop; pop end end

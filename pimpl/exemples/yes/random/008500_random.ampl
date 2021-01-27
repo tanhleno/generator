@@ -1,0 +1,1 @@
+program qY8 : G : takes DZ9aa, TV3, y : boolean; q, W, fEy0, G : boolean array; k, Z : integer; s : boolean; q : boolean array returns boolean while - T or 1 - 6 /= - 45 : input s[0] end end w : takes LLl, h8, M70 : integer returns nothing pop 39 = 39; output 069 . 5 . ""; input s; input iW end main : chillax end

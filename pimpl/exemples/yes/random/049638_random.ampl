@@ -1,0 +1,1 @@
+program k_ : v : takes x : integer; W, Q7, MRZa, _ : integer; G6, b : boolean returns nothing chillax end main : KW, R0a : boolean; do U(- (8750 = 57900), (692) * true + V and 81 = - true - 4, not 72 and 3, 27 - 3) end

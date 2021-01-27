@@ -1,0 +1,1 @@
+program e : e : takes u_ : boolean; F : boolean; HN, m : boolean; Q, G, V, m : integer array returns nothing RL : integer array; input H5t0[- not 4 or 8] end main : Ji, Ov90a, c : integer; output - 14 * (62700) and 1; do N(not true or false < - s and 943 or 687 - 2, - true - 6 - 2 <= 0 - 76) end

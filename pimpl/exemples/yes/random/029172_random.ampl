@@ -1,0 +1,1 @@
+program E : U : takes _y, b : integer array; zn : integer returns nothing Q, G6 : boolean array; chillax end main : let vz[fS[7470] rem 882 rem qY or(21) + f and 5] = array not pE[718] * not false; output - false and 2 >= 4 - 095 . "5O\""; while - true >= 4 - 15 : do E(86, 1); when case 8 : chillax end; while 9 : chillax end end end

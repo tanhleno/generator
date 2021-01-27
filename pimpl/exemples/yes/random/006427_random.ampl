@@ -1,0 +1,1 @@
+program lim : w : takes z4, z, E, H14 : integer; y, e0 : boolean array; uMKaa, EJ9, n10a, KC : boolean array; n, B : boolean returns integer array chillax end eTA : takes MQ : boolean array returns boolean array output 142 . 449 end main : chillax end

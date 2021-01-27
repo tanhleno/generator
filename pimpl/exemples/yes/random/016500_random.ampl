@@ -1,0 +1,1 @@
+program G1 : A : takes F, Z, u : integer returns nothing d7 : integer array; output - 93 /= 6 . "0["; do r(8 - 4, 4 = 652, 3) end URC : takes Xy, o3, K : integer array returns boolean array when case - 2 - 28 : pop; while 9 : chillax end; pop end otherwise : chillax end end main : chillax end

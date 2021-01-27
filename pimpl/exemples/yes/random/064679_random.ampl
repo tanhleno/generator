@@ -1,0 +1,1 @@
+program A : Mo : takes t : integer returns nothing vru : boolean; o, yBo : boolean; d, aW : boolean; chillax end c : takes t, V : integer returns nothing chillax end Cg : takes ras : boolean array returns boolean I : integer array; chillax end n : takes HX, co7 : boolean array returns nothing while 8 : chillax end; let R = 68 end main : pop end

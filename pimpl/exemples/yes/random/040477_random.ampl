@@ -1,0 +1,1 @@
+program G : B1 : takes Te : boolean array; _J : integer; G, i9, W8, So, Id, m : boolean; S2, g9, N, d2 : integer; l : integer returns nothing while 65 - 8 - 4 : while 02 : chillax end; when case 429 : chillax end; when case 4 : chillax end; pop end; input F; pop end main : chillax end

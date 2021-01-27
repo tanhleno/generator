@@ -1,0 +1,1 @@
+program m780a : n : takes D, X, Y, Z9, E3, Z, S : boolean array returns nothing kjS0a, vhwaa : boolean; q4, k, U1 : integer; pop 836; pop 416 = 3; when case 19 : chillax end end X : takes X : boolean returns nothing chillax end main : f, SF, Ik, irDaa : boolean; jn20, i : integer; chillax end

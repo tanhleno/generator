@@ -1,0 +1,1 @@
+program trla : j : takes L6, Z : integer; p3, s8M : boolean array returns boolean array output - 1 . "" . 21 . 76 . "\n"; while 5 - 0 : chillax end; while 1 = 478 : chillax end end main : H : integer; let Y = array - (2) rem te[581] - 826 and y and 4 end

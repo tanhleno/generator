@@ -1,0 +1,1 @@
+program M : G : takes w6 : boolean array returns boolean W : integer; output - 38 = 9; let ic[- 8560 - 5] = array - 70 end main : I, n, R6Waa, H3, Y6 : boolean array; Q210a, YB, H6 : boolean; Ize : integer array; do _Li(v(2060) rem 91) end

@@ -1,0 +1,1 @@
+program T : o06 : takes g5F : integer array returns integer array chillax end c : takes U81 : boolean; _, _ : integer returns boolean input dx6 end main : Bffaa : integer array; input YA[- true rem false] end

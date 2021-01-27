@@ -1,0 +1,1 @@
+program G : p : takes v8pa : boolean; A : boolean; U050, rR, mt, n05 : boolean returns nothing chillax end main : input F21[not f / true or false and false]; input q[false - not 11 and 8 + 0 - 1830] end

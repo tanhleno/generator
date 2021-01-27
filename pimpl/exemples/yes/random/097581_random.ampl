@@ -1,0 +1,1 @@
+program X6ia : main : when case true / false + (94) : chillax end case - false : let R = array 2; pop; input _; output ""; pop end case - (1630) and 9 + 9 - 19700 : chillax end otherwise : chillax end; pop - false or 1 end

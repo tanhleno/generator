@@ -1,0 +1,1 @@
+program g : o : takes n, D9Saa, m, C11, M : integer; HG_, ZN, C : boolean array returns integer output "\n\t0" end main : input h0[true or 2 and(83600) and 2]; output ""; pop; do s(237 > 88, 2, 765, 389) end

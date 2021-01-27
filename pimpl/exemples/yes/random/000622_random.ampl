@@ -1,0 +1,1 @@
+program _ : ag : takes h1, OV, a3, O, d2, M, H : boolean array; X, e, z, t : boolean array; i, i, CB8 : boolean array returns nothing let H5X0 = - 0; output 827 . "{"; output 78; do b4(7, 1); do G(7); input N; pop end y : takes q : integer array returns nothing M, g : boolean array; while - 0 - 18 : let AJDaa = 88; let m = 416; pop end end main : output "" end

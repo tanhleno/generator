@@ -1,0 +1,1 @@
+program U : rK : takes f : integer array; w : boolean returns integer array N : integer array; E : boolean; H : boolean array; Q : boolean; chillax end Y : takes w : boolean; L, n : integer array returns boolean do s0(5, 8 = 6); do C(75 = 99) end main : chillax end

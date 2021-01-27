@@ -1,0 +1,1 @@
+program u : d : takes A : integer array; p0 : integer array; tS, H, a : boolean returns nothing o, SD : boolean array; X : boolean; p2 : boolean; chillax end main : f9, pwA, n, O, W : boolean array; LNw : boolean array; S : integer; U : boolean array; C, s : integer array; output ""; do n(- not(9) * true and 4 >= - false and 6, - true and 799, - 4 - 2870 < 36) end

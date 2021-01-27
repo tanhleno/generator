@@ -1,0 +1,1 @@
+program IqK0a : s : takes D : boolean array returns nothing Y, d : boolean; input N end main : p3G : integer array; while not 7 - false - 8 : when case - 1 - 58000 : input o6 end case 79 : chillax end case 98 : pop end otherwise : chillax end end end

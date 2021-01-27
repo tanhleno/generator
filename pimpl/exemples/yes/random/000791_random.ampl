@@ -1,0 +1,1 @@
+program U3i : H : takes _u, M1, s, f2, h9, v9ba, f : boolean returns nothing P4, G, kj2a : boolean array; l3, J : boolean array; Ih : boolean array; wT : boolean; S : boolean; do D(true) end main : do k(true - not true rem 53 > - J(7) + V and 49600, ER40 - not 6 + 24 /= 49 and 5, (586) = 44, - 98); let U4[- (0) or ND30a and 707 + 712 - 4] = (6) and 990 <= 75900 end

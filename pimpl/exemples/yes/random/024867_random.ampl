@@ -1,0 +1,1 @@
+program E : K : takes ejH0a, q : boolean returns nothing while - 5 + 8 - 80 : chillax end end main : when case - n1f0(99, 1) rem not true * true : input x[56]; input _nZ0 end otherwise : chillax end; pop end

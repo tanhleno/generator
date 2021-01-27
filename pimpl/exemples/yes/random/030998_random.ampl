@@ -1,0 +1,1 @@
+program i : l : takes N7, T : integer array returns nothing let f = array - d end main : L98 : integer; O, px_ : boolean array; V, p5u : integer array; p1M0a, E, kM : boolean array; Oq5 : integer; AM, H : boolean; input C[- not th(2170) or(7) * T]; do YW10a(- 9 - true and 0 < - 6 - 70800) end

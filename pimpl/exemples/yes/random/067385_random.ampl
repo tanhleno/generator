@@ -1,0 +1,1 @@
+program p : main : do YnJ0a(not false >= false rem 0 - true + 0, false - not 9 and 9 + 29400, false or 93 - 53500); while 7 : pop 65 end; when case - (4) and 4 or 6 : chillax end otherwise : let g = 9 end end

@@ -1,0 +1,1 @@
+program d : H : takes n, H, a0, ao2a, s, H33aa : boolean; Ng8 : boolean array; c : integer array returns integer let v[false and 20] = 4 - 5 <= 16; while 0 - 2 : chillax end end main : w : boolean array; chillax end

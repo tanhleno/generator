@@ -1,0 +1,1 @@
+program J2 : r48 : takes T0, c4, G_, O : boolean; Lo5 : boolean array returns boolean pop 117 - 3 < 70 end dbo0 : takes y, D : integer array; uQ : integer; X : boolean returns nothing W0Ra, vt6 : integer; ftca, d : boolean array; chillax end main : chillax end

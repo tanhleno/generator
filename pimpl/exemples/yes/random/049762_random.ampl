@@ -1,0 +1,1 @@
+program m860 : T : takes c8La : integer; u, p, gAa : boolean; y, K : boolean; m, Y, za, a, XXTa : boolean; X9 : boolean returns nothing d : integer; chillax end main : output true / true - true . K and 5 . "" . "" . "" . "}s" . ""; output - false and 04200 - 1 - 6000 /= - 7 - 4 . - 9 > 4 end

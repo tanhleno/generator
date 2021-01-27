@@ -1,0 +1,1 @@
+program y4h0a : main : input p[(09 = 77000) + (79300) * not 1]; while I4 = (7) and 44 : pop end; output "" . 96 . "n" . 7 . ""; do j070a(7470 - 12 = 2, 50 = 7); while 25 : when case 761 : chillax end end; pop 9 end

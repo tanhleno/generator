@@ -1,0 +1,1 @@
+program g5 : U : takes J : integer array returns integer array while - true and 9 : input m[61]; input X0; pop; pop end end N5 : takes Pk : integer returns integer array input h[- 85800 - 76000]; do if40(46500 = 53200) end I : takes o : boolean returns boolean chillax end main : J5 : integer; output - 75 = not 533 and 2 - 8 end

@@ -1,0 +1,1 @@
+program ivC : main : vUQ : integer; o2w : boolean; output "" . true - 8 - 4 . 4040 . 13 = 6 . "c"; do m1ia(true or _ - 8 - 3670 <= - true, - not 3030 and 61100 - 8); input Ip4[- 23 and 2 or 6 - 69] end

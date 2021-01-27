@@ -1,0 +1,1 @@
+program R46 : main : IQ : boolean; l : boolean; O, n, s4 : integer; R, y1 : boolean array; en8aa : boolean array; output false - Qi + 9 - 63 < 3 and 55200 or 238 - 2 . ""; when case true rem false : input Wj; while 7 : chillax end end otherwise : chillax end; pop 81 - 74100 end

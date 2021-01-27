@@ -1,0 +1,1 @@
+program q : M5 : takes q, sP, l23a : integer array returns nothing do aLR(kP5a + 7 - 539, - 8 /= 11, 7) end _ : takes u : integer returns boolean array A, v, Qo6 : boolean array; chillax end main : yV, f6R0a : boolean array; v : boolean array; chillax end

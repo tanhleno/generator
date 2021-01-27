@@ -1,0 +1,1 @@
+program J0eaa : d : takes mrmaa, H1 : boolean array; u, r3r, j5Saa : boolean array; W8I0 : boolean returns integer array A, XN, O_ : boolean array; rO : integer; chillax end main : a : integer array; output "3" . "" . "" end

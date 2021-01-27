@@ -1,0 +1,1 @@
+program r : m : takes I, G5 : boolean array returns nothing do t(1 + 8220 - 61); do o(3 - 18900 > 33) end main : pop - true and true and 6; while - not not 2 rem(37) and 86 : chillax end; do J(false >= 821 - 8160, - 05 - 404) end

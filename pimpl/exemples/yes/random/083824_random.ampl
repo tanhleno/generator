@@ -1,0 +1,1 @@
+program p0 : main : z0 : integer; _, Zt : integer array; r : boolean array; do i(- not not true rem false * q and 19 + (1680) / false); when case p[2] rem false + 3 + 5 : let Jl = 36; do K(9) end end

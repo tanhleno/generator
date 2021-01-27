@@ -1,0 +1,1 @@
+program y : j8Q : takes h2 : boolean array returns boolean array output - 7 - 6; input w95[- 3 - 869]; do m(0, 821) end main : qn : boolean array; while - false - bGv(3050) * k6Q0a and 7 + not 2 and 56800 : chillax end; output - not 60 and 4; output "" end

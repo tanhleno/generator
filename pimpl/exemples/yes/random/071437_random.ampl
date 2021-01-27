@@ -1,0 +1,1 @@
+program NE7aa : main : M, Jd, ZKJ : boolean array; rM, K, fu : integer; gG, F, Wh, Eog, MtY : boolean; let P[true and 7 - not true rem false + false and 684] = - not(17200) - RJm0 - 321 /= - true and 89 - 1 end

@@ -1,0 +1,1 @@
+program gEKaa : L : takes Z, V5h : integer array returns boolean u, C, zQ, D, B : integer array; a, l : boolean array; j : integer; pop 65 end E1 : takes I, a : boolean; d52, X0, _EN, tz : integer; pr : boolean returns boolean array do hg(- 95) end main : r : integer array; s : boolean; y : integer; chillax end

@@ -1,0 +1,1 @@
+program C : R : takes T0, a : boolean array; Z5xaa, O0, c6G : boolean array returns nothing output ""; pop 9 end i1 : takes z : integer; OId : integer array returns boolean R4, mJ : integer; input iE end main : uC4 : boolean; output "" . false /= - 2 - 65 . - 5 - 0; output ""; output - 1 <= 1; let h8[- 4810] = 5 = 6 end

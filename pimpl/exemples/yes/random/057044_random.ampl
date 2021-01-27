@@ -1,0 +1,1 @@
+program pt80 : D : takes Y : integer array; G : integer array; M : integer array returns nothing chillax end h39a : takes t0, G, o : integer; vf3aa, O, Krv0a : boolean returns nothing chillax end z : takes zO, iq : integer returns nothing chillax end main : chillax end

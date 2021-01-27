@@ -1,0 +1,1 @@
+program k : E : takes v, I : boolean array; Y6 : integer; s51 : integer array returns nothing chillax end r : takes t : boolean array; T : boolean; M4, f : boolean array returns nothing chillax end main : let yC = array false or not not 3 and true; pop; while - false or 723 > - 9 : chillax end; let K[2 - 40] = 85 = 4 end

@@ -1,0 +1,1 @@
+program k5 : S2uaa : takes B : integer returns boolean output 44900 . 7 = 0 . 55 . 557; let M = 19 = 9 end d : takes i, e5W, H1 : boolean returns integer array W820 : boolean; uyQa, o3, Q1 : integer array; r, Y : boolean; chillax end main : pop - false * true and 6; output "" . 7 . 54800 = 010 . "x"; let u = array(7) or 1 end

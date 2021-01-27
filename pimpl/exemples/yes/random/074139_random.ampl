@@ -1,0 +1,1 @@
+program K33 : main : z, g000 : boolean; let P6 = - false * not 850 >= - d3 or 70700 - 63; when case - jf rem false and 4 or(6) and 4 - 362 = (5) and 6500 : output 4 . 54 . "" end case - not 6 - 0 - 35 : chillax end otherwise : chillax end; do S0(- 4 = 6, - 22700 < 28, 23); let hTl[020] = array - 7610; pop 4; do K(40); pop end

@@ -1,0 +1,1 @@
+program O : U : takes pu, l3Y : integer; l : integer returns nothing input x; output 87 . 85 . ""; do mj(189, 5630, 87) end f : takes Tf, g, F, Y : boolean returns nothing chillax end main : chillax end

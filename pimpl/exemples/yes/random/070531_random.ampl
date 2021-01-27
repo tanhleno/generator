@@ -1,0 +1,1 @@
+program Sj : main : X, o, h, Lo : integer array; P : boolean array; when case false or not false / true and 07800 + false and 4 - 66 <= true and 6 : do X(- 3 - 8, 8 = 6) end otherwise : when case 30600 : chillax end case 48 : chillax end otherwise : chillax end; let I3[0] = array 934; pop end end

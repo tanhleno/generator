@@ -1,0 +1,1 @@
+program H : CZ : takes l45aa : integer array; Vj : boolean array returns nothing when case true and 88 - 09 : input _9; while 6 : chillax end; while 042 : chillax end; pop end otherwise : output "o4"; do D(6) end end GKH : takes Z : boolean; Nm, o90a, mV5 : integer array returns integer while 3 : chillax end end main : chillax end

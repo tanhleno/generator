@@ -1,0 +1,1 @@
+program gg4aa : c : takes Q7, mhW0a, BgJa, ti : integer; z, P, k : boolean array; C : boolean returns nothing when case(350) - 7 : do M(2630); let s = 355 end otherwise : while 917 : chillax end end end main : chillax end

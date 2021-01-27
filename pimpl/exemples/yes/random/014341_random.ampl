@@ -1,0 +1,1 @@
+program kz : NPq : takes R, M, K3 : integer array; p2p0 : boolean returns integer array output 3860 - 8 >= 6 . 129 = 9090 . "C#" . "16" end A : takes B, L : integer returns nothing om : boolean array; let Ob = array - 7 - 4 end main : chillax end

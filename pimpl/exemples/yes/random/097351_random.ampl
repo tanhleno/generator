@@ -1,0 +1,1 @@
+program a7Ba : main : when case 7 - false <= true rem(6) - not 2 : while 0 <= 10 : input K end; input D_K; while 0 : pop end; let i = 0 end; do E(- aD9(183) * not 7 + cG8 and 89 > - P and 2, (2) + 811 - 2 >= 5920 - 23, - 2 - 0, 28 = 14, 3) end

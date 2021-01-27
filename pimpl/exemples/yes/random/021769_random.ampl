@@ -1,0 +1,1 @@
+program _ : I : takes AZ6, I : boolean array returns integer pop - 9 - 4; output 95300 . 2 . "" end I6Za : takes y : integer array; w : boolean array returns nothing chillax end main : let Nk[- not(75) or not(5330)] = array - true * true end

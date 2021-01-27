@@ -1,0 +1,1 @@
+program R3 : c : takes J, vL : boolean returns nothing chillax end qgK : takes w : boolean array returns nothing chillax end main : X7, Q : boolean array; when case - not A(40) >= not P and true : chillax end; when case - Rh30 / not 7 and 71 : output 8 . "" end end

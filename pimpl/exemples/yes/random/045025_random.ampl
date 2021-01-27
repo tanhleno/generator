@@ -1,0 +1,1 @@
+program R0f : N : takes b : boolean array returns nothing let hq = 9070 = 92900; while 5 - 5 : chillax end end main : do k(- true + (93)); let P = 6 >= 41200 - 036; do Hck(false and 0 >= - 926, 04 - 51 <= 2910) end

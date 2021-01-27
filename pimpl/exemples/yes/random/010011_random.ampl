@@ -1,0 +1,1 @@
+program hi : Q : takes aW, GC, r : boolean array; B4 : boolean; C : boolean; T, h98 : boolean array returns integer let j = - 2; let S[- 3] = array - 9 - 8; let aG = array 431 end main : let T[W20[1] rem false and false and 94 - (3) rem true and 49 or false + 6 - 47] = - 51; pop - true and 194 - 5690 <= - 96400 - 71; input a6[true and 6 + 22] end

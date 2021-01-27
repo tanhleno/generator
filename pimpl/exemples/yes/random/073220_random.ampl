@@ -1,0 +1,1 @@
+program v : main : a250a, A, u : integer array; while false - false = - false - true : chillax end; when case - (78200) or true - 7 = false and 5 - 83600 - 22 : pop 0 end case - not 8 and 731 - 95 - 2 > 7500 : pop end otherwise : let Uht0a[75] = 232; do Ej7a(70); while 2 : chillax end; pop end end

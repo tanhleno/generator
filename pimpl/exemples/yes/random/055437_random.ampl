@@ -1,0 +1,1 @@
+program u : C : takes v : integer array; z, Ny : integer returns nothing output - 9 <= 8; while 71 - 0190 = 294 : chillax end; while 0 : chillax end end main : y6 : boolean array; F, e5r, x7c0a, g110, y, h_ : boolean; V30 : integer array; chillax end

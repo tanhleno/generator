@@ -1,0 +1,1 @@
+program v6xaa : S : takes j : integer array; r : integer array; I0 : integer returns integer array p : boolean; SWP0a, f, Q9, g : boolean array; j, o7Y, Dw : boolean array; do G(- 0 >= - 15 - 6); output "" . "m3!a" . "@" end F : takes yp, F : boolean array returns nothing chillax end main : chillax end

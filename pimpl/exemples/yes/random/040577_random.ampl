@@ -1,0 +1,1 @@
+program L3 : z1 : takes q85 : boolean array; c : integer; OQt0, QVn : integer array; y3, Cxh, a, o, N3 : boolean; _4 : boolean; M, T : boolean array returns integer pop; when case - 09 - 89 <= 20 : input X end; input UW[5]; input e4[2720] end main : uuIaa : integer; K, S : boolean array; pop end

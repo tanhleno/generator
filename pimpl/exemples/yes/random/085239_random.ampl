@@ -1,0 +1,1 @@
+program B : main : h8 : integer; when case true - (75) <= (5) - b0 and 3 or 0 - 6 : chillax end case - false rem not 8 + T <= - false and 76700 + 8 - 5 : pop end case - 3 /= 465 : chillax end case - 27000 : while 31 : chillax end; input c; pop end case 575 : while 29 : chillax end; pop end otherwise : input P[0] end; input k0; do Nq80(- 57 + 7940 < - 8 - 016) end

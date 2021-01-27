@@ -1,0 +1,1 @@
+program SW40a : gQ4 : takes E : integer array; f : integer array; P9, Ld, U, l, W, V5La : boolean; P5o, o : integer array returns integer array chillax end main : do a((9) and(2) or 3 / R2 and 16 - w >= 5720 and j and 8, - 49 and not 2 - false and 5620 /= - 0) end

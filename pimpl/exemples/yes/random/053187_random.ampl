@@ -1,0 +1,1 @@
+program o : i : takes i8T : integer; of : integer returns integer array ex6aa : boolean array; R : integer; cr, M2, uYJaa : integer array; do B(- not 79 and 0, 86 - 56 = 562); pop; while 9 = 1 : chillax end end main : G27, P, F8e0a : boolean array; z, H7w : integer; p, Zl1aa, g, oJ : boolean array; Z, WT, f, Fq : integer; chillax end

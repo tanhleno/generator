@@ -1,0 +1,1 @@
+program q : main : do N(- c540[0] rem M2[22] / h130a and 75 + E(750) + false < true rem Z - i and 9 or 7910, false or true and 8 or 8 - 19500 = - (0160) and 77600 - 9); when case(369) * (94) and 7 : while 78 : chillax end end; when case u and 4 or 355 : input W end otherwise : chillax end end

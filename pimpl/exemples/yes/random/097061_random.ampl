@@ -1,0 +1,1 @@
+program pM : main : when case r_[7] or(9) * false : while 2000 : let n = 4; when case 2870 : chillax end end; while 8 : pop end; let z[6] = 4 end case - true - false and 88 + 04 <= - not 36 - 142 : chillax end end

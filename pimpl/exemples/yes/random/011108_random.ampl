@@ -1,0 +1,1 @@
+program _MU0 : rh70a : takes L, A, Hb : boolean array returns nothing chillax end main : b : boolean array; pop; do h(not J); while - 8 and 892 : chillax end; let f[- 55900] = array - 5; while 2 : while 5250 : chillax end end; input _; pop; while 9 : chillax end end

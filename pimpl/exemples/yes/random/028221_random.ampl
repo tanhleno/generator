@@ -1,0 +1,1 @@
+program RU3a : u8vaa : takes C, o41a : integer array; E : boolean array; N, u3, y, I, CI, f49 : boolean array; e : boolean array returns boolean array i3n : boolean; c, U : integer array; chillax end Mk6 : takes t7 : boolean array; s : integer array returns integer array nt4 : integer array; pop; input S[4160] end main : K : integer; M, G : integer; chillax end

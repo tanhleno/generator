@@ -1,0 +1,1 @@
+program a : Ys : takes D : integer returns nothing L, K93 : integer; X, P, U7, W38 : integer; m : integer array; input bn70a; while 8 - 8 = 1 : chillax end; pop 3 end d : takes N : boolean returns nothing A : integer; I, d1d0, OvQaa : integer array; chillax end main : chillax end

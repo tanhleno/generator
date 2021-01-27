@@ -1,0 +1,1 @@
+program IZ : q : takes px1, C920, CP7 : boolean array returns boolean S4, BZ : boolean; O : boolean; Q4, _9 : boolean array; R9 : boolean; j : boolean; chillax end v8 : takes Z3A : integer returns nothing chillax end main : chillax end

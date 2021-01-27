@@ -1,0 +1,1 @@
+program p0 : Z : takes Ym, m, IkG : boolean; S5 : boolean array; _ : boolean returns integer array tI, uF, O70a : integer; chillax end a : takes Z, E, a, G : boolean returns nothing d0q0, b, v : integer; let M[- 6 - 5] = 93500 end main : n1, n7, O : boolean array; eY : boolean array; x : boolean; chillax end

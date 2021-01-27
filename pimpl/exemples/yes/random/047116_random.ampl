@@ -1,0 +1,1 @@
+program l : a3 : takes L : boolean returns integer m, nl : integer array; do F(- true - 03500 /= - 3 - 6, 4 - 6 /= 5, 28500, 9, 7) end main : w130a : integer; l : boolean; U : boolean; P, Ie : boolean array; while - I[07] * (24100) + true * false and 3 > dk[538] rem(5940) and 5620 : chillax end end

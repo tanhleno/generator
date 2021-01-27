@@ -1,0 +1,1 @@
+program a64 : main : u2 : boolean; n88 : integer array; h, I : boolean array; W : boolean array; output true /= Hn3 . ""; let d[- false / not 8] = - (4) and 5 or 63 - 8 > 90 - 85; input nK00a[- false and 69 - 0 - 39]; pop; when case 1 = 3 : chillax end; pop 20; output "" end

@@ -1,0 +1,1 @@
+program h : T : takes k2, e, s3Ea : boolean array returns nothing Yp8 : boolean; d93 : integer array; NB, C6y, u_9a : boolean array; output - 586 - 7 >= 5 . 56500 . "\tw" end main : let xO = array - 6360 and(6) or 879 - (8) and 35 + 3470 - 5 end

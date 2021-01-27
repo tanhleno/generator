@@ -1,0 +1,1 @@
+program k : r : takes Er0aa, Y6, UVD0a, L : integer; L, Dl3, XE, c : boolean array; v : integer array returns integer array M : integer array; input i end main : k9, B6l, w : integer; X0 : boolean; k, Z0 : integer; when case false * true : chillax end; output "" . 6 = 88700 . "9" . ",\"0a" . 261 . "8" end

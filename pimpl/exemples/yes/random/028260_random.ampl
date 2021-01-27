@@ -1,0 +1,1 @@
+program i : Z : takes w, W5 : integer array; c24 : boolean array; y, M : boolean array; M, f : boolean array; F : integer array; _ : boolean returns nothing do s(- (48400) and 5 + 30 = - 65 - 4); input I; while 0 = 0 : chillax end; output 58 . "b#a"; input B end main : output - 3 and false and 0 > H and 2940 . - false and 21 or 0 <= 60 - 1; output "" . - 57 - 46 . 17 . "1V" end

@@ -1,0 +1,1 @@
+program l : _ : takes v, PX, VI, Yn, n6, d, k, K9v : integer; X : integer array; DI, K2X0 : boolean array; _2 : integer; lD, G : boolean; R, b, O5 : boolean array returns integer array output 4 - 83700 > 70300 . 8 end main : chillax end

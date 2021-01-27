@@ -1,0 +1,1 @@
+program E5 : _ : takes y, a, L : boolean array; _, R3E : boolean array returns nothing KU, w, V, _, U : boolean array; P_ : boolean array; X6, C : boolean array; input S[- 11600 and 2970 - 186]; while - 656 - 4 : do PZ(509); pop; pop end; pop 44; pop; pop end main : chillax end

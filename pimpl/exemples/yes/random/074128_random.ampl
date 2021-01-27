@@ -1,0 +1,1 @@
+program Q9 : main : J, o3 : boolean; input N[8410]; pop; do _(false + 58 - 4, - 01 - 33 /= 2); while - 55 : chillax end; input P[415]; when case 2 : pop end case 5 : chillax end otherwise : chillax end; output "`"; input l end

@@ -1,0 +1,1 @@
+program M : m : takes OS0, v, D, t : boolean array; Q7 : boolean; n7S0, Gs1, x, B9 : boolean returns boolean G : integer; input k[false and 87 or 4]; output ""; output 7; do Q(65, 6); do WYJ(9) end main : let c[true] = - not not 0 + not 0 and 0 >= - FH end

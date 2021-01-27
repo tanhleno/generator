@@ -1,0 +1,1 @@
+program zM : main : let y[- 96 / (387) or true and 17900] = false / 573; when case - not false * true : while 129 : chillax end end otherwise : chillax end; pop; let xX[- 30600 - 6] = array - 8370 - 720; while 811 : chillax end end

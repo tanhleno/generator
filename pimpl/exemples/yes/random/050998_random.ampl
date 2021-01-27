@@ -1,0 +1,1 @@
+program s : N : takes s : integer; w, U : integer array; pEy, O : integer array returns integer let V_q[- true + 4 - 9] = - 51; pop 856; do yM(0); input k4 end main : R : integer; R : integer array; chillax end

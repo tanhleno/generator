@@ -1,0 +1,1 @@
+program zk : M : takes g, p, Hu1, d : integer array returns nothing j, Y, dbF, V : integer; z, S : integer array; R : boolean array; _ : boolean; chillax end gjV : takes Y, SW : boolean returns nothing j, R : integer array; chillax end main : pop FD * (8) + true and 58; do C7(- 57 and true and 22 = - false and 65, _t9a and 4 or 826, - 7 > 11100) end

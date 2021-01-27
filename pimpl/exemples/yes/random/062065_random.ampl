@@ -1,0 +1,1 @@
+program F : oG50a : takes M : integer returns boolean array input l78[true and 80] end z : takes l, a, i, N : boolean returns nothing chillax end w : takes bd : integer array; T, vw : boolean returns boolean array wh2 : boolean array; pop end e0N : takes r : integer; h, H : integer array; R : boolean returns boolean array chillax end main : k5 : integer array; pop end

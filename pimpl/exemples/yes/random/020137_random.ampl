@@ -1,0 +1,1 @@
+program YW : _ : takes q1, _ : boolean array; T9 : boolean returns integer array LNeaa, r76, aM : integer; e, Ks, b, dX5a : boolean array; H18aa : integer; chillax end main : pop not false rem(5340) and 11 or true and 8 < - not 7440 - 8; output "1" . "\t"; let O5[- true] = - 1 - 1; input g[40]; output "" . 15 . ""; do C(2); when case 1 : chillax end end

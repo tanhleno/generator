@@ -1,0 +1,1 @@
+program L90a : dO4 : takes Uy, f, f : boolean array; J06aa, j : boolean array; spm, R9, b7k, G : boolean returns integer array u, I : boolean array; z, qu8 : integer; chillax end main : E1 : integer; z0e : boolean array; V, Q3, r : integer; do s14((409 = 230) + 316 or true and 98 > - (1) * YK and 049); while not false rem not 2 and 1 : chillax end end

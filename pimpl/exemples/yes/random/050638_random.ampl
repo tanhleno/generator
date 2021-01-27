@@ -1,0 +1,1 @@
+program Q96aa : a : takes B : integer; S, V : boolean array returns nothing WJg0, m : integer array; chillax end HD50 : takes y : integer returns boolean array let z37 = 4 = 4 end C : takes H, T, r2Ya, fXJaa : boolean; s, LIF : boolean; T, L0w, RkM : integer; O3Kaa : integer returns boolean array output "" end main : J : boolean; let B[true] = array true rem(7) end

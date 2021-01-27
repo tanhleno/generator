@@ -1,0 +1,1 @@
+program L970a : T : takes rC : boolean array; s : boolean; M800, h8y, z, t : boolean array returns integer array chillax end X96a : takes Q8 : boolean; E : boolean returns integer array chillax end s : takes c1, GC5 : boolean array returns boolean T, T, w : integer array; iRj0 : boolean; output "|\t0" end main : i5, w : integer array; R3 : boolean; chillax end

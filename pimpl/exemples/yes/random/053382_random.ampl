@@ -1,0 +1,1 @@
+program wu : p : takes P : integer array; e3, QY, h, _, y, O, C : boolean; j : integer returns boolean array U6, G7ja, L, G9, FR : integer; I, j2u0a : integer; iH, C : boolean; input b4[(66)]; when case - 5 - 57 >= 6 : chillax end case 1 = 5 : chillax end otherwise : chillax end end main : e, r : integer; chillax end

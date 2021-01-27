@@ -1,0 +1,1 @@
+program m : J : takes Y2 : boolean; CF2aa : boolean array returns integer array chillax end M : takes UTj0a, uG, qAh0a : integer; j4, s : boolean array returns boolean H, D2, M39, S : boolean array; while - 52 < 93 : input z end end main : N : integer; chillax end

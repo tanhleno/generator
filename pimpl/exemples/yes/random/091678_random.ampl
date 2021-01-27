@@ -1,0 +1,1 @@
+program i : main : let R[true / true - 76 or b and 9 - 395 - 07100] = 9; when case false rem true : let h[2] = 59; let dXd = 5; while 501 : chillax end end otherwise : input Py; when case 8 : chillax end; let i = 51 end; when case 33 <= - 534 : chillax end case 7290 : chillax end end

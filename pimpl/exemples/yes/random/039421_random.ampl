@@ -1,0 +1,1 @@
+program Y : L62 : takes uw : boolean array; xb5, v : integer returns nothing chillax end wf6aa : takes k, w, JQ, D : boolean returns nothing d : boolean array; chillax end main : M0 : integer; let N5[- (2 = 5) - false or true] = array - true and b(4) - (9200) + not 7140 and 69 + 9 - 918; output - not 574 and 2 < - 45 - 509 end

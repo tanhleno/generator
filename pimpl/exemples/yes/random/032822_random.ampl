@@ -1,0 +1,1 @@
+program E : v : takes R, i83 : integer returns nothing q : boolean array; MeL : integer; chillax end N : takes E0, v7, c, O : boolean returns nothing when case - 1 - 48 = 95100 : chillax end otherwise : pop; pop end end main : chillax end

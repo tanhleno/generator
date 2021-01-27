@@ -1,0 +1,1 @@
+program QZ : X : takes z5Y0a, c, i, g27aa, u, d89a, Q : integer; NvWa : boolean array; C, PP8, r, I2 : boolean; h, r, Pm, z0 : boolean; D : integer array; u, t : boolean array returns nothing k4, gwBa : integer array; pop 39 - 2; input f[- 3 - 48] end main : g, D, X, v36, O : boolean; input H end

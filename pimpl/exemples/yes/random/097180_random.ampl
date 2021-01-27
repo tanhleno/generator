@@ -1,0 +1,1 @@
+program O : main : when case not I(52300) /= true rem true : chillax end case - false > t5 and 58 : chillax end otherwise : chillax end; output false and 84700; input s; input VfH0a[8 - 5]; output 3 . "" . "" end

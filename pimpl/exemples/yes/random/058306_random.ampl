@@ -1,0 +1,1 @@
+program H : u610a : takes d54 : integer array returns boolean i14a : boolean; chillax end main : P, C, i8e, uE : integer array; c : integer; pop; while false and true and 4 or false and 354 : pop 58; do tB(9); pop end; pop - 3 end

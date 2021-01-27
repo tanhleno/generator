@@ -1,0 +1,1 @@
+program h : O43a : takes jaJ, d, N83 : boolean returns boolean G, t7, a01 : boolean array; A, Rb1aa : integer array; when case(4) /= 049 - 6 : chillax end case 8 - 9 : pop; pop end case 1 : chillax end; do A(- 11 - 942 = 7, 6 = 18); let F = array 12; input j5 end main : input C5B end

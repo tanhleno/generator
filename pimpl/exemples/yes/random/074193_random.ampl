@@ -1,0 +1,1 @@
+program e : main : Y, yi : boolean; let tW[- (89500 = 097) * false] = - wOf * 50300 < true or 4 - 59; when case - not not 4 and not 93 : chillax end otherwise : while 20 : chillax end; while 99100 : chillax end end end

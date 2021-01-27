@@ -1,0 +1,1 @@
+program Jr2a : main : mpc : boolean array; GZ2a : integer array; VC7 : boolean array; do K(false or not(6) rem false or false > - 2 - (09) and 83, not O8 < - vK and 5); while true / 6 and 7 > - not 44 + 7 : chillax end end

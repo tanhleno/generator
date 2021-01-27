@@ -1,0 +1,1 @@
+program Z : main : while 383 / 1 rem not 0 and 3 <= - not true or(550) + 084 - 2 : when case - 2 - 5 < 6 : when case 604 : chillax end end case 34 = 5 : chillax end; when case 5 : output "" end otherwise : pop end end; let g[not 3 rem not 84] = not 8 and 2; let O[nER0 and 85 - 51] = 43; input z[6]; pop 9; while 706 : pop end; pop; when case 77100 : chillax end end

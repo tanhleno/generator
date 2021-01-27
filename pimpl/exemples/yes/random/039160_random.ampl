@@ -1,0 +1,1 @@
+program u : Z : takes v : boolean array; e, g : integer array; Z : boolean array; v, s : boolean; x, b54 : integer; B : integer array returns nothing do aE(n or 0 - 14, 4 - 6900 <= 8) end main : while 5 : chillax end end

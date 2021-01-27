@@ -1,0 +1,1 @@
+program V : main : U, vw, R7 : integer; y : boolean; E, M, F1Ia, X7, e3 : boolean; l : boolean; U : boolean array; S5K : boolean; O : boolean; ty00 : boolean; pop - pH(2) + false or 8 - 123; do ih(true rem true + false and 06 or 956) end

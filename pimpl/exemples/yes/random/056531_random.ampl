@@ -1,0 +1,1 @@
+program s : W : takes Df4 : integer array; t : integer; Stma, e3l, A : boolean array; zMk0, o : integer returns integer output - 1 - 24 < 43 . "Gc" . 92300; pop end E : takes W : boolean; l4 : integer returns integer array chillax end main : chillax end

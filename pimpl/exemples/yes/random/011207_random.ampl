@@ -1,0 +1,1 @@
+program c : f6 : takes i, f, P8 : boolean array returns nothing i8, G, u : integer; R, k : integer array; k, Am, hXk : integer; let j[not 256 and 0] = array - true end p75 : takes H370a : boolean array returns integer chillax end main : H, BG : boolean; output false; do q(2280 / 6 and 63500, true /= - 81 - 0); output - 8 /= 83 . 3 = 2 . "" end

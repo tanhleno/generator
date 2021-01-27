@@ -1,0 +1,1 @@
+program Z : D : takes L, L, jJmaa, c : boolean array returns boolean array t : boolean array; pop - 05 end main : let p5[true - false + nR and 7 or 78] = - not(63); when case - not true * not 331 + not 44 + 6 - 30300 > true : chillax end otherwise : chillax end; do lI(- 9 and 92 + 3 <= - 4 - 2) end

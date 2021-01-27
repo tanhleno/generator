@@ -1,0 +1,1 @@
+program M5A : main : P7, qUr : integer; while(3) : chillax end; pop; do Y((0) and 23 /= 970); while 2 - 55 >= 9 : chillax end; while 61 = 875 : while 45 : chillax end; pop end; when case 1 : pop end otherwise : chillax end end

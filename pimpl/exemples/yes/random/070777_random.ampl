@@ -1,0 +1,1 @@
+program UT : main : G, TY7, h23 : boolean; c, p, sa, N4o : integer array; Tq : integer; do U0(- K98aa and not not 3 > true or false and 9, - not true rem false and 67600 or u or 02 - 79, - M_L and 17900 - 6 - 58 <= - 64); when case - false = - false - 9 : chillax end end

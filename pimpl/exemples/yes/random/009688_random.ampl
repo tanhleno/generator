@@ -1,0 +1,1 @@
+program E : gt70 : takes x, u, us : boolean array; a, Nxd0, I3 : integer array; I4sa : boolean; qEd0, u97aa : integer; s : boolean returns boolean _, H2 : integer; while - pW7aa and 4 = - 9 : chillax end end main : pop - O(3) + 4960 or 6 >= - false and 60 end

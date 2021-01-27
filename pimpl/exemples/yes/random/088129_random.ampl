@@ -1,0 +1,1 @@
+program p9Q0 : main : input j; when case - (078) rem true and 33 >= - (05) and 6 : chillax end; when case not 9 and 0 - 868 : chillax end case 0 : chillax end case 3 : when case 85 : chillax end end case 60600 : chillax end otherwise : while 9 : chillax end end end

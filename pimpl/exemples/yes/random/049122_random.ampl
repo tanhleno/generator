@@ -1,0 +1,1 @@
+program g : D : takes I2 : boolean returns nothing when case - 3 <= - 4 - 9 : while 5 : pop end; output "v\""; pop end end qqt : takes L, Y9 : integer array returns boolean y4, B, D : integer; M, i, b : boolean; pop; let y = array 9; when case 0 : chillax end case 408 : chillax end; input O end main : pop true / 34 and 9 or(6) and 92500 <= true and 408 end

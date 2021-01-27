@@ -1,0 +1,1 @@
+program y : main : when case - not(51) and true and 766 >= - not false rem not 4 : chillax end case true / not 72 and 96 > - (92700) and 436 + 5 : chillax end case false and 4 < - 1 : chillax end end

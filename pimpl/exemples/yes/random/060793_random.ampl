@@ -1,0 +1,1 @@
+program rb8aa : v9d : takes ygm : integer array returns nothing V : boolean; A : integer; input NT20[jY]; let F = 7 end main : t : boolean; _w, H1, a, c2y, vI, w : boolean array; b270 : boolean array; X : integer array; nq, KH : boolean; pop m[3]; do Sk5aa(n(53) rem f and 580 + n - 7 /= - AJ and 7 - 2, - false, - 87) end

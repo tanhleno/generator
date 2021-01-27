@@ -1,0 +1,1 @@
+program j1 : u : takes yd2 : boolean; r, Tc2 : integer returns boolean i : integer; chillax end main : do k5(not not not 05700 - true >= - (9800) + B52a and 8, l(4) and F and 0560 + (97) and 6); input Vv[45 or 20600 or 2]; do Z(false /= - 4, - 0) end

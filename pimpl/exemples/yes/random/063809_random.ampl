@@ -1,0 +1,1 @@
+program U : z6 : takes l6 : integer returns nothing chillax end Ej : takes me : integer; C3 : integer array returns integer array l : integer array; pop 92 = 8; let Db = 3340; input e2[9] end l : takes O4t0a : integer array; Z5, c7_0, z : boolean returns nothing pop; output 8 . "06"; input M end main : chillax end

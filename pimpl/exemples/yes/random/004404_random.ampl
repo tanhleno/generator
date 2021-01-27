@@ -1,0 +1,1 @@
+program TP : LB : takes ke, a, b, K : boolean; L, U : integer; S : integer; zy : boolean returns integer array Bq4aa : boolean; kn, p2z0, e, t : boolean; chillax end main : a0, K : boolean array; j, f, s, r, Y, U : boolean; e, g, Y : integer; w : boolean array; x, N : boolean; while(092 = 0) rem G / jY or not true and not 8 = - true and false : chillax end; pop(3) or 37 end

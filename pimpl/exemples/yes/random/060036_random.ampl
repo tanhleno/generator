@@ -1,0 +1,1 @@
+program E8k : v65 : takes W : integer array returns nothing chillax end main : z : integer array; do GMD(- 9 * false <= true or not 7 or 1 - 4, - not false / (35) and 681 + false /= - true and 0, - true and 59600, 2 - 449 /= 9, 028 = 9810, 10, 8600); input c[- false + (8) + 6 - 0] end

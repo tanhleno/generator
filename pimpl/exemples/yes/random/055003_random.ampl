@@ -1,0 +1,1 @@
+program f6 : ir : takes y : integer array; XtS0a, b : integer; d2 : integer; M, k190 : boolean; N, k, A : boolean array returns boolean Y : boolean array; let M9[- (1)] = 4980 - 94; output 4 = 0330; input Q[069] end main : chillax end

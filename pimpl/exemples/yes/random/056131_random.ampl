@@ -1,0 +1,1 @@
+program R : K : takes tCIaa : integer array; YWXa : boolean array returns nothing A210, Z, sJ90a, B2 : boolean array; Yd : boolean array; N : boolean array; rqn0a : boolean; Ji : boolean; chillax end t : takes Q : integer returns nothing while - 852 : input p; when case 4 : chillax end; pop end end main : let d = - 6 - 77600 - 8 /= - j and 8 end

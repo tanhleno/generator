@@ -1,0 +1,1 @@
+program F : C0 : takes _, u : boolean array; kPbaa : integer array; q, A : integer returns integer pop - 6; output "" . 5 . 358 . "F^a"; while 26 : when case 8 : chillax end; pop end; while 77200 : chillax end; output "j"; do L040(889) end main : e : boolean array; while false - O - rd and 82 >= false + u2 or 7 : let R3[- 79800] = array 5 - 00 end end

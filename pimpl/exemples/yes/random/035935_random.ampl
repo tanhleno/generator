@@ -1,0 +1,1 @@
+program h : g : takes ReF : boolean; R : boolean array returns integer array pop - 22; do P72(- 08800) end B : takes Y : boolean array returns integer array when case 901 : pop end; input S5[1] end main : W, tV2aa, oM, R : boolean array; I, R : integer; ic0, u : boolean array; F4 : boolean; pop; do G1(true * true > q and 8, (2) and 7 = 2); output - 220 - 8 <= 37 end

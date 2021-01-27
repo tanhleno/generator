@@ -1,0 +1,1 @@
+program A : PK : takes iq, U : boolean array returns nothing when case - (35) and 6 + 2 - 09 : when case 8 : pop end end otherwise : chillax end; let Dg8[- 7030] = 51; input j0d end main : g2 : integer; let S3Q0[true + h1(5) / false] = - not true + false - 8 - 6; let Ts0 = - 3 - 3 - 274 /= - 03 end

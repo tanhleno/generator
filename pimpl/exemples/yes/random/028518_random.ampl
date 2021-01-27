@@ -1,0 +1,1 @@
+program E : d7 : takes X7, T9 : integer array; O : boolean returns boolean array when case - 1 : chillax end case - 06 - 56 : input vqk0; when case 15 : chillax end end; output "" end f : takes q, M : integer array returns nothing y : integer; D8m0a, K73 : integer; chillax end main : Vv : integer; input Q[- true and not true] end

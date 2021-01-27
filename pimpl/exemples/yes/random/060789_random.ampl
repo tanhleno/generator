@@ -1,0 +1,1 @@
+program he80 : _7p : takes i : integer array returns nothing V : boolean; x230a : integer; chillax end main : input VX30a[false / y + false]; do x480(false and false < b3, - (1) and 7 + 95, 84400 - 67 <= 5, 58) end

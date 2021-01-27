@@ -1,0 +1,1 @@
+program j : _NIa : takes Yl, N : boolean array returns nothing do d((3) + 6510 - 94, - 5, 79500 = 97, 5); do N(9 < 8, 46) end main : let d[false and true or 2 * false and 557] = array - true / true rem not 983 and 4 + (6) * (0) + true + 1 - 7 end

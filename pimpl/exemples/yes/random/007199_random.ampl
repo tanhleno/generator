@@ -1,0 +1,1 @@
+program BE : Q2 : takes d3, L0, J, F : integer array; J7 : boolean returns integer array h3 : boolean array; chillax end d : takes s : boolean; q, R3o : boolean; c : integer returns integer array chillax end main : Sh70 : integer array; A, n, __3a : integer; let A[- xv / Z] = array false; output "ur"; input q83aa end

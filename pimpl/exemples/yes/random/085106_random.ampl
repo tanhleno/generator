@@ -1,0 +1,1 @@
+program B8 : main : U66 : integer; when case(755) rem 78 and 1 and 70 or 7 + false + 3 - 7 /= - 7170 rem not 9 : when case 4 : while 0 : chillax end; input U8b end; let e3w0[19] = 8; when case 0 : chillax end otherwise : chillax end; pop end case - (9) - w and 1 or 4 /= - (346) and 4 : chillax end; output ")" end

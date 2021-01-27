@@ -1,0 +1,1 @@
+program B : main : O : integer array; when case false + true + true >= - false and true and 1 : chillax end case true and kbUaa - false and 2 = J + 9 - 99 : chillax end otherwise : chillax end; pop; while true : when case 8 : pop end end; let YkD0a = array 8 end

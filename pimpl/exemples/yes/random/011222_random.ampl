@@ -1,0 +1,1 @@
+program b : G : takes k, cZ, t : boolean array returns nothing aW3aa, J : boolean; chillax end main : o, xx6, ck : boolean array; C1, bMP0a, fy, e, b : integer; D2, w, QF, M7 : boolean array; input D64aa[4480 / Q * (1) and 52500]; output false and 27200 - 6 >= - 1670 - 9 end

@@ -1,0 +1,1 @@
+program jM : z : takes o, k, iBv, V : boolean returns boolean array OoA, l : integer; output - 3 . 1 end main : when case - (0 = 96) : do K(07 > 35) end case - (7) and true and 37 : output "n5" end case K940 and 16 - 89 - 4 : chillax end otherwise : while 39 = 81 : chillax end; output "" end; do k(not(1) + false and 4 or 3 - 61) end

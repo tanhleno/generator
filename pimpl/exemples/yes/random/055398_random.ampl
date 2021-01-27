@@ -1,0 +1,1 @@
+program G : HLS0a : takes D : integer array; y, Ci : integer returns nothing p, Cqdaa, Tj80a, I3 : boolean array; chillax end main : LL30a : boolean array; x7, R : boolean; ba : boolean array; input x[- not 3 and(7) rem(120) + true / 24 and 72] end

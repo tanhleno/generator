@@ -1,0 +1,1 @@
+program d : s : takes itS, g, r, h, Phi : integer returns nothing L : boolean array; I0, Jo, FQm, I : boolean; let o = 8 - 194 > 04 end j : takes v, N : integer returns boolean array input C[855]; do H5(9 = 58); pop 4460 end main : s, G : integer array; t9, bD4, W, L3, u, BR : boolean; chillax end

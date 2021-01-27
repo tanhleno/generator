@@ -1,0 +1,1 @@
+program U : ck : takes q : boolean array returns nothing chillax end main : when case - false + false rem false >= not S8 rem true and 929 : chillax end; let U[- k[0] / false] = array - false - O4; pop 17 > 2 end

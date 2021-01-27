@@ -1,0 +1,1 @@
+program e5X0a : main : eLt, uI : integer array; when case - false + true > t3[66700] : do q(48 - 5, 6, 1, 3910); pop end; do Xr(false rem not 9 and 9 or true or 46 /= V6Q and 96); input xi[- 3 and 8 + 0]; output 235 . 7 end

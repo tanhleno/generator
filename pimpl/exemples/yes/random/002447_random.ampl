@@ -1,0 +1,1 @@
+program m : C6 : takes n, S5, q7, dL, k : boolean array; E33, P6x : boolean array returns boolean o8 : boolean array; chillax end n85 : takes DB8 : boolean array; I, b24a : boolean returns integer array i9 : boolean; chillax end main : qb : boolean array; chillax end

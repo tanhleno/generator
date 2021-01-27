@@ -1,0 +1,1 @@
+program dx7aa : _7 : takes I : boolean; D : boolean array; e, S, W, M370 : boolean array; w : integer returns nothing X : integer array; SE0 : boolean array; b80a : integer array; V4 : boolean; input tJ[not 791]; while 85 - 6360 : let k89 = 8; when case 3 : chillax end end; input d7[0]; input c[713] end main : chillax end

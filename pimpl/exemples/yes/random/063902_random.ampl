@@ -1,0 +1,1 @@
+program A36a : Lu : takes Wmoa : integer returns nothing chillax end main : r, J6, J : boolean; M : integer; when case true * false rem false and 53 + not true or not 0830 or 9 - 0 : chillax end case Y or false > - false and 93 : chillax end case false >= - 8 : let O8[9] = 1 end case - 49 : chillax end otherwise : do t(28 = 43400, 06) end; output - false and 7 /= 322 - 62100 end

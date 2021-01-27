@@ -1,0 +1,1 @@
+program tx0a : r1 : takes t : boolean; L2, g, m1y : integer returns boolean array chillax end main : Tv, mC : boolean; Gdm : boolean; B, o, E6s : boolean; UdGaa : integer; ZU, A, E8a : integer array; a, TYHa : boolean; chillax end

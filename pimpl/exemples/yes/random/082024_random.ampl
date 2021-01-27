@@ -1,0 +1,1 @@
+program I87a : main : J : boolean array; SK : integer; when case not O(2410) / not true : do x(- 8 - 1 = 0, 50, 7) end case - (9) <= 572 and 56 : do I(0, 8, 54); pop end case - dv and 99 + 14 - 1 < - 4 : while 0510 : chillax end end case - 63900 - 3780 : chillax end case 559 = 484 : when case 442 : chillax end; pop end otherwise : chillax end; output "" . 064 . "" end

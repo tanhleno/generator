@@ -1,0 +1,1 @@
+program R : w : takes C, C6 : boolean returns nothing x : boolean; E : integer; Po6 : boolean array; c, N : boolean; chillax end main : while - f1(1) rem 1 / true <= not 3 * not 4550 and 94 : let Vq00a = array - 8 - 07 end end

@@ -1,0 +1,1 @@
+program B : d : takes l9 : integer returns integer chillax end main : Z57, V78aa, D0 : integer array; while - t * 0390 rem not 6 + jGeaa[8] and false + true and 5 + 1010 <= not not 3 and false - false and 6 - 1 - 7 : chillax end; while - (3) rem 46 and 1 or 5 - 63 = - not 06 and 50 : chillax end end

@@ -1,0 +1,1 @@
+program A : Y5 : takes R, k : integer returns boolean F9, B, LM, I : boolean; V : boolean; pop end m : takes N2O : integer array returns nothing s, u : boolean array; Ldkaa : integer array; while - 58 - 45 : do N(9) end end main : pop end

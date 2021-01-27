@@ -1,0 +1,1 @@
+program Z : xb : takes Q : boolean array returns nothing chillax end Cb3aa : takes M, SP, I7 : integer; fd : boolean returns nothing DX : boolean; while - 5 - 670 : output ""; input T end; when case 2 : chillax end otherwise : pop end end main : i : integer array; chillax end

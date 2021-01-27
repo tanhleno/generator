@@ -1,0 +1,1 @@
+program N : vsSa : takes O8, Y5, D, pj : integer array; B : integer; U, B1, m : integer array returns integer hF : integer array; when case(2) and 1340 : pop 0 end case 03 : chillax end otherwise : chillax end; let K[- 8 - 5] = 0530 end main : do P(091 / Y4 rem 103 and 0 <= 8 rem(26) or not 7, - not 23200 / true and 8 /= (6) - 044) end

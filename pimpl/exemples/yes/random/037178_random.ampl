@@ -1,0 +1,1 @@
+program A : q68 : takes S : boolean; OgL : integer returns boolean array a1, D7Laa, S : boolean array; u : integer array; Tx, _, oT8 : boolean array; chillax end main : T8s : integer; S : integer array; chillax end

@@ -1,0 +1,1 @@
+program w5g : J5 : takes L, aQ4a, CY30 : boolean; O, kw7 : integer returns nothing Sg3, H9, o : integer array; let HFG0 = 5 - 321 <= 8 end Y5 : takes MR, w3, m, F2 : boolean array returns integer while - 53 : chillax end end main : while - l3[514] : chillax end end

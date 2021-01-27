@@ -1,0 +1,1 @@
+program m : Eb : takes r7V, r, FCP, h, WE, a : integer returns nothing C78aa : integer array; chillax end G : takes l, l, FR70a : boolean array returns integer pop 2 = 6 end main : l5, L : integer array; chillax end

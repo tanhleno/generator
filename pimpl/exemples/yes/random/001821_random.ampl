@@ -1,0 +1,1 @@
+program _ : f4 : takes PSL0, h, a, R0O, I, Ix8 : integer array; lF9aa : boolean returns nothing Qr : integer array; Wq : integer; A : boolean array; chillax end main : let m[- true * (0230) + (15)] = array - 590 and 24 or true / 6; do q(05 rem true and 34 or 71300 and 569 <= - false and 8, - I - 3 - 0); do f75(not 56 < 7 - 2270); let D[766 - 1] = array - 6 end

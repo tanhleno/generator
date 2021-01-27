@@ -1,0 +1,1 @@
+program b : main : _4, _, K : integer array; a, i : boolean array; pop; output 1 > - 3 - 0; when case - (9120) /= - 01900 - 31100 : when case 526 : chillax end; when case 169 : chillax end end; while - 53 = 88 : pop; input l; pop end; output 1200 end

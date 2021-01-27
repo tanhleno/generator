@@ -1,0 +1,1 @@
+program Y2 : P0 : takes j, QK, A : integer returns boolean array Z : integer; chillax end o : takes ar, TH : boolean; d : integer returns nothing chillax end main : do j7h(- 50 < - 7 + C and 484) end

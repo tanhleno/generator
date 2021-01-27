@@ -1,0 +1,1 @@
+program SPu : main : H : integer array; u : boolean; pop; while(28) * not 95500 and 1130 : input R6w[870]; input K[4450]; do V(1); when case 69 : chillax end end; when case - not 37 and 50 - 211 /= - 3 - 6 : chillax end otherwise : chillax end; output 88 . "Q"; output "\t" . "\n\\a" end

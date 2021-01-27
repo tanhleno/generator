@@ -1,0 +1,1 @@
+program c7 : u0 : takes l, t, W6, N : boolean; j : boolean array; P, X580 : integer array returns boolean n : boolean array; pop - 5 - 61 > 6 end main : let S00 = _[238] * Op and 0; when case false * 895 and 4 - false + 2 - 669 >= - not 0 and 1 - 8 - 7 : chillax end case - false - 5490 - 1 >= - 2750 : pop 6; input s4; pop; pop end case 70200 : chillax end end

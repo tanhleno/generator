@@ -1,0 +1,1 @@
+program k : ES2 : takes aBs, j280, j : boolean array; J : integer array returns nothing j0I0 : boolean; hD, GM, O, M : integer array; let Hi[- false and 43 - 7] = array v - 7 - 083 end main : when case - xC40(8) : do m(0 <= 6470, 9 = 09, 6) end case not H34 * (5440) and 66 : chillax end otherwise : do C(99); let Z[45800] = array 3; do H3(9850); output "" end end

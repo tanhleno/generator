@@ -1,0 +1,1 @@
+program FQ : i1 : takes i, O, C, B : integer returns nothing chillax end main : when case - true rem false * (9) and 24 <= - not not 60 : do Myq0a(73 - 36); input U23[4] end case - 9 : output 516; while 73 : chillax end end end

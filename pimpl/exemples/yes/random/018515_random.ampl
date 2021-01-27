@@ -1,0 +1,1 @@
+program w : L : takes X, j : boolean; L : integer returns integer array while 5 - 34 - 80 < - 5780 - 1 : when case 3 : chillax end case 8 : chillax end end; do d(110 > 1); pop; input y[10] end p : takes j, li : integer; m, W, e, c, vs, i : integer returns integer array chillax end main : G : integer; _ : integer; H, _ : integer; chillax end

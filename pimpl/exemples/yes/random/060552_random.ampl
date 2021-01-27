@@ -1,0 +1,1 @@
+program E : I : takes A : integer array returns nothing Zb, a : boolean array; g8 : integer; v : integer; pop 51 - 4 end main : o : integer array; t, E, BE : integer array; pop - true rem true and 0 end

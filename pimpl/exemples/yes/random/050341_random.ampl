@@ -1,0 +1,1 @@
+program _8 : T38a : takes S : integer; I, V0 : boolean; N, r : integer; V, A : integer returns nothing Qi : integer array; chillax end o4K : takes d, T3Eaa, U8A0a : boolean array; A, o53 : integer array returns nothing chillax end main : chillax end

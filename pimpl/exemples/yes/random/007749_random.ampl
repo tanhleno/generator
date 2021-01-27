@@ -1,0 +1,1 @@
+program I : C8 : takes l, L, w, We : integer array returns nothing I7, o680 : boolean array; pop - 5 - 1; do SQC0a(78, 035, 1, 13); let r[6] = 92; input s[6]; input IvZ; let kU1 = 7 end main : chillax end

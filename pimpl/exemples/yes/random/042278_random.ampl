@@ -1,0 +1,1 @@
+program To30 : y5qaa : takes y : boolean array returns boolean P : integer array; Z2 : integer array; while - 4 = 08 : chillax end; let mr = array - 67 - 2; while 49 : chillax end; input g[3]; do N3(0); pop; pop end L : takes l : integer returns nothing XF : integer array; chillax end main : uQ, UN, h7Raa : integer; w1k0, u4X, L, eT, DrI : integer array; chillax end

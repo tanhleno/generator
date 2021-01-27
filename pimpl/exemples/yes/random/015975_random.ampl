@@ -1,0 +1,1 @@
+program _55aa : b : takes s, w, o : integer returns integer array let p[- 17400 and 0 or 17 - 3520] = array - true; input t; while 45 : when case 95 : chillax end; pop end; input Y[2]; pop; when case 5 : chillax end; pop end main : chillax end

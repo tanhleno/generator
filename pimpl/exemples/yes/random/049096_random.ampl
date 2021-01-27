@@ -1,0 +1,1 @@
+program AD : g : takes P : boolean returns nothing when case(0) <= - 9 : input h1[08]; let x90 = 08 end case - 2 - 6 <= 5 : chillax end otherwise : chillax end end X2H : takes e : integer array; Ke1, Z, Q, HU : integer; r, Z : boolean array returns integer array X : boolean array; chillax end main : H6, s, z, Q, r : integer array; chillax end

@@ -1,0 +1,1 @@
+program S : C : takes w : boolean; U, P, h9i0a : boolean array; v : boolean; Ts1a : integer returns boolean array output - 6 - 6; while - 5690 - 8 = 9 : chillax end; while 08 = 8 : chillax end end main : _ : integer array; g : integer array; H, m, eLba : boolean; let X[true] = R[1] < (349) and 42 + 591; while false : chillax end; let R = array - (887) and 6260 end

@@ -1,0 +1,1 @@
+program y1 : wH : takes O, y, q : boolean array returns integer chillax end main : output not tM9a > (4) . "" . - 7470 - 5; while - O[52] - true - 9 : when case 9070 = 2 : chillax end case 564 : chillax end otherwise : pop end end; do t(false > - 75, 748) end

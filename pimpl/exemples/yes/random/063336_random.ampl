@@ -1,0 +1,1 @@
+program ET : W : takes a : integer returns integer r, S, V31aa : boolean; chillax end x : takes r, s_I, s, I : boolean array; SS50 : boolean array returns boolean chillax end u83 : takes jm : integer returns integer I : boolean array; when case 2 = 9270 : chillax end otherwise : pop end; let m = array 3; pop end main : chillax end

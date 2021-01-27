@@ -1,0 +1,1 @@
+program x03aa : m : takes V, H900a, S : integer array; q, Z8I, F, f0, fQia, D, X : boolean array returns integer array U : integer array; w4, t8, C : boolean; input g[- R + 8] end O : takes rr, n, D5, W8 : boolean array returns nothing G640, NL, q, u : integer; C : boolean; chillax end main : chillax end

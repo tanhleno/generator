@@ -1,0 +1,1 @@
+program m : S7 : takes n, r : integer array returns nothing when case true and 3 < 29400 : chillax end otherwise : do h(1); do z930(154); pop end; input o[- 3 - 60]; when case 1 : do l(4) end case 8 : pop end case 9 : chillax end; when case 68200 : chillax end; output "." end main : y : boolean array; do An(- not true * true or false / not 1 and 80) end

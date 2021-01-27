@@ -1,0 +1,1 @@
+program ma5aa : D4 : takes y, q, l57 : boolean returns boolean chillax end main : when case - 0 rem false : output 254 . ""; pop 62800; input a0na; let n3z = 1 end otherwise : while 3 : input U5w; pop end; do wD60a(41) end end

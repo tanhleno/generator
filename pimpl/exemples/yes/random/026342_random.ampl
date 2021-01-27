@@ -1,0 +1,1 @@
+program G0g0 : Kb : takes C, t7 : integer; v : boolean array returns nothing output "" . 55 . "" . "#" . "/" end p29 : takes gawaa, w, y, iL8, GAYaa : integer; pW : boolean returns nothing X, Q78 : boolean; chillax end main : while not not 7 * true <= - true * (1) or 9900 and 5 + 2260 - 92 : chillax end end

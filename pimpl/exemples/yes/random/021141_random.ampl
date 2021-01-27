@@ -1,0 +1,1 @@
+program O : S : takes pAgaa, tn : boolean array returns boolean jw : boolean; n : integer array; chillax end main : zWS : integer; g, vz8 : boolean; input EK; while false - (0) and 6380 or 84 - 57 : while 4 : while 7 : chillax end end end; while 8 and 61 - 26 - 85 : input E[4] end; input J7[66 - 2]; when case 4 : chillax end otherwise : chillax end; input S2 end

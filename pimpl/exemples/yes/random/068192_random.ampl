@@ -1,0 +1,1 @@
+program ll : main : b3V, b, W, Bl00a, j0, y74, Y6 : integer array; Vd, G, O, U, F : integer array; do d02(true or f[374] or not 8 - 9 - 0 < true - not 9310 and 2 + 159, - false * not 5, 3 and 1 - 4 < - 3) end

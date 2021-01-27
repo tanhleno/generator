@@ -1,0 +1,1 @@
+program D : T : takes aA : boolean array returns nothing pop - 8 <= 57 end t : takes O, X8 : integer array returns nothing a, Y : boolean array; v, e, v : boolean; v8 : boolean; O4D : boolean; chillax end h9 : takes N2 : boolean array returns boolean input a4[2750] end main : output - not(0) + (872) and 6 or 9 - 31 >= 482 . not 6 or 52 - 7 > - 5 - 2 end

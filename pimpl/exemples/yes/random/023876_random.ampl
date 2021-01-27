@@ -1,0 +1,1 @@
+program CAzaa : sw : takes mr8, M75 : boolean returns integer while false + 87 - 9 > 0 : chillax end end dU : takes x, x, r510a, G, t5, uS, Q : boolean array; p, K : boolean returns nothing chillax end main : s, m, p : integer array; chillax end

@@ -1,0 +1,1 @@
+program t : main : v, H : integer array; when case - false * false : pop; when case 1 : chillax end case 7020 : pop end case 11 : chillax end otherwise : pop end end case not C and(30) - (4) and 7790 or 26 - 1 >= not 3410 or 43 - 9 : chillax end case true - 9 /= - 3 - 931 : chillax end otherwise : output 346 end end

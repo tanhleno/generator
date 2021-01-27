@@ -1,0 +1,1 @@
+program g : main : La : boolean; O3, mx, t : integer array; XB, w3 : boolean array; do W(- not not true * (8) rem not 534 and 8 or(6) / 7 and 9 - true = (9540) - 51, - false / true >= y94, 86100 and 6 - 687, - 9 - 38 >= 8, 759) end

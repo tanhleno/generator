@@ -1,0 +1,1 @@
+program l : o : takes Lb : integer returns boolean chillax end main : Ax, F : boolean; P, uw : integer; s, g730a : integer; k66a, F, m1 : boolean; o6v0a : boolean array; G, r : boolean; when case - 67 * not false >= - (11) and(79300) : chillax end end

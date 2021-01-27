@@ -1,0 +1,1 @@
+program s23a : z : takes K : integer returns boolean array while false and 6250 - 92 = 420 : output "a" . "8" end end W : takes rmb0 : boolean array; K1saa : integer array returns nothing chillax end w : takes t1 : boolean; z : boolean array returns nothing Hf6, o03, o : integer; j : boolean; chillax end main : y8R, c : boolean; Z, B5, u : boolean; m2Qaa : boolean; chillax end

@@ -1,0 +1,1 @@
+program e8 : fN7a : takes zU, fV : integer; TmIaa, CN0a, E : integer array; R, S2T, W84, bD, BY, Pz4 : integer; N, u : boolean returns nothing when case true and 8 : do q(2); do O(35); while 764 : chillax end end; when case - 76 : chillax end end U : takes PB, FZ : boolean array returns nothing chillax end main : chillax end

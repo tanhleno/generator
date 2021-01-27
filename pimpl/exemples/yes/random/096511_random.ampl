@@ -1,0 +1,1 @@
+program c4 : main : when case - 4 or true * false <= false : chillax end case - (81) - (3) and 0 + 6 - 5 : chillax end case - BIf - 8 - 2 < 9 : input i2; output ""; when case 65500 : chillax end end end

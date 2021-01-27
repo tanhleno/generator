@@ -1,0 +1,1 @@
+program a : V : takes hDA0 : boolean array; p3F0 : boolean array returns nothing chillax end dtR0a : takes e8_a : boolean array; j, n, tf, Q, fJ20 : integer array; n : boolean array; H, P3b0, KE9 : boolean; W4N : boolean returns nothing chillax end main : chillax end

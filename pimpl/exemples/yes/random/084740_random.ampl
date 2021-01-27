@@ -1,0 +1,1 @@
+program F : main : Z : integer; let n = array - 7270 and 6; while 829 and 23 and 0 + (26) and 1 or 724 - 3 >= - false + 9 : chillax end; pop; input Ml; do L(2); let r7da[8] = array 7; when case 68 : chillax end; do i(9990); pop end

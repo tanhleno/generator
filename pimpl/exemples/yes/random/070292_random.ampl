@@ -1,0 +1,1 @@
+program C : main : Z, K, y, Sc30a : integer; let w = not 766 / f25 and 16 - false or 066 = not 83 or 5 - 09; do E(false / false = not 44100 and 05 - 61, l70 and 95 or 42 - 9 = 21 - 8, - 9930 - 861 >= 945); when case - true and 02 : input M0; output "87\"a"; while 3 : chillax end; pop end case - 93 >= 13 : output ""; output "" end end

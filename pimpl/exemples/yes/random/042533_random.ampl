@@ -1,0 +1,1 @@
+program t : FD : takes SWt : boolean array returns integer array g33, O, c, r3, O : integer; j19 : boolean array; c, b : boolean array; P : boolean; _ : boolean; chillax end main : S8 : boolean; input h5taa end

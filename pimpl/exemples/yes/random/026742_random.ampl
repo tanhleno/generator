@@ -1,0 +1,1 @@
+program q650a : R7 : takes P, fH : integer; a : integer array returns boolean array chillax end main : y : integer; X, xM3aa, bG00 : boolean array; m, s, o1j, o3R0 : integer; output ""; while true and false - not 6 or 81 /= - false and 75 : chillax end end

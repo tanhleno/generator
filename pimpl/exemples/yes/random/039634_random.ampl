@@ -1,0 +1,1 @@
+program XD : d64aa : takes Qt : boolean array; pi6 : boolean; SW9 : boolean; I : integer; p : boolean array returns nothing when case 8 and 0 /= 92 - 79 : chillax end otherwise : when case 377 : chillax end end end main : pop; do a7(false + true and 931, false < 9 - 09) end

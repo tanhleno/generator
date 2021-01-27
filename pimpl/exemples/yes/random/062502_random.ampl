@@ -1,0 +1,1 @@
+program UK90 : o : takes G8b : integer returns boolean T : boolean array; W : boolean; chillax end main : when case true - false + false and 73400 or 33 >= - not true : chillax end case - false / false + not 31900 and 6 - 0 <= 3 and 65 : chillax end end

@@ -1,0 +1,1 @@
+program Y : main : when case true / 3 rem 0600 + true rem not 20 and 76 + i3 + 804 - 22 < - I[8] or(84900) and 26 - 01 - 5 : chillax end case - (9) / (5230) and 1 or 542 = 1 - 70 - 8 : chillax end otherwise : while 7 = 879 : chillax end end end

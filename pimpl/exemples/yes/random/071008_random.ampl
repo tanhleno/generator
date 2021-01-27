@@ -1,0 +1,1 @@
+program L : main : df90a, ru9, K8 : boolean; G : boolean array; ft, y1l, d : integer array; u, Yj, V : boolean array; m : boolean; let f[- Poy0(0)] = array false / not K61 / not 5 and 69 - not false rem(8) and 1; while not false * (2) and 3220 + true and 76 or 37 : chillax end; while false and 10500 + 40 - 6 >= - 8 - 11 : chillax end end

@@ -1,0 +1,1 @@
+program t : main : when case 6 + (75) * not 38 or true - 8 - 9 /= - Z[6] : let y = 0 = 6; when case 1 = 9520 : do q(52) end; pop end case 97700 and false and 4 >= - t3 and 101 - 142 : chillax end end

@@ -1,0 +1,1 @@
+program K : main : when case - f4 rem 4 - true + not 98 - 4 - 155 /= 78 / true and 30 or true or 636 - 3230 : output 7 = 04 . "" . 98 end case - not g0 and(91) and 544 = - 2 and 1000 : pop 6860 end; pop; pop; pop 3 = 8; input dD[8] end

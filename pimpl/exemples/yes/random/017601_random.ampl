@@ -1,0 +1,1 @@
+program H4 : TgG0a : takes D, Y27aa : boolean; rO : boolean; i, TR, q, cf0aa, j, Q : boolean array; t, gwvaa, b, c : boolean array; v8 : integer; wo, M8, q2 : boolean returns nothing chillax end main : Z : integer; cSo : integer; B, Q, XTH, P : boolean array; x2, jZ : boolean array; pop end

@@ -1,0 +1,1 @@
+program f : mS : takes n760a : boolean array returns integer pop - 5020 end main : when case - Z7 * P[4] and C0 : chillax end case - JEE / true - true and 6 or 3 - 3690 /= true and 5260 - 64 - 4 : chillax end end

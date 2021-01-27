@@ -1,0 +1,1 @@
+program j : KRLaa : takes Y : boolean array; F, S8, g2, nu : boolean; iY : integer array returns nothing Q, X, DP : boolean; when case - S and 1 - 8270 - 467 : input s[89]; let e = 6 end otherwise : let rZ = 33 end end main : input t end

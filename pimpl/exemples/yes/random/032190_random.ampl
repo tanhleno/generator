@@ -1,0 +1,1 @@
+program D4H : O : takes J7, k : integer returns integer while not 7 and 43400 or 0 - 3 <= 9 - 6850 : chillax end end main : c : boolean array; lk8, S : boolean; while - not true rem(3) * rh /= true and(1) and 03 : while 77 - 9690 <= 19 : chillax end; output "" . "" end; do a2(- (14) * not 1 and 58 > not 91 and 16400 or 1 - 5, - JD1aa and 9 + 9 - 7) end

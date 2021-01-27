@@ -1,0 +1,1 @@
+program W1 : G : takes C, u : boolean array returns boolean array s, bf, c : integer array; J : boolean; _, r : boolean; chillax end FP : takes A66, xD, lmjaa : integer; i, Pj9, x, x : integer; v : integer; _h : boolean array; H : boolean array returns boolean R3, KqK, R2 : boolean array; chillax end main : input p; output u /= 6 - 379 . 86 - 550; while 33 and 6 : chillax end end

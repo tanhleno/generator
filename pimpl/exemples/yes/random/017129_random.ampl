@@ -1,0 +1,1 @@
+program L : mR : takes E, n : boolean; y, i1 : boolean; L5, o, Vx, G32 : boolean; KdM0a, p, D : integer; a : boolean returns nothing A : boolean; s, g, RY, L : integer; E : integer array; Po : boolean; chillax end main : f, y : integer; let s = array - true - 054 rem 22 and 3 - w7E - 80 end

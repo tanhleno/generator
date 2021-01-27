@@ -1,0 +1,1 @@
+program eJ : i : takes a3 : boolean; Y : boolean; g, R, G63 : boolean; f : boolean array returns integer h, p : boolean array; output 55 < 0 end main : pop - true rem 09 or u and 9 /= false; do G(not true + 5 or 68 <= - (2) and 9 + 6, - 8 and 7 - 298 /= - 41 - 3) end

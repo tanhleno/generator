@@ -1,0 +1,1 @@
+program Lijaa : I1 : takes A9 : boolean array; s : integer returns integer array G8h : boolean; N : boolean; chillax end I8 : takes Pr : integer array; f7 : integer returns nothing Io7 : boolean; hJx0a : integer; y, N6 : boolean; chillax end O2M0a : takes E, d53aa, d, Ub6, G : boolean returns boolean do hd(00 = 6) end main : ux, zm10a, U : boolean array; chillax end

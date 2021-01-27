@@ -1,0 +1,1 @@
+program m : eMl0 : takes n : boolean returns nothing chillax end N50 : takes f : integer returns integer array d, I : boolean array; w, Q, k : integer; t2i, B : boolean; Hf2 : boolean; QP5 : boolean; chillax end main : A90, ZL5a : integer array; pop t7z + true - 9520 > 2 - 72; pop; pop end

@@ -1,0 +1,1 @@
+program X : v : takes AF6a : integer array; u6, Z : integer; J : integer; t, l4Z0, H : integer returns boolean m : boolean array; Ib : boolean array; B : integer; H63a, e : boolean; let l[true and 6 or 1] = array not 4570 and 6210 or 2 end main : KT10a : integer; chillax end

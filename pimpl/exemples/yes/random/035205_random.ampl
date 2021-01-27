@@ -1,0 +1,1 @@
+program dy : s : takes j : boolean; L9, i : integer returns integer array I : integer array; chillax end B : takes G : boolean array; b5 : boolean; oi, va9 : boolean; RM9a : integer array returns nothing pi, e : boolean; chillax end main : do D9w(true rem not d and(4) and 3); do E7D(- (0) * true > - a, - not 5540, - 5090 >= 4, 7) end

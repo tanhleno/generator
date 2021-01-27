@@ -1,0 +1,1 @@
+program W : main : W : boolean; k2X, Hk : integer array; c : integer array; do Z((5530) / (63)); let p5O = true and 7810 + 1; when case - false : while 9 : chillax end end otherwise : chillax end end

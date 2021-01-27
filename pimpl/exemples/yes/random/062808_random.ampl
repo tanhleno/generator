@@ -1,0 +1,1 @@
+program ohd : L : takes V : integer returns integer array do q(- C9g = 2); input W[011]; while 9 : pop; pop end; pop 35; while 06 : chillax end end v : takes f : boolean array; b : integer array; M7, U3 : boolean array returns nothing F : boolean; V : boolean array; chillax end main : chillax end

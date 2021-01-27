@@ -1,0 +1,1 @@
+program ro : A : takes u8, l, dy, Qfca, Vt5 : boolean array returns nothing F2A0a : integer array; ff : boolean; when case m : chillax end case 47400 : pop end; output "5Q" . "" end main : jo : integer; pop; output - 4 or 70 - 3 = - 079 end

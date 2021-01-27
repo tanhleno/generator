@@ -1,0 +1,1 @@
+program T2 : J8 : takes wo8aa, C : integer returns boolean array let h = 2440 /= 07800; do t(371) end B : takes LdD, f3waa : boolean returns boolean while - 8 : chillax end end LC : takes b : integer returns nothing chillax end main : output - z47 /= - true and 8 - 2270 - 64; pop NcN0a and 4 + 3 - 5 > 0 - 7 end

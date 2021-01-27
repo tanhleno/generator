@@ -1,0 +1,1 @@
+program m : h7 : takes E, A, A2, U1xaa, MU : integer; Ah0 : integer array; C82 : integer array; s57a, ou, f6, e, f : boolean returns nothing w0d, y : boolean; L : boolean; let E[(04)] = array - true or 01400 end main : chillax end

@@ -1,0 +1,1 @@
+program C : plU : takes a4 : boolean array; w : boolean returns nothing chillax end qg : takes J0 : boolean array returns nothing X4 : integer array; pop end r : takes oCm, c7 : integer array returns nothing E, G3 : boolean; chillax end main : pop - false - (15) >= false and 84 + 7 end

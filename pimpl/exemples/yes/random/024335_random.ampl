@@ -1,0 +1,1 @@
+program u : c0B : takes jR3, e0 : boolean returns nothing Ay, d : integer; s, S : boolean; when case - false or 8 : chillax end case - 5950 - 0 : chillax end case 2 = 0 : chillax end; pop 8780 = 3 end main : S5, y : integer; do _G(false + X5 / false and 739 > true * (50) or false and 499 - 1) end

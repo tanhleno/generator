@@ -1,0 +1,1 @@
+program B : main : when case v7haa(1, 3) or false /= - Z2(82) + 0 and 4 - 7 : while 919 : chillax end; input W53a end case - 78 * kk or(2) and 42 > 10 : when case 661 : output "*F"; pop end case 72 : pop end end case - (51) and 353 : chillax end case - 5 : chillax end end

@@ -1,0 +1,1 @@
+program ot90a : B : takes _, Q4 : boolean; c13, u : integer array returns integer array W, D6 : boolean; chillax end main : n, W5 : boolean array; B : integer array; when case - true - true rem 5 and 4 - true or 6 : chillax end; do ZW(true and(80) and 7 or u and 9 - 26 - 4 < - false); while VM and 37 > - 0 : chillax end end

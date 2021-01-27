@@ -1,0 +1,1 @@
+program v7 : b : takes po7a, o7, CA, W : boolean array; yTk0a, F, Cj90a : boolean array returns nothing k, I72, dx, d : boolean; S : boolean; f, O03, Q : boolean; ytv0 : boolean; o : boolean; w74 : boolean; chillax end main : chillax end

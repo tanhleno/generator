@@ -1,0 +1,1 @@
+program L82 : b : takes n2, M, R, Y7, u, e, t : boolean returns integer while - s < - 969 - 34 : chillax end; when case 396 > 941 : let o0 = 895 end case 2 = 22100 : chillax end otherwise : chillax end; while 08 : while 7540 : chillax end; pop end end main : when case - true * (1) rem true and 4 - 719 * L < - OO[8] rem false and 4 + false and 7 - 0 - 99 : chillax end end

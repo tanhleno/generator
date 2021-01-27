@@ -1,0 +1,1 @@
+program TF : r : takes e3, N, k : boolean array; tA : boolean array returns integer chillax end POta : takes s : integer returns nothing while - 9 < 9670 : chillax end; output ""; output "" . "f"; let I = 7 end main : d, C8, v : boolean; when case - false or false * true and 37 : while - 52 <= 8 : input bP2 end end end

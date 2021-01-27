@@ -1,0 +1,1 @@
+program d : N : takes R : boolean returns nothing k, g1, O, Oe8aa, Z12a : boolean array; do m3(true - 34, - 5 - 1380); input s8u0a end aU : takes X : boolean array returns nothing when case 706 >= 1 : chillax end end main : I, yYj0a, V, M, I, j : boolean array; chillax end

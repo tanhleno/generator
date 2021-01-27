@@ -1,0 +1,1 @@
+program dF : main : tn : boolean array; do h(- false = - true / false and 7, W[48] rem false <= - not 94400 and 30 + 0, - false and 2 - 530 - 8 /= 57); output - not 18 = - 8 - 40; let X[- 81300] = array - not 6 and 6 end

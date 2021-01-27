@@ -1,0 +1,1 @@
+program V : main : let K[false / (6420) rem 8 and 0840 - W(649) rem false and 852] = false < - false; let E = array 17 - not 64 and 138 or 24; input W1; input ZR0; when case 7 : pop; pop end otherwise : chillax end; when case 25 : pop end otherwise : chillax end; do U4(4) end

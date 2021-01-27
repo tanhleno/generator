@@ -1,0 +1,1 @@
+program _ : _2 : takes n : integer; Ns : integer returns nothing do A(- 7 - 179 <= 115, - 4 <= 2, 8, 766); pop end y : takes r_ : integer; sc : boolean array returns integer array chillax end lAS : takes X : integer; Md50a : boolean array; i : integer; L43 : boolean; i, d : boolean returns nothing input vy_; output "{" end main : A79 : integer array; chillax end

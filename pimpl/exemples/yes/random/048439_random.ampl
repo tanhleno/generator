@@ -1,0 +1,1 @@
+program Wz : M : takes Z : boolean returns nothing X1 : boolean array; chillax end y6 : takes R, T, r53 : integer; rb2aa, GpE0a, n : boolean array; c0_ : integer returns boolean chillax end main : hA3, i69, R0daa : integer array; let j = false rem i - true and 6430 >= - true + 5010; do s(- false or not 1 or 31 - 30 = - not 3590, not 6 and 74 = - 5540 - 06); pop end

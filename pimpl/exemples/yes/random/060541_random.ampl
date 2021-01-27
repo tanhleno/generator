@@ -1,0 +1,1 @@
+program n : xY : takes y : integer array returns nothing W, I : boolean array; o : boolean; KW, M : integer array; X : boolean; do L(- wYn or 6 - 064 >= - 34100) end main : w3Ea : boolean array; output - not not 9 rem true and 9 < - O or 0 . - 1 and 2; do D(true and false); do w(- (8), - 824 - 9610 = 32, 7) end

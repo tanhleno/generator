@@ -1,0 +1,1 @@
+program D8u0a : _H5 : takes Ai : integer; z8g0a : boolean; J : boolean; h1 : integer; u : boolean; b : boolean returns integer array v : integer array; let i = 0 - 8; output 62 = 2; while 39 = 713 : pop; pop end end main : D, L1ha : integer; chillax end

@@ -1,0 +1,1 @@
+program G8 : r : takes r : integer; U2 : boolean returns integer chillax end main : input Y7Paa; when case - true / false and 4 or not 50300 : chillax end case false - 1 : output ""; let _ = 0 end case 3 >= 9 : pop; while 36 : chillax end end case 5 : chillax end otherwise : pop; output ""; do E28(1) end end

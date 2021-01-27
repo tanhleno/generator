@@ -1,0 +1,1 @@
+program X : s9R0a : takes mKiaa, u6B, k, G, U, u : boolean; oj8, x : integer; u : boolean returns nothing pop - 0 <= 389 end Pb7 : takes B7, A1, B, e : boolean returns nothing w, u4v0 : boolean; chillax end main : input Q[- s0[537] rem not 8 + true] end

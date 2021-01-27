@@ -1,0 +1,1 @@
+program j : main : t4 : boolean array; zShaa, b, g, d4, Q : integer array; C : integer array; while - U(0) + (487) : when case - 1 - 79 < 3 : let i = 29; input H; pop end otherwise : pop end; do _1(1360, 0); input nJ70; let SO = 5; let Fs = 2; pop end; do K(- 213 / true < - not 05 and 92 or 06700); output "" . 0 = 37200 . 6; input y6[1 - 4] end

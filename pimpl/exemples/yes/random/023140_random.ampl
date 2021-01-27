@@ -1,0 +1,1 @@
+program XI2a : Q : takes z6, x : boolean returns boolean chillax end main : do K5(r9(5560) + true / 9 and 7 > (1), not false rem not 5870 and 43 or not 90800 = false - 71, 57 and 1810 + 0); when case not Uj >= - ZJ40a and 30 + 1 : chillax end otherwise : chillax end; do P(- true and 4 or 21100) end

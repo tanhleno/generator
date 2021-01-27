@@ -1,0 +1,1 @@
+program w : Q7 : takes R, b : integer array returns integer array w, O, E, T : integer array; do n(0150 + 888 - 64 = 5); do l(- 83 = 9) end main : I : integer array; pop true and 3570 or(1); do o(- false * (08) and 3 + not 58 >= 9 and 4) end

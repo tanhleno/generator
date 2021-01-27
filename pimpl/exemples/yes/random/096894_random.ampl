@@ -1,0 +1,1 @@
+program T5 : main : when case false rem true - true - (68) and 4 + 942 : while - 2770 : chillax end; output ""; output 35900 . "I]"; let m = 0; output "" end; input W4[- (0) / 5480]; when case - false and 0 < - 8 : chillax end case 9 : pop end otherwise : pop end; while 0 - 0 < 726 : chillax end; let x[85] = 832 end

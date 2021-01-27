@@ -1,0 +1,1 @@
+program I : H : takes q, G : boolean array returns integer array chillax end K : takes gA, C31aa, U : boolean returns nothing HA : integer array; do r3(- 75 - 8) end main : b : integer; do L(- true + false / true and 4 /= - (80) and true, b9J rem not 5 and 4 /= - 2510) end

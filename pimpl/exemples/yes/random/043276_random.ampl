@@ -1,0 +1,1 @@
+program Tl : a : takes NV : boolean array returns integer input g; output 28 = 37600 end main : X, E : boolean; let m1V0a[- not true or not false + jPM] = array - false; output "" . "0" . 04 = 59000 . "" end

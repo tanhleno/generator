@@ -1,0 +1,1 @@
+program m : K : takes u5 : boolean returns nothing chillax end yWl : takes E460, J : boolean; tw3, R5 : boolean returns boolean l : integer array; chillax end j : takes O590, m0 : boolean array; MO, LgTa : boolean; F60aa, g, I, c : integer array; G2 : boolean array; Z, IT2aa : boolean returns nothing _2, a4c, O91 : boolean array; output "" . "o^!a" . "b@" end main : pop end

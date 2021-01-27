@@ -1,0 +1,1 @@
+program c100a : p46 : takes O : boolean; P : integer array; M3Jaa : boolean array; IZ, o88, q, g2Oa : boolean returns integer array C1 : integer array; O : integer array; chillax end DW2a : takes A2 : integer array returns integer array W : integer array; chillax end main : chillax end

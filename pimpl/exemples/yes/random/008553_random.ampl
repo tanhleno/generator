@@ -1,0 +1,1 @@
+program dy9 : A9c : takes U7, e, Ew7 : boolean; e, D86, u, n62aa : integer returns boolean array when case 3 and 31 or 8950 - 5 > 7 : chillax end case - 4 : when case 5 : chillax end end; let H = array 0 end main : chillax end

@@ -1,0 +1,1 @@
+program Gz : Lqo0 : takes U8V : boolean array returns nothing chillax end main : pop not true or(95200) and 248 /= - (18) and 5 or 07; input ZBt[l[7] * (2) or(3) and 9]; when case - (53) and 121 + 1210 - 41 : input oB end end

@@ -1,0 +1,1 @@
+program d2 : X : takes CU2, S : integer array returns integer array ImHaa : integer; d : integer; WS : boolean array; R4 : boolean; output "" . ""; pop; pop end MJ30 : takes t, L8 : integer; u, v, g2A : integer array returns boolean WM7 : integer array; T9, l3c, U : boolean; chillax end main : let p = array S(5) end

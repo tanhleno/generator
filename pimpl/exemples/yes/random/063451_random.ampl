@@ -1,0 +1,1 @@
+program U : X : takes l98aa : integer returns integer v : boolean array; nk, Z, E : integer; WWy : boolean array; z1 : boolean; t900a : boolean; output "\"`0" end main : Db : boolean array; V : boolean; I : integer; when case 40 and Y1L[203] <= - true or true and 19300 or 6 - 565 : let d = 3 = 3 end otherwise : input X end end

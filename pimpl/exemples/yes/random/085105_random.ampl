@@ -1,0 +1,1 @@
+program S : main : V : integer; when case(8) and not 2 < - O9H[4] + s or 11 - 53600 : do X(4 - 4 < 95) end case - false - not 926 and 9 or 8 - 76 : chillax end; input _[- false * false and 8200 - not 9] end

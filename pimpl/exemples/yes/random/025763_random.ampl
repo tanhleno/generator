@@ -1,0 +1,1 @@
+program iZTaa : CdN0a : takes Cx, x : integer; C1, L : integer array; Q, R3, t, Q, n : integer returns nothing Rh, h, I6, i : integer array; B : boolean array; y : integer array; chillax end main : j2x0 : boolean array; Q : boolean array; y9 : integer; c : boolean array; let j = - (0) + false end

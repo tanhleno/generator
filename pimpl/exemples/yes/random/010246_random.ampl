@@ -1,0 +1,1 @@
+program gZ : lI : takes Ba, B, eU2a : boolean array; XPR : integer; x, s2, n, L : boolean array; l6, B, u : integer returns nothing chillax end main : do u(- false and true rem 1190 and 382 <= - false); pop - not 880; let B[- true] = array false and 883 end

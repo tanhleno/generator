@@ -1,0 +1,1 @@
+program js : u : takes t, u6 : integer returns nothing let S[false] = array 67; pop; when case 1 = 43 : chillax end; when case 290 : chillax end otherwise : chillax end; do E(47) end pD : takes a2, i230 : boolean; y, a : integer array returns nothing input r[- 6690 - 0] end main : e7 : boolean array; j : boolean array; chillax end

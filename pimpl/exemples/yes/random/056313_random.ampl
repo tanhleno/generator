@@ -1,0 +1,1 @@
+program A0 : T : takes E : integer array; L : boolean returns integer array chillax end main : b, d : boolean array; F : integer array; T : integer array; X, EVO, H6, C : boolean; when case(4 = 754) * not true : pop end case(293) and false or not 1 + 0 - 4 < - (5) or 3 : chillax end end

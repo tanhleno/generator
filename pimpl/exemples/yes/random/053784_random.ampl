@@ -1,0 +1,1 @@
+program p : Q : takes a : integer array; c, h, Q, x : integer array; G, m, F, V : boolean array returns integer array w, F : integer; H : boolean; U6z, n, C : integer array; pop; output "" . "8wa" end j : takes s, r, u0 : boolean array returns integer let P[8 - 9] = array 66; output "" . 802 . "-#0a" end main : ZAMa : integer array; P91 : boolean; chillax end

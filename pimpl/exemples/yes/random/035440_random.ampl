@@ -1,0 +1,1 @@
+program z : m : takes e : boolean; iQo0 : boolean; W98, e : integer array returns integer array r : integer; chillax end main : h : boolean array; output "" . "FIaa"; let q9w0a[- not false * (88) and 54] = - (7) + 22; do gk8(- true and 7 + 48 > - 5 - 514, 844 = 9); do W32(- 03, 51 = 8, 82100, 3) end

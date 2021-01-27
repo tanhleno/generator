@@ -1,0 +1,1 @@
+program V300a : l8 : takes U, l : boolean array; v, p7, R, oH : boolean; y, gjW : integer; L, f, p, lM, U8 : boolean array returns nothing do V6J(- 0 and 2 - 23, - 84); input S end main : chillax end

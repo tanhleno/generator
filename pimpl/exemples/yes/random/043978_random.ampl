@@ -1,0 +1,1 @@
+program LS5 : C : takes VW9 : boolean array returns nothing u, u, pk, j, X : integer array; wM : boolean; C, b26 : boolean array; pop 938 /= 844; when case 0 - 969 : input ln8aa; pop end end Xm : takes D, ci : integer array returns nothing m, b, _ : integer; _U : boolean; Qq4, q : boolean; chillax end main : tn0, C3y, M8 : integer array; chillax end

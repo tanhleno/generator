@@ -1,0 +1,1 @@
+program X38 : N : takes y, h : integer array returns nothing k, Qj : boolean array; BW4a, j1, fx : boolean array; vP : boolean array; M : boolean; pa : boolean; chillax end main : e17 : boolean array; output "@" . - (8) or 1 end

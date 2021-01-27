@@ -1,0 +1,1 @@
+program Q : c : takes pK : integer; B25 : integer returns nothing let M4[- 3 + 159 - 5] = - 2 - 92 < 089 end BC : takes G5Na, KO : integer returns integer let Ro = 2 = 89; input s230[22]; input U[16500]; input T; output "`s\"" end main : hl2aa, E, W : integer; Rz : boolean array; h, V : integer; riTa, p4 : integer; q81 : boolean array; j, k : boolean; output "2\\" . "" . - 4 end

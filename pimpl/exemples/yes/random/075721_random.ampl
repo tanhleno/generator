@@ -1,0 +1,1 @@
+program C4Z : main : d, N : boolean array; while - 7 = - true or rA and 1 or 40 : let b = array - 9 end; do mfA0(- 1 /= - (7) + 8 - 73, not 34400 or 51 - 52 <= 7 - 10, - 090 - 78100, 5 = 8, 63, 278); pop; let m[8 - 52] = array - 022 - 067 end

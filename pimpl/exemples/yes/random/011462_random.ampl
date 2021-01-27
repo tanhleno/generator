@@ -1,0 +1,1 @@
+program a : h2G : takes I, Z, Ue : boolean array returns nothing let U7[34900 and 9] = - 4 - 292 /= 55; while - 5 > 70300 : chillax end end m : takes C : integer returns nothing Q : integer; T : boolean array; chillax end main : do jR6(g850a(7, 87) rem false / false - false, - X22[0930] / false, - true - 3 - 9) end

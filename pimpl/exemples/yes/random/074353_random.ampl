@@ -1,0 +1,1 @@
+program m : main : t1, as90 : boolean; when case - false + true / true and 1220 - false and 9 + 046 - 161 : input Y end case false and not 776 and 2 >= - not 0 or 5 - 52 : chillax end; while not false - 14 or 6 : output "vr" end end

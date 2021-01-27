@@ -1,0 +1,1 @@
+program J : d : takes Q, N090 : integer array returns nothing input A[- 75 and 389 or 36800] end main : DoR0 : boolean array; when case DZ[0] / Y : chillax end case - not 84 and false and 9 or not 7 and 41 /= - n + 78 - 2 : chillax end case - true - 616 = - 8 - 7 : chillax end case 5320 - 283 : chillax end case 7 : do y2V(4910) end otherwise : chillax end end

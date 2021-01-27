@@ -1,0 +1,1 @@
+program u : D : takes ukb0 : boolean array returns integer array S, O : boolean array; let o = array - false; when case - 9 < 4 : pop end otherwise : chillax end; output ""; input o end V : takes i0R0a, DB : boolean array; j : integer; J, o, x : boolean; r : integer array; o : integer returns boolean chillax end main : let P = - w rem(45) and 6 = - false or 07300 end

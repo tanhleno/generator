@@ -1,0 +1,1 @@
+program s82 : s : takes K, K5A, Ig9a, S1, j, H91aa, o : integer array; GTZa : boolean returns integer array chillax end zR : takes Ms : boolean; S : boolean array; bh : integer array; h62a, Ez, L1, O2 : boolean array; uI : integer returns nothing A_, E6 : boolean array; _ : boolean; P4, c : boolean; F : boolean; e : boolean; chillax end main : let i4 = array HI end

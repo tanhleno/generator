@@ -1,0 +1,1 @@
+program g : main : when case - false / not(0) / (77) - false - true and 42 + 0 : chillax end otherwise : do eX(12 = 411); do _67aa(4) end; output "\t\\"; pop 1; output "`" . 5190 . "" . "%&"; do Z(02100 = 9, 82900, 2) end

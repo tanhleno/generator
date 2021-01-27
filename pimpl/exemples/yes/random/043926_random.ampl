@@ -1,0 +1,1 @@
+program x : KI5aa : takes XLD : boolean array returns nothing J, a8S, W, V, V6 : boolean; output - 3400 - 5; let k[030 - 5] = array 70 end X : takes f8, bT : boolean returns nothing uE : integer; O, H, IRlaa : boolean; while - 49 - 931 > 0 : chillax end end main : chillax end

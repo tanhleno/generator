@@ -1,0 +1,1 @@
+program AbO : main : bq9 : integer; cxi : boolean array; y, M, n, E : boolean array; w : boolean; j, x : boolean; do n(- true /= - 1 and(6) and 23 or true and 95, - true + not 5 > - sst0 and 2 or 1, - 2 and 3 - 0 <= 55, 15 - 0) end

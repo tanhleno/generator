@@ -1,0 +1,1 @@
+program l : lU : takes N, s, AL, u : boolean array; _4Ya : boolean array; zV, g : boolean returns nothing T7 : boolean; do r6(- (7) and 7) end z : takes X, Ui, s9, lj, Q : integer array; tH : boolean returns nothing E : boolean array; chillax end main : chillax end

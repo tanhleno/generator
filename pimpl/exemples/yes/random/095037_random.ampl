@@ -1,0 +1,1 @@
+program nG : main : pop wpPa[6] * true and 2 + (5760) and 2; when case not not 78 < - Nk6a or 7 - 60 : chillax end case 596 and 8 >= 7 - 6 : chillax end case 9 - 1850 : chillax end case 1 : chillax end otherwise : chillax end; input r; while - 7 : chillax end; do bL2aa(403, 41800, 0) end

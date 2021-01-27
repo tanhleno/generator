@@ -1,0 +1,1 @@
+program N : y : takes a54 : integer returns integer array G : boolean array; Uf : boolean; e580a, mp : boolean array; chillax end i7 : takes IeS0, sjF0, F : integer returns nothing chillax end M80aa : takes z : integer; g, s : integer returns nothing output 2170 . 08 . "8$\"" end main : chillax end

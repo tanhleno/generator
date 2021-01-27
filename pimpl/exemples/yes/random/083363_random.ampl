@@ -1,0 +1,1 @@
+program C_V0 : main : Yo : integer; g, m, Ly : boolean array; n : boolean array; do Q((86) or(214) * 14 and 9 > false rem not 60 and 78700, not A7 - not 24 + 67 - 8 <= - not 4, (08) and 52 = - 43 - 8, - 7230 <= 4, 2) end

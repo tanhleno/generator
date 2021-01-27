@@ -1,0 +1,1 @@
+program W : L : takes l : integer array; Y9 : boolean returns nothing chillax end main : do x(k / 029 / false + false and(55), - 0680 * true and 275 + (68) + 1 - 3 > - 764 or 79); output ""; when case(1) : chillax end case - 82 : when case 1 : chillax end; when case 45 : chillax end end otherwise : while 8 : chillax end; let BE20 = 99 end end

@@ -1,0 +1,1 @@
+program s : x : takes WT : integer array returns nothing chillax end l : takes Zz : boolean array; Y : boolean; vw, V3 : boolean array returns boolean array N : integer; pop; when case 23 = 487 : pop; pop end case 9 : pop end case 95 : chillax end; output "" end main : R, pLu, ea9a, PS8, NN1, nd, w : boolean; k, q8, U3h0 : boolean; chillax end

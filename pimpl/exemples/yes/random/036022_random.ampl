@@ -1,0 +1,1 @@
+program B2 : k : takes cX : boolean; h : boolean array returns nothing y16, f : integer; g : integer array; gsC, W4 : integer; sQ, T : boolean; chillax end H6x : takes V4 : boolean array; La, Oo, K : boolean; s : boolean returns nothing do qu(0 <= 2, 089 = 97, 65) end Q : takes z : integer returns nothing do L(1) end main : XeH0, Ym, Gn : boolean; chillax end

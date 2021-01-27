@@ -1,0 +1,1 @@
+program O : S : takes v : boolean array returns integer array do qV(false > - 69, - 7 < 3, 1 = 489) end R : takes S0, u, V : integer array returns integer q : integer; Tx5 : integer array; output 13 end main : OVv : boolean array; let I = array - 175 or F * false or not 51900 end

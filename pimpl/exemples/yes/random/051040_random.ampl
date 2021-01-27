@@ -1,0 +1,1 @@
+program Q840a : O9 : takes c : integer; v5, lJU : integer array; o8m : integer; B9m : boolean returns integer i, kMea, Y : boolean; W7, C300 : integer array; jK2, W4, Jt : boolean array; chillax end main : ZF : boolean array; chillax end

@@ -1,0 +1,1 @@
+program o2maa : i : takes nmS0, Z5 : integer returns nothing let I[(1) and 20300] = array(886) end main : Fe, kP40a : boolean array; b : integer array; l8 : integer array; when case true + not(4660) or false and 2 - 051 < true / _570a and 5 - 3 - 0 : chillax end end

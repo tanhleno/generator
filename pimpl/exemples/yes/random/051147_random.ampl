@@ -1,0 +1,1 @@
+program rG7a : a : takes S7 : integer; QK, yl : integer array returns nothing _m : integer; chillax end Z7f : takes Kav : integer array returns nothing when case 6 - 7 = 39 : chillax end otherwise : do R(24) end end main : J720 : boolean; r, f : integer; H0 : boolean; i9, Zh, Iu : integer array; M68a, MRS : integer; while false : chillax end end

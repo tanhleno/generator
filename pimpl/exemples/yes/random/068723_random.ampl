@@ -1,0 +1,1 @@
+program h : main : c8za, W2, i6, a, wB : boolean; wh10 : integer; pXU0a, xpP, M : boolean array; _6 : boolean; o6T0a : integer array; do s(not 92 * e59aa[8]); while 761 - 11 and 5540 = not 22800 - 969 : input b[9] end end

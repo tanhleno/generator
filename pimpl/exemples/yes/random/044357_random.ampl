@@ -1,0 +1,1 @@
+program t : C : takes hv3 : boolean array returns nothing G1d, hc70 : integer array; chillax end main : MoC : integer; OZ, i65, DE, O : boolean; c, RS90 : boolean; pop; while(12100) * false and 0 + rs8 or 4 - 35 /= false and 61 - 4 : when case 8 : pop end case 8 : chillax end otherwise : chillax end; while 3 : pop end end; output "" . 83200 = 7 end

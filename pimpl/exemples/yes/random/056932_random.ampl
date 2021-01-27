@@ -1,0 +1,1 @@
+program y6U : v74aa : takes R : integer array; J : integer array; b3, k0 : integer returns nothing output ""; output ""; while 2 = 2 : chillax end end main : M : boolean array; P, B, T : boolean; chillax end

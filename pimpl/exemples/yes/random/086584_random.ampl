@@ -1,0 +1,1 @@
+program U : main : X2 : integer array; V : boolean array; let O[true] = - false or not 56 and 61 = not 5; when case 0 and not 23 and 70 /= 2 or 88700 - 6 : chillax end otherwise : do zt(00) end; input y[- false and 2]; do L(- 08, 46 = 69); let srr[82] = 11; when case 77 : chillax end case 6 : chillax end otherwise : chillax end; do o(8670) end

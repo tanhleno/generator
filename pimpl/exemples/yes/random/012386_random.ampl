@@ -1,0 +1,1 @@
+program b34a : lw : takes h, Q, t73a : boolean returns nothing P : integer array; chillax end main : A56aa : integer array; s, b : integer; output ""; input A5; when case - true + 2180 - 71 : input mi; output "" end case 5 <= 9 : chillax end case 3 : when case 7 : chillax end; pop end end

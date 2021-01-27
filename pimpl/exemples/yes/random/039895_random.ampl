@@ -1,0 +1,1 @@
+program p17a : oR : takes Ad8 : boolean array; K2 : boolean array; fiWa : boolean array returns integer gmc0a : integer array; c : boolean array; while - (76) and 5 : while 67 : chillax end end; output "9" . "\nG\""; output "4" end main : y, Sc, C : integer; _5 : integer array; j43aa : integer array; chillax end

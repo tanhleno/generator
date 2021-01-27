@@ -1,0 +1,1 @@
+program hoz : K : takes L, o, O, o8, E, F, M3r : integer array returns integer array output "" . "?p"; let tG[9 - 2] = array - 474 - 18000 end main : while - 1 rem q7O0a or true + true + 97 - 13 >= - not 7 and true and 89 : let jYE[- 78] = array 1 - 8 end; do RB50a(- (3) rem 91 or false and 1); while - (88) and 5 : chillax end end

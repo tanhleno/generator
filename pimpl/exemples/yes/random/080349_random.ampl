@@ -1,0 +1,1 @@
+program A : main : Me : boolean; when case - false < - false : chillax end case true / (6) : chillax end otherwise : when case 0 = 50 : chillax end; pop 001; let x6 = 2; let l = 3 end; pop; output "" . 479 = 040 . "=" . "" end

@@ -1,0 +1,1 @@
+program b : main : output dQ - 29 < false and 30 . "\\" . - 1 - 9 < 5; input C; output - 9 - 1 >= 59; when case - 8 >= 2 : while 46 : chillax end end case 2 : chillax end; output "" . 0 . "\"^"; input D end

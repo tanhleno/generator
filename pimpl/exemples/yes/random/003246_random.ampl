@@ -1,0 +1,1 @@
+program N : C4Za : takes P, e3, p, rq9aa, l5 : integer; J, b7z : integer returns nothing while - 5 : chillax end; do s(- 70900 - 1 >= 9040) end main : Q1, i, n : integer array; zFJa : boolean array; output true and not 8 and 10 = - 59 end

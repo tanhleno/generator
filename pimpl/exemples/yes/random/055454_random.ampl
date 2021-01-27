@@ -1,0 +1,1 @@
+program lt : s : takes T : integer array; O : boolean; M2, xv, u, o, e, n : boolean array returns boolean chillax end main : pop; do vp(- not(1) and(3) >= - false, - (9) or 8 > 9, - 01 = 8590); pop - 4 > 1 end

@@ -1,0 +1,1 @@
+program ka : y : takes u, M1z : boolean; wx, g8C, Rl, ll, CRm, y, M : boolean array returns boolean do I(- true >= - 0 - 83, 95); input F; when case 94 : chillax end case 4 : pop end end Y : takes gK, M79 : integer array; Ia9, N, t : integer array returns integer array input H; let q80a = 02 end main : chillax end

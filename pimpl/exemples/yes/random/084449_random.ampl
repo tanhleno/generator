@@ -1,0 +1,1 @@
+program op : main : g5z0a : integer; Gh : integer array; R2b, Z : boolean; Ab : boolean; f, FH, j : boolean array; _4, L : boolean; X : boolean; let KK[- (05 = 88) * 6 rem(32400) and 1] = array - not Q - (11) + R; pop end

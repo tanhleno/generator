@@ -1,0 +1,1 @@
+program zE8 : t : takes fTE0, A : integer array; s, hc : boolean array returns nothing chillax end Mg : takes Y, K : boolean; ra : boolean array returns boolean array chillax end main : R, H2, p : boolean array; do G4ja(true, - not f); while false or fU and 60 or 195 - 7 /= not 3220 and 80 : let FW = 92 end end

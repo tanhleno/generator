@@ -1,0 +1,1 @@
+program e : _Q : takes U : boolean array returns nothing input HEE end h : takes l : boolean array; y : boolean array; K9W, m, C, M, Hw : integer array; a7 : boolean; w : integer; P6caa : boolean; VN : boolean returns integer array input b4[- 7 - 2] end Lh : takes I04 : boolean array returns nothing do R(3330, 464, 4) end main : chillax end

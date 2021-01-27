@@ -1,0 +1,1 @@
+program Je : W : takes frbaa : integer array; l : boolean returns nothing chillax end main : input N[- true and not false rem(64000) and 9850 + gG * not 4 and 99]; do zDXaa(- V[84] / true and 190, - 40 and 5 + 7 - 6, 43 < 4); output "87"; input x3; when case 1 : chillax end end

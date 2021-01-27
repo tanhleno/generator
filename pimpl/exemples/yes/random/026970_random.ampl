@@ -1,0 +1,1 @@
+program l5V0a : gq90a : takes Q, X1 : integer; w : integer returns nothing Y, q, Lo : integer; G, f : integer; r : integer; pop 833 end k : takes W, Qs : boolean array returns nothing chillax end H : takes f : integer returns nothing chillax end i : takes a4 : integer; Qu5 : boolean returns integer array let T[5] = 2; while 3 : chillax end; do V7(7); pop end main : chillax end

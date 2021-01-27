@@ -1,0 +1,1 @@
+program X : main : g : integer array; pop true / not 1 and 64 + true < (946) and 6 - 9; let hJ7aa = array(414) / 36 and 619 - (25500) and 5 or 4 - 5; pop; output 79 = 2 . 5; while 063 = 4 : chillax end end

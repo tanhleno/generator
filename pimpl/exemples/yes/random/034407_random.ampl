@@ -1,0 +1,1 @@
+program r : d : takes D : boolean; m, e : boolean array; E, Pq8a : integer; j550a : boolean array; A : boolean; G1, o, M : boolean returns integer chillax end main : b1 : boolean array; k8, M : boolean array; B : integer array; do SY(V[8], - not false + e and 0 - 7 - 66) end

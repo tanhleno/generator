@@ -1,0 +1,1 @@
+program a : X : takes k14 : boolean returns boolean array do ad(19 and 3600 /= 4, - 2 - 8 < 1) end V_9a : takes fvG0a, p, e24a : integer; h, d, a01 : integer; JH9, N, m : boolean; tbb, L : integer returns nothing input EO5[- 52 - 92] end main : d07, O, pq : integer array; while - true and 3 * true < - 2950 : input co[- 11]; let CY[1] = array 41 end end

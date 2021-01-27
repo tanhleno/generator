@@ -1,0 +1,1 @@
+program c : Ul : takes Z, ga, cw4a : integer returns nothing t8 : integer array; when case not 92 - 5 - 4 : while 01 : chillax end; pop end; output 7550 . 5 . ";z" . ""; when case 0 : input a8 end otherwise : pop end; while 2 : chillax end; let X = 9 end main : bQ, Elsaa, B, jV6, V : boolean array; chillax end

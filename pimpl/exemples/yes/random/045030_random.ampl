@@ -1,0 +1,1 @@
+program d : J : takes z : boolean array returns nothing let p[(7) - 51 - 260] = 7 < 75; while 4 : let v = 2 end; while 50 = 954 : chillax end end R : takes nI, zRD : boolean array; EZ8, g7 : integer returns nothing do d9b0(- 7, 4, 8, 6); do cN(7 = 9); do VFN(3); when case 2 : chillax end end main : chillax end

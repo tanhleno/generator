@@ -1,0 +1,1 @@
+program S : PN0 : takes b : boolean returns integer A : boolean array; a : integer array; output "" . "]9a"; do N(028 /= 54200, 27 = 0, 4, 5) end main : O37, XK, k : integer; while - 29500 : chillax end end

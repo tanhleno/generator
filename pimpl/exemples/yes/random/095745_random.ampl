@@ -1,0 +1,1 @@
+program aSa : main : when case - false * (4) < true and 3 + Q and 85 : chillax end case - false : while 7 = 4 : chillax end; let S = 84 end case 8 and 2 <= 3 - 10 : chillax end otherwise : chillax end end

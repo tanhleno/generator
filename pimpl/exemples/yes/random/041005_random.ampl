@@ -1,0 +1,1 @@
+program Pt5aa : N : takes qh20a : boolean array; rr : integer array returns boolean Z8 : boolean array; let Z[- 6010] = 8 - 3; input d; do z51(1 = 6); output 9310 end _0 : takes X : integer returns integer do t(2, 053) end main : ZX7a : integer array; X3, O : integer; a : integer; v, B, d : boolean array; chillax end

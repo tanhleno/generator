@@ -1,0 +1,1 @@
+program Y : l75a : takes D : boolean returns boolean b, ui3, Ma70a : integer array; output "u" . 62; input Gl end I : takes t : integer array; Vk : boolean array; g3p, g, _S, zk : integer array returns boolean array chillax end NJ_ : takes oR_aa, MQz, s : integer array returns boolean array input Aw[7] end main : chillax end

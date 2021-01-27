@@ -1,0 +1,1 @@
+program f : U : takes F, y : boolean array; s5M : boolean array; k : boolean array returns nothing Pr, cwla, p, Uu40a, d3 : integer array; input Y[- (9) and 2 - 7 - 1]; pop 9770 end main : output "v" end

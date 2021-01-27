@@ -1,0 +1,1 @@
+program Ao : Bk : takes o, Oy9 : integer array; e910a : boolean array; yI3a : boolean returns boolean array G : boolean array; let e7 = array - (0); output "" end main : while - (8) < - (6) * false + (13900) + 6 : pop end end

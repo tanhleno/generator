@@ -1,0 +1,1 @@
+program r : main : _, Z : integer; k : integer array; Y : boolean; b4waa, Sh, b, u5 : integer array; do v2o(false / false rem b0 and 89 - false, (619) * r and 1 or 52600); let UuL = array(0) rem n + true end

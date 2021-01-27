@@ -1,0 +1,1 @@
+program Ke : m : takes D6 : boolean array; ndc : boolean; I4, H, X, yn4, e8C, Lz : boolean; J : integer array returns nothing let V84 = array true and 4 + 73400 - 9 end _ED : takes j, R9, n : integer array returns integer array Hxa : integer array; Xe, Q : boolean array; fE : boolean; when case - 30 - 55 >= 217 : chillax end otherwise : chillax end end main : do H(false) end

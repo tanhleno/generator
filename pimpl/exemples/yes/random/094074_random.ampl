@@ -1,0 +1,1 @@
+program v0 : main : pop - not not 2; output 71 and 2 < - 7800 - 0; when case 852 and 509 : chillax end case - 43 : pop; while 4 : chillax end; pop end otherwise : let F = 4; pop; pop end; pop 026 end

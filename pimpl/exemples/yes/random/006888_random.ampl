@@ -1,0 +1,1 @@
+program T5 : D : takes Z, E, z, UG7 : integer array; o, Q1, c : boolean; MY : integer array; H : integer returns integer array while - false : do a(34); when case 3 : chillax end; pop; pop end; do H(- 92); pop end main : chillax end

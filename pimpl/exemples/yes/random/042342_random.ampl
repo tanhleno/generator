@@ -1,0 +1,1 @@
+program s : w : takes L : boolean array returns boolean pop - 1; pop end main : Ji8a, mV, d98aa : boolean array; x : integer; XdH : boolean array; j : integer; while false rem 53 and(6) and 7 or(32) * N >= false - not 10 and 454 : chillax end end

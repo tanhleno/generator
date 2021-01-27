@@ -1,0 +1,1 @@
+program b : a : takes a160 : integer returns integer array aN, Z, Q, u0 : integer; chillax end main : when case - not 59 * T[513] and false or I(29) : chillax end case - 898 and not 64 and 814 or not 8 and 43 or 2 : chillax end case not 7 and 09 - 83 : chillax end case 6 - 0 = 9 : input W2 end case 885 : while 7 : chillax end end; input Q860a end

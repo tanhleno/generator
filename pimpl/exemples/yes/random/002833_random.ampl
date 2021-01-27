@@ -1,0 +1,1 @@
+program i : yp : takes j11, p, Tb, y4, J : boolean array returns nothing i : integer; chillax end R : takes P : boolean returns boolean array chillax end main : output - false * false + true . - false and 6 - 7 >= - 85600 - 3; let _ = - (4) and 82200 end

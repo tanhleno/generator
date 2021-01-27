@@ -1,0 +1,1 @@
+program dD : k9 : takes V3, s0E : boolean; C74, j : boolean array; Q3 : boolean array returns nothing when case false and 65 - 98 <= - 1 : pop 6 end otherwise : output "N?"; do Hu(7); pop end end main : o : boolean array; output - 01 or false and 7 < - T and 33 . "" end

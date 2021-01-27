@@ -1,0 +1,1 @@
+program v : P : takes n : integer; X : integer returns integer N8Wa, e4Z : boolean; chillax end uO4aa : takes K5n0 : integer returns integer array NqGaa : boolean array; q0, i, R : integer; chillax end main : S, G : integer; when case true / O4 : chillax end end

@@ -1,0 +1,1 @@
+program f : z : takes D, a, H : boolean array; u : boolean array returns nothing chillax end P : takes n : boolean; l : integer array returns integer do y5(734 < 44); input X3 end M5 : takes Pk : integer array returns nothing XHQa : boolean array; pop end s : takes Jd, M4, K : boolean array returns integer xx, kG9 : boolean; chillax end main : m : integer array; chillax end

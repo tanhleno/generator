@@ -1,0 +1,1 @@
+program F : C9 : takes b, X0M0 : boolean array returns nothing chillax end main : let Y[mPA and not(502)] = not true and b7 and 895 + (6) and 181; when case - (334) / D and 072 = nb5 and 3 + 351 : chillax end case - F or 2 : while 74 : pop end end otherwise : chillax end end

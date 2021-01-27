@@ -1,0 +1,1 @@
+program i : main : Ot00a, z4, knF, ZV, Kbaaa : boolean array; Dz1, p, r, Vx : integer array; K9, gvk, l3z : integer; H : boolean; while - true + false / (8) <= - (5) rem h51 and 0 - false : input B[94] end; output "]"; do n(false and 00 + 3 - 802, - 19 - 775); do vY7(928 > 9, 560, 28, 85); when case 6 : let yE = 0; pop end case 7 : chillax end case 16 : chillax end end

@@ -1,0 +1,1 @@
+program r6 : S : takes V : integer array; EG, p7, G, TI, GZTaa, W : integer array returns integer array A : integer array; b1, D, C730a : integer array; A : boolean; r05, js : boolean; pop - 0 - 9 end main : let g[- true] = array - true end

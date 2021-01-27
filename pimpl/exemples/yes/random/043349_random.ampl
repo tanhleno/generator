@@ -1,0 +1,1 @@
+program A : w : takes e3 : boolean array returns integer pop end q : takes J : boolean array returns nothing B8, sdF0, P : boolean array; while 82 > 2 : chillax end; pop end main : input F[- (149 = 78) rem(8) or a rem eT] end

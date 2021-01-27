@@ -1,0 +1,1 @@
+program Q : Y : takes TAx : integer array; o : boolean returns integer array let F = array - 6 and 07 - 5 - 6; do j500(- 3 - 040 >= 1); let Q5[2] = array 34 end main : pL : boolean; N, t, I, Ti3a : boolean array; chillax end

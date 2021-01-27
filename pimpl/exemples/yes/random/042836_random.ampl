@@ -1,0 +1,1 @@
+program tC : U : takes j9b : boolean array returns integer array pop - 9 = 7 end main : _ : integer array; let jEx[- not not not 0] = true - true and 75 - 36; input B[true]; input P6Haa[- not 22300 and 7 or 9430 - 9]; pop end

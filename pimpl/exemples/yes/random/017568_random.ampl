@@ -1,0 +1,1 @@
+program Gd50a : ov0 : takes fsu, o4 : boolean; P, v5 : integer returns integer array s : integer array; k : integer; output 4 - 4 . 4 = 4; when case - 0650 >= 2 : chillax end case 0 : output "2" end case 9 : chillax end; input L[7280] end q5R0a : takes W, z260 : integer array returns nothing input Sw0[- 7] end main : M, X, e : boolean array; aK : boolean; chillax end

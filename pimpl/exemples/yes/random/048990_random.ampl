@@ -1,0 +1,1 @@
+program S62 : iOsaa : takes _ : boolean returns nothing output 97200 - 2 < 91400; let L[22700 - 1] = array - 6120 - 00100; when case 392 = 1 : chillax end case 136 : pop end; do a(0, 60); pop end main : y4, P : integer array; V1 : boolean; S75 : boolean array; jhy0a : integer; when case - false and LM or 06 : chillax end end

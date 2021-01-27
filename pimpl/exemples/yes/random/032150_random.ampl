@@ -1,0 +1,1 @@
+program e : g1 : takes CC9, p53 : integer returns integer output 92 . "" . "\n"; pop end main : when case - false * false rem not 3 : chillax end; let wb[- not 8 * 8030 and 1 or false and 2180 + 32 - 8] = array true and true and 8 - 2690 and 07; while - not 20 and 2 /= - 7 : pop 3060 end; input PpQ0[7 - 3610]; output "!K" . "[" . "" end

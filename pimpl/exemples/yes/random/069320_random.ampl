@@ -1,0 +1,1 @@
+program MI9 : main : Y9, U83, Q, _, E9 : integer array; pop; when case - 0 /= - 3 and 2 : chillax end case true and 9 + 67 : while 30 : pop end end otherwise : chillax end; let YG[- dsraa and 0] = 10500 /= 6 end

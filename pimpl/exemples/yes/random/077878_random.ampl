@@ -1,0 +1,1 @@
+program n : main : p, SU : integer array; let y = - true / not 8 and 71 < (7) and 9 + 6780 - 1; while wz[5] * true and 90 : output "" end; while - hu10a > - 3 : chillax end; output "B6" . "_"; input C[74] end

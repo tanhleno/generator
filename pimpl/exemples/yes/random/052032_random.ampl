@@ -1,0 +1,1 @@
+program s830 : oo6 : takes A : integer; jl : boolean array returns nothing X, MO60a, TU, FDY : boolean array; w, uRPa, c5 : integer array; y : integer; chillax end Y : takes h, G : boolean; Hd : boolean returns nothing Cjr0 : integer array; p7Q, p : boolean; do wofa(9 - 82) end main : chillax end

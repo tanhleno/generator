@@ -1,0 +1,1 @@
+program T : i : takes L, R : integer; RY5 : boolean returns integer array chillax end main : while - (4 = 1) - true : let ko[- 94 - 1] = array - 2; output 9 . ""; output 95400 . "" end; input S[- e(2) - not 48 and 55]; do c(H_8 + 6 - 465, 9 - 80 /= 89); do IY6(9 = 7, 4880, 31, 537); output 366 end

@@ -1,0 +1,1 @@
+program e4 : main : xJ7 : boolean array; g, pkiaa, t9, Nk4 : integer; g : boolean array; a11 : boolean; when case - true = - (55600) rem not 2 and 37 or(4) + 153 : chillax end otherwise : input K; input u1m[3]; while 638 : chillax end end; when case(3) rem 78300 - z and 83 + 80 = - y730a and 68 - 518 - 1 : input U[97] end end

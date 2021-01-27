@@ -1,0 +1,1 @@
+program S7B : g : takes w : boolean array; Rp, om, OL, h09 : integer; u3F, o, Nu : integer; T, e : boolean; g, Xf : boolean returns integer array v1, g, q2, Ng, G9Fa : integer; u : integer array; chillax end main : do T220a(true > - false and true and 90 or v + 90400, not 0 rem p9 and 1) end

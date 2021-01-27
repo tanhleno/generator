@@ -1,0 +1,1 @@
+program asH : main : G, s, O5E : boolean array; l, P, Ey, V47aa, vP8 : integer; I75 : boolean array; output L2[51] and false and 3 - false and 3040 + 03 <= - (95) - 4310 . (7) and 0 <= 1 . - 4 - 3 < 9 . 88 . "" . "0" . ""; let R = array - true - (878) and 14 end

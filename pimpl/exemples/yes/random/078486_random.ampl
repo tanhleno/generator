@@ -1,0 +1,1 @@
+program i6 : main : a5 : boolean; r, V8, Ja20, h : boolean; J, r : boolean array; V, O, b : boolean; while true rem 8 - true / xT and 7 : chillax end; output(4) < 52100; input M[- false and 8 or 8] end

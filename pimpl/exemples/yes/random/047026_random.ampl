@@ -1,0 +1,1 @@
+program m : N : takes G : boolean returns integer qf, f, c, C3 : boolean array; Y : boolean; let sn8[- true] = array - true and 6 or 47200 - 78; when case 1 >= 60 : input u; while 3 : chillax end end otherwise : when case 6 : chillax end end end main : chillax end

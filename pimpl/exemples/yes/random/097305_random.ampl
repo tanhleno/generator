@@ -1,0 +1,1 @@
+program w : main : when case 6 * (84200) and(694) and 61600 : chillax end case - D[12] : output 82; pop 36 end case not 358 and 2 or 2 = 57 : do m(6) end case - 06 < 7840 : output "8" end; do r(nE[920]) end

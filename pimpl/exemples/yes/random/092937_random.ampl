@@ -1,0 +1,1 @@
+program U9 : main : output "" . - not 0 and 6 or 7 - 51 <= - 84800; let o[- false - false and 5 + 28 - 4] = - U - 55 - 27 < 420; output "4" . 5 . 39; let n89 = 07 = 64; input n2; output ""; while 81 : chillax end end

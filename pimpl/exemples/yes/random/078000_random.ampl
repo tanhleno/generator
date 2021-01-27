@@ -1,0 +1,1 @@
+program Cc : main : iJ, YPr : integer array; output true or not 9 and 11 + 7 - 2 >= S2; let Id20 = - true or 5 - 0100; pop; when case 5830 : chillax end case 13 = 431 : chillax end case 083 : pop end case 37 : chillax end end

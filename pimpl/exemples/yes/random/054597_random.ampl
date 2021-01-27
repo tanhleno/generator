@@ -1,0 +1,1 @@
+program q : kFT : takes IZ60a : integer array; T8, VtW0a : boolean array; yj : integer array; r9w : boolean array; zB, a : integer array; U : boolean array returns nothing when case - D + 9 <= - 0 : chillax end case - 65 - 8 <= 083 : output "m80a"; pop; pop end end main : chillax end

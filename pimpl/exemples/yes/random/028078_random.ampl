@@ -1,0 +1,1 @@
+program m83aa : r : takes f, k : integer array; R, v4zaa : integer returns nothing S, n, r : boolean; G, V1, G7, t6Jaa : boolean; input OH[not 98100 and 2] end main : h, X : boolean; do g(- (4) or not true * false and 83100 + not 01, false and not 39 - (8), - (55) and 61 or 117 - 2520 /= 15 - 0) end

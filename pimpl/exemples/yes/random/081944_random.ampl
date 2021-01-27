@@ -1,0 +1,1 @@
+program r : main : e : boolean array; Al : integer; EO : boolean array; when case - false * false /= (15) * false : when case - 4 - 79 < 020 : chillax end case 54 = 7 : output "\\9a"; pop end case 60 : pop end case 1 : chillax end; pop 4; do y(53, 9); output "[" end otherwise : chillax end; do c(I rem f <= - (4) and 23, I_ and 9 or 02300); pop end

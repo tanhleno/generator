@@ -1,0 +1,1 @@
+program r : f : takes K4l0a, L : integer array; m6 : integer; N : boolean array; H : boolean array; A7 : boolean array; Hk : boolean returns nothing input Y[not 7] end main : a1Ta : integer array; chillax end

@@ -1,0 +1,1 @@
+program U : W : takes LPL : boolean array; s9, d : integer returns boolean i2, N90, t, Ye8a, _ : boolean array; p, s, V : integer array; let P6[5] = array - not 1 end main : Ooza : boolean array; XQ, DC, Y2, K : boolean array; chillax end

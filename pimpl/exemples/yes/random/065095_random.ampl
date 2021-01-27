@@ -1,0 +1,1 @@
+program R8 : p : takes D : integer returns nothing t6 : integer array; bIE, d : integer array; Q : integer array; N, w : boolean; output - 7 - 29200 > 1 . 937 end w : takes e : integer array returns boolean array R2J : boolean array; chillax end main : do d(o(4, 77) - false or not 84500 - 5 - 6, - t9Z[0] - v5 or 7) end

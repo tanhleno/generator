@@ -1,0 +1,1 @@
+program k : n6ca : takes z8A0a, YKd : integer array returns nothing X, v3, n : boolean array; let V5[- (4) and 5] = array 7 and 7 + 9 - 0; when case 6 /= 45 : chillax end otherwise : output ""; pop end end main : chillax end

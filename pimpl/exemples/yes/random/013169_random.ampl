@@ -1,0 +1,1 @@
+program _6 : g : takes NTK, b, O35 : integer; A9Vaa : boolean array; NH10 : boolean; O : boolean array returns nothing chillax end o : takes h1m : boolean array; qJ : integer returns nothing QsGaa : integer; chillax end main : let F[5 or m(32)] = false / false and 3 end

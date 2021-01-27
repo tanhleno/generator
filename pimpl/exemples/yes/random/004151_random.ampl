@@ -1,0 +1,1 @@
+program e : O : takes N, Y, W6, k, o : integer returns nothing let e2Ea[false or 52] = - 3 - 5; while 4 >= 69400 : pop end end QW : takes U : integer; V, n : integer array returns nothing e, n, w, _F8a : integer array; let I6a[794] = 2 = 89; while 5 = 1 : do Y(3) end; while 8 : pop end end main : chillax end

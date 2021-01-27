@@ -1,0 +1,1 @@
+program cJ1 : U : takes hyK : integer array returns boolean array F, B8fa, b0, Bp9, nU9 : boolean array; j4, j : boolean; let x1 = - 12 - 1820 = 6 end main : output "" . - false - 912 /= 202; do W260(- not true and false and 2890 or(08) + 7 >= - M and 2) end

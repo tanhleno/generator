@@ -1,0 +1,1 @@
+program I : main : m18 : integer; while not false / not 0 /= - false : pop 9 = 29; do J6(799 = 35); input q09[0]; let d47a = 34; pop; pop end; do ZVKa(- true or W > dAfa, - o and 1 + 8 - 8 >= 54 - 3); pop - 5 end

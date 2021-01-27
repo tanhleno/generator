@@ -1,0 +1,1 @@
+program O7Xa : main : _ : integer; d, e9 : boolean array; c6, K4, zi : integer; C, X : boolean; do o2J0a(- not false + false, (8390) / h > not 1 - 1); do V(false + 1 and 07800 < not 2 + 65, - (836) >= - 3 - 7, - 3 <= 9); input P[- not 6840 and 0] end

@@ -1,0 +1,1 @@
+program TlO : u1Y : takes v : integer returns boolean array _, o6, lo : boolean; chillax end GE80a : takes E : boolean returns boolean array let v3 = 1 = 8; output 71800; let Wm7 = array 24; output "35" end p7 : takes D, x0 : integer; m00, f8q0a, QMoaa : integer returns integer array chillax end main : b : boolean array; C, h : integer; chillax end

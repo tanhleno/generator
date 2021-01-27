@@ -1,0 +1,1 @@
+program v : F85 : takes g12 : boolean array; Q, R, oJ, Z58, C : integer array returns boolean when case - (46) >= - 1 : let Z[6350] = array 2 end case - 1570 - 94 < 13000 : while 7 : chillax end end case 3 = 4 : chillax end case 5 : pop end case 7 : chillax end otherwise : chillax end end main : t, w, Xqmaa : integer array; p, Z, K4 : boolean array; chillax end

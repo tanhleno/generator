@@ -1,0 +1,1 @@
+program W : main : aXl : boolean; vB1 : boolean; D, O7, k : boolean; let p0[- true - oC(45) and(76) and 812 or true + 7] = array U7 and R * (515) and 5; let x25aa[- false / false] = array true rem false end

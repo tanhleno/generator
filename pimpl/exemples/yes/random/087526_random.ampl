@@ -1,0 +1,1 @@
+program _a : main : p : integer array; when case - not 09 / false and false and 834 > (2) * true and 41 : pop; pop end otherwise : input a9; output "" . "" end; output - true and 96 = - 2 . 92; do uP(- not 7680 and 82 < 6 - 3) end

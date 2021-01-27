@@ -1,0 +1,1 @@
+program s : R : takes H80aa : boolean array; w, kT : integer array; M : integer; a8w : boolean array returns boolean when case(17) and 19 or 8 - 86 : chillax end end main : Hy, t9U : boolean array; L, b : boolean array; L : integer array; chillax end

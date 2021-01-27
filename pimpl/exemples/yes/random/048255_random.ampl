@@ -1,0 +1,1 @@
+program W : Qs : takes aID : boolean returns nothing Q79, E5 : integer; when case - k and 31300 - 0 < 8 - 03 : input v7 end case - 7 - 223 : input Zn0 end otherwise : chillax end; input N[43700 - 6]; do Wl(4780); output "" . "" end main : WS40a, p : integer; B8c, Yz : integer array; c3 : integer array; pop 87 / not 1 + (04300) or 71 - 8 end

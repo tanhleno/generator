@@ -1,0 +1,1 @@
+program a0 : main : let x6Naa[- (0 = 0) / false - not 1 or 07 and 51] = - (5) * not 82 and 5 = - false; while(46) * true + (821) >= (7) and 3 : let y = array 673 end; let WA3[0390 - 18] = array - x0 or 306 - 8; input q; pop end

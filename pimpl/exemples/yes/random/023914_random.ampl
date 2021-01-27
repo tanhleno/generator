@@ -1,0 +1,1 @@
+program hr : D2 : takes n7y0a, O19a : boolean returns nothing chillax end G : takes t, g : boolean array returns nothing output 32 = 46 end V4baa : takes r : integer returns nothing output 648 end main : TnL, l : integer array; input s4; while 7 : input l3[7] end; while false or 3 : chillax end; let d[5] = array - 58; let o[4] = 4; output 9 . "" end

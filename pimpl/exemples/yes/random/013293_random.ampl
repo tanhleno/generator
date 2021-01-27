@@ -1,0 +1,1 @@
+program tw : U : takes F, PU, _ : integer; da : boolean returns integer array while - 25 : chillax end; output 9 . ""; pop 3030; while 62 : chillax end; do mj(22) end O : takes g8, P, Sk, q : integer array returns nothing chillax end main : chillax end

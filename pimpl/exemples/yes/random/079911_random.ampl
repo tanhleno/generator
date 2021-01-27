@@ -1,0 +1,1 @@
+program z : main : m : boolean; input h[not true - true]; pop - 3 and 9; when case not 4 + 2 - 88 : while 8 : pop end end case 1 : chillax end case 4 : when case 7 : chillax end end; while 989 - 786 >= 609 : chillax end end

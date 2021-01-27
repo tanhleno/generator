@@ -1,0 +1,1 @@
+program _b9a : main : when case(929 = 3920) rem false : chillax end case 4 / S and 6 : chillax end case - false and 47 : chillax end case - 57200 - 335 : when case 5 : chillax end end otherwise : do N(1 = 91, 43800) end; input C[- s / 31]; output 2 - 9 . "%q" . 5 . 1 . ""; input n[33 - 3] end

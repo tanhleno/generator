@@ -1,0 +1,1 @@
+program Y : c : takes l1, n : boolean returns nothing chillax end OY : takes t : integer; o : boolean returns integer array ox, Vebaa, dn : integer array; pop; while 98 = 73 : when case 78700 : chillax end; pop end; input q[1]; when case 1 : chillax end; pop end main : O, r : boolean; chillax end

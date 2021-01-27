@@ -1,0 +1,1 @@
+program k : o : takes m8N : integer array; r8, ZI : integer array; h48, v02, P, wqB0 : integer; Q66, S, k : integer array returns nothing Q, Y, W, C_P : boolean; chillax end main : pop - false and false and 5; while 333 : input jmI0[5]; input PH[76] end end

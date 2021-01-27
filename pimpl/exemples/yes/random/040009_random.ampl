@@ -1,0 +1,1 @@
+program J8 : y : takes k : boolean array; T : boolean array returns boolean array tWm, C, bt : integer; chillax end _ : takes Cx70, U, L : boolean array; Er8a, x5Z : boolean returns boolean array pp2 : boolean array; chillax end main : J : boolean array; pop(3) - false end

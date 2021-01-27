@@ -1,0 +1,1 @@
+program L5 : kW8a : takes M : boolean returns boolean array W3 : boolean array; e71, _yg : integer array; r, Oz : integer; GK4a, Lb10 : boolean; while - true and 479 >= 747 : input x; input Q78; while 3 : chillax end; pop end; when case 576 >= 0 : input B end otherwise : chillax end; while 388 : when case 236 : chillax end end end main : chillax end

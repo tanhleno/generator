@@ -1,0 +1,1 @@
+program t02a : main : when case not(17) : when case 3 - 5 : chillax end case 37 : chillax end case 5840 : pop end case 1 : chillax end end case(1) * y and 3750 : let R = array 655; while 1 : pop end end otherwise : chillax end end

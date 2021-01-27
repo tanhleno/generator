@@ -1,0 +1,1 @@
+program M390a : e : takes Z7maa, Y, dg : integer returns integer chillax end main : when case 1 rem true /= false : chillax end; when case not not 07 and K5 <= - not 83 + 5 - 2 : let Gu = array 81 end otherwise : chillax end; when case - true and 1 or 3 : input D; while 4 : chillax end end case - 7 : input q7 end case 88 : chillax end case 63 : pop end case 8 : chillax end end

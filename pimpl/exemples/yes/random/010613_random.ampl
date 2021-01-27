@@ -1,0 +1,1 @@
+program t7 : DQ : takes M, on, J5 : boolean array returns boolean array K9 : integer array; R, S, y : boolean; do n3(p and 6530 + 9640, - 91 - 1); while 5 - 488 > 8 : do SH(49) end end main : T, JI5 : boolean; j4 : integer array; let Pk1aa[- D3(0) + true - 164 and 804] = 8 >= (76) - 023 end

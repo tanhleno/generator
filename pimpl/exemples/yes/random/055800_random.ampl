@@ -1,0 +1,1 @@
+program x : Q : takes k740a : integer array; O8 : boolean array; dy, F : boolean array returns nothing D, d : boolean; X : boolean array; while - 5 or 44 : input U[47]; do G(3); when case 6 : chillax end end end main : e : integer array; chillax end

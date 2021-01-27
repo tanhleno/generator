@@ -1,0 +1,1 @@
+program o : main : when case - not true + false : when case 72 - 1 < 1 : pop; let CE = 27; pop end case 74 = 54 : chillax end otherwise : chillax end end case(04) rem(1) and 8 > true : chillax end case true - 8 - 29 : chillax end case - 46 : input bq7 end otherwise : output 166 end end

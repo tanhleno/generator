@@ -1,0 +1,1 @@
+program PVA0a : main : output - 4 and M or(47) >= (804) or 7; while - 2 - false - 7 - 0 > - true and 6 : input k3[66]; pop 7; input SIK0a end; output - 0; when case 6 <= 7 : when case 95 : chillax end; output "3\\\"" end case 36300 : let K = 85 end case 99 : chillax end otherwise : pop; pop end; do n600a(89 = 3) end

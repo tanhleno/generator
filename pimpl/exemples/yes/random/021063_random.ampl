@@ -1,0 +1,1 @@
+program u9 : L : takes YI, QQfa : boolean array returns boolean do M3(- J and 9 - 91 - 89 = 4, - 0); when case - 7 - 2 : let j = 420; input w end end S0 : takes _ : integer array returns nothing chillax end main : chillax end

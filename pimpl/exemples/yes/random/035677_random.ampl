@@ -1,0 +1,1 @@
+program G : xRe : takes nk1 : boolean; t3s : boolean array; s7, E : integer; V : boolean array; S, o : boolean array; F, sc : boolean; Nz : boolean returns nothing input A; let c1[35400] = 4 end main : pop(2690) rem false; do U((5) + not 8 /= (70) and 9, - true and 0 + 34 /= 0 - 15, - 0 >= 536) end

@@ -1,0 +1,1 @@
+program Ypn : I : takes U : integer; A9q0 : boolean array; X7, h, E : boolean array returns integer array chillax end uomaa : takes w : boolean; O8taa : integer array; U : integer; l, O : integer array; u : boolean returns nothing chillax end main : a, d, O9 : boolean; uC, A9 : integer; r3, sx6, o, b : integer; S : integer array; Ae : integer; n : boolean; chillax end

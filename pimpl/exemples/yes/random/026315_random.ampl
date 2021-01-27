@@ -1,0 +1,1 @@
+program O73a : Bm0aa : takes x, mw : integer; E55 : boolean array returns nothing p, C, xw : integer array; N, C, V0 : boolean array; enQa : integer; let o7G0a = array false and 723 - 1 end main : r, o7, w, e1I, D21 : integer array; input s[- (5 = 46) and Rh[736] rem false or D - not 48 and 33800 + 2]; pop; pop - 3 - 6; while 253 - 0 > 1 : chillax end end

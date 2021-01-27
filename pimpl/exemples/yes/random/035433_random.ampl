@@ -1,0 +1,1 @@
+program D : i : takes e54 : boolean; bP9 : boolean; kO, _ : integer array; E22 : integer; _F, MO : integer returns integer array G, g0m, Dv, C, u : integer; chillax end v : takes P, p, X17aa : boolean array returns boolean q, ON, W : boolean array; chillax end main : N2pa, et : boolean array; R, xpEaa : integer array; chillax end

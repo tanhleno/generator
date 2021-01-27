@@ -1,0 +1,1 @@
+program o : main : output - false / P0R0a and 6 - true and 4 - 8 /= - true . false /= - 2; when case - not(9) rem pw - uQda <= true : when case 6 = 8970 : do c1(8780); pop end case 5 : chillax end case 4 : chillax end end case true = - 2 : chillax end otherwise : chillax end; pop - 8 - 1930; pop end

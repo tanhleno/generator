@@ -1,0 +1,1 @@
+program gq : K : takes b57aa : integer returns nothing d, k_10, i : boolean; chillax end main : E230 : integer; e00, p : boolean array; FDn0a, a9 : integer; v, sP : boolean; J0_0 : integer array; G1r, BK : boolean; chillax end

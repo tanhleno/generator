@@ -1,0 +1,1 @@
+program a : t : takes n7Uaa : integer array; Q, yh, P0Kaa, r, e, x, Pn80 : integer array; S, q6 : integer returns boolean chillax end S_ : takes X : integer array returns nothing pop end main : while - (2) * mi(66500) : chillax end; output 510 < - 8380 - 203; while - true and 9 < - 17700 : let j6[0] = 8 end end

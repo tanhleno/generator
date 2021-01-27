@@ -1,0 +1,1 @@
+program Gl : g : takes OJw, V : integer array; m4d, A, s7k, a6 : boolean array; C5Xaa : boolean array returns nothing when case - (4) : chillax end case - 735 : chillax end otherwise : chillax end; output 86 . "]\naa" . 21 . "\"" end main : output - qM[34] or false and 00700 + 8 . ":" end

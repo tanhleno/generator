@@ -1,0 +1,1 @@
+program mp : M33 : takes O : boolean array; G8 : integer array; l6_a, bu90a, H7, C7H, W0, c4 : boolean array; lj6 : boolean; Qw : boolean array returns nothing input k1[- true]; output "\"\"" . "\"\\"; let d = array 061 end main : X4c : boolean; R : integer array; N, c7, W6 : integer array; BxI, V0R0, a : boolean array; input E[true] end

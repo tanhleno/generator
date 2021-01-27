@@ -1,0 +1,1 @@
+program u : F : takes acta, b7E : integer array returns integer array k, jU8 : integer array; hG : integer; chillax end Y : takes WH, w : boolean array; A9, Hl : integer array returns nothing b : boolean; pop 17 = 42 end main : H5, IC4aa, D, k, Q, a, K3 : boolean array; chillax end

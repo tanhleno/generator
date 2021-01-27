@@ -1,0 +1,1 @@
+program mLg : main : Q : integer array; k : integer array; f5 : integer; M, v : integer; L, VG, F : boolean array; m61, Y9x : boolean; while - true : chillax end; when case - false : pop; let U76a = array 6 end otherwise : chillax end end

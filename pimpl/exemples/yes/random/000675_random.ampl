@@ -1,0 +1,1 @@
+program qL : O5 : takes p670, f7, B, XM, E01, Ju, q8w0a : boolean array; H : integer array; Jyh : boolean array returns nothing W2v0a : integer array; do YY(- true + 9 - 7, - 02300, 7 = 08, 88, 7); do B(- 3); while 3 : chillax end; pop end main : do t(false and true or true - false + 78) end

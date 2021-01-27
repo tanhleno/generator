@@ -1,0 +1,1 @@
+program W : EZ9 : takes _, e, og, t2 : boolean array; Z45a, l9 : boolean array returns integer array output 250; while - 83 : output "8-0a" end; pop; input I[865]; let I = 24 end v9 : takes P, h, b : integer array returns nothing y27, j : boolean; pop; pop 8 end R : takes b, a : boolean array returns nothing chillax end main : F8, F_, w : integer array; input H end

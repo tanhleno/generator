@@ -1,0 +1,1 @@
+program t9 : i : takes s, q, r, f : boolean array; L9 : boolean; u, X86 : boolean array; o : boolean returns boolean array input eK[true and 8] end main : output "\ta" . "46"; input i[L4jaa and false]; input f; let zL = array 57 end

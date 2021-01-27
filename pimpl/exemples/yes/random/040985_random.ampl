@@ -1,0 +1,1 @@
+program J : NO : takes p : boolean array; ol : integer array returns boolean array while N >= 52 - 73000 : chillax end end h : takes U, R7C, Q6 : boolean array returns nothing output 6 = 29; input o end main : chillax end

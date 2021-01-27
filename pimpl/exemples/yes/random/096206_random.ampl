@@ -1,0 +1,1 @@
+program Lqla : main : when case - not X2(595) + true + not 5 and 8 or 49 - 17 >= - (7) + true and 0 : chillax end otherwise : chillax end; when case - (0) : pop 5; pop 461 end case f and 4 - 6 > - 93100 : chillax end otherwise : chillax end end

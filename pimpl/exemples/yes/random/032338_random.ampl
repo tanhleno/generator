@@ -1,0 +1,1 @@
+program p : Vk8 : takes K, rVN : integer returns nothing chillax end main : I0, cZ : boolean array; yA, eb6, I : boolean; s : integer array; A, t : boolean; s, r : boolean array; when case - 2 : do bW(52) end otherwise : when case 2 = 33 : chillax end case 4 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program V : g7 : takes h670a, gU : boolean returns boolean B : boolean array; r, r : boolean; pop 32000 - 176; when case 6 = 082 : chillax end case 6 = 8 : do c(68); pop end; when case 167 : let O = 3 end case 6 : pop end otherwise : chillax end end main : chillax end

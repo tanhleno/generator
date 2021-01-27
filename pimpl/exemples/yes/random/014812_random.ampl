@@ -1,0 +1,1 @@
+program C : l : takes NNe, S950, N : integer array returns boolean tY30, v, y, m : integer array; E4, s, P, R52 : integer array; chillax end main : when case c5[42300] /= - (5) / (178) and 5 or true and 93 : chillax end case - (62) and true : output "5"; pop; when case 79 : chillax end; output ""; pop end case not 6 - 79 <= - 4 : output "" . "<" end end

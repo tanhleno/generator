@@ -1,0 +1,1 @@
+program c : n8 : takes vl1, j5 : integer array; U : boolean array returns nothing mmPa : boolean array; chillax end main : L, R, A1 : integer; Q : boolean array; N1 : integer array; when case 56 and not false /= false and S63 and 1 + not 0 + 2 - 8 : while 578 - 38 : chillax end end otherwise : chillax end; input y[- 4 * 46900] end

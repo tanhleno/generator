@@ -1,0 +1,1 @@
+program r : a9n : takes Z : integer returns integer input cE3a[(2)] end G : takes Y, w03 : integer; w0, m, t, q, C, I : boolean returns integer chillax end main : T : integer array; do T(- not not(2) < - not true - not 23 and 987); let E = array false; do t4(- not 26300 > - 82200 - 1, - 23) end

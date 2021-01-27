@@ -1,0 +1,1 @@
+program uRs : o : takes yn : boolean array; o, c, V : boolean array; u, A_4, f : boolean; y : boolean; n, t : integer array; v, L, q6 : integer array returns boolean c : boolean; chillax end main : while 8 * 4 rem 06 and 86 + not false and false - Ocl0a and 8050 < - (2020) or true : chillax end end

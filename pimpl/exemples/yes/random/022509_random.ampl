@@ -1,0 +1,1 @@
+program V6 : Qu : takes WK5aa, b : boolean array returns nothing Z8u0a : integer; chillax end main : let g[32 * true / 5 and 219 + 6 * true - d and 54] = - true / true = - false; do i(false); pop - 5 >= 67; when case - 5 <= 37 : chillax end end

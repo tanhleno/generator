@@ -1,0 +1,1 @@
+program KM : u : takes Y9x, Vm, J : integer returns nothing output - 76 - 2 < 7 . "" . 94 . "\n" . ""; output "^8" . "6\t" end main : W, _55, u, OU1 : integer; D3, H, hpWa, I, Rg, p9_0 : integer array; let y = not false = - (3) end

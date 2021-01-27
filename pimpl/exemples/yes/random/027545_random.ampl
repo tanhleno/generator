@@ -1,0 +1,1 @@
+program k6 : j : takes s85a, o : integer array; b, nGO, l : integer returns nothing do k92(false and 7, 3 - 55 = 31, 64800 = 9, 8, 87); output "" end tUF0a : takes I, y : boolean returns nothing L : integer; input Q end main : u, F, Nc : boolean; chillax end

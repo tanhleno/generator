@@ -1,0 +1,1 @@
+program Nl50a : main : do K2X(- true * false and true and 1 + z190 + (11), - false, true and 1 < - 2 - 6, - 6 - 9 = 2280, 50 = 0, 20); do F(true / not 5 + 0 + 314 - 6 >= false); let z7[true and 4 + 140 - 038] = array - (3); do t(- 16 - 740 <= 868, 8 = 63, 645, 6); while 64 = 6 : chillax end end

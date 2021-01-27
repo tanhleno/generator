@@ -1,0 +1,1 @@
+program F9C0a : B : takes P, g, A3 : integer array; E0, z_7 : integer; U : boolean returns integer array R : integer; l : integer array; z : boolean array; do u4(- W1Z and 25 - 95, 2, 6, 07); output 441; output 3 . 7 end z : takes L9I0a, k1, b : boolean array; i : boolean; F1S : boolean array returns nothing chillax end main : Zn0, J37 : boolean; pop; do v0(2 and b6Ga and 0) end

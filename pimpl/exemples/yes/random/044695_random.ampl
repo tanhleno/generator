@@ -1,0 +1,1 @@
+program v : XVkaa : takes HYi : boolean array returns nothing a : integer; chillax end main : when case not not false and 7 + 74 rem true and 61 - s and 6 > false / false : pop 1; do n(2, 746) end otherwise : chillax end; output "1"; let Q[(58000) and 02 or 4240 - 4] = array 3 - 586 - 1; let YW_[- 7] = array 15800 - 0 end

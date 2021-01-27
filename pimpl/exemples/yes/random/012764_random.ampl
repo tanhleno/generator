@@ -1,0 +1,1 @@
+program y : I : takes a, _, S1 : integer; D, T76, zf : integer array; X : boolean returns boolean chillax end X050a : takes Tsxa : integer returns boolean array h : integer; K0x0a : boolean array; wU, M6 : boolean; input Q[- 890] end main : a : boolean; chillax end

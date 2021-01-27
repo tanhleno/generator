@@ -1,0 +1,1 @@
+program z2 : main : k3, M, l : integer array; when case true and not yJ / true or 6 + 39 and 9 > - D2[5160] : chillax end case - (2) : chillax end case - 4 and 58 or 6900 : chillax end case 85 >= 9 : chillax end case 74 = 1 : chillax end otherwise : chillax end; input H end

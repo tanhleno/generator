@@ -1,0 +1,1 @@
+program CA8 : P6j : takes mu, B, B6faa : integer returns nothing e2 : integer; when case k5T + 42100 >= 3 - 2 : chillax end otherwise : input z_0a; do FYj(64) end end main : f, fp, NW : integer; bcvaa : boolean; output true > - not 56 or 59 - 5; when case Y5[22] rem 2550 + (2) and 3 - 2 : chillax end case - false + 9 - 854 : chillax end end

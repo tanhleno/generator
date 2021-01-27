@@ -1,0 +1,1 @@
+program RNh0a : main : y : integer array; pop 18700 + 6 - 30 - 8; when case true and(33) : let l57[89700] = 8; output "" . "U"; output "x:!a" end otherwise : when case 9 : pop end otherwise : chillax end; input KN8a end end

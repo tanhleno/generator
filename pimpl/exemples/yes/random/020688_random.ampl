@@ -1,0 +1,1 @@
+program Bt : K : takes Y, i7 : boolean array; Y : integer returns integer array output "\t" end B4oaa : takes K, N : boolean returns nothing K : integer; q : integer; chillax end main : l : boolean; chillax end

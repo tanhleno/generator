@@ -1,0 +1,1 @@
+program R : J : takes oJ4 : boolean; x1 : integer array; O, c94aa : boolean array returns nothing chillax end main : when case - not false / false - (5) / false : chillax end case - not 4 > - (21) - 65400 : chillax end; output false end

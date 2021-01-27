@@ -1,0 +1,1 @@
+program M0qaa : main : Q : boolean array; p, i, I : integer array; b : integer array; Qr, Q30, _69 : integer array; when case - 9240 and false and c and 3 or Y : chillax end otherwise : output "\n"; output 6 end end

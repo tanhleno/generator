@@ -1,0 +1,1 @@
+program wb0a : _ : takes o6Waa, Eg : integer returns nothing pop 682 - 0 >= 0; while - 7 >= 808 : chillax end end main : o, c, b, Z8 : integer; u03, E7, X1, PUFaa : boolean; V, R, F : boolean array; w, SC, F, G : integer; j : boolean; xj : boolean; chillax end

@@ -1,0 +1,1 @@
+program A : W : takes Q : boolean; U : integer array; G0 : integer returns nothing S, P, aO, B, Y2 : boolean; chillax end u : takes b, C : boolean array; U7 : boolean returns integer array b : boolean array; when case 6 - 78 = 9 : input D; pop end; do CQ00(00800, 3) end main : chillax end

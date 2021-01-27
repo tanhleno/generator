@@ -1,0 +1,1 @@
+program l : E : takes wT : integer array; B1, T, I18aa : boolean returns integer array when case(6) + 57 - 00 /= - 2 - 91 : chillax end case 8 - 01300 : while 57 : chillax end end otherwise : pop; input M end end I670a : takes F720 : integer array returns boolean E, r : boolean array; k, VS : boolean array; N, k : boolean; input m6 end main : chillax end

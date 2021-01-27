@@ -1,0 +1,1 @@
+program k : tZ : takes T290 : boolean; C82aa, Z : integer; D : boolean returns integer uV1, Z, Jgj, s, CF : boolean array; l, l590a : integer; dN, B0, Y : integer; W, e3 : boolean; yQQ : boolean; T : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N : E : takes i45, L4S, Q : boolean returns integer array chillax end H : takes rz, V : integer; D, I, MD2 : integer array; v, n, wz40a : boolean; Y : integer array returns nothing t, g7, Z, H5 : boolean; P : integer; when case 43 - 202 : input B; input f end case 3 : input b end; do b59(0 = 24) end main : chillax end

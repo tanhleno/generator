@@ -1,0 +1,1 @@
+program I70aa : main : vPf : boolean array; D : integer; pop; when case(7) or not 9 <= true + 78 - 753 : chillax end case - not 22 + 073 - 831 : chillax end otherwise : chillax end; pop; when case 43 : chillax end otherwise : chillax end; while 0 = 8 : input V3; pop end end

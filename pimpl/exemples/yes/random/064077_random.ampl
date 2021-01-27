@@ -1,0 +1,1 @@
+program H2 : B : takes r200a : integer returns nothing do Uq10(- (42600), - 87 - 7, 0 = 77); let C[97 - 4] = 7 = 42 end m : takes B : boolean; p7 : boolean array; S : integer array returns boolean array let z[8050 - 444] = 26 = 27 end main : let a = (145) * true end

@@ -1,0 +1,1 @@
+program c : b : takes t : boolean array; c, O1 : boolean; i, rI, f, H : integer array; D : boolean; tiW, k4 : boolean array; q, I0 : integer returns boolean dQ, H, Bd4a : boolean; input Z[true and 879] end main : y : boolean array; D : integer; E, aDD, BV, A : integer; chillax end

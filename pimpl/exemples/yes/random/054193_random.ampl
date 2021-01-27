@@ -1,0 +1,1 @@
+program u : O9Y : takes LgD : integer array; bz, t, YEPa : integer array; w2k, F, Xc : integer array; o, J, C2 : boolean; Q : boolean array; or8, r8, k : boolean array returns boolean array W, v, nz3aa : boolean; L, b, Y920 : boolean; chillax end main : while(27) rem true rem not 4 + (923) < not DY : chillax end; let O3[true or 3 and 55500 or 3 - 440] = M5 - 5 - 4 end

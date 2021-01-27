@@ -1,0 +1,1 @@
+program yE4 : h : takes j, K, j : integer array; q49 : integer array returns boolean array chillax end main : N4f, u, V : integer; d : integer array; output not false rem not 2 or false and 649 . "" . - 290 . "1" . 3; pop not 52 and 03 end

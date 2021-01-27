@@ -1,0 +1,1 @@
+program b : S7 : takes M : boolean array; N4 : boolean array returns integer array w, j1, b, r, C : boolean array; _ : boolean array; P1m : integer array; chillax end main : _ : boolean array; A, K040 : integer; L, U, A, k6E : boolean array; while - Lc(0) and MY or 4 + true : pop; input R9; output 6 . "[@\"a"; pop end end

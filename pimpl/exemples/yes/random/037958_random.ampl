@@ -1,0 +1,1 @@
+program TE4 : B : takes E540 : boolean array; O, qG3, APf0 : boolean; f, Q : boolean; Z4v : integer; I, b, s4laa : integer array; l2, kn : boolean array; k, l : boolean returns nothing chillax end L1Ha : takes W : integer returns nothing do Q1(- 100, 5, 6); when case 261 = 36 : do V(0360); pop end end main : chillax end

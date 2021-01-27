@@ -1,0 +1,1 @@
+program Im : hC : takes S : boolean array returns integer array q0 : boolean array; u, W : boolean; while true >= - 5 - 62 : chillax end; do s(- 4) end P87 : takes V9, d9, y, AU5a, G, t4j, pio0 : integer; m, e, D : integer returns nothing chillax end main : chillax end

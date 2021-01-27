@@ -1,0 +1,1 @@
+program Q51 : main : when case - not not(58) : while 88 : let g = 6; while 7 : chillax end; pop end; while 55 = 6640 : chillax end; output 4 . "Z1!a"; input f; output "7\"0a"; pop end otherwise : input Z end end

@@ -1,0 +1,1 @@
+program M21 : B : takes Z, O : boolean; f, U, cF : integer array returns boolean do p(true and 43200, - 91 - 0, 8700 = 4) end nJq0 : takes B, D4b0a, ew : boolean returns nothing chillax end W2 : takes L, gQ : boolean returns nothing chillax end main : r5Y, m0, zVl : integer array; output "" . "x" . - 32300; pop not 4940 and 4 + 548 - 9 = - 491 - 19 end

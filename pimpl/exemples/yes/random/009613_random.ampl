@@ -1,0 +1,1 @@
+program tI : C : takes K, KN, A : boolean array; f, Ok, H : boolean; dEh0, X, WA : boolean; A, n : integer array returns boolean array bpa, M : boolean array; do P(- eb5); input YX[6 - 72200] end h : takes WYD : integer array; J : boolean returns nothing I9, JAK : integer array; chillax end main : input e[132 rem p[7] and w + true] end

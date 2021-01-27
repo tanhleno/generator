@@ -1,0 +1,1 @@
+program k : yJ : takes k : integer array; y7 : integer array; o : boolean; w, _Z, e, P2, yG : integer array; K0 : integer array returns integer chillax end Kz : takes z : integer returns nothing while 08 >= 6 : output "" end; pop; output 7; pop end main : R, s : integer array; chillax end

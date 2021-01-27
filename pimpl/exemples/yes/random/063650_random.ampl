@@ -1,0 +1,1 @@
+program x : K : takes Y24a : integer returns nothing chillax end DR : takes U, kDO, u, n7 : integer; f, p : boolean array returns nothing chillax end main : FVX0a, D52 : integer; E, O8N, o, C, on40, Hg : integer array; N930, N, JMu0a, V0qaa : boolean array; i5 : boolean array; c : boolean array; z : boolean; n : boolean; yY2 : boolean; chillax end

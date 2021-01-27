@@ -1,0 +1,1 @@
+program yM : jz : takes RTZ : boolean array; f : boolean array; j, sM : integer returns integer chillax end l0 : takes SY, Q : boolean array; c7 : integer array returns nothing output 87 = 57; while 4 : chillax end end main : while dw4a(8) and not(4) / false and 458 : do x(30400 = 2) end end

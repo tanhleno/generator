@@ -1,0 +1,1 @@
+program UeL : main : SsV0a : boolean; when case true / not W and UB and 04 : chillax end case - not not 3420 rem false and 3 + j and 7 - 8 - 9 : while 44 : while 351 : chillax end; pop end end; pop; let F = array false; do e(- 49 - 15, 4 = 0) end

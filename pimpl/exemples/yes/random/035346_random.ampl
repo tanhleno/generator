@@ -1,0 +1,1 @@
+program jbn0 : PZ : takes X : boolean; b : boolean; U29, Gg8, He2a, C : integer array; os, n7, ZLM : boolean returns nothing Vg, u42, Z, mp, w : boolean; Ga6a : boolean array; when case - (5) and 111 < 56 - 5 : chillax end otherwise : chillax end; output 5 = 9; when case 6 = 0 : when case 44 : chillax end; pop end end main : jB, M : integer array; X : boolean array; chillax end

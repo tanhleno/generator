@@ -1,0 +1,1 @@
+program d41a : z : takes cm : boolean returns nothing N8 : boolean array; b23 : integer array; w : boolean array; V : boolean; k : boolean; r6h : boolean; while not 7 : chillax end end main : y : boolean; chillax end

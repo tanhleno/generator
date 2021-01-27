@@ -1,0 +1,1 @@
+program g : R : takes _, G : integer array returns boolean O : boolean; yc : integer; S, B : boolean array; xW, X : boolean; pop; output ">\t"; when case 3 = 8 : chillax end case 59 : chillax end end main : T : integer array; do t2k(- true / OKU[65800] >= - fg(314) * true and 7) end

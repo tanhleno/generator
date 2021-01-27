@@ -1,0 +1,1 @@
+program _ : main : f : integer; u9T : integer; output - (2) . true and 572 < 61 - 9 . ""; while(0) rem 28 - (8) - 6 - 6 > - 8 - 6 : chillax end; when case - 1 and 22 - 94 - 48 : chillax end case 6 > 9140 : chillax end; pop end

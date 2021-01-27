@@ -1,0 +1,1 @@
+program BD : U : takes d : boolean array; Oy0a, Z : boolean array; D : integer array; dwQaa, k1I : boolean array returns boolean array let K29 = - 0 - 020; pop 0 end main : while - false : chillax end end

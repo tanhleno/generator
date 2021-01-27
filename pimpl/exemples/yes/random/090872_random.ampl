@@ -1,0 +1,1 @@
+program nno : main : let l19aa[- p5 * false * (57) - 8 + true and 6 - 15 - 95] = array - Hr[7] / not zp or true or false and 7 or 6 - 0; when case - 4 rem q2 and 47300 - 96600 and 0 + 932 - 5 : when case 0 = 2 : let m9 = 5; pop end case 7 : chillax end case 80 : chillax end otherwise : chillax end; output "" end otherwise : chillax end; pop - 7 < 9; input MN3[- 78100] end

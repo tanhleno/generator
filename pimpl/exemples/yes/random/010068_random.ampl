@@ -1,0 +1,1 @@
+program R : Q0 : takes o, P, szP : boolean array; Y : boolean array; bU, m : integer returns integer x8Haa : boolean array; chillax end main : while(5 = 7) / not not 3 - true * not 3 and 1 : let a[21200 - 64] = array - 949 - 9 end end

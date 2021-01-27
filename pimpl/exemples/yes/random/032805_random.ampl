@@ -1,0 +1,1 @@
+program H : C : takes F06aa, E : integer returns nothing wy1a : boolean array; u, O6Ja : boolean array; chillax end T : takes C : boolean array returns boolean array gF4 : integer array; chillax end q : takes I, Uj, SF, NM, YI : integer array; K : boolean array returns integer input G[4]; while 3 : chillax end end main : input K9 end

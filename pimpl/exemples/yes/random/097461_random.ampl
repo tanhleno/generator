@@ -1,0 +1,1 @@
+program a0gaa : main : when case 0 and l(2) < V(2) : do b2Y0a(8 >= 82, 132, 7, 5); do i8(6, 7); output "" . ",4"; when case 91 : chillax end end otherwise : when case 19200 : while 1 : chillax end; pop end case 4 : chillax end; pop 3 end end

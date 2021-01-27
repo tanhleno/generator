@@ -1,0 +1,1 @@
+program T : J24a : takes E : boolean returns boolean array K, R, Y, P, M : boolean array; y90a, gt : boolean; F, Rr, Cc : boolean array; chillax end main : output not(8220) < - erZ . "|\n\""; pop end

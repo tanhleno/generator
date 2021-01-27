@@ -1,0 +1,1 @@
+program PX5 : w2x : takes q8, la, g980, W : boolean; S, oN5 : boolean array; J, d : boolean array; Bw : boolean returns integer Wn : integer array; T : integer; d5n0, G : boolean array; b : boolean; chillax end I7 : takes B : integer returns nothing y730 : boolean; input c7 end main : h3, i : boolean array; B : integer; DIi : boolean array; chillax end

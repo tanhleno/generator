@@ -1,0 +1,1 @@
+program v70 : z : takes k2, PC : integer array; o07 : integer array; z : integer array; a, wuN, n : boolean array returns nothing f, V : integer array; do O5b(I or 0 - 2 /= - 1 - 6720); input j[- 4]; output ""; input w[7650] end main : when case not not(6) = - ta(5) or true : chillax end; let B5Ha = - false and 88; do s3U(not 47300 and 61700 + 48 - 9000); output "h" end

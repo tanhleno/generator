@@ -1,0 +1,1 @@
+program s0 : O : takes ty, E, a8, x, p, s, xT, d : integer returns nothing let x[- 13400 and 0 + 9] = 87900 - 2 /= 39 end main : while - 092 - false + (7) and 4 + 2 > not vB2 + true and 56 + 59300 - 07 : let Pk10a = 318 end end

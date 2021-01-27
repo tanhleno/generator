@@ -1,0 +1,1 @@
+program q1g : k4 : takes Xv : integer array; O, c, YO, Q, Dm : boolean returns boolean array y7 : integer; output - 0 - 8 /= 1 . "t)" . 4; while - 486 : chillax end; input m end main : Jq, A : integer array; d, H : boolean; hMj : integer; qry0a, W, G350, Wd2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program kYiaa : w : takes pta : integer; Y, h4, S540a : integer array returns integer array HnVaa : integer; chillax end x : takes PQ : boolean array; Qw, U, Rr : integer array returns integer p, H29, eO : integer; chillax end main : when case false / (0) - false - not 8 and 8 : while - 5 - 451 : chillax end; output ")" end end

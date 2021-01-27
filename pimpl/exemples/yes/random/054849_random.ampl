@@ -1,0 +1,1 @@
+program z : l3 : takes T12 : integer array; O3, K : boolean returns nothing do k32(- (08) + 7, - 0 - 7) end main : a, B : integer array; when case - true : chillax end case(0) * w and 86 or not 67 : output ""; pop; input L8; while 8 : chillax end; pop end otherwise : chillax end end

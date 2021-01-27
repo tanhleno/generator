@@ -1,0 +1,1 @@
+program qH : v : takes dD2aa, o, K : boolean returns nothing input S[(9) and 9 - 69000 - 74800] end M : takes f7p0, AY : boolean; M9s0a, n, m, _R : boolean array returns boolean array input p6X[78] end main : chillax end

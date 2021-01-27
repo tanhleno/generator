@@ -1,0 +1,1 @@
+program w : main : z0R, s : boolean array; GQ2, KWy, Vw4, Z, b : integer array; i, ya : boolean; f : boolean array; let O[- false] = array g[3] * (0840) - 75800; do G(- not(310) > - false and 162, (9) = 3 - 41) end

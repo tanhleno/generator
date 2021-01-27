@@ -1,0 +1,1 @@
+program j : main : R6, Sn : boolean array; output - false and true and 5 . "B"; when case - false and 8 >= - false - 2 - 2 : chillax end otherwise : chillax end; when case - false and 5 - 8 - 5 : while 52100 : chillax end; let f2 = 98 end case 4 - 5 : chillax end otherwise : when case 5 : chillax end end end

@@ -1,0 +1,1 @@
+program y : f25 : takes z2, U8 : integer; L : integer; F, O2L : integer; B6 : integer array; e5, t : integer array returns integer chillax end Z6 : takes vV4a, kK : boolean; J41a : boolean returns nothing let l3O[- 0] = 2 = 1; do p9c(6, 5, 34) end main : chillax end

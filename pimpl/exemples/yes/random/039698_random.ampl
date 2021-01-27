@@ -1,0 +1,1 @@
+program D : H7 : takes E2 : boolean array; p76 : boolean; xI80a : integer array; nSl0, I1 : boolean returns boolean chillax end zL : takes s : boolean array; t, z, Qo6, v : boolean returns boolean chillax end main : s : boolean; output "0"; while false / x and 9 or n and 7 : chillax end; do q(- true and 3 + 6 - 634 >= 8 - 99800, 480); input M[- 7] end

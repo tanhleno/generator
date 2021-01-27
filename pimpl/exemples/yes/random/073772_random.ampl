@@ -1,0 +1,1 @@
+program q5 : main : H1P, gF : boolean; ia2 : boolean; KY : integer; while(9 = 7) <= 949 / K2 - (778) and 4 : chillax end; when case - S[109] rem not 12 and 3 : chillax end; pop 6 - 90 /= 4; do v(0260 < 2, 19500, 7490, 54) end

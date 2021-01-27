@@ -1,0 +1,1 @@
+program v5N : r : takes u, W9v, C94, h8 : boolean array; dG, g, nL40a : integer returns nothing s, c : integer; output "q"; input c[6 - 2]; when case 72 : chillax end otherwise : chillax end; input R4; do z(37400); do y(57800) end main : x : boolean; qxy : boolean; chillax end

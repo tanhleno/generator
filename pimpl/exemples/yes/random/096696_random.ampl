@@ -1,0 +1,1 @@
+program I : main : when case - true rem not false / true and 3 > - (9) : let H2N[73] = 7 = 0 end case not 600 : chillax end case - false and 9 - 33 : chillax end case 1 - 14900 : chillax end case 4 = 418 : let bG_ = 5 end otherwise : chillax end end

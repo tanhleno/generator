@@ -1,0 +1,1 @@
+program o : I5 : takes o9 : integer array; w : boolean; N, F0 : boolean; s, D3, j25 : boolean array returns nothing when case - AL and 6 <= - 77 - 02000 : when case 930 : pop end case 2 : chillax end end otherwise : input L4T end end main : ZB : integer; P, fR, h340, b : integer array; b, T, W, r : boolean array; chillax end

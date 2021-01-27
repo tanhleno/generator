@@ -1,0 +1,1 @@
+program f : Ci : takes M, S, D, I_ : integer; f : integer array; LM : integer array; H35 : boolean; k3, Bhz, vdX0, m2 : integer array returns boolean A6 : integer array; when case false : do y(141, 09) end otherwise : input DS; while 03 : chillax end end end main : chillax end

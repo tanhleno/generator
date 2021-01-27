@@ -1,0 +1,1 @@
+program R0L : R5 : takes U, E5naa, vA : boolean; B0 : integer returns integer array L7oaa, B : integer array; a : integer array; while not 5 - 75 : output "b" . "" end; output 9 end main : chillax end

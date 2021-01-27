@@ -1,0 +1,1 @@
+program W4l : Ze : takes F : integer; C4, P : boolean; uf0 : integer returns boolean array chillax end main : k : boolean; F : integer; W : integer array; P : boolean array; P : integer; Wd : boolean; V : boolean; DH : boolean; chillax end

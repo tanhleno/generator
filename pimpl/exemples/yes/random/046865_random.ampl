@@ -1,0 +1,1 @@
+program x : x100a : takes qMKa : boolean returns integer array while - (2) and 2550 >= - 6 - 4 : do aD(654) end; while - 82 : chillax end; let mv[9] = array 0; output 713; while 0 : chillax end; input A; pop end main : pop; output "\n;"; output ""; input j; while 9 = 9 : input Fi end; when case 70 : chillax end case 58 : chillax end otherwise : chillax end; do Dk(9) end

@@ -1,0 +1,1 @@
+program TvR : main : r6u, q, S, z, Y0 : integer array; ZP, U : boolean array; when case true - true and cP and 34 or 5 - 6 - 29 : do a(- 22) end case - false and false and 78 : chillax end; pop(36900) end

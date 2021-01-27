@@ -1,0 +1,1 @@
+program oY : RQ3 : takes F : boolean array returns nothing e2, N : boolean array; chillax end w88 : takes C, K : integer returns nothing I : integer array; do X(- 3 - 7, 3 = 2, 7); while 7 = 1 : chillax end end main : chillax end

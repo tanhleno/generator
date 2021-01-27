@@ -1,0 +1,1 @@
+program h0 : s : takes TJ : boolean array returns boolean array rd : boolean; chillax end g : takes G10, ke, k : integer returns boolean S, F5, T9 : integer array; g : integer; I03aa : boolean; mMQ0 : boolean; M09 : boolean; chillax end main : let W = X7 + true = true; while - true - not 280 + 09 - 1 /= (74) or 191 - 38 : chillax end end

@@ -1,0 +1,1 @@
+program d : y5 : takes _ : integer; X4v : integer; c, s8, HD : boolean; W, wV5, h : integer array returns boolean e, k2, no, e, r : boolean; M, k : integer; when case - not 8 <= - 7320 : output 52600 . "" end otherwise : output ""; when case 59 : chillax end; pop end end main : j : boolean; JW, j : integer array; chillax end

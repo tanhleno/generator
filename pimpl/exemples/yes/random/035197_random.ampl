@@ -1,0 +1,1 @@
+program AK3 : J3P : takes a : boolean; q, S17aa : integer returns boolean pop - 91600 - 7650 <= 6; when case 6 - 1 : output "#"; let j = 9 end case 5 = 0320 : do J6(6) end end main : output "" . false and 38 end

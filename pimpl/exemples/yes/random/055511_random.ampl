@@ -1,0 +1,1 @@
+program M1 : hnj : takes W6 : integer array; F : boolean; k2, I, T : integer returns boolean array while - false and 66 = - 26900 : pop 5 end; pop; while 53 = 57300 : chillax end end main : Z, ptm, z, yZ : integer; chillax end

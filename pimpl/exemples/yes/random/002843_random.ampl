@@ -1,0 +1,1 @@
+program Q : CH4 : takes s, b, JDA0a, V, k400 : boolean array returns nothing e9 : integer array; chillax end main : mR5a, TpW, _1, x, q0O : boolean array; when case I[8] / 14 * not 83 and 03 - x[557] * G : chillax end case not(39000) and false >= - true - 0 - 96 : let T[1] = array 66; while 1 : pop end end end

@@ -1,0 +1,1 @@
+program Z : Kpw : takes L9 : integer; r, cRJ0, iSI : integer; q, S : integer array; P5l0a, kD1 : integer array returns boolean array kF, h, V : integer; L : boolean array; chillax end r : takes D : boolean array; Y9e, n5M : integer array; w11, T : boolean array; n, qE0 : integer array returns nothing do LRZ(4) end main : e0t : boolean array; chillax end

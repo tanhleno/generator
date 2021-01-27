@@ -1,0 +1,1 @@
+program l : o1 : takes pi00a, A : boolean array returns nothing while d6 = - 6 - 462 : chillax end; while 4 : chillax end; let NG[1] = array 52; pop; pop; let p = 5; pop end main : Q, U : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Cx2a : q : takes Rz, C : boolean returns integer input q[not 7] end jM_ : takes C5Z : integer returns integer HZx : integer array; m : boolean; TL6 : boolean; N65a : boolean; C : boolean; input h[233] end main : do U(false rem(8) + true and true); output - not 59 and 74 or 82 end

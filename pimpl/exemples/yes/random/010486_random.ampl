@@ -1,0 +1,1 @@
+program x : YjV : takes Y14, R2, F : boolean array; f85 : integer returns nothing O : boolean array; S : integer array; chillax end main : k2L : boolean; o02aa : boolean; while - Iu(2) > - (6) / false and 46 or not 2 : chillax end; let h = - false and 8; let B[- Q6O0a and 6880] = array - true end

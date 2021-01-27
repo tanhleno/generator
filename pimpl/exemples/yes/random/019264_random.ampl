@@ -1,0 +1,1 @@
+program G0 : R : takes SR, p : boolean array; M, b5 : boolean array returns integer chillax end O : takes r, t : boolean array returns integer chillax end main : let Y = array(6) or(4) * (83); output false or 4 end

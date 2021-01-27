@@ -1,0 +1,1 @@
+program oj : l51 : takes V : boolean array returns nothing chillax end main : _G, n : boolean array; my9, T : integer; H7z0 : integer; jAXaa, q : integer; while not not Pp - v(6) < not(74) : do G(- 17 > 47) end end

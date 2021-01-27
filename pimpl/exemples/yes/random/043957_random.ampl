@@ -1,0 +1,1 @@
+program v2n : c70 : takes u : boolean array returns nothing Vfi, S78, I, a3, ci20a : integer; U0R0, E : integer; let _[- k and 770] = 750 > 6; while 048 - 17 : chillax end end main : output ""; do qL(- 0 < - false and 9) end

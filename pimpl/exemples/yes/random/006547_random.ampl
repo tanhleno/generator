@@ -1,0 +1,1 @@
+program Y6 : e : takes B0, PK, e, _0 : integer; SU : boolean; H, W : integer; R3, Xt, po : boolean array; D260a, du, M3, g : boolean array; W, p, R : boolean array returns nothing Cm2, W : integer array; let m51[- not 202 and 00400] = - 0 > 6680 end main : fhV, D7, u : boolean array; m : boolean array; chillax end

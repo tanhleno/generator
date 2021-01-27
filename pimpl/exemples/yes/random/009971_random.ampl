@@ -1,0 +1,1 @@
+program st : _ : takes Is2aa, Kb4, s4 : boolean array; st, X : integer returns nothing O : integer; chillax end Unh0 : takes W, e : boolean array returns integer array pop 8550 = 1; pop 2460 end main : chillax end

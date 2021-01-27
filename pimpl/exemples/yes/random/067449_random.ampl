@@ -1,0 +1,1 @@
+program B : main : do r89(not not ocGaa); when case - (8060) rem false or true and 57 or 3 : chillax end case - true and 59 + 9 - 4 = 46 - 5 : chillax end otherwise : let k5A[52] = 4; let jST = 1 end; input q end

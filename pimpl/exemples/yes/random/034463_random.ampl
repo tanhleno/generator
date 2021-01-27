@@ -1,0 +1,1 @@
+program NW : M4V : takes T : boolean; Ifm0a, i : boolean array; A4 : integer; T : boolean array returns integer u : boolean array; chillax end p34 : takes w, G_, t, T : boolean array returns boolean vo : boolean array; input lb end rpC0a : takes IP : boolean returns nothing chillax end main : S, M, g, W, g, Q, DWe : integer array; chillax end

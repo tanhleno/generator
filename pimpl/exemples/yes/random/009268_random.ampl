@@ -1,0 +1,1 @@
+program z1caa : M : takes a70aa, q, qM : boolean; sH : integer; rl : boolean array returns integer array o : boolean; tL0 : boolean; while - false or 525 - 30 < - 18 : chillax end end main : do t(true, - true < - xa or 29) end

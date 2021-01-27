@@ -1,0 +1,1 @@
+program b : z : takes _ : boolean; i, LH1 : boolean array returns integer chillax end s5 : takes rKLaa, o, e, Q750a : integer array returns integer NR, ow, j67, d : boolean array; when case - 1 - 666 : chillax end end main : pop; input b4[false / (4) and 739] end

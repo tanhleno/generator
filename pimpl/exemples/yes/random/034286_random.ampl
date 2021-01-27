@@ -1,0 +1,1 @@
+program M : o : takes r8 : boolean; GCDaa, V : boolean; dx : boolean; bgG0 : integer array returns integer N2 : integer; M, Jz, T : integer array; _G10 : integer; chillax end C1 : takes y, T, J : boolean; W51a : boolean array returns boolean array when case - 36 >= 85900 : output "'y" end otherwise : when case 5 : chillax end end end main : chillax end

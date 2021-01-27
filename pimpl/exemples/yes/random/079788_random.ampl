@@ -1,0 +1,1 @@
+program g8 : main : Mx : boolean; j2 : integer array; output ""; do n(- not false and(75) - 2, not 7 or 5 - 4 <= 60 - 7510, 01 - 5); let c = - 5 - 2 > 4; let Y = 644; while 6 = 1 : pop end; do q(32); output "I\t"; do _(353); pop end

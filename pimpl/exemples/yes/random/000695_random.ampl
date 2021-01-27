@@ -1,0 +1,1 @@
+program B0g : o : takes K9, LfU, F5j, I6r0, O8, m, R3Da : boolean array returns boolean s : boolean; chillax end main : SU, vj80a : integer; j5 : boolean; let m[fp and false / false and 10] = true /= - not 54500 - 5 - 5; pop end

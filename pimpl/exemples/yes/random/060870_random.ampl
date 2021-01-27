@@ -1,0 +1,1 @@
+program tM5 : x4 : takes J6 : integer array returns nothing Z : boolean array; e, mq, A, T : integer array; chillax end o1 : takes v, X, X1f0a : integer returns boolean array b : boolean; i, c, On : integer; input np20a end main : _ : boolean array; let hp[- false * P5N[4] rem not 4 and 7] = array - true; output(5) end

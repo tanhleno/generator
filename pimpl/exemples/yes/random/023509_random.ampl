@@ -1,0 +1,1 @@
+program T1 : h : takes eM8, s : boolean returns integer array J, hnS0a : integer array; let DJw0 = array(1) - 6150; while - 9 - 7 < 3 : chillax end end M : takes K, d6 : boolean returns nothing h81 : boolean; j, d5, o : boolean array; T, O : boolean; D : boolean; chillax end main : s3 : integer; chillax end

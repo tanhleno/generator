@@ -1,0 +1,1 @@
+program QC : main : C : integer; aU, Q : boolean; W1 : integer; v, m : integer array; while - E[0] = not 75100 or false : chillax end; when case - true <= - not 5 and 1 + 90000 : output 09 . 6 . "i" end case true - 4 - 6 : when case 45 : chillax end case 7 : chillax end otherwise : chillax end end otherwise : chillax end end

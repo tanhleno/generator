@@ -1,0 +1,1 @@
+program G : y : takes hb, h : integer array returns boolean H0, e79aa : integer array; do l4((3) - 881 - 4); while 8 - 92 : chillax end; when case 54 : when case 5 : chillax end end; while 3 : chillax end; let o1B = 488; pop end x : takes V : boolean array returns boolean chillax end main : g, uz, F26 : integer array; chillax end

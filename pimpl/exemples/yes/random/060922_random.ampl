@@ -1,0 +1,1 @@
+program S6Ya : E8 : takes R : integer array returns nothing P18a : boolean array; S20aa : integer array; chillax end main : output "I" . (891) and 5 - 5 - 83200 <= - 0 - 2 . 8 >= 5; output not 7 and 2; pop - 96 end

@@ -1,0 +1,1 @@
+program PP4a : k : takes q5 : integer array returns nothing pop; output 0 = 93300 . 02 . 28 . "}o"; input Ol end main : output - kvIaa /= - not 0 + 2 . - false and 5 + 1 /= - 7010 . 8 - 4 < 80 . 9 = 041 . "A" . 60 . ""; while true : chillax end end

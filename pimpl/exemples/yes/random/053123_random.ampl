@@ -1,0 +1,1 @@
+program l : xM : takes r330a : integer; S5U : integer returns boolean array ek, jH80a : integer; h, A : boolean array; let f6R0[- false and 11] = - 71 - 6; input A; pop; do X(6410); output "" end main : chillax end

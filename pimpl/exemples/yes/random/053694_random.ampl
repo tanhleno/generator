@@ -1,0 +1,1 @@
+program T : x : takes Rz : integer array; _, Z, T, q : boolean array returns boolean array output 54 - 0 >= 5 . 898 . 4 . 0 . "" end main : h : boolean array; output(6) - L and 81 /= - (39) and 45000; output not 761 and 6 - 50600 - 44 . 69 - 44 . 64900 . ""; pop 6170 - 0 <= 5; output "" end

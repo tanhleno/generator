@@ -1,0 +1,1 @@
+program J : n : takes Ogha : integer array returns boolean array E0, N : boolean array; let s[- not 20 + 55400 - 5] = 6; output 61 end j : takes Vpqa : integer returns boolean XI : integer array; J : boolean array; p, p : boolean; chillax end main : chillax end

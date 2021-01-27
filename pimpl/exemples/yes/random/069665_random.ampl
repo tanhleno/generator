@@ -1,0 +1,1 @@
+program M1l : main : LUw0a, q, axX0, Wd : boolean; when case false and true : chillax end case not not 1 / not 5 : chillax end; input cBeaa; let d[- true] = array - (8); let G9[- 58900 - 28] = 59 = 544; output "/"; while 00 : pop end; let p9 = 72 end

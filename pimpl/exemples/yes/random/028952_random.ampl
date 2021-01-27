@@ -1,0 +1,1 @@
+program d : W33 : takes b, Rt2 : integer array; dL : integer array returns boolean when case - 8 and 9 < - 25900 : chillax end otherwise : do p(67); when case 3 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program e : CS0a : takes N : boolean returns boolean array do TQ(false < 557, 3 <= 5); input N; let J = 5; let EQ = array 7; output "" end main : let HL = (7) <= - not 30; while - (9) rem(811) and 4 > (09) : pop end; do H(- true - 6 - 10); pop 075; input T[0]; do Z7(859, 286) end

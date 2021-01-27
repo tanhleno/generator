@@ -1,0 +1,1 @@
+program A : H : takes oq : integer array returns nothing chillax end main : c : boolean array; p : boolean array; w, dCDaa, P, w : boolean; G, j27, nL : boolean; G : boolean array; B : boolean; input sZ80; while true and false : chillax end end

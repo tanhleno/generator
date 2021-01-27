@@ -1,0 +1,1 @@
+program r : P : takes q, G, n : integer array; g300 : boolean; F, Z : boolean array; S, E : integer array; _, G, q : boolean array returns nothing S, s : boolean array; chillax end main : while not true + Wx(52800) = (7) and 4 : chillax end end

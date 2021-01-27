@@ -1,0 +1,1 @@
+program S : k : takes i : integer; G : integer returns boolean array chillax end k : takes H : boolean; Ox00a, x : boolean array; h0, _, D, L, rY : boolean array; _wO : boolean returns integer input T15[- 97 - 7]; while 8 = 97 : chillax end end main : y, M760a : boolean; chillax end

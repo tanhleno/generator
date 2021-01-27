@@ -1,0 +1,1 @@
+program g : v : takes Iv : integer array returns nothing chillax end main : x6 : integer; t, S : boolean; K : boolean array; do xD(- 29); do lJj0a(- not not 5 * (5370) and 17 - H69); while 4 : chillax end end

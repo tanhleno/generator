@@ -1,0 +1,1 @@
+program N : H350a : takes o49a : integer array returns nothing pop end Y4 : takes EI20a : integer returns boolean array q9, v : integer array; OK : integer array; F2Saa, T : boolean; hw3 : boolean; chillax end main : chillax end

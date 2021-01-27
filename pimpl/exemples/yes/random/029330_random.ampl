@@ -1,0 +1,1 @@
+program Q : p8 : takes I, a : integer array returns boolean array b5E, u5 : integer; C, S2 : boolean array; UOr0a : integer array; when case false and 2 + 5 - 247 <= 27 - 1 : when case 65 : pop end otherwise : chillax end end otherwise : chillax end; input E[1450 - 6]; let x = 3 end main : input b[- not 73800 * not S620a and 3 and 3 - true rem _ and 2] end

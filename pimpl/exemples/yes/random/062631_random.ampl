@@ -1,0 +1,1 @@
+program _7 : g : takes v : integer returns boolean output "9+\"" . 671; output 8; when case 30 : while 0 : chillax end; pop end; do i(3, 0) end main : when case - false * (0) / (4) and 23400 + 4 / _ and 9 + false and 2 : chillax end; do f(83 + not 74, (7) and 5 or 8 >= 5, - 669 - 6) end

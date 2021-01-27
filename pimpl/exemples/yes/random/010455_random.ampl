@@ -1,0 +1,1 @@
+program aKZ : I : takes g, O, W : boolean array; Sf : integer returns integer array pop end DI : takes y71 : integer returns boolean G : boolean array; Nr, j8L, e0a : boolean array; A : boolean; S80 : boolean; u1W : boolean; do r(3 - 5 /= 27) end main : Y78a, v4x : boolean; bg : boolean array; _, Mc7, uf : boolean; S9, C, K9Vaa, o1 : integer; c2T : boolean; chillax end

@@ -1,0 +1,1 @@
+program T : main : while - (86 = 6) / not false <= - 75000 * false and 031 - false - 71700 : while - 1 : chillax end; input sOX0a[5]; output "PK" . "" end; when case not true * true and 0790 or K and 4 - 4 = - (3890) : chillax end case - true and 5 >= - 5130 - 60100 : pop; pop end case 55 : chillax end case 364 = 32 : chillax end otherwise : chillax end; pop end

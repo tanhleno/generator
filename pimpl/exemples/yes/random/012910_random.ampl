@@ -1,0 +1,1 @@
+program f7 : S8 : takes j0Q0, Xu, H : integer; v7, T : boolean returns integer K : integer; chillax end mu : takes Y : boolean array; U27, r, r, M1, h, w : integer returns integer pop end main : WJ : boolean; bl : boolean; output "\"4" end

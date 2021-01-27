@@ -1,0 +1,1 @@
+program e : N : takes g, B3, R : integer; r14 : integer; cB : integer returns integer chillax end X : takes t, kc, i, M : integer; z0na : boolean array returns integer array w, El, f0 : boolean; chillax end main : chillax end

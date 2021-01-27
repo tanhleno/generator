@@ -1,0 +1,1 @@
+program b : Zb6aa : takes Z : boolean array returns boolean output 8 - 51 end su : takes n, t : boolean; MF : integer; v8, a5N : boolean returns nothing pop 80 = 62 end IG80 : takes Yn, Z, D, S500 : boolean array returns boolean chillax end main : chillax end

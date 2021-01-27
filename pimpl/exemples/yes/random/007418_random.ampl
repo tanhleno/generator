@@ -1,0 +1,1 @@
+program oEKaa : V060a : takes Ula, I, M6x, iOn0 : integer array returns boolean array DyLa : integer array; let v[- (1)] = - 6 - 0 < 11300; output 94 . 8; let E = 3; when case 507 : pop end case 58 : chillax end otherwise : chillax end end main : chillax end

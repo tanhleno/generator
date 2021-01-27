@@ -1,0 +1,1 @@
+program w : N : takes W, J3, H24, A3, g, W, W16a, V : integer array returns nothing _ : boolean array; u, J, l : integer; chillax end ff5 : takes M, s : integer array returns nothing chillax end main : S : boolean; chillax end

@@ -1,0 +1,1 @@
+program r3 : h : takes t, J, uy : integer array returns nothing U, C3, S, pC : integer; l, Sq : integer; Ncq : boolean; J : boolean; input l4 end main : h72 : boolean array; do X((4), - _XGaa[0] rem r and 1, (70) and 02 >= 2 - 9, 2 - 0 = 08, 9, 9, 4) end

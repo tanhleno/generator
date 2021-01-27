@@ -1,0 +1,1 @@
+program i : Tx40 : takes t, H, N : boolean array; s, d, Y5 : boolean array; N60 : boolean returns nothing while - 2 or 79 - 7700 = 60 : let j[058] = 0 end end main : b : integer array; a220a, I : boolean array; B180 : integer; chillax end

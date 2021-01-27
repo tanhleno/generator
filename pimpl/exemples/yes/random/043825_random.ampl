@@ -1,0 +1,1 @@
+program g5h : LN5 : takes T : boolean array returns nothing chillax end main : while - false rem not true * true + not false and(05) or false and 2410 or 2 - 2 : pop; pop 5; pop 6; do L8(019); input E; pop end; let W[true + false and 3 - 49] = - (2760) + 492 /= - 00 end

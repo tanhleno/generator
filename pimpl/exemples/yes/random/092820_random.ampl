@@ -1,0 +1,1 @@
+program N56a : main : output 2 rem true = - (5) + 36 . - 36 /= - 18; output ""; when case - f : do M(8, 1); pop; when case 13 : chillax end; pop end case 941 >= 6 : when case 68 : chillax end; do b(162); pop end otherwise : chillax end; output "" . ""; while 1 : chillax end; input O; output "}:aa" end

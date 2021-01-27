@@ -1,0 +1,1 @@
+program TU5 : main : when case true rem(40000) : when case 850 - 1 : chillax end end case - 1 and not 9 - X and 0 - 4 - 31 : output 3; input P[08]; when case 020 : chillax end; when case 1 : chillax end; pop end case true - 4 : output 6 . "" end case - 48 <= 2 : pop end case 0 : while 04 : chillax end end otherwise : output 3; while 7 : pop end end; output - false and 33 end

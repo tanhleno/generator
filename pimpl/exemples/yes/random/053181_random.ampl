@@ -1,0 +1,1 @@
+program TQ : ML : takes y : integer; E : integer returns integer array a, x : integer; x : integer array; s, Q, M : boolean; V : boolean; N : boolean; E : boolean; chillax end main : XH, Ik1 : boolean; do BIY0(- 68 - false - ID, true + (8220)) end

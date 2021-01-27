@@ -1,0 +1,1 @@
+program t : j8 : takes hB, g, wB : boolean returns nothing f, _, T, n, B : boolean; q : boolean array; chillax end main : L1 : integer; pop 6 and q and 6 - 37 and 577 < - (5); when case - true and 61 and 0 >= - u0 : let M4[6] = 4 end; output 6 > 61; when case 792 - 342 < 1 : let y = 0 end otherwise : input A; pop end end

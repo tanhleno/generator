@@ -1,0 +1,1 @@
+program K : P : takes j, F, N : integer returns nothing x, fm : boolean array; I1, q : boolean; a9 : integer; when case - true and 64400 : chillax end case 9 /= 88 : chillax end case 2 : pop; pop end case 273 : pop end otherwise : chillax end; pop; while 8 = 70 : chillax end; do e46(16, 4) end main : G, b : boolean array; chillax end

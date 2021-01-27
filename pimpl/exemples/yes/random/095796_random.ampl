@@ -1,0 +1,1 @@
+program gka : main : when case - false - true : chillax end case - true * (2) and 7 or not 40 and 9 : do PW(89900); do T(9, 9860) end case true and 15 + 274 - 1 > 7 : output "" end case - 0 - 1 : do r_u(91); pop end otherwise : chillax end end

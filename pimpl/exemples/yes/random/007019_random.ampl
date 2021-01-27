@@ -1,0 +1,1 @@
+program H030 : S : takes oy, Jx0aa, vz8, v : integer array; uj8, I : boolean returns integer n, r93aa, O : boolean; pop 372 - 2 end main : J79 : boolean array; let J = array - 56 rem 0 + 49 * 01700 and 6 end

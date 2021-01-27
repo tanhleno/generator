@@ -1,0 +1,1 @@
+program I : L9 : takes Q0Pa, B25, i : boolean; PHR : boolean; K : integer returns boolean s, _, h : integer array; do m(false + 852 - 44, 8 - 56) end S : takes M, P, _6L : integer array returns nothing chillax end main : j6, l, m5 : boolean array; pop end

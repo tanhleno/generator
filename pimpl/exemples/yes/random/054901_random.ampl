@@ -1,0 +1,1 @@
+program xlM : k : takes NM : integer array; aVNa, W : integer; Z, l, C1, E : boolean array; j : integer array; j, o : boolean returns integer I, t : boolean; when case true and 6 : chillax end end main : Y4, _42aa : integer; Z, D8, R : boolean array; chillax end

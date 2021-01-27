@@ -1,0 +1,1 @@
+program J91 : d2Baa : takes oS3, eF6a, i, aT, K, X, P, u4baa : integer array returns boolean input S[- false or 181]; while 0 : when case 6 : chillax end; let mg = 94; pop end end main : ILV, J : integer array; input s1[true * false or not 8730] end

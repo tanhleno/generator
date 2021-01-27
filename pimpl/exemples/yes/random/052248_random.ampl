@@ -1,0 +1,1 @@
+program d : g580 : takes Y2e : integer; T : boolean returns nothing chillax end U : takes H1ca, l, lSRaa : boolean returns nothing Y, u, SyO0a, C4 : boolean array; let f[5] = 972; let I = array 11 end main : a, y : integer array; chillax end

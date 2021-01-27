@@ -1,0 +1,1 @@
+program qMe : main : QM, G1, RP5, Q : integer; lu : integer array; when case q(6, 7) - (2) + false : chillax end otherwise : chillax end; pop - false and 1790 - 5 - 403 > - 9 - 34; let k1 = - 1 < 31; while - 143 /= 12400 : chillax end; pop end

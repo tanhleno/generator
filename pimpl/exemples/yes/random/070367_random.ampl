@@ -1,0 +1,1 @@
+program A : main : zo6, WuD, U, F : integer; while not(33300) and Z : let I45 = 4 = 3; when case 758 : when case 3 : chillax end; pop end case 8 : pop end case 1 : chillax end; when case 4 : pop end case 99900 : chillax end end; do G5(238 and not 81, - (16) and 2 - 2 - 16 <= 8 - 4) end

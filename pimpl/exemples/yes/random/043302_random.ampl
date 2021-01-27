@@ -1,0 +1,1 @@
+program u09 : d2 : takes eI7a : boolean array returns integer let A = 68 - 90900; let n = 11 = 08; pop 5 end main : do M94(- false / 39 and 1 and 54 - B); while - not true and(6) + false or 9 /= false and 6 - 3 : pop; input KG[86]; let T = 77; do hg(29); pop end end

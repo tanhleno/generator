@@ -1,0 +1,1 @@
+program l : w8 : takes _3, m, D8, Hj3 : integer array returns boolean array chillax end O2Zaa : takes b4Na, q, Hl : integer returns integer e, DD20a : integer array; chillax end I9_ : takes G : integer array; eLP0 : boolean array returns integer output "" . 27 . "2U!"; pop 2 end main : chillax end

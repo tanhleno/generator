@@ -1,0 +1,1 @@
+program H0 : Fm : takes hFW : boolean returns boolean _i : boolean; X4, f : boolean; Z : boolean; output - 9 /= 2 end O7 : takes Ns6a : integer array returns nothing do s(- 6 - 5 >= 3830); let N[1] = array 33 end main : _w, v, H4, jj6, lm6aa : integer; c, W : integer array; a, Uo3aa, Y, kN : boolean; c : boolean; let _ = array(30 = 3) and 87 rem B and 3 end

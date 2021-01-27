@@ -1,0 +1,1 @@
+program nT : NM : takes s3K : integer array; u, r5 : boolean returns nothing let g = - 0 end W : takes H, QD30a, xX5a : boolean array; v, r, b, t770, j, I : integer returns nothing v12, lA : boolean; pop 7 = 2 end main : do F5(51); input R[(5)]; while 66 and 32 + 7 - 32 <= - 272 : chillax end end

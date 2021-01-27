@@ -1,0 +1,1 @@
+program r95 : main : when case - not false / p[3] >= 787 - false and 591 : chillax end case - ZeP and S : input Bh end case not 1 and 55 : while 0 : pop end; input WD7 end; while - (5) and not 2 + true < not 40 and 2 or 1 : do EB(8880, 548, 04); when case 480 : chillax end otherwise : chillax end; let Z7 = 3 end end

@@ -1,0 +1,1 @@
+program J : B : takes a, rg7a : integer array; E : integer array; O : boolean returns boolean X1M, I : boolean array; M : boolean; chillax end m460a : takes Y8y0, yr, IU : boolean returns nothing chillax end main : while 7 >= true rem 1 and 43 : chillax end; pop end

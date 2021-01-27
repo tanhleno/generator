@@ -1,0 +1,1 @@
+program k : j : takes d89 : boolean array; x2, Go, u, iwG, y : boolean array; O, i : integer returns boolean F0Fa : boolean array; fv7aa : integer array; e : boolean array; while - (95) < 0 : chillax end end main : while 14 * 4 / false : chillax end end

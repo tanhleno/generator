@@ -1,0 +1,1 @@
+program p : q : takes lBiaa, h7 : boolean array returns nothing y, MhTa : boolean; pop; output 1 . "\n\"a"; pop 44 end T77 : takes b, I6 : boolean returns boolean a, pv : boolean array; U88aa : integer; c, o4 : boolean; pop 7; input Q end main : chillax end

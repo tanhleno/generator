@@ -1,0 +1,1 @@
+program R : N : takes O : integer; aTd, k, xO, M, ym0, L4 : integer returns nothing chillax end t : takes t : boolean array returns nothing j : integer array; pop; let f = array 64100; do jbJ0a(1230); pop end main : input S110; let R0[- true - not 80 and 07900 + 2] = O0D and 9 < - 882 - 66 end

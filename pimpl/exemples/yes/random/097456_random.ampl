@@ -1,0 +1,1 @@
+program J : main : when case 84 and false * not 2 and 3 + T[1] + false /= - (25) or not 56 or 99700 - 988 : let s[0] = array - 0; when case 144 = 0 : chillax end case 3 : pop end otherwise : chillax end; output "\t" . "" end; pop - not 04 < - 3980 - 0 end

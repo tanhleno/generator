@@ -1,0 +1,1 @@
+program l : main : N, B3 : boolean; when case - false >= - false and(4) + (83) - 3 : when case 8 <= 99 : input j66; let VzW0a = 6 end case 399 = 4 : chillax end otherwise : when case 9 : chillax end end; while 0 : chillax end end; when case - not false : chillax end case YP and 712 <= 786 : chillax end otherwise : chillax end end

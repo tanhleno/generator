@@ -1,0 +1,1 @@
+program l : Q : takes c7 : boolean; Fj, r, ym2 : integer array returns nothing _, J : integer array; cM, a, S, RW : boolean; W, n, x : integer array; P : boolean; do kZsa(55 - 08 - 01); output 681 = 46 . "" . 9550 . "\\4"; let Uf[78] = array 5; input t8I0[7] end main : T, B, I2 : boolean; RIa, f : integer; chillax end

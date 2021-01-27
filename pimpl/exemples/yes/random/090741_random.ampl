@@ -1,0 +1,1 @@
+program t7 : main : let B[- false * false rem false] = true and false - not 04 > not 5 + 838 - 0; output "" . - 2 - 7380 . 7; when case - 76 and 47 : chillax end case 7 - 8220 : when case 0 : chillax end end case 1 = 88 : chillax end case 3 : chillax end; do I(- 02 - 5 /= 858); let IPa0a = 6 end

@@ -1,0 +1,1 @@
+program k : ah : takes G : integer array; xWMaa : boolean; k, OnWaa : boolean; v3 : boolean array; _2, C, Pv : boolean array returns nothing chillax end z : takes b, S, Nt, q : boolean returns nothing qX8a : integer; chillax end main : do kEo0a(false >= not false rem(53800)) end

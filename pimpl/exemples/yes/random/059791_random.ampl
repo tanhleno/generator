@@ -1,0 +1,1 @@
+program hB30 : W : takes s : integer array returns nothing chillax end Tl : takes w4 : boolean array; U, I : integer; pW, G : boolean returns boolean chillax end Q : takes B : integer array; Lz : boolean array; CL3a : integer array; E : integer; c : boolean returns nothing do c79(169 = 452) end main : qj : integer; Z2T0 : boolean array; p : boolean; v, o : integer; chillax end

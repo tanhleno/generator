@@ -1,0 +1,1 @@
+program M : X : takes C : integer array; c9 : integer; r, E, E, D1Laa : integer array returns integer bk, Cv0 : integer array; pop end X : takes kB, d, YQx, c78 : integer array; U : integer returns integer array pop end main : p : boolean array; output "+\ta" . "" . "" . "k" . 80 . 46 . "4Aa" end

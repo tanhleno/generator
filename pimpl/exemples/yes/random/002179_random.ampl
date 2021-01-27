@@ -1,0 +1,1 @@
+program G : V1Jaa : takes i, i, d, k, L4 : boolean; a74, Yb0aa : boolean array returns boolean array chillax end P : takes r, x3 : integer; C : boolean returns boolean Q : boolean; w1 : boolean array; output "U" . 7 . 1 . "\t\"" end main : c : boolean; chillax end

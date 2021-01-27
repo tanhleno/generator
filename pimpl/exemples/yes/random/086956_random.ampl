@@ -1,0 +1,1 @@
+program s : main : X7 : integer array; G9 : integer array; when case true or true rem 8 or false and 83300 /= false rem 02 : chillax end case Vw > - not 0 and 457 + 8 - 6190 : when case 4 = 5 : chillax end case 76 : chillax end case 65 : chillax end otherwise : pop end end case(37) or 75 = 6 - 74 : chillax end end

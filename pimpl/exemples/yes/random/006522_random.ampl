@@ -1,0 +1,1 @@
+program kk : Q : takes c78, V68aa, _, n : integer; Bm00a, KLw : integer array returns nothing c, e, I74, p1 : boolean array; chillax end main : while - _ * false * not 55200 and 5 + A9 : chillax end end

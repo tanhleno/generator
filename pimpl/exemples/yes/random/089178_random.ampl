@@ -1,0 +1,1 @@
+program a70aa : main : input e[not true - (0) and false and 72 - not 3550 and 7]; when case true or true and 6 /= - dE - 9 : when case 9 : pop; pop end case 2 : chillax end case 8 : chillax end otherwise : chillax end end case - W or 6 - 6 > - 3 - 43 : let k[5] = 3 end end

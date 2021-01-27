@@ -1,0 +1,1 @@
+program Rc : b0 : takes dt, J, d98 : boolean array returns boolean array H : boolean; input N8 end main : input U; when case false : do A020(3); pop; pop end otherwise : input L; pop end; pop - 51 - 58 >= 0 end

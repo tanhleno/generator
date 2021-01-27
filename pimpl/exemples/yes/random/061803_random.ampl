@@ -1,0 +1,1 @@
+program MK : x410 : takes b4 : integer returns boolean array do a(93, - 484 - 6 > 1120) end main : while(8 = 780) or 66 and not 3 or not 8 and 46 - 6 : output 2 . 5; while 38 = 4 : chillax end end end

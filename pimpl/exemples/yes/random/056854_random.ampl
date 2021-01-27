@@ -1,0 +1,1 @@
+program hR10a : H : takes v : integer array; Y : integer array; e, bZk, d : integer returns nothing chillax end N : takes Et, op5aa : boolean array returns integer do B(632 - 0 >= 6, 9 = 4970, 43); output "\\<" end i : takes E4Maa : boolean array; I, QEraa, g : boolean returns integer array input K end main : k, tw : integer; chillax end

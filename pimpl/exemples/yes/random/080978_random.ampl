@@ -1,0 +1,1 @@
+program J37 : main : n9 : boolean array; B, F3, dx : boolean; Q, v : boolean array; R : integer; when case 3 / false or 04 rem 3 - (17) /= - true rem(2) - true : while 96 > 6350 : while 3 : chillax end; input c end end; while - Pe(606) /= v and 85 + 9 : chillax end end

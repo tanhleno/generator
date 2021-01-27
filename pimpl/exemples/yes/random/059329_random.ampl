@@ -1,0 +1,1 @@
+program vG5 : p2 : takes Fi : integer array returns integer o, V5 : integer; chillax end B : takes wqma : integer returns nothing _7, a9 : integer; B : boolean; input J end main : d : integer array; chillax end

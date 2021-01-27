@@ -1,0 +1,1 @@
+program sly0 : m : takes f91 : integer returns boolean when case - 626 + 38 /= 25 : chillax end case 58 : chillax end case 8 : do XLa(07); pop end case 23 : chillax end case 24400 : chillax end otherwise : do Z(17) end; input l[- 01] end main : chillax end

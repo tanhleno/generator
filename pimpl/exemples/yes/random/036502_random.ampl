@@ -1,0 +1,1 @@
+program x : M1 : takes _ : boolean; I : integer; K6m : boolean; xo, Z, k : integer returns nothing c, I1A0, v44a, R : boolean; E9 : integer; when case false and 81 + 1 - 44 : input v end case 90 : chillax end case 632 : input VVqa end end main : r : integer; chillax end

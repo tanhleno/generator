@@ -1,0 +1,1 @@
+program PS : main : a, HEp, a : integer array; Q, Ry : boolean; do u9(- 06900 rem true / not 06800 or not true); while - true rem not 85400 and 3 - 27 : when case 2 : chillax end otherwise : pop end; do mkq0a(653, 4); output ""; while 13 : chillax end; pop end; while - not 799 : when case 6 : chillax end otherwise : chillax end; when case 0190 : chillax end end end

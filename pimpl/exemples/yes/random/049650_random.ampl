@@ -1,0 +1,1 @@
+program Y : lCh : takes h6k : integer; h, HF, O0, b : integer; W9m : integer array; GG, q : boolean array; w, E : integer returns integer array m, kKR0, b, j9, iU2a : boolean; a, V : boolean; chillax end OXd : takes m : integer array; J3 : integer returns boolean array chillax end main : FM1aa, Z : integer array; chillax end

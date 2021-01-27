@@ -1,0 +1,1 @@
+program aJ : main : do A2(- (56400) - not 599 = - true and true + X); when case(1) : when case 84 : while 621 : chillax end; pop end otherwise : chillax end; pop; when case 9 : chillax end; while 595 : chillax end end end

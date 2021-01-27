@@ -1,0 +1,1 @@
+program Gi : aL : takes N, FDF, SH, VS, bZ, Y5, esK0, e3Z : boolean; f : integer; C, Ud, yAh, EV, e, J : boolean returns integer chillax end main : ci, nH : integer; j57 : boolean array; _Yi, b : integer array; do Ku(- not e(01100) > (1640) and t, (0) * not 5 + 53 and 02 = - M and 45, - not 0 < - 528 - 0, 4) end

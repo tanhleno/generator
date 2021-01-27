@@ -1,0 +1,1 @@
+program q : U : takes W : boolean array; K3Ta : boolean; Q, D5 : integer array returns nothing Np : integer; output "s" . 8 = 513 end main : U, iC : boolean; input o0[false]; pop - (389) - 3 - 1590 /= 1 - 0 end

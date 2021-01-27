@@ -1,0 +1,1 @@
+program iF : M31 : takes U, t : integer returns nothing V53, J6, GGY : boolean; chillax end main : output(870) + (999) - 45 - 5 . - 90 . 2 >= 163; when case - false * fB and 1 + H and 4 + 487 - 54 : chillax end case not 5450 + 5 : output 4 end otherwise : let X = 957; pop; pop; pop end end

@@ -1,0 +1,1 @@
+program S6 : L : takes jvZa : integer array; Jm5 : integer array returns boolean Fmnaa : integer; output "" . "})" end d : takes p, xgu : boolean array; Jw, ZS : boolean array returns nothing LL : integer; output 5 = 4 . "|D"; when case 10 : when case 2710 : chillax end end otherwise : chillax end; pop end main : chillax end

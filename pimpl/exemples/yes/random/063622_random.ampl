@@ -1,0 +1,1 @@
+program Q : p6 : takes W9 : integer returns integer while 0 and 1 + 9 : chillax end; while - 6 - 550 : pop end; when case 4 = 9 : chillax end otherwise : chillax end end main : D2A0 : boolean array; Tco0 : integer array; v, L : boolean array; while - (5) - 4 / (5) /= - true : chillax end; input _k0[false] end

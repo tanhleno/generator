@@ -1,0 +1,1 @@
+program x : main : d8 : boolean array; r, mh : boolean; Q : boolean; e : integer; _, S : integer array; input yyT[616]; when case not F - not 25 and 11 <= true and 5 - 59 - 3 : chillax end case wYD or 6 - 4 = - 867 : chillax end case - 0 - 1 /= 31 : input J end case 7 : chillax end case 0 : chillax end end

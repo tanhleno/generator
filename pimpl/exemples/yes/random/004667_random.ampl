@@ -1,0 +1,1 @@
+program b : KM5 : takes PV, y3, N, P : boolean; YR5 : integer array returns integer Az, Z, Q, l : boolean; Y5 : integer array; chillax end main : w6q, l03, Z : integer array; i : integer; k6 : boolean array; P : boolean; chillax end

@@ -1,0 +1,1 @@
+program m : u6f : takes q, s, P, PwF, _Gpaa : boolean returns nothing R : boolean array; R8 : boolean array; pop end ai : takes a5I0a, Zd : integer; C3J : integer array returns integer n : boolean; c : boolean array; NY, D : boolean; let _6X = 7 = 8; output "w" end main : chillax end

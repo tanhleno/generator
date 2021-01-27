@@ -1,0 +1,1 @@
+program y9 : j51 : takes S, g : boolean array; w : integer array; F : boolean; M, z, cJJ : boolean returns boolean array input v2Eaa; while - 1 - 4 : input w; while 6 : chillax end end; while 53 : chillax end; output "" . "`" end main : chillax end

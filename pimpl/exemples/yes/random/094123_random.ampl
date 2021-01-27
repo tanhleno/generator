@@ -1,0 +1,1 @@
+program d6 : main : pop - 8 * (65) and 9 + not 23 and 12700 or 11800; do w(- true rem true and 8 /= - not 2 and 456 or 566 - 47700, - (55700) and 46, 5420 - 2); while - true + 824 = - 6 - 5 : chillax end end

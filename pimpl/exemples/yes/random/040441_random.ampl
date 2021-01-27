@@ -1,0 +1,1 @@
+program nC : i : takes Y : boolean array; V : boolean returns nothing Y : integer; S : boolean; i4, n, u7 : integer; U9, m : boolean; I1 : boolean; g92 : boolean; chillax end Y20aa : takes _ : integer returns nothing chillax end main : chillax end

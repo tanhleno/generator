@@ -1,0 +1,1 @@
+program M8S : d0 : takes gH : integer array returns nothing o : integer array; ga : integer array; r : integer array; b : boolean; D : boolean; let k56a = 5 - 8 > 02; pop end main : F : boolean; chillax end

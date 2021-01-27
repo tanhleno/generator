@@ -1,0 +1,1 @@
+program G : VE0aa : takes B, aIa : integer returns integer A06a, B, L, hS : integer; P : integer array; while - 6 and 9 > 143 : while 2730 : pop end end end main : e4h, X, c, aLX0, s : integer array; chillax end

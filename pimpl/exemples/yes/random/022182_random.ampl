@@ -1,0 +1,1 @@
+program k : u : takes j, o : boolean array returns nothing pL, P4, E : boolean; gw : integer; output - 14 - 007; do J(- 31); output "8v0a" end main : m : boolean array; do h6(- true * v(54000) or(7) * (151) + (0) - 047 - 4, - false or 9 and 7520 or 5 - 23, 941 + 5 - 5 < - 9 - 0) end

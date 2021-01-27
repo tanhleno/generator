@@ -1,0 +1,1 @@
+program wv5 : w3 : takes I9m, A : integer array returns nothing B : boolean array; while - s and 69 + 5 : let n[8] = array 5 end; when case 73 - 2 : chillax end case 7 : let v = 19300 end otherwise : chillax end end main : let J[- false] = (4) - 80 or 7990 = - not 33 end

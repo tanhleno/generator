@@ -1,0 +1,1 @@
+program Kp : main : let d[h2_0[53] * 52 - false - 5] = true / not 2 <= - r; while - false rem j6 and 96 = a and 1 + 72 - 3 : let z4e0[47] = 3 end; output "8" . "S" . 511 . ""; while - 5 - 1 <= 538 : pop; input p4 end; while 2 = 18 : chillax end; output "" . ""; let s = 257 end

@@ -1,0 +1,1 @@
+program y : main : on, r : boolean; Bb, c41, d : boolean array; while - true rem not false * z8 or true and o6 and 0 >= true rem x and 2 : output "_" . 58; do k6h(8, 8, 7); output 55 . ""; pop; while 61800 : chillax end; pop end; when case - 58 - (63) < - not 106 + 5 : chillax end end

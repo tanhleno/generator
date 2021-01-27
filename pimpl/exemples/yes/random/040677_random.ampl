@@ -1,0 +1,1 @@
+program r : V8Baa : takes H8 : boolean array; C : integer; m : integer array; Mus0, j7, kr, o3caa, I : integer returns nothing H : boolean array; R7 : integer array; chillax end main : r85, m0caa, L, r, W : integer; input c[(544 = 1) * 7 rem(6)]; output ";:\"a"; input T; when case 7 - 5 > 61 : chillax end; input u; while 6 : chillax end end

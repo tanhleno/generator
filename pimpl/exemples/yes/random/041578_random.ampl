@@ -1,0 +1,1 @@
+program ia : D : takes A : boolean array returns boolean array R, f9k0, XU2a, Imk : boolean; E94aa : boolean array; while true + 42 < 62300 - 87100 : chillax end; do p07(0, 7 = 0) end main : chillax end

@@ -1,0 +1,1 @@
+program f1yaa : main : m : boolean; when case - D18a[3] or not true and true < - not 3 : let l8 = 1; let mf[55] = array 22 end case - L7(97) or fgW0 and 821 : chillax end otherwise : let A[1] = 9; output 5 . "5" end end

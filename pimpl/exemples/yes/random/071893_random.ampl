@@ -1,0 +1,1 @@
+program G2 : main : L, dG, jC : boolean array; when case jZ00(3, 0) rem not 40 - (04) / (0) and 7 < - 3 : chillax end case - true : chillax end otherwise : when case 476 = 4 : chillax end case 218 : chillax end otherwise : chillax end; let j[3] = 8880; pop; do d(5); pop end end

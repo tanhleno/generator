@@ -1,0 +1,1 @@
+program O : Y : takes X, RUC, f76 : integer array; G, kp : integer array; f28aa, M, Mieaa, w, W : boolean; B, Y, J0raa : boolean array returns nothing while - (7) and 1 - 00000 - 4 < - 6480 : chillax end end main : do n(false and(8) or not Lc <= (4)) end

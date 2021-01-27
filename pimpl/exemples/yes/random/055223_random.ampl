@@ -1,0 +1,1 @@
+program v : W : takes k : integer array; xM8, u : integer array returns integer T1, A : boolean array; h, U : boolean array; pop end main : v, a, A, uTU0a : integer array; r, A5 : boolean array; chillax end

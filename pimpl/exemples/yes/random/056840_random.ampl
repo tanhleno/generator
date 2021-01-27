@@ -1,0 +1,1 @@
+program HW1a : c : takes V6ea : integer array; S20 : integer array; W, wa, a : boolean array returns nothing iE, h, z, P, G : integer array; chillax end main : z : boolean; K8, pR, Qb : boolean array; pop(7) or true + 45 < 5 or 953 - 29400 end

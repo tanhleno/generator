@@ -1,0 +1,1 @@
+program in7aa : main : o7 : integer; while - (693 = 6) or true * not 06 - VDb0a and 5 + 3 - 1420 : when case - 1 : output "" end otherwise : input A; pop end; when case 2 : when case 1 : chillax end; pop end case 2 : pop end case 6 : chillax end otherwise : chillax end; pop 8; while 82000 : chillax end; do eVB0a(2) end end

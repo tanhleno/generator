@@ -1,0 +1,1 @@
+program L03 : main : M : boolean array; TE : boolean; let xs[- c[417] * true rem Wh7a] = array - JvU(25) or 3 * s and 41; input UnU; while(0) > 56 : when case 38 : chillax end otherwise : chillax end end; do Je(42 - 4 > 8) end

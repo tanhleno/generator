@@ -1,0 +1,1 @@
+program o6k0a : Y : takes zAc, l, h, T79 : boolean array; _, L8p0, o : boolean array returns boolean array I, R, Q97, k, B5 : boolean array; H : integer array; chillax end main : pop - false <= - true - 41 - 70 end

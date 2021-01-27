@@ -1,0 +1,1 @@
+program VZAaa : i : takes ko : integer array returns nothing chillax end main : Y1 : integer array; pop U[36] - false and 51 - 9; input EV6[- true / not 5 and 4 + not 4 - 7]; while - 4 < - 363 - 73 : chillax end end

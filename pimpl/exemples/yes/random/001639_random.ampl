@@ -1,0 +1,1 @@
+program C : M : takes fd90, C, y, G, p, HCd0a : integer; P, p57aa : integer; j, j, S20 : integer array returns nothing dVi, mc : integer array; t : integer; Snh0a : boolean array; pop - 7 - 84 end main : output "7" end

@@ -1,0 +1,1 @@
+program iy : main : when case - not 99 / (303) <= true * true : let c6[- 5] = 40; input wXa0a[2] end; when case - false / (7) <= not 55 : pop end case - 3 and 608 or 2 - 56 /= 0 - 3 : chillax end otherwise : chillax end end

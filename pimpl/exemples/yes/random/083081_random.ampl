@@ -1,0 +1,1 @@
+program c : main : F21a : integer; do Y(true + false * r and 9 + true and 405 > false + not 8 + 7 - 9, eC(85) * false and 632 + false > - true or 4, - 38); when case - true + (5) - 9 < not 9 and 0 - 8330 : output "" end; while not 818 > - 5 - 2 : input SS end end

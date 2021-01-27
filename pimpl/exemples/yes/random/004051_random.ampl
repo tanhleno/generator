@@ -1,0 +1,1 @@
+program p : i : takes M, k, L3, O, N : integer returns nothing chillax end E67 : takes xY, duw : boolean array; h : boolean array; wd, OQ, NS, F : integer array returns nothing pop 9; input rq; pop end main : r : boolean; while - (22 = 25) * h /= n94a(2) : chillax end end

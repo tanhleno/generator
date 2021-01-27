@@ -1,0 +1,1 @@
+program C : Y450 : takes o7a : boolean array returns integer Ml, X, N, g, HXT : integer array; u : boolean array; e, ZH, l : integer; x, SV7a : boolean; input F550a[15 + 84] end main : U : integer array; m : integer array; chillax end

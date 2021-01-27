@@ -1,0 +1,1 @@
+program h3Gaa : Z : takes B6, X : integer returns nothing while(2760) : chillax end end main : T09, MD, K : boolean; Ps : boolean; v : integer; pop; do y(- not true * 40 and 7 or(8) = - xLd - 77); output "-" end

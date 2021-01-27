@@ -1,0 +1,1 @@
+program yH : b : takes s : boolean array returns integer chillax end main : when case - true + O[2] * true and 7 : when case - 68300 >= 7 : pop; let l = 6 end case 6 : output ""; pop end; while 8 : while 7 : chillax end; pop end; do ec1(24) end case(7610) < - 9 : while 47 = 65 : do e(4630) end end; do zW0(- (66) * true or false + 3 - 1 <= - F09aa, - false) end

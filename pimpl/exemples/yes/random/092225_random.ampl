@@ -1,0 +1,1 @@
+program U : main : output - not 2 rem 3 . "\\7a"; when case - true or(5) and 5 /= - Ir4 : output 3 end case not 1 = - 5 : input ke[08000] end; pop 7 /= 0800; while - 6 = 2 : do O(5); input C end; let uMG[6] = 1 end

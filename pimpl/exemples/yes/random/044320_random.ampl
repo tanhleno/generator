@@ -1,0 +1,1 @@
+program C : gI : takes R : boolean array returns nothing K, Bn : integer; P : boolean array; s : integer array; when case A0 and 24500 + 423 /= 2 : output 3; while 727 : chillax end; when case 6 : chillax end end; do U(3, 494); output "" end main : x9y : boolean array; fb : integer array; _, i_C : boolean; chillax end

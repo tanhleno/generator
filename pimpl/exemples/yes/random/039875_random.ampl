@@ -1,0 +1,1 @@
+program W72 : T : takes I : boolean array; XO9aa : boolean array; u : boolean array; q, l6 : integer; s, v : boolean; l9, Y : boolean array; K, Z7X : boolean returns boolean U : integer array; yI, O0, z40 : integer; S : boolean; chillax end main : S_, K, E73, S : boolean array; f, qV : integer array; chillax end

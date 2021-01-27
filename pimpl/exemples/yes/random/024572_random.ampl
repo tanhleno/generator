@@ -1,0 +1,1 @@
+program A : c : takes s, si80 : boolean returns nothing C : integer; D : boolean array; Q : integer array; chillax end GD : takes N28 : integer; C23, q, e5p0 : boolean array; gDq : integer returns nothing J2, e, i : boolean array; chillax end main : input P[(62000 = 165) rem(63) and not 53 and 5390 + U rem false] end

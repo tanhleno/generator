@@ -1,0 +1,1 @@
+program x : h4 : takes I, ba : boolean array returns integer when case - not 9 - 018 - 8 = - 60500 : chillax end; while - 003 - 3 : chillax end end main : F : integer array; e : integer array; chillax end

@@ -1,0 +1,1 @@
+program gU : d : takes zi, _64, G : integer array returns integer chillax end H : takes d3 : boolean; v : boolean array returns boolean output "8"; output ""; when case 7 : pop end otherwise : chillax end end D : takes p600 : boolean array returns nothing do E(5 = 0, 5) end main : pop end

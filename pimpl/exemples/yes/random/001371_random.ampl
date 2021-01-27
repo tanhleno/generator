@@ -1,0 +1,1 @@
+program n9 : f : takes d, E1Ka, GG1aa, XK, l, e : boolean array returns boolean M : integer; K81, R, h0, Pipaa : boolean; r8uaa, pZ1 : boolean array; let K930[- VH] = - 89 - 3 end main : t, nfiaa, _E9 : integer array; output false - not 5770 and 520 or 4 - 62 end

@@ -1,0 +1,1 @@
+program Y : main : S160, h, j : boolean array; when case(045 = 1) / v4K[849] or d(59) and not 4500 and 7 : chillax end case true - true and 3 < - not 77 and 6 - 8 : chillax end case - false and 63 /= - 42 - 7 : chillax end; input a[not not 28 + true and 4 - 97200 - 9]; pop - 2 - 01 >= 79 end

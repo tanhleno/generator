@@ -1,0 +1,1 @@
+program Wv : B44 : takes W9C0, Ih70 : boolean array returns nothing Fblaa : integer array; iZla, V0 : integer array; chillax end MJ : takes s : boolean array returns boolean input M[1 - 92] end v9 : takes v, yR5, k : integer array; I0f0a : boolean returns boolean array RK7, w, xF : integer array; l670, g : boolean; x : boolean; bH8 : boolean; chillax end main : chillax end

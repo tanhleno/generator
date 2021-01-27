@@ -1,0 +1,1 @@
+program RV : N : takes O : integer array returns boolean array let k = array - 9 and 7 end main : l, x, Y : integer; when case - not not 6 > not 3 and _ or false : chillax end case(14) : chillax end otherwise : chillax end; let L = array not(4) rem K + k and 520 - 9270 - 1920; pop 7 - 1 >= 03300; output "\t" end

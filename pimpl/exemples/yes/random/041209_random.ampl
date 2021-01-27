@@ -1,0 +1,1 @@
+program n : h : takes MjL0 : boolean array; Z : integer returns boolean array aw2 : boolean; output - 6 - 4; input P end main : while - false * K > - (6) : output "\"" . 67 . "" . ""; while 0 : do BzA(7310) end; output "{" . ")" end end

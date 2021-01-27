@@ -1,0 +1,1 @@
+program VzL : main : output - false + false >= (51) and 98300 + 9 . ""; when case - 080 <= (98) and 82 : chillax end case - c8J0a and 8 or 3 - 32 > 40 - 2 : let OJ[6] = 33; pop; when case 81 : chillax end; pop end case 9 <= 43 : chillax end; do P(- 59 and 236 = - 7 - 8320, 9 - 5 >= 71, 492); while - 180 - 4 : do UU(9); pop; pop end end

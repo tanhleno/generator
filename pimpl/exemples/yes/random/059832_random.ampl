@@ -1,0 +1,1 @@
+program F : w : takes ss00 : integer array returns nothing chillax end t : takes K : integer; L3m, X3, f06, N : integer returns integer array chillax end main : eq, u : integer array; U6 : boolean; do V(14 + not Kw10a + not 8750 = 77 or(2) or 05, false > not 7 and 4, 43 - 76 - 514 <= 0, - 01) end

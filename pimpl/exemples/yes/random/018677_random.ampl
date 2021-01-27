@@ -1,0 +1,1 @@
+program x_7aa : Lri : takes Yic, V : boolean array; i73aa, n, E, C, S6x : boolean returns boolean w, tm6 : boolean array; d : integer array; _ : boolean array; chillax end O : takes Z : boolean; Eq3, I : integer array returns nothing He_ : boolean array; lX : boolean; input l[14] end main : chillax end

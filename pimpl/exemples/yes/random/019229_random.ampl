@@ -1,0 +1,1 @@
+program H29 : x220 : takes q, t : boolean array; C2Gaa, c : boolean array; a8v : integer array; q0d0a : boolean array returns nothing b : boolean array; d : integer; pop - 8060 - 3; pop end main : gmC : boolean array; l, f : boolean; O : integer array; og10a, CV0a : integer array; chillax end

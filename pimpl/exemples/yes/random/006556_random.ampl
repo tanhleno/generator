@@ -1,0 +1,1 @@
+program X : km : takes ya, Y, y, d36 : integer; CS : boolean; l : boolean; T : integer array returns nothing do r6(- N0 and 86300 < - 169); pop; when case 919 : while 71 : chillax end end case 7 : chillax end case 1 : chillax end end g : takes E78, C4 : boolean array returns boolean array chillax end main : X, g1 : boolean array; t, GMxaa : integer array; chillax end

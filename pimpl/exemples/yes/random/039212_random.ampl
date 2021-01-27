@@ -1,0 +1,1 @@
+program Z : K : takes n4 : boolean array; p, d : integer array; q : integer returns integer output - 4 . "\\f" end D3 : takes T : integer array; D, Cm2 : boolean; i : integer array; p85, D : boolean array returns integer array aR, iVV, O, A : boolean array; do _(- 017, 2 = 5); let v = array 6; pop; output "\n\"" end main : nX9, O : boolean; My9, R6 : boolean; chillax end

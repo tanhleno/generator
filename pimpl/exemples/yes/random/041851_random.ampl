@@ -1,0 +1,1 @@
+program J : M55 : takes Y : boolean array returns boolean array output 5 <= 031 . 1 = 6 end G : takes G0 : integer array; X, A0P0 : integer returns nothing chillax end l : takes O0A0, q : integer array; Z, O6G0 : boolean; eq, hj : boolean array returns boolean array output 9 . "" . "s"; do J3(087, 9); output "3" end main : chillax end

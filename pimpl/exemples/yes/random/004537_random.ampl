@@ -1,0 +1,1 @@
+program frz0a : Q : takes U, Dq, Q2N0, we : boolean; I : boolean array returns integer chillax end main : WX, t70a, W : boolean; W : integer; _i : integer array; k3, zL, Z, Z : integer; while - not vL or 51 + z9 <= 8 * false and 430 - em and 9 + 98 : chillax end end

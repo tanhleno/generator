@@ -1,0 +1,1 @@
+program i : aj : takes q, r, _O : boolean array returns boolean x : integer; input M[- FY and 6 - 912]; let R[- 856 - 0] = 7 = 7 end main : A, YW, B95, M5 : boolean array; while(7) > (2) rem X5 and 4 : pop 02100 = 63100 end end

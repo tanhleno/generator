@@ -1,0 +1,1 @@
+program m : LW4 : takes s, i, z0 : integer returns integer mm, t : integer; B, n0V : integer; do Nc(- not 645 and 4 - 5 /= 43700, 7, 055 = 1) end main : pop; when case l9K0a[08] - 8 and 3 or 7 : pop; output "6b\"a" . ""; output "79"; output "`\n" end case - uw and 2 >= - 8 : output "" . "\"y"; let J = 58 end end

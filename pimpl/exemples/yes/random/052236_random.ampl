@@ -1,0 +1,1 @@
+program W : I : takes n : integer; a : boolean returns integer ReF : integer; let y[g5 and 51200] = array false and 3; while - 03 - 9 >= 5 : chillax end end Yo : takes q, h, W, a : boolean array returns nothing do I(- 6, 7520 = 0, 7, 8) end main : u2i0a, Ei, Q58 : boolean array; do z2(not not not 8 + l2(9470) + 6 and 15 + 886 - 994 <= - true, b / true) end

@@ -1,0 +1,1 @@
+program T : main : H, f, UbDa : integer; when case 15 rem not true < 2 * (0) + not 6 and 0 : while 74 - 120 : output "0=\"a"; pop; pop end end case LfUaa * not 6 > x : when case 25 : output "z"; pop end otherwise : pop end end case - true - 9 : chillax end case 35 < 4 : chillax end case 18000 = 5 : output "(5" end; output "{|a"; input j3[true + 3] end

@@ -1,0 +1,1 @@
+program s0 : d : takes E01, x, k, a4 : integer; BF, m, G : boolean; _9 : integer array returns integer let c76 = 5; do R(- 6 < 7) end main : a, dU : boolean array; b44 : integer array; N, w33, Og : integer array; q_, g : boolean; u : boolean array; chillax end

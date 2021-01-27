@@ -1,0 +1,1 @@
+program P : V : takes e770a, D, F4 : integer returns nothing F, t : integer array; when case true or 23200 - 8 /= 253 : output 59 end case - 48 - 8940 : chillax end; input X24[- 7 - 1]; output ""; let y = 33; let Q = 3 end main : li, J : integer array; F75, CN, BR, T, fO, V6 : integer; chillax end

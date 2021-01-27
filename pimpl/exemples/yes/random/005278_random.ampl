@@ -1,0 +1,1 @@
+program U : P : takes xLd, Z, h, dA : boolean array returns boolean array t4K, d : integer array; let v7[not 4020] = 7 - 488; let R = 285; while 9870 = 6 : do Y26a(1980); pop end end main : output "" . "" end

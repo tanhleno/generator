@@ -1,0 +1,1 @@
+program x : Z : takes E : boolean array returns boolean array while - (7) or 598 < 85 - 6 : input ng end end p : takes j : boolean array; q, TZp0 : boolean returns nothing I, B, Il, H : boolean array; input x7[157 - 6670] end main : chillax end

@@ -1,0 +1,1 @@
+program D : main : A8 : integer; IeS : boolean; kV4, o : boolean array; do w(not P[6] > - not true); while not true / s + 9 < K or 2 : while 7 = 87 : chillax end end; output "" . 61; output 5 = 0600 end

@@ -1,0 +1,1 @@
+program l : l : takes Chp : integer returns boolean chillax end I : takes O1Z, s, b : integer array; r0 : integer returns boolean array chillax end R_u0a : takes R9, Y5, d : boolean array; D65, n, z8, G0j0a : boolean array; D43aa : integer array; m700, B, Ow : boolean array returns boolean array O : integer; J4, t2T0a : boolean; while 25800 : chillax end end main : chillax end

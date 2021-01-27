@@ -1,0 +1,1 @@
+program j : fC : takes f, oO, E, mJ, B : boolean; c : integer returns integer array Z, R, E9 : boolean array; f : boolean; X, e, A740 : integer array; chillax end main : output - not false * (46) - not 110 and 0 >= 0 and 61 . - false and 95 - 513 - 8 > - 8 . 2 < 9 . 3 end

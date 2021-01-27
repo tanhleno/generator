@@ -1,0 +1,1 @@
+program KJ : b670 : takes G2, W : integer array returns integer array chillax end main : tGU0a, a7 : integer; s5 : boolean array; L : boolean; _ : integer; g, g, l : boolean array; z : boolean; v : boolean; chillax end

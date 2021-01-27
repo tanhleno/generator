@@ -1,0 +1,1 @@
+program Pw : s : takes gK0, AEO, d300 : integer returns nothing input Z; input Y; pop 6 end main : S8 : integer; Q0b : boolean array; dJu : integer array; when case xt[7] : output 0; when case 5 = 437 : chillax end otherwise : chillax end end otherwise : input H; input A100a; input IH; when case 701 : chillax end end end

@@ -1,0 +1,1 @@
+program uD : YwE : takes Z, o, Q : boolean; J : integer returns boolean chillax end x : takes S : integer array returns integer array chillax end main : let uq[(1 = 00) / false - false rem not 50800 and 316 + 8 and 1110 - 655 - 36] = - not true < Z4 + 8 end

@@ -1,0 +1,1 @@
+program c : main : do vW((04) and(59) / (68) and 2 or not(0) + 1 and 655, - (9) rem j > false and 2 + 8 - 4, - r40 + 51300 <= 008); input L600[- 89800 - i and 3]; when case false - 14000 - 81 = - 30 - 5 : chillax end case - 8 <= 8 : chillax end case 4 = 4 : chillax end case 1 : pop end end

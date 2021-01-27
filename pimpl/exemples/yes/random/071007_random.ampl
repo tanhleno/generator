@@ -1,0 +1,1 @@
+program q : main : a6, T, fX20 : boolean; HVx : boolean array; W, gwna, d7 : integer; z : boolean array; when case - false + false : when case 5 = 7 : do Fd4(0); output "="; pop end otherwise : chillax end; do I(7220 = 7, 75700); pop 4; let X8 = 6; do Gb(37000) end end

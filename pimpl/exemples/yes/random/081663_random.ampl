@@ -1,0 +1,1 @@
+program XP : main : Z : boolean array; i : boolean; when case(0 = 9) rem true - false * true and 4980 or true and 3 or 158 >= - false : chillax end otherwise : input m[0470]; let nxG = array 3; while 36 : chillax end; while 5 : chillax end; pop end end

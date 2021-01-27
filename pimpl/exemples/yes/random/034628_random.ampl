@@ -1,0 +1,1 @@
+program MwJ0a : T : takes e : boolean; Q, t : boolean returns boolean do Nm(- not 5 and 5 <= - 659 - 951, 53 - 2 = 22700) end nnHa : takes tX : boolean array returns integer Oq1a, j2X, IBHa, Hy : integer; G, j, r2 : boolean; chillax end main : R, p, v : boolean; pd4a, N, X5 : integer; chillax end

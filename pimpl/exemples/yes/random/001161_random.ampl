@@ -1,0 +1,1 @@
+program K : a : takes h, gf, A, O, K, sTiaa : boolean; o : boolean array returns nothing e, I, h, I : integer; d : integer array; chillax end nq : takes c3, Wlm, TBh0a : integer array returns integer s, M8 : boolean array; while - 66 - 15 : do H0(8) end end main : B_o0 : integer array; i30, G : integer; chillax end

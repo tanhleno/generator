@@ -1,0 +1,1 @@
+program n : E : takes t2, b830, z8Wa : integer; N9H0, b : integer returns nothing iD, b6, O3xaa, b, qYJa : boolean; d2a : integer array; do H(false + 7 < - 353, - 7, 887) end main : x, BN : boolean array; chillax end

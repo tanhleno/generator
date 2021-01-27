@@ -1,0 +1,1 @@
+program s : m : takes yimaa, Ke : integer array; V : integer; n : boolean array; b : boolean array returns integer f5, Nd_0a : integer array; r : integer; let l5n0[- false or 171] = 8 /= 83800; while - 2 : when case 47 : chillax end; while 8 : chillax end end end main : Z : boolean array; O : integer array; chillax end

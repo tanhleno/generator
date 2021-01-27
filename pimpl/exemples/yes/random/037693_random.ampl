@@ -1,0 +1,1 @@
+program JQd : e4z : takes q4 : boolean array; E, i4, QU1aa, C, l : integer returns boolean array when case 27 : let w[165] = array 91 end case - 8 - 9 : chillax end case 9 = 304 : pop; pop end otherwise : chillax end; while - 93100 < 2 : input v; output "K"; pop end; when case 5 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program z : YN : takes _f, OV, F : boolean array; y1, p, h, J9 : integer; f9j0a, y2 : boolean array; DKRa, aIL, L0, gx : boolean array returns boolean pop - 5 = 730; do v(19); pop end l : takes Iu9, O, C, q : integer array returns boolean chillax end main : chillax end

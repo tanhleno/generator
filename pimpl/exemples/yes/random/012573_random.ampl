@@ -1,0 +1,1 @@
+program t : X : takes vq, J9, Z : integer; m, uV, dl, Rzn, F1 : integer; O, IK, p : integer returns nothing when case - 9 and 0 + 771 - 1 = - 912 : chillax end; pop 77 = 7 end b : takes e7 : integer array; DF, p : integer; jqK, ll1 : boolean; Y, Hcv0a : integer array; u : integer array returns boolean G : integer; output "" . 636 end main : pop true; output(8) and 14 . "j\"" end

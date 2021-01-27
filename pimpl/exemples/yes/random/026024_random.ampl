@@ -1,0 +1,1 @@
+program Ca : P : takes n6, P : integer; Q15 : boolean; c, VSRaa : boolean array; T : boolean; N, _ : integer array; L : integer returns nothing chillax end main : let pRV[not 42 * 780 * true and 8560] = - not true rem I and 7 - false <= - not 09 and 2 - 0 - 5; while - (6) : while 84 = 3 : chillax end end; do n(- false = - 6 - 34) end

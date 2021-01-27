@@ -1,0 +1,1 @@
+program A3 : Y : takes G : integer array returns boolean array D, Ux, S : integer; zV4a : integer array; A, e1Paa, DMA0 : boolean; Y : boolean; chillax end E : takes Rs : integer returns nothing w, d : boolean array; r, b6, F : integer; chillax end main : input e8; while - true - true and 6 <= false : chillax end end

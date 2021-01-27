@@ -1,0 +1,1 @@
+program m : j : takes MQcaa : boolean array returns integer array while - false and 1 - 32 : input wj6[48]; when case 7 : chillax end; input VC; pop end end L : takes M, eH : boolean; B : boolean array returns boolean let K = array - 8; let qL = array 787; output 73 end main : do H(- 53 * false and L and 96 + s >= - true, - (7) and not 69) end

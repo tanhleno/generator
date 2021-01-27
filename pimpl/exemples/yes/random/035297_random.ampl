@@ -1,0 +1,1 @@
+program S : y : takes R : boolean; p, QbX : integer returns nothing rx : integer array; O, F : boolean array; input T[not 924 and 59]; do N(1310 - 8190, 2, 1, 3) end main : P : integer; Idc, v, v, ST, B : integer; a : integer; chillax end

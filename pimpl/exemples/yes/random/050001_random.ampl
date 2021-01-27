@@ -1,0 +1,1 @@
+program S : _01 : takes j7Saa : integer; X86, JP2a, bm50 : boolean returns nothing output 6 - 93 > 9 end w8Q0a : takes dX, T : boolean array returns integer input N64; output 2 end main : G, UNI, Q : integer; F8, L : integer array; chillax end

@@ -1,0 +1,1 @@
+program Fl0aa : h : takes h : boolean array returns nothing chillax end R : takes Uv, RB3aa : integer; Y, F, bU, P : integer array; Y, d, c : integer returns boolean let fC = 38 = 35; output 136 . 195 . "," end main : input I[0 * 94 / false and 6 - (5) * false and 0]; output true + 7 - 0 end

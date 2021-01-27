@@ -1,0 +1,1 @@
+program P7J : A : takes I8O : integer; n8L0 : integer returns nothing input T7[false and 65 + 9] end G : takes u, T, f76a : boolean returns nothing F, BAU, D : integer array; chillax end main : chillax end

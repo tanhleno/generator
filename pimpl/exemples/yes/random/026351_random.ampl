@@ -1,0 +1,1 @@
+program N : _ : takes C, Tgr0 : integer; A8m0 : boolean array returns nothing when case true /= 3 : when case 1 : pop end end; do H(- 92 - 42 = 6, 1 = 8, 33, 71) end main : when case(04) * not WQ40 : chillax end otherwise : let X[1240] = array 9 end end

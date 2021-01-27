@@ -1,0 +1,1 @@
+program g5h0 : r : takes t, S, U, eiz : boolean array; H9 : integer array; J5 : boolean array returns nothing let H = array - false - 923 - 7 end r6 : takes i, VI, s9 : integer returns boolean M, w : boolean array; a : integer; do X(- 8 - 7, 1) end main : chillax end

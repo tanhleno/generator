@@ -1,0 +1,1 @@
+program b : fgBa : takes _, u, O0, G : integer array; a : boolean; u : boolean array returns nothing output - 26 - 68800 = 545 . ""; do Hti(- 473 - 62 < 3); pop 5; while 0 : chillax end; when case 77 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program KGT0a : q : takes o3 : boolean array; M : boolean array returns integer p, lX : integer array; pop 198 < 3 end D : takes D2H : boolean array returns boolean array chillax end main : y, SF, D9, z, Q, cdJa : boolean array; chillax end

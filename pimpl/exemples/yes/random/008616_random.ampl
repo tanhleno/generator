@@ -1,0 +1,1 @@
+program HQ60 : V4 : takes T, t, k : boolean; z, c, e : integer; p, cH : integer; t, Sn, V, NkP : boolean array returns nothing chillax end main : q1L, z5baa : boolean array; F, F, N, F8 : boolean array; NQ : integer; Cvq, y : integer; z : integer; output(2) or false and 2 + 2 = - (5) + 98 - 36 end

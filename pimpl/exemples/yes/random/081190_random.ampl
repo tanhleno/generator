@@ -1,0 +1,1 @@
+program ol : main : n : boolean array; y, f0 : boolean; g, TsW0 : integer array; when case - 396 * 3 * false and 5 or not(0) : chillax end; do htV(- Y - 4 <= 2 and 9400 + 4 - 58200); do s3(- false <= 446 - 90, - 5 - 1450 >= 9, 6 = 1, 9, 8) end

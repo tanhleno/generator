@@ -1,0 +1,1 @@
+program Q : pW : takes i4f : integer returns integer S5 : integer array; I : boolean; T : integer; let J = array M and 4 + 7 - 482; when case - 2 - 1 : output ""; while 8 : chillax end end otherwise : output "6?a" end; when case 42 : let kN = 45 end case 39 : chillax end end main : s : boolean; pop end

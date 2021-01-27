@@ -1,0 +1,1 @@
+program R : main : f13 : boolean; pop; when case(3) or 5 - 475 = - 00 : while 54 : do M2(599); pop end; when case 225 : chillax end; let E = 0; output "&_" end case - true and 598 : while 49 : pop end; while 61 : chillax end; let L7ya = 0 end; do A(- not 04 - 31 - 0) end

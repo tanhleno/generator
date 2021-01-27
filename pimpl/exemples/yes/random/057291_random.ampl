@@ -1,0 +1,1 @@
+program yNn0 : x3 : takes C : integer array; q35 : integer array returns nothing g : integer array; X, dqL : integer; wK3 : boolean; chillax end U : takes f : integer returns boolean array Z, liq, bo5, F : integer; V : boolean; P4 : boolean; chillax end main : Q, h : integer array; t700a : integer array; I : integer; chillax end

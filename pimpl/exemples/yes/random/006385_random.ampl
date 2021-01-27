@@ -1,0 +1,1 @@
+program Q : O : takes U05, s, UB5, _ : integer; B2, g, D : boolean returns nothing LwX, I, p, Q5, C : boolean array; pop 6 end _ : takes vC7a : boolean array; k : boolean; V : integer array; C : boolean array returns nothing D34 : boolean array; s : integer; chillax end main : WW, Z, J6, qM : boolean; chillax end

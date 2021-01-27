@@ -1,0 +1,1 @@
+program LL : x8Wa : takes r7 : boolean; Xja : integer returns integer array U : integer; WW : integer array; chillax end q25 : takes Y, Ost, G : boolean array returns integer j7, Ty2aa : boolean; SF : boolean array; do R6Qa(20500 - 2, 2 = 847); pop 8 end main : input g[false * false / true + (966)]; pop(4) end

@@ -1,0 +1,1 @@
+program q5 : ff6 : takes z, x, Y3, yNC, E, I2 : integer returns boolean array Z : boolean; chillax end main : while - not true and false rem not 4530 and 1850 - false and(0) or false and 100 - 0 /= - true * (23900) and 3 : chillax end; while sH[48] : chillax end end

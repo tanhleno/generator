@@ -1,0 +1,1 @@
+program t : x : takes d, w32 : boolean array; Q : boolean array returns boolean w : boolean; when case false and 630 /= - 3 : pop end case - 21 : do s(93); let NJC0 = 8; pop end case 3 = 22 : output "1" end otherwise : chillax end; when case 98900 : chillax end case 7 = 2 : while 18 : chillax end end end main : pop; do kd(not false, (98) < 3 - 770) end

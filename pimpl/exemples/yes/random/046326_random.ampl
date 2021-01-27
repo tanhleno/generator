@@ -1,0 +1,1 @@
+program e : H : takes NF5aa : boolean returns boolean let LK4 = array - (002); pop 750 = 499 end main : U, SP1, aD : integer array; K, H5ga, JM1a : boolean; nT2 : integer; when case - 440 * DuO(9) * 6 and 13 - false : input S[- 6]; let d = array 6; do N5(646) end end

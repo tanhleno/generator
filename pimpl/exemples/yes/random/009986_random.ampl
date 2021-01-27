@@ -1,0 +1,1 @@
+program XXW0 : HW : takes i3V0, _8u0a, LlY0 : boolean array; G : boolean; yQ, x2, u : boolean array returns nothing chillax end P : takes hD : integer; o, vK90a : boolean array returns nothing UC, n, x, Sg5aa : boolean array; tQ : boolean array; pop; input s; let dz = 63 end main : U : boolean array; Nj2 : boolean array; chillax end

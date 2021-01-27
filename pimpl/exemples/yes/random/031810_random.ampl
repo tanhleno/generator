@@ -1,0 +1,1 @@
+program h : A : takes F, s : integer returns integer array K : boolean; chillax end e2 : takes j3d, IMH : integer array returns boolean array I, h : integer; chillax end main : let u22[- false] = array - 96 and false * true and 366 or false; output "\n"; do f(- tX + 029); do Ii(- 50 - 5 < 5) end

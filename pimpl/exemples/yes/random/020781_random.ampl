@@ -1,0 +1,1 @@
+program w : d : takes l, p6 : boolean array returns boolean array chillax end y82a : takes n, B : boolean array returns integer array Cc : boolean; when case 0 : input Q4; pop; pop end end oB : takes Fi : integer array; i22, e0, MQ : integer array; Db : integer; di, Pn : integer returns nothing chillax end main : chillax end

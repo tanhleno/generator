@@ -1,0 +1,1 @@
+program gb : I9 : takes k76a, a : integer array; VBu, t, a7 : integer; k84 : integer array returns nothing M : boolean array; while true : chillax end end FJ : takes W : boolean returns nothing fT, y : integer; kr7, o : integer array; chillax end main : I : integer; chillax end

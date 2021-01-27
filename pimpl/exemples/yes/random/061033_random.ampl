@@ -1,0 +1,1 @@
+program t : m : takes I : integer array returns nothing b : integer; u : integer; YPVaa : integer array; output - 23400 - 7 /= 237 . 5 = 60 . 9 . "" . "X6" end main : pT : integer array; u41aa, k97a, FsX0, k70 : integer array; J : boolean array; while(40) + not X - not 5 and 48 >= - true : let Ru = 18 = 7 end end

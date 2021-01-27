@@ -1,0 +1,1 @@
+program h : Q : takes a : integer returns integer array b : boolean array; V9b, J2 : boolean; chillax end Ou : takes z, c : boolean returns nothing while - 07 - 99 <= 4 : do R(548) end end main : do Pqf0(- H(3220) / false or eTn0a[5] or Z) end

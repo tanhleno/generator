@@ -1,0 +1,1 @@
+program Bsf : V4 : takes YW9 : boolean array returns boolean while 93 and 82 - 58800 - 61 : chillax end; input g9D0; do dt(65, 833, 2) end main : input o6[true / false or not false or false and 8 + 94700]; input D[not false and false and 0 or true] end

@@ -1,0 +1,1 @@
+program Z : jRd : takes k, G160 : integer; hMg0a, d7 : integer array; Z1 : boolean array returns nothing H7p : boolean array; G5, rd40a, k8, u : boolean; j : integer array; chillax end main : let u[q / not not 25 and true and 17 or true + true and 519 + 35] = array - (4); output false and 7 >= 2 . "#"; input o[- g or 6 - 0860]; pop 41 = 14700; output 261 . 9530 . "" end

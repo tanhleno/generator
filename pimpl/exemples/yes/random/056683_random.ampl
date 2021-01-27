@@ -1,0 +1,1 @@
+program u : v : takes r4F : integer array; RfA : integer; x : boolean array returns boolean pop end main : _ve : integer array; Y : integer array; output n(775) and 11600 + O and 43 - 0 - 026 >= false and 5 - 8 . 44 and 7 /= 3 end

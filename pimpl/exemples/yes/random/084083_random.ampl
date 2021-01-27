@@ -1,0 +1,1 @@
+program R4daa : main : L : integer; d : boolean array; Cww0, u, T : integer; a, B : integer array; E, S : integer array; I : boolean; do D(20600 / (9), - false + false > - not 2, not 0, 23800 - 7, 24, 1, 0) end

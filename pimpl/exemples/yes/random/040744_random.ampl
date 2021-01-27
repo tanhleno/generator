@@ -1,0 +1,1 @@
+program G : nB : takes k : boolean array; _0C : integer array; n4, R, h, k, J120 : boolean returns nothing output "" . 9 = 5 end main : when case - (9) <= false / false or false and 90500 + 807 - 40 : chillax end case - 4 <= 18 and 20 : chillax end case - false and 09 : chillax end end

@@ -1,0 +1,1 @@
+program s : d : takes rZ, Okt : integer array; a : integer returns nothing n, jK, e63, sP2, SMc0a : integer array; k : boolean; A5 : integer array; chillax end main : J, s : boolean; s03aa, Q, r7, V : boolean array; i, H, VS : boolean array; m : boolean array; M, rBgaa, B : integer array; input T; do p9(- (905) / false and 5 + (8) - 6, true and 7, - 1 < 9, 090 = 0) end

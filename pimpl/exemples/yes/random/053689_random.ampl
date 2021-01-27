@@ -1,0 +1,1 @@
+program _88aa : E : takes g : integer array; q, P, m0, J : boolean array; H : integer returns integer when case - Hh5 and 7840 > 5 - 6 : chillax end otherwise : chillax end end main : k2 : boolean; do p9(not true - false) end

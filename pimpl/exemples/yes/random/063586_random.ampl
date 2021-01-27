@@ -1,0 +1,1 @@
+program UIb0a : Wq : takes r : integer returns integer pop end main : pop - (18) rem true or 3 and 1 > 8 and 75; when case not 89 or(8) <= 48 : chillax end case - false and 6 <= - 67 - 3 : chillax end case - 62 < 3 : chillax end otherwise : while 7 : pop end end; do R980(nB /= - 60) end

@@ -1,0 +1,1 @@
+program Lk : DU : takes eB3aa : integer returns boolean p5 : integer array; chillax end main : K, P, Pe3 : integer; FU, C, s : boolean array; let HW0[- v rem(66) / 11 + true] = true; input x[- 2 and T5baa and 9130 - true and 8]; while 63 : chillax end; output "" . 8 . "" . ""; output 4 end

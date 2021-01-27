@@ -1,0 +1,1 @@
+program d6 : main : _87, Y, bU : integer array; S8, J, l, s : boolean; input Z600a; while e(2250) rem(9870) and 1780 < - _w and 35 + 8 - 164 : pop; input RL0; while 8 : chillax end; output ""; pop end end

@@ -1,0 +1,1 @@
+program M : Vh : takes XC, LP, K2 : integer; u41, j, zm, Q, RgW : integer array; U : boolean array returns integer array s, K7, U, z : boolean array; SX : integer array; output "b9" . "" . 5 . "\n"; let r[31] = array 9 - 7 end y : takes qet, a : integer array returns boolean array let O[- 92] = array 5 - 4 end main : chillax end

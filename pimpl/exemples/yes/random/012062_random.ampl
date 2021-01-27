@@ -1,0 +1,1 @@
+program s : f : takes Z5, R, eXpaa : boolean returns nothing chillax end h0 : takes T4C, M4 : integer array returns nothing G, j : boolean; do z(- 29800 >= 21); pop; let y46[0] = 3; pop end main : b, N : boolean array; b : integer; m : integer; b0 : integer; w0, U, N : integer array; q : boolean; chillax end

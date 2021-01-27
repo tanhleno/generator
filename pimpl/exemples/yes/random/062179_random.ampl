@@ -1,0 +1,1 @@
+program Yj : p : takes p : integer returns boolean chillax end H : takes St, Q0, u5, a, uq, M, Y9 : integer array; Ehl, c, T : integer returns boolean array e3u : boolean array; c8P : integer; B9 : boolean; chillax end P : takes L8, a5B : integer returns nothing kjt : integer array; e : boolean; input kN end main : chillax end

@@ -1,0 +1,1 @@
+program LX : main : input _850; when case(859) / false or true and 27 : when case 1 = 9560 : chillax end case 6 : chillax end end case false and 58 - 3 : do r5H0(8, 19) end otherwise : let H5h = 9; output "" end; when case - R and 76 or 2 - 797 >= 7 : while 8 : pop end end otherwise : do j(2); pop; pop end end

@@ -1,0 +1,1 @@
+program Y : f : takes nu : boolean array; P, m, a5 : boolean; rYc : boolean; U1Raa, rvG : integer; cL, ql : boolean; Q8 : integer array; lS, kKY : boolean; O : boolean returns nothing chillax end main : output - F[5] * not 6300 + j and 77; while - true + (5) + 6 : chillax end; pop end

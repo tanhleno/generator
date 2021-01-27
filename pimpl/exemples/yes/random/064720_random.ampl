@@ -1,0 +1,1 @@
+program _7 : z13 : takes k9 : integer returns nothing n : boolean; Hv : integer array; jl : boolean; chillax end NR : takes Pi80, D, a8, M : boolean returns boolean B, _82aa : boolean array; while 5 : do th(1) end; pop end main : when case - uc[5] : while 7 >= 89 : when case 25 : chillax end end end end

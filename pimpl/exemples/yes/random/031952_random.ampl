@@ -1,0 +1,1 @@
+program ukR0 : W : takes R, S350 : integer returns integer chillax end C : takes s, P : integer array; c : boolean returns nothing y0 : integer; while 4 - 83100 /= 1 : let _ = 82; when case 4 : chillax end end end main : J : integer; chillax end

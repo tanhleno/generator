@@ -1,0 +1,1 @@
+program d : main : when case - (594 = 59) /= (3) / true : input v5 end; when case(8) * false - (6) and 515 - 7 < true : when case 3 = 12 : chillax end case 5 : chillax end otherwise : pop end; while 35 : pop end; do z(730); when case 513 : chillax end end case(5) and 2610 : chillax end otherwise : let H7 = array 9 end end

@@ -1,0 +1,1 @@
+program P : O7 : takes _ : boolean array; QR, x, w, e, Hw, a, Mr60 : boolean array returns nothing let io00a = array I53 and 73 or 1 - 8 end X70a : takes I, GC, gr, u5 : integer returns integer array H0 : integer array; C : integer; chillax end main : do GLE(6 = true, (65) <= false + 7 - 597); let o = array - not 45 + I and 6 or 14900 end

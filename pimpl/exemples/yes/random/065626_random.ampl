@@ -1,0 +1,1 @@
+program p1 : main : do pu((19) + true / 2 - (4) - 93400 > - true, - s1[1] - C and 7 - 0 - 93900 = (84800) and 74 or 46 - 38, not 51100 - 677 - 6 = 22); let D[(737) or true and 9 + 68] = array - 6 + G and 218 - 23 - 46 end

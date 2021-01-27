@@ -1,0 +1,1 @@
+program E1 : Y : takes W : boolean; g92 : integer array; Q, C8V0a : boolean; q3, t750 : boolean array returns integer chillax end main : let e[(4490 = 17)] = array - (76800 = 058) + not l or y54aa and 1; do y(false rem n <= 83 and 14 or 0, (0) and 4 + 54 - 4 <= 41800, - 469, 83400 = 8) end

@@ -1,0 +1,1 @@
+program G8 : W : takes bg : integer returns nothing chillax end Y : takes p : boolean array; D, T, rxe : integer returns boolean P7, o, x, a : integer; pop; input R[1]; input bD[1] end main : v : boolean array; let x07[- false rem false] = - false - true and 7790 end

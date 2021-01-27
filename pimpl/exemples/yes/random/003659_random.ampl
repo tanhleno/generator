@@ -1,0 +1,1 @@
+program E61a : M : takes J27a, J, C, Ww8a, M : integer array returns boolean array D, WZ : integer; chillax end main : while - (0) and false and 9 and 4 : when case - 61700 : input M86a end case 3 = 72 : chillax end otherwise : let o8 = 49; pop end; pop 8; let mWC = 1; let AVe = 5; input x end end

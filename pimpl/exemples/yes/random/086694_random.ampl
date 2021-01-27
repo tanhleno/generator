@@ -1,0 +1,1 @@
+program qf30 : main : JfY0a : integer array; w : integer; UBa : boolean; when case f(5, 93) < false or b640a and 239 : do D9(- 7480 > 7, 9 = 0, 257, 7) end case false or 3 + 3 - 2 : do A(9 = 60) end case - true and 8 : input Z6[38] end case 5 : pop end case 1 = 8 : output "" end case 6 : chillax end; pop end

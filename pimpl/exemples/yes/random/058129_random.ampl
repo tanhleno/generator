@@ -1,0 +1,1 @@
+program so : X : takes I3 : integer array returns boolean chillax end main : let K[- (289) + (445) + 6] = false / t and 6; input o; let E[true and 13] = array 3 and 0 or 5 - 02; let y = 07 = 5; do g(2, 2, 34); output 5 . "" end

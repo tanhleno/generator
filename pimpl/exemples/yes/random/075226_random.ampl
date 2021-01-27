@@ -1,0 +1,1 @@
+program W : main : AB, O : boolean array; q1 : integer; U : integer; do N(false or true - false and 0 or 54200 /= - (04800) rem not 4 - false + 37, 0 rem false and 865 + not 0700 and 9 >= Km1, true - 1 - 33); output "\\" . - 72 . 073 . "3#" end

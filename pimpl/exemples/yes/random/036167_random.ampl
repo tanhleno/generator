@@ -1,0 +1,1 @@
+program Ot : e : takes h : boolean; Um : boolean returns boolean w8X : integer; chillax end j : takes Bt, pdL0, X, tf : integer array; X, sQv0a, aL80a : integer; Qr3 : boolean array; a : boolean returns boolean chillax end main : while not FM - (8620) / G + X6w - 4 /= (3) : when case - 4 - 5 : chillax end; while 9 : chillax end end end

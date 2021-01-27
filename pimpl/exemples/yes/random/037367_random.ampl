@@ -1,0 +1,1 @@
+program KO : K7 : takes o2 : boolean; s : integer returns nothing p9j, K6, CW : integer array; output - 2 < 9 . "" end main : Z0 : integer; xO : boolean array; N25a : boolean array; P : boolean; let R[b rem T + 4 and 673] = - 285 and(02) and 4 /= true end

@@ -1,0 +1,1 @@
+program og : Lo8aa : takes K : boolean array; yqh : boolean array; l9A : boolean array; A, E4 : integer; L9Sa, E, Z : boolean returns boolean array chillax end c9E0 : takes Z : boolean array; N300 : integer; l : integer; b : boolean; Xs8a, o, A42 : integer returns integer Q96a : integer array; chillax end main : let C = true or(029) and 6 or 4 - 5 <= - false and 0 - 614 end

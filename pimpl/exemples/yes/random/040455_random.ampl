@@ -1,0 +1,1 @@
+program E2z : s : takes A8 : boolean array; BM : boolean returns nothing input w[true or 79 - 5] end main : P, DL : integer; input Z[LR rem true and not 6 and 46 or false]; input Hel0a[- false or not 7]; while false and 95400 >= 32 : let l = array 88400 end end

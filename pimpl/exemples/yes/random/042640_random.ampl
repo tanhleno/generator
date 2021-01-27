@@ -1,0 +1,1 @@
+program d36 : L9 : takes O : boolean array returns integer array GB5, U : integer array; chillax end main : while - false * I[972] <= false + 5 and 710 or 51 : chillax end; output "" . - 735; pop end

@@ -1,0 +1,1 @@
+program E0Yaa : k : takes Ye : integer array; k2Y : boolean returns integer array T3J0, XwF, U : boolean array; J, M, W8, y : integer array; K, jI : boolean array; RQP, wX : boolean; chillax end main : MB8a, f, Y7, eX : boolean; input b160; do X7(- false - false and 7 + 6 - 4) end

@@ -1,0 +1,1 @@
+program zR : F : takes P1 : boolean; A : integer array returns boolean array R7 : boolean array; when case - not 5 : chillax end case 493 - 91 >= 7390 : output "L" end; while 75400 > 42 : pop; output ""; pop end end main : pop end

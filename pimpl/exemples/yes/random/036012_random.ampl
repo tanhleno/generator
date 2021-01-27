@@ -1,0 +1,1 @@
+program i : A93 : takes f : boolean; K : boolean array returns nothing K5, v, Q : integer array; UE, N300 : integer; Ou, l990a, z : boolean array; when case true - 32 : let A[88] = 53200; pop end; output "\t" end main : chillax end

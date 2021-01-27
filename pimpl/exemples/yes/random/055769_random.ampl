@@ -1,0 +1,1 @@
+program M : r1b : takes S : integer array; ONPaa : boolean array; Z, CE, M5 : integer returns nothing e, d, z : integer; input I9 end G02aa : takes p4, L, Q53 : integer returns nothing chillax end E : takes p2 : integer array; D, i : integer returns nothing let k[25] = array 1 end main : input lkr[- 3 / (4) * not 16]; pop true <= 2 - 0; pop; output 2 = 3 . "dG" . "\n" end

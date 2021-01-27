@@ -1,0 +1,1 @@
+program W : v : takes H : boolean; k6 : boolean array returns nothing P : boolean; i1, B72, z, O17aa : integer array; chillax end main : pop J * false and 3 > 92 + 8; when case 0 + 53 > false + 412 : do lG(93 = 21300, 267); while 0 : chillax end end end

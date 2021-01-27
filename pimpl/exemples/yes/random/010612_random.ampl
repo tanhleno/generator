@@ -1,0 +1,1 @@
+program a : vR6aa : takes F, st, z54 : boolean array returns boolean array o1n0 : integer array; Q, N, b2, J : boolean array; do _(596 + 3 >= - 1, - 410) end main : hb, r0 : integer array; l : boolean; chillax end

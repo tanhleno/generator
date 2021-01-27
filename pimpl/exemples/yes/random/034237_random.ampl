@@ -1,0 +1,1 @@
+program t : z3 : takes SE : boolean; O, l : boolean; M, W, pU6aa : integer array; c65aa, _M, a, oTp, n380a : boolean array; TB, h87a, JG : integer array; e : boolean returns nothing chillax end main : while - false and j(5) /= - false + K : output 6 = 0450; let FE8a = 0 end end

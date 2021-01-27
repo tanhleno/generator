@@ -1,0 +1,1 @@
+program m : b : takes itV : boolean array; C2a, PJ8, G9 : integer returns integer when case - 1 and 60 : chillax end case 8 - 4 /= 3 : chillax end case 2 : when case 921 : chillax end end case 5 : pop end case 8 : chillax end otherwise : chillax end; pop end main : u9 : integer array; chillax end

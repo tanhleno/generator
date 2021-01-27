@@ -1,0 +1,1 @@
+program L : mtpaa : takes a0 : integer returns nothing kk_, U3s0, k : boolean; K : integer array; chillax end main : while - (22800) and l69aa(9) rem not 09 + true * not 8 - (2) and 309 : chillax end end

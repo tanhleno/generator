@@ -1,0 +1,1 @@
+program Q8Laa : main : w : integer; eP7aa : boolean array; x7O0 : boolean; when case(52500 = 0) and false * 9 and 2 or 2 - not 2 and 83 > true / 0 - B2B0a and 14 : chillax end case - D + true and 6 > - 7 + 3 - 0 : chillax end case h and 99600 or 3110 : output 0 . "" end case 5 <= 1 : chillax end case 7 = 56000 : chillax end otherwise : output "03!a" . 05 end end

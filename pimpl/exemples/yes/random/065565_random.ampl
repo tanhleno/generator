@@ -1,0 +1,1 @@
+program f : d : takes X36a : integer returns nothing while false and 061 < 65 : input m end; input X end main : while not UNf[6280] rem 48 - true = - 23900 / 56 + u : input M end; when case true rem HL1aa and 9 = - true and 41 : chillax end case not 4 = 6 : input J end otherwise : chillax end; input rcY[r]; when case - 1 : output "Iia"; let g4u = 465; pop end end

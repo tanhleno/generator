@@ -1,0 +1,1 @@
+program Q : main : Y : boolean array; zsU0a, G : integer; ns : boolean array; m, q, Jl2, X6_a : integer array; l, RW, I : integer array; let Zz = array - 2 rem(9) - false; when case - true rem q + DV1a + 9 : chillax end case false and 1 - 8 > - 31 : chillax end end

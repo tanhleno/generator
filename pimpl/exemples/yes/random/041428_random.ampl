@@ -1,0 +1,1 @@
+program Rx : C : takes X0 : boolean array; D : integer returns nothing while - not 964 or 92 - 09 : when case 22 : chillax end otherwise : chillax end end end main : while - 1 / (5) rem S + 3 : chillax end end

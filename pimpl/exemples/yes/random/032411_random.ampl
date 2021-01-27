@@ -1,0 +1,1 @@
+program l : t : takes hI, Ut : integer returns nothing do AI9aa(- false) end w : takes S : integer; zJy0 : boolean; v : integer array returns integer while 9 : chillax end; do c(9) end I2 : takes s, L : boolean; lJ : integer array; y : integer array returns boolean array while 3 : chillax end; output 854 end main : chillax end

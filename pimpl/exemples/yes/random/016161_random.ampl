@@ -1,0 +1,1 @@
+program b : f : takes e, ZW, V6 : integer returns nothing chillax end N2 : takes Ua, L : integer; j, O8, A, X, p, K : boolean; T : boolean array returns nothing input w[1 - 2]; let h0daa[5] = 0; do z5(07, 803) end main : chillax end

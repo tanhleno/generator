@@ -1,0 +1,1 @@
+program z0 : D : takes D : boolean array returns nothing while true + 6680 - 5 : chillax end end O : takes c : integer array; iKMa : boolean; O, i, oXyaa, i, m : integer; T9g, U3, X, L : boolean array; c : integer; s, C : boolean returns nothing chillax end main : c, b28, tR7 : integer array; chillax end

@@ -1,0 +1,1 @@
+program V : W : takes c5 : integer array; I : boolean; Z, X0, qir, T6 : integer array returns nothing J, s : boolean; z : integer array; while false and 34 + 4 - 73 : chillax end; output 11 end main : output "" . "" end

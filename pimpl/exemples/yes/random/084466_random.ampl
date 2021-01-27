@@ -1,0 +1,1 @@
+program u : main : E : integer; Rx : integer array; x0ba, DV2aa : integer array; ag, _ : integer array; t5 : integer array; while(37 = 86) >= - true / false : chillax end; pop; when case false and 58 + 9 : chillax end case - 18600 < 3 : chillax end case 15 = 75 : do kDj0a(5) end case 67 : pop end case 7 : chillax end otherwise : when case 65 : chillax end end end

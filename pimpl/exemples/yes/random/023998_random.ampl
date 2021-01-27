@@ -1,0 +1,1 @@
+program b : z5Aaa : takes c_, lw : boolean returns nothing chillax end x : takes Iz : integer returns integer Y, n : boolean; C : boolean; chillax end main : while 94 or not s : let l[- 2 - 200] = array - 5240 - 28; do qH(1 = 5); while 4 : chillax end end; input h[(9)]; do g(- 47700 and 4 + 7 - 806, - 61, 20 = 53) end

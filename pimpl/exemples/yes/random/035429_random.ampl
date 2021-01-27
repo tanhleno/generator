@@ -1,0 +1,1 @@
+program t : Bm : takes Rv : boolean; _ : boolean; e, _ : integer array; tR1, oVP : boolean array; d7l : integer returns boolean array OF30a, m, P, w : boolean; chillax end n1waa : takes Q : boolean array returns boolean array k : integer; Xb : boolean array; _1, j : boolean; chillax end main : chillax end

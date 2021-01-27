@@ -1,0 +1,1 @@
+program M : m : takes h7, A2 : boolean returns nothing A66 : integer array; when case - false - 1 = - 4 - 05 : chillax end case - 2 - 76500 /= 4 : pop; pop end otherwise : chillax end; when case 56800 - 94 > 6 : output "%"; while 6 : chillax end; pop end case 15 : chillax end; input ExL end U : takes n0t0a : boolean returns integer chillax end main : chillax end

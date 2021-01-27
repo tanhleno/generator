@@ -1,0 +1,1 @@
+program AHi : b : takes B, o, e0, b6u, q7 : integer; f, dA5aa, C, o4, E2l0, RFG : boolean array; u0 : integer; W, q : integer array returns nothing tr8aa, t, Ao, F0waa : boolean array; chillax end main : chillax end

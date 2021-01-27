@@ -1,0 +1,1 @@
+program oM : U : takes jD4 : integer returns nothing pop; while - 17500 - 02100 : while 2 : chillax end; pop end; output 34 . 92 . ""; pop end a7 : takes C, t, k : integer array; X290 : boolean; D3 : boolean returns nothing Nd : boolean; d0 : integer array; OQ6, zH4 : boolean; my00a : boolean; z : boolean; chillax end main : input _ end

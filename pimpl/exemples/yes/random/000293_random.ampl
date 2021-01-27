@@ -1,0 +1,1 @@
+program e33 : b : takes k, V, s, MCIa, t, rO4, PZ, m : integer; l, Bwt, i, x, n, O : integer array; uF : integer array; d50a : integer; r : boolean array; Le, t : integer array returns integer array chillax end main : while true and false or not l < not U and(5) and 8 : chillax end; input X[- not 14] end

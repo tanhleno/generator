@@ -1,0 +1,1 @@
+program y : qj : takes A : boolean array; Ex : integer; fG : boolean; v10a, p, h, R820 : boolean array; Q13, yxw, C, L440 : boolean array; p4 : boolean array; i77, e9Ua : boolean returns integer chillax end main : P : boolean; output false = 4 and 8 + 096; output "" . 9 . "" . "!"; let gC[- true and 83] = 98 >= 9; do L(57 < 8800); output ""; pop 76 end

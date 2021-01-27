@@ -1,0 +1,1 @@
+program f : main : XA6, q4 : boolean array; c, G, K : boolean; j, R89a, SC7 : boolean array; when case - not not not 1 / true /= - q(2450) : while - 4 - 3 /= 1 : chillax end; let n36aa = 1; while 16 : chillax end end case - s and 9 and 74 - false and 6 : chillax end; output s and 5 = - 40 - 7; output - 8890 - 589 >= 2; output "q" . 82; output 4830 end

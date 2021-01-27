@@ -1,0 +1,1 @@
+program h1A0 : J6i0a : takes B, i, G, t68, W : boolean; w : integer array returns integer array let zP6a = - 2 >= 8; let WgNa[56] = 3; output 49; do h(8, 3); input z end main : Qci0, Z3, vv9 : integer; while - not I[4] <= - not not 9 / 15 and 6 : chillax end end

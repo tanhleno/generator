@@ -1,0 +1,1 @@
+program R65a : a : takes x, K : boolean; M5l : boolean array returns nothing J4z0a, J : integer; Nx : integer; _, xD : integer array; chillax end main : u, N0, c : boolean; s, n : boolean; pop; when case - (69) + false or 5 - 8 /= (84) and 5 : when case 12200 = 148 : chillax end; while 85 : pop end end end

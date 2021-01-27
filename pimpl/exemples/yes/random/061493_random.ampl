@@ -1,0 +1,1 @@
+program L : U5 : takes u : integer array returns nothing pop 4 >= 89; when case 201 - 6 >= 7 : chillax end case 9 = 1 : when case 5 : chillax end; pop end case 199 : chillax end case 8 : chillax end otherwise : chillax end end U6L : takes g2r0a : boolean returns nothing chillax end main : k : integer array; B, X_8, A : boolean array; output "\"" . "" . - 8 - 43 end

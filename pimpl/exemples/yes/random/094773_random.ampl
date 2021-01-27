@@ -1,0 +1,1 @@
+program DTr0a : main : pop; when case true : do Vd00a(8, 0960) end case false and 550 : chillax end case - 12 : chillax end otherwise : let R = array 6; input tc9aa; let p = 75600 end; input u; output 15300 = 9 . 9 . 2 end

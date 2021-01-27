@@ -1,0 +1,1 @@
+program T2 : LS5 : takes E : boolean array returns nothing c, n0, Qn, r6, Fu50a : boolean array; chillax end main : pH : integer; u7, Y4 : integer array; do r(- (822) and 9 > - 2, true and u and 5 /= - not 207 and 5, not 40 = - 2710, 04 /= 6, 26500, 9); let V[6 + true] = false and 92 or 47 - 7 end

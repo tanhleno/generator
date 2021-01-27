@@ -1,0 +1,1 @@
+program VM5 : w3m : takes v1, v7, F, Ab : boolean returns boolean array s8 : boolean; chillax end d10aa : takes WiM, nON : integer array returns integer array chillax end main : G5, T1, g : integer; j3 : integer; PFD0 : integer array; chillax end

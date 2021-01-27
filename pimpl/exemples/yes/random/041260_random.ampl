@@ -1,0 +1,1 @@
+program f : xZ : takes t : boolean array; n3c : integer returns integer array VDk, dGT, S : integer; d6, _, _ : integer array; V : integer array; E, T : boolean; TV : boolean; o : boolean; chillax end main : chillax end

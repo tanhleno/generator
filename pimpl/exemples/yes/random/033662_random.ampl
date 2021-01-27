@@ -1,0 +1,1 @@
+program A : NH : takes e8 : boolean; i, ni, q, bLg : integer array; V : integer returns nothing let n = 12; let y7 = array - 6070 end main : f, d2, Zr, nKt : integer array; s, S, j, o2, p : boolean; i, Q, LD0 : boolean; B9I, hX : integer; XUJ0 : boolean; chillax end

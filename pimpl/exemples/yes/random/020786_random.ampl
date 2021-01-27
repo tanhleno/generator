@@ -1,0 +1,1 @@
+program buR0 : H : takes Ff, Eu : boolean array returns boolean array chillax end h : takes R, O : integer array returns nothing d : boolean; chillax end Ns : takes U, E, j, E8, gM : boolean returns boolean array k61 : integer array; R130a : boolean; do s9c(9 = 4); input X end main : chillax end

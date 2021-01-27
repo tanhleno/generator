@@ -1,0 +1,1 @@
+program FKh : main : _6, c, J : integer; zW5a : integer array; input I8; let I[(3) / s - 3 and 89 or 1] = array - false; input b[not 53 - 3]; do gm0(- 8600 - 00, 7); let t = array 6590; do R(2360); let B = 045 end

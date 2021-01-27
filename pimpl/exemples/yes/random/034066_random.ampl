@@ -1,0 +1,1 @@
+program m : Q0 : takes m : boolean; k, Q, O : integer array; O2, W4w0 : integer; J590a : boolean array returns boolean chillax end Rq : takes JE5aa : boolean array returns nothing chillax end f0 : takes q8, lP5, l_8aa : integer returns boolean array chillax end main : C4, f, ux, w8 : boolean; let Ml = not not 9 + (17) and 0580 - 4 - 01; do X(- SO[4] > not 31 and 42 or 8 - 3) end

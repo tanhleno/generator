@@ -1,0 +1,1 @@
+program v4 : main : MM : boolean array; Q : boolean array; U, d9 : integer array; kE2, S_ : integer; T0, o, jhS : integer; L5 : boolean; i : boolean; i120a : boolean; while false + (0280) + false and 78 + 19100 - 3 = - false : chillax end; pop false and 7 - 2 < 4 - 107; input E end

@@ -1,0 +1,1 @@
+program Oc : g : takes N, m, EV, z : integer array; Pt, wl, W9, J : boolean returns integer array chillax end P : takes j1, aCh : boolean array returns nothing when case - 90 - 8 < 4 : chillax end otherwise : output "d9"; pop end end main : chillax end

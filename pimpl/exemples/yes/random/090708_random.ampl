@@ -1,0 +1,1 @@
+program T : main : let d[- (2 = 1)] = - not true + i + 0; when case 186 and 2080 : let T[8] = array 204; while 38 : pop end; pop end case not 3 and 835 - 7330 < 51800 : let b = 0; pop end case - 8 - 82 <= 9 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program cf : main : when case - 38 * true : chillax end case - true or 43500 - 7 - 23 /= true : chillax end case not 9 and 8 : chillax end case - 7 - 64 : do f(1); pop; pop end case 4 = 40 : chillax end case 3 : pop end case 83 : chillax end end

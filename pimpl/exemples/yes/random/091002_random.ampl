@@ -1,0 +1,1 @@
+program AU : main : let Z[- not not(2) rem 93 / not 929 - true * oxW and 2620 or true + 16 - 1] = array - true / (59400) / false and 97; input I530a[0 - fY - 7 - 0140]; when case - false < - 8460 : when case 8 : chillax end otherwise : chillax end; do t(5) end case - 358 : chillax end case 1 : pop end; input T; output "\\\"a" . 0 end

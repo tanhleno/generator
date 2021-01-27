@@ -1,0 +1,1 @@
+program Cm : i0 : takes DRW0a, x : boolean returns nothing output 9510 - 2 = 8 . "?H0a" . "" . "" . "" end i8 : takes K9Ma : integer returns nothing chillax end _ : takes a, mm : integer; Z : integer array; s57 : integer returns boolean array chillax end main : X, kHF0 : boolean; chillax end

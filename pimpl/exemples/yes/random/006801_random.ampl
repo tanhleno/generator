@@ -1,0 +1,1 @@
+program Dkq0 : f4 : takes C0a, W, J, U93 : integer; B : integer returns nothing while - 60 and 6 = - 3 : while 2 : pop end; pop end; when case - 99 - 37 : input _1 end case 94 = 44 : do U5(55); pop end case 35 : pop end case 81 : chillax end end main : bR80a : boolean array; s : integer; chillax end

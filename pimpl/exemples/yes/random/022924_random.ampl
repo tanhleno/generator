@@ -1,0 +1,1 @@
+program P : Y : takes X9, K520 : boolean returns boolean array _0, m, j, w : integer; input W[- false and 268 - 60800 - 2]; output "" end main : let Gw = not not 79 + (61) and 23 - 225 - 43 < false; let F = array false + (5) and 29 - 2250 - 9 end

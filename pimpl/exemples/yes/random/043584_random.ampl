@@ -1,0 +1,1 @@
+program oZ : d : takes z : boolean array returns nothing chillax end l : takes I : boolean array returns nothing chillax end M : takes kI60 : integer returns nothing chillax end main : N, r, mi : integer; chillax end

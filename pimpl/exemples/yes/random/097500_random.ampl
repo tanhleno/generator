@@ -1,0 +1,1 @@
+program U2D0a : main : when case 594 rem false + true / false or true and 37500 - 4 : chillax end case - (7) >= y1 and 26 + 9000 : do o8(648); output 2 . "" end otherwise : chillax end; do qC0(01 / x2_ and 783 /= - true, (4540) or 9 /= 42 - 97) end

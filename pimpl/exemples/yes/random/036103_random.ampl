@@ -1,0 +1,1 @@
+program VU : v : takes h : boolean; v : boolean array returns nothing while - (73) or 6 - 521 >= 0 - 50 : let M[2] = array 183; output "" end end I0 : takes kI : integer array; tK, K : boolean; vAu, m : boolean returns integer let Q1 = array 425 - 8990 end main : chillax end

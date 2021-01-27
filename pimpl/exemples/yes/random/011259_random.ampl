@@ -1,0 +1,1 @@
+program Eer : wCT : takes pF2, yQ, g400a : boolean array returns nothing MP4, r : integer; Ejla : integer; G : boolean array; while - (4640) < - 15 : output 2 . "?V"; do mg5(8); while 60 : chillax end end end QnI : takes Piy, W : boolean; z : boolean returns boolean E : boolean; chillax end V47 : takes KH : integer returns boolean array chillax end main : chillax end

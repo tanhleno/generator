@@ -1,0 +1,1 @@
+program Ao1 : U : takes u8 : boolean array returns integer array c3, Lq1 : integer array; output 8 - 837 = 479; do n4(- 2 <= 1) end main : X, u, o1, r : boolean array; let q = not ya / not 8 or true and 10 - 70 end

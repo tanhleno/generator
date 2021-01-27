@@ -1,0 +1,1 @@
+program n330 : DhL0a : takes D59 : integer array returns nothing do U(- true); when case - 14 : input S0 end case 6 : chillax end otherwise : chillax end; output 7 end main : r : integer; wI, Zam, q, uVX0a : integer array; chillax end

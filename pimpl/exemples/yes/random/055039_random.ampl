@@ -1,0 +1,1 @@
+program X2 : H : takes ob : integer array; isva, wD : integer array; wv8a, B, U, r2_, k_w : integer array; s, T, zD, ikP : integer array; z, H, Li : integer array returns integer n : integer; input Q[4 and 5 or 7]; let B8 = 2 end f : takes w5z, Z, z9fa : integer array returns nothing chillax end main : i : integer array; chillax end

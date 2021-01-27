@@ -1,0 +1,1 @@
+program b : main : L : boolean; c : boolean; V : integer array; R, V1 : boolean array; while - false > true - 326 : chillax end; while(9650) / 1 and 17 - true + 56 : output "Z"; while 35 : pop end end end

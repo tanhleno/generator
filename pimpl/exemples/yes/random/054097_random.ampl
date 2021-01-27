@@ -1,0 +1,1 @@
+program K31 : U6 : takes T : integer array; IC7a, Z, L : boolean returns nothing N3, M7 : boolean; do l6(not 19800 and 26 = 91, 9); pop 77200 end main : I6 : boolean; So, K, ia : boolean; e, f7Fa : integer array; D : integer; chillax end

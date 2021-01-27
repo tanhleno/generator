@@ -1,0 +1,1 @@
+program G : n9 : takes vP, E0 : boolean array returns nothing when case - (5) <= - 257 : chillax end case 80 >= 5 : chillax end otherwise : while 419 : chillax end; input D end end main : d : integer; wT : integer; chillax end

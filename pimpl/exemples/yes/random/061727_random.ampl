@@ -1,0 +1,1 @@
+program i6 : w94a : takes N8 : integer returns boolean array chillax end SQ : takes d6 : integer; O, R, l2 : integer returns boolean chillax end l : takes F, p420 : boolean returns nothing o : boolean array; t : boolean; while 0 = 236 : do S(8) end; pop end main : s : boolean; input v; pop; output - 22 . 2060 . 6 end

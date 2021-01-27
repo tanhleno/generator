@@ -1,0 +1,1 @@
+program h4D0a : main : j : boolean array; HY, v, k : boolean; do KM(true > - jLo(6)); pop - (269) - 2 - 43 = - 8 - 7; when case false <= - 816 : while 9 : pop end end case 5 - 2260 : chillax end; pop 484 end

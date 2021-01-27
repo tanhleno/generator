@@ -1,0 +1,1 @@
+program J20 : dK : takes R, a : boolean array returns boolean zv : integer; O : boolean array; let b = array - false and 36; while - 9 : when case 22 : chillax end end; input yf; pop; input F2 end main : H3 : integer; input PC end

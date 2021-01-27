@@ -1,0 +1,1 @@
+program z : main : while(9) / not false - not b42 >= (65) + true and 3 : when case - 49600 - 46 : chillax end case 20700 : do S6(37900); pop end otherwise : chillax end; when case 1 = 68 : let b = 81 end otherwise : chillax end; when case 5 : chillax end case 2 : chillax end end; let S[true / not 4 or P] = array - not 16200 / 03 + not 3 and 67 - 56 end

@@ -1,0 +1,1 @@
+program A : main : l : boolean; do vd8aa(- not(2) * false * (0), - 5 - (11) < - 59200 or 0 - 6140, - not 068 or 028 - 0 > - 79 - 427, - 880 - 31 >= 0); output "7|" . 2 > 2; input K[- 89900 or 0 - 7]; output 7 = 6 . "\n8!a"; when case 7 = 5 : chillax end otherwise : chillax end end

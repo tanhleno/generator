@@ -1,0 +1,1 @@
+program Y78aa : M : takes ry20 : boolean returns boolean array when case true and 8 + 3 - 8 : pop end otherwise : let M = 29; pop; pop end end main : b2m, n : boolean array; JH, t : integer; r : integer; input i end

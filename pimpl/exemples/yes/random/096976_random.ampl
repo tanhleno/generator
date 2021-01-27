@@ -1,0 +1,1 @@
+program i6 : main : when case p : chillax end; when case - not false / (3) and 4 : output "n" . "5" . "`6"; input J920; when case 7 : chillax end end case - 4 and 79700 : while 1 : pop end; pop; input J79 end otherwise : do d(7); pop end; when case false or 604 : chillax end end

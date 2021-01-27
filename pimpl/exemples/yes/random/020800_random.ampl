@@ -1,0 +1,1 @@
+program R : q1 : takes l, l : boolean array returns boolean array chillax end main : do G((3 = 85) or not p73 and false + not 65700 - 84400 - 90 < - a15(3020)); let Te = array false * (36) and 64 - true and 5; while(5) or 664 = - 35200 - 27 : chillax end; output "J"; when case 013 = 58 : input F end case 95 : pop end case 669 : chillax end; do G4(05) end

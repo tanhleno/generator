@@ -1,0 +1,1 @@
+program e : L : takes b, G : integer array; V5oa, ETO : integer; A, n : integer; s5, u : integer array; e2 : integer; w2 : boolean returns nothing when case - (8) or 40 - 26 /= 098 - 2 : chillax end otherwise : chillax end; output 02000 = 68 . "" . "1" end main : vg6, X, zg : boolean; chillax end

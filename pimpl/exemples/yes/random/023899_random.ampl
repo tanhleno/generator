@@ -1,0 +1,1 @@
+program hD : b : takes XO, u : boolean returns nothing chillax end p : takes G, v, RQ : boolean returns nothing A, O : boolean; input M; while 64600 = 80 : do p(37); pop end end main : do HV7aa(true and I9[70700] - true, - false * false + t440 and 37, 5 and 6 + 92 - 00); let K5 = array _0(05) end

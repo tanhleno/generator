@@ -1,0 +1,1 @@
+program e : cS : takes M1 : integer; K : boolean array; U9, F5V, wm6aa : boolean array returns nothing u : integer array; pop 56 - 3; let Lv6aa = array 4; input k[88]; do Od(7670) end main : when case false - 3 + 765 or 4 = - 40 : chillax end; let p = array(9) or true + 9470 - 6; when case - not 3 : chillax end; input H2; output 13 end

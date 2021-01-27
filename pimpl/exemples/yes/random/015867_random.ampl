@@ -1,0 +1,1 @@
+program W2 : b : takes z, l5d, H : integer returns boolean let K = 7750 - 8 = 2; output "\t}" . "0" end main : i : boolean array; Q8 : integer array; N6, dj : boolean; input C[(41000) / false]; do U(- not false * false and 89 >= - 61 + 421, RdY and 69 + 86, - 5 > 592); input pI_aa; input L9G0; output "\nj\"" . "" . "3"; output 1 . "" end

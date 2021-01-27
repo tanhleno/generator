@@ -1,0 +1,1 @@
+program wd : K : takes b, v, P : integer array returns boolean array when case(84) : let BK5 = array 107 end case 73 < 34 : let Y = 97 end case 502 = 2 : do LHD0(4410) end case 9 : pop end case 61 : chillax end otherwise : pop end end yuM : takes k : boolean returns integer array input EY[- 86 - 5]; output 7 end main : L3k0 : boolean; y : integer; chillax end

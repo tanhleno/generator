@@ -1,0 +1,1 @@
+program Je : main : a13, c : boolean; HQ : boolean; C, e5 : integer; oNra, L6, E, r53 : integer; a49aa, L9, j3a : boolean; do Cn(- g[81] - (28) and(6980) <= - (9) * Zr and 61400, - false rem 95); input l; let A = 4 /= 5 end

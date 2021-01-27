@@ -1,0 +1,1 @@
+program r : p7n : takes a : integer returns integer la : integer; chillax end s : takes o60, ueH0 : integer; v, u, C, G, V08 : integer array; vb7 : integer array; i, p : integer array returns nothing O8 : boolean array; chillax end Q3q : takes f : integer returns integer b : boolean array; chillax end main : chillax end

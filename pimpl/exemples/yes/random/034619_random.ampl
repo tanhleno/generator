@@ -1,0 +1,1 @@
+program u : mkS : takes Gq60 : boolean; S, q : boolean returns boolean array fA, R, G7K0, _, A : boolean; let p = array - not 8 and 76; input e[- 4] end main : Cc, L, o, b4g, d, E, U : integer array; do o(- true / 4 + not 4); output "\t" . 0630 - 12 < 64; output 3 - 6 > 69300 end

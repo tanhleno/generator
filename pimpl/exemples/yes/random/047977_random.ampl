@@ -1,0 +1,1 @@
+program I : X4 : takes l2 : boolean returns nothing e, TqN, Z7 : boolean; input f7[V]; pop 57; input Tf5; output "" . ""; pop; output ""; pop end main : y, e4, M8 : integer array; U, l6 : boolean array; pop not not 4 / M5 and 8 or(79100) - 69 - 8 end

@@ -1,0 +1,1 @@
+program d : C : takes h7, A, p, t : boolean array returns nothing output "" . 0910 = 8 . 964 end N4G : takes y61, n6 : integer; lk, X2 : boolean; oU5, L, U4O : boolean array returns integer do FY(- 47 - 1 <= 49500, 1930); let IS3[635] = array 5 end main : chillax end

@@ -1,0 +1,1 @@
+program xS : main : o, KlM0a : boolean; D, P : integer array; a2, Z5E, Pz6, FeG, c5n : boolean array; u, N : boolean array; n, i : boolean; output "" . - (60) - 952 >= - 3 . 5360 . 0; while - not X * true and 5 - false : output 8 . 1 . "" end; while - (5210) or 7 : output "" . ""; do x(4) end; output "t" end

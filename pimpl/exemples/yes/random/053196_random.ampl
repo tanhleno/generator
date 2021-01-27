@@ -1,0 +1,1 @@
+program ND : sd2 : takes o77a : integer; Z : integer returns integer chillax end GO : takes h, q0 : boolean array returns nothing F : boolean array; chillax end P : takes iGn : boolean array returns nothing O : boolean; kY : boolean; b34 : boolean; JQ0aa : boolean; pop 98300 end main : d : integer; d : integer; chillax end

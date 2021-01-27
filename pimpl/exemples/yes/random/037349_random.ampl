@@ -1,0 +1,1 @@
+program v : f2U0a : takes b : boolean; M4H : integer returns nothing H9, s1G, e : boolean; chillax end s : takes j : boolean array; s8, f43a, J3 : boolean returns boolean array input QlU[6 - 9060]; when case 5 : chillax end case 0 : pop end case 0 : chillax end end main : chillax end

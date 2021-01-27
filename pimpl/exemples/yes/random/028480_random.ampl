@@ -1,0 +1,1 @@
+program o : n : takes I5j, mv : integer array; O62a : boolean array returns nothing input hJ5; do C(- 8 - 83600 >= 130, 5 = 9); let E_[6] = 1; input G; do d2Ia(6) end Hi : takes d, O : boolean; kOtaa, eA : boolean returns integer array chillax end main : pop 55; output - 7 and 8 + 921 <= 9 . 29700 - 86 end

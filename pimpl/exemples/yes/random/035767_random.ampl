@@ -1,0 +1,1 @@
+program P6 : Zv : takes ST60a : boolean; Dl : boolean array; f : integer; C, U4, d, Ay : integer returns integer array chillax end main : g0 : integer; k : integer array; y : boolean; L : boolean; r, q : boolean array; when case 63100 and a[17300] / 82 and 04 = - true rem not 1 and 1 + 8 and 03 or 6 - 2 : pop end otherwise : chillax end end

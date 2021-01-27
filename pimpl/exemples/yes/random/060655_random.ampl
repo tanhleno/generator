@@ -1,0 +1,1 @@
+program qc4aa : g : takes F : integer array returns nothing l, J : integer array; A, h, E05 : integer array; W7, G, rk : boolean; output 8 = 72 . 4; when case 1 - 85 : chillax end; when case 1 : output "" end case 4 : pop end otherwise : pop end; let q5 = array 7; while 8 : chillax end; let baf0a = 04200 end main : chillax end

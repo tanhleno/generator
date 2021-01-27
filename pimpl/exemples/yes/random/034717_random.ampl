@@ -1,0 +1,1 @@
+program P : R : takes d : boolean; iw60a, GK60 : boolean returns nothing uE : boolean; d, C : integer array; S : boolean; w : boolean; z7v : boolean; chillax end Q : takes z, _r4 : boolean; T, L0, O1 : boolean array returns nothing pop 5; pop; when case 87800 : pop end otherwise : chillax end; when case 3 : chillax end; input w4 end main : chillax end

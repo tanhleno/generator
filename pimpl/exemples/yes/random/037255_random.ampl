@@ -1,0 +1,1 @@
+program N1 : h : takes k32 : boolean; L : integer returns integer array EEd, T, N : integer; E : integer array; e : integer; let C[- 84100 and 40000] = array w and 0; while - 892 - 676 : chillax end end main : input NYa end

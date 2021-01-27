@@ -1,0 +1,1 @@
+program O : V2 : takes M2naa, J, f, Y : integer array returns boolean array input GW end P2 : takes f : boolean array returns nothing chillax end fk : takes wMU : boolean returns boolean array g : integer; chillax end main : output not 4 = 4 and 67700 or 8690 - 8 end

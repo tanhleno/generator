@@ -1,0 +1,1 @@
+program D : C : takes Ql : boolean returns nothing w : integer; M850a : integer; u : boolean; input E[- true and 1870 - 62 - 0] end main : C2W, Xd : boolean array; when case - 6 * not true * a and 445 + E(111) + not 85000 - 284 : chillax end otherwise : chillax end end

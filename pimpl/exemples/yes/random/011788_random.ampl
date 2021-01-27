@@ -1,0 +1,1 @@
+program K : wP : takes I, y, I : boolean returns integer array B, j, U, L : boolean array; j9, F, Pu9aa, Pst0a : boolean array; do L(- true and 4) end main : r : integer; c : integer array; bYy0a : boolean array; chillax end

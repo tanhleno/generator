@@ -1,0 +1,1 @@
+program z0 : V : takes h : boolean returns nothing chillax end Kn7 : takes T6 : boolean array; s : boolean array returns nothing g : integer array; while - 9110 : chillax end end main : Sx : boolean array; output - (2) . 5 and 0 or 34 = - 21 . "" . "+\\0a" . 40 end

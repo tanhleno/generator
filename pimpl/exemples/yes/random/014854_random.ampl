@@ -1,0 +1,1 @@
+program F : S : takes K, j4Haa, p : integer array returns boolean u : integer; pop; when case - 6 : chillax end case 0 = 2 : chillax end case 0 : chillax end case 146 : chillax end end main : chillax end

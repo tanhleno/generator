@@ -1,0 +1,1 @@
+program V : m : takes Y, Ox : boolean returns nothing sW : integer array; gL, O1s : integer; Z, u : boolean; pop - 883 /= 7; do S(624 <= 3); do He(4) end main : output "" . qk - 7 - 187 . "" . 4 = 5800; while - y * not 0 and 69 - false and 5 : output "" . 2 . ""; output "" . "n" end; while true : chillax end; pop end

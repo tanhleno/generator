@@ -1,0 +1,1 @@
+program d33a : Q3 : takes Y : boolean array returns integer while - 0 : do X(32) end end main : d : boolean; M1, k55a, h, L, rq : integer array; vrz, G, G, wN40a : integer array; Y, k360 : boolean array; x : integer; output - (1) and true and 23 end

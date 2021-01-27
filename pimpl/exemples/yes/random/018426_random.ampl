@@ -1,0 +1,1 @@
+program X : _ : takes T, Y : boolean; j : integer array returns nothing chillax end main : c : integer array; when case(2) rem L or(10) + (65) >= - HV50(6) : chillax end; let i100 = array not true end

@@ -1,0 +1,1 @@
+program DR6 : main : when case - Z(32, 0) * true - (2) rem(562) and 1 - bU30 and 5 or 4 > - (7) or false and 0 : when case 7 - 30 >= 8 : chillax end end; when case K >= - false and 12 : chillax end otherwise : let RH[91] = 9160 end end

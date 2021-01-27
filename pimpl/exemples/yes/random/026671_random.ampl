@@ -1,0 +1,1 @@
+program J_ : t : takes N, F420 : integer; SC90 : integer array; ppjaa, h : integer returns nothing do m(h and 4) end main : Sr, lg : integer; when case - not 9 and true + (5) + 63 and 6 /= true and u2 + (706) or 61000 : chillax end case true rem S5 and 0 + true and 16 /= - true and 6 : chillax end; input D96aa[false + U]; when case j1K0a and 5 <= 868 - 9 : chillax end end

@@ -1,0 +1,1 @@
+program _ : X80 : takes D5h, D : integer array; b3 : integer returns nothing G : integer array; m5 : boolean; chillax end X7 : takes O : integer array returns nothing nn : boolean; chillax end U6 : takes iZ : integer returns nothing chillax end main : when case - 42 : let Y = array - 0 end; output - false and 2 - 54 - 2 = 7 . "\\\\"; pop; while - 9 < 356 : chillax end end

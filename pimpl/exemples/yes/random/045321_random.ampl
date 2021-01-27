@@ -1,0 +1,1 @@
+program qvU : u : takes l : boolean array returns nothing while - not 6 and 2 - 30300 - 1 : do f(7); let z = 16700 end end A : takes t : boolean returns nothing chillax end main : D : integer array; chillax end

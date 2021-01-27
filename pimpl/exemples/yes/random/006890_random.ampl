@@ -1,0 +1,1 @@
+program n : bx : takes fE, R8, Z81, F : integer array; j, k6d, aL : boolean array; p1, gdlaa, eK, ua : boolean array; e, L : boolean returns nothing while - m and 5 or 14 : chillax end end main : chillax end

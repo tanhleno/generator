@@ -1,0 +1,1 @@
+program p : oR : takes O1Q, U : boolean returns nothing l, F : integer array; chillax end n25 : takes v, b60aa : boolean array; rK3, S5c0a, q3, V : integer; q, W_20 : integer array; MV : integer array returns nothing while 8 >= 662 : input lS; when case 46 : chillax end end; output "" . 85 end main : Z, I : boolean array; chillax end

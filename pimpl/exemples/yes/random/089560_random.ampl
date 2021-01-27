@@ -1,0 +1,1 @@
+program Op : main : let Mx00 = - Q[6] * 827 and 4 <= - true + 9 - 5; when case 45 and 2 or(429) or 6 - 6 = - 6 + 92 : let f[8] = array 1 end case(04500) or 2 - 53 = - 6 - 90 : input C0n0a end case 070 : let A = 4 end otherwise : pop 1; pop; while 01 : chillax end end end

@@ -1,0 +1,1 @@
+program T : _8 : takes e, v8 : boolean array returns nothing D5_, B, E : integer; okQa, m : boolean; pop; while - 2 - 53 < 8 : chillax end; when case 67 : chillax end case 9 : chillax end case 3 : chillax end end main : EM, S4D0a, gR, nv8 : boolean; do L14(false / false - true + 08 + 763) end

@@ -1,0 +1,1 @@
+program C : j : takes Y, b, J, a : integer array; R, r71 : integer array; S, o, W300a, F, E : boolean returns nothing chillax end main : X59aa, b, a : boolean; do z(- true = - false rem not 3 or not 23 - 8); let O = array x(5) and T and 72 end

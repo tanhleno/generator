@@ -1,0 +1,1 @@
+program K : r8 : takes h, E6s0 : boolean array; f, C, Z6, f, _, Eiu : boolean; O : boolean; q : integer array; Fw : boolean returns boolean pop end main : let L25aa[- (4 = 834) / (33900)] = array - not 5 + (8) - not 11500 and 2 end

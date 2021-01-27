@@ -1,0 +1,1 @@
+program V : main : B, E, a040a, WBZ0a : integer; let e[- 7640 * 5 * w and 3060 - (8) or tp6aa and 5 or 6] = array - false / true and rA0; do F(- (1) and X + 9 and 9 + 482 - 9 > 956 and 61, - true, 00 >= 8, 8, 1); let e = 6 end

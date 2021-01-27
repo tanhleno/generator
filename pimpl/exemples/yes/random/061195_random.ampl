@@ -1,0 +1,1 @@
+program U : r1 : takes K : integer array returns nothing T8D : integer array; while - (4740) - 3 - 25 : output ""; let a = 65; pop end end main : IH0, W9c, S : integer; while 77 + false and not 6 + not 1 and 59 or 8 - 8 : input k[- 595 - 09] end; input j9[- (78) and(75)] end

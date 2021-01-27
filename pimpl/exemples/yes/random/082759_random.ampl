@@ -1,0 +1,1 @@
+program _ : main : R0 : boolean array; when case not true + 261 : chillax end case - (46) > 2 : pop; input r[35000]; input E; input m end case - O and 6 + 7 - 5 <= - 52 : chillax end case 6 : pop; when case 44 : chillax end end; output 2240 = 7 - 46500 . "Q" end

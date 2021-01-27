@@ -1,0 +1,1 @@
+program F : B : takes h, P : integer array; B : integer array; H0B0 : integer array returns integer array F, I : integer array; do ZT60a(- (56)) end m : takes Iea0 : boolean returns nothing chillax end main : chillax end

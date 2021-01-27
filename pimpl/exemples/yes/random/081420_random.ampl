@@ -1,0 +1,1 @@
+program a : main : y : boolean array; J, c : integer array; do Gq(- not true = not h62a * not 2 and 94200 or(3) and 05, true > false and 09, - I9 and 95); while - true or true and 0 = not 77 : chillax end; let A = 9 end

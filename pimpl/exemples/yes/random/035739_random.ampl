@@ -1,0 +1,1 @@
+program FI : oy : takes F : boolean; m : boolean array; x8 : boolean array returns integer h9, o770a, Ru, C, d : integer array; chillax end j : takes vje, X : integer returns nothing chillax end R8Z0 : takes e, T, Y : boolean returns boolean array input g2Aa; let ID = array 85 end main : chillax end

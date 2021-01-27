@@ -1,0 +1,1 @@
+program v37 : v : takes oPsa, a, q : boolean; Y : integer; Y : integer returns boolean let a = array true and 5; let b[- 44 - 589] = 5 = 40400 end main : F : integer; F, _Sk : integer array; chillax end

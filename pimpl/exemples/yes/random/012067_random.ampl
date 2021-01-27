@@ -1,0 +1,1 @@
+program V : lrIa : takes W, n, v : boolean returns nothing chillax end C : takes cs : boolean; H6saa, t, L500, eqQ, T, O8 : boolean array returns boolean do lx2(- 0 - 04000, 77600 = 07); output ";&" end main : chillax end

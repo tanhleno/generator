@@ -1,0 +1,1 @@
+program z : main : yVe, m6d : integer array; C9 : boolean; output - false / 6 and 8 or 603 and 486 or 854 - 602 /= - false and 7 - 510 . - (27) . 7 . "4N" . "" . 0; input z; output "" . 083 = 96 . 4 end

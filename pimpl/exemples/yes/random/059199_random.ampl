@@ -1,0 +1,1 @@
+program L : Z : takes q98aa : integer array returns integer chillax end main : when case(651 = 07) or(850) / not 7 and 4 or not 079 - 6 - 152 >= O40 + S0 + 0 : let k = 9 = 31700; do G8(255) end otherwise : while 08 : chillax end end end

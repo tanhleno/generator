@@ -1,0 +1,1 @@
+program H4 : a88 : takes _ : boolean returns nothing lE : integer array; chillax end L1q : takes _ : integer array; M : integer returns boolean output 11 = 530; while 5460 : chillax end; output 801 end X : takes Z1, Q : integer array returns nothing gS : integer; p : boolean; chillax end main : u0Raa : boolean; B, A, Y42, TO, W6, S : integer array; E : boolean array; chillax end

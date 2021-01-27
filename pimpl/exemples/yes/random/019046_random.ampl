@@ -1,0 +1,1 @@
+program G : s : takes I, f : boolean array; R6, v08, G9 : integer array; C : integer array; d1Maa, N : integer array returns integer Uh : boolean; y : boolean array; output "" . 8 . "0"; input F44[- 9 - 5]; while 4 = 23 : chillax end; pop 5; pop; output ""; pop end main : l, g6jaa, p2, S : integer; chillax end

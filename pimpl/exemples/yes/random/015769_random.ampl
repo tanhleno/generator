@@ -1,0 +1,1 @@
+program ZSA : n7 : takes ze, x, OM : integer returns boolean chillax end H0 : takes e, D : integer; vY : integer array; m : integer returns boolean array Dn : integer; C73, KK1, siy0 : integer; pop 1 = 7 end main : WW, b, FE9 : boolean array; chillax end

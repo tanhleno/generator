@@ -1,0 +1,1 @@
+program K : main : q72 : boolean array; let a4s[- (1) rem false] = array - cBya[14] rem r(92) + I7D0a(5) - 47 + 06 - 2; while 861 and(2) and 0110 : chillax end; pop; input E[- 7]; output "\"%a"; output 0; let c = 04 end

@@ -1,0 +1,1 @@
+program su : main : z : integer; a, x, t : integer array; when case - (202) rem(2) rem not 1 <= not 77 : chillax end case - Je - 83 : chillax end case not 24900 and 0 - 4 - 5 >= - 9 : chillax end end

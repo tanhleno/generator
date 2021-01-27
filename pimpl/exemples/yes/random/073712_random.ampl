@@ -1,0 +1,1 @@
+program g : main : Y, mKka : boolean; t, n : integer array; output "!7"; pop; when case false <= 59 - 5 : chillax end case 1 - 537 >= 6 : let b6 = 4 end case 4 = 54 : output ""; pop end case 93 : chillax end end

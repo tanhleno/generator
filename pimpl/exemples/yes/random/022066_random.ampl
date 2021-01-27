@@ -1,0 +1,1 @@
+program T5j : G : takes OE60, KE : boolean array returns nothing do B(- (3) and 7); output 8 end main : while false / false + true * 0 and 01700 + false and 1 : pop 65 = 1; do t(900, 525) end; do h(- true * (89) and 8) end

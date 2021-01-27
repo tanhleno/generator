@@ -1,0 +1,1 @@
+program U : B8g : takes jJh0a, dB6 : boolean returns nothing Tt4, B, J4 : integer array; wABaa, j, d, nK : boolean array; W : integer; chillax end main : y4, d, p : integer; Ij, M, r : integer; when case not false rem(2) or(5) and(3) >= T6[16] - not 437 : chillax end end

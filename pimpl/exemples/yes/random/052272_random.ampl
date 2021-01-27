@@ -1,0 +1,1 @@
+program q : El : takes U85aa : integer; s : boolean returns nothing chillax end main : let l5[- not not false rem(5)] = true or(9) and 59 <= - not 6 + 4 - 379; while - true rem false and 7 : chillax end end

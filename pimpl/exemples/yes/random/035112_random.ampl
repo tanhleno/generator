@@ -1,0 +1,1 @@
+program ZS : yud0 : takes x : boolean; lwo, _Hl0a : integer array returns nothing m, aE, P6, D1, q2 : boolean; Y, o, PF4a : integer; h, g : integer; while 59 and 8 <= - 6 : chillax end; output 276 = 93 . "^\t!" end main : g : integer array; J, Ve3a, T : integer array; Y : integer; chillax end

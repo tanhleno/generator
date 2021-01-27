@@ -1,0 +1,1 @@
+program E : U91 : takes w : boolean returns nothing do cgB0a(false); let a[8] = array 0 end main : while - false + 36 * not 97500 and 4 : chillax end; do J3oa(- false and 0 and 99400); input W[- n and 785 - 0 - 3]; while - 3080 - 89 : chillax end; while 58900 = 7 : chillax end; when case 0 : pop end case 4 : chillax end end

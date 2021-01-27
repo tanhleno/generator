@@ -1,0 +1,1 @@
+program y : s0b : takes S6 : integer; T, E2, F1, hn, T : integer array returns nothing M, j, j6X0 : integer array; chillax end yH : takes X : boolean returns integer output 2 . 67 . "0" . "" end main : I9 : integer array; chillax end

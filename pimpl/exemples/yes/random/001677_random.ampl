@@ -1,0 +1,1 @@
+program J9 : XL60a : takes hxz0a, a18a, _4v, i, D, c : integer; rv : boolean array returns nothing do g4(not 6); do _(- 1); pop 22700 end main : bb2, KCc : boolean; m, t, oM, w, n : integer array; z, fD6, M2 : boolean array; chillax end

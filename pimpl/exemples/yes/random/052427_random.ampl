@@ -1,0 +1,1 @@
+program Ko : E7 : takes i8paa : integer; R : integer; ok, R : boolean array; T5, iU : integer array; U2 : boolean array; t3 : integer array returns nothing chillax end w1M0 : takes X8 : boolean array returns nothing let s = array - 60; input g60; while 04 : chillax end; when case 0 : chillax end; when case 8 : chillax end; pop end main : chillax end

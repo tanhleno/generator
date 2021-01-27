@@ -1,0 +1,1 @@
+program xW0 : main : _ : integer array; S : integer array; input Z0; when case true or true >= - not 26 or 66 : chillax end case true and 3 or 227 : while 33500 : pop end end; when case T6Y - 3 - 78 >= - 60 : chillax end case - 18 - 5 <= 6 : chillax end case 011 = 2 : do D(0) end case 41 : pop end end

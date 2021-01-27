@@ -1,0 +1,1 @@
+program S : j : takes w6na, t, Z, F : integer array; S, ib50, e : boolean array returns nothing F, T, TM, e2, V : integer; chillax end f : takes f : integer array returns nothing c : integer array; chillax end main : output - false * (0) > Y and 583 . "B\\" . ""; let o11 = - (4820) or 919 < - 6; input X6[j03 and 087]; input x25[57800]; input i75[0] end

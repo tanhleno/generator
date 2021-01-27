@@ -1,0 +1,1 @@
+program Y : d : takes Di, s, O7, yNs0, K3, M, D, M : integer array returns nothing n : boolean array; chillax end c9_ : takes Z : boolean; l4 : boolean array; g, t, y : boolean array; R8a : boolean; fr, t : integer array; f : boolean returns nothing V0A : integer; oP0 : boolean; do r2(8 - 76, 6 = 4) end main : chillax end

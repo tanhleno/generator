@@ -1,0 +1,1 @@
+program L : J : takes y : integer; u0 : boolean returns integer array N, w29aa : boolean; chillax end main : r8Aaa, W, F2 : integer array; pop; when case - W5(1580) or(51) or 4 - 7 <= - (0) : chillax end; output "[" . 0 = 29 . 1; output "" . ""; pop end

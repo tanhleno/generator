@@ -1,0 +1,1 @@
+program x55 : x : takes I : integer array; N7t, f : integer array returns boolean array chillax end main : S : boolean; R4 : integer; when case not true * false rem tL and 8440 + t(7) or 3 = n[052] and true or 9 and 7 or 2 - 5 : chillax end otherwise : let WV[28] = array 8; output 48 . "" end; let s = - (6) or 48 - 30 >= 23900 end

@@ -1,0 +1,1 @@
+program eK : V : takes X53 : boolean returns boolean array do C9(not 2760 - 17 - 51 = 0 - 7) end M : takes g, E4 : integer array returns integer array FHG : integer array; output 67 = 4 end main : Z, e, uP70a, o, J : boolean; rC : integer array; chillax end

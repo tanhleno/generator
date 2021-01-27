@@ -1,0 +1,1 @@
+program BH6a : GRH : takes S, aD : integer returns nothing input D9; input x end I : takes JUFa : integer array returns boolean chillax end q1o0a : takes v : boolean array; Z4 : boolean array; d1v : integer returns nothing when case 0 = 0 : pop end otherwise : pop end end main : chillax end

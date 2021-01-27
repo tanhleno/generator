@@ -1,0 +1,1 @@
+program CU : P : takes d, F8 : boolean; v, lb, N : boolean returns nothing chillax end _1 : takes O1 : boolean; JU : boolean array; q5Y0a, L : integer returns nothing J, wA : integer; chillax end x4Raa : takes R1, g42, eU60, R : boolean array; gn1 : integer array returns nothing chillax end main : chillax end

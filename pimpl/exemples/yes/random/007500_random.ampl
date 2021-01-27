@@ -1,0 +1,1 @@
+program R : LTf : takes Fwj0a, SK8a, h, h : integer array returns boolean while true and 7 or 01400 > - 4 : output "" end; input HRD0a; when case 0410 = 1 : do c3(02); pop end case 2300 : chillax end end main : chillax end

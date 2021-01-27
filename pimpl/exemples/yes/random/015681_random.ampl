@@ -1,0 +1,1 @@
+program e39 : u : takes L, DAZ, K : integer returns boolean array z3, t, t, j60a, W : boolean array; input O59aa[- 8] end w : takes k, t : integer returns nothing W_ : integer; J, I : boolean array; E : boolean; while - 53 : while 23 : chillax end end end main : while - not not(5) /= (3) or not 4 - 1 : let E[- 0 - 84500] = array - 19 end end

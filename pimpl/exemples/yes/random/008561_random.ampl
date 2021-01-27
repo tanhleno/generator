@@ -1,0 +1,1 @@
+program h2 : I : takes P2, DF, ZM8 : boolean; U, R9, IJ : boolean; o, k, E : boolean array returns nothing let e = array 3200 and 60800 or 7 end main : YY30a, l, k, Z9W : boolean; iU, s8 : integer; output not not 474 rem true and 67 + 2 and 58 or 3 - 1 . - g and 433 . "" . 74 = 1 end

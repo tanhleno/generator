@@ -1,0 +1,1 @@
+program K : main : BM, jGf, P, k : integer array; pop true and false /= - Di2 and 38 + 2 - 8; when case - not iX or 5 and 2 + 34 - 31 : while 682 : chillax end; do v1_0(579, 4); while 870 : chillax end; do m(9); pop end end

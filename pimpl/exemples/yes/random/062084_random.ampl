@@ -1,0 +1,1 @@
+program V : Z37 : takes _ : integer returns boolean array let J[- not 24 and 211] = - 5570 /= 5; when case 96 - 4300 > 6 : when case 0 : chillax end; output "" end case 3 = 81 : chillax end case 74 : chillax end end main : iK0aa, d3_a, u32 : integer array; chillax end

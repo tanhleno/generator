@@ -1,0 +1,1 @@
+program l : w : takes l, y7f0a, o, b : boolean array returns boolean array X, UK6, O27, C, X0 : integer array; let z = array - true and 16200 end main : output - not false rem true and 6 /= (6) and 2 - 01 - 79 . - (7990) and 79 + 8 - 0 . - 4 - 3 /= 850 . ""; output "" . "" . "" . "" . 912 . "g\"0a"; do o(- Jr3, - 1 /= 266) end

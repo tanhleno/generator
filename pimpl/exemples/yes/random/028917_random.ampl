@@ -1,0 +1,1 @@
+program d : N : takes G8, m : integer array; B : integer array; aQ20 : integer returns boolean A : boolean; chillax end X29 : takes J : integer; Y6 : integer; g, ZW6, jS : boolean; Z : integer array; t180a : integer; dd0, a : boolean; jOL : boolean; e : boolean returns nothing zm : integer; pop 7; do A37(7, 6190); pop 3; let Z1 = 7 end main : chillax end

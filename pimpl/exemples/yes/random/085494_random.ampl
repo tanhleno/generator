@@ -1,0 +1,1 @@
+program X : main : Q6 : integer array; do A(false and(3) >= not not 008 * 6 and 6, - (78) - (4) and 22600 /= false + 5, (6) > 17); output - not 07 or 23 . "0" . 72 = 4; let s = array - true and 7; do Ml80(- 816 > 1, 1, 913, 58); pop end

@@ -1,0 +1,1 @@
+program Sm9 : R : takes nu, K : boolean array returns boolean when case - false and 797 or 78 : chillax end case 35 : chillax end case 8 = 16 : chillax end case 51200 : pop end; pop end FBA : takes p : integer array; E : integer; dY : boolean array returns integer array f : integer; chillax end main : pop - 201 /= - 7 - 8720 end

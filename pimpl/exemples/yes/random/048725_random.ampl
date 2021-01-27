@@ -1,0 +1,1 @@
+program K : C : takes a : boolean returns nothing qxQ : integer array; do U(- true and 842 /= 9) end main : when case - i and R(083) - false >= (847) or not 124 : chillax end case - (7) or(56200) and 3 : chillax end case - (4) and 59 - 805 <= - 1 : chillax end case 0 : chillax end otherwise : let b = array 2 end end

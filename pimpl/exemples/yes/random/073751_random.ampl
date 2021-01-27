@@ -1,0 +1,1 @@
+program F : main : w1, Z : boolean; W : boolean; o6 : boolean; X, k4B0 : integer; do _(false + 852 and not 6 and 80, - false * false, - not 2400 and 8 - 7 - 48 > - 89); output - 9 and 172; output 68 - 6 end

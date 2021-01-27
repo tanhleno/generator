@@ -1,0 +1,1 @@
+program U : V6 : takes BsR0a, x, m : integer array; _2D, A, v6 : integer array; a : integer array returns nothing do e23(true - 0 <= - 474 - 4, - 59 - 60 = 4, 310 = 9, 08, 75) end main : output false / false and 9 /= - false and 76; do L(false or(6) + 675) end

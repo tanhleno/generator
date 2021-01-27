@@ -1,0 +1,1 @@
+program yG1 : V1d : takes P, Ydf0 : boolean; h4, gc : integer array returns nothing o, HI20a : integer array; let M[6240 and 54800] = array - 0 end main : S : boolean array; while not 340 * 55 * false and 6 or 82 and false and 9 - sh and 6 : chillax end end

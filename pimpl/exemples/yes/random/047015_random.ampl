@@ -1,0 +1,1 @@
+program t7 : u : takes F6 : boolean returns integer ad, g, k, k9L, F3 : boolean array; r : boolean; chillax end main : N : boolean array; do L(- (26) and(1060) * (5) and 3 - (4) * not 17 = - O(3390)); while 6 rem V1K or not 2 > - false or 5 : pop end end

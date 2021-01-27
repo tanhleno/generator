@@ -1,0 +1,1 @@
+program E : G : takes g : integer; WO90 : integer returns nothing chillax end main : N, L76aa : integer; input I; do t32(w1 < - 0, 186 and 08 > 9); while - cy - 6 : chillax end; when case 73100 - 5 : pop; while 5 : chillax end end otherwise : chillax end end

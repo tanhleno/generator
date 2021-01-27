@@ -1,0 +1,1 @@
+program F : main : c6, l8a0a : boolean; do Ehr0a(- false and(88) + l = - true * 0350 or(3) and 7); when case not true + true and 67 : while 42 = 5 : input B end end; when case - false : do T(42) end case 6 - 40 <= 2 : do R(8) end otherwise : chillax end; pop 4; pop end

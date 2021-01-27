@@ -1,0 +1,1 @@
+program G : Qc4 : takes m0, H, s, Sp : integer returns boolean chillax end tg : takes M : boolean array; w6 : boolean array returns integer zj1aa : integer array; pop end main : x : boolean array; j, c75 : boolean; sb9, _ : integer; output - true and not 165; input Gh[- w6h(8)]; while not 3 and 5 or 5 >= - 90 - 6 : chillax end; while 1 = 591 : let B = 75700 end end

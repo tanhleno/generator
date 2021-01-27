@@ -1,0 +1,1 @@
+program j4 : ej5a : takes c : boolean returns boolean array xA30, Z, N5p, nmz : boolean; pop; output ""; when case 9 : when case 69 : chillax end end; when case 9 : chillax end case 7 : chillax end end r : takes M, K : boolean array returns nothing chillax end main : do A(_ * false / not 1 and 62 or rW10a(16) + I and 3, - false); output "" end

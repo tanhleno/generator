@@ -1,0 +1,1 @@
+program N : main : do J6Haa(true rem(9) and E or(07) - not 6570 and 63 > (0) rem true and 1 - 433); input oJe; let Z[- true] = array(7) or 95500; when case 2 - 2 = 134 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Nu : main : r, w, K, N : integer; TK8, M : integer array; x1 : boolean array; W, Y, i9n : boolean array; wA : integer; input UUx; let l[W0(1) * (420) and 3] = array - 1 and j; pop - 18200 - 7; let g[1 - 95] = array - 9; output 7 end

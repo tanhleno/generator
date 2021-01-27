@@ -1,0 +1,1 @@
+program od_0a : hS90a : takes y6Ka : boolean array returns nothing chillax end V : takes Y17aa, l1D0a, y0, e6u : boolean array; yu2 : integer array; vV, d, oq : boolean array; H : boolean array; M5, u, C59 : boolean; g, N : boolean; X1 : boolean returns nothing input M4[3] end main : chillax end

@@ -1,0 +1,1 @@
+program VO70a : m : takes h : integer array returns integer input Q[true and 51 or 1 - 1] end G : takes t, U, v, G : integer returns integer fv : boolean; o5 : integer; k0 : boolean; H : boolean; hb6 : boolean; chillax end main : W23a : integer array; k7 : boolean; cE6, G, k : integer array; y6, q, pJC : boolean; chillax end

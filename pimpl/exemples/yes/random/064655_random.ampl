@@ -1,0 +1,1 @@
+program Cnm : geV0a : takes ky : integer returns nothing g : boolean; do D(false > - 0, 08 = 78) end Uc : takes I, UM, SxD, HM, q : boolean array returns nothing p, j : boolean; no : integer array; do ry(- 7 >= 06, 47 = 0) end main : chillax end

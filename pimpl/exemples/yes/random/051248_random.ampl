@@ -1,0 +1,1 @@
+program HX : J5J : takes J : integer; l, f : integer returns nothing chillax end main : let p[- (1) rem not false + 79 + not 1 and 05 - 659 - 9] = array false * 1 / C and 83100; input X[- 2 / false and 4 or(5500) - 5 - 12] end

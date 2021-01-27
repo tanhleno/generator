@@ -1,0 +1,1 @@
+program u : c6 : takes kVF, v, M : integer array; y : boolean array returns nothing do W9((35) and 1 + 18 - 5 < 0 - 9300) end C6Ua : takes L : integer array returns integer array chillax end main : m45 : boolean; chillax end

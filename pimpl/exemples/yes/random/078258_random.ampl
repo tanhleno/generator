@@ -1,0 +1,1 @@
+program u : main : qa9 : boolean; do J(- Fm5[906] or not 8 rem not 709 and 4 - 3660 - 6 - 7 < - i rem true, - 62); when case - not false : when case 2 : when case 99700 : chillax end; pop end case 975 : chillax end; pop 46 end otherwise : chillax end end

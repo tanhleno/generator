@@ -1,0 +1,1 @@
+program FE : A : takes A : boolean array; d : boolean; M : boolean; z : boolean array; a, o7 : integer array; Xn4a : boolean; d7, Ej : boolean; st9a : boolean returns nothing s : boolean; when case - true - 1 : output "2b" . ""; input _ end; let U5[- 1340 - 37] = 7 = 142 end main : chillax end

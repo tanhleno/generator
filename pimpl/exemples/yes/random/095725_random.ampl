@@ -1,0 +1,1 @@
+program By : main : when case - (73400 = 6) and 057 / not 1 /= (49) * true : chillax end case(5) or fL and 5 >= z and 60 : chillax end; input a[false and false and 5030 + 6 and 22]; when case not 81 and 004 /= - 235 - 2 : chillax end; while - 7 : when case 8 : chillax end end end

@@ -1,0 +1,1 @@
+program S : D : takes p3 : boolean array returns boolean array T1e0a : integer array; chillax end main : while - not false + 7 rem h and 67800 - M6U and 93700 - 06 : chillax end; input l[(3) rem true and 73 - A5] end

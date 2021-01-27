@@ -1,0 +1,1 @@
+program xQ60a : A7M0 : takes z24, Yv, a6Sa, g, W, zU : integer array returns boolean array chillax end j : takes P : integer array; u1ra : boolean; _h6, ZNE : integer array returns nothing chillax end main : k240a : boolean; D, M : integer; chillax end

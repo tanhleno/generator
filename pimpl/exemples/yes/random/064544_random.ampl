@@ -1,0 +1,1 @@
+program QT1 : n : takes QD : integer returns nothing w2g, g : integer; Z, TX : boolean array; chillax end N : takes GB, pH1, j : integer returns nothing Z : integer; do sUba(09, 128) end main : qE, dC, a, F91, E980 : integer array; T4V, h1gaa : boolean; c800 : boolean; chillax end

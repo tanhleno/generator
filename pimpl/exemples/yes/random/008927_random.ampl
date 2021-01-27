@@ -1,0 +1,1 @@
+program X07a : n : takes M270a, Z, r82 : boolean; H, S : integer returns integer array G : integer; W59, kt, Q, x3 : boolean; P6 : boolean; chillax end main : h : boolean; j30a : boolean; chillax end

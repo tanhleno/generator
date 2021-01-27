@@ -1,0 +1,1 @@
+program Z : b : takes NgH : boolean array; gV : boolean returns integer array pop 7 end N6p : takes X, z, w : integer array; Y : boolean array; M, w : boolean array returns nothing chillax end main : eri0, k : boolean; D, BS5, S8 : boolean; U, U, o : integer; _ : boolean array; w1x, c : boolean array; O, d : boolean; h : boolean; ff : boolean; chillax end

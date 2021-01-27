@@ -1,0 +1,1 @@
+program b2 : z : takes Z : boolean array returns integer chillax end main : UJU0a, i, d : integer array; input o; output - 68 . "" . ""; do H(- not 94, 6 - 4); while - 9 - 58 = 42 : let Dm = 1; input fK end end

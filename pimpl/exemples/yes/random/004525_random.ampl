@@ -1,0 +1,1 @@
+program q27 : H : takes uM9, U0U, S, jnI : boolean; ovW0 : boolean array returns boolean array chillax end u : takes d : boolean array; f, i : integer; Y : boolean array; x, u : boolean; BQ9a : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program toQ : I : takes Q : integer returns nothing m : integer array; chillax end cq7 : takes L : boolean returns boolean array R, N : boolean; f : boolean; b, ll : boolean; chillax end main : chillax end

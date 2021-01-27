@@ -1,0 +1,1 @@
+program j : u0X : takes C, nm : integer array; yX7, c : boolean returns boolean array ra5 : integer array; chillax end Y49a : takes Op, L3, r : integer returns boolean array j, NX7a : boolean array; N, g : integer; while - 09 - 3 : chillax end end j4 : takes E : integer; x5m : boolean; _, B, q, G : integer array; H, d : boolean returns nothing input u3; pop end main : chillax end

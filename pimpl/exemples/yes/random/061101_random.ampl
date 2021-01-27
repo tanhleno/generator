@@ -1,0 +1,1 @@
+program P0 : f : takes RP : integer array returns nothing KN : integer array; do j((0) + 99400 - 64500 > 6) end e : takes Vh : integer; sL3, qg2, l, bf, L, rb : integer array returns integer array chillax end L : takes W, t, Un : boolean returns boolean output 0 . "0" . "\"{" end main : chillax end

@@ -1,0 +1,1 @@
+program _7 : main : while 3 * not not 7 = (6210) + 8 : do G(- 47 - 6 /= 9, 7 = 4) end; when case - false rem cA1 and 0 > - L7 + 0 : let M[05] = array 8 end case 5 and 7 /= - 69 - 13 : chillax end case - 49 - 082 <= 0480 : let R = 40 end end

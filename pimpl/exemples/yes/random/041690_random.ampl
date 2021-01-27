@@ -1,0 +1,1 @@
+program l04 : PoG0a : takes i : boolean array returns boolean array i2 : boolean; chillax end main : n : integer; C : integer array; pop - (75) / H and 724; while - not not 0 / true and 2830 or not 33 and 0150 /= true or 3 : while 0 = 33 : chillax end end end

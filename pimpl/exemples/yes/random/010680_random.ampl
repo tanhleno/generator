@@ -1,0 +1,1 @@
+program ZJ : FQ1a : takes iz, N, c : boolean array returns boolean cQGa, _O, X77 : boolean array; c4T, L, J940a : boolean; chillax end Z : takes U, S6j, l, Ec, ak : integer; x8P : boolean array; W, L3, nr : boolean array returns boolean array pop; input X46aa[2] end main : chillax end

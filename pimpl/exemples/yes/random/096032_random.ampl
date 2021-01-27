@@ -1,0 +1,1 @@
+program b : main : when case - f3U0 = - a9h[9] / 0 + (27900) and 08 - 21 : pop 31 end case true /= (46) - 9 - 90 : when case 617 : do P(9) end otherwise : chillax end end otherwise : chillax end; input Z; let W[8 and 1] = array - 3 and 8 end

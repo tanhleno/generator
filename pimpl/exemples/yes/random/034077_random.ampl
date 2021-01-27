@@ -1,0 +1,1 @@
+program o7 : f : takes rWca : boolean; Sm0, p, k : integer array; s : boolean array returns boolean chillax end UK : takes J20 : boolean array returns boolean G0 : integer; input V; while 7 : when case 6040 : chillax end end end main : pop 2 + tQ and 2 end

@@ -1,0 +1,1 @@
+program qD : M : takes dD, T, z5C : boolean array; zX, qO, n, YC : integer array; K, UO, L : integer; W : boolean returns nothing K, L, E, G, XX : boolean; H : boolean array; wn, e : integer; chillax end u83aa : takes GK : boolean array; s, V : boolean array returns nothing output 58 = 78; output 69 end main : R920, H : boolean; JA, g, bT1 : integer; chillax end

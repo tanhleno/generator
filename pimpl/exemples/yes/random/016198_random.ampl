@@ -1,0 +1,1 @@
+program _ : I : takes Ao, n, K3s : integer returns nothing chillax end g3L : takes gr : integer array returns boolean array chillax end Zn9 : takes c : boolean array; vWD, PTu : boolean returns nothing chillax end O : takes b, p25, j6 : boolean; gm0aa, x, fZ : boolean array returns boolean array input D[3] end main : R16 : integer array; O_, e : integer; input Q end

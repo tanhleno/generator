@@ -1,0 +1,1 @@
+program uQ : R : takes T5 : boolean array; G2, n : integer array returns boolean f2da, Rn9, c, G, l : boolean; V, g5, wk, Z : boolean; m : integer array; let u = array - not 614; do r(6 - 3 <= 8, 7 = 68, 3, 8) end main : chillax end

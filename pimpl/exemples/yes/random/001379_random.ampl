@@ -1,0 +1,1 @@
+program G : O : takes M, N, TL1a, jS, ul, A : boolean array returns integer array chillax end v9 : takes O, A, F : integer array returns nothing Qo60, A : integer array; eQS, px : boolean; S, E : boolean; chillax end W : takes xR, S : boolean returns boolean chillax end main : output - not 321 and true + v > - false and 87; while - true + false or 0 >= - not 2 : chillax end end

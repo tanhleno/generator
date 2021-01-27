@@ -1,0 +1,1 @@
+program o : eBL : takes i : boolean array; Q, d, T : integer returns boolean array chillax end g : takes e7, xt : integer array returns nothing output 0 . "`"; input F[380]; when case 88300 : pop end otherwise : chillax end; output ""; do o5Sa(202); pop end main : qO9 : integer array; Iim0a, j : boolean; pop(67) / (849) and 9 < - 098 and 7 end

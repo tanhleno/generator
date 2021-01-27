@@ -1,0 +1,1 @@
+program L : i : takes C : boolean array returns boolean R : boolean; chillax end dv : takes w : boolean; l : integer array returns boolean while - 2060 - 3 >= 57600 : pop end end main : Y, p : integer array; c, Q3, E4, Z, Jl, W4 : integer array; output ""; input gn[- true] end

@@ -1,0 +1,1 @@
+program DeJ : ap : takes A, i, qg : boolean array returns nothing chillax end main : Wkm, P : boolean array; H : integer; input I8; do _(- (6) > false - 3 - 2, - Q5 and 346 < 6 - 1, 65 - 1 /= 90, 4 = 47) end

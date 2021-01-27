@@ -1,0 +1,1 @@
+program dd : P : takes eNPaa : integer; L : boolean returns nothing while 896 and 1 or 695 : chillax end; input D[5 - 3] end main : when case false * 51 >= false : let A91 = 2750 = 8; while 22 = 1 : let W6O0 = 64; pop end; while 85 : chillax end end case o270 : let S[5] = array 81 end end

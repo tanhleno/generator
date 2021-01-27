@@ -1,0 +1,1 @@
+program Bah : D : takes E : integer returns nothing chillax end W : takes B, U, c0 : boolean array returns nothing S, V : boolean; do B4(2960 < 8, 1, 43400); let CZ = array 2360; do T1X(207); let j = 7890 end main : while 8 and t(2) / true and 4 - false : chillax end; pop 8 and 42 or 40 - 1 end

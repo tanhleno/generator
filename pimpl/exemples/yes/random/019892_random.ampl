@@ -1,0 +1,1 @@
+program h0 : wKZ : takes B, Gs : boolean array; a : boolean array; G2 : boolean array returns boolean L : integer; chillax end MC : takes u : boolean array returns integer when case - 25 - 6 = 53 : input Bh7 end; input I end p : takes o : integer; Xz, Fe : boolean returns nothing when case 3 = 0 : chillax end case 1 : pop end end main : a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Qy0 : p9 : takes p : integer array returns nothing output - 73 - 2790 end L : takes jP, q4f, v, h : boolean array; Y, UQ : boolean returns integer chillax end main : a8 : boolean; pop - true or true and 85700; while 7 * zJ40a - ru <= a7 : input l1[3] end end

@@ -1,0 +1,1 @@
+program M7 : o5k0 : takes D, ww4aa : boolean array returns integer array chillax end main : O, T : boolean array; while - (11) rem true / 47 - 1020 * 11 + 7160 or 114 - 292 /= - 2 : chillax end; input v[- (168) or not 776 and 97 or 1] end

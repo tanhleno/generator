@@ -1,0 +1,1 @@
+program DS : a4v0 : takes _ : boolean returns nothing q, G : boolean array; qr9, nv60 : integer; let P = array false or 6; input i[- 28]; output 88 . "p"; pop; input RkH0 end c3n : takes f, V010a : integer returns nothing Zf, S, W80 : integer array; Yi, n, a7Ma : integer; wU90, h : boolean; input J[- 1 - 934] end main : chillax end

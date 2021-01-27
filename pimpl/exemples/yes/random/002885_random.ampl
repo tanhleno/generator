@@ -1,0 +1,1 @@
+program O : I : takes n, w, X5waa, N, n220a : boolean returns boolean array Ki, h080 : integer; E8, WF : integer array; K6F, h5, m : integer array; input z; let Y = array 939 end main : U : boolean array; pop not true * (4) and 2 end

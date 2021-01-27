@@ -1,0 +1,1 @@
+program Y : v : takes p : boolean array returns nothing a : boolean array; Z, x : boolean; chillax end b_ : takes A, P : integer array; F1, Ey : boolean array returns nothing while - 3 : chillax end end main : let vf70a[- 7 or false rem true] = array 4 or not 81 and(206) - z and 6 or 2 - 77 end

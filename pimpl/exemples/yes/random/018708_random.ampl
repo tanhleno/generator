@@ -1,0 +1,1 @@
+program A : D7 : takes o, Z : boolean array; E, a, O, D, A : integer returns nothing B : boolean; z, S1, Uu, L : integer array; du, n, R : boolean; chillax end main : d : boolean array; N, H, X : integer array; D : integer; output "" . - not 28 and 2; while false + qe and 8 - 4 : chillax end end

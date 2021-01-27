@@ -1,0 +1,1 @@
+program S : u : takes E, r4Q0a : boolean array returns boolean array input E3[- not 0 and 2]; output 3 end k : takes C9, mZ, L : boolean returns integer do s2(- 5 - 7 > 4, 7 = 03) end RI : takes n : boolean array; u210 : integer returns boolean do _(2 = 245); while 7 : chillax end end main : lc : boolean; h, O90aa, K : integer; chillax end

@@ -1,0 +1,1 @@
+program Y : P8 : takes w, O4, g : integer array returns integer v : boolean array; chillax end I : takes k : boolean; Y25 : integer returns integer _N : boolean; chillax end main : G : integer; input ZR end

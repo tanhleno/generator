@@ -1,0 +1,1 @@
+program H : main : input g[- 30700]; when case - false * 2 and 78700 : chillax end; when case - true and 1 : input ly end case - 8 - 1 > 9 : output ""; input x8 end otherwise : while 01 : chillax end end; input w[- 5 - 511]; output "" . 445 . "9!" end

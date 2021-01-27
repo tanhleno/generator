@@ -1,0 +1,1 @@
+program x7b : main : do Nu6aa((1 = 65) / 76 = true, true); when case 74 : chillax end case - not 4 + 97 <= - 02 : while 0 : pop end end case 0710 <= 41 : pop; input D; pop end case 69 = 910 : chillax end end

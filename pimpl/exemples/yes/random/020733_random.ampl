@@ -1,0 +1,1 @@
+program K : d : takes CT, H8i : boolean array; f07 : integer returns nothing Ho, s : integer; chillax end d : takes oP, X, V67 : integer returns nothing pop; do Kr(1 = 4690, 306, 1) end main : chillax end

@@ -1,0 +1,1 @@
+program p : main : B, t : boolean; F92aa, e : integer array; Z5r : integer; G69, W : boolean array; do _0(- false or H[3] - 5 and 04 >= - false * (92100) or not 6 and 15, false rem U and 4 - false) end

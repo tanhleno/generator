@@ -1,0 +1,1 @@
+program w4 : main : let a[true] = array true * not true * true - not false / true; do RCu(false * true and 3 /= - false + 31 - 2, false and 6 = - 2); while false + 067 /= 8 - 84 : pop; let v = 18; while 55 : chillax end; pop end; input Vke0a[6 - 7]; output "O" . "" . "" end

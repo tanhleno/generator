@@ -1,0 +1,1 @@
+program S : wS : takes Y : integer array returns boolean array do Y(- i3_) end main : PI, v49a, WV : integer array; kT : boolean array; x : boolean; Z, FC6, G : integer; Z : boolean; N : boolean; chillax end

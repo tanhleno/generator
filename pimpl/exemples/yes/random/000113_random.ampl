@@ -1,0 +1,1 @@
+program G : E : takes i, g, W, r, Cq6aa, E110a, i7Paa, v : boolean array; bn : boolean array; i, L : boolean returns boolean ao, Ji8, M4, a : integer; V430a, V08, r, B : boolean array; chillax end main : AT90, I2R, S2E0a : boolean; chillax end

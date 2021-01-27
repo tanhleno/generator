@@ -1,0 +1,1 @@
+program YTc0 : d70 : takes w34, X9z, _89 : integer array; J : integer array returns nothing do OLWa(true - 43 - 9 /= - 851, - 4 <= 817); input P8Faa end main : g, NVca, I : boolean array; chillax end

@@ -1,0 +1,1 @@
+program a1d : a230a : takes I, I6daa, k9m, x, m : integer array returns boolean array Q, p3C0 : boolean; fpo : boolean array; e1, Z, dj9 : boolean; k9ta : boolean; nM9 : boolean; BP4a : boolean; chillax end main : o : integer; v : integer array; X : boolean; do K(- 0620 - false or 5 and 5 - 3080 - 3, not false / l or false and 29 - 9 - 3 <= false - 4) end

@@ -1,0 +1,1 @@
+program n : D : takes yR : integer returns integer array b850a : integer; output - 38 - 14000; let W = array 5 - 14400 end main : iT, E2 : boolean array; t, KdO : integer; d6t0 : integer array; output "4\"\""; output "" end

@@ -1,0 +1,1 @@
+program U : Q1 : takes y, g_Ea : boolean returns nothing a : integer array; _, N98a, Qa, M69 : boolean array; t4 : integer array; do ti(- 40 or 4 = 3 - 31600, 28 - 609 < 9); while - 2 - 3 : output ""; input h8 end end main : V1 : integer array; zX, xJ : integer array; Q : boolean; do HC((1 = 7) - true / false - true, - true - vW9 and 5 > - b96 and 85 - 70) end

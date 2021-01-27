@@ -1,0 +1,1 @@
+program f : U : takes o, D, c80aa : boolean; B37, P : integer array returns integer array v3, v : boolean; output "3\"0a"; output 7 = 0; pop 8; pop 3 end main : Wr : boolean array; X : boolean array; m8v, b3 : integer; chillax end

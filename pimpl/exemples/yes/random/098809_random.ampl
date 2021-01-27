@@ -1,0 +1,1 @@
+program CU : main : while - 4470 and true * false : do D3(140); do nI(17); let Oh = 4 end; output "" . 6360 = 76 . 86 = 2; when case not 8 /= - 348 : while 93 : chillax end end case - 07 : chillax end end

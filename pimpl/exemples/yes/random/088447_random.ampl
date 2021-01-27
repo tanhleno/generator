@@ -1,0 +1,1 @@
+program E8Wa : main : input V[- (93 = 8) rem false and 889 or u[28] and T and 7 or false and 1 + 110 - 4]; do O(g8(5) rem false and 83 /= not 0 and 31, - not 0 or 5 <= 08700, 327 < 7630, 85 = 667, 28, 5) end

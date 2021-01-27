@@ -1,0 +1,1 @@
+program BnCa : X : takes w : integer array returns nothing c3 : boolean; V : boolean array; a, y, J : boolean; Q2 : boolean; W : boolean; J : boolean; chillax end main : L, RY : integer array; input SK2aa[- 2 + DOw0a[8]] end

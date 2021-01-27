@@ -1,0 +1,1 @@
+program Et : main : T, Qb, Y, Yt4, Z, s, I80 : integer array; do Ps40(false * not(4180) + true - o); do CoX0a(true * (66) and 5 + not 16 and 8 = - false, - S1 + 7, - 40400 - 1 = 753, 292); output 27 . "V"; output 7 = 1 end

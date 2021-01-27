@@ -1,0 +1,1 @@
+program A : w3 : takes i9, Y : boolean; GZ : integer array returns boolean N : boolean array; u : integer; E, TPq0a : boolean array; when case not 2 = 258 : chillax end case - 1 - 19 : input q; input p end case 15 : chillax end otherwise : chillax end; let L34 = array - 3 end h0 : takes i4Ua, x : integer returns integer array chillax end main : chillax end

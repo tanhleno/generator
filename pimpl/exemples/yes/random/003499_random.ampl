@@ -1,0 +1,1 @@
+program q4 : g9C : takes B7, Y, s9, zhU, U71 : integer array; c, I : integer array returns nothing T, X : boolean; p51 : integer array; chillax end n47 : takes e : boolean array returns nothing n : integer array; chillax end main : chillax end

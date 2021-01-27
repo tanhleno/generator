@@ -1,0 +1,1 @@
+program h : HE : takes P : integer returns nothing Z : boolean array; output "\\m" end P : takes c, F : boolean; n : boolean; nT3, m, rOG, w : integer returns nothing A, m : integer; Tf, Hx4, j3 : integer; M32, S5 : boolean; output 927 = 48900 . 0; input C[4]; pop 2 end main : GU, E : integer array; L : boolean array; chillax end

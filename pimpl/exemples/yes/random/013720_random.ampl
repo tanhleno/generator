@@ -1,0 +1,1 @@
+program e1 : aDxa : takes Nj, _, R : integer array; J, y_, N6k0, D : integer array; PGC : integer array returns boolean array input yA[not 265 + 8 - 9] end main : x, b : boolean array; h, U : boolean array; chillax end

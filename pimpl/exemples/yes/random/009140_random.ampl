@@ -1,0 +1,1 @@
+program Q : H3 : takes z, Y, z : boolean; B2 : boolean array returns nothing U4 : integer; while not 78 and 92 - 5 < - 2 : when case 4 : pop end otherwise : chillax end end end main : h2, M, H, g : boolean; b, w : boolean array; T, cW, QC : boolean; o : integer array; gF, _09aa, x : boolean; input X end

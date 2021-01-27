@@ -1,0 +1,1 @@
+program Ct0aa : b1 : takes t : integer array returns boolean array when case - xG and 884 - 4 > - 3 - 03 : while 73 : pop end end otherwise : let Gw = 0; pop; pop end end main : do r4eaa(- (2) /= - 8 rem P6, - (23) * not 99 - Jgm0a > true + 4) end

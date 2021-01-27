@@ -1,0 +1,1 @@
+program k_ : Se : takes o3 : integer returns integer w : boolean; F : integer; l, g, L : boolean; chillax end main : let VxE0[- true] = (3) and not 25000; when case true > - 5 : chillax end otherwise : pop 9; when case 418 : chillax end end; input O[n and 4 or 301 - 93100]; input E[5650 - 61]; while 6 = 89800 : let Pw = 40; pop end end

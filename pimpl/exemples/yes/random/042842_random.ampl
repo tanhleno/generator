@@ -1,0 +1,1 @@
+program gViaa : r2 : takes D : boolean array returns integer array pop - 14 - 8 end main : Ew : integer; e : boolean array; s4, D, b, ZY10a, p : integer array; xWya, U8caa, Hd : boolean array; X, d6, E : boolean; chillax end

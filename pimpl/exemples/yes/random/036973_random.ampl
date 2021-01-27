@@ -1,0 +1,1 @@
+program i48 : e : takes D9R : boolean; R8K : integer array returns integer array chillax end Z : takes o : integer; zFx, y8 : integer array; U : boolean array; Gz7 : integer; Yrr : integer array returns nothing TfE, W, d, S450 : boolean array; chillax end main : pop end

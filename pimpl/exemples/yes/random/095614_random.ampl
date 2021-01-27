@@ -1,0 +1,1 @@
+program B820 : main : when case - (12) and true : when case 461 - 014 : when case 3 : chillax end end case 932 = 95000 : input l; pop end case 6 : chillax end end case - not p = A9 and 10 : input mRpa[407] end case - eO - 9 - 6 : pop; pop; let n61 = 704 end case - 6 : chillax end; pop end

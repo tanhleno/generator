@@ -1,0 +1,1 @@
+program t : Ab9 : takes Y : integer; g2f0, c : boolean array returns integer chillax end lj : takes J, ej8 : boolean array returns nothing let j[- 4 - 38] = array - 6 end main : l : boolean; chillax end

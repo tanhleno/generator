@@ -1,0 +1,1 @@
+program d7 : m79 : takes f, cEQ0, m, j06 : boolean; k : integer array returns nothing chillax end d820 : takes Et30a, m, S, D : integer array; w : boolean array returns integer array while 002 - 826 : chillax end; pop; when case 2 : pop end case 304 : chillax end otherwise : chillax end end main : J : integer; chillax end

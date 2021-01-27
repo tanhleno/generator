@@ -1,0 +1,1 @@
+program B0 : main : CF, o7b, L : integer; let rg[true / ps5[325] rem(859) + not hd] = array true; when case false and false and 226 = J5 - 9 : input y3; let M370 = 2 end otherwise : while 5 : pop end; pop end end

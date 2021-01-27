@@ -1,0 +1,1 @@
+program z : t6 : takes e : boolean array; Dw, rtz : integer array; p : integer returns nothing F, ZC0a : boolean; U, S1, g2, li : boolean array; while - 8 <= - 96 - 0970 : let u[1240] = array 55; output "o" end end main : chillax end

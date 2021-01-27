@@ -1,0 +1,1 @@
+program tp : t : takes Ms9, NECa : integer array returns nothing h5, B26, u : boolean; hp80 : integer; e : boolean array; tg, W320a : boolean; chillax end Y : takes I : boolean array returns boolean array chillax end main : let kk = array - 90400 and(65) end

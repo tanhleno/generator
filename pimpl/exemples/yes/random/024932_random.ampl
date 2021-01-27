@@ -1,0 +1,1 @@
+program q8 : E4 : takes l, v : integer; W8, M, l2, r9, P3, R5 : boolean returns nothing rG, h9, r, bA90a, F : boolean; KYe : boolean; s9 : integer; Ap : boolean; J : boolean; let Aw[- (2)] = array - (0) end main : input t[- E2[9]] end

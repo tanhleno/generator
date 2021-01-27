@@ -1,0 +1,1 @@
+program u : Y : takes H1, W5 : boolean; _ : integer; iq5aa : boolean array returns nothing m, L : boolean array; J9 : boolean array; ED : boolean array; X6 : boolean; R : boolean; do b(0970 - 94 - 8 = - 944, - 9 - 8); let X = 13 = 7; do c(9 = 87400) end T : takes oPsa, nzza : boolean array; Joua, I, O2, S : integer returns integer pop 5 end main : chillax end

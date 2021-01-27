@@ -1,0 +1,1 @@
+program D74aa : Ce : takes _z, xy, m, X76aa, j, Ae : boolean; Ia, pe : integer returns nothing let y8Jaa[true] = - 1 - 406 <= 179 end main : z : integer array; when case 627 <= - true - true or 47200 - 0 : pop end case not true = (2) and 96 : pop 8 end; input R2[(75) * true]; pop 96 - 5 end

@@ -1,0 +1,1 @@
+program j : main : pop - y[4720] or Ah0a /= - 681 and 12; output P3 and 1 . - 889 - 6 > 54; while 25 and 50 + 41000 : do u(6) end; when case 1 : when case 405 : chillax end end otherwise : chillax end; output "\\" end

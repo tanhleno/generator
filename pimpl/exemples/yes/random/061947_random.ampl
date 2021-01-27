@@ -1,0 +1,1 @@
+program L4 : I68 : takes P : integer returns boolean array q8ba : boolean array; do CC(Y, 0, 1 = 34); when case - 2 : while 591 : chillax end end case 74 = 1 : chillax end otherwise : chillax end; input DM end main : OW : boolean; chillax end

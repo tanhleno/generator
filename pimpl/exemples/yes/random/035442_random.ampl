@@ -1,0 +1,1 @@
+program P : E : takes X8jaa : boolean; E : boolean; B4, h : integer array returns nothing chillax end W0 : takes N6 : integer returns nothing t, M, e : integer array; w, EK4 : integer; chillax end main : pUL0 : boolean; Lu2, y170a, q8, YI, G, k : integer; while(1) or true : chillax end; do oA(- (22) and false > - (31) and 1); input V0x[- false and 98 + 3 - 4] end

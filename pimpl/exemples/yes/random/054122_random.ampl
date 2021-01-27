@@ -1,0 +1,1 @@
+program D : l6 : takes NX : integer array; A, I0, d : integer; Pg, M, i_0, Q8V0a : integer array returns nothing let H = 45 - 0; while 6 : when case 95 : chillax end; when case 3 : chillax end; pop end; input q1 end main : chillax end

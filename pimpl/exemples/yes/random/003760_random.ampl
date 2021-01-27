@@ -1,0 +1,1 @@
+program i47a : u : takes A, lUP, W, Y, A : integer array returns integer chillax end E : takes s30 : integer returns integer array r61a, kWy : boolean; WF : boolean array; n610a, uM : boolean; C77 : boolean; chillax end main : chillax end

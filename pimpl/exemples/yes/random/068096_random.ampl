@@ -1,0 +1,1 @@
+program fP : main : e8, X, T, z2, s87, P, S : integer; do s(false / false + true * not 43400 - p and 3 <= true * false and 197 or(8) + 95 - 5, - true and not 2 + not 4 and 97 - 7 - 60000, - (16) and 9) end

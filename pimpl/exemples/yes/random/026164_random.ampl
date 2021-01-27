@@ -1,0 +1,1 @@
+program f : cJ : takes jx, A4 : integer; n : boolean array; Z50, K : integer array; K : integer; UC, oh : boolean array returns boolean array input IO5; when case - 216 - 60 <= 75 : chillax end case 5 : chillax end case 23 : pop end; while 7 : chillax end; input M; output "\ne" end main : chillax end

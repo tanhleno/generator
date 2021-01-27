@@ -1,0 +1,1 @@
+program _2d : C : takes Bj, U, Q, b51aa, b6 : boolean returns nothing X7, _6 : boolean; chillax end o : takes j8, _vca, U : boolean array returns nothing Sg5, z : boolean; a : boolean; d0 : boolean; zo20 : boolean; when case - 30100 : do M(37); pop; pop end end main : pop; pop; input R9 end

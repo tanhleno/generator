@@ -1,0 +1,1 @@
+program u : f : takes OJ : integer returns nothing r, C6S, w1Q, g9 : boolean array; j500, Q, _, g : boolean; input pfd[- 17 + 63 - 3] end f : takes g : boolean array returns boolean array U52 : integer array; chillax end h : takes b0 : integer; tA : boolean returns boolean au30 : boolean; H, f : boolean; chillax end main : Kuz : boolean; chillax end

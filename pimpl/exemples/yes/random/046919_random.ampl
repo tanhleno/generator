@@ -1,0 +1,1 @@
+program os : v : takes r2w : boolean returns integer chillax end S : takes z3V : boolean array; k4 : integer; Q3, g, S, J, W1u0 : boolean array; g1, Q7 : integer returns nothing x, C400a, w4, c : integer; chillax end main : do Myo(- d9(8, 86) rem 80 > - true + not 0360) end

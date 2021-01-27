@@ -1,0 +1,1 @@
+program M : O1 : takes h : integer array; F9 : integer array; U9b0, e0p, V, h, N, uf : boolean array returns integer array when case - false >= 04 - 8 : let g[0] = array 175 end; output 5 . 3 . 2 . "g\"" end main : chillax end

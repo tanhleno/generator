@@ -1,0 +1,1 @@
+program h : main : when case 5 * false < - false * not 86 : do qR1(4 - 736 /= 718, 368 = 668); do W70aa(70); while 600 : chillax end end case(5) * kw2 : do ye8(40); do Po(1, 8) end otherwise : chillax end; while - true or true and 63 or 48 - 8680 < - (9) and 4810 or 2 - 1 : chillax end end

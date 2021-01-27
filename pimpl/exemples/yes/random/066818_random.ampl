@@ -1,0 +1,1 @@
+program P : main : do P(- true - (1) / 87 and 14 or not 77 and 3180 - 5 < - not false / c0 and 9 or true + 62900, - (30800) >= not 4, - (54300) /= 3); when case not true : chillax end case - false : chillax end case - 02 - 19 : chillax end case 2940 : chillax end end

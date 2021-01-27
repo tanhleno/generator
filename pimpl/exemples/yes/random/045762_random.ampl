@@ -1,0 +1,1 @@
+program P : wMda : takes B : boolean returns boolean array input i; pop 50 end main : I : boolean; when case false <= - not Y : input x[13 - 11] end case - 5 and true and 58 > - P - 3040 : let dlP[8] = 1 end end

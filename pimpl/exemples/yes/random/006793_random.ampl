@@ -1,0 +1,1 @@
+program L5 : R450 : takes _, s, jL40a, y : integer; I5i : integer returns nothing R : boolean; chillax end main : d71, OK1aa : integer array; p8 : boolean array; L : boolean; when case true * false and not 69 + true rem O - B /= - z[9] / T and 89 + MN and 32 - 2 - 60 : pop 216 end case false : pop; pop; do g(94); pop; pop end otherwise : output "" end end

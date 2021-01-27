@@ -1,0 +1,1 @@
+program pk : dr : takes q : boolean returns nothing fsu, iQOaa : integer; ac, B, C060, oZ : integer array; pop 61 - 0 >= 5; let a6 = array - 422 - 1; when case 97 : let L160 = 913; pop end otherwise : pop end; let j = 180 end main : V, AnU0a : integer; chillax end

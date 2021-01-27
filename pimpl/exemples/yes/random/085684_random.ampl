@@ -1,0 +1,1 @@
+program fm : main : Z : integer array; X, CHv, i, v5 : boolean array; J : boolean array; US, p1, Y : integer array; c, v, Om : boolean array; while - Po[6] * not true and false - 52400 * not 0 + not 17600 and 817 or 2 : chillax end; input K60[7 or r]; input e7m0 end

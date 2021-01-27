@@ -1,0 +1,1 @@
+program e7 : main : let s[- false or(06) * false and 9 or not 13600] = array - not not 0 and ZxAaa[54] or(37200) rem TD80a and 7; let s[- r(34) * false and 9800 - 42 or 39] = array - false rem N - false and 79; let E2qaa[98 and 2] = - 09 <= 64; let x70[80] = array - 94800 - 50200; input l3[0]; output 5220; do o(0); input p; pop end

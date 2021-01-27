@@ -1,0 +1,1 @@
+program L : Q9 : takes JW, J, s, B, F : integer returns integer array o : integer array; do d(- Q and 33 - 8 - 2520 > 5) end main : pop - (4) rem(2) + _17; let Y[- true - not 5 and 07200 or 19 - 91] = array - true + 8 and 9 - 8 end

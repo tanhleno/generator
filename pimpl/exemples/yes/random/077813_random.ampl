@@ -1,0 +1,1 @@
+program c : main : Mu, bO4 : integer array; B : integer array; when case - false / (8) + true + Jw > not 4 / (02) and 84 - true and 856 + 944 - 88700 : chillax end otherwise : when case 92 : chillax end case 0 : chillax end case 82 : chillax end otherwise : pop end end end

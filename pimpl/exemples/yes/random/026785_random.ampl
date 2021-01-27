@@ -1,0 +1,1 @@
+program r : T : takes W, C : integer; RT : integer array returns integer chillax end y : takes r, K, D : boolean array returns integer array y : integer; chillax end main : let c[82] = 245 rem not 57 or true and 1760 + 1; when case - false or false /= po or 32 : chillax end; pop - 8 - 3 < 9; let dJ[5] = array - 1 - 613; do p2(50200) end

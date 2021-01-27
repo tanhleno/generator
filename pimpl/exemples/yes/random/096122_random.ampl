@@ -1,0 +1,1 @@
+program lYza : main : when case - v or D8l(3) < - true or not 1 : let A[3] = array 5 - 0; output "" . 8 end case - 26300 - 85 and 04 - 61 : when case 201 : chillax end otherwise : chillax end end case - C : input Iz2; input rM0; when case 268 : chillax end; pop end; input k; let h_o[true and 8 + 39 - 96] = array - 23 or 227 - 701 end

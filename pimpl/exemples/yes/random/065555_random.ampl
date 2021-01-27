@@ -1,0 +1,1 @@
+program a : a : takes N : integer returns nothing while - true and 9 : chillax end; when case 94 - 1 : chillax end case 9 = 82 : when case 7 : chillax end; pop end case 87800 : pop end case 15 : chillax end otherwise : pop; pop end end main : chillax end

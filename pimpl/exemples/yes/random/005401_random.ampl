@@ -1,0 +1,1 @@
+program o : v : takes oV2, C5, g0, Dk9aa : boolean array returns integer array chillax end main : when case false * (2) / 49 and 5 + 384 and(6) and 4 - true = not 6 and 2 and 6 : input K; let eWb[3] = array 1; do _(0, 1); input m9 end otherwise : chillax end; output "" . - 4900 - 11 . 53 . "" end

@@ -1,0 +1,1 @@
+program o : m : takes Sx : integer array; M, V, Y, DBsa : boolean array returns nothing input f end d : takes g, Y, GV : integer array; u65 : boolean returns nothing f01, M : boolean; b : integer array; chillax end w : takes ik, EW : boolean; k, r : integer returns nothing vC1, s, k : boolean; pop 64; do e(9) end main : chillax end

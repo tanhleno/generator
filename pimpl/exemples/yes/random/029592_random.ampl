@@ -1,0 +1,1 @@
+program H : g8 : takes s, I : integer array returns boolean W61 : integer array; chillax end main : while true + false or false : when case - 5 - 52 : chillax end case 87 : chillax end case 3 : pop end; do C6Q0a(21 = 6); when case 0 : chillax end case 2 : chillax end end; input f[6 and false + true and 8 - 25] end

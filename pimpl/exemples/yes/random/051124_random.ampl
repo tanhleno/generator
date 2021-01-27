@@ -1,0 +1,1 @@
+program Y : Y3 : takes I : integer; F, F : integer array returns nothing chillax end main : while not false + false /= 3 and(1) : while - 89 - 3 > 7 : pop; input x end; let _C = 73; output 7 . "8" end; do E2(- 1 + 4 + 6 - 73); while 9 + 78900 : chillax end; while 0 : output "1" end; when case 19 : input N3; pop end case 2 : chillax end; pop 24 end

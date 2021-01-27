@@ -1,0 +1,1 @@
+program s4 : n : takes q, Xh : boolean array; O : integer array; g : integer returns integer m, bX, wb, J3Q, UI : boolean array; output - 947 . 528 = 03400 end iuh0 : takes B : integer returns nothing X3t0a, I, J : integer; I64 : integer array; chillax end main : input wfp0 end

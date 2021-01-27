@@ -1,0 +1,1 @@
+program W0 : g : takes j, x35a : boolean array; A1, Ab40a : boolean returns nothing chillax end g : takes u : boolean; V91, s : integer array returns integer array input g[94800] end main : chillax end

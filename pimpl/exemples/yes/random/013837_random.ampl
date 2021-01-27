@@ -1,0 +1,1 @@
+program q : H : takes y, _, z88 : integer array; TwO, hj, g : integer array; x : integer array; T : boolean array; N, tA, No, i5naa : integer returns nothing n : integer; while - not 302 and 5 <= - 4 - 6 : chillax end end Ex8 : takes C, u1, I, D : integer array; X, q0, i : integer returns boolean m : integer; chillax end main : eB : integer; chillax end

@@ -1,0 +1,1 @@
+program B : l : takes GOT : integer array returns nothing output "=" . "" end main : r1 : integer array; V, VPF : boolean array; do g(- t / d2 - not false); pop - false and 9 >= 6 - 3000; pop; input K[- 9 - 8]; input i_j end

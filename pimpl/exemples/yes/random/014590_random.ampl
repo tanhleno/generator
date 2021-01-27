@@ -1,0 +1,1 @@
+program K : rOs : takes j0, a2, U6 : integer array; f : integer returns integer array when case(6) - 223 >= - 9 - 4 : chillax end case - 76 >= 67 : do p0s(4); while 3 : chillax end end case 738 = 533 : chillax end case 1 : pop end end main : B, Hz, P5, y : boolean; input CE end

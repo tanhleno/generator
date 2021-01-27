@@ -1,0 +1,1 @@
+program O : Nd8 : takes d3 : boolean; V, AE, o, a, C9 : integer array; dl : integer; It00 : boolean returns integer _5, a, h2h, h : integer array; wVW, T, s20 : boolean; output - 7 >= 02 . 3 = 1; while - 3 - 900 < 9 : input Nf; while 85800 : chillax end; pop end end main : chillax end

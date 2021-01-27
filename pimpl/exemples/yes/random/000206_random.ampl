@@ -1,0 +1,1 @@
+program Z : i2Aaa : takes l, D, o, p, e, A, Y, gj0aa : boolean array returns nothing d : boolean array; rq : boolean array; chillax end main : o : boolean; M, tU70 : integer; when case not not true > false : chillax end otherwise : chillax end; output "~(a" . "t\\" end

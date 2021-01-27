@@ -1,0 +1,1 @@
+program J : Tg : takes rD, j, pTXaa : boolean returns integer array V : integer array; output "" . 79 = 6 . "c|" . ""; while - 045 : chillax end; while 7700 : chillax end; input Z65[33]; pop; when case 7 : chillax end; pop end main : chillax end

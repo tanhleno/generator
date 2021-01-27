@@ -1,0 +1,1 @@
+program _ : l : takes c320a, e_y, h : integer array; w, S : boolean; k, U37, T, ZQ : boolean array; T : integer; c : boolean array; B : boolean returns nothing pop - 43200 - 151 <= 8 end R : takes Cr1 : integer array returns nothing _ : boolean array; when case 35400 /= 9 : chillax end case 62 : chillax end end main : chillax end

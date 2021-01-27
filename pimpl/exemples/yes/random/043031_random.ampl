@@ -1,0 +1,1 @@
+program D : b : takes U : boolean array returns integer do _(not 713 and 1 + 374 - 8, - 4 - 84400, 511, 36, 3); do Y(- 063 - 3 > 2210) end D : takes R : integer array returns integer pop; let A[0] = array 0; let P48a = array 14; do Y(03) end S : takes Y0F : boolean returns nothing let q[0] = 1; do _(5) end main : d, M52a : boolean; pop; output "F1" end

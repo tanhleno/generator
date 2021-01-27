@@ -1,0 +1,1 @@
+program P : Xc70a : takes m0W : integer array returns nothing chillax end fi : takes dTt0 : integer array; E6, h : integer array returns integer e0, O, Gk, CKja : boolean array; bk, n, jB90a : integer array; pop 4; while 89 = 0 : while 7 : chillax end; pop end; while 5110 : chillax end; output ""; do K(8) end main : L3, j0w : integer; let o = (4) * false and 4 end

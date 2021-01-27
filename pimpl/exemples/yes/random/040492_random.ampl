@@ -1,0 +1,1 @@
+program jj2aa : i : takes ZC6 : boolean array; Sh : integer; w, i, axN0, c : boolean array returns integer let A = 942 - 05800 <= 0; output ""; input TF[1]; pop 89; let bY20 = 7 end LwKa : takes c : boolean; N : integer; D5 : boolean; yk : boolean returns integer input H9; output 393; do Z(75) end main : n, a, a, w : boolean array; do P(- 0 + not true * 883 + (5) and 9) end

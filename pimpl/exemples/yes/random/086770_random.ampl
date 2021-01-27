@@ -1,0 +1,1 @@
+program h30 : main : Q : integer array; i : integer; while - (5 = 012) rem J(204) or 97 = - vx9a[5220] : let lQ7[- 5] = 33; when case 1 = 1 : while 2 : chillax end; pop end otherwise : pop end; let j7L0 = array 9; while 34200 : chillax end; output "!:"; pop end; when case - not not 8 and(76300) - true and 51 < false or 73 : output 3 end end

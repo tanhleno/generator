@@ -1,0 +1,1 @@
+program f : Q1 : takes Q, O, X, yym : integer array returns integer while true and 5 - 2 - 77300 : chillax end; while 73 = 668 : when case 7 : chillax end; pop end end main : pop(3750) - not 67 or 5 - 4 end

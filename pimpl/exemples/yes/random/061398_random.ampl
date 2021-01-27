@@ -1,0 +1,1 @@
+program M5 : Z : takes T : integer array returns nothing output "{3" . ""; when case 12 : do J(07); output ""; pop end case 73 : do A(8) end otherwise : when case 7 : chillax end; pop end end main : chillax end

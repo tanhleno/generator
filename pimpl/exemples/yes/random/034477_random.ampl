@@ -1,0 +1,1 @@
+program u : z8 : takes Z : boolean; I, s : boolean array; h : integer array returns integer array Q9Ja : boolean array; P3R, S9, j5g, K7 : integer; do p(- not 6 and 5 - 49 - 2 /= - 4) end main : when case(11500 = 2) or 3 : chillax end case X >= - (1) or 12 - 99 : do j8A0(4) end otherwise : chillax end end

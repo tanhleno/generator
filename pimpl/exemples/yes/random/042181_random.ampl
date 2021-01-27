@@ -1,0 +1,1 @@
+program q25aa : r12 : takes P8m : boolean array returns boolean t : boolean; h, I8 : boolean array; chillax end q : takes T6R : integer array returns integer array ju, y, T8, K5 : integer array; p2 : integer; when case - 1 > 0 : chillax end case 60 = 1 : chillax end case 5 : chillax end case 176 : chillax end end main : N, VSB : boolean; Z3 : integer; a1 : integer; input FyY0 end

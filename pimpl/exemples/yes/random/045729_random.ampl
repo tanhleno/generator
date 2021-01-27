@@ -1,0 +1,1 @@
+program C : d480 : takes h1 : boolean returns boolean array DS : integer; CD3 : integer; YF, M4 : boolean array; F, i : boolean; m : boolean; input e[- (258) and 19] end main : while - false + 52500 + kt or 2420 - 31100 : chillax end; input jI[not(72) / (11) and 7] end

@@ -1,0 +1,1 @@
+program PH : main : k : integer array; ab, rA60 : boolean; e06, B, N, d, sRYaa : integer array; q2 : boolean; output "\\1"; output - not 349 and 37 > - 2 . ""; do I(- 42 and 30 - 0480 = - 250, - 4 - 9950 <= 2, 5 = 8, 307, 4) end

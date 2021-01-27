@@ -1,0 +1,1 @@
+program D : D : takes K4, Y9 : integer array; P : boolean array returns nothing f48, UL, R, S510a : boolean array; chillax end EF : takes M, mR, l12, O, Q, m : boolean returns boolean A46, L : boolean array; chillax end main : pop; when case - false /= (07) or 1 - 00 : chillax end case true < 6 : chillax end case 263 - 70 = 225 : when case 6 : chillax end end end

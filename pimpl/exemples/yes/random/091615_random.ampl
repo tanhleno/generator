@@ -1,0 +1,1 @@
+program FQ : main : let n[0 and S[58] or 2 + false or 1 - 3] = - 580 or(08900) and 18 <= - (74) and 90 - 6 - 71; when case - not false / false and 9 : chillax end case - 8 /= - 17 : when case 0 : chillax end otherwise : chillax end; when case 4 : chillax end; pop end otherwise : chillax end; do i1n(- false - 6590 - 9) end

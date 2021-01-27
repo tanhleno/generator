@@ -1,0 +1,1 @@
+program IQ4 : f : takes B, P, ZD3, j, E6, h, t9, d6 : boolean array; u0c0a : integer array; geQ0a, EL3 : integer array; g8ga : boolean; CoNa : integer; Hx, a, G0 : boolean returns integer chillax end main : chillax end

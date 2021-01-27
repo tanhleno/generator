@@ -1,0 +1,1 @@
+program q8 : d : takes ke, I, o : boolean returns nothing output - 8 - 7 > 3 . "" . 1; do C4(- 0260 /= 3); output "" . "70"; do g(1, 2); let b = 74 end TbI : takes b : boolean; t : integer array; C1U : integer; S, E, fm, i1 : boolean array returns nothing N, uN2a : boolean array; k_E0 : boolean array; QM5 : boolean; DM : boolean; chillax end main : chillax end

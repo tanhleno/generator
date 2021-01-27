@@ -1,0 +1,1 @@
+program s7 : main : M, HAG : integer; E, R : integer array; uV : boolean array; c : integer array; q, M : integer array; g8Y, d : boolean; F : boolean; G : boolean; do h(- (6) * true < (7) or true and 96); when case - true * false and 60 : while 5 : let g24aa = 7 end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program d : q90a : takes o8, Q, A7faa, X : integer array returns nothing i, nVxaa : integer; j, t86, zL : integer; P0Ca : boolean array; zN : boolean; chillax end f : takes K, i7Kaa, P : integer array returns nothing E, P, N1 : boolean; chillax end main : do vl(48 - true); let t8 = array not(14000) * (9) and 105; while true and 7 : chillax end; while - 1 >= 549 : chillax end end

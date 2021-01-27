@@ -1,0 +1,1 @@
+program p : main : when case false - (1) and 09 = 4 + (0) and 4 : let D[19 - 91500] = array - 81 - 41; while 2 : input j end end; let eh = array true / not 6 - (7040) - 8 - 4; do p(W and 23 - 38 = 4 - 35400, 204 /= 7); output 66 . 5 . "``a"; input C end

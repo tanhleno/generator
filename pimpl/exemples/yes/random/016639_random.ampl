@@ -1,0 +1,1 @@
+program Nu : g : takes c, y4 : boolean; u0, w, c, m2, c3vaa, X, dx : boolean; uI : integer; P0T : boolean returns integer m, J920a : integer array; p : boolean; while(6180) <= - 044 : while 6 : pop end; pop end; let M[599 - 922] = 0 end main : chillax end

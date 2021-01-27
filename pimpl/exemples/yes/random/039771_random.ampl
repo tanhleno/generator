@@ -1,0 +1,1 @@
+program v : C : takes RH : boolean array; i5Da : boolean array; Q9, jcs, yd6 : boolean array returns boolean array B, LVW, d2 : integer; nE : integer; while - false /= 07 : chillax end end main : chillax end

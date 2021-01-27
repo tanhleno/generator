@@ -1,0 +1,1 @@
+program Ht : pO : takes c, oW : integer returns integer array input L[not 0 and 792] end z : takes rlx, c, K8 : boolean array; T5 : boolean array returns nothing when case - 33 : chillax end otherwise : while 1 : chillax end; pop end end main : Y, G3x0, i : integer; f, D, R, Gf : integer; chillax end

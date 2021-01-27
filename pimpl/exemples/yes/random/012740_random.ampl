@@ -1,0 +1,1 @@
+program v07a : pFd : takes hL, R, oi00a : integer; n5taa, B1xa, y9 : integer; bKda, KN : boolean returns boolean array Z : integer; chillax end main : o, G, Y, I0_0a : integer; x98, G27, C7E : boolean; chillax end

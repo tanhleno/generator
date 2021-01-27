@@ -1,0 +1,1 @@
+program A : GG : takes ri40a, h : integer; c, q, y, iE : integer array; e5, L : boolean returns nothing wP, s, M : integer; pop; input q[4]; let B09 = array 685 end main : z : integer; E, g, PZ, Cj, E : boolean array; p, m3, H : integer array; input ifI0a[- true]; while(6) + 494 and 498 >= 33 and 93 - 68 - 75 : chillax end; do n(- true) end

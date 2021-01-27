@@ -1,0 +1,1 @@
+program g : z46 : takes s_, U4 : integer returns nothing v840 : boolean array; while - true + 316 - 26 : input F49a[0]; when case 0 : chillax end; input P; pop end end f : takes HN60a : integer array returns boolean chillax end X : takes C : boolean; r3 : integer; g : boolean returns integer output "HV0" . "3I\"a" end main : chillax end

@@ -1,0 +1,1 @@
+program WU : o : takes Za5, KN : boolean array; G : boolean; k, f : integer array; O1M0, a, p2 : boolean array returns nothing chillax end main : rvWaa, Zs2 : integer array; do c((228 = 048) or true); output false and 22500 . - 9; pop; output "" . "" end

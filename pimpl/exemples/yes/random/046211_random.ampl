@@ -1,0 +1,1 @@
+program E : rl : takes I : boolean returns boolean O7 : boolean array; chillax end main : B : boolean array; h, X8, N, c4 : boolean; I, E5, cBMa : boolean array; output "" . "'" . - 20 < 47; do AC(not(3) or 204 and 3); when case - wL - 344 - 7420 /= - 70 : chillax end; let Pkvaa[- 92] = 21 = 669 end

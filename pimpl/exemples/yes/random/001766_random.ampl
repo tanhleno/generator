@@ -1,0 +1,1 @@
+program _1 : Wz : takes F0Ia, d0, a, g, P, b : integer array; D8Saa, v : boolean; H : boolean; Cr : boolean array; M, Qxj, Q31, G : boolean; yl : integer array returns nothing let V[- false and 55 or 5] = array not 5 and 5 end main : h, Wm : boolean array; chillax end

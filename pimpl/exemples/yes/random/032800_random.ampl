@@ -1,0 +1,1 @@
+program BU : _2w0a : takes d, J : integer returns nothing Z : boolean array; QUH, K, I, P9 : integer array; Q0, E6 : integer; o : boolean; x : boolean; let QuB[- X] = - 5530; while 3 - 72 : input ZqA0a end; while 40 = 2 : chillax end; input u9J0 end main : pop; while - (5) : chillax end end

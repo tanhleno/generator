@@ -1,0 +1,1 @@
+program s6 : v7W0a : takes I, M, UBy0, V, r, VP : integer array returns nothing chillax end HV : takes p2, K, d, yHx0, I, Q2V, D : integer array; w7, o9L0a : boolean returns nothing output 6910 end main : r9, l : integer; zO6 : integer; chillax end

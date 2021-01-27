@@ -1,0 +1,1 @@
+program y : mr : takes T_La : integer returns nothing input I[- not 5 and 9670 + 9 - 13]; while - 61 <= 89 : chillax end end main : M : integer array; r, _9na, j : boolean array; bUY : integer array; chillax end

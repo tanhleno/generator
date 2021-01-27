@@ -1,0 +1,1 @@
+program K : pO : takes b : integer returns nothing chillax end kY : takes R, L610a : integer array returns nothing chillax end main : H8, R1 : boolean; A, X : integer array; Q, n, cH7, J : boolean; o5 : boolean array; output not false / jco0a - 6 and 61 = true end

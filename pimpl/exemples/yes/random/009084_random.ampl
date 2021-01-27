@@ -1,0 +1,1 @@
+program h : M6ta : takes W, p3b, R : boolean; z : boolean array; E : integer array returns nothing pop 33 - 3 end dcp : takes VwG0, T16 : boolean array; f, a, _, cpG : boolean array; RE2a : integer; R17, x6d : boolean array returns integer array chillax end ht : takes N5 : integer array returns nothing let l1 = 15; input T[06100] end main : chillax end

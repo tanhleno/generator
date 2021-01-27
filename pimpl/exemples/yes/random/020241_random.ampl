@@ -1,0 +1,1 @@
+program z : y3X0a : takes a, y : boolean array; w : integer; qT, m, V : boolean; D : integer array returns boolean array Fq9 : boolean array; pop 51 /= 870; do o3V0(804 - 2, 05 = 02, 4, 91200); input dq[2] end main : chillax end

@@ -1,0 +1,1 @@
+program b6 : f7h0a : takes D, t : boolean array; x45 : boolean array returns integer Bf0, Q, w : integer array; input DX[- Y_70a - 5 - 300]; while 7 - 1040 > 73 : while 7590 : chillax end end; let C = array 5210 end main : x, OU : boolean; q : integer array; rz, e, J, j, j : integer array; o, VL : integer array; Q, q : boolean; do XrXa(- not(9) and false) end

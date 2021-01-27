@@ -1,0 +1,1 @@
+program Y1 : Y : takes F, J5 : boolean array; T690a, taea : integer array; nz2a, U : integer; nh, T : integer returns integer when case(3) and 9 >= - 69100 : while 4 : chillax end; let u = 6; output "" end case - 1 - 6740 /= 83900 : input K5; while 3 : chillax end end otherwise : chillax end end main : chillax end

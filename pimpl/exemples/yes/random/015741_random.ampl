@@ -1,0 +1,1 @@
+program ke : L6Jaa : takes _73, A, c : integer returns boolean array let H = - 1 - 0 = 9 end main : x, af, w : integer; a : integer array; pop l * N and 8; let J4[- true and not 5 + true or 070] = - false - 3 /= 05 - 9 end

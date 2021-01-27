@@ -1,0 +1,1 @@
+program J770 : s : takes K : integer array returns boolean qf, o4, n : integer; g, eT, OZJ, Xl : boolean; uC : boolean array; K, G : boolean; Jme0a : boolean; do m(- false and 4 or 27 = 1) end main : i : integer; L3 : integer array; chillax end

@@ -1,0 +1,1 @@
+program n7w : main : while - (3 = 35) * not false - 4 <= true + 5 and 9 : let o[- 71 - 80] = 5 end; while false + VM + 4090 - 82 = - w and 6 : chillax end; do x(- 2 and 40 or 9 - 0080 < - 12300 - 3850, 2 - 537, 533, 1, 34) end

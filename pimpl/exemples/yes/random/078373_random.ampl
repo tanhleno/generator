@@ -1,0 +1,1 @@
+program f : main : QIm : boolean; S_L0, t, L, J0, C, w : boolean; hq0, b, y, dCLaa, E3 : boolean array; q8 : boolean; pop(58) * true and 7 + (3) > - O and 3 - 4210; input x; do r(s > 06 - 93, - 3); let v1 = 616 = 091 end

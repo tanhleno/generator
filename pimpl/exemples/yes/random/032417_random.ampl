@@ -1,0 +1,1 @@
+program CX : s : takes i, J : integer returns nothing do _72(- vz30 and 24 or 0 - 5) end main : when case not(4) or 0400 / true - true : while - 2 /= 2 : chillax end; while 45 = 41 : chillax end end; while - not 70 or true <= 54400 + 0 : chillax end end

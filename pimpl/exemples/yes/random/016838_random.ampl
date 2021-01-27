@@ -1,0 +1,1 @@
+program j : QG : takes wt10a, P : boolean; K, G, a, Q : integer; QBsa : boolean array returns boolean JVh : integer array; do G8(- CV + 57 - 46); let e610[2] = array - 39 - 0 end sf5a : takes Id, Z, g, z, i9, tm, DM8 : integer array returns nothing u7 : boolean array; do h3X(8, 7 = 839) end main : chillax end

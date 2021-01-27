@@ -1,0 +1,1 @@
+program Q : h : takes S, p, Z, C : boolean; gz0 : boolean returns nothing let tB[- not 37] = - 34 <= 61 end i2r : takes T : integer; h, t : integer array returns nothing g6, f8va, Z : integer; pop 3280 end main : while - not not(5) : chillax end; input E[true and 50200 and 12600 - (5) and 24 + 0 - 10600] end

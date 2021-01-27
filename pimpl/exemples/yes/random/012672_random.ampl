@@ -1,0 +1,1 @@
+program k : p : takes Z, i, u : integer; uD, A, G, yB : integer returns boolean array when case(2) : while 7 : chillax end end case 620 /= 7970 : chillax end case 770 : output "\t"; pop end; do b(- 5 - 2) end main : w3 : integer array; C, t, M5 : boolean; _, O : integer; A : boolean; Qb : integer; Ml4 : boolean; EpI : boolean; B5F : boolean; chillax end

@@ -1,0 +1,1 @@
+program r : D : takes O, B, y, Znq, B, G16 : boolean array returns nothing while true and 53 - 95 <= 7 : chillax end end main : c : integer; O : integer array; v, b9 : integer; M23 : integer array; let yn = array - false end

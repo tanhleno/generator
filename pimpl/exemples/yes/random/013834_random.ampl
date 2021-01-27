@@ -1,0 +1,1 @@
+program j8Q : k : takes X, hx, DL80 : integer array; W, c, d : integer array; L : boolean returns integer array O3, P, m : boolean; Wm, s, yj, B : integer array; y1 : boolean array; output "\n" . "" . "" . 5 . ""; when case 06 <= 58 : chillax end case 6 : chillax end case 5 : pop end case 38 : chillax end end main : O : boolean; chillax end

@@ -1,0 +1,1 @@
+program h : main : when case 7 + (091) or q >= not not 2 * (3) and 5 : while - 0 - 2 : pop end end case - 84 * 63 > - true : input OJ end otherwise : input gn; let p[1] = array 9; do x(18) end; output "" . "|S!"; input mY; do N(- 32, 2 = 3, 6, 34900) end

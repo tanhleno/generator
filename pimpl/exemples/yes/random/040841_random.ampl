@@ -1,0 +1,1 @@
+program Z : A : takes C : boolean array; K : integer array; LR6 : boolean; Q, j, T_9a, f : boolean; uK, X : integer returns integer pop 4; when case 382 - 7 > 760 : chillax end case 0 : chillax end case 84 : pop end end main : pop true / false end

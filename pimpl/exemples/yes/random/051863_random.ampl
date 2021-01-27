@@ -1,0 +1,1 @@
+program M : R : takes E : integer; X6 : boolean array returns boolean array chillax end x : takes X, H, F, j : integer array returns boolean array pop 93100 end osq : takes T0 : boolean; s : boolean returns nothing when case 6 : chillax end end main : W : integer; O, Vm90a : integer array; c, Fj : boolean; xn : integer; do Y(- Z and 455 * 0 and 46900 + true and false) end

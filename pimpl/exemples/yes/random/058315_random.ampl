@@ -1,0 +1,1 @@
+program d8 : x : takes i : integer array returns boolean j : boolean; Lk, p, iZ : integer; chillax end main : _ : integer array; XC : integer array; u, E, d : boolean array; let t[- 728 rem 51 or true] = - (9) or false <= - 52200 end

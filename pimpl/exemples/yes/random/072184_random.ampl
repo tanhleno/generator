@@ -1,0 +1,1 @@
+program d : main : ZT70a, K, h : integer; L, Ql40 : integer array; BfLaa : boolean; while(608 = 07) / false < - not true * K and 6 + false : let o3 = array - 895 - 0; when case 515 = 1 : pop; pop end case 4 : chillax end otherwise : chillax end; pop 965; output "\n"; when case 21 : chillax end; pop end; input z1[- 672 + (958) and 5] end

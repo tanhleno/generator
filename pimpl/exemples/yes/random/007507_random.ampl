@@ -1,0 +1,1 @@
+program r8T : He : takes v62aa, n, v2, i : integer array returns integer array chillax end cx_a : takes kU : integer; vg8, o, l_, U : integer array; m : boolean; l : boolean array; x : integer returns nothing M : integer array; O, J5 : integer; do J(- 28, 95) end main : k860 : boolean; j : boolean array; output true * 14200 . "" end

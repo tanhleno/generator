@@ -1,0 +1,1 @@
+program m : s98aa : takes zn : integer array; ZHbaa : integer; B, c, q95, h, Fh, LJ : boolean array; z1, e, Ua3, D8y0a : integer array returns integer do J(4); pop end main : B : integer; ot5 : integer array; K9, c, d : integer; N2 : boolean array; chillax end

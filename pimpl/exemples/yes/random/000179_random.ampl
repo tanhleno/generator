@@ -1,0 +1,1 @@
+program jO : Xa : takes wpX0, y74aa, Q, m, S, KP00, b, I : boolean array returns integer array E : integer array; U : integer array; br1 : boolean; chillax end main : _ : integer array; when case - not EQ4 rem(05) >= D(7) * not 36 - 2 and 36 or 21 : chillax end case false >= - true : output 5; input a end end

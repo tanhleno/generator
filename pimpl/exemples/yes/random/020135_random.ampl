@@ -1,0 +1,1 @@
+program pS : l : takes N, r : boolean array; g5 : boolean returns integer array Y, U, A1Gaa, q, PH1a : boolean; u, j, RM : integer array; when case - 7 = 033 : chillax end end main : a : integer; do z3(- false, - d and true and 76 - false - 8 > 934 and 3 + 66 - 7); output - 657 > 66 - 9 end

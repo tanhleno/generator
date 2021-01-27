@@ -1,0 +1,1 @@
+program Ma : b : takes Q, U, L, oJ6aa : boolean array returns nothing H, VSL, k4Ca : boolean; j : boolean array; pu, V : integer array; B03aa, E5 : boolean; while false - 7170 - 16 < 0 - 4 : chillax end end main : l : boolean array; M, y, Ea_0a, Mo, x, oT : integer; chillax end

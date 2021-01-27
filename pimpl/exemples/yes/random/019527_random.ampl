@@ -1,0 +1,1 @@
+program TT20a : M6 : takes v, _O7 : boolean array; Az, r : integer array returns integer array chillax end J : takes X, M : boolean array returns boolean c31a : boolean array; chillax end main : n5 : boolean; z, L_Ra, a : boolean; chillax end

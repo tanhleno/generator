@@ -1,0 +1,1 @@
+program u : i : takes RA, NL : boolean returns integer when case - 2080 : output 4 end case 0 /= 5 : chillax end case 0 = 38000 : when case 3 : chillax end end; output 9 = 40 . "{" end b7 : takes xo : integer array returns nothing pop; output 2; output "" . "\"" end main : pop end

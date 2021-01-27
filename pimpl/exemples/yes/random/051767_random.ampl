@@ -1,0 +1,1 @@
+program AR : U : takes h5 : integer; z : boolean array; g : boolean array returns nothing chillax end main : when case - not 1 + false and false and 25 >= false * true + Wr + 726 - 8 : pop 82; input k9C end case - 2 >= H + 6 - 7 : chillax end; do l0(- 465, - false and 0, 318 < 2); while false : pop 2 end end

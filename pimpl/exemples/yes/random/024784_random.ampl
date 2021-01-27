@@ -1,0 +1,1 @@
+program qR6 : b7 : takes G, R3 : boolean returns nothing pop; do X(- 9 <= 6, 21, 49, 0); when case 0 = 1 : pop end case 13 : pop end; let V[0] = array 597 end B : takes T0, Q1E0, WU, r, cl, LYR : integer array; _N30, O : integer returns nothing chillax end main : i : integer array; chillax end

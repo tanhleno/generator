@@ -1,0 +1,1 @@
+program l : e : takes H, Q2Q : integer array returns nothing S, biy, L0, Q9 : boolean array; when case - u - 4 <= 91 - 79 : input Z[2]; when case 08100 : chillax end end case - 95 >= 1370 : input D end case 5 : while 1 : chillax end end otherwise : pop end; when case 0060 - 1 : chillax end case 1 : while 7 : chillax end end end main : chillax end

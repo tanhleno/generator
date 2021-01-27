@@ -1,0 +1,1 @@
+program _980a : tR8a : takes M, tE : boolean array; p44 : integer returns nothing input Y end main : K : boolean array; M, E : boolean; G4 : boolean array; V, R_ : integer array; while(7 = 6) and true < true - true : input i6sa[0 - 61300]; input F[3] end end

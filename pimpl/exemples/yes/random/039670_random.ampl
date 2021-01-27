@@ -1,0 +1,1 @@
+program pC2aa : s : takes MXC : boolean array; g : boolean; Ak : boolean returns nothing NP : boolean array; o, Gg4 : boolean array; a, Bd, P : boolean array; Q3, BS : boolean; xg0 : boolean; pop end main : pop end

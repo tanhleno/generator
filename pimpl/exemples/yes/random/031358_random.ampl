@@ -1,0 +1,1 @@
+program c9 : Z9Ra : takes s38, y : integer returns boolean array K : integer array; g, I : boolean; i42 : integer array; aF, U : boolean; nqD : boolean; while - (9) and 1 >= - 20 : chillax end end main : chillax end

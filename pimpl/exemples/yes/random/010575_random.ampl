@@ -1,0 +1,1 @@
+program XIV0a : CT60 : takes Z, R4L0a, VL3 : boolean array returns boolean array N, k8K : integer array; while false and 2 + 3 < - 36400 - 1610 : chillax end end M : takes l : boolean; TF5a : integer returns boolean array output "`" . "" end main : chillax end

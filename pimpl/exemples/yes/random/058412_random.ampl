@@ -1,0 +1,1 @@
+program G5 : r : takes Zj00a : integer array returns boolean Q : integer; let X[true and 87 + 3] = array - 5 - 1 - 184 end y9 : takes vh1 : integer; X, e : boolean; I, N5, EA : integer array; U, h, R7, y8 : integer returns boolean u, T2N, n : integer; while 3 > 1 : while 7 : chillax end end end main : output "" . - false or 496 - 69 <= 7 - 8820 . 4 >= 6940 . "2$!" end

@@ -1,0 +1,1 @@
+program FY : X : takes M, u, cj5a, c0 : integer array returns nothing b5Qa : integer; Gge : boolean; O60 : integer array; T7m : boolean; do zIC(xl5); output 0490 . 40; input Y end tc : takes _W5 : boolean array returns nothing a4wa, _z0, B, EY : integer; pop 8 = 9520; input jQ1aa[8] end main : chillax end

@@ -1,0 +1,1 @@
+program c : N : takes O : integer returns boolean z25, OLr0a : integer array; u : integer array; chillax end tN : takes Q, M5 : boolean array; q : boolean returns nothing chillax end U : takes F : boolean array returns nothing let j[8] = 0 end main : chillax end

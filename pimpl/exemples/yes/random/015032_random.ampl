@@ -1,0 +1,1 @@
+program N6f : m : takes D, x, a : integer array returns integer do jT(false and 5120 - 3 <= 37500, 7, 9290, 02700, 37600); do f390a(- 7090 - 4 < 217); when case 9100 = 8 : chillax end; while 1 : pop end; while 5 : chillax end; let j = 3 end t : takes j : boolean array; w : boolean array returns boolean B, j, IW : integer; let u[70] = array - 7 - 54 end main : chillax end

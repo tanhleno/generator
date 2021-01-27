@@ -1,0 +1,1 @@
+program A : main : output(224) < - false - 2 . "13\""; when case - false <= not 29 : chillax end case - r or 7 - 63 : let U8 = array 6 end case 23 - 91600 : chillax end case 4 : chillax end case 9 : pop end case 42 : chillax end otherwise : chillax end; output "" . "" . "n\"" . 92 end

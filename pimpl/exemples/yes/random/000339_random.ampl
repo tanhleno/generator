@@ -1,0 +1,1 @@
+program S05 : L : takes S7q0, wy, ih, P7, A66a, kE90, J2, Zzx : integer; u : boolean array; LX, Q : integer; gS, p : boolean array returns boolean _37a, L : boolean; when case - not 2 : chillax end case - 37 <= 87 : chillax end otherwise : chillax end; input j[- 14] end main : output "2" . "Le!" . 64 - 0; let OS_[false * 4 - 6 + 8] = (94); pop 75600 end

@@ -1,0 +1,1 @@
+program Mn : M : takes F : integer returns integer array C4, H : integer array; chillax end B : takes H, pa, FW, q, a : integer array returns boolean array chillax end main : output E_k(2); do n6oaa(- false and N5 and 20 - not 9 and 624 /= not 741 and 5); let s54 = - 4 = 20; output "6" end

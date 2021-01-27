@@ -1,0 +1,1 @@
+program u : x : takes Y : boolean array returns integer array do g(true and 4); let S[6 - 4] = array 0 end x1 : takes K, e5A : integer; K, d : boolean array; s : integer array returns nothing mW : boolean; D, UY : boolean array; output "" end main : chillax end

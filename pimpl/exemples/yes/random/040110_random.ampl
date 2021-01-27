@@ -1,0 +1,1 @@
+program k : B : takes d9B : boolean array; IU : boolean array returns integer while - (7) and 1 > 09 - 9 : output ""; let L2 = 6; pop end end R : takes Tf : integer array returns boolean while - 7740 - 7 >= 7 : input t; let C5 = 3 end; while 44 = 0 : chillax end; while 58600 : chillax end end main : input W; do Iw(- 4 rem not 3, - ap); let D2 = 460 < 94 end

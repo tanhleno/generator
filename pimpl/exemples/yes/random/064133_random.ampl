@@ -1,0 +1,1 @@
+program I : d70 : takes E1 : integer returns nothing do E(false and 34700 <= - 993, - 92200); output 9 . "\n" . "K" . "?`"; do V(28 = 9); let o6[6] = 1; output "\n" end u : takes K : integer; uMla, hmC0, I, n2, fo : integer returns nothing chillax end main : chillax end

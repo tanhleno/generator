@@ -1,0 +1,1 @@
+program v8 : main : K : integer array; pop - not not 081 /= not 425 and 9 + 00900 - 18; do T_(false - 9500 and 324); output "\\" . "" . 02 . "\t]\"a" . ""; output "" . 9; do vp(1 = 9, 8, 2); when case 38200 : pop end case 3 : chillax end otherwise : chillax end end

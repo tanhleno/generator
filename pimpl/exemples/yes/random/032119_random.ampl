@@ -1,0 +1,1 @@
+program J : D : takes o1, mz : integer returns integer Hh : integer array; chillax end h : takes j : boolean array; aXe, N : boolean returns nothing m, h : integer array; ZR4aa : boolean; do P(5, 5 = 37, 4, 46200) end r7 : takes g, Hy, ckL, R2 : integer; n, G, w51aa, e1 : integer; F : boolean returns integer array e, A5 : boolean array; chillax end main : chillax end

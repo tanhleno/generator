@@ -1,0 +1,1 @@
+program Kn : KQ : takes K, o : integer array; U8g : boolean array returns integer array D7y, B, XRf : boolean array; do VP(- 15 and 9 >= - 4440 - 9); output 83 = 9 end F : takes z, p : boolean; rCHaa : integer returns integer v, wc3, Og_, s : boolean array; q5, G71 : integer array; chillax end main : gi90a, TXd, s8Waa, JjD : boolean; chillax end

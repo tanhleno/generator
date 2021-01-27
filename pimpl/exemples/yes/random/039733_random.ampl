@@ -1,0 +1,1 @@
+program y : Z48 : takes y : boolean array; K3N : boolean; i8 : integer returns nothing t, t : integer; W6M : integer array; do NnJ(- G and 3, - 8460 - 7, 77 = 1) end main : R9, k : boolean array; input L8; pop not 2 and 9; pop end

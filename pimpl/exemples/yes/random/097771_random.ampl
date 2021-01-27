@@ -1,0 +1,1 @@
+program x : main : while(5) /= not false / false and 8 : let J[- 4 - 3510] = 6; while 91 : let U = 5; pop end; output 87900 . ""; while 2 : chillax end; input W8 end; when case - (3) > - not 3 : do n(54400, 81500, 28) end case 3 > 5 - 3 : when case 05 : pop end case 5490 : chillax end otherwise : chillax end end case - 3 >= 30 : output "\\" end otherwise : chillax end end

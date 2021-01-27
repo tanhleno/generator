@@ -1,0 +1,1 @@
+program a1u : Pkj : takes JWD, V4Ca : integer array returns nothing chillax end main : do L6(- true or a_K / (610) + true and 22, - not true * 12 and 55 - 079 + 955); let J = array not true * false and 1; input R; pop 0 = 360 end

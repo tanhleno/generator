@@ -1,0 +1,1 @@
+program Z2 : u : takes W : boolean returns boolean array chillax end UJ60a : takes dY : boolean returns integer chillax end JDo0 : takes u01a : integer array; L, O, i : integer array; X060, n370a, P : boolean array; O : integer array returns boolean Bl : integer array; QFt, z : boolean; input U end main : mLo0a : boolean; chillax end

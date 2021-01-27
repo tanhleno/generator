@@ -1,0 +1,1 @@
+program x : D4 : takes t : boolean array; Ce60a : boolean; j, G : integer; jGo, atJ, M, c : integer returns nothing chillax end main : M2v : boolean array; M0va, D : integer; let b7 = (8) and false and 3 > - 4 - 35 - 97; while true : when case 75 = 69 : when case 9 : chillax end; pop end case 2 : chillax end case 0 : chillax end; while 4 : chillax end; pop; output ""; pop end end

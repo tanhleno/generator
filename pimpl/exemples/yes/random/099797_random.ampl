@@ -1,0 +1,1 @@
+program gJ : main : while 804 rem not false - (08400) <= 1 and true or Q8faa or 98 - 3 : chillax end; while - s(0) * 1 and 1 > 6 and 33 : input h; do L0(27, 3); input n; input jE; pop end; input C8[Y and 6 + 18 - 9]; do _(0 - 7) end

@@ -1,0 +1,1 @@
+program ao : Q : takes S : boolean returns integer input H5Z end qO : takes jV : integer; uX : integer; j9, k0 : boolean array returns boolean array v, A : integer; f : integer; y, F : boolean; b4qa : boolean; chillax end main : output 8240 and true and 1070 - m8w and 25 + 4 - 6050 >= not 05 and 3; when case - false * 5 : chillax end case(7) < - 9560 - 8 : chillax end end

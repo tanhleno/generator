@@ -1,0 +1,1 @@
+program b : k7 : takes f : boolean; s9f : integer array; w, N, Dlv, C : integer array; y, p : boolean returns nothing g, j : integer array; ZGq, N, e, o : boolean array; Q, y, Y : boolean array; sk : boolean; g : boolean; chillax end main : N, jn : boolean array; input k; output "" . - 25 - 398; do U(- 96 - 846 > - 4 - 6150) end

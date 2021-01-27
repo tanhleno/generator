@@ -1,0 +1,1 @@
+program M : p2 : takes w, f61, m6_aa, J : integer; N8i : integer array; o2 : integer returns boolean array chillax end main : input p[- 9]; do nq(- not 95 + b8 and 93500, - 65 + 53 - 8, - 64400 - 14, 0) end

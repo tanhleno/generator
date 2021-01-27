@@ -1,0 +1,1 @@
+program z : P : takes L46aa, q : boolean array returns nothing J8, BB : integer array; e2V, O : boolean; chillax end main : d, e7, Rr, t : boolean; let F = false - false < not 0 and 9 or 5 - 624; input d[0]; output "5zaa"; when case - 733 - 45900 : chillax end case 4 : chillax end case 951 : pop end end

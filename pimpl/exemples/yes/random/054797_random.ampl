@@ -1,0 +1,1 @@
+program DM : y : takes G8_ : integer array; d, Y : boolean returns boolean input z end x : takes T : boolean array; Z, N : integer array; ZI8a : integer array returns boolean array pop; input A2[4] end main : r, q, ts8, M : boolean; KN, K6I, V2x, V : boolean; output "" . ""; let zv[not(3) * not 6 and 5] = array not ua2; do u3(false and 6 + 5 /= - 18900) end

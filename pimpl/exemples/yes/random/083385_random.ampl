@@ -1,0 +1,1 @@
+program s : main : u5 : integer; Z, n6, m9 : boolean array; output Fk(408) / (76) and 72 . L /= 57 . "m"; do f(- 7 * (3) and 2840 or not 90 and 3 + 38 - 04, 97 or 65700, 79900 >= 66, 51 = 880, 00400) end

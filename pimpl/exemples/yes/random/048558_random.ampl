@@ -1,0 +1,1 @@
+program pN : Th0aa : takes o : boolean returns nothing F : boolean array; output - 93 . 6050 . "\"" . 21; let c2[- 4] = array - 2 - 23; while 6570 = 3 : output "\tC" end; when case 61 : chillax end case 73 : chillax end end Q : takes X, Qll0a : boolean; sl9, y, fc7, X : integer returns boolean chillax end main : jJlaa, NX, a, Y, Z, IP, j : boolean array; chillax end

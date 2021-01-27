@@ -1,0 +1,1 @@
+program bu : Rh : takes S1Qa, A : integer array; N7, x, W, f3, HM : boolean; Y8 : integer array; Th : integer array returns nothing T, lu6aa, x9Y : boolean; input x end B : takes l, r : integer returns boolean chillax end main : do U(- not not not 2 * true - true - true + 5, - oJ[321] + not 7960 and 0 < - 56 or 55, oR40 and 64); pop end

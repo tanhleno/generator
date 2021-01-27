@@ -1,0 +1,1 @@
+program hr : v : takes d3, n : boolean; aj, a1, L0 : integer array returns nothing B, J : boolean; l, nPS0a : integer array; p6, Y7e, A120a : boolean; sk : boolean; h80 : boolean; input IP; pop 7 = 77600 end main : while - true > - not not 4 + N6 and 012 : chillax end end

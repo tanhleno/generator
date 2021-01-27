@@ -1,0 +1,1 @@
+program C1y : V : takes F, Z : integer; x : boolean; Q2, dW5 : boolean array returns nothing G : integer array; chillax end e : takes s94, lj : boolean returns integer let F1 = array - 5 - 7 end main : k0, y : boolean; g, dc5 : integer; chillax end

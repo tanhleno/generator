@@ -1,0 +1,1 @@
+program t_ : b8 : takes o1, Vzma : boolean array returns boolean let Q = array - false; input r end N2V0 : takes B720a, H : boolean array; J, Ees, m : boolean array; gg : boolean; N, J02a, RZ, M7 : boolean returns nothing d : boolean; uF : integer; chillax end main : Mlg : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Ra : a7X : takes w84 : integer returns nothing chillax end p : takes L7a0 : integer returns nothing m8 : integer array; W3E, EB5a : boolean; U3 : boolean; D : boolean; LV : boolean; pop 4 = 4; while 52 = 45 : do l(05); pop end; while 80 : chillax end; let c = 5; input s6; pop end main : W, h3, x, C : boolean array; input P[- true] end

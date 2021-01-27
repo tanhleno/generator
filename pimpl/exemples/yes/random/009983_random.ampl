@@ -1,0 +1,1 @@
+program eh : H : takes v, x, Dn_ : boolean array; y : boolean; f85, C4W0a, e, e : integer; H3ca : boolean returns nothing when case - 4 : chillax end otherwise : chillax end end main : when case true or true rem c and 6 - true : chillax end case true : chillax end otherwise : chillax end end

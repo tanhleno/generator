@@ -1,0 +1,1 @@
+program x : L4D : takes O2, C : boolean returns nothing YBn, m, h05, g, v6Z : boolean; let f = array not 12500 end main : when case - false : chillax end case - (4160) and(3530) or 40300 and 4 = true and 3740 + 73 : chillax end; do bXs((19) rem true and 58200 >= - n and 9 + 3) end

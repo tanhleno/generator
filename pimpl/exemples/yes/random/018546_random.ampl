@@ -1,0 +1,1 @@
+program k : z : takes G, O : boolean; Lp : integer returns nothing do F((70) and 69, 46900 < 0, 2 = 58000, 74, 561); pop 7050 = 9; when case 2 : chillax end case 2 : pop end; output 14 . ""; let s2 = 3; let X = 5; pop end main : chillax end

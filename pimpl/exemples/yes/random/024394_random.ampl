@@ -1,0 +1,1 @@
+program v : EJ : takes RI, w1 : boolean returns nothing M, L7 : integer array; let i[not 4680 - 7] = array - true and 7 end D2 : takes u, M, T : boolean; G : boolean array; r2 : boolean array returns nothing pop end main : pop - not c <= false and 35 end

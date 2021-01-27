@@ -1,0 +1,1 @@
+program q : u : takes X, ZX : boolean; o19a : boolean; J : integer array returns nothing n, g, pw : boolean array; w : integer array; input EP[847] end main : uF, D1 : boolean array; h : integer; zH, K : integer array; P : boolean; t : boolean array; chillax end

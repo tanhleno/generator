@@ -1,0 +1,1 @@
+program t : yQ : takes w, t, Y2Haa : integer returns nothing chillax end _ : takes KN, P9Z, p04, q, E, W5 : boolean array returns integer array _ : boolean array; Jz, V9s : integer array; o, S : boolean; input p68[2 - 1]; do ld70a(716, 5, 1); pop 05; do BPGaa(1); pop; pop end I : takes lu : boolean; y : integer; IBZ : integer array returns integer chillax end main : chillax end

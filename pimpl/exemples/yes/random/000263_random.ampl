@@ -1,0 +1,1 @@
+program B : S0 : takes ihg, R, I, Z8, d9n, V870a, RK, Q7 : boolean returns nothing do M3(t and 1) end c : takes Z6, k : boolean array returns boolean chillax end main : u510, Q, X, r : boolean; Z4va, Kh, t, l : integer; u8, cV : integer array; pop end

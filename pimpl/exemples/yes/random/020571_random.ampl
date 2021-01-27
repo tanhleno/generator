@@ -1,0 +1,1 @@
+program w : x : takes E230, A : boolean array; R : integer array returns integer chillax end h1 : takes a, v : integer array returns nothing B, e, az : integer; q, wC : boolean array; chillax end R : takes zP, iF : integer; V : boolean returns boolean array chillax end main : il7, p, I : integer; while - 5 rem false / not 72 : chillax end end

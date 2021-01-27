@@ -1,0 +1,1 @@
+program r7 : main : U, o, m : boolean; h : integer array; rr, n, k, t : integer; when case - not(8) : let z[285] = 5 = 48; let Y4[7] = array 14; while 544 : chillax end end otherwise : chillax end end

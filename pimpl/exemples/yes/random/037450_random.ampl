@@ -1,0 +1,1 @@
+program b6 : G : takes _ : boolean array; D, C690, G2, ik, W, cN, io : boolean array returns boolean array input s; when case - 0370 /= 7 : input l; let J = 6; pop end otherwise : chillax end end main : chillax end

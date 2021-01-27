@@ -1,0 +1,1 @@
+program yHxa : t : takes U : integer returns boolean array when case false and 6 - 1 - 9 : input X[6] end; pop end dw : takes bZq : boolean; G : boolean returns boolean chillax end U1 : takes f, B, E7 : integer array; gj9 : integer array; qY : integer returns integer array z, vU, gx : boolean; HK9 : boolean; output "" . 5820 . "6" end main : x : boolean array; chillax end

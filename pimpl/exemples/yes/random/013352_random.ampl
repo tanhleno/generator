@@ -1,0 +1,1 @@
+program a : FE2 : takes e, Q, e : integer; I8g : integer; vu, QG, vAi, V47 : boolean; P62 : integer array; KI : integer returns boolean array chillax end main : C : boolean; Z : boolean array; chillax end

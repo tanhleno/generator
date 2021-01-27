@@ -1,0 +1,1 @@
+program Q8 : XN1 : takes B : integer returns nothing tJ : integer; t : boolean array; g : integer; P, O : boolean; I600 : boolean; chillax end main : W, T : integer; o, r : integer array; uPi, A06 : integer array; I, l : integer; O1v : boolean; P, h : boolean; pop(73) and Q and 206 - JT3aa >= true end

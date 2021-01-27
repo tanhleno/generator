@@ -1,0 +1,1 @@
+program T0 : F : takes d1, R610a, P0, BP : boolean array returns nothing while - true + 0 - 1 = 0 - 9 : chillax end; input xZq end main : p, NH, r : boolean array; e55 : integer array; f3, dr, j, M : boolean; K : integer array; l : integer array; YEH, X21aa : boolean; e1E : boolean; chillax end

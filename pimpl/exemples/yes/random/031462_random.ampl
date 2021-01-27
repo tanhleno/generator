@@ -1,0 +1,1 @@
+program p : Ob5 : takes r6k, x00aa : integer returns boolean chillax end main : do P5f(- p >= - not 03 * not 9 and 202, 55000 rem l, (2)); while 0 or false or 350 - 14 = - 6910 and 7 : when case 7730 = 43200 : chillax end case 0 : pop end case 2 : chillax end otherwise : chillax end end; output 8 . 5 end

@@ -1,0 +1,1 @@
+program Q : U8u : takes A : boolean array; Has0 : integer array returns nothing pop end main : t, K, f : integer array; t : integer array; g0j : boolean array; while false rem 93800 rem M : chillax end end

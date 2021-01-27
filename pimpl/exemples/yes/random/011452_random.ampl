@@ -1,0 +1,1 @@
+program d : Q : takes G7aaa, g, Z5T : boolean array returns nothing let nY = array - f + 8; do P0(- 2 < 10) end main : while 880 rem true / true and 12 >= (06) or true and 4 : let R = array - 520 end; pop false end

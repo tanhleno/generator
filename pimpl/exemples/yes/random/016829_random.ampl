@@ -1,0 +1,1 @@
+program z : t : takes C29, jj : boolean; Pc, V3, w, K : integer; q3j, CXB, m : boolean returns nothing ed : integer; let Y14[2800 and 520] = - 0810 = 4; let t[- 90] = 4; let P09aa[63] = array 2; let M = array 209 end main : do e6(- true rem not 30 rem not 53 /= not true) end

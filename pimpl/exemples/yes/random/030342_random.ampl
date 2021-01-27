@@ -1,0 +1,1 @@
+program b : m7 : takes l37, U : integer array returns nothing chillax end main : Q, P13 : boolean array; y, F2 : boolean; while - 32 - not o : while - 03800 - 8 : let c = 691 end; let yd[85] = array 3 end end

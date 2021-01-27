@@ -1,0 +1,1 @@
+program MP6 : main : S : boolean; do n(- 2 and true - 26 + 361 or 2 > - tdf(911) or(157), (0) / false or(0) and 4 + 2, false and 6 + 78 - 55, 8, 5 = 6); let h1 = array - q[1]; input A; let sB9a[6] = array - 7; let L[5430] = array 6; do f(58, 88900) end

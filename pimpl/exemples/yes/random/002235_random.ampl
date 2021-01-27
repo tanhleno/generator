@@ -1,0 +1,1 @@
+program qG : j : takes g, o, q1, ia, v : boolean; K9ma : boolean; at60, _, DY, Ikka, _2U, ov60a : boolean array returns integer array do f8(- not 74 <= - 89 - 1) end j : takes N, Pp : boolean; E9 : boolean returns nothing _j, N54 : boolean array; chillax end main : fb, q : boolean array; let F0Saa = array - true + 3 / F + not 1 and 4820 - 05 - 98 end

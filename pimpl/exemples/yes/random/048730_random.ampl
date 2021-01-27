@@ -1,0 +1,1 @@
+program P : HA : takes O06 : boolean returns nothing M : integer array; Uo, Bn, Ge, J5 : boolean; sk1 : boolean; when case - 57 or 39 - 3 <= - 3 : do g8(81, 0); do L(91); when case 6 : chillax end end case - 95 : pop end case 45 = 7 : pop end case 49 : chillax end end main : do H870(true /= - (218) or I or 860) end

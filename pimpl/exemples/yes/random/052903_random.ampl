@@ -1,0 +1,1 @@
+program CPl : T : takes o : integer; O2 : integer array returns boolean pop end G86 : takes s : integer array returns integer N7, W : boolean array; K : boolean array; input K[- 7060 - 59200]; do n(4) end main : output Wk[7] and 1 - true - 537 - 3; pop; output "\n" . "Jp"; output "'9aa" . "]" . 5 . "" end

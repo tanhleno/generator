@@ -1,0 +1,1 @@
+program w : K : takes F6u0 : integer returns integer array o270a : boolean array; input Y9[- false]; pop end main : a6, E, DOt0, l0 : integer; eI1 : boolean; while - true * E1a0a(999) or true * not 8 and 36800 = Cp and(8) or true and 562 or 77900 : let hf[95 - 8] = array 7 - 1 end end

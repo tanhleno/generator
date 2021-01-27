@@ -1,0 +1,1 @@
+program T1 : main : let g[true + not 77 rem true] = array(96 = 70) or 4 rem false; let H[W6(03) or 251] = - not 0 = - 133 - 760; output "5\t" . 59 = 7 . "7"; output 2 = 9; let O = 9; while 92 : chillax end end

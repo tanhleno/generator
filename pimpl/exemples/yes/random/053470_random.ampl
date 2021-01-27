@@ -1,0 +1,1 @@
+program x56aa : M : takes V : integer array; kaTaa, Hw6a, V150, G, U, k : integer; t, x9 : boolean; d, Yt2a : integer array returns nothing k : boolean; input U[- (26) and 4]; while 89 : when case 8 : chillax end; do L(927); pop end; pop; output "7" end main : cl6 : boolean; chillax end

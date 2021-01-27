@@ -1,0 +1,1 @@
+program KR3 : I : takes d, Vr : integer; fkF : integer array returns boolean array m890 : boolean; chillax end u : takes Z6, f : integer returns integer chillax end main : while - (5 = 3640) / false < 0 / not 476 and 645 : let n[68] = 2 = 0; let JURaa = 8130; let B9 = array 2 end; input d6la[- 0 / not 82 and 27 or not 39]; pop 79 > 1530 end

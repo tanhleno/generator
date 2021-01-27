@@ -1,0 +1,1 @@
+program w : Z : takes S, Jq, n, k7N0a, v, m : integer array; u : boolean returns boolean let W39a[u - 5 - 23] = array false; pop 1; input Fo end U : takes o : boolean returns boolean array B9b0 : boolean array; chillax end main : do d(- not Xac * 3, - false and not 2760) end

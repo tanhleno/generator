@@ -1,0 +1,1 @@
+program g6 : main : when case - KC[6680] or false + w9 : let I[- 9] = 4 = 53 end case false / false and 2 < false : chillax end case Z1 and 4 - 50 - 4 = - 1 : chillax end case - 1 : while 3 : chillax end; do Xw8(32); pop end case 531 : chillax end case 648 : pop end otherwise : chillax end end

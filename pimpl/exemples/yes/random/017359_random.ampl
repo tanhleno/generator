@@ -1,0 +1,1 @@
+program p060 : D : takes Y, f : boolean; I_4, x : boolean returns nothing O : integer array; q, F3c : boolean; HA20a, y : integer; s : boolean; sV2a : boolean; chillax end main : cE, G22a : boolean; e, Obn, FyV : boolean array; cn : integer; chillax end

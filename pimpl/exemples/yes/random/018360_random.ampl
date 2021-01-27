@@ -1,0 +1,1 @@
+program W : ta0a : takes pN1, _q : boolean; n : integer array returns boolean array L, K6Ea, u : integer array; pop 81; do A10(- 90700); output "" end tk3 : takes R3 : integer array returns nothing m4, E, tK3, D : integer array; let e5L[- 2990 - 7] = array 4580 - 420 end main : chillax end

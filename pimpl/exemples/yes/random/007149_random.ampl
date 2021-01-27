@@ -1,0 +1,1 @@
+program iPr0 : P3f : takes W, Y, y, s : integer array; S : boolean array; is : integer array; P : integer; x8, u : integer returns nothing H, o, I : boolean array; input Oj[- (7)]; pop; pop end L : takes F45 : integer array; Zq, H5 : boolean returns integer array chillax end main : while - not false and(733) rem 0 : chillax end; do n7(- true < 26 and 98, - 1 = - 9) end

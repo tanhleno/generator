@@ -1,0 +1,1 @@
+program u : main : t : integer; t7, l, m1 : integer array; when case - (28) and not K4A <= - true : chillax end otherwise : chillax end; do D(- B(2) + K and 82, - x and 5 >= 92, - 47000); output 13 . "\\\""; when case - 5 - 7 = 7 : let I = 64 end case 10500 = 4 : chillax end case 7 : pop end otherwise : let B9 = 23; pop end; while 9 = 2 : chillax end end

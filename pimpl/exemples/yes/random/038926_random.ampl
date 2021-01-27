@@ -1,0 +1,1 @@
+program O : U : takes _7 : boolean array; W, g0 : boolean returns nothing U1, dW0aa, g, M : integer array; output - 6400 . 578 = 71 . ""; output "7\t" end r : takes c12, j : integer; J : integer array; u : boolean; Z0, _, s5, A39a : integer array returns integer array B : integer; T, f, j : boolean; chillax end main : k61, a : integer array; pop end

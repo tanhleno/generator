@@ -1,0 +1,1 @@
+program M : CB : takes xJ : integer array; n60aa : boolean returns boolean array D4T, U, HI7 : integer; A, f, zV : boolean array; W720a, C8, jk : integer; chillax end main : output "au0a"; output - (834) - 42 - 44 . - 57 - 1 = 3 . 7800 . 2; input CGQ; while 9800 - 7 : do h9S0a(1); let w8naa = 56; pop end; do C(2); pop; when case 2 : chillax end; pop; pop end

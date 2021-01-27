@@ -1,0 +1,1 @@
+program t : Nl : takes n : integer array; m, gmV, S : integer array returns nothing D, v5, Nu, iV9, y : integer array; pop end o : takes w67aa : boolean returns nothing input aN60 end main : KvGa : integer; chillax end

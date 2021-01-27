@@ -1,0 +1,1 @@
+program H : S : takes Z : boolean; P120, sq : integer; o : boolean array returns boolean array W : integer array; let GB = - 26 - 7 = 7; when case - 6 = 624 : output "" end otherwise : chillax end; pop 3; when case 71 : chillax end case 931 : chillax end otherwise : chillax end; pop end main : ZJ, As : boolean; chillax end

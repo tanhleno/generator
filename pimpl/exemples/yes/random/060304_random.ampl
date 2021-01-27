@@ -1,0 +1,1 @@
+program a : mc : takes S : integer array returns nothing A, j, A, Y : integer array; pop - 1 /= 0 end m : takes u, Z : integer array returns boolean Yf, z6 : boolean; chillax end main : sA90a : integer; chillax end

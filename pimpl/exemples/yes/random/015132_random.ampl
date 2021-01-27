@@ -1,0 +1,1 @@
+program h : dc : takes G4x, SSS, h2 : integer array returns integer while - (1) and 83300 : input UG[3] end; while - 8 - 9810 >= 692 : chillax end end ca : takes s2 : integer array returns nothing chillax end w : takes X : boolean returns nothing while 3 : do a4(95) end; input E4[6] end main : chillax end

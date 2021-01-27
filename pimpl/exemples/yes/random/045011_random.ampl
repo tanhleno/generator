@@ -1,0 +1,1 @@
+program G2Iaa : y : takes r : boolean array returns nothing let Sz = array - false and 9 end b2f0 : takes q : boolean; Z3qa : boolean array returns integer array H : integer; Q : boolean array; s1v, q5P : boolean; Y : boolean; do I(44); output "4`" . ""; pop 659 end main : chillax end

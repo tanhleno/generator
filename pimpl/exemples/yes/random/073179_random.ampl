@@ -1,0 +1,1 @@
+program I : main : S, uF00, c : integer array; when case false and false + true rem false : input L[22] end case - 9 / true and 5 : when case 662 = 64 : pop; pop end otherwise : chillax end; input q[2] end case - 1 and 63 - 64500 : output "" end otherwise : when case 05 : input oM1a; pop end end; when case - 5 * 70 <= (6) : chillax end otherwise : pop; input V5; pop; pop end end

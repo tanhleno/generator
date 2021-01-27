@@ -1,0 +1,1 @@
+program B : xn : takes O89 : boolean array returns integer chillax end rR : takes Y, J : integer returns nothing chillax end Q : takes a9A0, E1 : integer; pi30a, j7 : boolean array returns integer array kq30a : integer; uFqa : boolean; ret : boolean; Z : boolean; pop end Mw : takes U52a : integer returns nothing input K; pop end main : chillax end

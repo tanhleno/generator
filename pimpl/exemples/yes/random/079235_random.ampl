@@ -1,0 +1,1 @@
+program a47a : main : P : boolean; w : boolean; X2 : boolean array; C, Q, o, KE0 : integer; u, y : integer; while KVh[52] : pop 3 end; output(72800) and 6970; let M0u0[- false and 175 + 40 - 79] = array - (7) + 9 end

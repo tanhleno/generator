@@ -1,0 +1,1 @@
+program L_ : Gl : takes q5 : integer returns boolean chillax end main : input d73; when case(0) * true and 73 >= - x and 6 - 52 : chillax end case false and 6 + 4 /= - 7 - 4 : chillax end case - 626 - 7860 /= 9 : pop end end

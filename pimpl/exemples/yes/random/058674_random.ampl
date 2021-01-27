@@ -1,0 +1,1 @@
+program qF60 : dg : takes Bo : integer array returns integer array chillax end main : Z8x : integer; i : integer; O, c, u5 : boolean; d5 : boolean; o : integer array; T, N : boolean; Ie : boolean; ahLaa : boolean; chillax end

@@ -1,0 +1,1 @@
+program y500 : d : takes eS : integer; JAH : boolean returns integer array output 6 - 0 = 1; input w[- 6 - 9]; do q630a(35, 6); do e500a(0, 4); when case 920 : chillax end; let d = 5; pop end main : chillax end

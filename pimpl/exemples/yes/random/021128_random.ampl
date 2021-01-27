@@ -1,0 +1,1 @@
+program y98 : Kpg : takes KB, a6 : boolean array returns boolean p, _ : integer array; chillax end main : while not not true rem not false - S[01100] / (3190) >= _(3) - false and 14 or 63 - 4 : when case 4 - 570 : pop end case 790 : while 74 : chillax end; pop end case 773 : chillax end case 2 : chillax end otherwise : chillax end end end

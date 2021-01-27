@@ -1,0 +1,1 @@
+program R5 : J8 : takes Ur8aa : integer; K, C5, r : boolean array; V50, z, h : boolean array returns boolean when case true and 08 - 4 : chillax end; output 9 = 2350 end W1Maa : takes e8, o : integer array returns boolean chillax end main : k9 : boolean; chillax end

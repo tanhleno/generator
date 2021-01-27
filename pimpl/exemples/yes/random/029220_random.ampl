@@ -1,0 +1,1 @@
+program n : a9 : takes O5, y7 : integer array returns boolean array chillax end m : takes x3 : boolean; z5ga, EQ : boolean array; Q : boolean array; u0 : integer array; l : boolean array; v9 : boolean returns boolean HX : integer array; N12, U : boolean; I : boolean; chillax end main : AT : integer array; while false : input R4Kaa[0]; input B6j; do C(6, 91) end end

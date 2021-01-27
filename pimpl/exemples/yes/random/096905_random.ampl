@@ -1,0 +1,1 @@
+program J : main : when case Gt(396) - (927) and 21 and 5 or not 443 /= - (4) / (3) and 20 : chillax end otherwise : when case 31 : chillax end; while 3 : chillax end end; let L = true and 17800; while - false > - 6 - 25 : chillax end end

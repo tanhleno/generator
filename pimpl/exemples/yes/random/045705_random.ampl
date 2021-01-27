@@ -1,0 +1,1 @@
+program Xo2a : _c30 : takes yE8 : boolean returns boolean array jqea : integer; chillax end N : takes v : boolean; s : boolean array; G : boolean returns integer do gv(1 > 0) end main : z99a, s, F : boolean; w73 : boolean; Q, Q, L7 : boolean; j : integer array; Q, uPT, E : integer; B23, m9 : boolean; chillax end

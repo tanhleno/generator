@@ -1,0 +1,1 @@
+program d : J : takes mMK0a : integer array returns nothing Rj : boolean; let E = array p9e and 98 + 3; let r = array 4390 - 04; pop end p4 : takes T, Ic10a, x2c : boolean array; s1 : integer array returns integer ZX, i : boolean array; input J[- 1] end main : o, Y7 : integer; pop not 60 rem(3) and 2 + S /= - true and 2 end

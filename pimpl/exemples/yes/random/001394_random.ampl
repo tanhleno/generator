@@ -1,0 +1,1 @@
+program f : Y : takes l8, a, s, Ta4a, l2y, V96 : boolean array returns integer b, G : boolean; L, G, h7 : integer; let D[true and 3 or 78 - 306] = array - G77a; let _[6 - 69100] = array 6 - 63800 end main : chillax end

@@ -1,0 +1,1 @@
+program N : X : takes j0 : boolean array; J3 : integer returns nothing chillax end R23a : takes pR : integer array; R6 : boolean array; i0, B : boolean returns nothing input j; pop end main : let J[false] = array not false / true - not 2560 or 7770; while not true / (323) and 35200 + 9 and 49 : chillax end; let L8 = - 3 - 4 > 36 end

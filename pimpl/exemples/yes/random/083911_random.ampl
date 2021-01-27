@@ -1,0 +1,1 @@
+program z : main : d : integer; E : boolean; i6, hrW : boolean; p : integer array; q : integer array; let b[- not M or false and false and 75 + H0 + 2 - 0] = - (2) rem false and 6 or true >= - false and 5 or 4 end

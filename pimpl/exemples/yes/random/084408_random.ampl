@@ -1,0 +1,1 @@
+program W : main : l3 : integer; P : integer array; do C1(not false < not 9 - (72) and 3 + 9330 - 97, - not false rem true and 0 + not 1 and 99 + 68 > - jdw); input g[- (2)]; while(84) and 5 + 66800 >= - 78 - 98 : input zf[5]; input e7; while 9 : chillax end end; input R end

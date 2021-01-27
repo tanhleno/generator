@@ -1,0 +1,1 @@
+program o02 : j8 : takes lL : integer; b5w : integer; q, d, wGf0 : integer; Y : boolean; P : boolean; P, o : boolean array returns nothing chillax end o8 : takes p71 : boolean array returns nothing D46, Z, clO, rq : boolean; v, j : integer; let Dj9aa = 268; input Z[9] end main : chillax end

@@ -1,0 +1,1 @@
+program l : i : takes u, Jcp : boolean array returns nothing chillax end L : takes e22a, Kwv, A, R : integer array; j : integer; hb7 : boolean returns nothing while - 338 = 2 : chillax end end main : pop end

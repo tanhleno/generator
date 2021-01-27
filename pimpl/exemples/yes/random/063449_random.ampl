@@ -1,0 +1,1 @@
+program r : vK : takes g : integer returns integer d : boolean array; chillax end main : u81aa, rD4a : boolean array; gh : boolean; MTL0a : integer array; S : integer array; L : integer; _ : boolean; chillax end

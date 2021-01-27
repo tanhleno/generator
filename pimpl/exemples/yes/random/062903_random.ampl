@@ -1,0 +1,1 @@
+program D : gUPa : takes oX8a : integer returns integer array lB, b : boolean array; fj5aa : integer; chillax end main : Q, H5aaa, E, OsO, N : integer; v : integer array; output - (942) rem(19) + false = - not 84 and 0 or 25 - 8 . "<\\" end

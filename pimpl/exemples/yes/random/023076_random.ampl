@@ -1,0 +1,1 @@
+program o280 : Q : takes c, oQ50a : boolean returns boolean array output "_-" end F : takes Y4U0a, C66 : integer; FC : integer; zM : boolean returns nothing Z, X : boolean; H42 : boolean; let w = 5310 = 31000 end main : q1I, gf, S26aa, E : boolean; O, F, y : boolean array; s5A0a, h70, V, F : boolean array; chillax end

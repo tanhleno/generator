@@ -1,0 +1,1 @@
+program S_Z : T5 : takes CuK, bi, Z : integer returns integer Nr, n, Wv, c, Qs : boolean; d8, n : integer array; U100a, Em8 : boolean array; chillax end main : pop - l[24] + true and 21 /= 0 or 33 - 8; when case false / qUD0a and 991 >= - m91 and 88 : let aO = 036 end otherwise : output 28; while 90 : chillax end; let z = 18400; pop end end

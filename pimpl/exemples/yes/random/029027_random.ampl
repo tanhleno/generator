@@ -1,0 +1,1 @@
+program c : Z : takes a, C : integer array; z8 : integer array returns nothing _ : boolean array; _8H0a, m : boolean array; _6, x, w : integer; chillax end K : takes k : boolean returns boolean let P5 = array - 5 - 98; when case 72 = 790 : chillax end otherwise : chillax end end main : chillax end

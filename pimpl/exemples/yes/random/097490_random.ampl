@@ -1,0 +1,1 @@
+program Z1 : main : when case 5 or 85 / tW - pd + 0 - 41300 : chillax end case - true - false > false and 589 - 6 - 1 : chillax end case - 72 : do P140a(15, 85800); output "" end otherwise : chillax end end

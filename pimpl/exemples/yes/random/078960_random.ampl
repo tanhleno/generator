@@ -1,0 +1,1 @@
+program vb : main : D : boolean; Q, o4w0 : integer; do I(- not 181 + mX2 >= - true * true and 8230 + 10400, (36200) and k - true and 84800 > - false or 1760 - 07, (76) and 25800 - 229, 8 - 72, 781 = 28700, 4) end

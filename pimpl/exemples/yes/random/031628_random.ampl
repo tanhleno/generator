@@ -1,0 +1,1 @@
+program Oe : OM8aa : takes A, mV40 : integer returns boolean E : integer array; R, sR8aa : boolean; chillax end jmY : takes E5, G, C, s : boolean; p : boolean returns nothing p, PI : integer; input L; do G9L0(25 = 775, 211, 7010); do a(3, 1); do T(39) end main : chillax end

@@ -1,0 +1,1 @@
+program j : main : when case(0) / Er(731) <= - not(54) : chillax end case - not Ex0 and 92 and 3 : output "" . "\n" . "0Eaa"; output 7160; output ""; input z9; pop end case false and 9 + 19 /= 4 : do m(668, 49); do g0(682); when case 7 : chillax end end end

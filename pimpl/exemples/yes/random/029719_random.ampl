@@ -1,0 +1,1 @@
+program sA : I : takes yN60, X : integer array returns integer array chillax end main : output ""; pop - false and 6 + 24 <= - 20 - 9; when case 8 < 005 : let Gw9[3] = 2; let l0 = 3350; do Qr(0); pop end; do x(234 >= 1) end

@@ -1,0 +1,1 @@
+program s : r : takes jHy : boolean array; S, OT, I : boolean; X : boolean returns nothing b05aa : integer array; G : integer; chillax end main : let i730 = array true * 19; input W4[Cw(0)]; input k6[4540] end

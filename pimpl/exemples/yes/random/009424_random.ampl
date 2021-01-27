@@ -1,0 +1,1 @@
+program P : s : takes W, j_Baa, Qgu : boolean; N : integer returns boolean array Ir : integer array; PRha, Ke, rs, X : integer; L, a8, y : integer array; O6Qa : boolean; v : boolean; W : boolean; do c(e3 or 802 /= 69700, - 0780 - 20) end main : G, S : integer array; input I[- u[20700]]; output "" . - 5 . 6 = 53; output "(X" . 9 end

@@ -1,0 +1,1 @@
+program L : main : Z, r, Q, o9W, G, C, B5Aaa : integer array; nts, k, s1, t, Ic6a : boolean array; let YG1 = array not 8 / s; input R65aa[not false or true and 9 - 805]; input n; when case 503 <= 20800 : chillax end case 55 = 8 : chillax end; let r = 8; while 46 : chillax end end

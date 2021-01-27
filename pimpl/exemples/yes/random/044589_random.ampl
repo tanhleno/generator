@@ -1,0 +1,1 @@
+program i9 : L : takes V : boolean array returns nothing J750a : boolean array; Sz, C : boolean; x6i, k, Tq7 : integer array; v, VHM0 : boolean; chillax end main : SGHa : boolean; a2, Ov2aa : boolean; do s(86000 / (08) * not 6 > not true and false and 4, - (26) and(7) - true - 263 - 5420, - 875 and 1); input e; output ""; output "6" . "" . 5 . ""; pop 6 end

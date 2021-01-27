@@ -1,0 +1,1 @@
+program r : V : takes k9 : boolean; j : integer returns nothing chillax end MB5 : takes X6 : integer array; zR, J, B, V : boolean returns nothing M, t : boolean; t : boolean; chillax end main : E39 : boolean; D : integer; A : boolean array; TgMa : integer; pop 46 rem(0) and 663 - true and 5 or 6 - 3130 < - j73 and 0240 end

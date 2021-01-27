@@ -1,0 +1,1 @@
+program RB : main : xR3 : integer; o6Va, d, s : boolean; do P(- (35 = 02) and 98 + _[436] * I and 8 - false and 8 >= - 56200 + not 3870 - 14 - 19); input X[- L2(6) and not 7]; let Np[- Yo and 4] = array - 87; do uv(7 <= 70); output ";\\!"; do Zc(29); do g(1) end

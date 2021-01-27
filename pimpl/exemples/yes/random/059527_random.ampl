@@ -1,0 +1,1 @@
+program Z80 : f : takes xM7 : integer array returns integer let I = array - false or 7740 - 886; do D(- 1 - 3 >= 394) end e : takes jYKa : integer; FR : integer returns nothing Q : boolean array; q, n0 : integer; chillax end main : output - 7 - not 08700 or 7 <= z + 2 end

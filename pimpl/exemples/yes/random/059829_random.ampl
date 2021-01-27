@@ -1,0 +1,1 @@
+program gg : W4A : takes x3Ja : integer array returns nothing chillax end Y79 : takes lf8aa : boolean returns nothing j8, R3 : integer; Ea, K : integer array; V, E : boolean; chillax end main : let E = array true rem false rem false or(0000) * false and 511 or false - 2 end

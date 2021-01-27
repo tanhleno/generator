@@ -1,0 +1,1 @@
+program L86a : Y5H : takes O, U : boolean array; A : boolean array returns nothing D : boolean; while - (3) and 77 + 7 /= - 2 : chillax end end PI : takes a : boolean array returns integer array oF9 : integer; do g13(- 9 = 421) end main : b : integer array; b : integer array; zG : boolean; z, FCF0, s3, z : integer; chillax end

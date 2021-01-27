@@ -1,0 +1,1 @@
+program v : main : while - true / false : when case 3 /= 65400 : pop end case 5940 = 39 : do B9O0a(650); pop end case 795 : chillax end case 10 : chillax end otherwise : let P1 = 6; pop end; input Q6; do k9paa(407, 1) end end

@@ -1,0 +1,1 @@
+program wla : main : when case - false - 01100 * not 3 : do e(- 87 > 33) end case - false /= P and 9 : while 51500 : when case 6 : chillax end; pop end; let pf5[1] = array 9 end case false and 03 /= - 00 : let D = 74 end case - 97000 < 861 : chillax end otherwise : input v end; let kl7 = array(57) + true and 1040 end

@@ -1,0 +1,1 @@
+program hBL : z1 : takes B : integer array returns nothing V, H : boolean array; chillax end P5 : takes lD, SM : integer array; U9, J : integer; n, J, f : integer array; u : boolean array returns integer array u, Vv : boolean array; pop 70 = 25300; while 69 = 4 : do rfj0a(75); pop end; output ""; while 2 : chillax end end main : c : boolean; input l end

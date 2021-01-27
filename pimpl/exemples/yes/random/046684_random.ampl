@@ -1,0 +1,1 @@
+program N : Uy : takes g : boolean returns integer array n : boolean array; T9, G6 : boolean array; chillax end j : takes _fO, I9X : integer array returns nothing k, d5 : boolean array; mYq0a : boolean; D, _6zaa : boolean; e5 : boolean; qwVa : boolean; chillax end main : o : integer; output - true - false and 1750 - 2; do v(- 536) end

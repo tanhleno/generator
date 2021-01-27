@@ -1,0 +1,1 @@
+program X75 : A2 : takes t0, k : integer array returns boolean array q4, oX, Q, TD, L : integer; chillax end T : takes E, s2 : integer; z : boolean; f, t : boolean array returns nothing chillax end NP : takes MD70a, s3, Te0, H300a : integer; qf : boolean; e : integer; SG : boolean array returns integer chillax end main : chillax end

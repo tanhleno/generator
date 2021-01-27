@@ -1,0 +1,1 @@
+program o : N2e0 : takes G : integer array; R, p, l : boolean array returns nothing let f[(6) and 0 or 8] = array - not 9 + 7 end c7j0 : takes FpT : boolean; o : integer returns integer array chillax end w5 : takes z4 : boolean array; R : integer array; FY : integer returns integer a : boolean array; input mD[6370] end main : chillax end

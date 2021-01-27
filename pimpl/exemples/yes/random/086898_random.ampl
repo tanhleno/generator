@@ -1,0 +1,1 @@
+program h : main : r59a : integer array; a : integer array; O : integer array; eB9, Z : boolean array; when case - n(7, 73) rem(85) rem Tw2a and 799 or true = - not 2 * false and 1 or yP and 5 : output 6 = 0 end otherwise : chillax end end

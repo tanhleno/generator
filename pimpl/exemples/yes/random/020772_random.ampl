@@ -1,0 +1,1 @@
+program Rr : s : takes c, G : boolean array; o92 : integer returns nothing while - not 28 : do h(0) end; pop 3 end main : when case true : pop; input iR; pop 28; input C950a end; let Z[- (75) rem false and 9] = array - false or(9490) and 9 + 0 - 95; while - NQe - 573 - 2 > 10400 : pop 51000 end end

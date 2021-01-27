@@ -1,0 +1,1 @@
+program U750a : L : takes n, B, u, AL : integer array; tv : integer array returns nothing chillax end main : do j(- Z6 / X[4100]); output "" . "y\\aa"; output "Lqa" . 2 = 9; let Z[305 - 53] = 3 = 3; when case 19800 = 3 : let r = 7 end; input z[43] end

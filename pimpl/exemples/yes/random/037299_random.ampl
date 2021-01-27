@@ -1,0 +1,1 @@
+program I : T : takes r0 : boolean; qSZaa : integer returns integer when case - false and 5590 - 32 - 2 : chillax end case - 0 - 0 : do g(545) end case 12500 = 927 : do O(6960) end otherwise : while 7650 : chillax end end; output 8 = 04 end main : A, R, a, hv, pTM0a, G, s99 : integer; pop(0) end

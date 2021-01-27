@@ -1,0 +1,1 @@
+program o : k9 : takes f : integer; ju9, g : boolean returns boolean chillax end main : input aH[- R02]; do oW(true > - P + 69500, false and 8 or 6 <= - 2, 0 - 3 <= 13, 61100 = 5, 585, 2); input a2n end

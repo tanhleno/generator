@@ -1,0 +1,1 @@
+program S : S : takes Q860a, DY, g, a820a : integer; kq : integer array returns nothing a : integer; while true : chillax end end main : oN, x, f : boolean array; when case 0 > g[02] rem true and 56500 - not 5 : chillax end otherwise : chillax end; input C0 end

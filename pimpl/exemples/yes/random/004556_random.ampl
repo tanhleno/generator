@@ -1,0 +1,1 @@
+program W : pm : takes o8e, AI00, N3B, a : boolean; Sp4a : boolean array returns nothing pop end main : n : integer array; w8, K8M : integer array; Z, X, j, c : boolean array; K : boolean array; while - k(6, 1) + not J : do K(0, 979 = 9) end; output "" . ""; output "2" end

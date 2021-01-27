@@ -1,0 +1,1 @@
+program u : main : when case true >= true + 6 : chillax end case k + true = 1 and 52600 + 3 - 1 : pop 2410 end otherwise : do eH(26, 0, 19); do B4f(6, 65400) end; do N74a(y9(9) >= true and 8 + 3 - 5000); input p[- 5]; do j(- 5 - 0 > 1, 05900 = 0, 7, 9); pop; do p(5000) end

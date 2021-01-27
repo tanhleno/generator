@@ -1,0 +1,1 @@
+program r : g : takes e7 : integer array returns nothing do P(not 8 or 2 = 36 - 6, - 8) end Du : takes KK8 : boolean returns nothing when case - 03 <= 4 : when case 09200 : chillax end; pop end case 5 : chillax end end main : t : boolean array; when case not not(93) : chillax end case false + not 3 and 9 - 9 - 3 : chillax end case - false and 0 /= 055 - 885 : pop end end

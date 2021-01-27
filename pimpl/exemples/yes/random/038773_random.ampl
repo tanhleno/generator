@@ -1,0 +1,1 @@
+program M : L39 : takes p : boolean array; O, T : boolean array returns integer f5W, np20a : boolean array; ev, TU, X : integer; chillax end main : IC : boolean; let s[- u0(9, 9) * false - not 6] = - false and IdP0a and 6 > - Maha and 24 end

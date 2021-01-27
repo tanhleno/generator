@@ -1,0 +1,1 @@
+program d : s : takes hpy0a : integer; Hufa : integer array; o, t : boolean; P : boolean array returns boolean S, R : integer array; chillax end P1 : takes m : boolean returns integer R79aa : boolean array; P, h, b : integer array; chillax end main : F, v7 : boolean; output not r <= 7 and 2 or 2 - 06 . "9" . - 344 - 2; let L2[- true / (4) and 1 + E] = array 5 end

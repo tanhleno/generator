@@ -1,0 +1,1 @@
+program y : main : w : integer array; let H = - false * 0 or Wu00 and 0 /= - (501) and 661 or 7; when case - (7) <= - not 7 : chillax end otherwise : chillax end; when case - not 6 and 8 : do sl(18); output "S1\"" end otherwise : chillax end; let sA3 = array 59 - 90700; let n = 5 end

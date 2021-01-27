@@ -1,0 +1,1 @@
+program n : z : takes u : integer array returns integer array p, aXq0, nSp0, Mc, R : boolean; when case - 35 < 5 - 88 : chillax end case - 40900 - 3 : chillax end otherwise : chillax end end main : v, v : integer; M0 : boolean; zV90a : integer array; while true : input X[9]; let LK = array 58; pop; while 2 : chillax end; do E(731); pop end end

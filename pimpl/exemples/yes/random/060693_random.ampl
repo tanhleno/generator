@@ -1,0 +1,1 @@
+program kv : A : takes G : integer array returns nothing B5 : boolean; chillax end R4t0 : takes E, i2, Hc : boolean array returns integer chillax end main : do P1(- true and 473, - false or true and 6 + 8 - 9, 4 and 5 - 0 - 2, 8 - 27) end

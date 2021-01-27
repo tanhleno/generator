@@ -1,0 +1,1 @@
+program w3k : xs7aa : takes GP6, d, v, G, Ad, K3, a3m0, O : boolean returns nothing while - false and 5 or 92500 - 3 >= - 637 : let e = 8 end; let l = 90; output "" . 8; while 99 : chillax end; let vk = 4; input D63 end main : c : integer array; output ";e0a"; while - (64900) <= true and 5 : chillax end end

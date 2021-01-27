@@ -1,0 +1,1 @@
+program q : D : takes O_, P, e, _ : boolean array; u940a, X, q : boolean array; e : integer array returns boolean let G[- 4 and 2170 + 4 - 2] = array - 74 and 0 end main : PW60 : integer array; let t = array - (9) * bu1aa[835] * V; do q(not not 3 / false and 4); output "\ni0a" . "<7" . "" . ""; output 2 end

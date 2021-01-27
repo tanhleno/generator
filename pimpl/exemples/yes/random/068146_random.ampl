@@ -1,0 +1,1 @@
+program h6I0a : main : Ji4a, p, b, i, el0, Bl60, e : integer; y1Ra : integer; do VO(- true - true + not 442 and 35500, true * not 293 and 413 - true and 57 or 311 - 8 >= (6), - x6qaa or 6 > - 12400); do U(- false / 22000 - 51 = 3 and 86800, 4 and 160 + 86500 - 1); while - E7 - 29 - 209 : chillax end end

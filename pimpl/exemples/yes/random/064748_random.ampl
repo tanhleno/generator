@@ -1,0 +1,1 @@
+program AR : Z9 : takes f : integer returns nothing E : boolean; when case - false and 1330 - 2 : chillax end otherwise : input s; do X(42); pop end end main : iZ, c240a, Q : integer; T, P, f : boolean array; L : integer array; Ek_aa, ZQ, z4, uj : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Ek00 : k : takes W, Uk80a : boolean returns integer array r : boolean array; chillax end main : pop - 9 - (482) and 9 or 0; while - w14aa or 0 and 99 or 149 - 510 : let Kh1aa[4] = 06500; pop; do rl(609) end; pop 5 > 1 end

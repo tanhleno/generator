@@ -1,0 +1,1 @@
+program j : E2 : takes ui : boolean array returns nothing O8 : integer; input z; when case - 9 - 93 : chillax end otherwise : chillax end end main : yG6, d, w : integer array; H62aa, Q94, J, d76 : integer array; h : boolean array; h, Jo1a, kdJ0 : integer; Qp, i, Z : integer; E : boolean; chillax end

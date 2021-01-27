@@ -1,0 +1,1 @@
+program s990a : ME : takes XIZ0 : boolean; xv : integer array returns nothing A : integer; chillax end main : V9, x : integer; let B2H0a = - (651) - (70) + 65 - 1 >= false and 4620; when case(32500) and true and 25 + 91 + 3130 - 0 = false : do d(69900, 9, 82) end end

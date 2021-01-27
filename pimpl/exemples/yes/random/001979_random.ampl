@@ -1,0 +1,1 @@
+program w5 : x : takes P, L, t, g8, u, O4H : integer array returns nothing when case - true and 0710 - 93700 - 3 : chillax end; let O[- 4 - 64000] = array - 9 end main : b, d5 : boolean array; while - not true rem 670 : do n(- 2 > 22600); pop 8 end end

@@ -1,0 +1,1 @@
+program n : Xs : takes M, BNoa : integer returns boolean while(7) and 1 + 06 - 9110 : input yh end end _ : takes y, t : boolean returns nothing rD, z, f : boolean; H, w, z : integer array; B28 : boolean; chillax end main : x9c0 : integer array; chillax end

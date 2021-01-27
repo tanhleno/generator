@@ -1,0 +1,1 @@
+program c : t1 : takes yDGaa : boolean array returns integer array mPC0a : boolean array; NO4a, y6l0a : integer; when case true - 88700 - 6 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program mW : dW : takes n, nj2, OsB0, Bi, i, A, KB4 : boolean array returns boolean array C, GIpa, kQ3 : integer; chillax end main : let l = false / true - true and 54 - 34 - 16 < true and 6; while - true : chillax end end

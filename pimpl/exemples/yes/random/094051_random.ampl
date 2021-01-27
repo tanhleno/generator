@@ -1,0 +1,1 @@
+program J : main : pop - not x - false and 5 > - Y1; let fm[- 3 / not 1 and 551 - AU4aa] = array - false; when case - false - 05 - 66200 /= 3 - 561 : chillax end case - 4 /= 82 : chillax end case 46 = 5 : chillax end; when case - 53 < 0 : when case 7 : chillax end end otherwise : chillax end end

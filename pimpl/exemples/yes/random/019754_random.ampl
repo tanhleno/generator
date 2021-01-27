@@ -1,0 +1,1 @@
+program E : c : takes i7, N1daa : boolean array; b_ : boolean; d : boolean returns nothing chillax end k10 : takes i : boolean; e1i0 : integer returns nothing output "" . "\\" end main : dT : integer array; input D end

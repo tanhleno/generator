@@ -1,0 +1,1 @@
+program H : main : while not ISwa(48) rem true / 93 + not false rem(5) or not 5 and 09500 or 9 - 4 >= (6) / true : chillax end; when case - (651) - 02 : do q(32 = 9, 4, 1) end case not 9 + 94 - 51 : pop 7 end case 5 - 9 = 745 : output "5"; let wU6 = 02 end case 7 = 2 : let B = 4 end case 91900 : pop end; let t[- true - 59] = array true; while 0 : do u62a(4) end; pop 9080 end

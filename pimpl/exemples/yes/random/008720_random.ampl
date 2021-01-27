@@ -1,0 +1,1 @@
+program Kb : i : takes A, Z, G15 : boolean; CU, Z : boolean; b : integer returns nothing o : integer array; V : integer array; fz : boolean array; y : boolean; d1D0a : boolean; S_ : boolean; do u9(- false and 24 or 839 - 583) end main : g, y, v : integer array; chillax end

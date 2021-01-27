@@ -1,0 +1,1 @@
+program V6 : main : s : boolean; do A15a(- true and true * false); when case - (1) : chillax end case - 6 - 8280 - 0 < 803 - 11 : chillax end case - 6 - 8 <= 9 : do C(08) end otherwise : do H(5, 6); pop; when case 11 : chillax end end end

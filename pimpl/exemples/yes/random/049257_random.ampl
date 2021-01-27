@@ -1,0 +1,1 @@
+program S : JN : takes Q : integer; MQj0a, Y, M, pz, X, cg1, J : boolean returns integer Y : boolean; L2, B, G, o : integer; N : integer; u : boolean; output - 0 > 08 . 9 . 86 . 80; input h; pop end main : do pvd(- false / true + 911, - W[6] + c3 /= - 3 and 651) end

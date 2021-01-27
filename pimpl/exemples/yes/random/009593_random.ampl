@@ -1,0 +1,1 @@
+program h : V : takes s, n1A, h2n : boolean array; e, oa, y, t : integer array returns integer chillax end o930 : takes Q, T : boolean array returns integer output 2 = 9; let a = array 605; pop 9 end main : r5, Q, x : boolean; T240 : integer; pop - false; while - true = - 6 and 6340 - 3 : chillax end; while - (84) + 9630 <= 208 : chillax end; pop end

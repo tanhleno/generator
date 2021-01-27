@@ -1,0 +1,1 @@
+program l2 : R : takes m, z : integer returns integer when case - (58) > 6 - 0 : pop 6250 end case 92 - 7 = 2 : chillax end otherwise : input T; do g(53500) end end k670 : takes I : integer returns nothing let U = 3 = 14 end main : chillax end

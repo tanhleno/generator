@@ -1,0 +1,1 @@
+program EE : i1O : takes z9A, O0 : integer returns integer array chillax end w7Qa : takes O2, y9 : boolean array; q88 : boolean array; Y, L, cu : boolean returns boolean while 7 = 31 : chillax end; while 27 = 841 : do UR(0); pop end; while 47 : pop end end main : hf, o : integer; c90a, ri, f, r, A5, b : integer; m4, B : boolean; chillax end

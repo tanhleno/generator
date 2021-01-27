@@ -1,0 +1,1 @@
+program Ko4 : e20 : takes Be, Z, E, G : boolean returns integer YP6aa, HQ : integer array; A : boolean; while false : chillax end; pop end a : takes F : boolean returns nothing chillax end N : takes a, I : boolean returns integer B, NCR, W3 : boolean array; chillax end main : cX, RgNa, R, x0 : boolean array; pop end

@@ -1,0 +1,1 @@
+program y8 : y8b : takes E, m, E64, c : integer returns boolean array chillax end main : I, A, M : integer array; while false and not RVQ * not 4 and 5 >= F(24) - not 03 - 90 - 2 : chillax end; do F(Z + (39) or 7 - 7, false and 5600 + 5 - 9); pop end

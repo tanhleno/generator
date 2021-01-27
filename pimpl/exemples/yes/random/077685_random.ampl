@@ -1,0 +1,1 @@
+program m : main : P2, JZ : integer array; b0Eaa : integer; p : boolean; do s6(H[664]); pop - (52400) and 2 - 527 = - 13400 - 493; while false and 0 : do oE(0, 0) end; let Uy3[4 - 5730] = 9200 = 2360; input HQ5a; do q(60, 62) end

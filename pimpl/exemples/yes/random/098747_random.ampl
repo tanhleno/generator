@@ -1,0 +1,1 @@
+program Gu3 : main : while - 28 / true - M[9] and not 2 and 1 <= - not X : when case - 4 - 24 : chillax end otherwise : pop end end; while - true = - not 75 - 479 : chillax end; do y(- false and 1 or 34700, 0 - 62); do yj(10 - 4) end

@@ -1,0 +1,1 @@
+program R_Baa : r : takes X : boolean; Lv : boolean array; T, Y, rbT : boolean array; U, ax2 : boolean array returns integer array o8, K : boolean; chillax end main : B020a, k : boolean array; S, P : integer array; I, Y9z, z : integer array; _t : integer; DW, _ : boolean array; let r95aa[- false and A680[70] / true and 9] = true and true; input H860[- false + false] end

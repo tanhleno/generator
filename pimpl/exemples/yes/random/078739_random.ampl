@@ -1,0 +1,1 @@
+program g : main : N3g : boolean; M86, hp, b : integer array; B : integer array; u, wW, b : boolean array; output - p[7] or true < not 1 - 8 - 40 . "m"; when case - 635 or 3 and 7 <= b and 7 - 00 - 59 : output 32 . 50 . "" end case 8 + 2 : chillax end case 53 = 3 : chillax end otherwise : pop 4; when case 3 : chillax end end; output - 1 - 0 <= 0 . 2 = 1 . 82200 end

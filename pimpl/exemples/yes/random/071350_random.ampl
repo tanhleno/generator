@@ -1,0 +1,1 @@
+program j8 : main : ij00a, w, A : boolean array; do JW9(Nb5(24000) / true /= (5) * B1Vaa and 5 + 7, - t3F rem(77) and 3 or true - 8 - 1); while true or 42 and 5410 : pop; pop; output "N"; while 7 : chillax end; pop end end

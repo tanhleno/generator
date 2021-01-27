@@ -1,0 +1,1 @@
+program H : b9 : takes n, L65 : integer; w, F : integer; M00, R, J : integer array returns nothing pop; let Nc = array 00 - 91; do E(4 = 239, 91, 3) end wM8 : takes j, c8 : integer array returns integer array output "" . "im" . 963; let R[3] = 5 end main : do Z850(- not(90) and 9 rem(3) <= Nm - not 51 and 80, - 18 or g or 2 < - not 5); output "07!" . "080" . 9 = 7740 end

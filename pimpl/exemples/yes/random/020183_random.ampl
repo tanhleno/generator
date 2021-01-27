@@ -1,0 +1,1 @@
+program k : P2 : takes _Y, c : boolean array; Qg : boolean returns nothing do ah(- not 92 and 1 + 63 - 6720 < - 7 - 52, - 15 - 17500 = 36400, 119 = 42800, 5); let t4[49400] = array 5 - 9; do f7Raa(3, 8); input c[16700]; input r; let J = 1 end main : wK4, dtg : boolean array; y : integer; X930a, xu3, I, a, L91aa : boolean; R : boolean; W8, l, zo60a : boolean array; chillax end

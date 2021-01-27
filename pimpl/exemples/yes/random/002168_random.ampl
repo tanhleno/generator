@@ -1,0 +1,1 @@
+program Z : P : takes H, n, p, R, v : boolean; a, O : boolean; R3Baa : integer; S, u82a, A, p, o : boolean returns integer array do _(- true >= 499 - 06, 3 - 0); while 817 - 1 >= 97000 : chillax end end main : g : integer; d5 : integer; r9, D0, h : integer; output "" end

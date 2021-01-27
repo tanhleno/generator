@@ -1,0 +1,1 @@
+program Db : De : takes f, C : integer array returns integer chillax end CCu : takes L97 : boolean array returns boolean array u, N, H : integer; chillax end W : takes g94, w : integer; _, U, n, p : integer array; h86 : integer array; sk4, I : boolean; iKk0a : boolean; m : boolean returns boolean array chillax end main : Q8 : boolean; chillax end

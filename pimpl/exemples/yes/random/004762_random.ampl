@@ -1,0 +1,1 @@
+program I : W : takes FU, c, Uj4, b : boolean array; cJS, d, v, j : integer; p, yi, T : boolean; V, g60a : boolean; pd, Em6 : integer array returns nothing chillax end main : i1m : boolean array; b : boolean; C, h37, X, Bj : boolean; while 155 or true and false and 39 : chillax end; input _[- not(501) + NL and 47500] end

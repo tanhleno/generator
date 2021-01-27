@@ -1,0 +1,1 @@
+program o3 : Y : takes V5 : boolean array; O, Y8, N0O, y, A, z74 : integer array returns boolean lz : boolean; chillax end main : pop; while - (522) - false >= - R : do j4(37600 = 285); output 5 . "" end; input b; let S7 = 76; while 6000 = 12 : chillax end; do v(7); let J4 = 159; when case 585 : chillax end end

@@ -1,0 +1,1 @@
+program U : G : takes Bg : boolean returns integer array input dr[_09aa]; input R7; let wd[0] = array 3 end main : S : boolean; G1 : integer array; input q34[26 + r[8] * not 3 and 85900 - (1)]; while - true * false and 639 : chillax end; output "" . 766 . 5; output "q%" . "r\t0" . 909 end

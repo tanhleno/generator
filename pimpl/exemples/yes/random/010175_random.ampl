@@ -1,0 +1,1 @@
+program B : k : takes G, m, S : boolean array; o : boolean array returns nothing when case - not 5 and 76 <= - 98 - 270 : input COV0; input W; when case 5 : chillax end; pop end otherwise : chillax end end main : chillax end

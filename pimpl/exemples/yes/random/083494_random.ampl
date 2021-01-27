@@ -1,0 +1,1 @@
+program C : main : aJn : integer; P, D0, c : integer array; when case Ub2 / true / true - (42) = - 0780 and true : chillax end; let D = (0) or 3 = - 2 - 8850; pop; input r[- 9]; while 60800 : chillax end end

@@ -1,0 +1,1 @@
+program F : F1 : takes a : integer array returns nothing YM, E5, avN0a, y : integer array; do B5M(- (15) and 7 - 15 - 7) end main : woh0a, x01 : integer array; let uA2[- not(994)] = - true and true and 4 end

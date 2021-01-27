@@ -1,0 +1,1 @@
+program x : c : takes e : integer array returns boolean array h, N : integer; chillax end main : do t(- not(0) / not(21) / (1) and 4 + 9 / (26) > 0 + (7), YZ[47] and true and 912 - (9) and 68 + 26 - 663, - (4) and 5 < - 0 - 5); let Q[- z / false and 7 - c] = array - false / (89) + (6); while 7 or 475 = 95 : chillax end end

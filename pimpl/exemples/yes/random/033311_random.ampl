@@ -1,0 +1,1 @@
+program d7s : G : takes i : boolean; hG, qL, A, f, m, Q : integer array returns nothing chillax end l9 : takes bZ9a : integer returns nothing let N = 8 = 6 end W6 : takes d : boolean array returns nothing output 1 . "" . ""; let E76[06000] = 2; input xr end main : QC : boolean; a0, O : integer; pop - false * (8) end

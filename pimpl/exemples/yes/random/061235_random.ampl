@@ -1,0 +1,1 @@
+program f_ : HST : takes a69 : integer array returns nothing input pO[- not 96300] end main : o : boolean array; do H(- false * (7), - not true / true and 2000 /= - 6 or 1, - not 0 - 8 - 2530 /= - 13500 - 7, - 9); input ud end

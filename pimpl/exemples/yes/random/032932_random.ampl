@@ -1,0 +1,1 @@
+program E : Z : takes z88a, A0 : integer returns nothing I : integer array; G48, M : boolean; e, U, gADaa : integer; chillax end _u : takes u : boolean array returns integer array bgB, a, M : integer; E : integer; chillax end main : Oe10a, y : boolean array; l, Q : boolean array; input Th[- 16100 and 530 or J]; do Uu(- false and(5) - not 7 and 377); pop 6 - 3 > 32 end

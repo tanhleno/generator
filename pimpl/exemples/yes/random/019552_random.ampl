@@ -1,0 +1,1 @@
+program C : P93a : takes HW0, wysa : boolean array; t, pQb : integer array returns nothing chillax end K8 : takes fi8, nG20a : boolean returns boolean array b5, r : integer array; chillax end main : chillax end

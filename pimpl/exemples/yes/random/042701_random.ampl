@@ -1,0 +1,1 @@
+program x : O370 : takes G : boolean array returns integer array V81 : boolean array; do R(not 35 and 858); do T0(- 7040 - 64 > 32) end main : while - false + 2830 + not 0 and 5 : let V = array 2; pop 1; when case 3 : pop end otherwise : chillax end end; input l end

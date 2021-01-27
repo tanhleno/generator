@@ -1,0 +1,1 @@
+program R : C : takes v, D67aa : integer array returns nothing chillax end w : takes vU, q9J : boolean array returns boolean do z(- 97 - 20 /= 96); input jd3a[82]; do f7(3) end main : T0r, l530a, Mi9, l, A : boolean array; chillax end

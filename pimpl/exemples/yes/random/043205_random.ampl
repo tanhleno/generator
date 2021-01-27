@@ -1,0 +1,1 @@
+program C : y : takes kP : boolean array returns integer UM6 : boolean array; m : integer; pop 41 <= 8; do ae(- 422 > 7); while 9490 = 0 : output "\"+!" end end main : RE : integer; R, O, r6, Qqc : boolean array; chillax end

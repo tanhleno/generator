@@ -1,0 +1,1 @@
+program rc : m : takes v : boolean returns integer OM70a : integer; DR : integer array; chillax end No10a : takes J : boolean; s4, v5A : integer; E7 : integer returns integer array chillax end main : Y, h, Y6Ya, lz, H : boolean array; g7, Iv : integer array; p7 : boolean; C : integer; chillax end

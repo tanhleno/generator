@@ -1,0 +1,1 @@
+program VA6 : main : o : integer; while true or a7B[74] and(2) - 065 and 4 : chillax end; while - true rem(62100) + 54 or 27 = false and 1 - 23 : do y(0 = 6) end; when case not 8 and 3 <= 3 : while 7 : pop end; let W3 = 991; input a9; pop end case 9 >= 682 : chillax end case 39700 : chillax end case 5 : chillax end otherwise : chillax end end

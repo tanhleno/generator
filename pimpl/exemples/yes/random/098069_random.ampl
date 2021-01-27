@@ -1,0 +1,1 @@
+program n4 : main : while - (244 = 139) : chillax end; while not false and not 82200 and 349 - true + 6 <= (63) and 7 : when case 56300 = 9 : pop end otherwise : pop end; when case 245 : chillax end case 6 : chillax end otherwise : chillax end; input Th end end

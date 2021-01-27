@@ -1,0 +1,1 @@
+program dP1 : p3 : takes _ : boolean returns nothing output "" . "6w"; do r(- 938 < 38); while 14 = 0 : let C = 77500; pop end end k : takes l1, r : boolean; H0, d : integer returns integer array chillax end main : chillax end

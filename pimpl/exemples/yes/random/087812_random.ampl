@@ -1,0 +1,1 @@
+program vK3 : main : input t42; do oV_(7 rem 3, - not 4 and 3 or 25 = 0, - 28 > 59); when case(5) - 991 : chillax end case 93 /= 88 : while 165 : chillax end; do c10(4) end case 7 : chillax end case 0 : pop end end

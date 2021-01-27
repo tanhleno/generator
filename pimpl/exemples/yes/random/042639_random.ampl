@@ -1,0 +1,1 @@
+program Bsca : m : takes V : boolean array returns integer array u10a, b5G0a : integer array; chillax end h : takes v : integer returns integer chillax end main : when case - true : chillax end otherwise : let I0 = array 72; while 5 : chillax end; let TS = 7 end; while 59 or Q : when case 6 : let j = 65; pop end case 4 : chillax end otherwise : chillax end end end

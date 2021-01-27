@@ -1,0 +1,1 @@
+program b : main : s, aXD, S, F, O, L, g : boolean array; input F[true and true and 7 - not true - not 5 and 338]; do Y1s((11) = WB3 and 6); while true or 8330 = - 9 : output ""; input Gt; pop; pop end end

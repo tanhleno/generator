@@ -1,0 +1,1 @@
+program P3 : r0 : takes O : integer array returns integer array chillax end l7 : takes ep6 : boolean array returns boolean C4 : integer array; G55, qF, Jx : integer array; m, C : boolean; chillax end main : chillax end

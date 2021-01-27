@@ -1,0 +1,1 @@
+program z : Ep : takes o0, G : boolean; b, c : boolean; Ki7 : integer array returns boolean _, W4 : boolean; pop end main : dg5a, J : boolean array; output - false and d and 83 > true . 557 or 6 - 2 = - 72 . 6 - 5; output - false and 59700 + 28 - 2320 >= - 7 - 92 . "" end

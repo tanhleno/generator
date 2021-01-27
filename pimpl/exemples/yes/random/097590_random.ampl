@@ -1,0 +1,1 @@
+program B5 : main : when case true / not false < - true or dL and 8 : input t[- 7 - 06] end case false * 1 + false + 15 - 6 : input f end case - 1 and 7 : when case 47 : pop end case 3 : chillax end otherwise : chillax end; while 9 : chillax end; do C(10000); pop end case - 0 - 6 : let L = 46 end otherwise : pop end; output - true and 82 or 99; output "\"\t" end

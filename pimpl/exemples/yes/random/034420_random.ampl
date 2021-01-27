@@ -1,0 +1,1 @@
+program x : sz : takes X : boolean; O6, i : boolean array; q, c : integer returns integer array pop - 2 > 15 end main : _0A : integer; m : integer; g7Kaa, e : integer array; eM : integer array; c : boolean array; E1, bX : boolean; pop; pop - (11) or 30 - 2 /= 77; pop - 83 - 0 /= 583; while - 30 = 94 : chillax end end

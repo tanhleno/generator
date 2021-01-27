@@ -1,0 +1,1 @@
+program m : _uh : takes j, n7pa : boolean array; H7, E : boolean; H, svP0a, U7 : integer array; I : boolean array; qu : boolean array returns nothing output - 9 <= 9 end yx90a : takes V9, g : boolean array returns boolean ZQ, B : boolean; _, B5uaa : boolean array; output 44 end main : SX : boolean array; qr6 : boolean; chillax end

@@ -1,0 +1,1 @@
+program U : k : takes Gpw : boolean returns boolean chillax end main : N4, jOB, s, j, Z51 : integer; RW, A, w : boolean; C2 : integer array; T, E, bV, BO : boolean; while - p2J[38] : input A0N[- 9 - 58] end; input H6; pop 2; input e01 end

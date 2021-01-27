@@ -1,0 +1,1 @@
+program L : main : a, Jo : boolean; S2 : integer; J720 : boolean; C, o4ua : integer; do dI(95 - true and true + false and 1, not(012)); let t = array true and true and 70 - false and 01 + 4; pop; output 0 . 88; when case 0 = 465 : pop end end

@@ -1,0 +1,1 @@
+program v : main : do fkp(- 63 * true * false + q(697) * 9940 + true); when case - 5 * false : chillax end case - 9 and 64 or 1 < - 2 : input h[2]; input vz end case 789 - 3 : input jd end otherwise : pop; let S = 90 end; pop - 52; when case - 6 > 564 : chillax end case 68 = 1 : let P = 68; pop end case 24 : pop end case 2 : chillax end end

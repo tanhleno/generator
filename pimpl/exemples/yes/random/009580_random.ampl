@@ -1,0 +1,1 @@
+program v : Lz : takes qs90a, K2A0, n : boolean array; yc, K7Da, Q0Ia, h26a : integer; oH5 : boolean; NaA, s8 : boolean array; t : boolean returns nothing when case - (89) and 3 + 67600 - 61 /= - 8 : chillax end; do O(- 4 - 07); do AC(1) end main : chillax end

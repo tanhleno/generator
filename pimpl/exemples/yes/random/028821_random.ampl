@@ -1,0 +1,1 @@
+program XM : Z : takes F, N : integer array; x : integer array; b, nG : boolean array; C, w : boolean array; w : integer array; r, U1 : integer returns nothing v : boolean; F, F : boolean; do R9Sa(false - 0 /= 7) end main : chillax end

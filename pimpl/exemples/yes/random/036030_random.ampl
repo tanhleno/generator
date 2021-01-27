@@ -1,0 +1,1 @@
+program P71aa : r : takes D0 : boolean; j4Yaa : boolean array returns nothing LIx0, o : integer array; x : boolean array; do LgI0a(u and 67000 = 9, 214 - 0, 587 = 6); pop 72 = 75600 end main : W : boolean; V9w, L : integer array; OY : boolean; chillax end

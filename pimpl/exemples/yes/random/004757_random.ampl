@@ -1,0 +1,1 @@
+program d940 : EZ2 : takes y8, P17a, m3, uWW0a : boolean array; L, O, NG, x9 : boolean array returns nothing _64 : integer array; O : integer; let Hp = array - not 00 + 9 - 75800 end f : takes O, u9Q, rAX0, F, t3, T1 : integer; i, G02, N : integer array returns boolean while - 524 - 0 : output "0A" end; pop; pop end main : c6 : integer array; chillax end

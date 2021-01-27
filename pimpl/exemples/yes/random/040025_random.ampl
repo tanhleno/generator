@@ -1,0 +1,1 @@
+program lP : Xj : takes j440a : boolean array; bV : boolean array returns boolean array when case - false - 0 <= 53 - 80900 : chillax end otherwise : pop; input D4; pop end end main : let K7[not true] = array true / 665 * (89) and 5 - false rem true; do o(not false rem(4) or PF and 0 + 97 - 871 = (5)); when case - true and 1 + 68 < - 4 : chillax end otherwise : chillax end end

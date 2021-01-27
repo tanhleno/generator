@@ -1,0 +1,1 @@
+program Mx50a : hN : takes S, yv1, M, W, KN9aa, D : integer array; u3, pn, t : boolean array returns nothing U : boolean array; when case - (4) and 9 or 01 /= - 65 - 21 : chillax end case 9 /= 14700 : chillax end end tuWaa : takes t, M, nhpa : integer array returns boolean array while - 2 - 6 : do pv(7); pop end end main : chillax end

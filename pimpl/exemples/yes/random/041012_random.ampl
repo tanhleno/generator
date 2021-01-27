@@ -1,0 +1,1 @@
+program YOkaa : k : takes P : boolean array; U44 : integer array returns boolean let Y41 = 51 > 381 end Mcq : takes Z290 : boolean array; Ty : boolean; S, Bj : boolean array; o1, x, H, Ce : boolean array; yx : integer; bL : boolean returns nothing Zq : integer array; chillax end main : let _[(42700) / not(7) * true] = array 39 rem not 80 / (1) or false end

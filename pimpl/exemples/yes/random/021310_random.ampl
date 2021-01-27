@@ -1,0 +1,1 @@
+program h : A : takes f8, oU : boolean array returns integer array chillax end main : while - E67 rem 9 and(2) or 24 and W1 + not 5 : chillax end; while - 06 / K or(5) /= false + 05 - 293 : let OQ0aa[880] = array 0 end end

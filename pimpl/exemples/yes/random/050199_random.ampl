@@ -1,0 +1,1 @@
+program jyZ : DK4 : takes R : integer; a4, i7, Q : integer array returns nothing output "4"; while 8 <= 51900 : chillax end end main : T : integer; q, i, H, N_A : boolean array; RN5 : boolean array; do H6(false * true - not 83400) end

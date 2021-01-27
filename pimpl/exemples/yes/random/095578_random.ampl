@@ -1,0 +1,1 @@
+program I4 : main : when case - (90900) / 03 : input GlQ[- 7] end case true and N and 7 <= 4360 and 38800 or 24200 - 02 : chillax end otherwise : chillax end; do eg9(W[27] and 1 and 3 + 7760 and 288 <= false) end

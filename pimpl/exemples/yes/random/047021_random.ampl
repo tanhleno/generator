@@ -1,0 +1,1 @@
+program B1 : J4O0 : takes AQU : boolean returns integer z8, BFz0a, F, q : boolean; f9, o : boolean; input raraa end M : takes e, _, I, L, h, u : integer array returns boolean while - 03 - 82 : input Q3 end; input M0P0[4] end main : D6W : boolean array; chillax end

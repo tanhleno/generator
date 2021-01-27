@@ -1,0 +1,1 @@
+program u : pzJa : takes _ : integer array; n, H, GV, wf : boolean array; z : integer; X : integer returns nothing while - fH and 8 >= - 9450 - 8720 : chillax end end pJC0 : takes D : boolean array returns boolean array D8 : boolean; while 170 - 5 >= 9 : chillax end; output 4 . 2 . "/" end b : takes F7 : boolean returns boolean array OKo : integer; chillax end main : chillax end

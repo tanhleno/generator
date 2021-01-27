@@ -1,0 +1,1 @@
+program Os : d : takes C680, k : boolean; rc, v, M, L_ : integer array; C6, O5W0, e0 : boolean array returns nothing chillax end main : V53 : boolean array; while - true - V(8) * false or true or 0 - 86 : pop 884; let R[9920] = array 7820; let y7[623] = 270 end; input v25[- D(56)] end

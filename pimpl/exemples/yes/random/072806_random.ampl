@@ -1,0 +1,1 @@
+program O5b : main : su, M0Ha, k : integer array; L, b5 : integer; D4z, q05aa, s : integer array; t : boolean; p : integer; B, cuX0 : boolean; i : boolean; E5 : boolean; while 309 = not(14) / (80) : while 0 : pop; when case 9890 : chillax end end end end

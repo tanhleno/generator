@@ -1,0 +1,1 @@
+program p : main : k7m0 : integer; when case - uW(458) rem z / not 1 > - 1560 * (34) : let N[- 2] = 19; output 98; input H; pop; output ""; pop end otherwise : pop 378; let d1 = array 7; let K = 4 end; pop not 25900 >= 08; when case - true + 60 - 4 >= - 1 : chillax end case - 70100 - 599 : chillax end otherwise : chillax end end

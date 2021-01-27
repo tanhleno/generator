@@ -1,0 +1,1 @@
+program B : en1 : takes q : integer; o, V9 : boolean array returns boolean array JW4 : boolean; chillax end c : takes c : boolean array; O, X, J, m5 : boolean array; W0 : boolean returns nothing k : integer array; B7 : integer; input i[- 33600]; input b82aa[1] end main : chillax end

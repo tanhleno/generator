@@ -1,0 +1,1 @@
+program X : n7 : takes g : boolean; mLg0 : boolean array returns boolean v : boolean array; T, a, K0 : integer array; T : integer; r3 : boolean; chillax end main : n : boolean array; let l[true / mF(4)] = - not K + true and 43 - 0 end

@@ -1,0 +1,1 @@
+program P : j6 : takes b, _y50, e61aa : boolean array returns nothing let z[(0280) and 885 + 4650 - 18] = - 1 end main : w47a : integer array; u3t : integer; GA10 : boolean array; y6 : integer array; nQ, p, nh : boolean array; chillax end

@@ -1,0 +1,1 @@
+program C : Dx : takes Ljw : integer returns nothing r : integer array; do T1(true and 1780, - 957 = 9, 174, 62, 4) end main : P, ZK9 : integer; while - 74 and false or false / true and 6 or s : do WZ(51700 = 4, 090 = 37, 44, 1); output 306 . "" . ""; while 5 : chillax end end; output "|oaa" . "W" . "" end

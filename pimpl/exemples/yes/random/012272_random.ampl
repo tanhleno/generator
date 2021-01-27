@@ -1,0 +1,1 @@
+program N : Z : takes O1W, z4, xq40 : boolean returns nothing Q8O0a, RH : integer; W, k73 : boolean array; chillax end Z0 : takes H9m0, MT, E : integer array; A3, x : integer returns boolean z2Uaa : boolean array; chillax end main : y, p4 : integer array; tM20 : integer; do B(false and 58 / (68) and 188, - not not 2, - true = 39300 - 48) end

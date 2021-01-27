@@ -1,0 +1,1 @@
+program PS : N : takes o3c, Z, Su : boolean array returns boolean array S, Z : boolean array; when case o - 2 = 2 : when case 9 : chillax end otherwise : chillax end; while 66 : chillax end end end main : do zw(false + 5 - true - 6 /= N(1) / false); let c = array 9 and true and 0 + not 5 - 0; pop 237 end

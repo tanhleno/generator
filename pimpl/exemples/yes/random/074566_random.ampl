@@ -1,0 +1,1 @@
+program QLS : main : h, NtS : boolean array; g, I, o, Y, B, Z0 : integer array; Z, PAF0a : boolean; X1, X, r : integer array; when case - false / true = not i * true and 4 - true and 54 : chillax end otherwise : chillax end end

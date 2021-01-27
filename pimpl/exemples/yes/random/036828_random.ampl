@@ -1,0 +1,1 @@
+program q : s : takes v : boolean; p : integer array; M : integer; w, d, c1 : boolean; PJ, ct5, W : integer returns boolean p, S : boolean; input y1v0 end main : when case - W(1, 0) : chillax end; do J(- 60 < - false); do da1(o, 3 - 2700) end

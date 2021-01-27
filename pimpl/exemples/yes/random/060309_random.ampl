@@ -1,0 +1,1 @@
+program Al : U6Oa : takes w : integer array returns nothing t3, T2r, Chza : boolean; chillax end R : takes Z : boolean returns nothing do U(- 034 - 16 >= 96); output ";" . ")" . "" end main : chillax end

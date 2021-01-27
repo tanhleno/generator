@@ -1,0 +1,1 @@
+program i : main : when case - 9 - not 3 / true and 45 or 94 and 2 or 3 : pop 0; output "("; do TUp0a(004, 04) end case - ga3a[9650] * true and 1 + false and 5 : chillax end otherwise : chillax end; input uZ20 end

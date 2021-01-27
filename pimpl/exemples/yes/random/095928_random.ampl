@@ -1,0 +1,1 @@
+program h80 : main : when case - false rem true and(9) + (6) * (21000) and 25 or(90) and 2 + 2 - 3 <= - Y8I[8] rem true : chillax end case - 2 * 3670 and 219 or true > false and 5 : chillax end case - false and 638 + 300 >= 4 - 084 : chillax end end

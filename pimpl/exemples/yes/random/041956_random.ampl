@@ -1,0 +1,1 @@
+program Cr60 : f8X : takes n : boolean array returns boolean chillax end ZF : takes _ : boolean returns integer chillax end K6 : takes P4ea, g : boolean returns boolean array do C(712 = 25); while 3 : pop end; input r8A; when case 3 : chillax end end main : do qR(4 - (2340) / jy - true < - true rem K2q0 and 48 - 04) end

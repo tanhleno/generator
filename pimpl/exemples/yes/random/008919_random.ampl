@@ -1,0 +1,1 @@
+program q : k : takes t0Naa, kIgaa, VT : boolean; M, U : integer returns boolean chillax end main : Q, P0 : boolean; h : integer; z, Sw, K0 : integer; T7 : boolean; b3, V : integer; BHl : boolean; input L[(0) / nR[1] rem false and 7 or true rem Qi and 5] end

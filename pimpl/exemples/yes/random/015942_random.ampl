@@ -1,0 +1,1 @@
+program X : T : takes R900a, Q9, AbGaa : integer returns integer array g : boolean; chillax end xx9 : takes e : integer array; AU6aa, bQVa : boolean array returns nothing F, etwa, D, hP : boolean; input zH[3 - 2650] end main : chillax end

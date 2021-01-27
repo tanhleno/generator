@@ -1,0 +1,1 @@
+program I : main : k : integer array; E75a, i : boolean array; i : integer; z : integer; input S; while true - g and 4450 + 80 - 9 /= (4440) and 8200 or 4 - 47900 : pop 86; output 7 end; input Fq end

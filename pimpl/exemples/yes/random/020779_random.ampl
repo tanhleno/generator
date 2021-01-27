@@ -1,0 +1,1 @@
+program l : k3m : takes QX, F : boolean array returns boolean array chillax end B8 : takes P96, U : boolean; K : boolean array returns boolean while 6 : do V(06) end end main : h, j, Y2, g : integer; chillax end

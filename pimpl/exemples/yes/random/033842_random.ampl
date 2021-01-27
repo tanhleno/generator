@@ -1,0 +1,1 @@
+program D : Fu8 : takes kQI0a : boolean; J, R5Sa, W1 : boolean array; _95aa : integer; u1 : integer; lQ : integer; q0K : boolean array returns boolean array wxb : integer; chillax end main : _ : boolean array; k : boolean array; J, o6, PC, NsS : integer array; R9 : boolean; Z, S7a, X : boolean; do c(- false - W(14) and(254) and 3); input tFuaa end

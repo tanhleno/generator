@@ -1,0 +1,1 @@
+program S7za : O : takes E5H, TE, k, o0 : boolean array returns boolean array c41a, NN, g, gh : integer array; pop - 75500 - 7 > 385 end main : g : boolean; while true * (0) * not 4940 or 86 * U2 : do Z(- 4 - 1 <= 84) end end

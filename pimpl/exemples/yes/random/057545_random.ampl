@@ -1,0 +1,1 @@
+program a : N : takes Zl : integer array; bF8a : integer returns nothing input rB5[- false + 10 - 14]; output 9 . "" . "" end s : takes r : boolean returns nothing qX5, V, S : integer array; E1f, w76 : boolean; do k(- 4 - 2) end main : input t[true - true / (327) and 15900 + (85) or 62 - 1] end

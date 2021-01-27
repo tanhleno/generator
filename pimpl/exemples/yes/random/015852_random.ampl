@@ -1,0 +1,1 @@
+program s : K : takes rtp, b3O0, S : integer returns boolean O : integer array; wr : boolean array; A, NU : integer; chillax end W : takes XR : integer returns nothing X, H : boolean array; when case 6870 < 37900 : let j05 = 40 end case 7260 : input g; pop end end main : let H[KLd + (8) - true] = - 4 + 1; pop - true end

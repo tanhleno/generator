@@ -1,0 +1,1 @@
+program l : sF10a : takes vb8 : boolean array returns nothing y, d : boolean; K3J0 : boolean; LP : boolean array; z : boolean; V370a : boolean; N : boolean; chillax end main : output "S" . "K" . - 76 - 584 > 33 . ""; input dJ[B or false] end

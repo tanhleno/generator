@@ -1,0 +1,1 @@
+program Q370a : J : takes N, Tb10a, cJv, dj, d, N : boolean array; l8, G8i0, EC1, p6 : boolean array returns integer uO, d4K0a, k5 : boolean; Y, S : integer array; chillax end main : pop; input sG1 end

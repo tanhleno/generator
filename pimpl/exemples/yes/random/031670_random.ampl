@@ -1,0 +1,1 @@
+program T : w73a : takes X, U6 : integer returns boolean when case - (9) and 8 - 4 - 9 : while 8 : chillax end; output "}\"\"a" end case 41 - 5 : chillax end case 7 = 3 : output ""; pop end case 7 : chillax end otherwise : pop end; output "" end main : J, xEr0a, DJ : boolean; K5 : boolean; when case - (1 = 05) and(62) : chillax end end

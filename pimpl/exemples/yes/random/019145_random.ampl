@@ -1,0 +1,1 @@
+program X : zy : takes AR, p : boolean array; x, EU8 : boolean; kiO, J9 : integer array returns boolean array chillax end _V : takes t, g0o0a, yxFa : integer array; Oe : integer array; D : boolean array; P, rE, J, m10 : integer returns integer let Z4 = array 60 - 91 end main : input d4; do pt80(- (2) or false); do B(QZ60a and 2 + 47 - 7840); do V(- 3 - 7 < 5, 9, 61) end

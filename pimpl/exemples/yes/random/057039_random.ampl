@@ -1,0 +1,1 @@
+program J3 : KA : takes o45aa : integer array; _62 : integer array; a1 : integer array returns boolean while 2 and 39 or 3190 : chillax end end i6 : takes u4, C : integer array returns integer array Y4 : boolean array; chillax end main : let H = array - r9 rem false end

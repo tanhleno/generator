@@ -1,0 +1,1 @@
+program xm : YO9a : takes Wq20 : integer; T, C, G : integer returns nothing chillax end main : v : boolean array; o : boolean array; _, U, F, K : integer; let hs3 = - true rem false and 8; let y7z[KC40a and 8] = - false + 23 end

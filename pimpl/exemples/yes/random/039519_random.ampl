@@ -1,0 +1,1 @@
+program g57 : f : takes ZLu0 : boolean array; e : boolean; W, u, j, v : integer returns nothing do rQ(- (85)); while - 7 - 11 >= 249 : chillax end end U : takes T4p : boolean array; ex : integer returns boolean output ""; input O; let p = 6; let v = 5 end m6g : takes k : boolean array; L : integer returns nothing P, F : integer array; chillax end main : pop - j(1) + false end

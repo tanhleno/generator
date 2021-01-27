@@ -1,0 +1,1 @@
+program ef : E34 : takes s : boolean array returns nothing when case(22) and 3980 or 363 - 2 : chillax end case - 7 <= 6 : while 785 : chillax end end otherwise : chillax end end main : c : boolean array; input v[- false rem 8 + false * (504)] end

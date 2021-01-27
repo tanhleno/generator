@@ -1,0 +1,1 @@
+program P : main : nmfaa : integer array; H : integer; let TO[true] = 2 and false /= - false and 59100 + 288; pop true and 25 or 8 /= - 9760; let pzia[- 4 and 5 + 8] = - 9 = 91; while - 57 /= 2 : pop; pop; pop end; output ""; when case 9140 : chillax end end

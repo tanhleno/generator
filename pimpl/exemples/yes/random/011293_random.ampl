@@ -1,0 +1,1 @@
+program Y : Iu : takes K, G, K : boolean array returns nothing F9 : boolean; j25, R, j2m, mX : boolean; input U[- not 670] end main : b1j0a, H, q80, M72, i : integer; q, Y8 : boolean; input aI10; let a[not(2) rem O and 94300 + not 01] = array - not not 90 and true + not 1 and 02 - 54 end

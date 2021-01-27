@@ -1,0 +1,1 @@
+program U : Y : takes qG, g10, VI, w, N1S0, Bp50, g, g : boolean array; hLY, w1v : integer array returns nothing P, ox0, kH2, Y, Z66 : integer; when case - not 3 and 4 = - 5 - 8340 : chillax end end main : Ik1 : integer array; pop end

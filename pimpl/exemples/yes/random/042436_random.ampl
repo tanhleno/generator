@@ -1,0 +1,1 @@
+program En : v : takes C3 : boolean array returns integer array chillax end l02 : takes g : boolean array; A, JQ30 : integer returns boolean D, R310, t7, q : integer; w : boolean array; Y, Qu : boolean; while - 83 - 6400 /= 5 : let S = 78000 end end main : output "" . "4" end

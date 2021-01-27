@@ -1,0 +1,1 @@
+program Q38 : main : N6, dud, tE : boolean; c : integer array; N65, Yn, J, ym20a, N : boolean; when case - not 74 / not not 78500 >= false - true and 145 : chillax end; pop(566) or 4; let G64 = array - (9) and 3 end

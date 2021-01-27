@@ -1,0 +1,1 @@
+program uy : D : takes dz1, s : integer array returns nothing g, LXu0 : boolean; let F3 = 1 = 741; input wT; pop 85 end main : zG5, h5L, w : integer; pop false >= - false + 1 - 852; when case not true and 921 and 8 /= - true or 9 - 4 : chillax end case - true >= 2 : chillax end case 83 - 159 : do o(21) end end

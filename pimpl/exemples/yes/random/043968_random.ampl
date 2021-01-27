@@ -1,0 +1,1 @@
+program c : i : takes V4t : boolean array returns nothing q, Ak, d2Z0a, O, rS30 : integer array; chillax end h : takes Ifraa : integer array returns nothing chillax end Rw : takes y, i, d3M0a, NE : integer returns integer chillax end main : Il : integer array; let PL = - false * false; output - 5 and 99 + 43 end

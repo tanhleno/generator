@@ -1,0 +1,1 @@
+program hK : u : takes P, Ru8 : boolean returns integer yL8a : boolean array; chillax end GP : takes r, JSK, X7s0, I, l, N, f : boolean returns boolean H : integer; M6 : boolean array; when case - 1 - 71700 /= 5 : output "" end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program FD : I : takes a : boolean array returns integer while(0) and 5 + 3 : input FY5; when case 2600 : chillax end; let a2Eaa = 11; pop end end Gh80a : takes c, D2R0a, k2, Sj_, V : boolean; jD : boolean array returns nothing chillax end main : KE : integer array; chillax end

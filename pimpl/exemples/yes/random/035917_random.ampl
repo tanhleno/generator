@@ -1,0 +1,1 @@
+program y : V0 : takes q : boolean; O : boolean array returns integer array Q, R_ : boolean; _, My1, Fw, zi : boolean; n8, u : boolean; chillax end main : when case(45) or not bF <= - w(34) rem(0) and 90 - Y48 and 714 - 37 : let W = 6 = 743; pop 44; output ""; pop; let x9 = 5; pop end case - R9(6620) : chillax end end

@@ -1,0 +1,1 @@
+program F_e : W : takes w : integer; J, ii, C8 : integer; _9, iW : integer array; f1 : boolean returns nothing O : boolean; R, u, r72aa : integer; A84, N91, e : boolean array; do C(- true and 0 + 02 - 9 >= - 9 - 10) end main : DyJ0a : integer; pop; input BDG[- false]; output 57 - 49; let OE[53 - 4] = 5 = 6; while 06 = 9 : when case 6 : chillax end end end

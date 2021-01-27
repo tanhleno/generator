@@ -1,0 +1,1 @@
+program au6aa : e : takes v4 : integer returns integer array d, A, k, v54a, w : integer; zFr, d, g, z9 : boolean array; let u = array true and 2 + 8 - 87600; when case 2 < 6 : chillax end end main : chillax end

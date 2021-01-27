@@ -1,0 +1,1 @@
+program I : main : PtT0a, H : boolean; t, RR : boolean; U, a, y : integer array; O, c4 : integer; do otI0(not false > - false * false and 82, 26 or(7) and 1); let Y990a = - not 2 >= 0; let m[(3) and 89700] = array true end

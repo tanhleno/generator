@@ -1,0 +1,1 @@
+program a : G9 : takes CX1 : integer array; Xx : boolean returns integer array Zd : boolean array; P6 : boolean; chillax end Ar : takes Kf : integer array; Iy : boolean; B, D : boolean; H, h50, K, Z : integer array; U : integer array returns nothing chillax end main : S : integer array; J, Q : integer array; let O[- not 27100] = - Pjj end

@@ -1,0 +1,1 @@
+program rH : main : when case false >= FhH[5] * not 6 + true : do L(47 - 4, 248, 572, 9); input AQ1aa[93800] end; while(30) or dE and 92 - 96 - 971 = false and 55 : chillax end; when case(24) and 84 : chillax end case 22 < 90 : chillax end case 9 = 5 : pop end; output 74 = 5 . "#5!" end

@@ -1,0 +1,1 @@
+program z5b : jI : takes K, x0J, J, XO, uPA : boolean array returns nothing when case - not 694 - 7 - 00 : pop; pop end case - 707 : chillax end case 5 = 86 : chillax end case 30 : chillax end otherwise : chillax end end main : _, S, Rr : integer array; chillax end

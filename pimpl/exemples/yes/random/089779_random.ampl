@@ -1,0 +1,1 @@
+program s2 : main : let s = array(4 = 94) or(0); output true <= 93600 - 23; input Cp[true and 4]; while - 408 : while 77 : chillax end; while 06700 : chillax end end; pop; let y = 18200; output ""; output "^\\"; pop end

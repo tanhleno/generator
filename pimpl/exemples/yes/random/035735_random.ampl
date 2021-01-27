@@ -1,0 +1,1 @@
+program k : B : takes TjH0 : boolean; Y1s : boolean array; V : boolean array returns boolean do hW30(- (89) and 37400) end GM30 : takes x8, PToaa, OcO : boolean; F3 : boolean; zn, n, y : integer; S, KHU, L, sv : boolean array returns nothing Y, W, hJ : integer array; Oj : integer; chillax end main : L0 : integer array; chillax end

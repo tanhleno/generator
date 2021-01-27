@@ -1,0 +1,1 @@
+program io : tYNaa : takes W, U, u59 : boolean array; F, ec1, p2 : boolean array returns boolean chillax end gL : takes H6 : integer array returns nothing c3, PTy, s7, q : boolean array; n1 : boolean array; chillax end k : takes R, f : integer returns boolean array K5 : integer array; u60, gy : boolean; i : boolean; H : boolean; output 54 . "" end main : chillax end

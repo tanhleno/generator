@@ -1,0 +1,1 @@
+program O : Z : takes t, IV2 : boolean array returns boolean array ctE, b, Z : integer; Fg2 : integer array; chillax end main : A2L, b, d, i5 : boolean array; m : boolean array; z6x : integer; input o3[- not(74) or(1)] end

@@ -1,0 +1,1 @@
+program k : J9 : takes Xg1 : boolean returns boolean array B, M, s : integer array; X, S710a : integer; let m2[(68) and 89] = 7; input m; input s4; output "N"; when case 09 : chillax end end main : let c4 = array 186 or true end

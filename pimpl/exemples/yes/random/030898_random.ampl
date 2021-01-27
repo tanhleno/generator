@@ -1,0 +1,1 @@
+program U : nb3 : takes J, h9 : integer array returns nothing fas0a : integer array; chillax end x5G : takes H, PD9, Y1G : boolean returns nothing output "@"; input F[86]; input L; pop; while 98 : chillax end; pop end y : takes h : boolean returns boolean chillax end main : fL : integer; h2, A : integer; chillax end

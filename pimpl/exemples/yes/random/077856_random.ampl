@@ -1,0 +1,1 @@
+program Y : main : H2, x : integer array; input _[false / true and(38900) and 0 or false rem J1]; when case - (3) : do u(6 = 54000, 1, 18); input P[056]; input s7naa end case - (27) and 3 - 01 - 2 >= 28300 - 226 : do L(35, 0); input e end case 2510 - 7 > 29 : chillax end case 43 = 369 : chillax end end

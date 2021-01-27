@@ -1,0 +1,1 @@
+program V : U : takes M400a : boolean; yv : boolean; S72 : integer array; H, nI0 : boolean returns nothing chillax end main : output - (4880) * false or 4 and 01700 /= not 21500 and 8310 + 9170; output "" . ""; when case 7 and 4 = - 80 : do QA(571); do KL(42) end otherwise : chillax end; do Y(- 2, 2, 8, 278); when case 7 = 96 : chillax end case 0 : pop end; let qV1 = array 4 end

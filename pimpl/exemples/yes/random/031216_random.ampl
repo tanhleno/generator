@@ -1,0 +1,1 @@
+program Y6 : N9 : takes p, g9 : integer returns boolean array chillax end main : S4, P : integer array; R5 : boolean array; output ""; input gik0[- not false]; input L[06 + 8]; let pW[- 64000 - 9] = array - 3 - 988 end

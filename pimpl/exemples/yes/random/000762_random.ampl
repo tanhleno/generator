@@ -1,0 +1,1 @@
+program p : _Wa : takes h, r, y, a, K, WV50, a : boolean returns integer array PW, g, x, z_9 : integer; input q[- (7) and 33 - 2] end lQp : takes JMd : integer; j : integer array returns integer array D79, Szv, sC, A : integer; chillax end main : O3 : boolean; input dv0[am[65]] end

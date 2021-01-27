@@ -1,0 +1,1 @@
+program W : x : takes l84 : integer array; w5, B73 : boolean array; e, f, Ef90 : boolean array; t, r7 : boolean returns nothing ZA, WM : integer; chillax end main : output "<o0" . - (1) - 4; pop v82 - 1 - 9; while - (4) - 08 <= 9 - 5 : let DZ5aa[32900] = array 8 end; input I[- 8 - 5] end

@@ -1,0 +1,1 @@
+program E : e6Pa : takes UT7, m : integer; G7H, L, a, IAZ, rNl : boolean; U, h, w6Na : integer; K, f, R1 : integer array; S, l05, fk3, P : boolean array returns nothing _ : boolean; do v((7) and 6 > 4) end main : output "z\t!a" end

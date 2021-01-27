@@ -1,0 +1,1 @@
+program X9 : c : takes s74aa : integer returns boolean G : integer array; let d = array p + 19100; output 7380 . "L"; while 1 : pop; pop end; output "" . "\n" end DJd : takes Krf : integer; h : integer returns boolean array while - 3 - 95 > 15 : chillax end end main : J9a0a, f, BxFaa : integer; o3, YU, e : integer; FA, k : boolean array; c, SS, D, X : integer; chillax end

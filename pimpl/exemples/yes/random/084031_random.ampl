@@ -1,0 +1,1 @@
+program f0b : main : l : integer; s : boolean; when case(62 = 26) : chillax end otherwise : pop 19; when case 4230 : chillax end otherwise : chillax end; output ""; input p; pop end; do g8(not true * not 56700 and 3020, false and 0 + 2 - 2 = 854, 93600) end

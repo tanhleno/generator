@@ -1,0 +1,1 @@
+program m : k12aa : takes m : boolean array returns nothing while not 17 + 5 >= - 77 : chillax end; pop 2280 end main : while(1) and 5 and not 6 - false = - e / (3) and 66 : let _8 = array - 6260 - 5; let Q[66] = array 09 end; when case - false and(351) and 97 /= false : output "" . "k" . "" end otherwise : chillax end end

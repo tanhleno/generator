@@ -1,0 +1,1 @@
+program T : x : takes u930a : boolean array; j, H, aV40a : boolean; W : integer returns integer J : integer array; chillax end B : takes F : integer returns nothing do O(- 04 <= 9730) end main : chillax end

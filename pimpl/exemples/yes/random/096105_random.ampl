@@ -1,0 +1,1 @@
+program LL : main : when case - M[76] rem not true : while - 9 : chillax end end case 32 and B0 /= not 3 and 709 + 18200 : chillax end; output "" . "7(aa"; output - 2 - 4 <= 4; pop; input dE; let X[36] = array 48; do N(25); output ")"; pop end

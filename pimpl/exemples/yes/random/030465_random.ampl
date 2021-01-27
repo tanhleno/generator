@@ -1,0 +1,1 @@
+program T : J : takes B64aa, U : integer array returns nothing k, QLVa, n, fte, i9 : integer array; chillax end f0saa : takes n0R, Mr : boolean array; i, pJcaa : boolean array returns integer pO : boolean; chillax end main : input i[not false rem not false rem true and 3120] end

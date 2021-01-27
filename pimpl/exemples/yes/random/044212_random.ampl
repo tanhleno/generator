@@ -1,0 +1,1 @@
+program S2 : U : takes f37 : boolean array returns nothing IP, E : boolean; S : integer array; pop end main : D, xV : boolean array; do p5(false - (97700) or t and 6 = - (57) * (1300) and 14, - not not 057 * false or not 3, - 2 or 93 - 9, - 95 - 8, 24) end

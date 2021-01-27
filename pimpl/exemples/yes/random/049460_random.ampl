@@ -1,0 +1,1 @@
+program m : BQ4aa : takes CTP : integer; N, Oc4, prI, Sup, y8 : integer array; X : boolean array returns boolean array d, Z : boolean; chillax end main : pop true rem(751) and 1 /= - 0 and 0230 - 2 - 052 end

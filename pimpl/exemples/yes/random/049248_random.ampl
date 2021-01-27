@@ -1,0 +1,1 @@
+program CHB : _ : takes S : integer; svKa, u, KF, h690, _s, cx, Fb : boolean array returns boolean pop 7 - 9; while - 360 /= 2 : chillax end end main : mrx : integer array; v, inQ, m, S, xY8, y : boolean array; chillax end

@@ -1,0 +1,1 @@
+program lv : main : when case false or(2) * Z and 1 - true and 5 or 9 - 327 >= - V2[5] / S : chillax end case 59000 / not 90 /= - not 44 and 2 : pop; when case 75 : chillax end otherwise : chillax end end end

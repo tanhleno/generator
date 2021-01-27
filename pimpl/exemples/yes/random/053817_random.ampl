@@ -1,0 +1,1 @@
+program PS4a : Y : takes x5 : integer array; u, I, r510a, k : integer array returns boolean while - not 4 and 1 > 8 : chillax end end k4g : takes V : boolean array; m, y9, r, w : integer array; W57a, fda : boolean returns boolean jQ4a, s9 : boolean; xv, e7, d : boolean; M, E : boolean; let YP[75] = array 7600 end main : r : boolean; chillax end

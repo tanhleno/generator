@@ -1,0 +1,1 @@
+program Ys : main : p, Q0X : boolean array; when case false / true * true and 41 + true and true and 498 < 44 or true or 90 - 28 : do n19a(- 414 >= 36, 164 = 4400, 0) end; while - false : output ""; while 4 : chillax end; output "6w" end; input et; input w9a[- 1440] end

@@ -1,0 +1,1 @@
+program z : main : when case 47 and Pq(88) / (5) and 69 - aP60a rem false and 45 or true <= (4990) : chillax end case(4) > false : chillax end case - lzE and 0 = - 6 : output ""; pop; pop end case - 543 : while 6 : chillax end; while 843 : chillax end; pop end case 9 = 4 : chillax end end

@@ -1,0 +1,1 @@
+program D6 : g : takes r : integer array; _l : boolean returns nothing chillax end _ : takes Ut1a : integer returns integer pop 9 end e : takes U, v, X, GP5a : integer array returns integer array K : boolean; chillax end main : let e[- 331 * true rem not 3 and 6] = array not not not 01 rem g or not false or false + 5 - 5 end

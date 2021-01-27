@@ -1,0 +1,1 @@
+program H : j : takes B, nRS : boolean returns boolean chillax end v : takes b : integer; b : boolean returns nothing while - 6 - 7 < 434 : input oM6 end; output "v" end main : C2 : boolean; R9, Z, L, J : integer array; j5 : boolean array; while 59 <= - (2) - z5i0a and 5 : chillax end end

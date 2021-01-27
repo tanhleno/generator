@@ -1,0 +1,1 @@
+program SQ90 : uW : takes rk : boolean returns nothing output 35 - 78300 > 3; when case - 28 - 1 : output "(=0"; when case 0 : chillax end end case 984 = 628 : when case 4 : chillax end; pop end end main : chillax end

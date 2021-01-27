@@ -1,0 +1,1 @@
+program q : Ns6aa : takes Nn : integer array returns nothing chillax end main : d, Co3, bS, W, x, z : boolean array; G : integer; while - false / true : output "" end; let q[(86)] = array - false rem true; output 6 - 26800 = 08 end

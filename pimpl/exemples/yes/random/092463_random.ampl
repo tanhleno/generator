@@ -1,0 +1,1 @@
+program n14 : main : output false - false and 1 + 4; while - 1 rem 5 and 936 + false and 0 /= not 5660 and 8 : when case 0 = 0 : output "1"; pop end case 4 : chillax end case 07 : chillax end otherwise : pop end; let Ml[0] = 9390; when case 9 : chillax end; when case 0 : chillax end end end

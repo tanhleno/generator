@@ -1,0 +1,1 @@
+program E : main : nk, nLE : integer array; a, g, B8 : integer array; j : integer array; pop - (77) and _ + 8 or 9; input O; when case - false or 5860 : while 4 : pop end; do V5(3) end; do K(40 > 4770, 68); input C; while 3200 : chillax end end

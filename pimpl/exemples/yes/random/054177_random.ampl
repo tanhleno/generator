@@ -1,0 +1,1 @@
+program x : ai : takes d : integer array; P, A, s : integer; X : integer returns boolean array let G8u[- true and 81 or 57 - 066] = 5 - 1 end xy : takes B, gJ : integer; d4 : integer array returns nothing chillax end main : chillax end

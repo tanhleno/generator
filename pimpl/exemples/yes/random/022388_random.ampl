@@ -1,0 +1,1 @@
+program U : _ : takes g9, P : boolean array returns nothing MY : boolean; chillax end main : when case true * not not 9 + not zg + 7 + 29 - 11 = - not false * true - (2) and 2 : chillax end; let C = - (52800) and 8 or 9 - 98 < 467 - 7070; let n[- xAn and 0 or 97] = array - not 268 or 0230 - 4; when case - 2 - 8 /= 7200 : chillax end otherwise : output "0"; pop end end

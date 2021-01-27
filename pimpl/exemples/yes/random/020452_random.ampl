@@ -1,0 +1,1 @@
+program y : j0T : takes v, w : boolean array; VY80 : integer array; T : boolean array; E, D5, I8 : boolean returns integer let A[- vZ + 5 - 09] = 894 - 4810 <= 862 end main : pop(263) + 3 and 04; output "#" . - 9; input Ch[t and 7 - 9] end

@@ -1,0 +1,1 @@
+program v : main : M, n : boolean array; when case not X(25) rem false / zI2 and 02 + true / RM and 2 - C : chillax end case - 32 rem not 6 and 7 >= - true and 2 - 43 - 8 : chillax end case - (3) : chillax end case - 379 - 1 <= 7 : do O9I0a(0220); while 1 : chillax end; pop end otherwise : chillax end; let v[- true] = - not 9 and 98 or 0 - 0 < - 3 end

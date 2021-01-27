@@ -1,0 +1,1 @@
+program G6 : Y4 : takes G9 : boolean; Z, gv, ZM20a, p5j0 : integer returns boolean Xp1aa : integer array; while - (2) + 3 /= 24 : chillax end end Mf9a : takes B, X6, _, C : integer returns nothing daga : boolean; M : boolean; IIr0, K : boolean; G13aa : boolean; chillax end main : when case - not 1 >= vnN + 2 : chillax end case not not 1 < true and 36 : chillax end end

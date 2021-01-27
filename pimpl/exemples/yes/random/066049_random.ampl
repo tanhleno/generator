@@ -1,0 +1,1 @@
+program X : main : do WQ(- false, - 8 * false and 6 + (3) + 77 - 3); when case - true : output "0&\"" . ""; input V end case true or 137 - 7 : chillax end case - 23 - 4 : input n; pop end; input c end

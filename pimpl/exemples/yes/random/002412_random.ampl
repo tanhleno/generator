@@ -1,0 +1,1 @@
+program dk0 : s : takes I5, xHH0a, O9, Q, F3R : boolean array; t, X9, n : integer; W, c2 : boolean array returns nothing while - false /= 9 - 1 : chillax end end main : o : integer array; XW8aa, w8, L : integer; let Q = - (5) + false and 65500 end

@@ -1,0 +1,1 @@
+program ly8 : n4 : takes r200a : integer array returns nothing chillax end Wa : takes y : integer; K, gGZ0a : integer returns nothing while - 86 : while 62900 : chillax end; input aEa end; pop end K : takes P7 : integer array returns integer array chillax end main : pop end

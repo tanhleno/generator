@@ -1,0 +1,1 @@
+program Aza : Y : takes K8J0a : integer returns boolean when case - not 9 and 7 + 4 - 4 /= 65 : chillax end case - 650 : chillax end otherwise : chillax end; pop 29 = 7480; let wmx0 = array 5; do PW6a(19, 302) end main : chillax end

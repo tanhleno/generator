@@ -1,0 +1,1 @@
+program xNZa : G : takes B, t8, dov0, E : boolean; O, T, Gar : integer returns nothing while EF + 4 - 830 = - 593 - 2 : pop; pop; output ""; pop end; let E = 8 end M : takes WC5, P : integer array returns integer do D(- 9 - 56300) end main : chillax end

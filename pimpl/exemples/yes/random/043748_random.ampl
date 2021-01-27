@@ -1,0 +1,1 @@
+program pK : S880a : takes pT3 : boolean array returns nothing chillax end main : qg : boolean array; Uq, t, z : integer array; k3, p9K0 : boolean array; Wu : boolean array; J, N, C : integer array; let Y2K = array - F rem(6) - 2 / false and 28 end

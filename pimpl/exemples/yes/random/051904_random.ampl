@@ -1,0 +1,1 @@
+program yi4 : n2 : takes Y : integer; G6z : boolean array returns boolean chillax end main : s0H : boolean; when case - (24) + 31 * (2) or true or 15 - 5 : when case - 682 - 86 < 17100 : output "\n\n0a" end end end

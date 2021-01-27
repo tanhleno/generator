@@ -1,0 +1,1 @@
+program K : main : when case(8) * true and(4) and 0 or Y62[11] / true and 9 + 826 + 80 > (9) - not 2 + 418 : when case 595 /= 2 : when case 51 : chillax end; pop; pop end case 5 : chillax end case 0 : chillax end case 63 : chillax end; pop end case not true rem false and 1 or(5870) - 60 /= - (4) : chillax end end

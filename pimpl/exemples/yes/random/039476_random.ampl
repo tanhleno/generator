@@ -1,0 +1,1 @@
+program v99 : k : takes Q4 : boolean array; Oz, W : integer returns nothing pop; output 2 = 4990 . ""; when case 6 = 2940 : output "8" end case 21 : chillax end; while 29 : pop end end main : r, R4, TP, N : integer; input BmRaa[not dw]; input j9[not not 16 rem false or false and 9 + 778 - 19] end

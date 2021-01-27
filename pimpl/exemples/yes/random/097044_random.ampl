@@ -1,0 +1,1 @@
+program X : main : when case lG[837] >= - 88000 + true and 0 : pop 7; let T = 0710 end otherwise : input R end; when case - Fmw[4] rem 927 : chillax end otherwise : pop 960; do Y(10); while 9630 : chillax end; pop end end

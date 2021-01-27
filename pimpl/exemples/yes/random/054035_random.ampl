@@ -1,0 +1,1 @@
+program S : i : takes E : integer array; lsq, r, xz0 : boolean array returns nothing chillax end main : input k[- 4]; when case - Dl / not 54 and 34 - 06 /= CCf - 1 : output 64000; pop end case - 0 and 6 >= 610 : chillax end otherwise : input O4Saa end end

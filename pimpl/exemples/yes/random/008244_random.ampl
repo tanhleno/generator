@@ -1,0 +1,1 @@
+program Tn : VT : takes z, U, l, n : integer returns nothing O8, J, A8 : boolean array; e : integer; IUVaa, ym, sh : boolean array; while - E and 3 + 651 - 4080 /= 9 : pop end; pop end main : c3, p, o, w6 : boolean; chillax end

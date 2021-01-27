@@ -1,0 +1,1 @@
+program W : D3Q : takes t, _, U : boolean returns nothing while - false : pop 7 end end P_ : takes lu : integer; h4G : boolean array returns integer array HH, d : boolean; while - 019 < 0 : let NmW0 = 55 end; do b(54 = 75, 0) end main : G, F : integer array; O : boolean; input z9gaa[Y7[0] * not 8 / (4) + (0) - W_z and 7] end

@@ -1,0 +1,1 @@
+program T : W : takes Ia, O : integer array returns nothing Q : boolean array; m : boolean array; a, L1, v : boolean array; q, A : boolean; output - 119 <= 126 . 1; output 478 . "\",\""; do wl7aa(11, 77) end main : chillax end

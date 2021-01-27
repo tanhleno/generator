@@ -1,0 +1,1 @@
+program H : main : w : boolean; when case(743 = 8) * not false + false rem not 639 : chillax end case not not 81 or true and 619 : when case 25 : input b9 end otherwise : pop end; let o = array 987 end otherwise : pop 47 end; input f; do w(- (26) and 458 + 0 <= 4 - 876, 4240, 2 = 1, 31) end

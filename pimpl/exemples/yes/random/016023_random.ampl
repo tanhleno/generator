@@ -1,0 +1,1 @@
+program k : c : takes NZ, F, y62 : integer returns integer chillax end main : D : boolean; L : boolean; _J, nE, bxr, C : integer; output 89900 + false > - false and 6 . 64 + 5 <= - 6 - 41 . 30 - 8 < 4 . "" . "\"\t" . 17900 . "@oaa" end

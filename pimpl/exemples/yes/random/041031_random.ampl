@@ -1,0 +1,1 @@
+program D : s9 : takes g : boolean array; V5 : integer array returns integer array _0, t, pMWaa, Z28a : integer array; input NO[- 1]; while 5470 - 14 : do Y(93300) end end main : pop; do K9(- b[6080], - (65) and 7 >= - 1 - 12, - 813 >= 1710); output 60; while - 35 - 6 < 30 : while 588 : chillax end; do uw(0); pop end; input v end

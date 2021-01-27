@@ -1,0 +1,1 @@
+program Y : main : s : boolean; KX, LlI, Y62, i720, PM : integer array; o : integer array; R2T0a : integer; when case(0570 = 02) + true or 84 - 24 - 139 : while 38 : chillax end; do G(2 = 01) end otherwise : chillax end end

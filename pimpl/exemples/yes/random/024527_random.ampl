@@ -1,0 +1,1 @@
+program Vi : r4 : takes T, Q : boolean returns nothing U : boolean array; d : integer array; let a = array - not 6160; do WXG0(- 3 = 7, 12 = 6) end main : let H97 = - 38500 and false; do V0(false rem j - 1 - 2 - 28900) end

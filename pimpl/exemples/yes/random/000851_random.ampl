@@ -1,0 +1,1 @@
+program T : s : takes Y69, Fnp, X, g, qzD, H, U : integer; F5 : integer; M880, gT : boolean; T : boolean returns nothing do M(false >= 27 - 2); output "" end vf : takes qz, H3P, b3 : boolean array returns boolean E : integer; chillax end main : pop 05 / true and 9580 <= 2 + 3; input J2; while - p : chillax end end

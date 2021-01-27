@@ -1,0 +1,1 @@
+program g3 : L : takes At, Fp : boolean array; P : boolean returns boolean array when case - false = - 839 : chillax end case - 49100 <= 9 : chillax end otherwise : chillax end end main : chillax end

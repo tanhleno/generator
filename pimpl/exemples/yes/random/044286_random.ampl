@@ -1,0 +1,1 @@
+program xnJ : G : takes T : boolean array returns nothing Z2U, e : boolean array; output "" . 66 . "" end D1 : takes Lu : boolean array returns nothing chillax end main : f : integer array; b : boolean array; chillax end

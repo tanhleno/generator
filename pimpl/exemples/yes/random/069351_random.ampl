@@ -1,0 +1,1 @@
+program T860a : main : T, q, ke, q : boolean; do s(- 529); when case - true and(94) and 2 = true or 1 - 9 : chillax end case - 3 or 2 - 0 : chillax end case - 79 > 00 : while 41 : chillax end; let Wv = 3; pop end otherwise : chillax end; input V3[- C and 33 + 89 - 80]; pop end

@@ -1,0 +1,1 @@
+program w1aa : G : takes E : boolean array returns nothing chillax end r50a : takes U : boolean array; T, wJ6, Qqz, L, _ypaa : integer array returns nothing r : integer array; chillax end O : takes y, D, K9H : integer array returns nothing l : integer; nb, XP1aa : boolean; e460a : boolean; chillax end main : pop - not not 8 end

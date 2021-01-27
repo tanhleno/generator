@@ -1,0 +1,1 @@
+program H : r1 : takes A : integer array; W, m, z : boolean; t, R, T : integer array returns boolean array tPva : boolean array; I5Laa : boolean array; let R[- 7 and 51 or 67] = array _r and 22; input G; pop 155; do i(0, 953) end main : XX2, C63, h : integer; M, Pv90, iU : boolean; chillax end

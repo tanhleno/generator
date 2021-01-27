@@ -1,0 +1,1 @@
+program Y : kD : takes g : integer array returns integer E : integer array; chillax end main : F, Te : boolean array; do e60(- true / not not 82 and 7 and 58 /= - true - false + 46 - 6, (38) / (3) and 538); let ba[true] = - false end

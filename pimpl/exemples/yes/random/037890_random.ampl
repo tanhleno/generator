@@ -1,0 +1,1 @@
+program FM : J4_ : takes q : boolean array; D3, xC0, xqT, _28a : integer array returns boolean array NA, i5g, a : boolean array; chillax end main : M0 : boolean array; while not 4 : pop; while 2 : while 0 : chillax end end; do P(87) end; let d4_a[true rem c and 496] = tS and 8 - 0 = 288 end

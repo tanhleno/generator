@@ -1,0 +1,1 @@
+program hN : main : AH, _, AoBa : boolean array; io4aa : integer array; G1, J2, S, W, w : integer array; while 871 or(2) - (306) and 62 + 8 - 1 <= false rem false or false or 4 : when case - 8 /= 0 : do J47(2830); pop; pop end; let G[53800] = array 6; when case 4 : chillax end; while 60 : chillax end; while 33 : chillax end; pop end end

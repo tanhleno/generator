@@ -1,0 +1,1 @@
+program d2 : l1 : takes u, H, e, iJ : integer; x, K : boolean array returns integer array q : integer array; chillax end main : while true - (43) - false : output "" end; input r3; let D[- 94 and 3 - 24] = array - 31600 end

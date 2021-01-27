@@ -1,0 +1,1 @@
+program U : v : takes f, G : boolean array returns integer F1o, q6 : integer array; Kh2, h36a, P : integer array; chillax end A : takes Z, VJ5aa : integer returns nothing do uo(9 - 9340 = 9) end main : lu7aa : boolean array; output - 9 and false and 7 - (4) + 2 end

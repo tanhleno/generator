@@ -1,0 +1,1 @@
+program bW : z : takes e : boolean array returns nothing s : integer array; K3, UC : integer array; do F0P(- false and 27 = - 5880 - 6, - 3 = 14); pop end main : p, H : boolean array; input T290[- 59400 * (25) and 9 and 58900]; let k650[A82[85] or 9800] = true and 26; input Q end

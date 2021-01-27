@@ -1,0 +1,1 @@
+program F2 : c7W : takes V : integer array; N, m, j, s, R : boolean array; Q9 : integer; J7Ia : integer array returns integer array pop end U8Waa : takes G, g58 : integer array; e : boolean array returns boolean array when case 5 - 2760 >= 6890 : chillax end case 49 = 2 : input z6; pop end otherwise : chillax end end main : chillax end

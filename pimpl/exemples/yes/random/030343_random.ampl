@@ -1,0 +1,1 @@
+program WTwa : I : takes h, Ih : integer array returns nothing chillax end main : v, B : boolean array; EP3, p8a : integer; let TvEaa[(2)] = array not true and true + false rem(2) and 65 - (1) and 30; input g end

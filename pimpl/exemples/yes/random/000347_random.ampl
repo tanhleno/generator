@@ -1,0 +1,1 @@
+program K : i9 : takes a, z8_0a, xa, k, i, j, ZV60, P : integer; D : boolean returns nothing x, A22aa, EF, G9 : boolean array; output 549 < 0 . 2040 = 0; do g3w0a(- 66300 <= 50); pop 4 end lu : takes L, J, QO : integer array returns integer input e end main : J, V6, IB : boolean array; chillax end

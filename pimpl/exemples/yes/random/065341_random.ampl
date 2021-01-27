@@ -1,0 +1,1 @@
+program S : W : takes pd : integer returns nothing output "\t\n0" . "x\na" . 25 . ""; pop 598 = 399; when case 3 = 926 : chillax end case 704 : pop end end main : p, f, i3, Y, y : integer array; b : integer; f730 : integer; db : integer; KS : integer array; chillax end

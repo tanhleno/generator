@@ -1,0 +1,1 @@
+program Mo : l : takes gw, N, GW6a, Z, E5, NAM0a : integer array returns nothing do o(false and 3 < - 92 - 320, 97 - 20); while 4 < 4380 : chillax end end main : while - true and(9960) - not false = (0) * false and 710 : chillax end end

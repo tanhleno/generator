@@ -1,0 +1,1 @@
+program l23 : F : takes E5, T, DHR : boolean array; c, Sw5, s : boolean; M, d4C : boolean returns nothing chillax end main : d, z5, p, WUx, n, n7, G3 : integer; i1X : integer array; W, r, T9 : integer array; chillax end

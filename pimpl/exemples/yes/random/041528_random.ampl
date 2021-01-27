@@ -1,0 +1,1 @@
+program x : dg : takes D5 : boolean array returns boolean array chillax end main : ah0 : integer array; output ""; pop; when case - true and 9 : pop end; let F[- 741] = 7 = 039; output 0 . 62 . "" end

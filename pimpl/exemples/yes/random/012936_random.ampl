@@ -1,0 +1,1 @@
+program di : v : takes Ry0aa, et, Ij8a : integer; q, A : integer; T, G, f : boolean returns nothing output 8420 >= 38 . 7 end main : when case - (26 = 8) - (3) >= true and(505) and 2 : input o; do CIT(7 = 8, 4820, 50); output "" . ""; while 7 : chillax end; pop; pop end otherwise : do Ydm0(39 = 4, 703) end; input qG; output "16" . 1 = 13; do Te(- 33); input f end

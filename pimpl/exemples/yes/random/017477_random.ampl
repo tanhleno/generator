@@ -1,0 +1,1 @@
+program q5y : K : takes _, S : boolean; s2, d460a : integer array returns boolean array chillax end whh : takes O, JUm, tn, D5 : integer array; p : integer; Z, X2 : integer array; Ptt, O, w, lh : boolean returns integer f6P : boolean; e : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Y0M0a : J67 : takes J, VkR : integer array returns boolean when case - false and 01 = - 64 - 1 : let Q4 = array 8 end end E : takes F4n0a, H, d, d8 : integer returns nothing L76, p, V9, a : boolean array; do w770(2 - 6 = 599); output "" . ""; pop 17; input F; let xS = 09; pop end main : G : boolean array; b790a, p, x, m, IgY, l : boolean; chillax end

@@ -1,0 +1,1 @@
+program g : B : takes M, M : boolean returns boolean jcPaa : integer array; chillax end g : takes x44a : boolean array; I, o7, Tw, b : integer returns nothing while 4 : chillax end end main : do k(false, not 4 < - not 70 and 5, true and 1 - 5 - 37 = 5 - 22) end

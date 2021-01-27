@@ -1,0 +1,1 @@
+program r50a : k : takes Z2, d2 : boolean; fT, yp8 : integer; f : integer array returns nothing when case false and 2 or 4 - 633 >= - 0 - 1 : pop; pop end; when case 09 : chillax end case 48 : pop end; do w(0 = 44); when case 8 : pop end otherwise : chillax end end main : chillax end

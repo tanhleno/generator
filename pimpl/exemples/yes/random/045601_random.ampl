@@ -1,0 +1,1 @@
+program N : MF7 : takes Z4 : boolean returns boolean array I5, D : boolean array; chillax end main : f, f, a0, O, q0, T89 : integer; ip, O, q : integer array; T, B69 : boolean array; let ukS[0530 or S58aa(8) / hOia] = - true end

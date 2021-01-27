@@ -1,0 +1,1 @@
+program JO : main : pop - (7) and 6 and 61 or false < false; when case(1) / not 9 or true : when case 5 : chillax end case 4 : pop end case 3 : chillax end; input Q[829]; output ""; output ""; pop end end

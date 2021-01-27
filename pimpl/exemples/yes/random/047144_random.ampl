@@ -1,0 +1,1 @@
+program y : X6K0a : takes _4 : boolean returns integer d : boolean; L : boolean; output - 6 > 0 . 611 . ""; while 936 : chillax end; input Rww end F : takes AU : integer returns integer array Ia60 : boolean; chillax end main : J28a : integer; chillax end

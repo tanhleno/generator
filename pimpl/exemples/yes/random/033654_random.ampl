@@ -1,0 +1,1 @@
+program zE : g : takes J8 : boolean; _, C16a, z, Tl : integer array; j : integer array returns nothing chillax end t : takes pX60a : boolean; n, _ : integer array returns nothing sIm, o : boolean; G, O, y7J : boolean; output 35 . "84" end dD0 : takes f0, n, D010a : integer; bg : integer; o1 : integer returns nothing do I(3 = 67, 05) end main : chillax end

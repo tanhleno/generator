@@ -1,0 +1,1 @@
+program a : main : Q, JF : boolean; J : boolean array; hn : integer; do n(W(86, 856) * false and true and 6); when case - false - (3770) and 62 or 87 /= 7 or 1 : pop; let U[5] = array 79 end otherwise : chillax end; do y((4) = 9950, 5 - 61 <= 3, 1) end

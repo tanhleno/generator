@@ -1,0 +1,1 @@
+program AWK0a : aHU : takes Aw, qbtaa : integer array returns boolean array y, e, v, a9, Wr : integer array; yBA, i5, Z, j8 : integer array; output "E"; pop; while 9 = 0 : let A40aa = 6 end end Q : takes W : boolean; D, P, F, Et, h3, q : integer array returns boolean when case 6 : chillax end end main : chillax end

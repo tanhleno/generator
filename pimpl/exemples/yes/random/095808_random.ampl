@@ -1,0 +1,1 @@
+program t : main : when case - false / q9m + (6830) /= true and(8570) + V1 and 19 : when case - 2170 >= 89 : chillax end otherwise : when case 1 : chillax end end end otherwise : chillax end; let T[false rem(50) and 937 or(4) and 9] = false and 158 or 19 - 1 /= 783 end

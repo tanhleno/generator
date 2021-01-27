@@ -1,0 +1,1 @@
+program S : main : O, p41 : boolean array; while true + L < (4) / true or W and 9630 : do vm(9 - 560, 9, 1) end; input GzA0a[- true and true or _]; input Z4[false and 9 + 7]; when case - 8750 - 9 : chillax end case 96100 : chillax end end

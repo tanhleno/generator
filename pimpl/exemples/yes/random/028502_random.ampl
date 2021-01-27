@@ -1,0 +1,1 @@
+program E : FC00 : takes Mu, ceR : integer array; ZG5 : boolean returns boolean array FJ30a, d0Naa : boolean array; while not 71 and 5 > - 5 - 819 : chillax end; while - 1 > 8 : chillax end; when case 2 = 84 : chillax end otherwise : chillax end; output "`"; pop end main : chillax end

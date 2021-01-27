@@ -1,0 +1,1 @@
+program Yl40a : l : takes b : integer array returns nothing jg : integer; Z, _x : boolean array; let T = array(7) end T : takes o, _m6 : boolean returns nothing U, b, r5 : boolean array; B : integer array; chillax end main : while not true and 4 * true and 332 + (072) * (601) <= - true rem false or G - 1 - 819 : chillax end end

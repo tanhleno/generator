@@ -1,0 +1,1 @@
+program x0 : f : takes C4l, Fa30 : integer array; u : integer array returns boolean array o, JX7a : boolean; Yf, Bcha, u : integer; do P(Iv9 <= - 0); let m6 = 3; pop 6 end main : t350a, p, d, Q75 : boolean array; G, X : boolean array; chillax end

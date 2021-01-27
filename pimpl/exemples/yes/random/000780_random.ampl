@@ -1,0 +1,1 @@
+program xJM0a : E : takes Q, Y, A, s8, i81, a, b : boolean returns nothing chillax end U : takes l9V0a : boolean returns integer array chillax end main : when case true or true /= - not not 5 / Z and 91 - false and 86 : chillax end otherwise : while 255 : when case 0 : chillax end end end; pop - 2; pop 2 < 938; pop; do S(8 = 7) end

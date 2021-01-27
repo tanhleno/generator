@@ -1,0 +1,1 @@
+program HC40a : g : takes Z, EHq0 : integer; J : integer array returns nothing chillax end R : takes j16 : integer array; bf : boolean array; C, T4C0 : integer array returns integer s : integer array; k, m9 : boolean; chillax end main : do H8(- c(55, 46) * not true >= - (56)); output true end

@@ -1,0 +1,1 @@
+program P : c46 : takes V, pBU0a : boolean; H, N0h0a, wp4a : integer array; mjl0a, d20 : boolean array; P, s, F_Q0, B, Y8 : integer returns integer array chillax end main : L : integer; while - Z8q0a(5, 92) and q : chillax end end

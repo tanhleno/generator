@@ -1,0 +1,1 @@
+program Wu8 : f4jaa : takes i4Y, e : integer returns integer array chillax end main : J : boolean array; while true or not d * 8 > - true rem not 19 and 70 - not 33 or 8 - 8640 : output 37 = 22; output 9; let B[5] = array 7 end; let g[true] = true end

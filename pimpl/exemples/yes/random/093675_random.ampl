@@ -1,0 +1,1 @@
+program B27 : main : output true rem F and 84 or not 36 and 8 >= 827 and 472 or 514 . - not 1 /= - 47 . "2C!a" . "3" . 82400 . 77 . ";"; input _H[2910 rem(9) and 4 + Y - 843 - 1]; output - 9 > 9; while 21 - 2 = 5 : chillax end; input M; while 5870 : pop end; pop; pop end

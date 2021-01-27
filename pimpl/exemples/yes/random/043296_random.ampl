@@ -1,0 +1,1 @@
+program _0p : X7x0a : takes i : boolean array returns integer let b1 = array - true - 13 - 29 end VAfaa : takes UJ, B, g03aa : integer; C : integer returns nothing m : integer array; chillax end main : while - false + not true or D5 and 57 : output 0; do s5(8 = 816); output 4 . "\n{0"; output ""; do U(7) end end

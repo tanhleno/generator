@@ -1,0 +1,1 @@
+program q47 : main : input f0; when case - K680a * true or not 382 > not 4 and 9 : chillax end case false - 7 : chillax end otherwise : when case 4 : chillax end case 07600 : chillax end; pop; let y = 4; pop end end

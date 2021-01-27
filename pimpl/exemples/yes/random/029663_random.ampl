@@ -1,0 +1,1 @@
+program o : j : takes np2, j : integer array returns boolean when case - h4f0 and 7 + 3 - 8 : when case 3 : pop end case 2 : chillax end otherwise : chillax end end case - 4 - 3 <= 7 : pop end otherwise : let A3 = 15600; input f66 end; output "G7" . "4" . 12200; pop; output "2}aa" . ""; do Z(4) end main : j, Pt6 : boolean; pop - 25000 end

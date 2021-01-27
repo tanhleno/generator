@@ -1,0 +1,1 @@
+program Pc : B : takes T0 : boolean array; e : integer array returns nothing let F840[not 4 and 81 - 3 - 6] = array - not 8 and 582 + 7 - 95; let V9[- 2 - 0320] = 082 = 3 end Ds : takes X : boolean array returns integer pop 37; do yU(080 = 3) end l : takes S1, H6V0a, z580a : boolean returns boolean array chillax end main : input Qp40[not not ybt0 * false] end

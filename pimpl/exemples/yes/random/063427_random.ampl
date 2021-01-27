@@ -1,0 +1,1 @@
+program y8 : s : takes Dw5a : integer returns integer C75 : boolean; G, P, rlya, lF9 : boolean; pop - 83 - 1 < 370 end main : output 739 - true; do Bi1aa(not false / false or T and 60 + 7 < - false, - 1, 9680 = 6) end

@@ -1,0 +1,1 @@
+program S : KQ6 : takes vR, i1Haa : boolean returns nothing I, V : boolean; X4O0a : boolean array; s : integer array; F2, G : boolean; Y : boolean; chillax end main : X, V1R0 : boolean array; pop - true > 8 and 2 end

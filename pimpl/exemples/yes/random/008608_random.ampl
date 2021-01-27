@@ -1,0 +1,1 @@
+program w5 : L4 : takes A1z0, VOpaa, L : boolean; d, Y, X81aa : boolean returns nothing chillax end V : takes mrV : boolean returns boolean chillax end main : XN, fO : integer; when case - 205 / O[0] and false and 577 + n(946) or hU and 6 + 1 - 602 <= - (4) : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program T1F : n : takes f, bg : integer array returns boolean chillax end h240 : takes gY2, O3, J8, CDa0a, g, z, Av6a : integer array; A : integer returns integer output 7530 = 83000 . "Nv!a" . "if"; output 8 . "TQa" . "S4" end b : takes k, x8 : boolean array returns nothing pop 293 end main : chillax end

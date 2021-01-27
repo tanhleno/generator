@@ -1,0 +1,1 @@
+program q16 : main : Q33 : integer; when case(5 = 6) or 52 and(33200) and 61 <= true rem(89) : while 4 - 29 >= 8 : chillax end end case 746 and false and 67 - (16) and 6 or 36500 >= - (05) and 655 or 2 - 9 : chillax end otherwise : output 6; input CLR end end

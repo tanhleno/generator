@@ -1,0 +1,1 @@
+program I46 : main : pop - 38 / (76) and 4 - (3) or 56 - 39 /= 6; do X(false / Vt and 1 - not 4 and 73 + 50000 > true + 48 - 7550, - gb + 0, - 0 - 2, 7, 097, 7); when case - true and 6 : when case 85 : pop end otherwise : chillax end end case - 23 >= 34 : chillax end otherwise : input a end end

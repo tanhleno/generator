@@ -1,0 +1,1 @@
+program bM3aa : Hrw : takes W, W, n : boolean; e : boolean array returns integer array c, f, y : integer; chillax end main : WB : boolean; vZ : integer array; when case F and false rem false - true : chillax end; pop end

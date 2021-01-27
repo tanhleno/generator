@@ -1,0 +1,1 @@
+program X600a : O : takes S, Y : integer returns nothing o : boolean array; while 2 + 5 : do Jt(35, 0150); input V93 end end si9 : takes B : integer; Mo60a, z : boolean; so, K9w0a, Z, R3Saa : integer array; Z : integer array; E : boolean array returns integer array chillax end main : do c19(- false - 2, not 085 >= G9 and 8); let cx50a = array - (39) / 3 end

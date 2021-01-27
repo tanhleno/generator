@@ -1,0 +1,1 @@
+program i : j : takes q : boolean array; K01a, E, yi : integer array; B590, B750a, Hb8 : boolean returns integer array when case - (57) + 0 - 07 : output "" . ""; input L2G0a; do Il(59); pop end otherwise : do g6(5); let t7Q0a = 7 end end main : chillax end

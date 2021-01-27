@@ -1,0 +1,1 @@
+program J33aa : s : takes K : integer array; K : boolean array returns nothing when case true and 0 : chillax end; when case - 49700 - 60 < 79500 : chillax end case 4 : chillax end case 604 : chillax end case 80 : chillax end otherwise : chillax end; when case 643 : chillax end case 89 : pop end end main : c8, L9D0a, _ : boolean; chillax end

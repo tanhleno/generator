@@ -1,0 +1,1 @@
+program zJM : main : y : integer; b1 : boolean; h : integer; H : integer; while false > - 28 rem not 5 + not 4 and 18 - 3 - 8 : when case 177 : chillax end otherwise : let h = 286 end; while 0 : do D(6); pop end end end

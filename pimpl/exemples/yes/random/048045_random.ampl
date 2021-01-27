@@ -1,0 +1,1 @@
+program JI0 : n : takes i7g0 : boolean returns nothing y, L3, Lc : integer; when case - false and 5 or 4 : chillax end otherwise : chillax end end main : when case H(93, 5) - false and false and 3 or(0) and 3 = - false * 432 and 705 - false : chillax end otherwise : while 2 = 66 : chillax end end; input y; while true and 803 - 9 <= - 34 : let g10aa = array 9 end end

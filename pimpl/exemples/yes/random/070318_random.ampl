@@ -1,0 +1,1 @@
+program Oz : main : d, IdMaa, V, A : integer; pop - not not 04 / (3) >= - not 7 and 0 + 8; input h[52]; input C; while 8 - 3610 >= 3 : chillax end; when case 77 = 20 : chillax end case 828 : pop end; do C(6) end

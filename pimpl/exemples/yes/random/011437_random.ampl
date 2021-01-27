@@ -1,0 +1,1 @@
+program T6o : L : takes o, G, y96 : boolean array returns nothing input iy[(9) and 00000]; pop 72700; let Y[299] = array 9; while 1930 : pop end end main : eSfaa : integer; NT : integer array; chillax end

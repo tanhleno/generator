@@ -1,0 +1,1 @@
+program XC : C : takes ql : integer array; Kz, q5X : integer returns nothing Z : boolean; X, m5 : integer; B, m2U, z : boolean; YI : boolean; zwP : boolean; while 366 and 3 - 8000 <= 4 - 8 : chillax end end main : chillax end

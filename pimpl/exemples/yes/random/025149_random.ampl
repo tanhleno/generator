@@ -1,0 +1,1 @@
+program C : IT : takes Q7, Elj : integer; r, eD9aa, oUn0a, j : integer returns nothing L7, S, _ : boolean; g, D9H, L9e0a, o3 : boolean array; chillax end N1 : takes S740 : boolean array returns boolean array Zr9aa : boolean; input bXEaa end main : pop end

@@ -1,0 +1,1 @@
+program e4Y : I : takes z1 : integer; P69, Y : boolean; Gg8a : boolean array returns nothing chillax end yH : takes W, wR, p : boolean; r, lwsaa : integer returns nothing CQ60, CU3, cY4aa : boolean; output "@3!" . "T" end main : chillax end

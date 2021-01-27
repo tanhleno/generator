@@ -1,0 +1,1 @@
+program s : U : takes bH : boolean returns integer let d9[not 22100] = - 9 - 083 < 98200 end i : takes v : boolean returns boolean array chillax end main : x6Ka, R1r0a : integer; output - true . not 2 < - 97; while 83500 + not 4720 and 794 or 0 <= true and 19 + 4 - 9 : chillax end; while not 0 and 6 : when case 26800 : chillax end; do rc(75) end end

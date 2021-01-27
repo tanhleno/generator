@@ -1,0 +1,1 @@
+program u : GMDa : takes t, qr9 : boolean; BSl, Q1, q : boolean; ocm0a, _M : integer array; h, x1 : boolean array returns boolean z2Paa : boolean array; R35 : boolean; chillax end I : takes Ym, e0 : integer returns nothing H : integer array; chillax end main : chillax end

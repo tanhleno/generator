@@ -1,0 +1,1 @@
+program w : P5 : takes K : boolean; XJ, NA, B43a : boolean; T9faa, h : integer returns integer Is, C : integer; let x = 1000 end i : takes no7, S4, yR : integer; _, e : boolean returns nothing output 31 . "" end B : takes Vj4, lP : boolean returns boolean input j_1[3] end B : takes W1 : integer returns nothing while 9 : pop end; output "3z0a" end main : chillax end

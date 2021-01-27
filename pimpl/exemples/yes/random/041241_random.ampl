@@ -1,0 +1,1 @@
+program b : DC10 : takes ssV : boolean array; i : integer returns boolean P : boolean array; while - l5z0 and 1 : chillax end end main : Dn40 : boolean; when case 8 * true >= - true * not 26700 and 011 : when case - 0 = 5 : chillax end case 76 : chillax end case 7 : pop end otherwise : chillax end; output "#\"!a"; do A(2) end; pop; while true : pop end end

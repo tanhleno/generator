@@ -1,0 +1,1 @@
+program B : main : x2x0a, F, U3 : integer; c9, Y : integer array; u : boolean array; g, bFC0a, ol, X : boolean; x, C : boolean array; input lf[- 6 + J2(40) rem t]; while - (55) / true and 7 : let g6[8] = 426 end end

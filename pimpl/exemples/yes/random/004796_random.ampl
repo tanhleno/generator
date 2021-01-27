@@ -1,0 +1,1 @@
+program h : f4 : takes u, t, _, l : boolean array; r, V2, T : boolean array returns boolean array L2 : boolean; z, u, lc, n : boolean array; tXc : integer; l, Pg : boolean; chillax end main : chillax end

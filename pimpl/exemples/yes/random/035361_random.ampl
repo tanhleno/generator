@@ -1,0 +1,1 @@
+program Vh : Uhea : takes HI : boolean; _IJ : boolean; o, M0, o4 : boolean array; e : boolean array; jC50, y1, Hx, l1n : integer returns integer h0, _, H, vXVaa, s : integer; chillax end main : let aPFa = true + not 99; do mk(8 or e, - 7 and 3 > 85700, 89 /= 3630, 695 = 7); do n(- (23), - 1 - 2 = 30, 31) end

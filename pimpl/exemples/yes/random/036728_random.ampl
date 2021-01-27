@@ -1,0 +1,1 @@
+program L : M : takes h95 : boolean; p75 : integer array; d9, r0 : integer; N640, q : boolean array; P : integer returns integer Q : integer array; pop; let U[575] = 8520 end main : l3 : boolean; output - not true end

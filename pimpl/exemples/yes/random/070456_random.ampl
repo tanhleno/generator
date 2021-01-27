@@ -1,0 +1,1 @@
+program z : main : u, azt0, Y16, O : integer array; s81, _ : integer; do i(- false, - true = - (03) - 9, - j + 7 - 0); when case(7) : when case 5 = 4 : when case 99 : chillax end; pop end case 9 : chillax end; input c; pop; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program d3 : iu : takes Q25, t, v : integer returns integer chillax end main : Sl, Z, w : integer array; H : boolean array; p, i, Ic, w1 : boolean array; Db3 : integer array; v7Ra : boolean array; chillax end

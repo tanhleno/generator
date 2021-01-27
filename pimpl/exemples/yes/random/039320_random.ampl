@@ -1,0 +1,1 @@
+program yb : bCD : takes K : boolean array; GJFa, q : integer array returns nothing P, A : integer array; O : integer; g2 : boolean; do Kp0(21 and 67 - 25 - 42, - 7, 610, 1, 9); let rk3 = array 2 end main : D6O : integer array; chillax end

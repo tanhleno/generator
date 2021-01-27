@@ -1,0 +1,1 @@
+program h : q63 : takes H : boolean; j, BD9 : boolean; X, B : boolean returns boolean array chillax end OsT : takes P7 : integer returns nothing chillax end main : z22, vI : boolean array; while - false : do RQ1a(- 1, 003, 565) end end

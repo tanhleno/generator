@@ -1,0 +1,1 @@
+program c : x : takes S, R4S, M : boolean array; o : integer; K4 : integer array returns integer array PT : integer array; chillax end o : takes Yl2a, yK6, W9Oa, s, c, Q1, a0 : boolean array; u : boolean array returns nothing chillax end main : f, g : integer; output 5 /= false end

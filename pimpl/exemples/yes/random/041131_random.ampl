@@ -1,0 +1,1 @@
+program ER1a : I : takes s : boolean array; D220a : integer array returns nothing l57 : boolean; g, v : boolean array; Q, W, b : boolean; TD : boolean; j5r : boolean; G : boolean; chillax end W5 : takes wEI : integer array; x6 : boolean array returns nothing do a(5 - 8) end main : chillax end

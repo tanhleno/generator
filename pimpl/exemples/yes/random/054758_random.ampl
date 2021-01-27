@@ -1,0 +1,1 @@
+program e : L65 : takes Qv : integer array; r, Cj9 : boolean array returns nothing while - (67900) /= 3 - 6 : when case 430 : chillax end end; while 792 = 9940 : let w = 2 end; while 39 : chillax end end main : i, Q4Z0a, R69 : boolean; chillax end

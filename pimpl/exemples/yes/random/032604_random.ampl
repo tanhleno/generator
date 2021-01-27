@@ -1,0 +1,1 @@
+program rZ40 : L : takes s, YAh0a : integer returns nothing u, prW : boolean; B0R, o : integer; let VmO = - 2 - 56; while - 15 - 2 >= 48 : input x; let y = 4; pop end end main : V : integer; chillax end

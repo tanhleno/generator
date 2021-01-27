@@ -1,0 +1,1 @@
+program B : main : AO, k3, q : integer array; Yl, gp80, c : integer array; output ""; when case - false / (00) and 9 - (4) : when case 0 : chillax end case 58 : pop end otherwise : pop end end case U and 3 - 4 : chillax end end

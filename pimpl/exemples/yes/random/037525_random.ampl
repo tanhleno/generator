@@ -1,0 +1,1 @@
+program w : KU : takes lK : boolean array; O1, _8, G, g, d, b690 : boolean array returns boolean when case - false and 8 > 0060 - 8 : output "\"8" . "4|aa" end case - 05 - 621 : chillax end case 5 : chillax end end main : f : boolean; chillax end

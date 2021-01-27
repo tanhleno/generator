@@ -1,0 +1,1 @@
+program H : main : OBU0a, nJ, m2, Z, FiU : boolean; N, aP : boolean; cyp : integer; q : integer array; z2, z5 : boolean; when case - PB[177] rem false / (48) and 6 : let f = 44 = 1 end case - false + N and 36 /= - (8) : chillax end otherwise : while 26100 : pop end end end

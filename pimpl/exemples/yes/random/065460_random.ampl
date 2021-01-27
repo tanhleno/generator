@@ -1,0 +1,1 @@
+program H : La : takes q : integer returns nothing when case - (0570) or 507 - 33 : chillax end; while - 90 : when case 6 : chillax end; pop; pop end; input O4[43]; while 23000 : pop end; let Qsma = 3; output "" end d : takes zv90 : boolean array returns nothing chillax end main : input ED[S rem not bf * 30] end

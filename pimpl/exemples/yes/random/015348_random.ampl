@@ -1,0 +1,1 @@
+program LS : W : takes KS, sp, k_7 : integer array returns nothing g, Z : boolean array; chillax end main : q, RTW0 : integer array; a : integer array; do M(false + (675) * true or true); pop - (5) and 1150 - 2 - 9 end

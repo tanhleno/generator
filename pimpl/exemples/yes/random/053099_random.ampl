@@ -1,0 +1,1 @@
+program h2 : j : takes i : integer; gA : integer array returns nothing while not 63 and 5 - 212 : chillax end end main : while - false + not 84 rem Drw0 - 435 + 66 = - z[600] or y - 5 - 3 : chillax end end

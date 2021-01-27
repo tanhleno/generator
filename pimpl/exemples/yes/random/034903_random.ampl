@@ -1,0 +1,1 @@
+program D : _ : takes R : boolean; S, h67a : integer array; q, Ei9 : boolean array returns boolean array A : integer; when case - false < 8 - 4 : let Ry70 = 33; let H = 4; when case 58 : chillax end end otherwise : chillax end; input l[- 96]; pop; do sN60(3, 33000) end main : input dB4[- Wx[2170] and 1 + false or(9)] end

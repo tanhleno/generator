@@ -1,0 +1,1 @@
+program o0 : h : takes B, k : integer array; y, Z : boolean; t : integer array returns integer f9X : boolean; input Q[- WlO and 2 or 74] end main : input p0d[(0 = 35)]; let K[- not 907 and true or(8060) and 24] = array not 6 end

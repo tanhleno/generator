@@ -1,0 +1,1 @@
+program h5 : main : when case(5 = 0) /= false * (7) and 2 : chillax end case vs[8] = - (7) and 41 : chillax end otherwise : let B[35] = array 600 end; when case - not true / not 5 : chillax end; when case 1 and 234 : chillax end; when case 6 >= 67200 : when case 59 : chillax end end case 18 = 0 : chillax end case 683 : chillax end case 74 : chillax end end

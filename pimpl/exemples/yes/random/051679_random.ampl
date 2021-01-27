@@ -1,0 +1,1 @@
+program O : P : takes w : integer; I0 : boolean array; k7, A9Xa : integer; qc, Q, z, C2 : integer returns integer array let X = 68 - 71 <= 88; output "\\" . 1 . 0 . "\"\t!a"; let Yb = 8 end X25 : takes v5B, pm, e, p, G : boolean returns nothing E0, U : boolean; do u(1 - 61200 > 7910); pop 3230 end main : pop end

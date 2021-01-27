@@ -1,0 +1,1 @@
+program j : main : QkW, K, vv, Fhc, l8, k : boolean; when case - K[82] rem false * 8 and 09 + true rem not 2 and 4420 or false and 1 - 08 : do K(- 4) end otherwise : chillax end; do G4(6 / r - 3) end

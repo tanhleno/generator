@@ -1,0 +1,1 @@
+program L : Y : takes I34 : integer returns integer chillax end E : takes s, b9, e98a : boolean returns integer m, l5, I : boolean array; J : boolean; fa : boolean; chillax end Y : takes T : boolean; u, W : integer returns integer array Wo : boolean; pop 500 end main : chillax end

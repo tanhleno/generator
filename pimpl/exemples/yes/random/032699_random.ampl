@@ -1,0 +1,1 @@
+program _ : N : takes m6, Eb6 : integer returns nothing h28aa, w91a : integer array; q4e : integer array; while - FS and 37 - 7 - 0 = 3 : chillax end; when case 0 : chillax end; do UYZ0a(234); while 35 : pop end; pop end main : O0t, m, RL : boolean; chillax end

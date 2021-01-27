@@ -1,0 +1,1 @@
+program G : main : k5M0, V : boolean array; N1O, _ : integer array; while - (2560) and z[76900] rem false : chillax end; when case - o(18) * 2 - true and 02 or 76 - 9 < o and 3 : pop; pop 9 end case h + 6 : pop end case 3 : input Dp end end

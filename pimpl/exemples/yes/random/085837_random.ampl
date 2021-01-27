@@ -1,0 +1,1 @@
+program Y : main : s150a : integer array; c5, e, _w : boolean array; when case - 1 and(0) or false + 6 and 08 - 89 - 95 >= (8) / (11200) or 19 : chillax end otherwise : chillax end; when case 2 / b7 : do c(883 = 3760, 497) end case - (9) and 5 - 98400 > - 8 : chillax end case 53 >= 0580 : chillax end end

@@ -1,0 +1,1 @@
+program s5 : main : tc : integer; l, _Z9aa, V, k, R : boolean array; output w and o_ and 6 - false - 6; when case true rem false : pop; when case 418 : pop end case 68 : chillax end otherwise : chillax end end case(624) < - 566 - 413 : chillax end otherwise : let K4 = array 013 end; while - D - 23 - 5 = 6 - 11 : chillax end end

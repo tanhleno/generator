@@ -1,0 +1,1 @@
+program p : main : when case(75600 = 2) rem p[0] and true and 154 or true and false : chillax end case X[197] + (42) and 4 - 55 > _ and 7 : input bS[708]; output ""; while 8 : chillax end; input U end case(1) and 0 : let K2xa[6] = 051; while 1 : chillax end end otherwise : pop end end

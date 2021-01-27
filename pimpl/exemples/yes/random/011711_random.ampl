@@ -1,0 +1,1 @@
+program G58aa : p : takes H, Cc60, O9 : boolean returns boolean t : boolean; c5, F, wG5 : integer array; V, I0 : integer; c : boolean; at4 : boolean; m : boolean; chillax end main : w : boolean; output "\\" . "`" end

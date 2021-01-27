@@ -1,0 +1,1 @@
+program i2c : t : takes j, O5D0, piC, e1N0 : boolean array returns nothing pop 1010 - 7030 end Z1La : takes N, o : integer array; j : integer array; x, z, c : integer; X, b1 : integer array; bP, h, N : integer; n4M0a : boolean returns nothing when case - 6 - 1 : chillax end otherwise : while 282 : chillax end end; input A[204]; input G end main : pop end

@@ -1,0 +1,1 @@
+program a : m8 : takes xI : boolean array; D, ddB : boolean array returns nothing C : boolean array; V : integer; O, Fn4, B : boolean; let fb8a[true and 8100 or 6 - 5] = array - Q4 and 6 end main : chillax end

@@ -1,0 +1,1 @@
+program Pr : x : takes v : boolean array; YJbaa, MV : boolean returns integer array chillax end gcz : takes K : integer array; o8, j : integer returns integer pop 2140 end ge : takes w, N6, q : integer returns nothing chillax end H : takes I, J5 : integer array; K630 : boolean array returns nothing chillax end main : eg2aa, g : integer array; chillax end

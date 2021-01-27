@@ -1,0 +1,1 @@
+program B0 : G8G0 : takes w : boolean returns boolean g1 : boolean array; output "" end main : lM7a, t : integer; d, V8 : integer array; let _2[- true rem 01500] = array false or 8 - false - 8 - 1; pop end

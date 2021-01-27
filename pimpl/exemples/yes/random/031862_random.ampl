@@ -1,0 +1,1 @@
+program p4 : S04aa : takes J, R : integer returns integer array o9 : integer; while - 40 and 3870 <= 328 - 6 : when case 51 : chillax end case 652 : chillax end; output "" end end e : takes t, p : boolean array returns boolean chillax end main : chillax end

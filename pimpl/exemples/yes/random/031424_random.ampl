@@ -1,0 +1,1 @@
+program U : H : takes Im60, c89 : integer returns boolean array while - ne3 = - 87 : chillax end end shn : takes H, K : integer; dTv, Am, x_ : boolean; k, B : boolean array; Y2oa : boolean returns nothing chillax end main : gD : integer; input P3y0[- true] end

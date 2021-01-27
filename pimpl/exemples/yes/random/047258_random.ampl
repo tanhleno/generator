@@ -1,0 +1,1 @@
+program Z2 : T : takes j1 : boolean returns integer input W[false + 3]; do n46a(- 5 < 6, 42 = 45, 1); do E(8 = 00, 5, 0) end main : when case - true rem false * 1 : chillax end case - 80800 - (05900) >= - false : do UN(26 = 3, 637); pop 8370; while 520 : chillax end end otherwise : chillax end end

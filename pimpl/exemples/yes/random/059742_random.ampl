@@ -1,0 +1,1 @@
+program h : J : takes Ul : integer array returns nothing chillax end eHJ0a : takes B, r250a : integer; W : integer array returns nothing do P(- 4 - 8); do S(67700 = 3, 60) end main : while - true / (542) rem 1 : chillax end end

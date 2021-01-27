@@ -1,0 +1,1 @@
+program m6 : xh : takes K98 : integer array; YSJa, c : integer array returns nothing when case - false and 80 or 4 > - 7400 : chillax end; while - 31 - 74 : chillax end; input F[99]; let _ = 6 end E : takes P : integer returns integer do i(- 4, 91200 = 795) end main : M23 : integer; _ : integer; i, txr : integer array; chillax end

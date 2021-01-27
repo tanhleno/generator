@@ -1,0 +1,1 @@
+program N : J : takes l, L0U, o, L : boolean returns nothing chillax end t : takes y, l9m0a : integer returns nothing y9, E1ca : boolean array; when case 6 - 56 < 39 : chillax end case 9 = 78 : let I = 4 end case 571 : chillax end case 6 : chillax end end main : while true : pop; pop 257; input Q7[8]; while 61 : chillax end; output "~\ta" end end

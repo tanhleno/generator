@@ -1,0 +1,1 @@
+program J : wITa : takes P9, u6 : boolean array returns nothing chillax end main : let o[- false / (2) + not false - true] = - not 9; do fJ(- 66 > 8 and 56 + 9, - 7 + 5 - 5 <= - 21); do F(- O + 5 - 2); input Lu[8]; pop; do T7(5680, 6650); while 2 : chillax end end

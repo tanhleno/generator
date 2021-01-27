@@ -1,0 +1,1 @@
+program Q : T : takes z : integer array returns boolean array output "\\"; do D8ba(7, 46 = 066, 4170, 2) end main : f, X : boolean; output "7" . Va and 9 or 7; pop; do N(- true > - 8 - 4130, 2 <= 41); output 2 . 8710; let G[0] = array 56 end

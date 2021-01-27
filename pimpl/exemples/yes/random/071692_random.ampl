@@ -1,0 +1,1 @@
+program AY : main : l640a, c1, X : boolean array; A : integer; when case(3 = 2) / 25 rem 9 and 784 + false + (98900) and 4 or 7 < false rem false : chillax end case - false or 9 and 4 or 640 - 1 < not 41 or 3 - 22 : do Q31(82, 01, 661); do D(23) end case - c : do jF(712, 634) end case - 00 - 613 : chillax end case 6 : chillax end case 7 : chillax end end

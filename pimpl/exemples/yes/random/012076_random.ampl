@@ -1,0 +1,1 @@
+program d8y : Y : takes F, BWd, k : boolean returns nothing chillax end Z9 : takes N : boolean array returns integer array output 3; input t0s[2]; input kjr0; let P = 48; when case 4 : chillax end end main : w0, r, DL6 : boolean array; while not true /= - not(4) / false and 2 : let v = 0 end end

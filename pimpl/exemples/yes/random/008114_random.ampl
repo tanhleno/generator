@@ -1,0 +1,1 @@
+program o : R : takes MTC0, jl, b0x, l38aa : integer returns integer O, J : integer; chillax end main : Z48, QIG, VPzaa, fY : integer; let A = array false rem(4); when case - not e or not 0 + 799 : pop; input f; let X0 = 78; output "" end case - not 7 and 69 <= - 4 : chillax end otherwise : output "" . "" end end

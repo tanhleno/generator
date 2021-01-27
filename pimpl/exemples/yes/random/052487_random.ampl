@@ -1,0 +1,1 @@
+program t : f : takes hPXa : integer; f : integer; A1 : boolean; l6y : boolean; n, M : integer array returns boolean pop - 60 - 6 >= 9410; input a end main : do g(- not(722) and 22 rem not 3 and 20 + 27 and(1660) and 9, - not C / true and 40 + (9)) end

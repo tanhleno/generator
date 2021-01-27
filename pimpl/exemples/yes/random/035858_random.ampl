@@ -1,0 +1,1 @@
+program T5 : T7 : takes n090 : boolean; q30a : boolean array returns boolean array uJ : integer array; let zHUa = - 2 - 2; input wl1 end _ : takes Y, RL : boolean array; F2 : boolean array returns nothing while - 08 - 00 : chillax end; let B = array 7 end main : do t(true - k(5) and true + false) end

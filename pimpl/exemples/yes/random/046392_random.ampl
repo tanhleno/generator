@@ -1,0 +1,1 @@
+program Lb : l4 : takes D : boolean returns boolean while - (17) or 0160 >= 169 - 1 : when case 2 : pop end; while 852 : chillax end; do b3(5430) end; pop 0; while 98 : while 30 : chillax end; pop end end main : output "" . "1<\"" . - 17 = 20 . "\\\t0" . "" end

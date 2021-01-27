@@ -1,0 +1,1 @@
+program mr : Y20a : takes h9Ha : boolean; l, Gs, A, w : boolean array returns integer array mk, F : integer; jb, V : integer array; chillax end main : q : integer; output "-:aa" . - O and 3 = - 15 - 23; when case - false rem not 071 and 4 : chillax end otherwise : when case 85 : chillax end case 336 : chillax end; input N5 end end

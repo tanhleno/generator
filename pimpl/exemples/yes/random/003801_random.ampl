@@ -1,0 +1,1 @@
+program C0 : H : takes a, K7l0, hfL, R, G : integer array returns nothing chillax end k : takes D, b, bz7 : integer array returns nothing chillax end main : input RZ[- 59]; pop(49) and 6 /= 98 - 0; do D(- (35) and 2, 2) end

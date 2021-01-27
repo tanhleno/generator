@@ -1,0 +1,1 @@
+program I68 : f : takes v : boolean array returns nothing while(55) /= 5 : chillax end end main : M : integer array; when case - 0 and A and(283) and 5 or 14 or not 7 : when case 2 - 5 : chillax end case 7 : chillax end; output 1 end otherwise : input g5; output 52; pop end end

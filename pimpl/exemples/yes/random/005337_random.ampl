@@ -1,0 +1,1 @@
+program p460a : BO : takes l, r9, a, H6 : boolean array returns boolean q, Y, z01, X1 : boolean array; when case not 02400 and 5110 or 43200 - 21 : let G5[931] = 2 end otherwise : chillax end end TV : takes u : integer returns nothing pop 8180 end main : e : boolean array; chillax end

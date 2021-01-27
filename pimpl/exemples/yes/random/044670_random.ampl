@@ -1,0 +1,1 @@
+program m : J : takes S : boolean array returns nothing axF : integer; chillax end CW6aa : takes Y : integer; jO, e : integer array; S, K : boolean; DH, e : integer array returns boolean do X5(- 60, 7 = 60); while 599 = 3 : chillax end end v : takes U : boolean array returns nothing oa : integer; chillax end main : w1, Sg : integer; pop; let A[not true * (1) and 2 or M] = (8) end

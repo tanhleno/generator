@@ -1,0 +1,1 @@
+program F : g : takes R7, z, nSqaa : boolean; u, y : boolean returns nothing output "^"; pop; do g(09 = 08400, 0); when case 0 : pop end; while 68 : chillax end; input u0; pop end vJ : takes e, D : boolean array; y, D40, e, Q1, s, i : integer returns nothing input O[- 9]; while 8 = 93800 : chillax end end main : chillax end

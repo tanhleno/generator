@@ -1,0 +1,1 @@
+program l : E : takes G, gg, V : integer returns integer array while false and 1 : while 9 : chillax end; do pk(1); output "9"; pop end end main : V, y : integer array; SOU, o : boolean; e5, e : boolean; g, lt : integer; M3X, j950a : boolean array; when case - false / false < not 2 and 94 + true and 8 - 6 : while - 3 - 5 : chillax end; pop 1 end otherwise : input p end end

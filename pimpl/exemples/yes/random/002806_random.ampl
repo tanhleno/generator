@@ -1,0 +1,1 @@
+program t99a : US7 : takes N, CVg0, E, Lu, N280 : boolean array returns nothing u, W : boolean array; while - DoU + 01 - 850 : let B[3] = 4; pop end end y : takes G_ : integer array; N : boolean array; q9h, F, WX3, A : boolean returns nothing chillax end b : takes o : boolean returns nothing X4 : boolean array; chillax end main : chillax end

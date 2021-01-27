@@ -1,0 +1,1 @@
+program P : main : Q : integer array; Ys_ : integer array; while - 607 rem true rem not 73 + k / true and 68 or not 9 and 5 /= - false - (8) and 92 - 1 : chillax end; pop - C = 9040; let v[(8)] = array TVP; do f(- 2 < 87); do K(3 = 0, 1) end

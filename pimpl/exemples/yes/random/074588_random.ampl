@@ -1,0 +1,1 @@
+program F : main : i, c46 : boolean array; v84, d4, i, f4, Bo : integer; Vn8a : boolean; pop - false + false; when case true * not 56 and 8 + not 1 > - true : while 219 : chillax end end otherwise : chillax end end

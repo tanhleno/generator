@@ -1,0 +1,1 @@
+program RCe0a : main : Vpf0 : boolean array; jB : boolean; Y2, c, O, S17, rru0a : boolean; K6W : integer; P7, w7, a : boolean array; Yy60a : boolean; Tn : boolean; h3 : boolean; while H2X0a[59400] + 24 * false : do UG(- 2 - 1, 1, 9, 1); pop end end

@@ -1,0 +1,1 @@
+program T3Ya : v : takes sH, tK : boolean; z, A, J0 : integer array returns integer array M390, MY40 : integer array; chillax end k : takes A, QZ : boolean returns boolean array pop 3 = 48 end main : a32, N, xn9 : integer; while R[9] /= - false : chillax end; while - not not 57600 or false and 346 : chillax end; output - 2 /= 7 . "5" . 1 . 41 . "" end

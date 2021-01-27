@@ -1,0 +1,1 @@
+program Fq : B : takes O, S : integer array; z : integer returns boolean chillax end _ : takes u9 : integer array; E : boolean returns nothing y : integer array; chillax end main : pop - V[25] / true > - (25) and 04 or 5 end

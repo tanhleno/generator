@@ -1,0 +1,1 @@
+program c : J : takes l7, c25 : boolean; O, u4, y19, yS00a : integer array; s, CQ4, nl : boolean returns boolean array chillax end main : do A(- (490) + (54) * (9) and 847 = - (16) - 36 or 81 - 61); output - fK + 8 - 41800 end

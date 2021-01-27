@@ -1,0 +1,1 @@
+program e2 : i : takes i : boolean returns nothing U3 : boolean array; C2 : integer array; o, bd, y : integer; while not 2 - 564 - 21300 < - 2 : chillax end end main : M, I, j, yB : integer array; do x0(- true and(5) - 987 and not 6 >= - 66400 + not 9) end

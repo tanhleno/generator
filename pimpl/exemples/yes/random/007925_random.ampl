@@ -1,0 +1,1 @@
+program ps : M8 : takes c2, o96, o, e6 : integer returns boolean array w9, _W10a : boolean; T, K : boolean; pop end main : OD : integer array; S, Ra, Q : boolean; hWga, m, E6, xyi : integer; input B7; input m end

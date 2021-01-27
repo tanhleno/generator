@@ -1,0 +1,1 @@
+program A7 : lUda : takes _ : boolean array returns nothing chillax end T : takes T5, L : integer returns integer let B = 61 = 4 end iv : takes _zr0a : boolean array; X, J3 : integer returns nothing U : boolean; h87aa, w9 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program R : x38 : takes l : integer; C : boolean array returns integer chillax end J0 : takes Wj : integer returns integer array when case - 9 - 9 >= 1 : while 349 : chillax end end case 29 = 2 : output "" end otherwise : chillax end end main : U, b, wFd, Dn, D, D : boolean array; i, o8, W, D5J : boolean; output "" end

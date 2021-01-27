@@ -1,0 +1,1 @@
+program oQ1 : H : takes dn, dTs : integer; b : integer; S : boolean array; t : boolean; Z, m_70 : boolean array; I6, _, p : integer array; C : boolean returns nothing while - false - 53 = - 59 : do KkQ0a(90); when case 7 : chillax end end; let F[- 85 - 58] = 0 = 3; output "6" . ""; do zu(8) end main : chillax end

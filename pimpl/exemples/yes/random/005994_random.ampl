@@ -1,0 +1,1 @@
+program Q : y3o : takes w1, K, o01, A : boolean returns integer chillax end a42aa : takes y, z : boolean array; x : boolean; t1, Is80, k1Caa : boolean array; y, P, yG9 : integer; eQ, Dm : boolean array; c6va : boolean returns nothing N : boolean array; chillax end main : output "s\t\"a" . 2 = 646 . "Z" . "8\"!"; let L[(8) rem(4)] = array - 9 and false end

@@ -1,0 +1,1 @@
+program d7 : HjS : takes j : boolean returns boolean output - 8 end U2jaa : takes rk, yh, v, O : integer array returns integer b, vo, Q5, rZ : boolean; xS : integer; chillax end main : Q5f, n : boolean; pop end

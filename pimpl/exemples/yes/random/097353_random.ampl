@@ -1,0 +1,1 @@
+program Z : main : when case 756 - j(39) * 73 and 9 or false and 4 - 4 : chillax end case true / false and 4 >= 7 : when case 663 = 374 : chillax end end case(1) + 1 <= - 7 : let k[3] = array 65 end; when case 2 * (18100) : chillax end case - false = 830 - 53 : output 5430 end case - 506 : when case 50 : chillax end end case 3 : pop; pop end otherwise : chillax end end

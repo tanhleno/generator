@@ -1,0 +1,1 @@
+program W : y9 : takes mLO, v7, d5C, EB, wm, lq1a, e7b, T : integer returns integer array input a end main : W, JU : integer array; do R((9 = 4) or not 89800 * (0) and 587 <= - 3 * 54 and 80, - (2) * (39) or not 2 > - (3840) and 8350 - 376, false and 32200 + 6 - 248) end

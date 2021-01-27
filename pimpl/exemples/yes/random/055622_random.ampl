@@ -1,0 +1,1 @@
+program rS : H : takes S : integer array; C : boolean; i : boolean array; f1 : integer array; w, I6 : boolean returns integer array output 37 <= 60; pop end j : takes d : boolean returns nothing chillax end main : pop - not(1) = G or 5 end

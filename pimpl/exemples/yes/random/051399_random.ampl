@@ -1,0 +1,1 @@
+program U : J : takes d6 : integer; D200a : boolean; oG, xcg : integer; _9, p, X : boolean array returns nothing let D = - 3 - 0; do D0(314 >= 00); let A[7] = 35 end M : takes llR : integer; g83 : boolean array; I6, E2, F8Z0a : integer array returns nothing pop end main : vc : boolean; s44, R : boolean; chillax end

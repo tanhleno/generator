@@ -1,0 +1,1 @@
+program B6Oa : main : x : boolean array; T, s47aa : integer; n75a, s : boolean; output true and true and 13 > not 7 - 4 - 24; when case - Be4[4] : while 409 = 2 : chillax end; input i; output "pmaa" end case - 2770 > 127 - 4290 : pop end case 4 > 0 : when case 1 : chillax end; let L = 9 end case 5 : chillax end case 658 : chillax end case 8 : chillax end end

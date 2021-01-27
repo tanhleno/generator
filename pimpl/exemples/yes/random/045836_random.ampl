@@ -1,0 +1,1 @@
+program o : u : takes xo : boolean returns boolean array pop; let Sm = array 1 end B : takes t : integer array returns nothing s0, E300a : boolean; when case - 3 - 8 <= 4 : pop; output "%"; pop end otherwise : chillax end end main : m : integer array; n : boolean array; input Z[- false or true + false and 009]; while - false and false /= 8 and 2 or 7 : chillax end end

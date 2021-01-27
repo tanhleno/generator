@@ -1,0 +1,1 @@
+program D : Wkd : takes e : boolean; V2, d0Ga : boolean; Q1, Ss3a : boolean array; o050 : boolean array; c3 : boolean; o : integer array; a, j6 : boolean returns nothing N, Ww : integer; chillax end main : output - cz[429] rem not 9 and 0760 - true + 08 - 18 <= - m98 end

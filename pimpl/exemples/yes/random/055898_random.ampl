@@ -1,0 +1,1 @@
+program yU : R : takes zQv : integer array; Qs : boolean array; Y : boolean returns integer r : integer; while - false and 1480 + 061 - 1 : when case 7 : pop end case 77 : chillax end; pop; pop end end main : JQ2a : integer array; z1j, N : boolean; chillax end

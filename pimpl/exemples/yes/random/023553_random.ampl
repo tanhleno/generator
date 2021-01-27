@@ -1,0 +1,1 @@
+program s6a0a : Zt : takes u, sj : boolean returns integer array L : integer; Du7a : boolean array; chillax end main : W550a, _xP, gi9aa, x : boolean array; output - false + IY9 + 0 - 1 > false or 57 . "" end

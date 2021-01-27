@@ -1,0 +1,1 @@
+program f : main : q0, jjx : integer array; Ny : boolean; when case - 3 and false + m(94) - not 41 < (1780) : let X = 51400 = 9; when case 98 = 88 : output "14"; pop end case 35000 : pop end otherwise : pop end end otherwise : chillax end end

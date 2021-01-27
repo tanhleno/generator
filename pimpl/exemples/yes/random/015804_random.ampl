@@ -1,0 +1,1 @@
+program q8 : c : takes D1, f, S : integer returns boolean O, A1, T : boolean array; z, E : boolean; chillax end w : takes Tm, n, I13, D, U2, g3 : integer array returns integer array do kT(- 07000 - 4710, 7) end main : chillax end

@@ -1,0 +1,1 @@
+program Zg : R : takes z : integer returns boolean array l6 : integer; H, N, O : integer; K71, FaL, Y : integer; _s, OlC0 : boolean; chillax end main : pop false / 9 or ZO; while not not 028 and true <= (47) and 486 or 07 : chillax end end

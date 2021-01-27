@@ -1,0 +1,1 @@
+program A3 : zB70 : takes Hr : integer; H, B : integer array returns boolean array h : boolean array; let y = array(571) and 5710 - 6 - 69800 end d : takes sF, sP00, R9 : boolean array; k : integer array returns nothing W : boolean; chillax end main : chillax end

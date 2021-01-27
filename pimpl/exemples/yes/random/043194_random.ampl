@@ -1,0 +1,1 @@
+program r : e96aa : takes Q : boolean array returns integer g : boolean array; chillax end Q : takes t, mr : boolean array; g, wf : integer; r, d : boolean; W, Z2q : integer array; vn : boolean; q : boolean; e7Maa : boolean returns boolean r : boolean; xI2 : integer array; chillax end main : output "710a" . "" . - 80; let sWY0[- not(80)] = false > - 5 end

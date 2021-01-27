@@ -1,0 +1,1 @@
+program A : main : a, I4Za : boolean array; JD, PN6a, GCT0 : integer array; when case M[6] rem not I < true or false and 7900 - 8 - 0 : chillax end case not(209) and not 5 + false >= - false - 0 - 7 : chillax end case(20) or 39 - 398 < 16 - 1 : chillax end otherwise : let i = array 63900; let l[175] = 1 end; let E940a = array - (3) / 140 and 0 end

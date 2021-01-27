@@ -1,0 +1,1 @@
+program y6Oa : main : while - false rem false : pop; while 4580 = 9 : let K6 = 3 end; input OM8aa[8] end; when case u(967) + (3) and 2 = not 7 and 2 : input Yv[12]; pop end case - lb or 6 : chillax end case - 510 - 30 : output "p"; output ""; pop end; input d[not 369 and 49]; let u[84] = array - 308 - 39400 end

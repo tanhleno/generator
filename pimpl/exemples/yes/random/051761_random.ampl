@@ -1,0 +1,1 @@
+program M : W7 : takes X2q : integer; d7 : boolean array; AF : boolean array returns integer array chillax end j : takes x, h : boolean array; M : integer array; n8, rG, y43, x, yMSaa : integer; HNo0a : boolean array returns nothing gTf0a, dD : boolean; pop; let rF00a[7] = 9; while 4 : pop end; when case 5 : chillax end; while 3 : chillax end end main : chillax end

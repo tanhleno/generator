@@ -1,0 +1,1 @@
+program i : u : takes u : boolean; z8 : integer returns boolean array p : integer array; when case - true : chillax end otherwise : while 30 : chillax end; pop end; do n4raa(8); input p060; let iP[73200] = 5; pop; do o2(9) end jx : takes i : boolean array; c, k : integer; y : integer returns boolean I, ts : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program C : n9 : takes M : boolean returns nothing chillax end N : takes c, p900, U, Rgp, J : integer returns boolean array output 604 . 82 . 2 end main : d, t, VW, Sg0 : boolean array; dny, e : integer; a : integer; a : integer array; pop - 73 / not 99 and 1750 end

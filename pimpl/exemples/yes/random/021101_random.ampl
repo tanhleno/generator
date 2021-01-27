@@ -1,0 +1,1 @@
+program xbg : m8 : takes MXj0, V : boolean array returns boolean h, q9, T43 : integer array; R : boolean array; when case false /= 26700 - 4 : chillax end otherwise : chillax end; do Y(5070 >= 181, 7, 189); do C(44 = 3) end Z : takes K7 : boolean array; A : boolean returns boolean array K : boolean; i : boolean; t, a : boolean; chillax end main : chillax end

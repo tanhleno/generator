@@ -1,0 +1,1 @@
+program lR : l79a : takes yc0aa, RL, Dn60, ycr0, r60, P0aaa, X : boolean; y : integer returns integer L : integer; N : integer; R, Hu, a : boolean; VYTaa, Z : boolean; o : boolean; c9 : boolean; chillax end main : chillax end

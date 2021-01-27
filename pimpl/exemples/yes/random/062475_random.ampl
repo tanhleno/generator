@@ -1,0 +1,1 @@
+program a : A : takes R : integer returns boolean a4 : boolean; i4 : integer array; while - true and 8 - 07 - 9 : let dB[9] = array 65000 end; input ah[- 7]; input f end main : pop false and 6 and 78 - not 353 + 9 > - 8 and 59 + 6; when case - m(0200) : chillax end otherwise : input D; let r = 67 end end

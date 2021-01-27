@@ -1,0 +1,1 @@
+program fy90 : main : let x = 8 - (8) and 8; do L(- false + s0 and 1 >= true + 0 - 37200, - true and 5 - 7 = - 38 - 47, 94 - 68, 0); when case false : do c9(8); do U(9580) end case 07 - 626 : chillax end case 4 : chillax end case 7 : chillax end case 2 : chillax end end

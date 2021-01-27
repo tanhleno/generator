@@ -1,0 +1,1 @@
+program e : F6 : takes P, l15, v, F : integer returns boolean array while - false and 03 : output 258 . "" end; pop; when case 99900 : chillax end case 4 : chillax end case 69 : chillax end otherwise : chillax end; do Okn0a(23800); let q35aa = 56 end main : Vf, qj, HJ0aa : boolean array; byO : integer array; K : integer; f8 : boolean; chillax end

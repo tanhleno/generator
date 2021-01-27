@@ -1,0 +1,1 @@
+program W3 : k2 : takes oB5a : boolean array returns integer array let l2r = 5 - 11 /= 0 end main : v, H6 : boolean; let c[N7(45) rem(54) + not not 00 / (7) and 4] = false; while N and false and 495 <= - false + 07 - 516 : let Q = 1; do _a(7, 073) end; while not 4 and 16 - 55 - 96100 : pop end; pop; while 2 : when case 0 : chillax end; pop end end

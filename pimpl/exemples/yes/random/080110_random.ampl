@@ -1,0 +1,1 @@
+program t : main : uAi : boolean; output - not(41) or not 7 < false and 60700 . - true and 1 >= - 08 . "\"\""; when case not w - true + 72 >= - not 4 and 582 : chillax end otherwise : input Xq end end

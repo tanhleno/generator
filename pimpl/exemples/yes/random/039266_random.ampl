@@ -1,0 +1,1 @@
+program K : X700a : takes d8Ca : boolean array; AOS, cG : integer array returns integer array Z : integer array; chillax end dI : takes R, N : integer array; k : integer returns nothing _ : integer array; pop end main : chillax end

@@ -1,0 +1,1 @@
+program qx : O : takes T4 : boolean array; s, t, ar : integer returns nothing nS : integer; O04, F : integer; chillax end co : takes l9, ll40a, Z, a98a, D : integer array returns boolean array let X050a[- 9] = 439; input b7X0a[7]; when case 92 : chillax end; input Y1 end fH : takes M : integer returns nothing aJ : boolean; chillax end main : chillax end

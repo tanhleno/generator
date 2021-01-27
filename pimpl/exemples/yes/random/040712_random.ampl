@@ -1,0 +1,1 @@
+program u : D : takes PB4 : boolean array; GSq : integer; il : integer returns integer array u1 : boolean; T3 : boolean array; i6, qN, LJPaa : boolean; pop - 2 - 9 < 0 end main : let T[8 rem 0] = array not(3) + false + 37800 and 9 or 1 - 1 end

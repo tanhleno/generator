@@ -1,0 +1,1 @@
+program e0 : I : takes G, Le : boolean; j, wa20a, j : boolean array returns nothing do F2(- not 1730 and 34 /= 5); when case 5 < 1 : chillax end case 3 = 10 : chillax end case 19 : pop end case 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program O1 : main : Dy8 : boolean array; let l9n0[true * tL(1) or(0)] = array - true * (10) rem(059) + (2) or false; when case - false - 4 and 7 : pop; pop 241 end case not 4 or 2 : chillax end case 3 : chillax end case 2 = 0 : chillax end case 680 : chillax end case 2 : chillax end otherwise : do H9(3); while 66 : chillax end end; output "" . 72 = 99100 . "" end

@@ -1,0 +1,1 @@
+program Z1 : OY : takes I, qr, O, c, EU, OH4, w3, _Z : boolean; X : boolean array returns integer pop end ftM : takes D : integer; X7, i, k8, U0, L, g1 : boolean returns integer IxG : boolean; pop end O : takes GrLa, P, K, Fyaaa : integer returns boolean chillax end main : chillax end

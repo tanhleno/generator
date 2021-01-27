@@ -1,0 +1,1 @@
+program uy5aa : j : takes U, J, S, dq, e, J0, q270a : boolean array returns nothing input w9[- false and 1]; input Y[4 - 86] end main : i37, C, q : boolean; do p1N0(M(6) / true, - not false, - false or 9 /= - 0 - 67); while(12900) : chillax end; input X; do aP9(- 7 - 6 >= 7, 7); while 60 : chillax end end

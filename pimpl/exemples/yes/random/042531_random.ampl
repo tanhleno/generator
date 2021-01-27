@@ -1,0 +1,1 @@
+program k : E : takes c17 : boolean array returns integer array IF1aa, W, c, O, v50 : boolean array; input U_[- 1760 or 2 - 1] end s : takes q : integer array; V : boolean array; e8 : integer array; r : boolean; s : boolean array; x, X : boolean; P7Naa : boolean returns integer array N, nu, z, N : boolean; when case 420 /= 9 : chillax end end main : pop 03 end

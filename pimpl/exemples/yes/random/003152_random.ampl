@@ -1,0 +1,1 @@
+program q870 : DJ : takes p, E, L210a, D, m190a : integer; Q, jr, X : integer array; Y : boolean array returns nothing js : integer; chillax end P : takes FG : integer returns boolean e : integer; pop end main : output "" end

@@ -1,0 +1,1 @@
+program WW : main : U9H0a, j : boolean array; let Vud0a[false / 1 * (68)] = array(2) - false; while - false * true or not 6 > - not 3 : while 2380 = 4 : chillax end; while 7 : chillax end; while 9 : chillax end end end

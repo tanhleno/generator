@@ -1,0 +1,1 @@
+program r7M : AR : takes pj, Q, j : boolean; Of3, B : boolean array; P9 : integer array returns integer array do w(- true or 5 = - 4) end q : takes U670a, aa : boolean array; A : integer array returns integer T0 : boolean; chillax end main : _ : integer; M, q5Kaa, T : integer; l, c4H, y : integer; E : integer; F, I, L : boolean; R8, fu8 : boolean; pop end

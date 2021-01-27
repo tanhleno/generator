@@ -1,0 +1,1 @@
+program sJf0 : main : K84aa, sW : boolean; pop; while - not false < false - 49 : while 3 : chillax end end; do Q(false and 8130 or 34 - 846, 6030 - 95 /= 16, 1 = 06, 0, 31); output 83 = 9; input S; output 4 . "\t|\"a"; let j = 195; let T = 212 end

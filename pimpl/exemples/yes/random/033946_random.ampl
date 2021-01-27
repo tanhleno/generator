@@ -1,0 +1,1 @@
+program b : X : takes y : boolean; k, U3, l0 : boolean returns nothing d3W, G, V, Cr, P8 : integer array; lDa : boolean array; do TD(true and 44 + 56 - 9); while 52600 - 0850 < 3900 : do NEk(290); while 041 : chillax end end end main : input t end

@@ -1,0 +1,1 @@
+program x3z : C : takes T : boolean returns nothing A, Bu : boolean; output "h" end IRr0a : takes v, a, F : boolean array returns nothing pop; when case 04 : while 042 : chillax end end otherwise : chillax end end main : chillax end

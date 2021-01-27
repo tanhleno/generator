@@ -1,0 +1,1 @@
+program r : Y7R : takes J, y, n, g55a : integer array; I0U : integer array returns integer let e[- true + 3 - 51] = 2950; input b; when case 37 = 2 : chillax end case 9 : chillax end otherwise : chillax end end Vtla : takes B1h, O, l : boolean; z : integer array returns nothing F : boolean array; S_u0a : boolean; let _o[787 - 042] = 0 end main : chillax end

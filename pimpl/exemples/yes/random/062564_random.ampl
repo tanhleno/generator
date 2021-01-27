@@ -1,0 +1,1 @@
+program H : M : takes i : integer returns boolean u : integer array; iG2, g : boolean; T, A, Mz : integer array; let TO1[true and 07] = array(7) - 47; input F4; input x[852]; input _[3930] end main : chillax end

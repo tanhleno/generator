@@ -1,0 +1,1 @@
+program P570a : n : takes p240a : integer array; QQ : integer returns nothing Z, b : integer; when case - (659) : chillax end case 01 : let T = 2 end otherwise : when case 5 : chillax end end end main : chillax end

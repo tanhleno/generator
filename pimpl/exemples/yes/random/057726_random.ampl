@@ -1,0 +1,1 @@
+program m3 : W : takes _cPaa : integer array returns boolean array J, y4, u40aa : integer array; do gZ4a(not 85000 and 36 + 820 - 6, 2 < 3, 652 = 1) end main : let n14aa = - (0) >= - s and 7 or 9280 - 9; input b; pop; input z19[- 52] end

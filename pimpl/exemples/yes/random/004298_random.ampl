@@ -1,0 +1,1 @@
+program y : b : takes G, e, F46, M : boolean; C, Ixb0, gR : integer array returns nothing m5Z : boolean array; id6 : boolean; n3B : boolean; yD, gp : boolean; output ""; let R = array 2 - 1; when case 8 : chillax end; when case 3 : pop end otherwise : chillax end; do M(542); input Yi; pop end main : p76aa : integer; O : integer; chillax end

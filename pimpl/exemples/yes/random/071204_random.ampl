@@ -1,0 +1,1 @@
+program d : main : j2, yK, Z : boolean; let R[true - K8] = (8010) * true or y33a and 276; when case false / not 326 = - false and 8 : while 53 : chillax end; while 0 : chillax end; pop; pop; pop end case - (9) - 4 - 078 : chillax end case - 5 /= 20300 : chillax end end

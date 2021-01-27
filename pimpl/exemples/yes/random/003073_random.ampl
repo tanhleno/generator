@@ -1,0 +1,1 @@
+program oE30a : _ : takes f, sh, x, WLl, q : boolean returns nothing input b[true and 20 - 1480]; output "\"" end k : takes R : boolean returns nothing N : boolean array; let iA3 = 4; input Y end K4t0 : takes YCQ0a, fi, F, C : boolean; bw, D : boolean array returns integer array input d[0] end main : chillax end

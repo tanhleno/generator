@@ -1,0 +1,1 @@
+program F : fW5 : takes _yc : boolean array returns nothing f, T : integer array; chillax end l : takes GO : boolean; SMk, UhY0a, Q, S : integer returns nothing chillax end main : while - s[63] + (071) * not 72 and 0 - (3) + 00 : chillax end end

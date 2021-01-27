@@ -1,0 +1,1 @@
+program S : _ : takes gC : boolean array returns integer array nu, G, w, BT : integer; G, O21, G, k : integer; DYY, F, G23 : boolean; A5Z, zi : boolean; V : boolean; chillax end main : Q : integer array; O : integer array; P_ : boolean; chillax end

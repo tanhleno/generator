@@ -1,0 +1,1 @@
+program Zm : T : takes f, m : integer array; P, T, q, HS : integer; v : boolean array returns integer array chillax end JO7 : takes xC80a : boolean array returns integer when case - 788 /= 7 : chillax end case 3 : do Ds(4) end case 3 : pop end case 3 : chillax end otherwise : chillax end end main : chillax end

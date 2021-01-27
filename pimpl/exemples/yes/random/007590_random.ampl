@@ -1,0 +1,1 @@
+program t0 : kU : takes v, Zi, A, Ap2aa : integer array returns integer chillax end main : Bd7, K, BY : boolean array; Kz50a, I0 : integer array; T, B : boolean array; input B8; do L(- o / not 837) end

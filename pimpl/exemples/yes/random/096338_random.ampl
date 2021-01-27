@@ -1,0 +1,1 @@
+program V : main : when case - 769 * false - (1) and(59) <= (6) : chillax end otherwise : when case 3 = 7 : pop; pop end case 53 : chillax end case 1 : chillax end otherwise : pop end; input Y end end

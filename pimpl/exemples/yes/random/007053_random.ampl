@@ -1,0 +1,1 @@
+program Q59 : t : takes Bb, twFaa, P420, WH7 : integer array; K5, k : integer array; u92, vl : integer returns integer A, v, h : boolean array; let o = - 1 - 91; when case - 927 = 19 : output "^"; do t13(8); pop end end main : chillax end

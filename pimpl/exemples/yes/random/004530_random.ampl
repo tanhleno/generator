@@ -1,0 +1,1 @@
+program F95aa : gO : takes C, z8v, F, mL : boolean; F_8a : boolean array returns boolean m, r_, T, S, NH : boolean; when case - false : let U9 = array 764 end case 9030 < 2 : pop; pop; pop end; let Ha[- 1] = array 6 end P40aa : takes B, R : integer array; m : integer; S, m : boolean array returns nothing chillax end main : pop not 610 and(2050) and 942 > 4 end

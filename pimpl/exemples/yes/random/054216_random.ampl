@@ -1,0 +1,1 @@
+program sN : A : takes Q : integer array; yt9, O16, I9 : integer array; Tv : boolean array; R : boolean array; e, Ww, d : boolean returns integer n : boolean array; chillax end main : pop(82) + (40) and 663 > false and 218 end

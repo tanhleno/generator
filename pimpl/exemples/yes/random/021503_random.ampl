@@ -1,0 +1,1 @@
+program A24 : j1Kaa : takes fK, f : boolean array returns integer array pop; pop end q : takes p : boolean array returns boolean chillax end main : p1i0 : boolean array; yDO : integer array; let o = array false; when case 34 or not 92000 : output "9O"; while 8 : chillax end end otherwise : pop 1; while 46700 : chillax end end end

@@ -1,0 +1,1 @@
+program A570a : N : takes p2, Z7M, e, C66aa, rF : boolean returns integer array kfE : boolean; a : boolean; O80 : integer array; z02 : boolean; let Lz[(202) and 5 + 1] = - 5180; let i[- 30] = array - 01 - 14; do u(8) end k59a : takes b3 : integer; N64, Ms8, A8 : integer array returns integer array do b8(- 5) end main : chillax end

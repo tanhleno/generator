@@ -1,0 +1,1 @@
+program vK : Fv : takes L : integer array; LM, i : boolean returns boolean pT, o : integer array; when case(6) + 4 < 70 - 39000 : input B8u0a end end main : V, w : integer; i, zV7aa, J7, Yy, g : boolean array; chillax end

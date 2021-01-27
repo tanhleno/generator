@@ -1,0 +1,1 @@
+program q : main : x4H0 : integer array; x, J, t0, c : boolean array; q77 : integer array; when case X(4330) rem f * true : chillax end case true and 67 - d and 0 + 4 - 2 = - not 978 + 6920 - 5 : while 174 = 8 : when case 6380 : chillax end end end; do J(- (9) or E8q and 7080 + 8 - 88); when case not 4 and 9 : pop end otherwise : chillax end end

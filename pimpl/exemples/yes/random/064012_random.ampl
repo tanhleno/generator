@@ -1,0 +1,1 @@
+program GKr : F8 : takes b : integer returns nothing chillax end main : input l; do s(- 940 / true + false /= - CX00a or 194, not 5 or 71); pop; input L[- 2]; while 6 : when case 56 : chillax end end; output 9 . "" end

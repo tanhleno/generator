@@ -1,0 +1,1 @@
+program O0 : j : takes K1eaa, irw, O : integer returns nothing when case(46) or 01200 : let Y = 3; do d(62) end case - 7840 - 7 > 7 : chillax end otherwise : output "M/\"" end; while - 07 >= 848 : while 1150 : chillax end end end main : ZR : integer array; do rs((3) - false / true + (34) and 939, true / false or(40) or 23, not 0 and 0, - 10 - 5, 6 = 68, 5, 39) end

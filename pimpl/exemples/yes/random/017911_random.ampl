@@ -1,0 +1,1 @@
+program pg00 : yX0 : takes G, i7F : boolean; B98a : boolean array returns nothing chillax end a : takes _, h, A740 : boolean array returns nothing while 99 - 4 : while 83 : chillax end; do W(0) end end main : O : integer array; ap : integer; input z end

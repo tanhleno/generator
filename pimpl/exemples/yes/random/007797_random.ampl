@@ -1,0 +1,1 @@
+program ub : NOWa : takes gL, V34, m2g, b : integer array returns nothing O : boolean array; let L = 9 end K : takes b, H8 : integer returns integer array c96a, s : integer array; input f end F : takes f, C : boolean array returns boolean q, SJ, C : boolean array; pop end main : yo9, c5 : boolean array; G : integer array; f6, s : integer; chillax end

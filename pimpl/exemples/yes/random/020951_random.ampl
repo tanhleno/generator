@@ -1,0 +1,1 @@
+program v0h : d : takes L07, G9ca : boolean array returns boolean array q4kaa : integer array; N6, m, I : boolean array; Uh6 : integer array; f, x : boolean; output "" . "\\\\\"" end main : when case - (9) : let g8[- 87] = 1 = 3 end otherwise : pop 852 end end

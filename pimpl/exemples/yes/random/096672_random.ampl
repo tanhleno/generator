@@ -1,0 +1,1 @@
+program f : main : when case - true or(0) and not 7 < - (87) and not 65 and 40 - G7 and 7 - 15 - 0 : while 6 : chillax end; while 541 : when case 91 : chillax end end; pop 9 end otherwise : while 2 = 44100 : let I1 = 41 end end end

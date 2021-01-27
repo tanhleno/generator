@@ -1,0 +1,1 @@
+program HJ : Sn : takes Oq : boolean array returns integer array while w - 2 - 9 = 1 : chillax end end a : takes J5x : integer array; r, y81a : integer; Pz70a, VCm, wh, w : boolean array returns integer array ad : boolean array; W : integer; chillax end main : chillax end

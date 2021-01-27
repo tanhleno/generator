@@ -1,0 +1,1 @@
+program T0 : U9 : takes n5 : integer array returns boolean D, t_, A : integer; chillax end J : takes v : integer array returns nothing e, e0, R : integer array; l, n78, X6 : integer; chillax end p : takes H : boolean array returns integer when case 3 = 6170 : chillax end case 0 : chillax end end main : a04 : boolean array; chillax end

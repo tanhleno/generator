@@ -1,0 +1,1 @@
+program NX : Mvx : takes zj7aa : integer; GJ7 : boolean; t : integer returns nothing cQ5, YLP0, u9i : integer; when case not 5 and 95 or 8920 : chillax end otherwise : output "\\\\\"a"; when case 73 : chillax end; pop end end main : seC0a, Q, n, u, v : integer array; let O = 8 * zi6 = - false and 3; output "" . "" . "" end

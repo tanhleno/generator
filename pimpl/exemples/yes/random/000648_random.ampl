@@ -1,0 +1,1 @@
+program J : b7 : takes p, Q5, pH, Sh5, Ao2, gU1, av_ : boolean array; r, bU : boolean returns nothing chillax end main : N650a : integer array; S02, pB, m : integer array; BS : integer array; while - O / tGj(7) and false - not(5) and(4) and 3 + false : while 70 : pop; let z = 36; pop end; output "\t" end end

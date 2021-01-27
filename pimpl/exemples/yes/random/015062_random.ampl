@@ -1,0 +1,1 @@
+program JW : E4Laa : takes M, w, n2 : integer array returns integer l, _ : integer; pop - 6 end main : input a; while - T[14] : do Q46a(32, 8, 4) end; input _; while - 9640 : output "\t\"" end; output ""; output 2 . "3" end

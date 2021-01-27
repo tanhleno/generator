@@ -1,0 +1,1 @@
+program ip : KUX : takes T5 : boolean array; w, SY, v, tc : integer array returns integer chillax end k : takes v, RP : boolean; S7, R2x, N : boolean; i : integer returns nothing f : integer; let H8 = array 4 end main : Ud6 : integer; sA : boolean array; fh6 : boolean array; let P19[- true - not true] = - (9) * 1 and 89 /= - true - 42900 end

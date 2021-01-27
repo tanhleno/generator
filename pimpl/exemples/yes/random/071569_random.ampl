@@ -1,0 +1,1 @@
+program QMB0a : main : A, x9K0, m : boolean array; R5 : boolean; V7 : integer array; r3, Y : integer; o, O : boolean; do HB(not 425 rem not not 3 * 9 and 1630, - 1 and not 06 and 1 - false and 9 /= - false) end

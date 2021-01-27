@@ -1,0 +1,1 @@
+program a : H : takes M : integer array returns integer array K7b0 : boolean array; while true and 0 > 6 : chillax end; pop end main : M, v2m : boolean; Z15, _d2 : boolean; w : boolean array; while(9030 = 599) rem dI[34800] > - not MF and not 3 and 6920 : do r8R(6 /= 87) end end

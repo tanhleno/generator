@@ -1,0 +1,1 @@
+program _ : main : when case 79200 + true /= false + false and 0 : pop end case - true and true and 96 + (652) - 84 - 6 = (29) : chillax end case false + 4 - 08 < 7 - 7 : input x5[0] end case - 2820 - 2 : chillax end case 6 = 49 : input y1 end otherwise : output "\n" . "" . "6" end; input i[C(265) or 904] end

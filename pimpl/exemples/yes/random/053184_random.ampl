@@ -1,0 +1,1 @@
+program O : Voa : takes eL : integer; LIl : integer returns integer array L : boolean array; chillax end l : takes t, z95, H, p, L3, AG : integer returns nothing chillax end main : let f[false] = array - 75700 / (6) rem true and 6 + UP4(4) end

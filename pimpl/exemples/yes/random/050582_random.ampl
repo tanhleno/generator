@@ -1,0 +1,1 @@
+program l : x : takes B : integer; s, K : boolean array returns integer array while(26) and 447 : chillax end; input qE[1 - 9] end O0 : takes h, Z : integer returns boolean array chillax end main : r : boolean array; while true * ko[9] and not 3 - (85) or true and 7 <= false + (92) + 6 : input bs end end

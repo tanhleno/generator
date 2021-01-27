@@ -1,0 +1,1 @@
+program m : d : takes YP5 : boolean array returns nothing g77, K : boolean array; K : boolean array; f : boolean array; eL, i9 : boolean; pop end main : input K5ha[- not 81 * not v * not 1 and 6 + (1) rem not 6220 and 01] end

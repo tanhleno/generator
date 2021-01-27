@@ -1,0 +1,1 @@
+program Fy : v_ : takes V : integer; m, C : boolean returns nothing d0 : integer; K5N, a, p1 : integer; K, w : boolean array; do iJ4a(- (3330) and 1 >= 960, 95 - 7 < 8); pop; let X[2] = array 21 end main : WPn : integer array; while a[46] and true + false : chillax end end

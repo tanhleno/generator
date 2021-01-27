@@ -1,0 +1,1 @@
+program k4caa : main : pop - true = false; input f[(3)]; let BU[(33) and 12 - 0680 - 62] = array true and 9; pop 00 = 97400; when case 9 : chillax end case 199 : chillax end case 8 : chillax end otherwise : chillax end end

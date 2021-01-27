@@ -1,0 +1,1 @@
+program t3 : k2 : takes cr, X5, Ssv : integer; B : boolean array; c, l, G : integer; v, NoN0, cuYaa, C, N1 : boolean array returns integer when case - (5) : input J[7]; do G(9); pop end case - 0 - 0 <= 696 : chillax end otherwise : do N(4) end end main : when case false < 29 / not 7 and 02500 - (8) and 1 : pop end; pop; do B(- true and 668, 39 - 8, 2); pop end

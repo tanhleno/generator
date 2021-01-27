@@ -1,0 +1,1 @@
+program v : Z : takes Q : integer; aF : boolean; P8 : integer array; Bz : boolean returns nothing input M[- k8 and 5] end main : gT, Q : integer array; pop; while - false / 0 and 519 - false and 1470 = - not 7 and 915 or 20 - 289 : pop 3 end end

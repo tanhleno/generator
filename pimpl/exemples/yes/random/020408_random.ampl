@@ -1,0 +1,1 @@
+program y : hX5 : takes h, B : boolean array; i : integer array; god, N9fa : boolean; sg, _6l, W, P8 : integer; cC : boolean array returns boolean array when case(4) and 17 or 41 - 8 <= - 4 : chillax end otherwise : chillax end; output 1960 = 319 end main : pop true; pop end

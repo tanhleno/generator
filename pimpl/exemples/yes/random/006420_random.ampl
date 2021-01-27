@@ -1,0 +1,1 @@
+program yQta : HM : takes Y, I, u, P : integer; M, dw : boolean; x : integer array; E, n, Ju : boolean; YqN0 : integer array returns nothing chillax end V8 : takes N, I5 : boolean; C8r : boolean returns nothing Z : boolean array; l, v3, xk : integer; chillax end main : chillax end

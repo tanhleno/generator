@@ -1,0 +1,1 @@
+program R : main : _, L, D670 : integer; w : boolean; pop - false and not 3 and 469 - false and 8 or 3 = true; let L6A = true and 94 + 8420 /= - 1 - 3; while not 35 - 2 /= - 2 : do rg(0) end; do nK(55 - 2 >= 9, 7, 2360) end

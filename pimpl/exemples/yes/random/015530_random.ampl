@@ -1,0 +1,1 @@
+program q : N1 : takes YLa0, Ss, yo : integer array returns nothing fu2 : integer array; pop; output "46" . 7; pop 351; do Qv5(043); output ""; when case 18 : chillax end end main : vB30, qZ0, tE, l5q, _ : boolean; s : integer array; chillax end

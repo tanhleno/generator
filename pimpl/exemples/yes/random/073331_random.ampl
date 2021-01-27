@@ -1,0 +1,1 @@
+program j : main : g, p : boolean; uD, i, C, Am, g9, q : integer; when case - gd(4, 40) and(8) : chillax end case false : input j[2]; while 6 : chillax end; input P22; while 3 : chillax end end otherwise : chillax end end

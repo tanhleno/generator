@@ -1,0 +1,1 @@
+program f7 : sB : takes e, BtFaa, ae8, P, G : integer returns integer array cc8 : integer array; when case true or 21 - 61100 : chillax end case 59 - 35 >= 1 : chillax end case 1 = 01 : chillax end case 273 : pop end case 23900 : chillax end; do J(- 9 - 0, 47900, 3, 0) end main : R : integer; S, yb3 : integer; chillax end

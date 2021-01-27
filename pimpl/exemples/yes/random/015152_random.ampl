@@ -1,0 +1,1 @@
+program C : ac : takes u, B, _7m : integer array returns nothing chillax end w : takes KD, o, mWK : boolean returns integer L : boolean; chillax end main : output "~" . - not 8 and 27700 . "f0aa" end

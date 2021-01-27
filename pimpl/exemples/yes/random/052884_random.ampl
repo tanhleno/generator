@@ -1,0 +1,1 @@
+program gC : Qh : takes rS3a : integer; j : integer array returns boolean z, q, j : boolean array; input rG[- true + 5 - 57900] end main : O5, J, Hd, A21, w47, z9, x : boolean; g, Uzo0 : boolean; M : integer; do mb(M1(0) - 6 or g, - not true * not 51 < - (627) and 3) end

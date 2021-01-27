@@ -1,0 +1,1 @@
+program SU : sE : takes D : integer array returns boolean m, KRpaa : boolean array; x : boolean; output "0" . 8 . 9 end m6N : takes K, tTX : boolean; j, T4 : integer array returns nothing chillax end main : chillax end

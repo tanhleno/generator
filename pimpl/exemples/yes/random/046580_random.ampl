@@ -1,0 +1,1 @@
+program aa : f6X0 : takes j : boolean returns integer array J4R, C : boolean; d, Rm5 : boolean array; let C[- not 15 and 9] = array - 2 end h : takes z : boolean returns integer array do MW(- 5 > 7); do ph(3); input kJ end main : N : boolean; R : integer array; R : integer; chillax end

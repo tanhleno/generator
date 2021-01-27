@@ -1,0 +1,1 @@
+program m87a : vP1a : takes e : boolean array returns integer chillax end i : takes S3n : boolean returns integer H, l : boolean; chillax end X : takes F : integer; l, s14 : integer returns nothing T43, G, B : integer array; c3 : boolean; input Q; input L end main : C, Lw6 : boolean array; do G(- true, - (8) * not 4 > - (9), - (0) - 2 - 8, - 51 - 8 <= 2, 70 = 0) end

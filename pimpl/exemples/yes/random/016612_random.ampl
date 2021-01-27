@@ -1,0 +1,1 @@
+program A : C2 : takes m9, x, Q : integer returns nothing when case - true and 93 : input S9 end case - 5 - 755 <= 3 : chillax end case 4 = 797 : do K1xa(20500) end end main : nkS, U3w : boolean array; C, Snk : integer; let pz = array - (36 = 7); let a7gaa = - not 0 and 1 or 8 end

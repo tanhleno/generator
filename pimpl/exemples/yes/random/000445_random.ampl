@@ -1,0 +1,1 @@
+program j : c : takes K, N, ru1, Su, A, l, sB, d : integer array returns integer array B : boolean; z0 : boolean; o : boolean; pop; when case - 14 <= 88 : chillax end; when case 469 : output "\"" end case 0 : pop end case 3110 : chillax end otherwise : chillax end end main : input Y[- false - (9) or 77 + 6] end

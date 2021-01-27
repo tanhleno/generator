@@ -1,0 +1,1 @@
+program OU2 : J : takes C7K : integer returns integer array d7, r : integer; chillax end i : takes H : boolean array returns nothing x : integer array; chillax end main : a : boolean array; chillax end

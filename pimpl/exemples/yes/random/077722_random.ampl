@@ -1,0 +1,1 @@
+program a : main : Q, k : integer array; P3 : integer; when case Q < (7) / 33 - (7) and 8 : input i78 end case - oBd - true and 21800 + 763 - 4390 = XB8 and 5 or 3 : do h28(1) end case eBg or 31800 : do L(11); let WmK0a = 5 end case - 025 : output "9" end case 480 : pop end case 7 : chillax end; let V[e + (7)] = array - true end

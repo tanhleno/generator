@@ -1,0 +1,1 @@
+program Em : B : takes V6, OY, n : integer array; A1d : integer array returns nothing do Y3w(- true and 001, 7 - 8 <= 6190, 2 = 34, 8, 3); let zi2aa = array - 6 end z : takes e : integer array returns boolean array z : integer array; chillax end q : takes v : integer returns nothing C7, L : integer; chillax end main : el9a : integer array; output "" . - not 56 > 3330 end

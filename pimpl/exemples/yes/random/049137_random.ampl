@@ -1,0 +1,1 @@
+program m : Y : takes k : boolean returns nothing when case false - 02 - 2 < - 30 : chillax end end f6 : takes r, H6 : boolean array returns nothing when case - 1 - 8 : when case 340 : chillax end end case 1 = 0 : let K_ = 54 end case 180 : pop end case 31 : chillax end otherwise : pop end end BIN : takes c : integer returns integer chillax end main : chillax end

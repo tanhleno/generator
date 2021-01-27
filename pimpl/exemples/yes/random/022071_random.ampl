@@ -1,0 +1,1 @@
+program zq : E7 : takes X1, Lv : boolean array returns nothing do H4(- A5 and 8 - 6 - 819) end Q : takes k, d : boolean returns nothing chillax end main : Z : integer array; output true and false and 5 + false and 0 - 6 end

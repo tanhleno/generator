@@ -1,0 +1,1 @@
+program z : q5 : takes z : boolean; qVFa, z : boolean; v : boolean returns nothing chillax end VK_aa : takes _V : boolean array; t, v, s : integer returns nothing c, fx, f : integer array; u, X : boolean array; chillax end l : takes K, b8saa : boolean returns nothing oBn : boolean array; U, x : boolean; chillax end main : chillax end

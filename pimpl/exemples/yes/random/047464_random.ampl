@@ -1,0 +1,1 @@
+program x : T : takes lp5 : boolean returns nothing chillax end l9 : takes b, P2daa : integer array; C, z : boolean returns boolean array q : boolean; q, j, o : boolean; chillax end main : input l[(6 = 7830)] end

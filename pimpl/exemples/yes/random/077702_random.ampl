@@ -1,0 +1,1 @@
+program L : main : sm6, NT : integer array; R : integer; d : integer array; h5 : boolean; d, Wr, B : boolean array; while 36 and(9) and true and 85 + (84600) - 613 and 3 /= - not 21 rem not 7 and 63 + 9 - 2 : do O(2 - 27); do WF(5, 0, 92) end end

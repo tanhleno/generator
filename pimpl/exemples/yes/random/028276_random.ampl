@@ -1,0 +1,1 @@
+program U : I : takes b, t : integer array; e : boolean array; I1, s3 : integer array; s91, J, xm8 : integer; P5f0 : integer returns nothing j, N : boolean; Sg, j, H3 : boolean array; chillax end main : i : integer; when case - true * false : chillax end otherwise : when case 449 = 067 : chillax end case 68 : chillax end otherwise : chillax end; let a = 09 end end

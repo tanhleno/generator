@@ -1,0 +1,1 @@
+program d : WT7a : takes z, S, J : boolean array returns integer array L : integer; r : boolean array; PD : boolean; while - false and 6 <= 3690 : chillax end end W : takes y8, N8 : integer array; Boyaa, zm, W : boolean returns integer array s53, k : integer array; u3qa : integer; do Z(- 60 - 43 < 3, 9, 0); pop; input E3; while 65 : chillax end end main : chillax end

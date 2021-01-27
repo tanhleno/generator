@@ -1,0 +1,1 @@
+program e : aL : takes A, rB : boolean; q7Na : boolean; j6B, H7, I : boolean; GE20 : integer; _, x, zu, M : boolean array returns boolean chillax end main : do L(- true and(9) * false and 4 or 29 * false = - (77) rem false and 6810 or not 42 and 6); do e(9 and 1 = not 164, - l7laa and 0 /= - 4, 40 < 519, 5, 8, 090) end

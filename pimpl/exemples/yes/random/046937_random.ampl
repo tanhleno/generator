@@ -1,0 +1,1 @@
+program p9ra : FLz0a : takes Ex0 : boolean returns integer chillax end h7 : takes q : integer returns integer array E, w, Mi5 : boolean array; w9 : integer array; gj, a : boolean; K05 : boolean; input k[- 8] end main : E : integer; while true rem(11) + O1 + Z4 : pop 9820; while 5 : chillax end; output "" . "6Q" end end

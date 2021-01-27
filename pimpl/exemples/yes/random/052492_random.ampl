@@ -1,0 +1,1 @@
+program rZV : V : takes M8 : integer; T1 : integer; no7a : boolean; k : boolean returns nothing while(142) and 6 <= 38 - 4500 : chillax end; input H9[- 8]; while 4 : do AO(56); pop end end main : v0a, y : integer; N : integer; td, z, S, FuQ, oT7 : boolean; w : integer; z, j69 : boolean array; X720, V : boolean; chillax end

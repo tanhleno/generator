@@ -1,0 +1,1 @@
+program C : h : takes SN : boolean returns nothing M, L7, EX0, oAr0 : boolean; N45a, Hy : boolean; while - true and 90600 : do V7(3, 9) end; let cTl = 7 = 323 end ms9 : takes m7, pW : integer; D, p2Z0a : boolean array returns nothing oYGaa : integer array; while - 8 : chillax end; input q6n0; output "-" . "" end main : pop(4) end

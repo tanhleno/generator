@@ -1,0 +1,1 @@
+program B : r : takes v, P : boolean array; z : boolean returns boolean array j7, LLYa, fq, N : integer; chillax end main : Y : boolean array; e4 : integer array; pop - (783) * 944 and 7 or not 3 and 78 - 8 - 92 > - false and 3 - 775 end

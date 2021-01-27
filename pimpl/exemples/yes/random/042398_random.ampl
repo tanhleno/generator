@@ -1,0 +1,1 @@
+program o : v : takes ZK : boolean array returns integer array chillax end i : takes Gt, W9, ZQl : boolean returns nothing chillax end main : D0S : boolean array; R940, vY3, o1, V, Q200, DI : boolean; q070, NZb : integer; input i; when case false : chillax end case - O and 95 : chillax end case 0 : chillax end otherwise : do k(522); when case 06 : chillax end end end

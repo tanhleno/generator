@@ -1,0 +1,1 @@
+program VO : main : z2qa : integer; output false / 29; pop - not 5 = - 65; do S66(t or 29700 > 3 - 4); do q4v0(- 9 - 2 = 20, 0 = 3, 80); when case 2 : chillax end case 5 : pop end case 20500 : chillax end end

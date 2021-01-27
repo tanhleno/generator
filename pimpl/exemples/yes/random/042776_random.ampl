@@ -1,0 +1,1 @@
+program Az : K2 : takes b71 : boolean array returns integer array EM : integer array; Sc : integer array; w : boolean; n, e : boolean; b : boolean; chillax end main : pop; let vvE[12 / true and 3 - (013) and 195] = array - false end

@@ -1,0 +1,1 @@
+program HrR0 : i : takes H : boolean array; Sz, m25a : integer returns integer when case - true and 0380 - 0 : output "\t" . "" end; pop 814 end main : M960 : boolean array; q, M : integer array; let F[- 7 + not false] = array - (95 = 67) rem(3) end

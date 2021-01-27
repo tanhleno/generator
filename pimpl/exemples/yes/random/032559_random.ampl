@@ -1,0 +1,1 @@
+program X : Z : takes E, Q : integer returns nothing sJ, TGgaa, C : integer; bH8 : boolean; let X3kaa[true] = - 485 - 884; do G(- 6, 90); output 0630 end main : let Hr80[- false + true / not 2 and 6810 or T5 and 4] = - false * true and 49 + (9) + 6 - 759 /= - (74) and 86 or 51 - 6; while - false > - (4) : chillax end; input M1D; let t = array - 1 end

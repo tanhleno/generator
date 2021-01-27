@@ -1,0 +1,1 @@
+program w3 : V : takes D, e, _Tc0a, BM, u5v : integer array; H : boolean array returns integer array C, U, FZMa, F, oT : integer; xWt, Y4 : boolean; sc, i120a : integer array; y, a9h : boolean; l : boolean; chillax end main : input lq4a; let M = - 7 + 8 - 5 end

@@ -1,0 +1,1 @@
+program R : main : _, W : boolean; Fj, s, _880a, G : integer array; t86a, A1F0a, d720a, c, U : integer; K : integer; do _y(- (0) * true or 874 rem not 8070 + j2, (1) + (56) and 41 < true + 4 - 93, - (1870) and 49, 82) end

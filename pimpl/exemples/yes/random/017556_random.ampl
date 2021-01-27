@@ -1,0 +1,1 @@
+program NoCa : o : takes ck, s : boolean; k, v4 : integer returns boolean array when case(84) /= - 5 : chillax end case 79 : while 926 : chillax end; output "" end otherwise : input uy4; while 4 : chillax end end end main : output 0; while false / 8 + 909 /= (5) : chillax end; input fS end

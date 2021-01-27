@@ -1,0 +1,1 @@
+program r : main : when case - 6 / false or(94) = - false / true and 3 - true - 40 - 1 : do Sq2a(- 0); output 2390 end otherwise : when case 85600 = 831 : chillax end case 18 : pop end; do x3(853, 7) end end

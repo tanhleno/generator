@@ -1,0 +1,1 @@
+program U : O : takes d4, J, rHI : integer array returns boolean while - false : chillax end; when case 718 - 57500 : chillax end otherwise : chillax end end h9b0 : takes y : boolean returns integer array chillax end z : takes T, g, O0, T : boolean returns boolean n : integer; chillax end main : chillax end

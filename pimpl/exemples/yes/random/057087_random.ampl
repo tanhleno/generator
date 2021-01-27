@@ -1,0 +1,1 @@
+program A : f : takes Ckg0a : integer array; p2 : integer array returns boolean array input j730a end MbQ : takes e : boolean array; TW, tlW : boolean; S, P : boolean array returns nothing chillax end main : TF : boolean array; input l; output - 56 and 96 . "" end

@@ -1,0 +1,1 @@
+program odja : vN : takes E, R, R : boolean; Y4 : boolean returns nothing C, Vp30, G, NA, mrp : integer array; while - (07800) > 104 - 6700 : while 2 : pop end; pop; do VU(8) end end main : chillax end

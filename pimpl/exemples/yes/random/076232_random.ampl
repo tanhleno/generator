@@ -1,0 +1,1 @@
+program Va : main : o780, N380a : integer; h1, m : integer array; when case - not 302 - fi[7970] : chillax end otherwise : when case 552 = 685 : while 2 : chillax end; pop end case 9 : pop end otherwise : pop end end; let _R = - 4; output 2 - 34900 . "" . "70" . "" end

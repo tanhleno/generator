@@ -1,0 +1,1 @@
+program W8 : e80a : takes K9b : boolean array returns integer array D, xZhaa : integer; when case(0) + 42 - 4 /= 5 - 19 : chillax end end main : output u(9170) or true - 07 > - not 79300; pop - not 45 or 72 - 2; let YF3a = array - false end

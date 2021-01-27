@@ -1,0 +1,1 @@
+program oZ : R : takes kc3 : integer returns boolean array output "j"; while 782 <= 5 : let O3o = 62 end; output 5 . "\t"; output "\\k" . "|G"; when case 8 : chillax end end main : N_60a, S, x, Z, h4W0a : boolean array; YX, n, H : boolean array; pop - (10) end

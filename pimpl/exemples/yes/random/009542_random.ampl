@@ -1,0 +1,1 @@
+program G : l : takes X, fi2, tV : boolean array; h, M, Oj, kQ, b : integer array; q, bS2a : integer; T : boolean array; H, N, j20a, s : integer array returns integer auW : boolean array; sx, O, hg, d : integer array; while not 6 - 6 - 6 < 4 - 14 : chillax end; pop end main : chillax end

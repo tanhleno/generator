@@ -1,0 +1,1 @@
+program G : main : _59, cX8aa, M : boolean array; F4, pk : integer; R : integer; q4 : boolean array; B9qa : integer; _j, AN10a : boolean; do J(U and(68) and false and 8510 = not true, 5, - (7) + 47); input H; when case B1 and 3 - 8 - 2 : chillax end; input t[- 675]; pop 8; let Qm6 = array 8; when case 609 : chillax end; when case 8 : chillax end end

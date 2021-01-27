@@ -1,0 +1,1 @@
+program sMzaa : Q : takes E1 : boolean array returns integer OI, E, Xz : integer array; when case(7) - 6 : do fg(74, 5); input uz1a; pop; pop end otherwise : chillax end end main : _75, s76, E8 : boolean array; i2, X19, o, O, m, v : boolean; chillax end

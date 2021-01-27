@@ -1,0 +1,1 @@
+program k : s94 : takes R, k : integer array; h69, k, d, K : boolean array returns nothing w : integer; while - false or 07 : chillax end end main : TrT0a : boolean; e57, I93, q_ : boolean; U8, er : integer array; chillax end

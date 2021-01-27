@@ -1,0 +1,1 @@
+program E : M : takes oh : integer; F : boolean array returns boolean array chillax end E9aa : takes BC : boolean array; U : boolean returns integer chillax end main : input l1[not VW6[0] / true - true or Bx and 844] end

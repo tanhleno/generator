@@ -1,0 +1,1 @@
+program w : vm : takes h2J0, q : integer returns nothing z, O : integer; chillax end KFpaa : takes CQ : boolean returns integer let l = array - 1 - 363; let w6 = 484 end main : cU8, I8, Ge : integer array; let X1 = array - true * 201 or false - 74 and 8 or 80 - 7; input P3; do Iz_(false and 82, - 4340 - 1, 4) end

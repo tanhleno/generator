@@ -1,0 +1,1 @@
+program w0h0a : S : takes y8 : boolean; l, l, U7 : integer returns nothing input J[- (14700)]; while - 4 : output "" end; pop; output 16 . "<" end d190 : takes m, r2, x : integer returns integer array chillax end main : while y6O / (2) /= - false / not 65 and 5 : input s6[- 7 - 849]; pop 8; when case 7 : chillax end case 5 : chillax end end end

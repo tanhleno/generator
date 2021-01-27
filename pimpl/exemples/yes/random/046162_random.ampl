@@ -1,0 +1,1 @@
+program q : NdP : takes r5 : boolean returns boolean I, S6 : integer array; h, i, xG : boolean array; when case 58 and 1 + 346 : output 34700 . "%" end end oU20a : takes ex : boolean returns nothing chillax end main : uJn : boolean; while - P(125) rem not(4) / 5 and 8 + 29 + false and 760 or 51 >= - 8 - h6r0 + 879 - 2 : chillax end end

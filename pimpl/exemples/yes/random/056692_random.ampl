@@ -1,0 +1,1 @@
+program GAJ : WFha : takes N : integer array; C : integer; f : boolean array returns nothing do mV(not 64 and 27800 or 95) end jh : takes A0 : boolean array returns nothing while - 1 = 1 : chillax end end main : chillax end

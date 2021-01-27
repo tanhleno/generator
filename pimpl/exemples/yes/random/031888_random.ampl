@@ -1,0 +1,1 @@
+program pF : m1 : takes c7, V : integer returns integer array let ao5aa = - 7 - 4 end main : nt5, wB40 : boolean array; D : integer; ef, V, ldNa : boolean array; while not true * true : chillax end; input a76aa[- (3) and not 3 and 6]; output - 4 /= 9; while - 5070 /= 39 : chillax end; input Npha; input j[9] end

@@ -1,0 +1,1 @@
+program q : main : Cg, _ : integer array; r0 : boolean; u : integer array; let yk[false rem false - false or 02] = array - true or N - not 219 and 6; let U[gz(6) * _] = array - true * 8 and 2130 - (6) - 5 - 4 end

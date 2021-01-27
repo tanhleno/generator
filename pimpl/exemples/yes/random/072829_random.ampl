@@ -1,0 +1,1 @@
+program r87 : main : j, k, M : integer array; pE, w : integer array; r, z : boolean array; B3ba, E, w, x : boolean; pT, T, o7 : integer array; let q110a[1] = array - not false; input W9[false / (36)]; do ef(- (1)); output "" end

@@ -1,0 +1,1 @@
+program R : I : takes s35, q : boolean; G, D, i, D : boolean; Bi4, W : boolean array; p, n : boolean array; t : boolean array returns boolean output "1n" . "3" . 7 . "" end main : output "1" . - (53800) and 5 < - 84100 . - 4 - 0 >= 4; pop(81) - 13 - 2 end

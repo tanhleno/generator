@@ -1,0 +1,1 @@
+program p2Pa : j9 : takes N : integer array returns nothing let E[- (82) and 6 + 6010] = array - false or 2 - 0 end main : when case false and Yj >= 20 or false - 19100 : while 83 - 86 >= 8 : chillax end end; input l[- (6) / (3)]; when case not 4 : chillax end case - 02 - 27 : chillax end end

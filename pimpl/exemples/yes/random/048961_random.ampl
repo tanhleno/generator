@@ -1,0 +1,1 @@
+program y5q0a : f : takes E5 : boolean returns nothing let Z[true - 0] = 8 - 37 = 3 end n0 : takes EL, D, u : boolean array returns boolean array chillax end main : Mv : boolean array; pop - not true or 80400 and 9 - 4 - 8 end

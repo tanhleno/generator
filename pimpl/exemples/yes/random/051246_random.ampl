@@ -1,0 +1,1 @@
+program R : j4 : takes M : integer; Dv0, cX : integer returns nothing chillax end main : x0, Vr : integer; W : integer array; do oC(p[62] / true and false and 3 or(75)); pop; pop; do nJT(8, 28, 28); do H(0200); when case 3 : pop end otherwise : chillax end end

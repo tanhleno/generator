@@ -1,0 +1,1 @@
+program E : sot0a : takes C : integer returns nothing Cz4, w, u360 : boolean array; X, t0I, k : boolean array; output "" . "7"; do xbe0a(2 - 7) end main : O : integer; e73, m : integer array; _ : boolean array; H, w2M, e, p9e : boolean array; b : boolean array; when case - false rem X : chillax end otherwise : when case 40 : let q1B0a = 2; pop end end end

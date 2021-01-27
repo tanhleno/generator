@@ -1,0 +1,1 @@
+program c : t : takes Ww : integer; x2 : boolean array returns boolean array y, H, G : boolean array; chillax end main : when case VJya(3) / false + 5 and true and 43 - 7 and 9650 or 85 - 133 : chillax end; output - 76 and 68 end

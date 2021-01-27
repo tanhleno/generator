@@ -1,0 +1,1 @@
+program M2 : P : takes t7 : boolean returns nothing z9, tO, J : integer array; O230 : integer; while(6) : chillax end; do XE(- 7 - 7 = 4, 8320) end main : H4 : boolean array; k, a7V, x : integer array; h : integer array; aoT0, mg4aa, y, B5 : integer; chillax end

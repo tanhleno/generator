@@ -1,0 +1,1 @@
+program J490a : main : let h = - 5; when case - 6 or false and 4 >= - q - 64 - 18 : input _; let H56[7] = 9 end case - not 2 and 18 : do d(5040) end case - 5070 - 6 <= 22400 : while 9 : chillax end; input Pc end case 7 = 2 : chillax end end

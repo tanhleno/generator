@@ -1,0 +1,1 @@
+program T : K : takes k5, a : boolean array; P6, D0 : boolean array; H, S7, sN : boolean returns boolean while - false = - 41200 - 191 : chillax end; when case - 6 - 117 : input IS; when case 65600 : chillax end end; input s[509] end main : chillax end

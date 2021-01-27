@@ -1,0 +1,1 @@
+program _9 : q9 : takes E, X, d, SW, Rb, IA : integer array returns boolean when case true /= - 03 - 3 : chillax end case - 308 < 0 : let r = 91 end otherwise : input Y end end main : B, F, F, w7Saa, aY, z, I2 : boolean array; input f[- (6 = 079) * Q090a(52) * not 1520 and 8 + 1 rem true - not 9010 - 9] end

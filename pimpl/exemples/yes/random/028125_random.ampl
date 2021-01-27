@@ -1,0 +1,1 @@
+program t : ue : takes M4, e1 : integer array; a : boolean; t, E5y, F, gf00 : integer array; U, y4, g8, J : boolean array returns integer array chillax end main : let a = array(73 = 90) / 82 + 8 + 6 - 7060 - 88; let a4[- true rem true or 19 and 21 - 34] = array - false rem(4) and 0 + 39; input l9 end

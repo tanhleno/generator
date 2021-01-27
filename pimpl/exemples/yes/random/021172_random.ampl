@@ -1,0 +1,1 @@
+program O : N : takes w, T : boolean array returns boolean F : integer; input l[- false and 866 or 75 - 6] end k2j0a : takes J : boolean array returns nothing O : integer array; chillax end main : b9K : boolean; L : integer; _, OJo : integer array; yrT, D : boolean; Wkp, Z45aa, S : integer; P180a, DZ : boolean; l0w : boolean; chillax end

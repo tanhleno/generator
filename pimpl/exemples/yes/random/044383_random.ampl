@@ -1,0 +1,1 @@
+program KJh : Ck : takes c3 : boolean array returns nothing j, YN9 : integer array; Y : boolean array; jMu, w, e : boolean; U : boolean; input w[h and 287 + 7 - 6]; output 467 = 20 end main : let W5 = array - t[0] * (61) rem true + (7420) + true + 97 - 87900 end

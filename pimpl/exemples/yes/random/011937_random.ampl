@@ -1,0 +1,1 @@
+program S : tK50a : takes _U, Wb, I61a : boolean returns integer Sg, Wk : boolean; b : boolean array; S : integer array; _ : boolean; W : boolean; M2n0 : boolean; chillax end main : let E[l(1) + not 022] = array - false + true or 3 and 21800 or 393; pop - (85) < - 2 - 3; pop 50 - 9; let aWZa = array - 45700 - 6 end

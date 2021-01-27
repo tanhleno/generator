@@ -1,0 +1,1 @@
+program h0naa : D : takes rF40a : integer returns nothing while false and 6 or 03700 <= 4 : while 637 : chillax end end end dJ4 : takes E0w, fa : integer array; w0p0a, P : boolean array; z : integer; Y, _, s : boolean array; B : boolean returns nothing chillax end main : chillax end

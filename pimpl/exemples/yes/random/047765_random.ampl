@@ -1,0 +1,1 @@
+program ER : q : takes D : boolean returns nothing chillax end main : while - (27 = 2) / 56 : let J[41900] = 638 = 6; when case 0 : chillax end otherwise : pop end; while 205 : pop end end; when case - 761 : chillax end case - false - 04 - 1 : chillax end end

@@ -1,0 +1,1 @@
+program E6 : A : takes _gC : boolean array returns integer i : boolean; chillax end D : takes q : integer array returns nothing qN : boolean; while 03 : chillax end end L : takes Au, Oa, V, d : boolean array returns integer tn : integer; v, F : boolean; chillax end main : jt, e : integer; chillax end

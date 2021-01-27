@@ -1,0 +1,1 @@
+program stGaa : R : takes c8M, _ : boolean array returns integer array input A4l[- (6) or 4600]; while - 9 - 10 > 3 : output ";10a" end end main : v, y, b : integer; output - (8) * not 7 . 5 and 09 > 5 . 2 - 121; do x020(true rem R and 4 /= not 3, not 9200, - 50 < 27400, 4900, 29) end

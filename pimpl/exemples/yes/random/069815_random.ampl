@@ -1,0 +1,1 @@
+program H2Baa : main : R, mio, A4K, g : boolean array; k, a : boolean array; output G46(3) / true - not 69900 + 9 - 9 /= false and 0 - 00 - 64 . - (60) + 9250 < 0 . - 3 - 68 <= 6 . "" . 898 . 4 . "" end

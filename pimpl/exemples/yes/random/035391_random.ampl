@@ -1,0 +1,1 @@
+program c : k4 : takes hu : boolean; V : boolean; P38a, q : boolean; Vo, KLC0a, pRW : integer returns boolean array do qU(- 2 and 3 /= - 113 - 127); input X[5 - 7] end main : Q200 : boolean; Q : boolean; h6, K : boolean array; chillax end

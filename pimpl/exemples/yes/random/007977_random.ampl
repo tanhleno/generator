@@ -1,0 +1,1 @@
+program e : b : takes K6, KnM, l69, sPqa : integer returns boolean chillax end main : when case - 1 : chillax end case true - not 94 and 3 : chillax end otherwise : when case 23 : output ""; pop end otherwise : pop end; when case 28 : chillax end end end

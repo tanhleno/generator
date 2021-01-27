@@ -1,0 +1,1 @@
+program Qo40 : main : Bp1aa : boolean array; s6T, a, E, o : integer array; input Em; do S_(J(39) + true and 9, true and 41 or 9 - 0, - 8 >= 1, 49 = 2, 6, 62); input Qt0aa; when case 65 >= 4 : input Wo6a; let s = 3 end otherwise : input A6; pop end; let T[44400] = 8; input D[77]; when case 02 : chillax end end

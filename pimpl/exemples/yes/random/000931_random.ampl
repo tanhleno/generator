@@ -1,0 +1,1 @@
+program EJ : W : takes y, k, E, j, W, w2, q : integer array returns boolean array U : integer array; while(1) - 8 - 52 : chillax end end x : takes w : boolean returns nothing do S32(- 8 >= 379) end main : C : integer array; HZ, c, mT20, TI : integer; chillax end

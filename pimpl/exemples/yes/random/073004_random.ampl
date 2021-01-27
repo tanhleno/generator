@@ -1,0 +1,1 @@
+program U6 : main : PmI, tNv, e : integer array; k : integer array; St : boolean array; output "C\n"; output ""; when case true : when case 7 : chillax end case 7 : chillax end end case - 9 > 1 : chillax end case 9 = 73 : chillax end end

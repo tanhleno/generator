@@ -1,0 +1,1 @@
+program C450 : EPoaa : takes f, Y9 : integer returns boolean Kr, m2d0a : integer; o, P, R6 : boolean; j8, h, Dq : boolean array; W3, A73a : boolean; Y : boolean; n : boolean; chillax end main : VrA, i4 : boolean array; input d; while 474 rem not 0 and 9 + 7 and 4 <= - (7010) and 6 - 6 - 74 : do IGkaa(3120 = 73, 737); do Yk(1, 3) end end

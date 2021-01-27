@@ -1,0 +1,1 @@
+program t : main : when case not false * Sk rem true and 67 + false and false and 7 >= - not e8 : chillax end case not B > - true and 8 + 3 - 5 : when case 7 : when case 80 : chillax end end case 6 : pop end; while 463 : pop end end case - h4 and 27 - 79 = 2 : let A7Z = 5; pop end; let F[false or(95) and 7 - 494] = true >= - 66 end

@@ -1,0 +1,1 @@
+program Z : m1 : takes e95aa : boolean returns nothing e : boolean; input U end Gl : takes K, X, a : boolean; z7 : integer array returns integer cd, C7, m : integer; chillax end main : sT9 : integer array; P5o, j8Z0 : boolean array; input X[(7)] end

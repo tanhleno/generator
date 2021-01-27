@@ -1,0 +1,1 @@
+program BE6aa : E : takes _, j : integer array; t : integer; b, YDRaa, Hr, k, T : boolean array returns nothing do W(- m < 615 - 6, - 98) end main : let N = array - false and not not 5 * 4 and 7 - not true or false or 35900 - 65100 end

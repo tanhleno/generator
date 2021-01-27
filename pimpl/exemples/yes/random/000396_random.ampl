@@ -1,0 +1,1 @@
+program p6c : v : takes A, b4d0, Jt, Ybj, Ipn0, sf, X, yc : integer array; t460 : boolean; xS : boolean array; r5Jaa, Bp, _, q, Ts1 : integer; o : integer; e : integer array; gu60a : boolean; H9 : boolean returns integer chillax end s : takes e1, X, j : integer array returns nothing Y : integer; chillax end main : chillax end

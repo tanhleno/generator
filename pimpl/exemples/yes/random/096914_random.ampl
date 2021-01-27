@@ -1,0 +1,1 @@
+program C3 : main : when case F(08) > - C[5] : do uY(- 967 = 8, 386 = 0, 61400); while 7 = 55 : chillax end end case - G0[5] rem B and 32 - false and 2 /= - E : while 2 = 5 : output "" end end; pop - (5) and 9 end

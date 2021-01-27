@@ -1,0 +1,1 @@
+program L : main : when case false / L5 rem(443) and 23 >= - 13 : output "P"; when case 08 = 3150 : pop; pop end case 1 : chillax end case 81 : chillax end end otherwise : let N[62] = array 9 end end

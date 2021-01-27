@@ -1,0 +1,1 @@
+program Fpk : M9 : takes g : integer array; k, g : boolean array returns nothing i9 : boolean array; W : integer array; e, e, t : integer array; E : boolean; Y : boolean; let Qby0 = - 094; input N end I73 : takes Ug, vU : boolean; G3 : integer returns integer array chillax end main : Y, O, V : boolean; chillax end

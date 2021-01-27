@@ -1,0 +1,1 @@
+program Z : r : takes M : boolean returns boolean array do f3(- 4 + 5, - 1) end Q : takes l5f0a : boolean; sx9, OHraa : integer; aEKa : integer returns integer array output 1 = 98; output "\n@" . "2"; let N = array 34 end main : eq : boolean; let s21a[not 55] = - true / false or not 1 < (99) and 677 + 555 - 13200; do K(- false * false and 44600) end

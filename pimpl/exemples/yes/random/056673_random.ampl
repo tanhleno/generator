@@ -1,0 +1,1 @@
+program ac : L : takes H0 : integer array; O : integer; EX : boolean array; ia : integer returns integer chillax end main : do MR(8 or not v4, false or 8 + 38700 /= - true, 490 = - 5, 4); input gh2 end

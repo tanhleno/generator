@@ -1,0 +1,1 @@
+program Vm : IKU : takes Q, yAo0, V, D1Z0a : boolean returns nothing chillax end main : let l1 = false - false; do D55(- 4); do G(- true and 75 or 696 - 74700, - 13 - 1 > 8); input i; input xx40[6] end

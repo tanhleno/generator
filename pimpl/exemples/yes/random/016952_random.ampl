@@ -1,0 +1,1 @@
+program V1Jaa : K21aa : takes S, Q : boolean; X0Z, wz60, OX : boolean array returns integer array pop 2 end main : g, Ru4 : boolean array; when case false / 07 rem(70300) < - not 22700 : chillax end end

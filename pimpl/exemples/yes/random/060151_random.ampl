@@ -1,0 +1,1 @@
+program x : HU0 : takes M6R0 : integer array returns nothing do b(false and 5); output "="; input L[466] end main : nV50, o2 : integer; do j120(- true and false); while - false * z7 : chillax end end

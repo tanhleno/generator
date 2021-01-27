@@ -1,0 +1,1 @@
+program hp : main : B1 : integer array; QP2 : boolean array; Ar3 : boolean; h4 : integer; dZ8, F9J : boolean array; k, s : boolean; while - true / C[8] rem not 87 and 1 + true + 2 < (11) and(3) : do h(- 3 - 3 > 3, 9 = 58); do Nt(60500); output 3; input O; pop end end

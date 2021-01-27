@@ -1,0 +1,1 @@
+program wI4 : f : takes w0qa : integer array returns boolean jf : boolean array; pop; do c(- 81 <= 144) end c : takes y3jaa : boolean; R, u7s0a, d : boolean returns nothing when case 138 > 7 : chillax end case 5 : let _ = 8430; pop end case 863 : pop end otherwise : while 16 : chillax end; pop end end main : Ij : boolean array; C : integer; q : integer array; chillax end

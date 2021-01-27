@@ -1,0 +1,1 @@
+program V : M : takes b9, xf4a, oW : integer returns boolean when case 4 and 1 < 5 : while 41 : chillax end; let v0 = 9; input S; pop end otherwise : output "\""; pop end end main : jY, e3, v : boolean; r, H68, w20, R, U760a : integer array; chillax end

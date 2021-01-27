@@ -1,0 +1,1 @@
+program S : M9V : takes r : integer; f, sn7 : integer; U3, Q : integer array; L : integer; r, h : boolean array returns nothing chillax end main : w : integer array; output - Ulf[5] - false and 0960 <= (25) and 6 . "" end

@@ -1,0 +1,1 @@
+program elx0a : H : takes l, R : boolean returns boolean while - false : pop 9 end end main : Jg : integer; output "" . not 6 and 39400 < - 9 . - 33; input e; output "/3"; let D1[77 - 7] = array 95 end

@@ -1,0 +1,1 @@
+program W9 : az : takes wY, A, VhYa, P4X, p2 : boolean; kV, Q, r : boolean returns nothing i720a : integer; chillax end X9z : takes D, l03a, I : boolean returns boolean P : boolean array; l5, M : integer; chillax end main : T1 : integer array; dl9, p, Gz9, S : integer array; let q1[05400] = array - not 56 rem true * false and 2 end

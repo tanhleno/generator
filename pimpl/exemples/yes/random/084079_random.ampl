@@ -1,0 +1,1 @@
+program p : main : P7 : integer; b : boolean array; B, w, q : boolean array; do g290(- not D0 rem true + false > - 8 rem(4) and 95 - not 31 or 98 - 44, - true / not 8 and 6 or true, 23400 and 0 + 76 - 3 /= - 7); pop end

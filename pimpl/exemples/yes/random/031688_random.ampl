@@ -1,0 +1,1 @@
+program n5p : b : takes g8, g44 : integer returns integer array chillax end T : takes i, s3, C, pe, JJ : boolean; A : boolean returns integer array input r[- 7110 - 8790] end main : Hv, y : boolean array; chillax end

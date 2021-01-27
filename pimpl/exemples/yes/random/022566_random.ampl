@@ -1,0 +1,1 @@
+program pSd : _9 : takes Bn, J : boolean array returns nothing G : integer array; chillax end main : YCh, u3 : integer; while - false : chillax end; when case - 696 rem not 89 - (95900) or 669 - 3 /= - (4) + 965 : chillax end; do VLT0a(52900 or 5 - 7 >= - 1 - 5780, - 97100 = 7); let r16aa[1 - 716] = array 6; do M(5) end

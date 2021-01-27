@@ -1,0 +1,1 @@
+program B : main : t67a, E : integer array; O, q : integer array; R, g, d, o7F, S : integer array; E9 : integer array; while - not 4 and(4) * T or y[36] * not 7 - (3) > false and(50) and 87900 : when case - 80 : chillax end otherwise : chillax end; input P; input a8[42]; while 27600 : chillax end end; output "9\\0" end

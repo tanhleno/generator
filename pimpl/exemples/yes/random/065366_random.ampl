@@ -1,0 +1,1 @@
+program H6F : Y : takes G : integer returns nothing pop - 3; input B[- 8970]; while 091 = 03 : chillax end end main : c, y3 : integer; N_, i, z, U40aa, n, P : integer; output - not(1) and(775) and 9 < true . "\\2\""; pop 2 and 99 + 2 - 84; pop; let U_6 = 3320 end

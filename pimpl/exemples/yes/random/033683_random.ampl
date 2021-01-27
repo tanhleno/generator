@@ -1,0 +1,1 @@
+program l : y6 : takes e : boolean; R, D, I, d : integer array returns nothing chillax end main : do B0(not false, (874) and false - true and 70 = - not 24 or 2 - 04, - false - 21800 - 50); when case(4) : input A7[3] end case 7 <= - 310 - 9 : chillax end case 3 - 1 : pop; pop end otherwise : chillax end; while false : pop; while 2 : chillax end end; output "*Da" . 00 end

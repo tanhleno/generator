@@ -1,0 +1,1 @@
+program Z : A : takes ah : integer; y1 : boolean; h : integer array; N : boolean array; IUDa, o, l, a : integer returns nothing chillax end main : rr, sZ3, k : boolean; output - WI(5) or 2 and 4 or 94400 > - Y8k end

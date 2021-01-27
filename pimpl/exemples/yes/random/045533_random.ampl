@@ -1,0 +1,1 @@
+program YK : k05a : takes v5d : boolean returns boolean array L0, U, Cq4aa, R, s1 : integer array; pop; let o[- 9] = array - 17; pop end Rw70 : takes N, v5sa, A, X4, P8J : integer; t, R, d7 : integer; IG5, z : boolean; w, j, n : integer returns nothing chillax end main : n, T, b_y, X : boolean; chillax end

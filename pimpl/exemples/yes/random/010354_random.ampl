@@ -1,0 +1,1 @@
+program S6 : E2Ta : takes o, A, E : boolean array; D7Laa : integer array; _ : integer returns nothing do sc(- C9Ia); output 8 = 4 . "2\t\"" end main : output true - Y and 5170 . - false and 654 - 0 . "" end

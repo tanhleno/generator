@@ -1,0 +1,1 @@
+program og5 : main : when case 3 / true / (9) and 5 or false and true and 1 >= not true : chillax end otherwise : chillax end; input R[7 / false or(3) and 711]; let v4T0a[5230 - 7 - 922] = 30 - 5 <= 17700 end

@@ -1,0 +1,1 @@
+program r : A : takes b : integer array returns boolean array pop 8 <= 989; input S57[0040 - 1610]; while 2310 = 5 : chillax end; pop 8 end main : vF : boolean array; i, y : integer; _3, u : integer array; while - not true or 83 - not 49 and 01 - 74400 >= - oU1 rem false and 6 : chillax end end

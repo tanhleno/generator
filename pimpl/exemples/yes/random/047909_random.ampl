@@ -1,0 +1,1 @@
+program G76 : l : takes bq : boolean returns nothing rNU0, w1, wZH0, s : boolean; chillax end I03 : takes bi5 : boolean array returns integer CV : integer array; ZN, h : boolean; when case 41 - 00 /= 6450 : chillax end case 19 : input A; pop end end main : t : integer; chillax end

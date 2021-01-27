@@ -1,0 +1,1 @@
+program h : S : takes f5n, Z15, f, g : boolean returns integer chillax end main : JM6 : integer array; output - not Vd - (5) and 05 or 38 - 6 /= - true + 6 . - (47) /= - 5; pop - false and 95; input O[- a2 and 7 or 42700 - 0]; pop 833 = 77 end

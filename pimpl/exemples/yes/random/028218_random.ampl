@@ -1,0 +1,1 @@
+program Fu30 : m : takes O6, P : integer array; kf : boolean; h : integer returns nothing chillax end BY3 : takes fE8 : integer; ph, y : integer array returns nothing H1 : integer array; while - 82 - 81 : chillax end end main : v : boolean; q6_aa, o, u : boolean array; chillax end

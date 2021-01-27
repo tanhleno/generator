@@ -1,0 +1,1 @@
+program G : D53 : takes z, O9Jaa : boolean array; Jzpa : integer array returns boolean z, Y6Haa : boolean; t : integer array; chillax end main : w : boolean; c : integer array; B : integer array; output - (9140) * 65 and 8 + (1) and 15 - 7 end

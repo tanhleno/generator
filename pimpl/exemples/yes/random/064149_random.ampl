@@ -1,0 +1,1 @@
+program hy : qH : takes c84 : integer returns nothing do P(6, - 41 - 0 = 6); do c(7 - 7, 6) end KAQa : takes r280 : boolean returns nothing chillax end g4X0a : takes Y85 : integer array returns boolean array chillax end main : W : integer array; Zd, iJ20, n35 : boolean; g : integer; Xp, r, E : integer; input W end

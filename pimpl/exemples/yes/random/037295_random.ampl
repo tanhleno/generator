@@ -1,0 +1,1 @@
+program q : vq : takes e : boolean; Rq : integer returns integer Z : integer array; when case 3 or 3 : chillax end case - 4 - 82900 > 6460 : chillax end case 6 = 86 : chillax end case 97 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program q6O0a : main : R : integer; TV7a : integer; x65aa : boolean array; A, Qw, S : boolean; g4, S, h6w0 : integer; fQ60a : boolean; E : boolean; let y[73 / 00100 rem(7) or false + 2 or 30] = array true / false end

@@ -1,0 +1,1 @@
+program P : T : takes n, Y, q6, v, F : boolean array; G : boolean array returns integer chillax end main : do A(- not false + not false or 191 and 131 + 3 >= - Ki(5) / (41) and 3 + 89 and 2 - 0, true or x_ and 98300 or 3 - 16) end

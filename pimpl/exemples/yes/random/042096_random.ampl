@@ -1,0 +1,1 @@
+program c : d : takes A : boolean array returns boolean U, R, i : integer; when case F and 2 /= 23 : chillax end; when case - 5 - 6 = 370 : input P0; let g = 164; pop end otherwise : output "" end; do J(5180 = 388, 0) end main : do QK8(- BK(8) or true / true and 4 + true and 9 + 1) end

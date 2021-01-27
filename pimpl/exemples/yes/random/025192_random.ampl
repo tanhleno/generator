@@ -1,0 +1,1 @@
+program M : z : takes B, B5 : integer; p_, h, ZJ2 : boolean array; t, Q, C, z : integer array returns boolean ol, r : boolean array; q : boolean array; do Et(- not 03 + 3 - 9290) end L57 : takes s : integer array returns boolean array let X[- 5 - 1] = array - 19 - 5; pop; while 48 : chillax end; let g = 255 end main : x6 : boolean; chillax end

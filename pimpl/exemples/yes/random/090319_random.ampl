@@ -1,0 +1,1 @@
+program t : main : let q = N6(91) * X6 = - true or 66; when case not true and r or(1) - 4 - 1 : while 28 : while 69 : chillax end end; input B[54] end case true and 15 + 1 - 601 : while 6 : pop end end otherwise : output "" . "" end end

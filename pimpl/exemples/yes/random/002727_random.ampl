@@ -1,0 +1,1 @@
+program z : Ow : takes G4i0a, Ec8, w0, k8, V4Raa : boolean array returns integer do LK9aa((77200) and 07, - 98 - 8, 2 = 34) end main : input U; when case g[05] - true and 5430 <= 2 - 9 : chillax end case - l and 3 /= - 5 : chillax end otherwise : chillax end; when case - false = 1250 : chillax end end

@@ -1,0 +1,1 @@
+program r56a : y29 : takes V, w, a : boolean array returns nothing input ct6; output "" end main : E : boolean; while - S2[94] + 3 * 169 and 9 + 915 and 233 - 9 : chillax end; input b9; pop; pop; let Jrsa = 0840; output 3510 . "0&0a"; input E; let _1 = 8; pop end

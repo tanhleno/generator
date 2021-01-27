@@ -1,0 +1,1 @@
+program gi : pH7 : takes i3Z0 : boolean returns nothing b, AP, S, T, C : boolean array; K7haa : boolean; d : integer array; pop 766 - 6 > 5; let W[- 2] = 96; when case 8 : chillax end otherwise : pop end; pop 1 end main : a : integer array; b : boolean; v, O : boolean; input IE end

@@ -1,0 +1,1 @@
+program i : WE : takes z83aa, X : boolean returns integer array input l; do q(91200 - 4 /= 6, 37 = 6) end X : takes m : integer returns boolean while - 8710 /= 0 : do GgS(5); do V(555) end end main : pop end

@@ -1,0 +1,1 @@
+program s380a : w : takes AlD : boolean; Z9 : integer returns nothing do _(- false and 7510 /= - 5 - 1, 7); input eTK0a end main : ZP, EMj : integer array; p, d : integer array; Yzaaa : integer array; while - n(5, 5) : chillax end; let p[- true * (626) or ZD + 2 - 226] = - not 36 and 5 end

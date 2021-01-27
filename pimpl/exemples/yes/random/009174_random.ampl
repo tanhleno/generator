@@ -1,0 +1,1 @@
+program iH : q9B : takes j4, Xd, o3 : boolean; hZO : boolean returns integer array chillax end I : takes Nh : integer array returns integer array xk20a, v, N, l : integer; chillax end main : t : boolean; pop - (770) * false and 7 >= - true and 523 - 9 - 1 end

@@ -1,0 +1,1 @@
+program T900a : E : takes xF : integer; w6 : integer; V : boolean array; R1, x, O : integer returns nothing chillax end eG : takes C89, hn : boolean array returns nothing chillax end main : H4 : integer; xSd, rF5a : boolean array; output - 0 * not 16 and 6 > not 2 or 8 - 87 end

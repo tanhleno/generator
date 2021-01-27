@@ -1,0 +1,1 @@
+program X4 : main : v, L : boolean array; k, f1J : boolean; Ja4 : integer; while - false + Y450(0) - (79) and 65 >= 6 or true and 554 - 4 : input W[99 - 73]; when case 83 = 1 : chillax end otherwise : chillax end; while 07 : pop end end end

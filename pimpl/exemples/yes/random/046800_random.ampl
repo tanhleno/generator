@@ -1,0 +1,1 @@
+program y : J : takes I : boolean returns integer array let W9[(6) and 5 - 84] = array false; while 1 - 7960 > 734 : when case 15 : chillax end end; output "\"{\"" . "" . "3"; pop end main : pX : integer array; K, f : boolean; output not false < - k and 1 - 8 end

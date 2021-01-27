@@ -1,0 +1,1 @@
+program XOe : LL : takes _e : integer array; j : integer array returns integer do s(- false + 1020); when case - 4 < 5 : chillax end case 9 = 3 : chillax end case 6 : pop end otherwise : when case 2 : chillax end end end main : fyn : integer; input F61[- false]; pop; let U[- not 8 and 8 - 98] = array - true and 3 - 5 - 1 end

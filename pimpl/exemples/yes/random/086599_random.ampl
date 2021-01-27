@@ -1,0 +1,1 @@
+program i910a : main : S : integer array; rg6a : boolean array; when case(3) and not false - false : when case 3 - 82 < 7 : do u(72); let TIu = 7; pop end case 2 = 45500 : pop; pop end; pop 2 end case - true or V7 : chillax end otherwise : chillax end end

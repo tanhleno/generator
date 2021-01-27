@@ -1,0 +1,1 @@
+program L : S0k0 : takes C : boolean array returns integer array k, os1a, C : boolean; z1V, C, B7 : boolean; chillax end Qg0 : takes M6h, o : integer; i, Tt5, p : boolean; t : integer array returns nothing chillax end main : F : boolean array; w3, p3 : boolean; zL : boolean array; input sU[false / (30500) rem not 4 and 7] end

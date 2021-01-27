@@ -1,0 +1,1 @@
+program cn : main : s1T0, j, D : integer array; when case false and(802) /= 38 : let M[12 - 1] = 5; when case 290 : chillax end end case - not not 74 / false and 856 >= - q2 and 1 - 01 - 488 : chillax end otherwise : chillax end; while false * not 7 + 3 <= 56 and 3 : chillax end end

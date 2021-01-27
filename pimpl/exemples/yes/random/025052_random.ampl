@@ -1,0 +1,1 @@
+program B : t : takes u0F, W : integer; z, _, U, d : boolean array returns integer u, a : integer array; I, k : integer array; chillax end main : Ta : boolean; while - S - L7 rem not 934 : chillax end; input F[false and(57)] end

@@ -1,0 +1,1 @@
+program D : cd : takes F, g, g : boolean; F : integer; S3b0, K, v9, b, D, N : integer array returns boolean array chillax end Y : takes VQ, o, P6, w, k : integer returns nothing output "E\"!a" . "" . "7"; while 6 = 8290 : when case 7 : chillax end end; pop; do a(07); while 9 : chillax end; pop end main : chillax end

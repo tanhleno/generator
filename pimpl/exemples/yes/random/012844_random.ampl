@@ -1,0 +1,1 @@
+program T : a : takes s, ux, oA7 : integer; A, IZ2 : boolean array; F, z : boolean array; eA70a : integer returns boolean input FbA0a end main : Q4 : boolean; B, zd : integer array; while(5 = 2) / 107 * (4) > - a1[28] rem false or(2) + 8990 - 6 : output "\""; pop; do y1_a(672, 7) end; pop end

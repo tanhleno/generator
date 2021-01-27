@@ -1,0 +1,1 @@
+program Mt0 : main : N78aa : boolean array; J : integer; while - (9) - not false and 8 and 68 - not 51 - 945 : pop 16 = 0; output "" . 456 . "3" end; while(8) and not 7 and 53300 : chillax end; output "" end

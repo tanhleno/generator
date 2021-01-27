@@ -1,0 +1,1 @@
+program mF0 : T : takes i, M, dSPaa : integer array returns integer Z, o3, j, u : boolean array; Q : boolean; let wD4aa[J - 039 - 431] = 1 - 36 = 98; while - 08700 : do a110(66600); input L1v end end main : A : boolean array; chillax end

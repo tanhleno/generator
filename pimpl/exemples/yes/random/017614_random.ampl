@@ -1,0 +1,1 @@
+program x : P6 : takes Q99aa, d : boolean; WeD : boolean; Ld, H7, vPR, z : integer array returns boolean array chillax end main : Z : boolean; s, J : integer array; input xr[- 7]; do _t(- false, - not 05 <= 5500); pop 8 end

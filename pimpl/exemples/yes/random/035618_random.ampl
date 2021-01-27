@@ -1,0 +1,1 @@
+program Z : XX : takes T : boolean; eaZaa : boolean array; n2, a53, M43 : boolean returns integer array let T = array z and 65; when case - 645 - 6850 /= 20 : chillax end case 389 : chillax end case 05 : pop end case 2 : chillax end end main : output "\\," . "4\\!a" end

@@ -1,0 +1,1 @@
+program B : Z : takes j, k : boolean returns nothing nIk : boolean; q : integer array; p7o0 : integer; q : boolean; pop; output 54900 = 9 . "\""; while 265 : chillax end end main : O7 : integer; k, g, aO, z, B0, s : boolean array; let O[false] = array P(9420, 5) + not not 084 - not 73 and 6; let BN = - true - 1 - 4540 end

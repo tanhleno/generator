@@ -1,0 +1,1 @@
+program S : qM3 : takes E : boolean array; HV0aa, n : boolean array returns boolean array c43, gG6aa, Z, vQX, l : boolean; chillax end yi80a : takes uv1 : boolean returns integer pop 883 end main : Hj, U2e, v, GtGa : integer; b580a : boolean; e, c370, X, a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program p : T : takes dm, S, w, LXZa, d : integer returns nothing output 13 - 5 . 62100 = 7 end P : takes Ms2aa : boolean returns nothing chillax end bk : takes D : integer array; n7, V, C : integer; qMYa : boolean returns nothing chillax end main : chillax end

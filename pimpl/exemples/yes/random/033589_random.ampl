@@ -1,0 +1,1 @@
+program Ht : D7 : takes T2a : boolean; K590a, t, gyyaa, l : boolean returns nothing G : integer; J3, s220a, jfY, V : boolean; while - true and 946 > 0 : chillax end end main : H64 : boolean array; output - 88 >= true . - G4C and 1 or 3 - 195 . 2 > 4; when case true /= true - 35 : output "" . 59 . "8X" end otherwise : chillax end; input U[f and 7] end

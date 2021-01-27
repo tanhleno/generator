@@ -1,0 +1,1 @@
+program r : I : takes o6, hK, p0M0 : boolean array returns integer array eK : boolean; input g; let nH[- 9 - 4] = 83 end eg : takes s, g : integer returns nothing chillax end main : DyQaa : boolean array; F, MQ : integer; L9 : integer array; let Rx60a = array - false; let h = not 5 and 6 <= 65700 end

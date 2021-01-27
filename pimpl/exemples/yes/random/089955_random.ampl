@@ -1,0 +1,1 @@
+program L : main : let T = array - not not 8 rem(0); when case - true / 3 and 52 or false and 17500 + 57 - 0 /= - oh : output 0 . "\\"; pop 69700 end case - xmD0a : chillax end otherwise : chillax end; while - true and 4 - 7 = 19000 : chillax end end

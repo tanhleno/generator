@@ -1,0 +1,1 @@
+program _n : main : when case not(5) : output "3`"; input oR[31]; pop 0 end case u9(7) : let Jn9[047] = 6 end; let fH[- false / true and 0] = array(8) rem not 9 and 9 or true + 7; let W6[8390 and 4950 or 1 - 07] = array - (6) - 5 - 3; when case - 0 = 33 : chillax end otherwise : chillax end end

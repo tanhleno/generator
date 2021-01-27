@@ -1,0 +1,1 @@
+program v : Kv : takes a : integer; W, J, c, m7z0a : boolean returns boolean pop; output 7680 end main : xb, X65 : integer array; O : integer array; o2l, d : integer; n5haa : integer; f : integer array; chillax end

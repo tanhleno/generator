@@ -1,0 +1,1 @@
+program U : Op : takes S, U570a : boolean returns boolean array chillax end UO : takes h : integer returns nothing A, B6, p : boolean array; v, p : boolean array; f : boolean; do zvta(- 1 <= 3, 0 = 4, 1, 3) end main : O00 : integer array; V1, s, M5, H : integer array; chillax end

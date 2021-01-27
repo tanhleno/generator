@@ -1,0 +1,1 @@
+program w0Z : m7 : takes Y3 : integer; F : integer array; sb, u : integer; vO, h, N4, h6, i : integer returns nothing pop; input _; while 4 = 4 : chillax end end d : takes X : integer array; M : boolean array returns nothing m, n0 : boolean array; G0, Jap0a : boolean array; chillax end _96 : takes P : boolean returns boolean chillax end main : pop end

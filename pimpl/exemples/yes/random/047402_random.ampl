@@ -1,0 +1,1 @@
+program A : K8 : takes x : boolean returns nothing chillax end X : takes BB, p310a, f : boolean; h9B : boolean; v, G : boolean array; W70, Sb, Nh : integer returns integer array chillax end main : Y, Q4 : integer array; p, a : integer array; let R6z[zI8(46)] = array - true and not(25); output w and 2 . "\n" . "" . "" . 610; output "#\t" . 24 = 64 . 4190 . 1 . "" end

@@ -1,0 +1,1 @@
+program z0L0a : J : takes MLJ0a : boolean array returns boolean while true and 007 <= 2 : when case 7 : pop end otherwise : chillax end end end Q : takes H, c : boolean returns boolean array chillax end main : T, zW, U270a : integer array; M : boolean array; chillax end

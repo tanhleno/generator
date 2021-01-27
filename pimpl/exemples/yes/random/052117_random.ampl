@@ -1,0 +1,1 @@
+program nDca : R : takes u : integer; w : boolean returns boolean array S, PtI, g : boolean array; NjG : integer array; chillax end Z : takes d, Q : integer array; v : boolean; U, c, _ : boolean returns boolean chillax end main : chillax end

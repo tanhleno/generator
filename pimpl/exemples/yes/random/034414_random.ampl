@@ -1,0 +1,1 @@
+program _v : xY : takes i : boolean; Y3, S : boolean array; Q, N : integer array returns nothing do Fk3(- true and 5, - 3560 - 49 > 4) end main : g4, B : boolean; O1, D : integer; G, q : integer; fZ : boolean array; input iIUa; do k7Taa(false < not 7 or 144, false and 3 or 2 - 24, 170 - 3, 1 = 983, 13) end

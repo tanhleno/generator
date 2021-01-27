@@ -1,0 +1,1 @@
+program E : q : takes V, X, E, oR : boolean; j, C, Q, X5 : boolean returns nothing output 85600 = 270 . "" . "" . "" . "%"; pop 08 = 76 end F : takes i0r, _f : integer array returns integer array M : integer array; do E(- 96 = 3); while 9 : chillax end end main : L : integer; chillax end

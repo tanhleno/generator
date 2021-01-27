@@ -1,0 +1,1 @@
+program K : T450 : takes d0 : integer returns nothing s : boolean array; input S[true]; when case 3 - 592 : pop; output ""; pop end case 350 = 0 : while 815 : chillax end; pop end otherwise : when case 9310 : chillax end end; output 6 . "m" . "" end main : output - (9) + false and 78700 + 35 < true and 801 - 27100 - 4 . "|9"; pop not 3 end

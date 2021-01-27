@@ -1,0 +1,1 @@
+program t : P5K : takes Ti : boolean array; Qw, z : integer returns boolean array PQz0, a, GPi : boolean array; when case - (7) and 4 >= - 16 - 7930 : chillax end end main : S0, b, Z09, WG8, N6, JXA0 : integer; chillax end

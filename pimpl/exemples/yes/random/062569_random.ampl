@@ -1,0 +1,1 @@
+program Bc : k : takes d : integer returns boolean B : integer array; u : boolean array; j3Z, K2u : boolean; _, Kz60 : boolean; a : boolean; A230a : boolean; while - (80) and 8 - 5 - 731 : pop; do n5i(8); pop end end main : qCAa, r2 : integer array; nQ4aa, T, z : integer array; chillax end

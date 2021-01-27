@@ -1,0 +1,1 @@
+program ezz : B : takes e : boolean; N, Y, Gu : integer; H : integer returns integer when case - (8) + 554 - 95900 >= 2 : chillax end case - 2850 - 5 : while 4 : chillax end; let u = 34 end end main : xa : boolean array; do RY(- 1 + false * not 32); output - (8) and 5 . - 9 - 22200 . "" end

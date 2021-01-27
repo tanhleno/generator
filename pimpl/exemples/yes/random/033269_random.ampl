@@ -1,0 +1,1 @@
+program z : dF : takes B : boolean; EU2, l8, Jt, l, r340, kh3 : boolean array returns boolean pop - 534 - 8 < 6 end main : bc9 : integer; x : integer; input U[not(6)]; while - 2 and(04) and 734 : pop; do j(96700); do Th10(3); pop; pop end end

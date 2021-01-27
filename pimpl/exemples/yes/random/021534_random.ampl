@@ -1,0 +1,1 @@
+program W : yuS : takes T, X44 : boolean array returns integer chillax end q : takes XW, Zb, fbq0a : integer array returns integer array e20 : boolean; output 51; output 8 . 1 end main : do W(C1[7] rem true >= 466 or xO and 68 - 9 - 8); do B(false * true = (9) and 735) end

@@ -1,0 +1,1 @@
+program O : v : takes g : boolean returns integer pop end main : do c(not not false or false and 4 < (2) - Y and 537, (6) + fI and 610 or 4 - 68000); do wY(- not(3) < - U and 21 + 1, - 9 < 74); input Q[- not 6]; when case - 54 = 4 : chillax end otherwise : when case 6 : chillax end end; pop; while 87 : pop end end

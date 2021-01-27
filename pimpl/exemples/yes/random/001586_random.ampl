@@ -1,0 +1,1 @@
+program y8 : qZ : takes u, V4, z, x, Hw6, L3 : boolean returns nothing when case false and 80100 + 5 - 77 = 6650 - 5 : chillax end case - 9 - 53400 = 7 : do L(2) end case 1 = 959 : pop; pop end case 0140 : chillax end case 0640 : chillax end otherwise : chillax end end main : chillax end

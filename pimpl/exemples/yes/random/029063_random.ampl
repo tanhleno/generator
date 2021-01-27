@@ -1,0 +1,1 @@
+program W : s : takes AN, qh_ : integer array; g06 : integer returns boolean array when case - 5 and 72 : chillax end; output "" . 7 end M : takes wMZ : boolean returns nothing P : boolean; chillax end main : when case true / (55) rem not 2 - 7 and false or true : chillax end; input J[true - true and 358] end

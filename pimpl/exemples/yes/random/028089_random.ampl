@@ -1,0 +1,1 @@
+program Z16 : eU : takes _7, Mk : integer array; X, p66a : integer returns nothing l : boolean; chillax end main : m, h0ka, x : boolean array; when case true : output "8" . 583 . ""; let Qv70a[8] = array 304 end end

@@ -1,0 +1,1 @@
+program n2 : b1 : takes is : boolean returns integer N : boolean; while - not 8530 and 33 /= - 48 : when case 3460 : pop end case 1370 : chillax end otherwise : chillax end end; do Ss4a(1 - 5) end main : K, p79, U76 : boolean array; chillax end

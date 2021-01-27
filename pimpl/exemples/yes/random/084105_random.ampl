@@ -1,0 +1,1 @@
+program Sn : main : l : integer; x0 : boolean array; H8S0a, V : integer; do q27a((7930 = 6) or false <= - false * x and 61 or not 46 and 28, not OO * (9) and 26 = false and 9 or 4, not 8 and 29 or 67, - 4 >= 4); pop not 78 and 2 + 0 = - 1 end

@@ -1,0 +1,1 @@
+program Hoqa : Mg70 : takes A : boolean array returns nothing U920 : boolean; m : integer; D : integer; o : boolean; K : boolean; input q[- false and 8 - 206 - 5]; while - 9 - 11 : when case 3 : chillax end; output "|2!a" end end main : U, J : boolean; r, f2faa : integer array; U, P, l9 : integer; Bj, yw1 : integer; _, p7za, _ : boolean; input V1A end

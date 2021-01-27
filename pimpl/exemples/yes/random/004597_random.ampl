@@ -1,0 +1,1 @@
+program E : x69 : takes I, BU1aa, bg, e : boolean; i : integer; t, j, f83a, M27 : integer returns nothing let o = array - false; do L(- 484, 6 = 7, 68, 5); while 6450 = 48 : when case 69 : chillax end end; do A(7560, 9); pop; when case 13400 : chillax end; pop end main : chillax end

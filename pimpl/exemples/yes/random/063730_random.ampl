@@ -1,0 +1,1 @@
+program b : y : takes I : integer returns nothing chillax end j : takes i, z9 : integer array; F8 : boolean returns integer array chillax end main : FO, C46, P, NESaa, D, j, q44 : boolean; do _150a(155 >= - not 67600, false rem not 7 + true and 8320 or 197 - 3 <= (1)); input O; input f end

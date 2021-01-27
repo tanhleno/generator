@@ -1,0 +1,1 @@
+program s : e : takes T1, T2p0, h : boolean; W : boolean returns nothing zK1 : integer array; chillax end D : takes b2, z, w, koh : boolean; u, IIL0a, uU0, w : integer returns integer array oD2, D, odD, f : boolean; when case - 91 - 4 > 0 : chillax end otherwise : chillax end; pop end main : input O0; output - (4) < 04700 . ";"; output 5 - 7520 . 49700 = 6 . 5 . 371 . "|\\0a" end

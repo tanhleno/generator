@@ -1,0 +1,1 @@
+program y0X0a : k770a : takes T : integer array; M0 : integer array returns nothing pop 8 - 33; input F6[- 0] end main : p : integer; c : integer array; Q : boolean; M87 : integer; U, W99 : integer; chillax end

@@ -1,0 +1,1 @@
+program hz : R : takes p5ba, Di, D7 : integer; f68 : integer array; H, Q, k : boolean returns integer t : boolean array; p8la : integer array; chillax end main : Z6 : boolean; p, G, n8Naa, D, U, QZ : boolean; R9, KbA, w, K, Z17 : boolean array; E, n6d : boolean; vyF, C, R3laa : boolean array; output ""; while false - (07) and 21 : chillax end; pop 2030 end

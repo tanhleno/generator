@@ -1,0 +1,1 @@
+program E : C : takes M, I5Sa, I, CE4 : boolean; xb6 : boolean returns nothing L : integer array; chillax end main : do k(false / (147) rem true and 60 + true = - not true or not 7 and 2 + 127 - 030) end

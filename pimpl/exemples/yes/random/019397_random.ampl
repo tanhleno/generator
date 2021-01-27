@@ -1,0 +1,1 @@
+program h0 : L : takes b810, Y : boolean array; clU, E : integer; E, kn : integer array; c : boolean array; m, si7, a, K5h0 : integer returns integer array p6 : boolean array; chillax end main : sa : integer array; chillax end

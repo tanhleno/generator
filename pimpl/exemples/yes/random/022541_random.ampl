@@ -1,0 +1,1 @@
+program _2saa : M : takes C, of : boolean array returns nothing S : integer; input o[- 25] end x : takes wrH, cz8a, R4U : boolean array; mw00a, N : integer returns integer M, rb : boolean; pop 7 = 1 end main : U2 : integer; chillax end

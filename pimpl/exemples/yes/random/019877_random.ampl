@@ -1,0 +1,1 @@
+program S8 : S3raa : takes X, o3z : boolean array; U : boolean array; iU : boolean; e7 : boolean array; m1 : boolean returns nothing sN4aa : integer; output 306 - 63 . 7 end f : takes x : boolean; pr : integer returns nothing chillax end main : while true : chillax end end

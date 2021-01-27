@@ -1,0 +1,1 @@
+program U6 : r4g : takes B4, R, O2 : integer array; U, L : integer; s : boolean array; PQ, pJ7aa : integer returns boolean array pop - 42700 - 5; input R; let In[2] = 66 end main : input P93; while true and false : chillax end end

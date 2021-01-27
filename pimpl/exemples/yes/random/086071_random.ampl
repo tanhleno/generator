@@ -1,0 +1,1 @@
+program n : main : i8R0a : integer array; Wf8, _LE0a : boolean array; d : integer; tV, x, K, I6Baa : boolean; K : integer array; while not true + u[73] and 4 + not 9 - 1 >= - ng(6) / (5) : let Cv[- 1 - 38800] = 4; input i[2470]; output "\n" . ""; input X; output "^8\"a" end; pop end

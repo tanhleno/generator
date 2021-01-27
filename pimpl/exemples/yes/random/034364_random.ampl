@@ -1,0 +1,1 @@
+program i8 : m6 : takes X : boolean; P, e : boolean array; r6, x, H, B : integer array returns nothing chillax end rab : takes W, k : boolean array; F, C0ja : boolean array; h : boolean returns integer array pop end main : K1 : integer array; J, o, hA, uwka : boolean; w, Y4 : boolean array; let Df = (50800) rem true - false and 7 end

@@ -1,0 +1,1 @@
+program V3 : P5 : takes L, M7 : integer returns boolean while false and 1 or 3 - 4 : chillax end; let f5[9] = array - 9 end main : L6B0a, c : boolean; H, N1 : integer array; do n(- false rem 11 and 3 and 4) end

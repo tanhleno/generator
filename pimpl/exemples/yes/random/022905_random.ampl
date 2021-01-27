@@ -1,0 +1,1 @@
+program l : u : takes CK, g : boolean returns boolean array do b((8) and 5 + 58 - 24) end J4 : takes b : integer array; L : boolean array returns nothing while - 4110 = 9 : when case 5 : chillax end; let g = 43; pop end end main : i, B4 : integer array; let o = array - (7) rem G[3] - (031) rem(10100) and 89 or true and 10 end

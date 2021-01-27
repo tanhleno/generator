@@ -1,0 +1,1 @@
+program g : Q8 : takes ye60a : integer; F3 : integer returns nothing chillax end main : t54aa : integer; b, VE80a, kX6, mC5 : boolean; q3, T : integer array; do A1(- false * 7 > - 8 rem j and 9 - 26); while not C / true : chillax end end

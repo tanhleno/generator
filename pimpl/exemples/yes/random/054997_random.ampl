@@ -1,0 +1,1 @@
+program h : m : takes J8 : integer array; w, Dr : integer; b7Q : boolean returns integer B : integer; output "\\Xa" . "t\"!a" . "`" end F : takes x : boolean returns integer array while - 701 > 6 : chillax end; while 23 = 2 : chillax end; output 6 . ""; while 7 : chillax end end main : chillax end

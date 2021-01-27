@@ -1,0 +1,1 @@
+program uo7a : f11aa : takes k2, n, k1 : boolean array; jQ8, bu : integer array; sY, hv : boolean array returns boolean array while - false or 1530 - 33 : while 2 : chillax end; when case 1 : chillax end end; let B5H = array - 926 - 91 end main : pop end

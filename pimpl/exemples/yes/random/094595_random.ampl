@@ -1,0 +1,1 @@
+program hxB : main : pop; output "L" . - 42; input Ee; let WJ[3] = array - 006; when case 7 = 361 : pop; pop end case 1 : chillax end case 3 : chillax end otherwise : chillax end; output 4; while 025 : chillax end; while 15000 : chillax end end

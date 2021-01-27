@@ -1,0 +1,1 @@
+program K : O : takes n : boolean array returns nothing chillax end x : takes o, U : boolean; K620a : boolean array; c0k : boolean array returns nothing H, A1Y, Ty3aa : integer; do b17(- 3, 775) end g : takes G, T0 : boolean; vnEa, MY : integer; Ht, q : boolean returns nothing _, I, Z1iaa : integer; J : boolean; chillax end main : chillax end

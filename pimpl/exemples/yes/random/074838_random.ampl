@@ -1,0 +1,1 @@
+program X35 : main : Vx1a, s6R : boolean array; kDO, V : boolean array; z, C : boolean array; F4, I5r : boolean array; m6 : boolean; output not(7) * 6 . ""; when case - false : pop; do fP7(19800) end case - true < - 6 - 996 : chillax end case - 62 /= 5 : chillax end case 0 = 068 : chillax end case 0 : chillax end otherwise : chillax end; pop end

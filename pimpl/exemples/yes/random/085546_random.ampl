@@ -1,0 +1,1 @@
+program K4 : main : U : integer array; tF5aa, sd, U41, B06, C, cb1aa : boolean; T2H0a : boolean array; let _[H(4, 38) + 31800 / false and 61 or false] = array - g; when case 9 + true + 6120 /= - true and 83 : chillax end otherwise : chillax end end

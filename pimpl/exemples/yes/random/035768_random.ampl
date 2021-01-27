@@ -1,0 +1,1 @@
+program I : e2 : takes u8Va : boolean; R : boolean array; GF : integer; hB4, a, JkU0 : integer returns integer array chillax end main : while 4 <= - 4 : chillax end; while - Vb2(01) < 0 and 0 - 222 : chillax end end

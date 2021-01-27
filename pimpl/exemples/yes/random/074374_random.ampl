@@ -1,0 +1,1 @@
+program pyn : main : kz, e5 : boolean; when case - not true * not false : let c2[- 94] = 36 end case not K / 10 - not 3170 and 35 : while 6 : output "" end; do YVWa(0, 6) end case 58 or 745 - 4 < - 9940 - 15 : output "5" end case - 8 /= 2 : chillax end case 857 : when case 8 : chillax end end case 520 : chillax end case 924 : chillax end otherwise : chillax end; input x end

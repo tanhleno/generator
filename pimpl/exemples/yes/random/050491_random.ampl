@@ -1,0 +1,1 @@
+program g : F2 : takes n : integer; uMo, K : boolean array; U3, gq : integer array returns boolean u78 : boolean array; dAg, q, S10 : integer array; chillax end main : when case 823 / 0 rem false /= (62500) + true and 0 : chillax end case - (5) / true + (50) - 33 >= false and 04 : chillax end otherwise : chillax end end

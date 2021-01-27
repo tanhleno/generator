@@ -1,0 +1,1 @@
+program f8Jaa : t : takes I, E5 : integer array; t : boolean array returns integer a6Caa : boolean; j2i, F99, N, p0 : integer; when case - 1 and 2 = - 3 : chillax end; when case 5 > 9 : while 9 : chillax end end case 5 : output ""; pop end case 57500 : chillax end end main : d14aa : boolean; o5, U : integer; eJ3 : boolean; chillax end

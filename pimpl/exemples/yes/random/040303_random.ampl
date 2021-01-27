@@ -1,0 +1,1 @@
+program J : w : takes X : boolean array; oe : boolean returns integer array UPQ, f, M, P5, zD6 : boolean array; l, aB20a, E, i : integer array; do uJ(- (2) and 49, 10 > 59) end main : E3, o1 : integer; when case - false : chillax end case - F(2) or R and 2870 : chillax end otherwise : pop 7 end end

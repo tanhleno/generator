@@ -1,0 +1,1 @@
+program y : p0 : takes h, J, W : integer; vS, Z09, P7Oaa : boolean array returns integer o3 : boolean; Y : boolean array; fTx, iLh, T : boolean array; let JUx = - 3 > 4; while 70 <= 794 : chillax end; input E end R : takes a : integer; I, y, R0, J1, o : boolean returns nothing chillax end main : e : integer array; _f, n1, m, n, B : integer; f, alE : boolean array; chillax end

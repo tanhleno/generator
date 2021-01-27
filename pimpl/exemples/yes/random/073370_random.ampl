@@ -1,0 +1,1 @@
+program K : main : Kr90, s : boolean; gg3, Cq, b, G : boolean; Gh : boolean array; e12 : boolean array; z : boolean; K, V : boolean; dp8 : boolean; while s0(8) or yH8a rem(98) - not 48 /= - yd * false and 85 or(99900) and 48 : input R[- 5]; pop 5 end end

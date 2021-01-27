@@ -1,0 +1,1 @@
+program W : vxE : takes G : boolean array; w010, M : integer array returns boolean chillax end main : HJ, V0, Mk : boolean; m2, W : integer array; at : boolean array; F, M, y82, t : integer array; chillax end

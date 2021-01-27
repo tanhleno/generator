@@ -1,0 +1,1 @@
+program A : _3 : takes KL : boolean array; K, k : integer returns nothing input _9; pop 62600 end F : takes Rp : boolean array; p : integer array; M : integer array returns nothing chillax end main : pop true - not 0 or 8 - 5 = 8 and 76 end

@@ -1,0 +1,1 @@
+program v : R : takes UE80 : boolean array; b9U : integer array returns nothing n9 : integer array; z : boolean; I5 : integer; chillax end main : output - 6 = - not 4 and 43500 or 5 - 4; pop 33 and 07 - 6 - 1 end

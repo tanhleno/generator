@@ -1,0 +1,1 @@
+program U : main : N : boolean; X : boolean array; TS7, K : boolean array; while - (04) * (9) rem true and 69000 or R(98) + 172 + 4 > (4990) : do Q9(- 89 - 1 < 13); while 2 = 6 : pop; pop end end end

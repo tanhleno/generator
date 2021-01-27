@@ -1,0 +1,1 @@
+program je : a4 : takes q : boolean; d, c, H : boolean array returns integer array G, a, B8, Nj, Z : boolean; chillax end u9 : takes t51, u, B, o : integer; mQ : integer array; U6, X : integer array; e : integer returns nothing let T11a[6] = array - 44 - 808; do g(8) end main : F : boolean; g, u : integer array; chillax end

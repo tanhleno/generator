@@ -1,0 +1,1 @@
+program fa20a : mL30 : takes v04 : boolean array; _IL, I, Qg : boolean array returns nothing E : integer; N, A9v0a : integer; l : boolean array; M : boolean; n : boolean; chillax end main : U, m7 : integer; chillax end

@@ -1,0 +1,1 @@
+program O : E : takes V : boolean array returns integer array L9s0a : boolean array; input n end z770 : takes bCw : boolean array returns nothing chillax end main : let EAD[- 5 / G / false and 81] = array - a(88, 64200) rem 6 / (8) and 22200 or true and false and 246; when case - (63) : while 3 = 13700 : chillax end end otherwise : output 9 . ""; when case 6 : chillax end end end

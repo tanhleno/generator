@@ -1,0 +1,1 @@
+program X : main : c, f, V : integer array; qH : integer; F : boolean array; when case(1 = 2) = - (477) : chillax end case - false or(56) >= - false and 7 or 91 : output 332; do b5(8, 65800) end case not 6 and 73 + 5 : chillax end case 3170 - 817 /= 59 : chillax end otherwise : chillax end end

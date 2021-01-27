@@ -1,0 +1,1 @@
+program Q : Jt : takes k7ga : boolean; i, C, nb : integer; f, Q : boolean array; F : boolean; d : boolean; FH : boolean; Xa, m : boolean; R1 : boolean returns nothing d, V170a, _R1, t : integer array; let O = array - not 1 + 01 - 34200 end main : A : integer; chillax end

@@ -1,0 +1,1 @@
+program Ti1 : E1 : takes zaX0a : boolean; K, cT : boolean returns nothing J : integer array; pop 9 - 12 > 6; when case - 4 : pop; let dC2 = 9 end otherwise : output "" end end X : takes Y : boolean array returns integer pop; while 9 = 5 : do i1H(17) end end a4z : takes bR : boolean array returns integer L, I4K : integer; chillax end main : N : boolean; pop end

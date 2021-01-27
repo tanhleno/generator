@@ -1,0 +1,1 @@
+program S : g8V : takes o4, l7, omI0a : boolean array; D : integer; V2, TMa0a, k9, K, _ : boolean array; M : boolean; o0 : boolean; Q9xa : boolean; y2 : boolean; c : boolean; mD0 : boolean returns nothing do fh(- true and 592 - 42 - 5); while - 6320 < 75 : chillax end end main : while - 7 : chillax end; while - VTs0(2) and false < - (32) : chillax end end

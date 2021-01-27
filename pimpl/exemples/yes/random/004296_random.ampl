@@ -1,0 +1,1 @@
+program v : p : takes gf6aa, pU, C, G : boolean; _eJ, Kj8, V : integer array returns nothing Es, B5 : integer; F, K2_, PH : integer; chillax end sI : takes I380 : integer array; m2 : boolean; U96 : boolean returns nothing K : integer; m, n4, UO : boolean array; let P_F[4] = 35; let v4ta = array 768 end main : chillax end

@@ -1,0 +1,1 @@
+program l : R : takes xE, B : integer; O, L, o7 : integer returns integer array AQ70 : boolean array; IQ : integer array; gv : boolean; c82, f : boolean; M : boolean; b : boolean; chillax end main : pQ, f, t : boolean array; output - n . p and 7190 >= 72 . - 4 - 3 . 93 end

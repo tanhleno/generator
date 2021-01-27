@@ -1,0 +1,1 @@
+program S : D : takes a, a : boolean array; Ce, kv, FJ60 : boolean array returns nothing while - false and 2 = 1 - 1 : chillax end end main : QGF0 : integer array; j, f, O1J, f6W : integer array; let i6[true] = array - false or false; when case(669) - (43) and 7 - 2 = - 676 and 2 : chillax end otherwise : let S = array 21 end end

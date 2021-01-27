@@ -1,0 +1,1 @@
+program IMY : b : takes k : boolean array; X : integer array returns integer chillax end Oz : takes e : boolean; M6w0, tm : boolean returns nothing chillax end main : do H9(- bFZ0a = (8) - 0 or 3); while(20) and(2) and 6 : output "" . 566 end end

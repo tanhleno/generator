@@ -1,0 +1,1 @@
+program z : M : takes Z_ : boolean; A4 : boolean array; v, A62 : boolean array returns nothing chillax end main : o, P : integer array; GtR0, W, R4 : integer array; do D(- false and false rem true and 9 > true, - not not 4 /= - 88 - 035 - 06700, - not 29 and 17 < 496 - 7, 4 = 5560, 18100 = 1, 4, 1); while false / false : input o; do g(85000, 6); do tA(9) end end

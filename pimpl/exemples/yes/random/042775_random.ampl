@@ -1,0 +1,1 @@
+program h2r0a : E : takes Z : boolean array returns integer array t6Zaa : integer array; K : integer; d : boolean; B : boolean; chillax end H : takes b : boolean array; r17 : boolean returns nothing do g7H(86300, 92, 75); pop; input z; input D; when case 8 : chillax end; pop end main : pop; input d9 end

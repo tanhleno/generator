@@ -1,0 +1,1 @@
+program z : Hh1aa : takes QAf, G, X : boolean array returns integer input x1kaa[10 and 79] end f : takes q4 : boolean array; r : boolean; z, C : boolean returns nothing t, y51 : boolean; let D[- 0130] = array 4 end main : G : integer array; chillax end

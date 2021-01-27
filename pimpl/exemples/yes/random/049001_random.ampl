@@ -1,0 +1,1 @@
+program f28a : H59 : takes Zl80a : boolean returns nothing output "50" . 300 . "" end C : takes E, JyH : boolean array; W, P, m : boolean array returns integer let L10a[- 2 - 71] = array 55 end z5 : takes O6c0, m7, w2, N : integer returns nothing chillax end main : chillax end

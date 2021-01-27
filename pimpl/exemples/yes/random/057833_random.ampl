@@ -1,0 +1,1 @@
+program C : b : takes i6 : integer array returns boolean array i : boolean array; chillax end I : takes x38, f : boolean array returns nothing P : boolean; fV : integer; U6c : boolean; output ""; when case 2 : output "6"; pop end case 1 : chillax end case 7 : chillax end; input ico0a; pop; let b690 = 285 end main : chillax end

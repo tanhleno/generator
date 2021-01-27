@@ -1,0 +1,1 @@
+program J : main : when case u4(432, 42) rem false / u8Iaa and 604 : when case - 9 - 868 < 4 : chillax end otherwise : let C = 0; pop end; input e3 end case 5 rem 0010 > z and 52 + 71 - 6 : let f = array 63; let s = array 8 end end

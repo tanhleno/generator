@@ -1,0 +1,1 @@
+program S4e : main : es, A790a : integer; ln1, O5, oW90a : boolean; N : integer; input z5M; do BC00a(- 0 rem(9) or 6 and 2); do v4h0(M and 1 - 163 - 99); while 8 : chillax end; while 29 : chillax end; let J5w0 = 3 end

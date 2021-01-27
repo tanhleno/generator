@@ -1,0 +1,1 @@
+program C : b8 : takes U : boolean returns integer while false and 3 or 567 : chillax end; let o2d0[- 7] = array - 16; output 905 end main : o, rG3 : integer array; when case false - false /= - (3) and true and 9 - not 309 : chillax end case false * c0 and 707 + true and 30 : chillax end end

@@ -1,0 +1,1 @@
+program z : C7r : takes i9k, Lu, QZ2 : integer array returns boolean array chillax end L : takes s_10a, VhM : boolean returns nothing yq : integer; chillax end main : nU3a, c3J, Y1 : boolean array; biS, i : boolean array; chillax end

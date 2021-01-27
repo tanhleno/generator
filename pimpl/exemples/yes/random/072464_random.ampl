@@ -1,0 +1,1 @@
+program mJ : main : a, jU, oE : integer; output "8&0" . "7" . ""; let V1p = array - true and false and 73 or false - 1; when case(036) - 970 : let S[7680] = array 8 end case - 88 - 4 = 080 : let g9 = 757 end otherwise : chillax end; output 399 = 34 end

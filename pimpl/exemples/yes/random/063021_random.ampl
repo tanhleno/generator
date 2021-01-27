@@ -1,0 +1,1 @@
+program T : H : takes W6 : integer returns integer array l1n : integer; f6, J : boolean; RG2, oe : boolean array; j, Xr : boolean; do l(42 and 8, - 891 > 4) end f1 : takes x, W750a : integer array; m, m, U : integer; y4 : integer array returns integer array o, sD : boolean array; chillax end main : input I end

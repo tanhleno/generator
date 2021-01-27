@@ -1,0 +1,1 @@
+program VxZ0 : c : takes h : boolean returns boolean let o[- true] = array - not 7 + 90000 - 2; let U = array 9; when case 0 : chillax end case 097 : chillax end case 1240 : chillax end end main : while - true or zk + false and 2 + 2 - 2 <= - l(1950) rem not 1610 and 3 - false and 56 : chillax end end

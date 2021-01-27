@@ -1,0 +1,1 @@
+program b : VN1 : takes _13 : boolean array returns nothing a1, M40 : integer; output "89\"a" . 8 = 7; while - 432 - 5 > 19 : do k(8) end end main : do S(- (950 = 2) / true - kO[4] > (3) / (686) and 1, - true * false >= true and 098 + 4, not 5 + 41 - 944) end

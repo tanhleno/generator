@@ -1,0 +1,1 @@
+program U : main : h, p : integer; o : boolean; c, RQ : integer array; do pf(044 - not false + (7640) and 74, - 8 rem true or false + 017, 89 /= - 1, 0890 > 8, 5 = 5, 20, 97200); let s = 94 and 3 - 190 - 0 <= - 10 - 7; let v[(322)] = array - 9 and 619; do FT(011); while 99100 = 6 : chillax end; output "" end

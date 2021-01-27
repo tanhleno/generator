@@ -1,0 +1,1 @@
+program d : q : takes HBY0, rb : integer; Td, W : boolean array returns nothing Sj3a, q5f0a : boolean array; p : integer; TV0, C, S2 : boolean; w : boolean; do y(- false and 0600, 4 - 31 <= 15, 67, 507) end main : y : boolean; _W2, e21, j5Na, lR, q, i6 : boolean array; P : integer; Y : integer; gHc, N : integer array; Pns, D : boolean; chillax end

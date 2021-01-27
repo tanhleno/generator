@@ -1,0 +1,1 @@
+program r : H : takes f : boolean; p : integer array; T : boolean array; h0e, S : boolean returns nothing pop end z43 : takes _ : boolean array; E0, o4Da, f : integer; n, kd : integer; A, c2, p : integer array returns boolean array r95a, w : boolean; Ct : boolean array; input w7; while 2 : chillax end end main : yq3 : integer array; v : boolean array; chillax end

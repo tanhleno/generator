@@ -1,0 +1,1 @@
+program KJ9aa : main : do b_80a(- 1 / true * false and 77 or(6) and true or not 4, false + 5920 and 57 >= true); let U = array not not 5 + false; output - 08000 - 7 < 8; when case 8610 - 84500 = 30 : when case 6 : chillax end; when case 8 : chillax end end case 1560 = 4 : chillax end case 24000 : chillax end end

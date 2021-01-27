@@ -1,0 +1,1 @@
+program Y1 : l : takes Dv : integer returns nothing while true and 3 < - 822 - 7 : do k4(8, 2) end; do i00(0); while 0 : chillax end end main : do W(- false rem(7) - (19) / false + (2) or 40 < - (5)) end

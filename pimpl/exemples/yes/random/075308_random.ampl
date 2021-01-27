@@ -1,0 +1,1 @@
+program p : main : w, u : boolean array; _5q : integer array; g00 : boolean; input ec[true rem false / not 65 + not true and false or 836 and 91]; do _(- true * true); do q(false and 2 >= - 74100) end

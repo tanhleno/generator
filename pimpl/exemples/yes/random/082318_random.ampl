@@ -1,0 +1,1 @@
+program D100a : main : q : boolean array; let k3 = array - r32; when case - false = - 2 : when case 5 = 3 : while 2 : chillax end; pop end end case false + 4 - 63700 : let _ = 8; output "8\n" end otherwise : chillax end; pop end

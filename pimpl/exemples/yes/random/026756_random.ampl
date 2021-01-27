@@ -1,0 +1,1 @@
+program rf : v3s0a : takes _, H : integer; xj : integer array returns boolean array input I[- not 20 or 2 - 20] end J : takes o7, m, y : integer returns nothing c2M0 : boolean array; while - 406 <= 9 : chillax end end main : G8 : integer array; w, T : integer; S : integer; Vi : boolean; Q, i : boolean array; let M7x = array - mF6(36, 8) or 9 end

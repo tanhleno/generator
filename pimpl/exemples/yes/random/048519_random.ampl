@@ -1,0 +1,1 @@
+program J : v8 : takes D6 : boolean returns nothing w : boolean array; C : boolean array; chillax end _ : takes G : boolean array returns nothing output "3\\" . "" . 5 . "$"; let N = array 90000 end main : T9 : integer; Q, Oh, F2Y0a, W : integer array; q2 : boolean array; nH, FSz, N, yM1 : integer array; while false rem not(1) /= - c4[52] or YX and 513 : chillax end; pop end

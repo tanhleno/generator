@@ -1,0 +1,1 @@
+program E7 : main : R8 : boolean array; while - not U0[0] / 4 * not 87 and 62 >= true + true : let y[- 0 - 7070] = array 1 - 9 end; do y(- (61) rem(61) or(7) + 69, (91600) and 99800 - 1); output "" . "" . 25 . 6 . "" end

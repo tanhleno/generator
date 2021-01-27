@@ -1,0 +1,1 @@
+program H5 : g : takes v5, eH, CI, m, lie, q : integer returns nothing do Hk(- false - 19) end W : takes M : boolean array returns boolean pop; when case 5 : let SM = 2 end case 8 : pop end end Gs : takes x, T3E0a : integer array returns nothing chillax end main : chillax end

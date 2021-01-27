@@ -1,0 +1,1 @@
+program q : L : takes C5, NMe : integer array returns boolean array uX, x5, v9, F : boolean; do If(- not 0 and 765 - 81800); do P(- 2 = 0, 307 = 918); when case 683 = 07 : chillax end otherwise : pop end; input X; when case 74000 : chillax end end main : output - c1(44) * 62 + (00) + 8 <= true and 8 - 2 end

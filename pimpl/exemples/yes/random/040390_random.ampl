@@ -1,0 +1,1 @@
+program Z : lt : takes L : boolean array; WY : boolean returns nothing do e(- not 3710 - 5 - 030, 98 - 7 > 9, 7 = 59, 4260); when case 1 = 43 : do Y200(6); when case 0 : chillax end end; do I(3 = 16, 32, 36); output 47 end main : x : boolean array; chillax end

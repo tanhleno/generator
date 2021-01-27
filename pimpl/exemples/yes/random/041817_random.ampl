@@ -1,0 +1,1 @@
+program f24 : Og : takes Aq : boolean array returns boolean array let IJ = array - (4) and 41 end w : takes e, I9 : boolean array returns integer chillax end F : takes hw, p : integer returns nothing hf : integer array; CYV0a, i3 : boolean; Sv : boolean; d : boolean; chillax end main : pop - not not 24 * not 6 + 6 < - not 4; input O; do u(not 7 and 953 /= - 6 - 81) end

@@ -1,0 +1,1 @@
+program J1 : D : takes sM : boolean returns boolean array do tv(false or 8 < - 6) end main : output 6810 and false and 6 - (99600) - 65 = 589 and 4 - 4410 . - true - 3 >= - 3 . "" . 13300 . 5 . "6" . "u" end

@@ -1,0 +1,1 @@
+program am : H : takes K, L6, X : integer array returns boolean array iH, EqR, fH : boolean array; pop - 8460 end g : takes d, W, C, c4 : integer; R47 : boolean array returns integer array let EZ[- 32] = array - 49 end main : Es : integer; while - false + not(1) and false : output ""; pop 0 end; pop - 6980 and 1 = - 603; do a(96 - 5 - 2) end

@@ -1,0 +1,1 @@
+program c8Oa : main : do T(- 76 / (1) or true and not 063 and 12 >= - z); output "" . "?"; while - d /= - 454 - 8 : output "" . ""; input VM; input Q8 end; output 9 . ""; input dj90[1]; while 13 : chillax end; input m8 end

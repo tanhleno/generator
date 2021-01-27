@@ -1,0 +1,1 @@
+program m : q0 : takes hub, I : integer array returns nothing chillax end Hk7aa : takes xH, sQ, Ige, Mso0a : boolean array returns nothing Z, P, MH, B8s0a : boolean; let q[- 491] = 5 = 6; do j(11, 6); input F9e[9] end main : input _s[- (2)] end

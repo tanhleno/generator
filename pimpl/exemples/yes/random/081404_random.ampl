@@ -1,0 +1,1 @@
+program CV : main : js : boolean array; O4u, W : integer; let m[- D1j(16, 44) and true and(0) and 3] = - 799 or true - 5 <= false - 7540 - 38; when case - not false rem(7) and 2 or true or 46 : chillax end; output - 5 < 0140 . "" . 2 end

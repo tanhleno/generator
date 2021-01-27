@@ -1,0 +1,1 @@
+program x : main : R, I20, r : boolean; when case - 210 rem not not 13 / SxY0a and 35 - not not 5 /= - Pf30a[7] or 44 and 5 - 8 : output 51600 = 3 end case 4 and false or 47200 : chillax end; input xB end

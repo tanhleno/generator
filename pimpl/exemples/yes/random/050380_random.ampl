@@ -1,0 +1,1 @@
+program m3V : W : takes HX : integer; K, k : boolean; j5 : boolean array returns integer array RD, h : boolean; chillax end main : F : boolean array; I : integer array; input Z[- false]; pop; do I7F(Z and 77 + 9 - 6 <= - 67, 2 - 17 > 8, 658 = 3) end

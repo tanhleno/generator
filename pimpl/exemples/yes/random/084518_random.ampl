@@ -1,0 +1,1 @@
+program K : main : rija : integer; D : integer array; m4 : integer array; R3Z : integer; E5 : integer array; r : boolean; c : boolean; Bx : boolean; output - true / true > (19) . (6) + 8 . 8 - 3 . "\n#" . "" end

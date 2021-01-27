@@ -1,0 +1,1 @@
+program P : E3 : takes J26a : boolean; G2R, k12aa : integer array returns nothing V : integer; chillax end Q5 : takes _ : boolean array; k, K, E, Y4, I : boolean; s05 : boolean array; v, U : boolean array returns nothing chillax end main : when case false + 8 / not 292 /= not(4) * true and 952 : chillax end; while false + not 8 : input IH[109] end end

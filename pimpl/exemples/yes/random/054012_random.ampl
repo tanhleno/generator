@@ -1,0 +1,1 @@
+program z : D : takes T92 : integer array; B, d8c0, cny0 : boolean array returns boolean zsg, wb90 : boolean; lC : boolean; x, q1 : integer array; tk : boolean; while false and 12 or 4 - 71 <= - 3 : pop 8 end; let qm6 = 7 = 240 end main : N : boolean array; chillax end

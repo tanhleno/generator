@@ -1,0 +1,1 @@
+program Hab0a : Tnta : takes z : integer array returns nothing r64, D : integer; cv, Y, U, rR7 : integer array; chillax end main : when case - k(9, 3730) >= D(6) - not 93 : chillax end case false > true and 020 : when case 07 = 15 : chillax end otherwise : chillax end; input Gq[9]; let B = 0; while 5 : chillax end end end

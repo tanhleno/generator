@@ -1,0 +1,1 @@
+program _96aa : f4 : takes N4 : boolean array returns nothing chillax end f : takes C77aa, JQ, c0, w, j, f : boolean returns boolean chillax end k5k : takes I : boolean array returns boolean l : boolean; Z570a, J : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program p : ZUAaa : takes rZ, C : integer array; v1P0a, N5u0a, bn9, m6o0 : integer array; I : boolean array returns integer array v, F, R, b, V : integer; input f end main : sp : boolean array; NB, U, g : boolean array; Y51, s : boolean array; chillax end

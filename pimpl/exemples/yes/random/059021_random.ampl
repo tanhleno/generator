@@ -1,0 +1,1 @@
+program bh : s2fa : takes C : integer array returns integer array pop end b2 : takes cp : boolean array; Blm : integer returns nothing while - 3 : do bA(2800); output ""; pop end end kFf0a : takes H02 : integer array; q, x : boolean array returns nothing zK : boolean array; chillax end main : t : integer; do s(- 6 or 1 rem 623 and 54800 /= 869) end

@@ -1,0 +1,1 @@
+program U8 : ge : takes O, j : integer array; g, _, H : boolean array; c, i : integer; Y, V : integer array; k : integer; M9a, G, E3 : boolean; N, f2 : boolean returns boolean E, Y, Dh : boolean; X : boolean; input f; output "r\n\"" . "" end main : chillax end

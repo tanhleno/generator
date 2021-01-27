@@ -1,0 +1,1 @@
+program p : main : Wg, bC00, _fA0 : boolean array; k, H4, l : integer; while - true / 5 * not 18 and 8 or Q8g[5] * (9) or false : input L[- 6 - 5]; do O(367 = 93500) end; let w[- not 3] = - (170) and 2 or 9 <= 0 end

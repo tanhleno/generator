@@ -1,0 +1,1 @@
+program _ : S9 : takes Z, b : integer returns nothing L9 : boolean array; oZ0aa : integer array; y, t : integer; chillax end main : w9 : boolean array; O, R : boolean; while true > 14 * false : chillax end; input y[false]; input J5; input _ end

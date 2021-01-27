@@ -1,0 +1,1 @@
+program e5Ya : e3 : takes e3s, D2, _, r, c8 : integer array; R, KGs0a, z8 : boolean array; r : boolean array returns integer array chillax end v : takes J9Ua, iM : boolean array returns integer chillax end main : pop - A34[3] > - Y1 and 9490; do j(false rem KK6 and 70 or false <= false and 86 - 6, - false + 0) end

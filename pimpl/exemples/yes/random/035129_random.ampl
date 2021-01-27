@@ -1,0 +1,1 @@
+program F : H8 : takes z : boolean; R, xg : integer array returns nothing g, QU6 : integer; output - 7 <= 4130 end k8 : takes W2c, b, o1 : integer returns boolean array Y : integer array; m770a, B, J520 : boolean array; T : boolean; I : boolean; C2 : boolean; chillax end main : while(5 = 8) + Y9R[2] >= 459 : when case 695 > 2 : chillax end otherwise : do Z(82) end end end

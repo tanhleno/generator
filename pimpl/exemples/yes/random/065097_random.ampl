@@ -1,0 +1,1 @@
+program o : p : takes J : integer returns nothing G02a : integer array; e : boolean; do n8(- 700 - 5 < - 6); pop; while 72 : do L9(26); pop end end main : pop - 8; while - 0220 > - true and 327 : chillax end; while - 1 and 71 or 2 - 46 <= 7 - 42 : while 26 : pop end; input J5; do A4B(10) end; output 793 end

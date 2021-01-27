@@ -1,0 +1,1 @@
+program d : Y : takes qE0 : integer array returns integer array j, w : integer array; let P[true and 111 + 9 - 8] = array(18) and 9 end main : cYu0a : integer; S : integer; while - true rem 9 : output 1 = 6 . ""; output "^`0" end; let H3 = u9 <= - 48; pop end

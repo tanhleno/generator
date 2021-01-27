@@ -1,0 +1,1 @@
+program k : main : L, V, oS : boolean; G, wylaa : boolean; when case true + b43aa[9] - e : let O[96] = 78200 = 59; input Epka[1]; let C = array 1; when case 6 : chillax end end otherwise : chillax end; while - (42) and true and 8 : input x end; pop 87 - 8 end

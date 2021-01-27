@@ -1,0 +1,1 @@
+program Dw : _ : takes M73, I3, c5, F1s0, wD, kP, L : boolean; U, E9 : boolean; I, T : boolean returns boolean R : boolean array; chillax end H : takes U, A : integer; H5zaa : boolean; Z06 : boolean; r : boolean returns nothing chillax end main : input K[- 7 rem not true rem true and 850] end

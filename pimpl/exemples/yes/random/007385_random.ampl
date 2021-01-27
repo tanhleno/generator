@@ -1,0 +1,1 @@
+program l69 : a0S : takes L0, x, K, S : integer array returns boolean array chillax end main : XJ0aa : boolean array; c, w : boolean array; N, m830a, nQ : boolean; B, h : integer; let Ls[true] = - 3 and c end

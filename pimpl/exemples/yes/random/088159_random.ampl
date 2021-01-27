@@ -1,0 +1,1 @@
+program Y : main : input Zz8a; when case - 96 rem not 4 and 58 + false and 5 or 5 - 79 : chillax end case - K230 = - 2 - 7 : while 6 : pop end end case - 45800 - 4 : chillax end otherwise : do XG80a(6, 61000) end end

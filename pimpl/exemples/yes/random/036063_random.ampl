@@ -1,0 +1,1 @@
+program En : T8 : takes J : boolean; v : boolean array returns nothing s : integer array; chillax end m5a : takes h : boolean returns integer when case 1 - 32000 > 04 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program m4 : k8 : takes JLv : boolean array; S5ga, pn, ce0, Z : boolean returns integer M, B : boolean; input w end k3 : takes xpra, a8Ka : boolean returns integer array chillax end t : takes b : integer array; Q : integer array; F5S, d, A1, S : boolean array returns nothing chillax end main : pop end

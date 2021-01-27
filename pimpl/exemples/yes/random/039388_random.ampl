@@ -1,0 +1,1 @@
+program BH : q : takes N : boolean array; W, P78 : integer returns integer array chillax end main : T, P : boolean array; output "" . ""; output(11300) - 4 - 1 > - 51 . 6 >= 4 . 2 . "M" . ""; output "" . 4500 = 0; while 7 - 935 : when case 661 : chillax end; input r2ha; pop end end

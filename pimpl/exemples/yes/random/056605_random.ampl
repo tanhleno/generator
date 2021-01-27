@@ -1,0 +1,1 @@
+program t : hB : takes Q : integer array; d : integer; F6, w : integer; X : integer array; pg : boolean; CL80a, Is5, sG0 : boolean returns nothing U, hl : integer; chillax end main : j2a : boolean array; M, P4 : boolean array; when case - not false rem(8) or(3) * (9) and 6 : pop 77 = 8 end otherwise : chillax end; let p = array - 7 - (74) and 1 end

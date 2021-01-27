@@ -1,0 +1,1 @@
+program V : Jl : takes v87 : integer; M7b : integer array returns nothing pop end Nn9 : takes q : integer array returns boolean let J = 7 = 303; do B35(7 = 31) end v : takes h : boolean array returns nothing E, f : boolean; when case 02 = 8 : input u4 end otherwise : pop end; output 5 end main : chillax end

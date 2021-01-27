@@ -1,0 +1,1 @@
+program m : tl : takes dVq, R8, N, y0 : integer array; yV3, h : integer array returns boolean array pop; let d = 1 = 0 end main : A, Mg90, w, j, bS6, W, x33 : boolean; output "" . - false and 8; output "[P"; when case - (4) - 2 - 996 >= 6 - 5 : do W(9, 3) end case - 22300 : chillax end case 657 : chillax end case 2 : pop end case 7 : chillax end end

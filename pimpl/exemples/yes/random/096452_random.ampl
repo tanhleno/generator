@@ -1,0 +1,1 @@
+program U670 : main : when case - 1 : when case 639 > 1970 : pop end case 4 = 95 : chillax end; output 44000 . ""; when case 5 : chillax end case 3 : chillax end otherwise : chillax end end; let L[- (4) and(0) and 78 - 99] = false < 0 - 6 end

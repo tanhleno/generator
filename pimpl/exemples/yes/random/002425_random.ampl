@@ -1,0 +1,1 @@
+program x : T0faa : takes l3, ytQ, P, h0, U : boolean array; b, y, g : integer returns nothing chillax end Jq : takes VW0 : boolean array returns boolean output "~%"; input N7[1]; while 8 : chillax end; let pN = 7; let l = 1920; pop end main : N, lm90, r9 : integer; chillax end

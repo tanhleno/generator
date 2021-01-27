@@ -1,0 +1,1 @@
+program c : main : while - (2) and true and 21 + L2Va(96) * true and 24 >= 598 - false or 3 : when case - 8 < 1 : chillax end; output ""; do N720(45000, 74200); while 859 : chillax end; let vA = 4 end; pop end

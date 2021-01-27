@@ -1,0 +1,1 @@
+program m : r38 : takes U : integer array returns boolean m1 : integer array; chillax end main : c, z : boolean array; do t(- not 256 or(6) rem U /= - not(00), - true = - not 7 - 0, not 8 >= - 4) end

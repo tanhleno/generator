@@ -1,0 +1,1 @@
+program D : J : takes W : boolean array; D30a, RG : integer; R : integer; p : boolean array returns nothing P46, Z : integer array; d, c, Y : boolean; pop 95 - 41 = 7630; output 1 . 527 end w : takes ZUQ : boolean returns integer do a(- 4 <= 16, 1) end main : o : boolean; f : boolean array; pop end

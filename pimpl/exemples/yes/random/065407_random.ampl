@@ -1,0 +1,1 @@
+program z9 : R31aa : takes ajT0a : integer returns nothing pop end B : takes t, u : integer array returns integer array X : integer array; Y93a, g8g0, j68a : boolean array; let a3A = array 7 - 17200 end main : output(055); pop; output "2I" end

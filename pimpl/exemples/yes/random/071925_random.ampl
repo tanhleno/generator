@@ -1,0 +1,1 @@
+program Z : main : E, LEua, z4 : boolean array; while false + not true /= - false or true : when case - 8 - 81300 : while 77 : chillax end end case 9120 = 1270 : when case 8 : chillax end; pop end end end

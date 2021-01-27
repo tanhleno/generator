@@ -1,0 +1,1 @@
+program t4 : di50 : takes V : integer; g : boolean array; jM, s : boolean array; r : integer array; u07, gl : boolean array returns integer chillax end VC50a : takes mp, HV7, w3, C, a, K, i : boolean returns boolean array chillax end main : R, M8a : integer; Q9c : boolean array; Gc, H, p29, u : boolean array; chillax end

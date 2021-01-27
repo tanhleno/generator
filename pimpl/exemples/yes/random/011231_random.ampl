@@ -1,0 +1,1 @@
+program x : UM : takes H, X8, q : boolean array returns nothing G8i, J9 : boolean array; chillax end m : takes n710a, y840a : boolean array; H : boolean array returns boolean array p, y9, Ou1 : boolean array; H : integer; while - 56 <= 11600 : chillax end; do y(8) end main : chillax end

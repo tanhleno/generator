@@ -1,0 +1,1 @@
+program H : a : takes z, t : boolean array; HlX : boolean returns nothing va : boolean; chillax end main : F : boolean array; input u[(3) / (92) / K - (0060) * true and 9 or true and 333]; pop; while(54) and 533 > - 7 - 1 : chillax end; while - 9 >= 2320 : let yU = 5 end; let n[36900] = 1 end

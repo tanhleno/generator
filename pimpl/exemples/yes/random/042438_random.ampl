@@ -1,0 +1,1 @@
+program kx : b : takes u : boolean array returns integer array chillax end f : takes aL : boolean array; Pn3 : boolean returns integer array chillax end main : w6Ca, PNr : boolean array; CIF0, c, Mh, fZ : integer; chillax end

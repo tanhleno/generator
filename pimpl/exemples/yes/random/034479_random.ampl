@@ -1,0 +1,1 @@
+program X3g : Q : takes D : boolean; t, y63a : boolean array; R : integer array returns nothing pop 9 - 08 < 17 end g : takes i6d : boolean array; w, j5 : integer; A : integer array returns nothing W : boolean; k : boolean array; a, f : boolean; I : boolean; h : boolean; chillax end Q : takes j : integer; r1m0a, r : boolean array returns nothing pop end main : input Z end

@@ -1,0 +1,1 @@
+program M570 : B : takes _, i, B200, oBs0, J : integer array; k : integer array; hLh : boolean returns nothing chillax end H : takes Y : boolean array returns nothing chillax end v : takes GH, Mh8 : integer array returns boolean chillax end main : o, L, v, L, H, E : integer array; f, p0 : integer array; T56 : boolean; chillax end

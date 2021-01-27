@@ -1,0 +1,1 @@
+program L : mx : takes hG : integer; l : boolean; j, G : integer; o : integer returns boolean chillax end D : takes edoa, C, Fc2 : boolean array returns nothing output 83 . 96 . "" . ""; when case 83900 = 9 : output "" end case 38 : pop end otherwise : chillax end; pop end main : W : boolean; chillax end

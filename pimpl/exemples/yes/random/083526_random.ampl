@@ -1,0 +1,1 @@
+program Fg : main : l : integer; y, h : boolean; R5, f : integer; when case - true /= 491 : chillax end otherwise : chillax end; input H[- 72]; let f = 6 - 868 >= 10; when case - 8 - 2 : when case 2990 : chillax end end case 0 : chillax end end

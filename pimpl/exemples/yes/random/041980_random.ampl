@@ -1,0 +1,1 @@
+program DUI0a : S2saa : takes _ : boolean array returns boolean chillax end t : takes qv : integer returns nothing while - 82 : input qx70 end; pop 956; input Z end main : while a1b0a[0] rem false - true rem X0 - false - 8 : chillax end end

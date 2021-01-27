@@ -1,0 +1,1 @@
+program l13 : BLfaa : takes q9P0, t0 : integer array; v, Ip, o, lo, Y : integer array returns boolean pop 93 <= 4 end main : sZZa : integer; L, _y, ZO00 : boolean; while - Dd(6, 0) rem false rem cbD and 523 : chillax end; input l[not true / 2500 and 9 + false and 6 or 16] end

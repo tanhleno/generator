@@ -1,0 +1,1 @@
+program B4M : V7 : takes d : boolean array; p8U0, x : integer; t3 : boolean; wad, P77 : boolean array; q, o5 : boolean array returns boolean K, p6c, HK : boolean array; chillax end iE : takes S, I, a : boolean; aq3aa, h : integer array; d06 : boolean array returns boolean chillax end main : output 4; let X0 = true end

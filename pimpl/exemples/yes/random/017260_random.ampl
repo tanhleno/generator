@@ -1,0 +1,1 @@
+program cV : t : takes i, OM : boolean; k5, C85a : boolean array returns integer chillax end nW2a : takes C : integer returns nothing output "" end lmN0a : takes j1f0, q, w3a : boolean returns nothing T0 : boolean array; K1, P1e : boolean; let zo5[8990] = 6980; while 87 : chillax end end main : chillax end

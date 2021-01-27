@@ -1,0 +1,1 @@
+program RG : R04a : takes s4, Wf : integer returns integer Y : integer array; T : boolean array; nf4, e : boolean; _ : boolean; while - not 38 and 03 + 24 - 5 : let v6W = 0; when case 65900 : chillax end end; while 1 - 53 /= 574 : chillax end; output 0 end main : K : boolean array; rXB0a : boolean array; b : integer; Zy : boolean; chillax end

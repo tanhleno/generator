@@ -1,0 +1,1 @@
+program c : D6 : takes d1J0a, Z : boolean; g : boolean array returns boolean K, uEa, Q, r0, x : boolean array; let W[true and 50] = - 3 - 9 >= 1; while - 9 - 8 : chillax end; pop end H : takes f : integer; W : boolean array returns nothing let Y = 6 = 5 end main : pop - true * not 9 and 41 or true - 2 - 9 < q6W0a and 6 - 6 end

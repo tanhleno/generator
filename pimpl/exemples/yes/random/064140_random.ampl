@@ -1,0 +1,1 @@
+program nIBaa : S : takes x : integer returns nothing do T30a(not 8 < - 0 - 910, 72 - 6, 2); do rM(30700 <= 41, 1); when case 4 : output "" end case 8 : chillax end case 17500 : chillax end end main : chillax end

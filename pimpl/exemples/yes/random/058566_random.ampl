@@ -1,0 +1,1 @@
+program G67 : e : takes Is : integer array returns boolean while not 1 <= 37 : output "{" end; while - 1 - 49 : chillax end; when case 63 : when case 6 : chillax end end case 38 : chillax end; let Ox[41] = array 6; pop end main : let y[not true / 7] = not n and(79) and 8 - false or 67 - 5; output - true < - 3 - 2 end

@@ -1,0 +1,1 @@
+program d7 : F : takes V, v_t, N8, A : boolean; v, Y, d, K, D : integer array returns boolean array chillax end main : Rb, k, z0 : integer; kNm, p, k : integer; xV : boolean; V : boolean; it : integer; chillax end

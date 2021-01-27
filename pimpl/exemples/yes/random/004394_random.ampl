@@ -1,0 +1,1 @@
+program egL0 : D : takes U, KE, t, kr60 : boolean; qL, z : integer; j2, L4_aa, F : boolean array returns nothing when case - false and 5 - 9 = - 8 : input E[874] end otherwise : chillax end end main : chillax end

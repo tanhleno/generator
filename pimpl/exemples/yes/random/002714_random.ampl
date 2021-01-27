@@ -1,0 +1,1 @@
+program V : Ld : takes Hq, F, WtH0, Cc, y : boolean array returns integer array when case 5 - 05 - 32400 : input l3[4] end end CTFaa : takes h, oe, p : boolean; i, L, W : boolean returns nothing chillax end main : j : boolean; v, S : boolean array; chillax end

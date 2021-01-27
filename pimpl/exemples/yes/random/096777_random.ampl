@@ -1,0 +1,1 @@
+program a : main : when case false / 2 + true * Y and 7 - false and 4 < - (9) + not 6 + 2 : chillax end case - (5) or uR and 42 < 1 and 390 : input b; let sg = array 5; do K(6) end case - 663 and 1 : output ""; do O(2) end end

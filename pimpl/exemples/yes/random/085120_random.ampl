@@ -1,0 +1,1 @@
+program V : main : M8 : integer; when case - (4600) = - not false or true and 9 - 19800 - 1270 : chillax end otherwise : while 81 = 71 : chillax end; input f6h end; do U(- hj[24] * 8280 or not 97 and 63600, 51 and 0 < 895, - 6); when case(5) : pop 32; do GZ8(5); when case 1 : chillax end; pop end otherwise : chillax end; pop 945 end

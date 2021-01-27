@@ -1,0 +1,1 @@
+program H2 : main : Y, CM6 : integer array; C3 : boolean array; Y2 : boolean array; output - (44) < - 9 + 185; while - 5 * (3) + (940) and 67 : chillax end; pop 98 - 6 <= 85; while 8 - 233 : input Z end; input MD end

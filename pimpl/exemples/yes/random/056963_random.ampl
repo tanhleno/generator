@@ -1,0 +1,1 @@
+program e : a8kaa : takes x : integer array; a : integer array; G : boolean array returns boolean array r, WQ, A : integer array; C0f, Xx2 : boolean array; S5, Uj, H5 : boolean array; chillax end main : when case false * false rem 7 and 5 : chillax end end

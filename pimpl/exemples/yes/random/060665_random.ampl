@@ -1,0 +1,1 @@
+program Ll5a : R : takes L : integer array returns nothing v, Peq0 : integer array; c : boolean; chillax end I : takes w, t, b : boolean returns boolean array l75, Q : boolean array; pop end main : z : integer; Z03a : boolean array; Wq3, pU, o, _5o0a, d : boolean; a60aa : integer; output not true / false end

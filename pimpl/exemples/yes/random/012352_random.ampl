@@ -1,0 +1,1 @@
+program sG : of : takes a7W0, Ju1, b : boolean returns nothing H8 : boolean array; while - false and 74500 : chillax end; let P = array - 1 - 8; do N(1980, 596, 4); pop 1; while 5 : chillax end end main : C, x, t : integer; while - true or pAY(7) - not 32 = false : chillax end; do K(- (5) - true or 57 <= - (55) and 8); while not 7 = 3 : chillax end end

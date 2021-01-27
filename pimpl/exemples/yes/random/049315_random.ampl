@@ -1,0 +1,1 @@
+program B170 : o : takes p : integer; H6, S_, m, D, A4ia, D : boolean array returns nothing A1 : integer; while - true : chillax end; let mxb[6] = array - 583 - 6; when case 7 : chillax end case 0 : pop end end a : takes v, H5 : boolean array returns nothing I8, R65aa, qS : boolean; f : boolean array; input k3[48] end main : F770a : boolean array; output "H5aa" end

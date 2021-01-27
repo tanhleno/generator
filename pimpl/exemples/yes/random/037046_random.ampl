@@ -1,0 +1,1 @@
+program r2 : f : takes n83 : boolean; ep : integer array returns nothing chillax end Q : takes h : integer; r, m2 : boolean array; p : integer array returns nothing chillax end main : d2 : integer array; J, c, FH, EYHaa, e5i, bvwaa : integer array; tR : boolean; when case 8 and(4) or true or 0 and 7 : chillax end end

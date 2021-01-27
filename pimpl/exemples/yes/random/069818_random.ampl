@@ -1,0 +1,1 @@
+program X6d0 : main : l66a, w, u, t : boolean array; G, BK8 : boolean array; pop; do Z8(- 7 and 23 and 0 + not 04 - 28600 - 104); when case - 7 or 7 : let I8C = 7 end case 9810 - 5 > 63 : chillax end case 9 : chillax end; let O = array - 2; while 9 = 90 : chillax end end

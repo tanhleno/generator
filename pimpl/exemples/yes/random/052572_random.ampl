@@ -1,0 +1,1 @@
+program Nb : ot5 : takes K : integer; D : integer; pt2 : integer array; yD0 : integer returns nothing Y, p3 : integer; c83aa : integer; let MJ4[- not 2] = 1 /= 3; while 88 : when case 57 : chillax end end end main : pop(1) / false and 309 >= - false + 6 end

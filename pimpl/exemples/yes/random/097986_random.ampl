@@ -1,0 +1,1 @@
+program R1 : main : while - (040) and(3) <= - d340[49800] - false or 61 : pop 7; let c8 = 25000 end; output true and 6; while 84500 and 68 : do y(7630); when case 59100 : chillax end; do L3(591) end end

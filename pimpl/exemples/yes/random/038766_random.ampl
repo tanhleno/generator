@@ -1,0 +1,1 @@
+program Ow : g850 : takes A : boolean array; FT, z0 : boolean array returns integer chillax end C : takes G : boolean; Zh, _ : integer array; D, H, K, s : integer returns nothing r0, on, o9P, A_ : boolean; i : boolean array; j, X : boolean; chillax end main : chillax end

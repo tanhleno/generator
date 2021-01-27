@@ -1,0 +1,1 @@
+program g2 : Q0 : takes R5 : boolean; I0 : integer array; Y8 : boolean array; F : boolean; R, X : integer array returns nothing I : integer array; let yo[not 3720] = 7 < 3; do J(- 51 /= 40000, 3 = 83, 8) end main : chillax end

@@ -1,0 +1,1 @@
+program d80a : C : takes P7aaa, g, y8waa, AqF, Hs7, vN, B : integer; i8, T, u : boolean; I, q, FY : boolean; S : boolean array; h3, c : integer array returns nothing do h(j67 and 96 - 95); pop 6; let T[4] = 3; input y6; while 4 : chillax end end main : chillax end

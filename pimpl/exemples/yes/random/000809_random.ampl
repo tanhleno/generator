@@ -1,0 +1,1 @@
+program FAD0a : T : takes f2, K8S, Z, u, Z7daa, k29a, s : boolean returns nothing when case true : output "" . ""; do Q(68) end case 30200 - 06 = 0 : pop; input S; pop end otherwise : chillax end; while - 33 - 4 = 33 : chillax end end main : chillax end

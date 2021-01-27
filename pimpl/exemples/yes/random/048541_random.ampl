@@ -1,0 +1,1 @@
+program X00 : K7 : takes Et : boolean returns nothing sj7aa : boolean array; L : integer array; t : integer; P, rU : boolean; z7 : boolean; E0y0 : boolean; pop - 05 end aB : takes v57aa : integer; q : integer; v : integer array; o, W7 : integer returns nothing chillax end g7L : takes Y : boolean returns nothing chillax end main : chillax end

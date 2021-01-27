@@ -1,0 +1,1 @@
+program J : Az : takes nlW0a, j5, xIT : boolean returns integer array chillax end H : takes j : integer array; H2, vd6, E, C : integer returns integer chillax end main : wJ80a, LI6 : boolean array; Pxfaa, O1, t7, N, L : integer array; while false : chillax end; pop T and 4 + 71 - 22 = 893; input q end

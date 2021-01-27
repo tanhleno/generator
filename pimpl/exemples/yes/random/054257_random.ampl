@@ -1,0 +1,1 @@
+program B : A : takes j0 : integer array; v2, Cnd, G : integer array returns boolean Y83 : integer array; do I(- 8500 and 9 >= - 5 - 75); input i; pop 137; input Va; when case 7 : chillax end end main : chillax end

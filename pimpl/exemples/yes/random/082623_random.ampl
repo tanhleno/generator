@@ -1,0 +1,1 @@
+program g4 : main : vB : boolean array; pop not 493; let o2[true rem 632 and 5 or false] = true and 06700 or 764 - 3 /= - 7; while e7 <= - 810 - 848 : when case 3 : chillax end; input D; let uLra = 5 end; output "'80a" . "\ta" end

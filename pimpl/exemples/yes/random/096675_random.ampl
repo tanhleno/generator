@@ -1,0 +1,1 @@
+program Y3f : main : when case - true or z[3300] and false and 1 <= L3 : while 87 - 0 : chillax end; let f19a[86] = 842 end otherwise : pop 4; output 1 . ""; when case 870 : chillax end; when case 1 : chillax end end; output false + 8 - 1160 < - 48 - 0 end

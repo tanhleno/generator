@@ -1,0 +1,1 @@
+program SZ6 : VZh0 : takes cwN, P, O1, A59a : integer array returns integer do U1(- false, - 3 - 9 < 07) end main : h8y, b : integer; t600 : boolean array; q6, hW7, w : boolean array; mm3a : boolean array; input N; do U6(91 rem d180a + not 241 + 57 >= false, - true = - 213) end

@@ -1,0 +1,1 @@
+program m : ry5 : takes k3 : integer returns nothing a1 : boolean array; let Q[true - 3] = array - (54); input g end Do : takes LK8, Y0, L : integer array returns nothing input U; when case 07 : chillax end otherwise : pop end end main : G, td10, z9 : integer array; chillax end

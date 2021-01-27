@@ -1,0 +1,1 @@
+program EiO : O4qaa : takes F2Faa : boolean array; _ : boolean array returns integer output - 257 . 2 end GIU : takes n7 : boolean returns nothing w80, I : boolean; a, _, T5 : boolean array; U, P : boolean; input C68[1 - 1] end main : M2O : boolean array; E0o : integer array; vG7 : integer; chillax end

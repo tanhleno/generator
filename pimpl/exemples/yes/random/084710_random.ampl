@@ -1,0 +1,1 @@
+program g : main : Z050a : integer; let h = - G[1] = not 6 and 7 or 62 - 17; do Me(not not 75 and(30) or y and 3 <= false and 6 - 20000, - false + 23100 = 55, - 5 /= 991); do l02aa(- (88) and 79 + 1, 2) end

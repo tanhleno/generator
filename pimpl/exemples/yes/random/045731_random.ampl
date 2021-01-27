@@ -1,0 +1,1 @@
+program x : W : takes J : boolean returns boolean array K1d : integer; h : integer array; g1, oJ7 : boolean array; while 31 or 824 - 4 >= 9 : chillax end; when case - 7 >= 88700 : while 708 : chillax end; while 3 : chillax end; pop end case 7 : pop end otherwise : chillax end end main : chillax end

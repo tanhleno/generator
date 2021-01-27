@@ -1,0 +1,1 @@
+program T11 : main : g8, B8 : boolean array; when case 6 rem G9 and 6 - true / not 846 : when case 3 : chillax end case 47 : let J = 3 end case 5 : chillax end otherwise : when case 0 : chillax end; pop end; while 23 : chillax end end otherwise : chillax end end

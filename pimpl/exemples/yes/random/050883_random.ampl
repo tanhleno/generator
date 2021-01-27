@@ -1,0 +1,1 @@
+program x5 : l : takes k : integer; g, YB : integer; a : boolean array; x3 : boolean array; p : integer array returns nothing when case - 20 and 4 : output 7 . "}"; do n(98); when case 5 : chillax end; pop end end main : chillax end

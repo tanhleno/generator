@@ -1,0 +1,1 @@
+program Va60 : q : takes l : integer array; D3l : boolean returns boolean array Y, G, m : integer array; chillax end yW30 : takes Sc, HcDaa : boolean array returns integer chillax end main : chillax end

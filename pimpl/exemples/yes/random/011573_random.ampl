@@ -1,0 +1,1 @@
+program b9 : p0 : takes q, a, iS : boolean returns boolean array O03aa, kR, F : boolean; X, S8, S, E : boolean; chillax end main : do rM(- true or K[1] and false and 43 /= (2) and K, - true / q1 and 17 /= - true and 257, - false or 84 - 7 >= 590 - 9) end

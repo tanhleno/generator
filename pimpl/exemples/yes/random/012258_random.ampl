@@ -1,0 +1,1 @@
+program f : xM_aa : takes E, Z, s1yaa : boolean returns nothing _b4, Jo : boolean array; output "5\"\""; while - 69 - 302 : chillax end; do wm1(47300 = 42, 5) end A : takes n98 : boolean returns nothing when case - 87500 - 1 >= 0 : input z3H end case 9 = 967 : chillax end case 54 : pop end otherwise : while 6490 : chillax end end end main : chillax end

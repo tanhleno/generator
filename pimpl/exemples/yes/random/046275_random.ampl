@@ -1,0 +1,1 @@
+program F19a : b0 : takes e : boolean returns boolean d : integer array; y, L4n, t69a, e : integer; do A8H(84 and 8 - 1790 - 4 <= - 54 - 44); pop; when case 8 : chillax end otherwise : pop end end main : o : integer; while false : chillax end end

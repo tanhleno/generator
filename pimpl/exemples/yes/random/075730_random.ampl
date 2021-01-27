@@ -1,0 +1,1 @@
+program i980a : main : AZ, z : boolean array; while - true rem Q[8] * true or not false rem true : while 45 - 2 <= 04 : chillax end; let ap = 7; while 1570 : pop end; input T38 end; input M; output "\tt0" end

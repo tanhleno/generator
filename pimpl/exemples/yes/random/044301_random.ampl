@@ -1,0 +1,1 @@
+program N : c : takes uO7aa : boolean array returns nothing R, L2 : integer; do JL(0 and 38 /= - 5080, 211 - 755 > 18, 83) end U : takes ZqZaa, tgK0, E : integer array; n, AQB0a, Q, r2ta, SO80a : boolean returns integer l, N : boolean; kjc, w16 : integer; output "z" end main : o9k : integer array; chillax end

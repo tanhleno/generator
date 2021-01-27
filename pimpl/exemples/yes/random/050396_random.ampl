@@ -1,0 +1,1 @@
+program Q4 : p7d : takes Ks8 : integer; D, n : boolean; z : boolean returns nothing aK20, h, a2m : boolean array; lBJ : boolean; T08, x, S : integer; chillax end main : pop false > not 53 or 581 - 1 end

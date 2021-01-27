@@ -1,0 +1,1 @@
+program E : u52 : takes p, _0, e : boolean returns integer when case false and 57 - 45 : input i2[331]; while 3 : chillax end end; do GZvaa(56 - 9 > 31, 0) end s0Jaa : takes a : boolean; L3 : boolean; m : integer array returns boolean let z49aa = array 77 - 1 end main : chillax end

@@ -1,0 +1,1 @@
+program IeOa : d : takes tv7 : integer returns nothing J, _s, gA7, F : integer; uB40a : integer; yt, pd2 : integer; ChT0, j : boolean; Z : boolean; chillax end U : takes u : integer array returns nothing A, H6 : integer array; chillax end main : bp : boolean; T : integer; while - (2) or true * (71) and 9 : chillax end end

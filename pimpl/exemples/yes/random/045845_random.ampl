@@ -1,0 +1,1 @@
+program I4Q : xh : takes u : boolean returns boolean array pop 72 <= 0; do b(- 25 - 23 /= 2, 3120 = 022) end main : IC : integer array; V1l, qW1 : integer array; s5V : boolean; pop; pop; when case - true - 2 - 8 : input G7H end otherwise : let u1 = 2 end; pop end

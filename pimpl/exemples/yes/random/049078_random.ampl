@@ -1,0 +1,1 @@
+program m : Ho : takes LOe0 : boolean returns nothing pop 89 - 9; while - 4 - 05 = 7 : do lVi(5); input O; pop end; while 7 = 5 : chillax end; pop 11; let _58aa = 46; while 2 : chillax end end main : q9 : integer array; L : integer array; s, A : integer; while not(1) : chillax end end

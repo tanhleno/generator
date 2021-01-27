@@ -1,0 +1,1 @@
+program QpL0 : _u : takes r90aa : boolean returns nothing chillax end t : takes H : integer array; j : boolean array; P7 : boolean array; Y : integer; f8, S0, p : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program F : z : takes Z, r, r : integer array returns boolean let H = 75; output 04 = 3110 . "" . "2" . "0\t0"; pop 2040; while 93 : chillax end; pop; while 95 : chillax end; pop end main : V8Aaa : integer; _ : boolean; chillax end

@@ -1,0 +1,1 @@
+program M : main : do f1xa(- false + false <= p6 * not 19); let b = array a4 / 57 - true or 0320 - 90; do Z60(true or 6 - 3); while - 4 - 2 : do qic(376) end; do p(04); output "" . "\""; pop; do OC(951); pop end

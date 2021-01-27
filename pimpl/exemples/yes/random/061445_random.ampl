@@ -1,0 +1,1 @@
+program I : _ : takes w : integer array returns nothing pop - 19 - 2 end Xj : takes E, J, i, T, B : boolean; xbya : boolean; tt : boolean array; cA : integer array; k9 : integer returns nothing chillax end main : chillax end

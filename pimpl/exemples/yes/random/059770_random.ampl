@@ -1,0 +1,1 @@
+program sY : zN : takes Sm : integer array returns nothing chillax end R4 : takes L1 : boolean; k1D, d, m, H930, N6 : boolean returns boolean array m : integer; while - 53 <= 57700 : let S = 3 end; pop end main : chillax end

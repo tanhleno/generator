@@ -1,0 +1,1 @@
+program e8 : b : takes A, j : boolean array returns nothing do h(false or 76) end main : pop - (1) = - P; while - false rem not 79 + false + 84 - 4 : chillax end; when case not 2 and 276 : chillax end otherwise : when case 1 : chillax end; output "" end end

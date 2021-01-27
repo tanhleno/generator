@@ -1,0 +1,1 @@
+program j9L0 : main : KJ80 : boolean; BE : boolean array; while not true - not h + 1260 - 62100 - 1 > true : when case - 3 - 2780 : chillax end case 6 = 6 : let Ri = 4; pop end case 63 : chillax end otherwise : chillax end end end

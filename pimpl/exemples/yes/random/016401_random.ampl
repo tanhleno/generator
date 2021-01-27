@@ -1,0 +1,1 @@
+program v : Skuaa : takes t, E, J : integer returns nothing aeE : boolean; chillax end g : takes h, _, X5a : boolean array; ao2, i : integer; M : integer returns boolean output "" end T : takes R, e : integer array returns boolean when case 66 : chillax end end main : p : boolean array; B8n, wwT0 : boolean; _i, f9Caa, _h1, E5, U : integer; F : boolean array; chillax end

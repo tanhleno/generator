@@ -1,0 +1,1 @@
+program rP : p : takes o4, M, ga : boolean; c3 : integer returns nothing input WHm[F and 22] end main : M7U, sC : boolean array; output "8"; pop(0) and 4; when case not 1 and 68 = - 5 - 2 : chillax end case 4 <= 93 : input Y; output "d>a" end otherwise : chillax end; input a; output 6 . "" end

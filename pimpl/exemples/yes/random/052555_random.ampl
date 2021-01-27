@@ -1,0 +1,1 @@
+program RE1 : q500a : takes A : integer; OJ : integer; P : integer; d, hp20a : integer array returns boolean array G0, f, W, z, Asi : integer array; output "\""; output 8 end L : takes X, VB : boolean array; a3i : integer returns boolean output 9410 = 7 . "" . ""; when case 2 : chillax end; pop end main : g0 : integer array; s, a : boolean array; chillax end

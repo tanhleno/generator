@@ -1,0 +1,1 @@
+program f : D : takes S : integer; y77 : integer returns boolean do omH(false or 33200 - 76 = - 96, 2 - 2); do n6(13 - 9 >= 37900, 7, 0); do D(4, 0, 9) end main : X8J0, Y, B5 : boolean array; a4 : boolean array; while - 4 rem false * (8) and 12 : do T(- 6 - 4, 1); while 72300 = 0280 : while 8 : chillax end end; pop 50 end end

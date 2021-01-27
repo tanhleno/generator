@@ -1,0 +1,1 @@
+program Ey : WH2a : takes o : integer returns boolean array w, b6raa : integer; chillax end t : takes _ : integer array; Prw0 : boolean array returns nothing i, v2, h : boolean; chillax end main : Jsa0, Y : boolean array; output true * false and 22 . "" end

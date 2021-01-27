@@ -1,0 +1,1 @@
+program q : w9 : takes H0 : integer array; b, B6oaa, M, E1F : boolean returns nothing d : integer; L, f : boolean; do C(- true > - 7 - 8, - 10, 80800 = 5); while - 69 - 9080 /= 73300 : chillax end; do m(52100 = 05700); when case 68 : chillax end; pop; when case 4 : chillax end end main : U : integer array; Fp : integer array; bG : integer; W9s : integer array; chillax end

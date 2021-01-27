@@ -1,0 +1,1 @@
+program u : main : I2 : integer; B3z : boolean array; Lo, k : integer; a, B2S, P5, s : boolean array; m, J1, mW : integer array; B : boolean; _5V : boolean; F : boolean; do G7(1 + xi(60) rem false > - false or true and 7) end

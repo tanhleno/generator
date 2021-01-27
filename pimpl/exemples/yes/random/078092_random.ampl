@@ -1,0 +1,1 @@
+program L : main : K, pP : integer array; when case - not true - (9) * false : while 14300 - 3 : chillax end end otherwise : chillax end; while 5 rem not 8 and 36 : do BF(962, 828); do C(1); when case 2 : chillax end end; do a(- not 0 + 5 > - 3); do H(- 1 - 5); output 7; while 9870 : pop end; do K(00) end

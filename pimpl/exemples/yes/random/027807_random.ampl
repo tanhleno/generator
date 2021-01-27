@@ -1,0 +1,1 @@
+program K4n : pz : takes J89aa, w0 : integer array; M8a0a, U7 : boolean returns nothing do _y(nL and 65 - 59 - 99, 035, 25 = 1); let Wl = array - 1 - 24 end main : when case - K(79, 9) : chillax end case(09) rem 3 >= - (3) and 7 : output 0 . 39 . ""; while 558 : pop end end; do M(n[65] * xj and 0 <= - false and 5); pop end

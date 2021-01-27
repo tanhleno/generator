@@ -1,0 +1,1 @@
+program S : a : takes ba, i : integer array returns nothing T, L, x2, N7, d7 : boolean array; bR3aa, m : integer; chillax end R : takes z8, u : boolean returns nothing TQ, VIb, f : boolean array; qPv : integer; chillax end main : C4X, Y, t : boolean array; x : boolean; pop - O300(2) + not 5 or 9 end

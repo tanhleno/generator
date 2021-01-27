@@ -1,0 +1,1 @@
+program F4 : main : ar : integer array; dS, E, R : boolean array; m : integer; D1 : integer; a, d, vEA : integer; m1, b : boolean; IY1a : boolean; q7 : boolean; output - 2 / true and 83 < false and 8 - 18 - 94 end

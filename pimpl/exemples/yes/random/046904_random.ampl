@@ -1,0 +1,1 @@
+program oA : MN : takes T : boolean returns integer chillax end AG : takes H, m20 : boolean; nt : integer array; H : boolean returns nothing L2oaa : boolean array; Nzn, du60a, t : boolean; u : boolean; let I[37] = array 997 - 23 end f : takes I : integer array returns nothing chillax end main : chillax end

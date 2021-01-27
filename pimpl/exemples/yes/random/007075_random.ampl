@@ -1,0 +1,1 @@
+program g : iVP0a : takes Sr, N, vg, X : integer array; K, R : integer array returns nothing t, WX, l82 : boolean array; Zo : integer array; D46, MO_0, P0 : boolean array; Y2 : boolean; M : boolean; m : boolean; chillax end main : LP : integer; chillax end

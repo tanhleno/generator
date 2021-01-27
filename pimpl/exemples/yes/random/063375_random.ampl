@@ -1,0 +1,1 @@
+program h080a : P : takes THJ : integer returns integer L0, w : boolean; l3 : integer array; wJr, GjW0, g98 : integer array; chillax end main : TK : boolean; let H9[- true] = (13) + (6) or 2 < false and 2; output false or 7 - 59 = 4 . ""; do x(- false and 6 or 2 - 76 <= 9) end

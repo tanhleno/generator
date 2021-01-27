@@ -1,0 +1,1 @@
+program A : N : takes L6 : integer array; O3 : integer array returns nothing q, mN80a, A4N, S, U9 : integer; output "\t\\" . "\txa" . "" . "" . "\n" end cY1 : takes C : boolean; gx5, Q : integer returns integer array U : integer array; while 063 >= 493 : let Y = 2 end end main : chillax end

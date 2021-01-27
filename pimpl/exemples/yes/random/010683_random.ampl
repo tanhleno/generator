@@ -1,0 +1,1 @@
+program y55 : B : takes zLh0, E, W : boolean array returns boolean B, e, tp : boolean array; output 42; let Z80[6 - 21] = 480; output "\\" . "E" end G : takes Fs : integer array; T, u_ : integer array returns nothing chillax end main : mb : integer array; t : boolean; chillax end

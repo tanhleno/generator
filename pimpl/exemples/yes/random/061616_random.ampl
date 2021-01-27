@@ -1,0 +1,1 @@
+program F2d : l : takes bT90 : integer array returns nothing while - false : while 0 : chillax end end; input o5[73 - 6] end main : ydN, q7sa : integer array; while - (0 = 1220) and false < - A(87) : pop 943 = 0 end end

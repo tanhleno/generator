@@ -1,0 +1,1 @@
+program J1 : _ : takes Z1F, H, U380a, d : boolean; nz, mwua, Si5a, h, J, Gn : boolean array returns nothing when case not 10 and 8 /= 778 : do k(91900, 8); pop end otherwise : pop end; output ""; when case 093 : chillax end otherwise : pop end end main : Cl3 : boolean; chillax end

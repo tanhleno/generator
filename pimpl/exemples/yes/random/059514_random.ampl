@@ -1,0 +1,1 @@
+program f_b : yC : takes Q : integer array returns integer input d[true and 9 - 72 - 49300] end S : takes p, W, ju2, r, BG, t89, O : boolean; C9 : boolean returns nothing chillax end hV7a : takes a, Ud : integer array; d : integer array returns boolean chillax end main : iF : boolean array; chillax end

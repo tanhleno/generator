@@ -1,0 +1,1 @@
+program H : O : takes p_10a : boolean returns nothing BN : integer; chillax end r : takes w1qa : integer array; U, A : boolean returns nothing chillax end main : output ""; when case - (4) and(0) or(4) : when case 26 : chillax end case 254 : chillax end otherwise : chillax end; pop end; pop 7680 - 5 /= 535 end

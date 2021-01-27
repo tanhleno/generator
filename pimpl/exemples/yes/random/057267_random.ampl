@@ -1,0 +1,1 @@
+program l : qKM : takes D : integer array; s : integer array returns nothing rXV : boolean; while - UV : input k[9] end; when case - 66 - 2 : while 48 : chillax end; input QQ9a; pop end case 0 : while 048 : chillax end end case 4 : pop end case 49 : chillax end otherwise : when case 69 : chillax end end; while 089 = 9 : chillax end end main : chillax end

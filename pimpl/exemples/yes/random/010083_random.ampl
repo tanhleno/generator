@@ -1,0 +1,1 @@
+program cj : eVha : takes u, E0, W : boolean array; T : boolean array; j : boolean array returns nothing output "P#aa" . 3 = 1 . ""; let g38 = array 0 - 1 end Y2 : takes JI3a, UA60, P : boolean returns nothing ne, iU : boolean array; zQ, yW : integer; G : boolean; Xy : boolean; chillax end main : chillax end

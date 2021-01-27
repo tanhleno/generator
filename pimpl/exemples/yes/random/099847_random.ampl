@@ -1,0 +1,1 @@
+program SY : main : while true - IO[058] / true and 032 <= - (33) * (5) + (516) : while 51 : input S end; when case 2 = 0 : when case 520 : chillax end; pop end case 6 : chillax end otherwise : chillax end; input D end end

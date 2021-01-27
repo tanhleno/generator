@@ -1,0 +1,1 @@
+program sD : i : takes j, lOm, J, cV, H : integer returns nothing while - G1 or 8 - 68400 >= - 7 : chillax end; do m(5); while 883 : chillax end end main : d5, n, E : boolean array; output true . - true and 45 or 7 - 2 . "{" end

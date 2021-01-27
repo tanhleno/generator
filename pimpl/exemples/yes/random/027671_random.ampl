@@ -1,0 +1,1 @@
+program GQt : k : takes y820a, Q : integer array; W1X, D76 : boolean array; e : boolean array; vC5aa : boolean returns nothing M, C1T : integer; chillax end main : Z, Tk, n, R, h4, x2, y : boolean; z, kA : boolean; while - 614 = 9 - vw and 76500 + 3 - 98200 : chillax end; input E3F end

@@ -1,0 +1,1 @@
+program xv : k : takes m59a, RyK, J : boolean array; k220a : boolean array returns nothing let p = - 7 - 9 > 67 end main : C : integer; while - true rem dmsa[571] and true = - not 0 rem(11) and 2 + not 941 and 6 or 5 : chillax end; when case - true rem false > E9 and 717 : chillax end end

@@ -1,0 +1,1 @@
+program B : NX : takes m0 : integer returns nothing Y, f, B, z9, A4caa : boolean; pop; input i[- 5040]; while 20 : chillax end end A420 : takes Q : integer; _ : integer array; kh9a : integer array; R, p : integer; N76aa, o3ea : integer array returns boolean while - 4 - 3 < 16 : pop end; while 87300 : input F2 end; input gA[6] end main : chillax end

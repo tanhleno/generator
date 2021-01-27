@@ -1,0 +1,1 @@
+program D : J1R : takes L22, p : boolean; ve : boolean array; m, dTu : boolean array returns nothing xR1 : boolean; let jR[- not 9 or 7] = array - y2 and 0; pop end J : takes c, j, M, onS : integer; _, l7aaa, wUQ : integer returns nothing chillax end a : takes Kw, gJ : integer array; R57, C, it2a : integer array returns boolean array chillax end main : chillax end

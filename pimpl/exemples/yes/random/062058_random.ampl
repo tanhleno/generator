@@ -1,0 +1,1 @@
+program U : p2 : takes t : integer returns boolean array input L[- GVNa and 98 + 3]; input hYe0[- 5470] end O6e : takes O : boolean returns nothing T, m, L1 : integer; v, T8 : integer array; pop 7 end Y : takes Y : boolean array; r4u0 : integer array; w, v31 : boolean returns integer array chillax end Tt : takes E1 : boolean returns nothing output 1 . "" end main : chillax end

@@ -1,0 +1,1 @@
+program L : main : x, jK70a : integer array; when case - not false rem o7r + 2 : when case - 9 - 2 : do cW(00900); let x = 611 end end case(9) : input k[3] end case(12) + 64900 - 2 : chillax end; do k51(false); when case not 53 <= - 139 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program R : U : takes xbG0, b : integer returns integer array Ww, C : boolean array; let gL50a = array - not 4 end main : mo0 : integer array; pop; let I = - not 6 > - 058 - 232; input BP[- (7) or 94]; let dR80a[2] = 07; when case 0 = 9 : pop end otherwise : pop end; input mN[0]; while 22800 : chillax end end

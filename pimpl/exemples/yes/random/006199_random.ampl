@@ -1,0 +1,1 @@
+program f7 : g : takes m, G, u, AV9a : boolean returns nothing R : boolean; m : boolean array; X : boolean; output 19; when case - 5 - 6 >= 95000 : input d; do f(8) end case 2 = 6 : chillax end case 3 : chillax end case 1 : chillax end end Uz8a : takes m : boolean array returns boolean chillax end main : h : integer; M8, L1, o : boolean array; _ : integer; chillax end

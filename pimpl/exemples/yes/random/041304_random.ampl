@@ -1,0 +1,1 @@
+program e0 : F4a : takes _ : boolean array; O : integer returns integer let e = array 1 and 76 + 6; when case 1 - 334 < 017 : chillax end case 4 : while 27100 : chillax end end otherwise : chillax end; when case 8 : chillax end case 7 : pop end end main : F1H0, Az, y : integer; when case not false >= - not 11 * 7 and 65 : chillax end end

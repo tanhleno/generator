@@ -1,0 +1,1 @@
+program y : z1 : takes T : integer array returns nothing when case - not 6 and 5 - 97500 = - 7 : output ""; do KV(65); when case 2 : chillax end; pop end end dy5 : takes in, a, uH : integer returns integer p, p69a : integer; N, OF : integer array; iQ, B3 : boolean; o : boolean; chillax end main : GB6, r : integer array; h : integer; chillax end

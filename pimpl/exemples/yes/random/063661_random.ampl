@@ -1,0 +1,1 @@
+program NW : g7_ : takes HID0a : integer returns nothing chillax end Y : takes t, M, R : boolean; uK4aa : boolean returns nothing z34aa : boolean array; chillax end main : while(3 = 60) / 2 : chillax end; while - not _ < - false + 1 : chillax end end

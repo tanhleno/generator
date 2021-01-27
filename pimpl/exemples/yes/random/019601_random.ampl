@@ -1,0 +1,1 @@
+program V : XI : takes uK1, BP : boolean array; u, SX4 : integer returns boolean J, dtd : boolean array; M1 : boolean; C, C : integer array; E, Db : boolean; u1 : boolean; chillax end q : takes EJ, F : integer returns boolean X, k, f : integer; Z : integer; chillax end main : pop(8); input Dj[h6(3) / (0)] end

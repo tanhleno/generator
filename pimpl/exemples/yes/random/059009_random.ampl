@@ -1,0 +1,1 @@
+program _5 : S : takes g8 : integer array returns integer array output "@3"; output "p" end i43 : takes _1d : boolean array returns nothing J : integer array; o, G, W : integer; t : boolean; X3c0a : boolean; input v7 end main : chillax end

@@ -1,0 +1,1 @@
+program Uq50 : C2u : takes y, _9 : integer returns nothing input D3[217 and 9]; output 9; input Z end Y : takes Z, D, A, L : boolean array returns nothing chillax end main : g, B : integer array; while - true > - false * false : chillax end; when case - true + true and 4 > - true : do l(615 = 9, 0) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program R290a : c : takes z : boolean returns integer chillax end D : takes Nf4 : integer array; s, o : integer array; p, f8 : boolean array returns nothing P4, s3p, o, N : boolean; when case - 8200 - 902 /= 518 : chillax end case 14 : chillax end end main : output "!" . - not 473 . 0 . ""; while - false - j or 6 - 52 : chillax end end

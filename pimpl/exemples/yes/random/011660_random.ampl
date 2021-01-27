@@ -1,0 +1,1 @@
+program DHC0 : n : takes n9, kD, IwO : boolean returns boolean chillax end S : takes mMl, x98a : boolean; p : boolean array returns boolean I : boolean array; M, I45, M : integer; while - 58900 >= 5 : chillax end end main : x, J : boolean; chillax end

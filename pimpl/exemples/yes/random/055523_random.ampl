@@ -1,0 +1,1 @@
+program e : Z9h : takes P : integer array; z : boolean; B3, M : boolean; r : boolean array returns integer array mU : integer array; U4 : integer; u_i0, O, i34 : integer array; vu : boolean; pop end lz6 : takes b0 : integer returns nothing chillax end main : while - 8 / (1) /= 3 or true : output "]o!" . 1 . 6780 end end

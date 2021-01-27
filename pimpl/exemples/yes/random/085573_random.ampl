@@ -1,0 +1,1 @@
+program N : main : w : integer array; Uh, Gzy, Y, o, h, W : integer; C55 : boolean; let x = array true / not f / true - not not 6 - not 106 and 8; output not 5 and 57 >= - 28700 . "Y" . "3"; output ""; do G(06); do h(05) end

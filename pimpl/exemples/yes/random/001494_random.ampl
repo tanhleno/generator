@@ -1,0 +1,1 @@
+program u3 : C : takes _r60a, Id, X7, F1, f, i4y0a : boolean returns boolean chillax end O7 : takes e0f, _5, i700a : integer; z1 : boolean returns boolean array i : boolean array; D2u : boolean; o : boolean; pop 53 end main : chillax end

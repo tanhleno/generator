@@ -1,0 +1,1 @@
+program v : FO : takes Yq, C, Ch : integer array returns nothing t : boolean; b880a, h76, p520a, o : boolean array; let y = array - 9 and 9 - 6 - 7 end main : let pr = array(16 = 963) - W[255] rem true and 2 end

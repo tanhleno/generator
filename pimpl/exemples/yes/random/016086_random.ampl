@@ -1,0 +1,1 @@
+program R : B3S0a : takes k27, N, ANM : integer returns integer n : boolean array; Q, L7 : integer array; let i1[- (6) and 4120] = 92 - 35400 /= 3; input E[53 - 6]; do QD(93 = 741) end main : k : boolean array; output false - 8 or 34 - 1510; pop end

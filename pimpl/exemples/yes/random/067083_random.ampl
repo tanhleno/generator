@@ -1,0 +1,1 @@
+program _ : main : do w(false rem(7) + false * rS and 37 + false + 1, - false / not 7 and 43 + not 4 < true - 88 - 8000); pop false and 88 + 2 - 0 /= - 3 - 973; pop 8 /= 4; pop 4 = 8; when case 7 = 9770 : input LC; pop end otherwise : chillax end; when case 7 : pop end otherwise : chillax end end

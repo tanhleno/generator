@@ -1,0 +1,1 @@
+program as : tZ : takes _8 : boolean array returns nothing R, _ : integer array; n, y : integer; chillax end main : while - not false / (1) and false and 1 : pop 8 = 535; while 227 : do R9(08) end end end

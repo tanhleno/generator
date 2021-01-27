@@ -1,0 +1,1 @@
+program K9 : main : do y(d(11) + (7) > 025 / f and 1); do Z5(false / not 8 - 4, j and 9 < - 1050, - 7, 6, 546, 270); let Z[(28) and 2 + 5 - 1] = - 41000 - 670 /= 86; do h(- 7 - 35600 <= 0, 98800 = 8) end

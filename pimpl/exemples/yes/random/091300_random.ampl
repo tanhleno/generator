@@ -1,0 +1,1 @@
+program W530 : main : let BL[false] = - (9) - 00 - 5 - 4; pop - 3 or 5 > - 40; when case - (3) + 1 >= 9 : chillax end case 3 : chillax end case 9 : chillax end case 5 : pop end case 10 : chillax end; while - 40 > 2 : let Q = 99 end end

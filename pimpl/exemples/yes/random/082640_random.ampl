@@ -1,0 +1,1 @@
+program u : main : I9 : boolean array; when case(7) + not(6) or(8) and 0 or 87 >= - false rem(8) and 0720 : let O1[772] = 631 = 5 end otherwise : when case 8 = 6 : chillax end case 8 : pop end case 01 : chillax end; let S = array 8; output "\\" end; let H[3980 or false and 609] = array - true rem true + (436) end

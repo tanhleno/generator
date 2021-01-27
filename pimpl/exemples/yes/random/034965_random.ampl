@@ -1,0 +1,1 @@
+program Z : s : takes E50 : boolean; u, k : integer array; nx8a : boolean array returns nothing _ : boolean array; output 0410 - 9 . "" end main : while true <= - v(761) - 1 : chillax end; output "" end

@@ -1,0 +1,1 @@
+program Z1 : vZ : takes F, o, G : boolean; I5, H : integer array; S3 : integer returns nothing E5, k, b : boolean array; D3 : integer array; Od : boolean array; _7, nT : boolean; when case - true : output 19 . "\\"; output ""; pop; pop end otherwise : pop; output "$!aa" end end main : chillax end

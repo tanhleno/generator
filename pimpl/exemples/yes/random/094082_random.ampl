@@ -1,0 +1,1 @@
+program r0 : main : pop - not not 425 and 6120 and 135 + not 98 and 26500 <= - true and 25 + 5; let m = array - 7; when case(3) and 54 + 56 - 16 < - 26 : chillax end case - 19200 >= 4 : chillax end otherwise : chillax end end

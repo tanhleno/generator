@@ -1,0 +1,1 @@
+program Tu3 : W : takes S : boolean array; F37a, l, c : integer returns nothing RSLa : integer array; chillax end U2 : takes B, Q, Q6, D110 : boolean returns nothing do I(26 - 8 /= 5) end main : chillax end

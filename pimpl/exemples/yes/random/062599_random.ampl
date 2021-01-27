@@ -1,0 +1,1 @@
+program n6 : f : takes X2w0 : integer returns boolean let NS = - 2 < 640 end E : takes R9, u7, B : boolean returns boolean array Xt, p7 : boolean; j55aa : integer array; chillax end main : output - (9) / not 2 /= - (167) and 3 . ""; pop - not 698 - 18 <= - 9 end

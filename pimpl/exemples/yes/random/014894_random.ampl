@@ -1,0 +1,1 @@
+program sDt0a : A : takes DM9, qS8a, A1 : integer array returns integer array chillax end d : takes jv : boolean array returns nothing chillax end o : takes N : boolean array returns boolean array O : boolean; Rr, g : boolean; output 182 . "" end main : chillax end

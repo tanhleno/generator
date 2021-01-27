@@ -1,0 +1,1 @@
+program V9 : Y : takes u, u, k, i : boolean returns integer chillax end main : P, qafaa, g, a : boolean; C : boolean; HZ9 : boolean array; g4I, z : integer array; pop - true / 6 and 19; pop; output "<" . 83 . 005 end

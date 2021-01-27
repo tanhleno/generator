@@ -1,0 +1,1 @@
+program V0 : main : I, w4, y, V : integer array; XEt0a : boolean array; when case 54 and not false rem false and 1130 + (5) : chillax end case t(1) > true : chillax end; when case - true + true and 95 - 0530 : chillax end; let A780a = 7 end

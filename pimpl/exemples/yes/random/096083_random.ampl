@@ -1,0 +1,1 @@
+program GZ : main : when case - Y[7] and a8fa * not 9 : let U[10700 - 1] = array 0 - 4; let d = 9 end case 13 and 419 and 2 or true and 15 /= A and 62600 : chillax end case(9) or 6 : chillax end case - 94 - 8 <= 2 : output "`\\" end case 0 = 5 : when case 9 : chillax end end end

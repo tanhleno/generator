@@ -1,0 +1,1 @@
+program L : main : when case - (852 = 27) / gS[5560] <= false - true : while 9 : when case 4 : chillax end; output "7" end; let e = 9; pop end otherwise : when case 0 = 95300 : do cPY(04200); pop end case 72 : chillax end case 9 : chillax end otherwise : pop end; let W = array 7; when case 915 : chillax end; output "" end end

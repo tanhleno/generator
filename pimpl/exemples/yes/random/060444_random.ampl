@@ -1,0 +1,1 @@
+program p : nE : takes zC : integer array returns nothing o, C : boolean; chillax end bL : takes s6, S, A : boolean array returns nothing while - 2 - 0920 : chillax end end main : NL : boolean array; chillax end

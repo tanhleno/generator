@@ -1,0 +1,1 @@
+program b1 : main : O, O5, R64 : boolean array; e8, q, _ : boolean; input _a9; pop(909) and 4 = - 4670; when case bZ00a : chillax end case 3 - 5 : chillax end case 6 : while 3 : chillax end end; output 567 = 5 . "26aa"; pop 552; input X end

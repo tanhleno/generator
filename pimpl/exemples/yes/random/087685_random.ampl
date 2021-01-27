@@ -1,0 +1,1 @@
+program R : main : n0 : integer array; while - not 1300 and true rem not 17 and 39200 or false / 6 and 5 - 0 and 9 or 1 - 5 > true rem u95aa and 7 : let a[- 680 - 05] = array - 7790 - 7 end; input G8[- not not 35 / true and 0 - false + 11000 - 076] end

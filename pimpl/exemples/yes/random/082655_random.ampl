@@ -1,0 +1,1 @@
+program zu : main : a82 : boolean array; when case - (26) and(8) and false and 6470 /= - not true : do k730a(16, 29) end; when case - (92) / (5) or false and 7230 <= (0) and 1870 : do X(28) end otherwise : chillax end end

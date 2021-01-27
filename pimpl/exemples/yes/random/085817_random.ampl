@@ -1,0 +1,1 @@
+program W : main : O : integer array; B620a, m4R, u : boolean array; zv70 : boolean; do V((22 = 5) or f[60], not cR, - true and 90 or 327 - 72); while - not 18 = - not 5 and 5 : output 7 end; do r6(- true = - 845, 157 - 52 >= 14800, 1, 7); input J end

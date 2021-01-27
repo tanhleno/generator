@@ -1,0 +1,1 @@
+program Zk0 : FJ60a : takes N, V0, kUc0 : boolean; dx : boolean array returns nothing chillax end main : let t0 = array true * D6W / 1 and 9 - false rem not 89 - U; while - not false * false : chillax end; let q9waa = array false and 48; input cfA0[9] end

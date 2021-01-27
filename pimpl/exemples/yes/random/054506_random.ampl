@@ -1,0 +1,1 @@
+program h26 : mx : takes H : integer array; U, P94 : boolean array; z1D0, u, B600, d : boolean returns nothing while - 0 and 20 = - 8 : while 26 : chillax end; pop end; input u7; do F(10 = 9) end H8 : takes d, a, O, I9M : boolean array; u, B04, oS, a : integer returns boolean j : integer array; while - 9 - 128 < 5 : chillax end; pop end main : chillax end

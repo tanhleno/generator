@@ -1,0 +1,1 @@
+program EL : e : takes u47, L, M, w : boolean; GM : boolean array returns nothing chillax end main : u47 : integer array; jQy0 : integer array; W1C : integer; m, F, i, D8P : boolean; A, R, B : boolean; F8S : boolean; i : boolean; pop end

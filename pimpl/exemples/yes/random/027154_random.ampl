@@ -1,0 +1,1 @@
+program L : E : takes T, c2 : integer array; w30aa, _, lL, pV30, u19aa : integer returns boolean array L, w, G : boolean array; v, zaV0a : integer array; input g end main : T4 : integer; do f(- (46 = 0) * (7) / not 0 and 2, QLK[31200] <= - false and 1, true - 1 - 17 <= - 5 - 8, 92000, 41100 = 7, 4) end

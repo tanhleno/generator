@@ -1,0 +1,1 @@
+program X8 : Z : takes U, c570a : integer; T3R, E : boolean array; i : integer returns boolean array l : boolean array; f, g : boolean; chillax end main : output not false >= - U and 6 + 2 - 294; while - false and(9) < - true and 93600 or 0 - 4 : pop 2 end; input P end

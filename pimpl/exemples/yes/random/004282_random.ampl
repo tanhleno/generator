@@ -1,0 +1,1 @@
+program i : _ : takes IFt, q5, d1, Ro : boolean; o, L, q : integer array; _0e, n3F0 : integer array; e6, aS : integer returns nothing do R(false > 9 - 7, 7630 /= 1, 369); while 14 - 67 : when case 56 : chillax end; do E(30); pop end; output "6.0" . 82 . "R"; let xQiaa = array 083 end main : pop end

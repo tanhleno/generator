@@ -1,0 +1,1 @@
+program J6 : g : takes h, S : integer array; B : boolean returns nothing Q6naa : boolean; while - false or 6 - 0 : chillax end end main : pop; when case - 7 + (32) and 8 + 8100 - 31100 : input f670 end case(38) : chillax end otherwise : let W[66] = 06; let b = 7; do R(986) end; output 60 - 3 <= 9 end

@@ -1,0 +1,1 @@
+program w : Xsx0 : takes zn7, Y, Tjt, t : integer array; Q, n, B, a : boolean returns boolean while - not 3550 and 5 : let n9la[92] = array 1 end end main : when case - K(877, 51800) * true * (5) : chillax end case - V : let ww3[638] = 77 end; output k and 8 >= 4690 - 1 . "3" . 7 = 2 . 2 . 2 end

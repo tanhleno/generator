@@ -1,0 +1,1 @@
+program O : main : O8, Q1, R : integer array; when case(87 = 5) : chillax end case - Rp00a * (6) - C + 016 - 35 : do Y0(696) end case q and 82 <= 99 : chillax end case - 49 - 383 <= 77 : chillax end otherwise : chillax end; let v[- esM0] = true and 5 - 33 > 93300 - 9 end

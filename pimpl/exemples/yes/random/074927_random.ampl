@@ -1,0 +1,1 @@
+program Nl : main : D, h : boolean array; h, o6jaa : integer array; T, fF, MP5a : integer; do d((1) or(931) < - 8 or true and 7, - 8 rem 14200, - true >= - 59, - 1 - 15600 >= 0, 11 = 03, 4, 83200) end

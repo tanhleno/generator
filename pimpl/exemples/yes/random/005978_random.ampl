@@ -1,0 +1,1 @@
+program s36a : Ze4 : takes I, f, CZ, I8 : boolean returns integer array let _[74 + 7] = array false and 33100 end x : takes Fz4, ZS, xuB, Li, W, u, W0 : integer returns integer chillax end main : V4, j, r66a, DqY0 : integer; j : boolean array; Z9 : boolean; chillax end

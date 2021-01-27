@@ -1,0 +1,1 @@
+program C : main : x : integer; Q : boolean array; Z : boolean array; m : boolean array; when case - (8 = 89000) > true : chillax end case(30) : let YP = array 66 end case true or 2 /= 2 - 9380 : chillax end end

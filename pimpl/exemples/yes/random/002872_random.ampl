@@ -1,0 +1,1 @@
+program XX : g : takes E, G, L, F, j : boolean array returns nothing while - true or 96 >= 38 : chillax end; let h = array - 6 end Ml0a : takes y1, x5U, A, RI3, tS, d, Y : boolean array returns boolean array pop end main : chillax end

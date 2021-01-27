@@ -1,0 +1,1 @@
+program RX9 : main : V020 : integer array; when case not 1 and 6 or not(41) rem(7) : chillax end case - 5 : input fqp end otherwise : input pV[682] end; while - hIRaa[9] / En < true and 79700 : input y6_0 end; do B(true, - 0) end

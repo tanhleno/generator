@@ -1,0 +1,1 @@
+program r5 : P : takes O, jl4 : integer array returns nothing chillax end gyt : takes P1H, s, I, i, V : boolean array; h : integer array returns nothing let P = array - 9290; pop 6; when case 563 : pop end case 59 : chillax end otherwise : chillax end end main : S, j17aa : integer array; let h = (9) * false end

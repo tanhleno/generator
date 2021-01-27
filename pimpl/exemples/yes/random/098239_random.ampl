@@ -1,0 +1,1 @@
+program e : main : while - false >= false or not 4 and 642 or 2 - 1 : while - 9 - 2 < 75500 : do W(73); input c8A; pop end end; do d52(- 54 / 89 and 0 /= - false); do SK(q1 - 7 - 0 <= - 0 - 1, 25 - 69, 0, 65) end

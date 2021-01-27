@@ -1,0 +1,1 @@
+program J6 : A2wa : takes M : integer array returns nothing e : boolean; chillax end av : takes vjH : integer array; a6, H, c9 : integer; nA : integer; _ : integer returns nothing X5oa, S, d, y : boolean; chillax end main : EU, D : integer array; pop; input tp end

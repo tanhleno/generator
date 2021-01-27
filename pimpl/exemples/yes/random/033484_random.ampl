@@ -1,0 +1,1 @@
+program V : a : takes B : boolean; wS, o, y, y5o0 : boolean; KB : integer; H9, l23a, i59a, Y, v : integer; kP6aa, Ru : boolean returns nothing s7 : integer array; while - QPpaa and 2400 - 1 : chillax end; input v9T[88] end main : do c(- (8920) and false) end

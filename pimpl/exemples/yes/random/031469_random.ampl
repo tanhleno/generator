@@ -1,0 +1,1 @@
+program S : Y6 : takes LC0, D : integer returns boolean chillax end main : tl, s5 : boolean; while false * U8y0(2) / (5) and 05 : let BgSa = array - 69100 - 1; when case 3 = 0 : chillax end otherwise : pop end; when case 34 : pop end end end

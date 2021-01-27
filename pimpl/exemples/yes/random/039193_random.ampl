@@ -1,0 +1,1 @@
+program E : N : takes M : boolean array; p, D7 : integer array; f : integer array; _5 : boolean; t : integer array; F : integer array; K : boolean returns nothing chillax end e : takes fp, JO50a, g, u : integer array returns nothing pop end main : Om, K, K6, Eb : boolean; l9, y6 : integer; pop false < - true or 7 end

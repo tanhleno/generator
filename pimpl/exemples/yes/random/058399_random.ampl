@@ -1,0 +1,1 @@
+program y : N : takes v : integer array returns boolean H : integer; o6, S : integer array; pop - 6 - 2 > 1; input h; pop 26; while 102 : pop end end Z : takes FD30a, aK2a, B : integer returns boolean array chillax end main : while true - (04) rem not 40400 : chillax end end

@@ -1,0 +1,1 @@
+program c : V : takes UO30 : boolean array; XWN, s, M, t, H, RJ, T6 : boolean returns boolean array v2V, L, c : integer array; H, wS5, H : integer array; let JdL0 = array 7 or 8 - 9 end Q : takes A : boolean; A, M : boolean; W : integer; e, g, w, T4A : integer array returns nothing output 6 = 78 end main : chillax end

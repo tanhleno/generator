@@ -1,0 +1,1 @@
+program h : N : takes E7a0, C : boolean array; s, l : boolean returns integer array n : boolean array; input Wu; while - 987 - 4 /= 8 : when case 38 : chillax end; do HZ(293) end; output "X:aa" . 74 . ""; output 927 . ""; output "t@!" end main : A : integer array; z, h1j : boolean; c : boolean array; let i[6 / (41)] = - V * true + 93 >= false and 3 end

@@ -1,0 +1,1 @@
+program p : W : takes e, W, P : boolean array returns boolean O7 : boolean array; do I(4 - 996 > 063, - 71 > 288, 540 = 346) end N : takes o51 : boolean returns nothing C : integer; YXR : boolean array; let e = array 83; do Wr8aa(9 = 3, 48) end main : ne : integer; while - false * (95) / 6 and 9 or(6) : let R240a = 3 = 8 end end

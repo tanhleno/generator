@@ -1,0 +1,1 @@
+program k520 : O : takes FGo0a, e6H, M : integer array; tjZ, n : integer returns integer array chillax end main : when case not(94) rem false rem 58 and 49 or k >= - false + 97 and 2 : chillax end end

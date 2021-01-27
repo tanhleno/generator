@@ -1,0 +1,1 @@
+program q : main : while not 55 rem(9) * V + false + 90 and 4930 : while 207 - 0 : chillax end; let B[2] = array 11 end; while(5) = - (1) and 1 + 219 - 87800 : pop 3; when case 7790 : chillax end otherwise : chillax end end; while - not 51 and 1 - 35 - 6 : chillax end end

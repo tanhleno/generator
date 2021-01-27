@@ -1,0 +1,1 @@
+program i1 : hcX : takes u, Cca : integer; H : integer array returns nothing chillax end v : takes s0, P6 : integer; T, i, p : boolean array returns boolean O, o : integer; chillax end Fua : takes u, A, E2 : boolean; v, S : integer returns integer chillax end main : chillax end

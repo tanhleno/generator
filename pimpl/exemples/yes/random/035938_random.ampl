@@ -1,0 +1,1 @@
+program C : u500a : takes m : boolean; S2 : boolean array returns integer array while false and 0 = 33 - 2 : chillax end; pop end main : while 6 rem true and not 9 and 31400 <= - true / (5) and 2 + 156 and 28 + 1 : chillax end end

@@ -1,0 +1,1 @@
+program q : i4 : takes oc : boolean returns nothing Jg : integer array; _, y : integer array; when case - l2 and 0 : chillax end otherwise : output "0"; pop; pop end end Z : takes w9 : integer returns boolean C46, hX, O, B4 : boolean; output 5 end main : c1P : boolean; S, D, K7 : boolean; input hL; while r92aa[6] rem(48) : while 5 : chillax end; do f8(4, 5) end end

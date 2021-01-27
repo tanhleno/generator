@@ -1,0 +1,1 @@
+program o : l : takes S69, w : boolean array returns nothing hko0a, i3 : integer; pop - 63 - 0 = 9; do _aj(- 77 < 6); let DA = array 82900; do a(13300, 5) end w9_0a : takes b, W, zw70a : boolean array returns nothing input lM end main : input h end

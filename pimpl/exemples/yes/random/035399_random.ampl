@@ -1,0 +1,1 @@
+program fW30a : xQ : takes A : boolean; M : boolean; Ln, Y : boolean; CY4 : integer array returns integer array chillax end ae : takes U, r, Q4 : integer array returns integer chillax end main : output "" end

@@ -1,0 +1,1 @@
+program s : _d : takes F1, B, e5, g, zVc : integer array; w : integer; q5 : boolean array returns nothing X : integer; n6 : integer; chillax end main : do M(Lg(637, 0) * (5) or not true * not 46 or false); when case - H rem true and 7 or(78) and 8 : chillax end end

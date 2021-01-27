@@ -1,0 +1,1 @@
+program w : D : takes L : boolean returns nothing pop 0 - 3 > 3; do m(- 8 - 7, 8 = 3) end A : takes r3a : integer array; J, b, kR, t, N, U6 : boolean array; C : boolean returns nothing U_Waa, n, P8 : integer array; let i[- 0] = array - 0 - 7; input G; pop 1 end main : pW, S, H : integer; chillax end

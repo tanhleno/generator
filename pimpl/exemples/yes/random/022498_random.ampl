@@ -1,0 +1,1 @@
+program L : A : takes G, Z : boolean array returns nothing E : integer; chillax end C : takes z, u, jL8a : boolean returns nothing input O[40 - 69] end q : takes I : integer array returns nothing chillax end main : chillax end

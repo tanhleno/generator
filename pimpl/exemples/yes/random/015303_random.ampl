@@ -1,0 +1,1 @@
+program bEN : Z : takes r, K, k3y : integer array returns nothing b1, eQ9aa, r : boolean; oG, WA, xK3 : integer; H, Q, k : integer array; m, T : boolean; let f = - 2060 end s : takes f, y, m56 : boolean array returns boolean O : integer; chillax end main : R, CF90a : boolean; chillax end

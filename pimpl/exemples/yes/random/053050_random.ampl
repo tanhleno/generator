@@ -1,0 +1,1 @@
+program lI1 : K4 : takes o95aa : integer; S570 : integer array returns nothing U : integer; i, tD20, p2 : integer; h, T : integer array; chillax end main : h, g, vu : boolean; O9f0 : integer array; N8daa, iX30a, W5, P, _ : boolean; chillax end

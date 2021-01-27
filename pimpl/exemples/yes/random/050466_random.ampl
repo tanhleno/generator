@@ -1,0 +1,1 @@
+program b : Mb3 : takes X18 : integer; O, n : boolean array; j28, I3_aa : boolean array; Fk6a, j : integer array; L : boolean returns boolean do js(- false + 42 > 6, 37500); output "\""; output "(\"" . 1 . "K'"; do h(3, 1) end main : S : boolean; chillax end

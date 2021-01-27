@@ -1,0 +1,1 @@
+program d : _Y9 : takes qJ6 : integer array returns boolean array input H; output "" . "-\"aa" . "-,\""; let K[8] = 1; pop 9 end K : takes a4, YR, V450 : integer array returns nothing chillax end main : ZJ : integer; when case - not M rem Y / not 0390 and 48 : chillax end; let s[- not not 99400 * true] = false and 91 + 6 end

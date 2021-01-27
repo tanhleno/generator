@@ -1,0 +1,1 @@
+program FM : X : takes R3 : boolean; _ : integer array returns boolean A : boolean; o : integer; chillax end main : IAK : boolean; when case false : when case - 60400 <= 487 : chillax end end case - not a22 / true + not 2 and 27 + 4 >= (0) + 8 - 2 : while 73 = 14 : chillax end end; input lD end

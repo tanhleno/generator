@@ -1,0 +1,1 @@
+program I72a : K : takes fUT : integer returns nothing L : integer array; Ax : boolean array; n : boolean; when case false and 35800 - 6 - 0 > - 16100 : chillax end otherwise : input Vw end end main : Imi, P : integer; chillax end

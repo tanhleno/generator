@@ -1,0 +1,1 @@
+program c : Q4 : takes l, gUV : boolean array; u, s1M : integer; T9, yj : boolean array; Xn : boolean; F3p : boolean; DK, L : integer array returns boolean M : boolean array; fi, I : boolean array; chillax end u : takes k, q4, T : boolean array returns nothing chillax end main : when case 41 : chillax end case - not D49 * not 189 < C5 : output 531 end end

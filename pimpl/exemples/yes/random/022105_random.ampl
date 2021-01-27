@@ -1,0 +1,1 @@
+program e : H : takes v, t : boolean array returns nothing J27, uo, j, e, V2 : boolean array; chillax end main : do w(- false * not(2) = 3 - not 255 and 1230 + 9 - 99, - C[26] rem(89) and 5950 - u + 31500 - 7 <= (58)) end

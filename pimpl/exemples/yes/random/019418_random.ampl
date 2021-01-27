@@ -1,0 +1,1 @@
+program t3 : G9e : takes l9, f : boolean array; y2, v : integer; j : boolean array returns boolean array ww : boolean array; I0 : integer; ef, p1f : boolean; l, N : boolean; pop - 95 - 10; input S[469 - 6] end main : chillax end

@@ -1,0 +1,1 @@
+program en1 : B6taa : takes l : boolean array returns integer array h340, o : boolean array; e3, f, Dsw : boolean array; A83aa : integer array; y, RTMa : boolean; let RC = array false end main : H7, g, Y : integer array; V : boolean array; B8 : boolean; chillax end

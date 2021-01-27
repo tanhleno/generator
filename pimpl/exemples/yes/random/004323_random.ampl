@@ -1,0 +1,1 @@
+program Z1 : M09 : takes TQ, Q, A, y : boolean; LG, Y : boolean; j10aa : integer array; s : integer array returns nothing while(9) + 8 - 59 : let Jp[7] = array 7 end end main : o, P : boolean; do N(- false or q(051) or true and 3 + 74 - 5); let o = false end

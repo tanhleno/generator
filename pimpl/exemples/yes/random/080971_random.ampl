@@ -1,0 +1,1 @@
+program V : main : WKc0 : boolean array; a, h, UD : boolean; R, l, y900a : boolean array; let B = array - 158 and not K6H * true; while i[0] : when case 545 : do h1k(18) end case 7 : pop end; input b end end

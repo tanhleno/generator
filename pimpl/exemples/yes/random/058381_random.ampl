@@ -1,0 +1,1 @@
+program YF0a : V7 : takes H : integer array returns boolean b : integer; chillax end dbd : takes o_, G2P, S : boolean array; xV9aa, J490 : boolean; b : boolean; _oA : integer; _ : integer array returns nothing input M[- 8 - 5]; let Q8Ea[6] = array 7 end main : J, e : boolean array; let o8 = not false; pop - false and 44 or 3 /= 45; input y[not 9 and 96900 or 0 - 26] end

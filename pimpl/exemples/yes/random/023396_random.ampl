@@ -1,0 +1,1 @@
+program jd : Q_b0a : takes hW6, A : boolean returns integer array chillax end k : takes TS : boolean array returns boolean array r : boolean array; chillax end main : L0, wC : integer array; chillax end

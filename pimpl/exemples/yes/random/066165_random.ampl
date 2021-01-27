@@ -1,0 +1,1 @@
+program zr0 : main : do T(- false rem false /= - true and not 5 and 8, (061) + 863 and 5 <= 2 + 00400, false and 5 /= - 9); while - 5 * false and 10 - true and 7 + 436 - 72 : chillax end; while - not 9 - 7 <= 5 : chillax end; output 083; let B64[62] = array 339; do rv9a(7, 59); pop; pop end

@@ -1,0 +1,1 @@
+program f : h740a : takes u, l : integer returns nothing chillax end main : c6Xa : integer array; Q : integer; E : integer; while - not not Q / (20) rem true + false : chillax end; input wJ[- gL[4] + Bw or 802 - 3]; when case - true and 06200 : pop 4 end case 3 - 7 : pop end otherwise : chillax end; output 023 = 6 . "1O\"a" . "" . "" end

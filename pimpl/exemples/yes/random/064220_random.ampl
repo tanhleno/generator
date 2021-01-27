@@ -1,0 +1,1 @@
+program E : u5 : takes MB2 : integer returns nothing A8, U, XXda, e88a : boolean; k : integer; bP, EdQ0, p : boolean; input N2 end main : i : integer; while - (0) : do m(787 - 420) end; let I1_ = array - d22 + 6 + 66; while - false and 8 : chillax end end

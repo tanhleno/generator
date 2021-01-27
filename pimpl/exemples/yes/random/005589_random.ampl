@@ -1,0 +1,1 @@
+program wq : x : takes od, ER, n1T0a, r : boolean array returns nothing W, t490, T, Xx9, J : boolean; W8y0a : integer array; i9 : integer array; ba, i : boolean; chillax end O2 : takes e020a, p : boolean array returns nothing _h : integer; o : integer; chillax end main : while(2) + not kC : chillax end end

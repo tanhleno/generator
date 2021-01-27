@@ -1,0 +1,1 @@
+program H33 : AlJ : takes cB, U5, c26, tq6, GT, W, s, L : boolean array returns integer array B : boolean; chillax end main : E, g : integer array; W, f, b : boolean; do f(- true / 83 - true + false + 9 <= n3A0[4] and true); do Z((9) * c and 03 or(65) and 8 /= Y and 0 + 8300) end

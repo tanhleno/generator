@@ -1,0 +1,1 @@
+program blD0 : J41 : takes ndZa : integer; f, N, J : boolean returns boolean j : integer array; chillax end L4 : takes P : boolean array; Y890, J, t8 : boolean array returns nothing u, n, xL : integer; chillax end main : input i8; do fj(7 / true and 6, not 0) end

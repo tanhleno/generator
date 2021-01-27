@@ -1,0 +1,1 @@
+program q2 : V : takes i5 : boolean array returns boolean array w : integer; pop; when case 23 /= 4 : when case 5 : chillax end end otherwise : while 5 : chillax end end end main : b : boolean array; x3, d : integer array; LXg0a : boolean; P, M : integer; z : integer array; chillax end

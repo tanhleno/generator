@@ -1,0 +1,1 @@
+program z : fR : takes zX, tm7 : integer returns nothing Y_h0 : boolean array; l4ka, w, FB : integer array; M : boolean array; output "v"; let R[- 560 - 5] = 47; input L8[89] end main : while true * 09800 : pop 0 = 55500 end; let d = array - false end

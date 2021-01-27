@@ -1,0 +1,1 @@
+program tt7 : B2X0a : takes R : boolean array returns integer array Ur : boolean; D : boolean array; A, Q3t, cO : integer; pop - 97 end main : z3, u, x : integer; IhX0a, h : integer; when case false : chillax end end

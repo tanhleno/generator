@@ -1,0 +1,1 @@
+program E : S : takes n1 : boolean returns boolean array pop 9 - 57 > 9; do j2Naa(- 7200 - 3 <= 51); when case 00 = 3 : chillax end end main : let k0 = - D and Ik > not 382 or 3 - 26; input R2[(2) - ov + 04] end

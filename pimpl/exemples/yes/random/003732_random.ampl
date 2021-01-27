@@ -1,0 +1,1 @@
+program p26 : wg60a : takes _vW, pd, O8, HR, V : integer array returns integer array t8I, p : boolean; w, PfT : integer array; while true and 084 < 9 - 9 : do v(69) end end main : O : integer array; n, v : boolean array; E : boolean; chillax end

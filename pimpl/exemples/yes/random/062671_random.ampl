@@ -1,0 +1,1 @@
+program J : Npw : takes P : integer returns boolean while - false and 77200 - 9 - 1 : chillax end end B : takes W : boolean array returns nothing G3 : integer array; dH, a9, lA : boolean array; chillax end I0 : takes Y : integer array returns boolean chillax end main : chillax end

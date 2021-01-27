@@ -1,0 +1,1 @@
+program fi : z420 : takes K4, y : integer returns boolean array V, N : integer array; when case - false and 5 : while 2 : pop end end; while - 51 - 9 : chillax end; let tn = 7 end main : Ma20a : integer; chillax end

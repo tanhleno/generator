@@ -1,0 +1,1 @@
+program K : main : o5 : integer; when case U * true rem C - false : chillax end case false - 97 <= u : when case 05 : chillax end case 8 : chillax end case 004 : chillax end end otherwise : chillax end; while q8(1) rem(90) : when case 8 : chillax end case 9 : pop end case 6 : chillax end otherwise : pop end end; do Gb(- true and 1 or 396 - 8 > - 10 - 70) end

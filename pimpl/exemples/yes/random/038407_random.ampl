@@ -1,0 +1,1 @@
+program kz : K : takes k : boolean array; OB, o, Y : integer returns integer chillax end L : takes TA6aa : integer returns nothing chillax end I6 : takes Ac : integer returns boolean array chillax end J : takes Z, O : boolean array returns nothing CV6 : boolean; N : boolean; output ":<"; while 4 : chillax end; output ""; pop end main : chillax end

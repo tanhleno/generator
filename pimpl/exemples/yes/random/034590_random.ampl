@@ -1,0 +1,1 @@
+program dc : N : takes D6 : boolean; C, B : boolean array returns nothing i : boolean array; C : integer; pop; while 4 : chillax end; do u(82 = 54); while 4 : pop end; when case 46 : chillax end end main : H : boolean array; U : integer array; chillax end

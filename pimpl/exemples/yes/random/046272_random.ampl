@@ -1,0 +1,1 @@
+program YqZ : ng : takes QD90 : boolean returns boolean K : integer array; d, Ef, qgRa, y2z : boolean array; chillax end main : bOB, J9b, c : boolean; P : integer; _, sX60 : boolean array; _, qi5, T, oU9 : integer array; input C1[6]; input n1; output - 298 - 4 /= 5 . 3 = 5 . 7; do L3n(3 - 87 < 51, 5 = 23) end

@@ -1,0 +1,1 @@
+program D : n : takes k : boolean returns integer array YPeaa, t, DUm, t4k : integer array; _, A3Ta : integer; x8p0a, RV, G7 : integer; R : boolean; when case - _0 : do q9(2, 75300); when case 5 : chillax end; input z end otherwise : chillax end; pop end main : chillax end

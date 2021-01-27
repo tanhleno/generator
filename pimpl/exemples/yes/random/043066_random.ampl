@@ -1,0 +1,1 @@
+program Q : CU : takes Y : boolean array returns integer pJ, j, M : boolean; chillax end w : takes Z : boolean returns nothing uB, a, d8F0a, q0d : integer; input T3; let Q[0] = 23000; do f9(5) end Y : takes k9Qaa : integer returns nothing while 3 : chillax end; input s8[7600]; pop; input G; pop end main : G, C, e4, t2L : integer array; chillax end

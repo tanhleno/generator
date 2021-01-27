@@ -1,0 +1,1 @@
+program f : main : yYc0 : integer array; when case - not 4 = - false rem not 1 and 9 : output 76 = 18900 . "9" . 95 . "&"; input XP[5]; when case 2 : pop end otherwise : chillax end end; let Th4 = false and 8 = - 6 - 91; pop; let R5[- 0 - 31] = 53; do e80(6 = 8) end

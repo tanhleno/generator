@@ -1,0 +1,1 @@
+program a_ : G : takes b : boolean; jq9, Q, lc : integer array; IR : boolean array; DH7 : integer array; k, dOq0a : integer array returns nothing pop end SM9a : takes z : integer array; mS8, c84a, W, E : integer; N57 : integer returns nothing chillax end main : f, Aa, p3 : integer; pop - not false - 56800 and 19 end

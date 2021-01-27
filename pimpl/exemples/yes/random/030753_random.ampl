@@ -1,0 +1,1 @@
+program s : l : takes FQ3, Z6E0 : integer array returns nothing Vja0 : boolean; input s[- not 3 or 7] end E : takes kkP : boolean array returns nothing chillax end T40 : takes F9, WE10, fuJ0a : boolean array; x, q, e : boolean array returns boolean array output "" . ""; let K = 6; input P; pop; pop end main : output "" end

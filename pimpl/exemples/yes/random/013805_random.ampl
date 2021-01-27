@@ -1,0 +1,1 @@
+program kr : s9h : takes MQ7a, O, j4 : integer array; Z9, H, Sf90 : boolean returns nothing chillax end S : takes Y04, j, p, G31 : integer; Dm, B : boolean array returns boolean let c[12] = 0 = 3 end main : chillax end

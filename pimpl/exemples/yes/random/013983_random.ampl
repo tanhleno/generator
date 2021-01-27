@@ -1,0 +1,1 @@
+program S : Cgo : takes Uj, XH, D0 : integer array; r, x : boolean returns nothing D, _, oK5aa : integer array; S : integer; q : integer; while 1600 : pop end; do h(37 - 52) end main : do b7(- (7 = 058) < - true * O3v0 and 055 - (7) + 67, not(242) rem 2 + false and 7, (45) and 89 /= 25 - 43) end

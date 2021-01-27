@@ -1,0 +1,1 @@
+program sg : F9H : takes Q : boolean; je70 : boolean array returns integer output - 2 end f : takes gs : integer array returns integer y, s0j : boolean; e, C, w : boolean array; b, u : boolean; chillax end Y : takes o, EK, M : boolean array returns integer array input w end main : chillax end

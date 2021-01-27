@@ -1,0 +1,1 @@
+program V : Y : takes Z, c, T : boolean array returns nothing output "5j" end c : takes Br : boolean returns boolean saZ : boolean array; chillax end main : let K740 = array - q660(5) rem 5 * false and 189 - not true * true + 9; do Fb(- not false / 9260, - (2) - 5 - 96 > - 55, - 3 - 33 < 7, 00 = 9, 6) end

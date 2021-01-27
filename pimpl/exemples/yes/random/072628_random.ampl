@@ -1,0 +1,1 @@
+program h : main : _S, M, A : integer array; do xu70(not true, - (8) rem(15100) or not 24500 and 9); when case(0) rem(877) > - a and 4 : pop 3 end case(35) and 952 + 932 - 4 >= 3 - 93 : chillax end otherwise : pop 0 end end

@@ -1,0 +1,1 @@
+program U : N2 : takes M : boolean returns boolean chillax end b : takes Zn0 : integer returns nothing Q1, L, a9, e : integer array; when case 45 = 46 : chillax end otherwise : output "" end; input I[3]; pop 9; pop; while 6 : chillax end end main : chillax end

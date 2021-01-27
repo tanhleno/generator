@@ -1,0 +1,1 @@
+program aE4aa : main : do s5(r(4) * a[57] /= not(6)); when case true rem true >= - 9 - 6 : chillax end case - (63) and 67 : pop; when case 1 : chillax end end otherwise : when case 81 : chillax end otherwise : chillax end; while 96200 : chillax end end end

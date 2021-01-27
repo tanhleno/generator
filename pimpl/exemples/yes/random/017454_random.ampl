@@ -1,0 +1,1 @@
+program xz20a : IbSaa : takes T, G96 : boolean; a74, Y : integer array; t_, u : integer returns nothing s : integer array; chillax end main : TT : boolean array; i, j : boolean array; qFJ0a : integer; q : integer array; VE70, uF30a : boolean array; chillax end

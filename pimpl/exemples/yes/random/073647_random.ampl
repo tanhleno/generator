@@ -1,0 +1,1 @@
+program Y4P : main : zk4, _R : boolean; t0, g : integer; output "" . (08700) and 7550 + 0 - 7 . - 62; when case false + not 93200 and 8 - 3 - 6 : chillax end case - (84400) >= 2 - 06900 : do v(4, 9); pop; pop; pop end case 13 : when case 8 : chillax end; let r = 44 end; output "" . 66500 = 87; input v[- 1 - 8090] end

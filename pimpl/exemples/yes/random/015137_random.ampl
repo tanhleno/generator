@@ -1,0 +1,1 @@
+program s : i : takes j, au, r3qa : integer array returns nothing chillax end r : takes R, W, y, r, bb, ur10, M : boolean array; Ju8, F : boolean array returns boolean chillax end j8t : takes k, N : boolean; d, g2 : boolean returns integer H16, k9s0 : integer; o : boolean; R : boolean; W4 : boolean; do V(5 = 24, 88000, 3) end main : m : integer; while true : let j[7] = 3 end end

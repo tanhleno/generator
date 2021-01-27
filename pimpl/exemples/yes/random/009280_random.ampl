@@ -1,0 +1,1 @@
+program t1 : o : takes m, n, B24a : boolean; l : integer; Ky : integer array; y, a5Ea : boolean returns boolean array chillax end _ : takes xXp : boolean; Z : boolean; rJ2, U : boolean; n : boolean array returns nothing pop 75 = 34; output "t"; while 110 : pop end; pop end main : H : boolean array; input az0[- true or false] end

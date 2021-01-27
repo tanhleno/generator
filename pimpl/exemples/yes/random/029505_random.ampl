@@ -1,0 +1,1 @@
+program k : w : takes a, Wz : integer array returns boolean F, f, MU6 : boolean; when case true - 7 : chillax end; while 0 : input O; pop end end main : do lk(21 / l - 5 * not 471 + yFR or 5 - 8 >= - false + false, - (7) > - bC40 and 1, 7 or 27 - 4, 8 - 02 /= 11, 52 = 8, 402) end

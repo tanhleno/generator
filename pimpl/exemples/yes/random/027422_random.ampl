@@ -1,0 +1,1 @@
+program h : g1 : takes O23, p : integer array; N, X, A : boolean returns nothing j02, S4, K : integer; E, LE5 : boolean; m, fZ4, c830 : integer; YC, v8 : boolean; v : boolean; while - true - 15 - 9 < 3 - 2 : output "" . "B0" end; let dzK[58 - 1] = 6160 end main : chillax end

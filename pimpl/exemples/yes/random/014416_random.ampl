@@ -1,0 +1,1 @@
+program wv : k : takes g, u, B : integer array; e : integer; v : boolean array returns nothing W0 : boolean array; GA : integer array; chillax end R8 : takes D : integer returns boolean array P : integer array; let kK6[- 2 - 3] = array 14 - 0 end main : Sh : integer array; w, f, t, S4, G, s : integer; chillax end

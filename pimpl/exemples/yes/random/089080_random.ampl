@@ -1,0 +1,1 @@
+program dr : main : input W[a[894] rem 1]; when case(953) - not 2 and 4 - 6 <= true and 7 : when case 53800 = 2 : chillax end end; when case - (02800) : chillax end case - 69 - 21 : do j(1); input b end end

@@ -1,0 +1,1 @@
+program Z39 : w1n : takes S1 : boolean returns boolean array i4 : integer; IwHa : boolean array; pop; when case - 8 : let J = 8640 end otherwise : while 71400 : chillax end end; while 71 : chillax end end y : takes Zm, _5, FSu0a, ikhaa : integer array returns nothing chillax end main : S, _ : integer; pop; output - true and 18700 or 561 - 7 > - 63 - 86 end

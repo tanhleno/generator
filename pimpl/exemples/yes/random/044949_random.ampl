@@ -1,0 +1,1 @@
+program BSO0a : y9 : takes G : boolean array returns nothing input C8g[- VT or 6740] end y : takes x : integer returns nothing chillax end Q7 : takes p, IbZ : integer; C, I19 : integer returns integer array i, A : boolean; chillax end main : yt, a : boolean array; chillax end

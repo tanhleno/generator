@@ -1,0 +1,1 @@
+program b1o0 : r2sa : takes a : integer; V, iE1, BIya : boolean array; G, C, L : boolean array returns nothing input _ end main : Y2k, yu30a, v : integer; R : integer array; when case true > y * 22 : chillax end case - 506 - true and 0 or 2 - 6 : chillax end case - R <= 8 - 2 : chillax end end

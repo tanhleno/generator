@@ -1,0 +1,1 @@
+program PoKaa : main : do G6_a(52 and not true - 9 > - (06) rem false and 39, (8) * (388) = 6 and 2 + 9 - 1, - false and 161 or 1, - 50 = 15, 5); when case - (132) / true and 1490 + true : chillax end; output - 58 - 5 /= 7 . 5720 end

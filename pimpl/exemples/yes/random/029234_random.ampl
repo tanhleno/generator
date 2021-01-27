@@ -1,0 +1,1 @@
+program k8 : j8h0a : takes K, Q : integer array returns boolean array chillax end w : takes Wo7a : integer returns integer pop 803; input W; let wT7aa = array 79; pop; while 1 : chillax end; pop end main : j : boolean; when case x or CD20a[0] rem(80) + not 398 and 99400 or 40 : chillax end; output - 6 and 9 . 1 <= 0810; while true : while 58 : chillax end; pop end end

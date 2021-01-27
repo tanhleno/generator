@@ -1,0 +1,1 @@
+program M : T : takes v : boolean array returns nothing Y : boolean array; q0, W0, b : integer array; when case - false and 4 + 7 - 6 >= 59400 : output "k8\"" . "]"; when case 9 : chillax end; let O = 8; pop end case - 1 > 7 : output ""; let T9 = 6 end end main : chillax end

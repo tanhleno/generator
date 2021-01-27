@@ -1,0 +1,1 @@
+program L7n0a : main : do M8(OV0aa * true < - true * false and 7); when case false * not 5700 : chillax end case - (00) and 3 : chillax end case - 76 : pop end case 68 = 6200 : input fT end case 9 : chillax end case 7 : chillax end; when case 6 or 2 - 48500 < - 81 - 8 : chillax end case 0 - 03000 <= 9 : chillax end end

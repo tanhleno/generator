@@ -1,0 +1,1 @@
+program y_ : f8sa : takes M, N, Tb, N, Mk, R0O : integer array returns nothing i : integer; _ : boolean array; while - false : while 51 : chillax end; pop; let x7E = 9 end end main : pop true or(43) and 5 or 67 = (47100) and 5 - 112 - 9 end

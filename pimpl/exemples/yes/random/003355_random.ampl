@@ -1,0 +1,1 @@
+program l : v : takes F, s2U, W, b, D9 : integer; V : integer array returns nothing o : boolean array; pop; do VvU0(- 1, 7 = 11) end w : takes YL00a, x : integer returns nothing chillax end B6 : takes X : boolean array returns integer array input B end main : chillax end

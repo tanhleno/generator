@@ -1,0 +1,1 @@
+program E6 : main : _, q94, QD : boolean array; input W2; while Dw + true and 095 : when case 74 : chillax end otherwise : pop end; output ""; do I(4); when case 13 : chillax end; pop end; pop - 2 - 7 /= 11; output "\t\"" . 8; pop 1; do c04(1, 297); when case 363 : chillax end end

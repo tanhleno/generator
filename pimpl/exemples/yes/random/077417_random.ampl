@@ -1,0 +1,1 @@
+program JX80a : main : T, j : integer array; A, rr2aa : integer array; TN7, dH, Zk, HD : boolean array; I9jaa : boolean; G : integer; input v; while - not G4R rem 8690 and 4 - (02) and 7 or 698 - 02 = - not 8 and 77 + 1 - 3810 : chillax end; output "" . "Y" end

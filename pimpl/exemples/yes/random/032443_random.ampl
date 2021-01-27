@@ -1,0 +1,1 @@
+program nf : E9Sa : takes zY, f : integer returns nothing do aa(0 and 8 = - 8 - 013) end qB : takes a3, _ : boolean; Tp0a, DH5a : integer array returns integer Bd, c0 : boolean; input Dp end main : q, w, M : integer array; b8pa : boolean; A0, u15 : integer array; chillax end

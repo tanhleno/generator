@@ -1,0 +1,1 @@
+program T4 : e9 : takes n, v, G : integer array returns nothing pop - 1 end h : takes Z, R19 : boolean; lb : boolean array; q, a, E : integer; PKaa : integer returns nothing chillax end xS6 : takes t : boolean array returns nothing do gE(5 = 946) end main : do Z(RCKa(2, 915), - (5) / false and 123, - not 2 or 77 >= - 4100, 531, 4620) end

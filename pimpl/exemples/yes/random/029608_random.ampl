@@ -1,0 +1,1 @@
+program mT : M : takes c, w : integer array returns boolean S6 : integer array; pop - 35300 - 2 end main : VBo, f3, AY : integer; Q9 : boolean array; Q : boolean array; xh, N28, prk : integer; input a; let vzK = - L - 8 - 2 >= - 3; do k(- 04700 and 3 - 447 - 11200 = 84 - 70, 1 >= 5, 436 = 2750) end

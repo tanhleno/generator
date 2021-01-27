@@ -1,0 +1,1 @@
+program ZDG0a : A5 : takes H8 : integer returns integer chillax end C6 : takes Q, zMP, J, s32aa : boolean array; v5m, e : boolean; D, Op3 : boolean; s0 : boolean array returns nothing tpxa, Ew : integer; chillax end main : t3 : boolean; do Bj(not false rem(29)); when case(1) and oh and 28 : do _(24) end otherwise : chillax end end

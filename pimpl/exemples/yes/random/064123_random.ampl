@@ -1,0 +1,1 @@
+program R8 : j : takes nO7a : integer returns nothing do FHm(- 8 or 64 - 5, - 5 - 28); do j(- 35); pop end main : while - false + 970 and false and 2 >= 13 and 5 and 8 + not 17 and 3 + 92 : chillax end; when case - false rem(82) and 4 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program IYW : Y4m0 : takes Z : boolean array; V, M, Kw : boolean returns nothing let XME[false] = 1; output "nR"; while 3 : when case 03100 : chillax end; pop end; output 627; while 74700 : chillax end end main : input s; input S; when case c or 361 >= - 8 : let HB[66] = 2 end otherwise : chillax end; do K(- 0) end

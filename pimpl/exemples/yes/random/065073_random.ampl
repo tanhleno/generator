@@ -1,0 +1,1 @@
+program hn : p : takes xn : integer returns nothing z40a : integer array; S, U, e : integer; m, m : integer; Q : boolean; b : boolean; b : boolean; when case(81) and 98 > 2050 - 171 : chillax end case - 33 - 9 : chillax end end Bo : takes P2D, ub1 : integer returns nothing chillax end main : g, m5, w1, t : integer array; H, _ : boolean; chillax end

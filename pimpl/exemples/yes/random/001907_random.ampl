@@ -1,0 +1,1 @@
+program v3 : sqs : takes l, ieX, W, R, Zm, L : integer array returns integer p : boolean array; when case true : output "8" . "" end case 862 /= 885 : output ""; input wp; pop end otherwise : chillax end end main : c, R : integer; do V7((9910) rem not not 7 + 46200 and true) end

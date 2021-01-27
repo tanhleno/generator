@@ -1,0 +1,1 @@
+program v1 : O : takes TLn : boolean array returns nothing when case(2) or 0 - 2 /= - 27 - 19000 : chillax end case 14 - 0 : chillax end case 02 : chillax end otherwise : let A81 = 6 end; when case 30 <= 5 : chillax end; input rjJaa[0]; when case 8 : pop end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program VQy : d : takes M2, oG00, N : boolean returns nothing c8G, f, L, H, w : integer; x, V : integer array; p5aaa : integer; Q, Q : boolean; input O3[- 7 or 7]; let b9P[1 - 68] = 3 = 1; input i6; let VK60a = array 35 end z : takes G : integer; V4 : boolean returns nothing pop 4; pop 66 end main : chillax end

@@ -1,0 +1,1 @@
+program t41aa : S : takes Au, W700a : integer returns nothing you, vm, f5ta, M : integer; when case(90) < - 10 : output 6 end case - 8 - 4 = 273 : let OV = 1 end otherwise : chillax end end d : takes u9 : integer array returns boolean array chillax end main : let f7iaa = S(1360) or _Oya <= x and 0 end

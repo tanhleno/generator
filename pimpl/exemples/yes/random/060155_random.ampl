@@ -1,0 +1,1 @@
+program A : Y8 : takes w : integer array returns nothing do e(M /= - 37800 - 996); input c[21]; output "`\""; pop 2050 end u : takes Y5, k : boolean; r : integer array; Y : integer array; KrC0a : integer array returns nothing chillax end main : chillax end

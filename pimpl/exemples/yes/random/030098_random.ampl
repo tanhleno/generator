@@ -1,0 +1,1 @@
+program Q : G : takes ur60a, A : integer array returns integer k : integer array; W : integer; t4, I, t : integer; let h3[- true] = array true and 1 end main : PU4a, S, z4 : boolean array; f : boolean; when case(04) + 8 and not 50800 and 49 + not 268 and 166 <= true and false : chillax end otherwise : pop; let Y6 = 2 end; output - true or 34 . "0" . 6 . 8 end

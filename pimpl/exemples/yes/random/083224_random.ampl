@@ -1,0 +1,1 @@
+program c : main : r : integer; mG4, Z, NP, j1Eaa : boolean array; g, X : integer; N, e, p0N0, ep7 : integer; j20, x : integer array; U : boolean; pop true and false; pop - true - 757; input w[(70500)]; output ""; when case 63 : chillax end otherwise : pop end end

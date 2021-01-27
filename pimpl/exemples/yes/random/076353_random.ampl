@@ -1,0 +1,1 @@
+program a : main : T, V : integer; Tp10a : boolean array; Y67 : boolean; when case not 9 or true / 4 and 0 or 937 or 0 - 945 : chillax end case - (1) + true and 17200 = - (5) - 08 - 7 : chillax end end

@@ -1,0 +1,1 @@
+program G0 : q0g : takes JH3aa, O3, x5, vKq0, In, hWja : integer returns nothing v : boolean; do Z((6) and 7 + 494 - 19 > 1); output "" . "}\\0"; let J8 = array 008 end main : j600a, N, hjT, b, OKqa, E6 : boolean; chillax end

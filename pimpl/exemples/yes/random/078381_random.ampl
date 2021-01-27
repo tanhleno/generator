@@ -1,0 +1,1 @@
+program mf : main : zAg0a : boolean; U2, z0, n, J, k1D, sq : boolean; E6 : integer; z, c, ccoaa, G2 : boolean; while - false or not j460a rem not 5 and 87 + (02) and 7 <= _ + (4) : input C58a[- 64]; pop end end

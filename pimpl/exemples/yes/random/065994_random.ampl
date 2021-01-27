@@ -1,0 +1,1 @@
+program S : main : do R(- (26 = 99) rem true, false < - 600, - 2 /= - 92 - 73300); while(60000) <= - 8 - 731 : chillax end; when case - not 536 < - 37 - 0 : let c = array 2; let KP = 74900; when case 1 : chillax end; pop end otherwise : input c; let v = 339 end; pop; output 9 end

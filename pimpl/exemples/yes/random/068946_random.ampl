@@ -1,0 +1,1 @@
+program p : main : I6paa, Cx, d, R1, Fr : boolean array; E48 : integer array; pop 65 + true and 7 <= (74) and 61; pop not 7 and 3 or 58 < - 41; while false + 9 - 5 > - 8 - 60 : chillax end; pop 65700 end

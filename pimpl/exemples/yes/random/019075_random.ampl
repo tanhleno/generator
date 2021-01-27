@@ -1,0 +1,1 @@
+program L0w : QYDa : takes f, lJS : boolean array; p, zk, _8daa : integer array returns nothing chillax end RI : takes o : integer returns integer V : boolean array; O6, a, H : boolean array; input Q[0 - 3] end main : while - not 2140 : chillax end; while - not(10) * not 23 and 7 or(37) and 67 : while 0 = 6 : chillax end end end

@@ -1,0 +1,1 @@
+program j : i : takes m, d : integer; yp : boolean array; Bd, m, J : boolean array; s : boolean array; jL : integer array returns integer array output - 8 - 3 <= 80 . "["; let L26 = array - 63 end main : chillax end

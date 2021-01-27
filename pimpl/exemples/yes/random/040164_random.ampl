@@ -1,0 +1,1 @@
+program GJ2 : u : takes L : boolean array; s : boolean array returns nothing U3, _Q : boolean; C, G, m, ecga : boolean array; chillax end b : takes b, xA4, i : integer; w, p : integer returns integer array chillax end main : let OC[O / false * true and 6 - true] = - false or 9 and 28 - 69 - 9 < (7) and 409; let T8k0 = (9) and 0 = 17 end

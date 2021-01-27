@@ -1,0 +1,1 @@
+program h : Dexaa : takes o6 : boolean array; LT, z, v : integer array returns nothing G, h3F0 : integer; do iF(- false and 0 <= - 7, - 6 >= 2, 4 = 13, 761, 55) end MsS0 : takes f310a, tznaa, d, q, R, K26 : boolean; r, r : integer array returns nothing b : boolean; input _ end main : r1 : integer array; chillax end

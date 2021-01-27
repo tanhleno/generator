@@ -1,0 +1,1 @@
+program x43 : k : takes V6, B : boolean array returns nothing output 628 <= 00; while 6 <= 354 : while 9 : chillax end end end Q4 : takes YB, g6 : integer array; _ : boolean returns nothing chillax end main : pop end

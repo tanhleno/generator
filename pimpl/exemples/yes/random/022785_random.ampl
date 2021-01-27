@@ -1,0 +1,1 @@
+program Ls : dp : takes FC, e : boolean array returns nothing when case - true and 44 : chillax end case - 386 - 66 > 94 : chillax end otherwise : output "6" end end main : x, A : integer array; when case V / not 66 - (8) * true and 07 : chillax end case false and not 1 + 5 = (126) : chillax end otherwise : pop; input qtI end end

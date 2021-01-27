@@ -1,0 +1,1 @@
+program k : I : takes L : integer array returns boolean f2, E : integer array; CN, _ : integer; K3r, O, B0 : integer; chillax end Ggy0a : takes fM, H93 : boolean array returns boolean array let EVG = 88 = 24 end main : let F6ba[true * ag[744] * not 22100 + 4] = (4) >= (98100) end

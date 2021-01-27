@@ -1,0 +1,1 @@
+program A : j : takes y6za : integer; OK1a : boolean; m, p3u0, P7, x5, x : boolean; aV : boolean array; gG : boolean array; F6, _, Qg : integer returns nothing H, f : boolean array; chillax end main : Z, q : integer array; while - 73 or true / false or true and 94 /= true rem 7 + not 82 and 6 : chillax end end

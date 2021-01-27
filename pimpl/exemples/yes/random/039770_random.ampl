@@ -1,0 +1,1 @@
+program e : av60 : takes k9o : boolean array; Z : boolean array; h, a6, l : boolean array; A : integer array; h7, z : integer returns nothing u, n9 : integer array; when case false : chillax end case - 910 : do ou4(5); input gl3; pop end end main : chillax end

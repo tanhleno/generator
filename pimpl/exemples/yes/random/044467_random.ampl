@@ -1,0 +1,1 @@
+program N : Z : takes Y4 : boolean array returns nothing ql : boolean; e, h : integer; W, dA : integer; ni0, B : boolean; l : boolean; o : boolean; chillax end zi50a : takes b : boolean array returns boolean array Q, Ry7, D, Ak7 : integer array; chillax end main : when case - not(8) - 27 : while - 97500 > 5 : chillax end end end

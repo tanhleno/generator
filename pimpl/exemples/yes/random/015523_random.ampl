@@ -1,0 +1,1 @@
+program B : _ : takes rx, R0, Yf30a : integer array returns nothing t : integer array; t : integer; chillax end main : X, v : integer; output - 41300 and(585) and 906; do ep(not true + false and 8) end

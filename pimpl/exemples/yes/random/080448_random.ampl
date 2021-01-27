@@ -1,0 +1,1 @@
+program NL40 : main : X50a : boolean; when case 199 / RH >= 3 : pop; while 21600 : chillax end end case false * 4 and 4 /= - 55900 and 0 : chillax end otherwise : output 4 . "" . ""; when case 4900 : pop end otherwise : chillax end; do x6(070) end end

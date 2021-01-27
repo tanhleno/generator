@@ -1,0 +1,1 @@
+program A7ca : g : takes gs : boolean; V, bUha, n : integer; Q, yyCa : boolean; _ : boolean array returns boolean I4 : boolean array; B, l5d0, P : integer; while 1 or 9 : chillax end; while - 89 : chillax end; pop; when case 4 : pop end otherwise : chillax end end main : pf, m : boolean; X, e49a, gs80 : boolean; while - false or Y5[78] * true and 5 : chillax end end

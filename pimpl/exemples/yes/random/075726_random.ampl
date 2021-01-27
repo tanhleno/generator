@@ -1,0 +1,1 @@
+program _ : main : x, C : boolean array; while - true + not not 22200 - true and 0 /= (0770) - T or 4 : when case - 50 - 757 > 720 : while 574 : chillax end; output ""; pop end case 312 : chillax end otherwise : chillax end end end

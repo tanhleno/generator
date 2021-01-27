@@ -1,0 +1,1 @@
+program nX : Gl : takes WK, C4, P, hN1 : boolean array returns integer g1 : integer array; chillax end jdh0 : takes B, z, E : integer returns nothing chillax end main : output "2w\"a"; do i3(- 787 / not 5 and 82 - not 08 and 1, - o8 and 5 + 00 < 19000 - 0, - 78 = 517, 1, 26, 5); pop end

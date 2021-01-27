@@ -1,0 +1,1 @@
+program t : C : takes Q, g5q0, h9M0a : boolean returns boolean array G : integer array; chillax end fo : takes RE : boolean returns boolean array A : boolean array; chillax end main : output - (04) < - 4 or 9 - 40700 . - true and 477 end

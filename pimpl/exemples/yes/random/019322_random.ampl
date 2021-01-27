@@ -1,0 +1,1 @@
+program K : R : takes q3, t : boolean array; r, f : boolean returns integer array do sTj(not 850 or 2 - 64 > - 867 - 6) end main : b, uer0 : integer; while 2 / 8 <= true : chillax end; while - not j and true - 39 and 2 <= 7 : do Y7(0, 0, 1); pop; while 8 : chillax end; pop; pop end end

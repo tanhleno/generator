@@ -1,0 +1,1 @@
+program R : e17 : takes T2Jaa : integer array; y : boolean array returns boolean array while - not 9 - 73 - 8 > - 91 - 1 : chillax end; do mco0a(469 - 60 <= 2); when case 1 = 6 : chillax end otherwise : chillax end end main : e : integer array; input K6[- true rem not(0)]; when case(59) / X + false and 211 or 08400 : chillax end end

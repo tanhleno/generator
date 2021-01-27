@@ -1,0 +1,1 @@
+program f : L : takes G150a, g, H, M7 : integer; T, N09 : boolean; O_9 : boolean array; TZPaa, h : integer array; jW, M, d2Jaa, I0 : integer array returns nothing pop; output 6 = 23 end main : let D2 = array - 697 end

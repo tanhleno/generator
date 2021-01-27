@@ -1,0 +1,1 @@
+program f2 : l : takes c, WDp0a : boolean array; bTM : integer array; K4K0 : boolean; Q, R23 : boolean; V : boolean array returns boolean pop - 1 > 35 end n490a : takes fLha : boolean array; OL10 : boolean array returns nothing KH, o : boolean array; j, R : boolean array; Cu, Gn : boolean; z35 : boolean; A : boolean; chillax end main : k54 : integer array; chillax end

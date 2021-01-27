@@ -1,0 +1,1 @@
+program c : Mt10a : takes x : integer array returns nothing T, E : integer array; when case - true : chillax end case - 59 - 8 : when case 5 : chillax end end otherwise : chillax end end main : V : integer array; while(33) and 81 * 0 and 00700 : while 9 = 146 : chillax end; let E11 = 155 end end

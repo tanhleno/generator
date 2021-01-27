@@ -1,0 +1,1 @@
+program A : k8 : takes P26a, b : boolean; D : boolean returns boolean W7, C : boolean; M, t : integer; when case - not 4830 >= - 057 - 8 : chillax end case 8 : chillax end; output "" end main : W : boolean; chillax end

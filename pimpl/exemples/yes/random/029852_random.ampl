@@ -1,0 +1,1 @@
+program S : jR : takes u, sD30 : integer array returns integer array ni : integer array; OY, qk, l, d : integer array; B : integer; when case(260) and 1880 >= - 998 : chillax end; while 840 >= 8 : chillax end end main : chillax end

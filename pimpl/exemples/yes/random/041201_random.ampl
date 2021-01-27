@@ -1,0 +1,1 @@
+program G : N90aa : takes fw : boolean array; t0 : integer returns boolean array Kp, D, V9n0a, F, c : boolean array; Mv, rA, b6R : integer array; J9s, a : boolean; chillax end M : takes E3 : boolean array; I, eQhaa : boolean array; u : boolean returns integer chillax end main : output 4 + 629 and 16 or 2 end

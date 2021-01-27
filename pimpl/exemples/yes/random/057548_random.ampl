@@ -1,0 +1,1 @@
+program ya : Bz0 : takes S : integer array; A : integer returns nothing let GU5[ov0 + 81 - 82] = array - true - 8; when case - 1 : chillax end end a : takes J : boolean array returns nothing chillax end m : takes X : boolean array returns integer array input PoF[5450] end main : chillax end

@@ -1,0 +1,1 @@
+program Z : N750a : takes kWP, A6L, u10a : integer returns nothing when case true - 1 - 40 : chillax end case - 83 < 3360 : while 03 : chillax end; when case 69 : chillax end end otherwise : let Sd5 = 5; let D = 9 end end main : when case - I[1] >= - 3 or false and 6 or 3 - 2 : let g50[0] = 9 = 7 end; output ""; input A[X0ka or 4 - 26100]; input tP2[- 5] end

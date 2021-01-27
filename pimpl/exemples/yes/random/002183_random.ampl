@@ -1,0 +1,1 @@
+program x : s : takes Xj, Y, A6, eU, x93a : boolean; m0, w : boolean array returns integer F7D : boolean array; E : integer; chillax end main : while - (6 = 3) or not true and 4 : let l[639] = array 8 - 74; input f; pop; while 94 : chillax end; do F(7); pop end end

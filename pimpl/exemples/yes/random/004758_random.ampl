@@ -1,0 +1,1 @@
+program k0P : a3 : takes E, S, r, gG : boolean array; v7, K, g, O9 : boolean returns boolean array V, bO : integer; Ct, n9 : integer; _Pe : boolean array; do Zb(- (97000) or 971 - 40, 697 - 290, 1 = 6); do Dc1(9 - 11, 5) end main : d6K0a : integer; do K(- (5130 = 4) and eh[5] <= - (5070) rem not 33 and 3 + (397) + 39); output "" . 58 end

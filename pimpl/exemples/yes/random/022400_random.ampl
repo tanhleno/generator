@@ -1,0 +1,1 @@
+program G : c : takes v, Vv : boolean array returns nothing i : boolean; gkg, d0 : integer; wq : boolean; chillax end o85 : takes CNv : boolean returns nothing while - 9 - 24100 >= 4 : input T end; while 9380 : chillax end end main : chillax end

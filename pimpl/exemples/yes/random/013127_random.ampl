@@ -1,0 +1,1 @@
+program gs : C0 : takes b, v, i0 : integer; Rn : boolean; o9 : integer array; j : integer returns nothing c : boolean array; chillax end _0 : takes S : integer array; C, Y : boolean array returns nothing when case 6 >= 5 : let Ul = 7 end case 3 = 5 : chillax end case 7 : chillax end end vZ5 : takes JQx : boolean array returns integer chillax end main : chillax end

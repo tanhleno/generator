@@ -1,0 +1,1 @@
+program Oi : z : takes q08 : boolean; U, a6, F, F41 : integer; Y, u, g : boolean array returns boolean FN0, Bt : integer array; Ee0 : integer array; d : boolean; chillax end main : do H9(- 7 = - p[7]) end

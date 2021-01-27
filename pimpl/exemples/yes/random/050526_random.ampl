@@ -1,0 +1,1 @@
+program Kq : W2 : takes C59 : integer; g3, IgU0 : boolean array; L3 : integer; d : boolean returns nothing v : boolean; chillax end main : Y, BU : boolean array; pop 4410 > not 4110 and 9; when case - 3 / C - true and 699 <= false - 2750 - 5 : chillax end otherwise : output 2; pop end; input nv[- q3 and 6] end

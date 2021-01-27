@@ -1,0 +1,1 @@
+program J : T : takes d, m, c, U4 : integer; L6aaa, j1, rwk, J : integer array; Dm70, i : integer returns nothing input GZ2[- true and 2]; pop; do f6(8); while 6460 : chillax end end main : _ : integer array; g4y : integer; do WG(- true rem not true + true / ZC1 + false or 74) end

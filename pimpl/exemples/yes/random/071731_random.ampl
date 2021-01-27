@@ -1,0 +1,1 @@
+program Z : main : X5, i15, O : boolean array; xMQaa : integer array; when case r9 * 8 - 2780 / 095 and 46 /= false rem(51) or(2) : while 1 - 5 < 62 : output "2"; do e(11) end; input m6[9] end otherwise : chillax end end

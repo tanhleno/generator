@@ -1,0 +1,1 @@
+program C : p : takes P6, R, E3 : integer array; L : integer array returns integer let e = 333 - 07500 < 92700; let Q[- 21 - 3] = array 0 - 2 end main : pop; input Q4oaa[- false rem 24200 + c72 and 883] end

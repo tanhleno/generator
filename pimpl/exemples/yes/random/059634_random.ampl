@@ -1,0 +1,1 @@
+program Q1K : H5caa : takes _ : integer array returns nothing chillax end l7 : takes W010a, Z, F, p, RP4aa, Z : integer array returns nothing _j, uJ, P, U : boolean array; chillax end main : do Bkea((424 = 73) <= - not(15) * false, not 8 < 1 and 709 or 40 - 473, - not 1 /= 6 - 0) end

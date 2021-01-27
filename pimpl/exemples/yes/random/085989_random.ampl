@@ -1,0 +1,1 @@
+program skBa : main : Lu : integer array; um, in : boolean; cg6 : integer; Z : boolean array; input B[- not(5) rem true + tX2(0) - not 96 and 48]; when case - Dz(4) and true and 23 : chillax end otherwise : chillax end end

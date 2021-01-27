@@ -1,0 +1,1 @@
+program V3 : hX : takes H : integer array returns nothing iG : boolean; do b((0), 1 - 34, 53200 = 2); pop; do Z(1, 2930) end H : takes o, U : boolean array returns nothing pop; while 5 : pop end; input Y53; while 1 : chillax end; output "*" end main : K38, xB, J : boolean; I, gz, Z : boolean; let l[- 3 / (9) + (495) or 6 and 2 + 6] = array - false end

@@ -1,0 +1,1 @@
+program M : j : takes L : boolean; dd90a : integer; U, D, d8, VB, F3 : integer array; Q : integer array returns boolean array input a end c8 : takes p, e1 : boolean array; m : integer; K, J : integer; o4, S : integer returns boolean array when case - 3 - 5 > 7 : chillax end; output 3 . 6 end main : chillax end

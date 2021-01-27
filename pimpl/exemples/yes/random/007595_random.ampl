@@ -1,0 +1,1 @@
+program j : l : takes m, T, Am4, kf : integer array returns integer chillax end main : let uE70a[true / false - true - false and 7 - 6 - 7] = array - L9(296, 4) * not false - G(1) or true and 0 or 0180 end

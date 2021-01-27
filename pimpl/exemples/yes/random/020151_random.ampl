@@ -1,0 +1,1 @@
+program uc50 : q : takes S, l : boolean array; L : boolean returns integer chillax end PG3 : takes mKG0, b, L7 : integer array returns nothing I14a, _n : boolean; chillax end main : when case 1980 / (8) : chillax end otherwise : when case 540 : chillax end end; pop - y36 and 16 - 07; output "" . 9 . 21 . "\t" end

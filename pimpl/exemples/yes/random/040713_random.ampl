@@ -1,0 +1,1 @@
+program s : u6I : takes Pi : boolean array; u : integer; n : integer returns integer chillax end LIxaa : takes Z, E, o : boolean; i47, i, QNw : integer array returns nothing chillax end main : chillax end

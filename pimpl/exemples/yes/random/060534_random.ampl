@@ -1,0 +1,1 @@
+program g : JPga : takes B : integer array returns nothing yd, j : boolean array; N, u : boolean array; while X2 and 0 > 2 - 7 : chillax end; output ""; when case 6 : output "<" end otherwise : pop end; do ya(7); when case 3 : chillax end end main : pop; let GN = - not 5 end

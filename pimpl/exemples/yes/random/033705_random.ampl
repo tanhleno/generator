@@ -1,0 +1,1 @@
+program N : C2 : takes J5 : boolean; f2vaa, h, U, e9 : integer returns integer array da, W : boolean; x, F1 : integer array; chillax end main : pop - (3) and false and 15 - true - 6910; while false and not 8 - 8 or 94 - 6 : chillax end end

@@ -1,0 +1,1 @@
+program t : Lopaa : takes k, u, uK : boolean array returns boolean array e : integer array; chillax end main : input K5F0a[true rem KA70(2690) + 1 rem false]; while true or(62) and 7 < not 2 and 465 : chillax end; pop - 33 >= 35; pop 86 end

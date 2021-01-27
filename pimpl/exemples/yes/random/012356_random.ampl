@@ -1,0 +1,1 @@
+program f : U8q : takes J, p, Kc : boolean returns nothing YJ : integer; chillax end pBK0a : takes Z : boolean array; Uxm : integer array returns nothing p940a, G : boolean array; b : boolean array; while 7 : output "" end; output 91; let sQo[44800] = 4; while 0 : chillax end; input HY; pop end main : R, os, xP, Fr8, A2q, Z, Wq : integer array; O, e : boolean array; chillax end

@@ -1,0 +1,1 @@
+program a : tx : takes C0oa, m : boolean returns boolean array let Y = - 410; output 9 . 875 . "\"6"; do q1e(4010 = 4) end H86 : takes Xx : integer array returns nothing while - 8 - 57 < 8 : chillax end end main : let _[- 38] = false; when case - Nq + true and 4 <= - true + 76 : chillax end case - (0) + 5 : pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program e4 : D : takes y, p3, M73, nc, l : integer array returns boolean zB8, Cm : boolean; Z6, wG0aa : integer array; lo : boolean array; chillax end Ya : takes fa40, jO : integer; A, W1 : integer array; S, u : boolean; H : integer array returns nothing do I(8 < 6, 7, 0600) end main : SI2, s9E : boolean; n9ua : boolean; pop - (4150) or(53) < - (23) and 6040 end

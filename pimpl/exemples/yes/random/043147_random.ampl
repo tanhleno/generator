@@ -1,0 +1,1 @@
+program Ivk : i : takes P : boolean array returns integer VdIaa, f : integer; wW, Y, XNH0 : integer array; l, IW, FeUa : boolean; chillax end b : takes Rg, Ns4 : boolean; F, Om9a : boolean returns nothing b4z : integer array; y : integer array; l, l : boolean; pop 3 = 3; let cZp[8] = array 031 end main : chillax end

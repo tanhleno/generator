@@ -1,0 +1,1 @@
+program hjXaa : T : takes Oi2, G8, Y : boolean array returns nothing i : boolean array; W : integer array; M : boolean; _8l0 : boolean; X : boolean; G : boolean; pop end main : do x(- F6[6] / not(01) * false - false rem not 251 and 62 or false < 4 or D) end

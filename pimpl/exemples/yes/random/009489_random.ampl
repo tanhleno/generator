@@ -1,0 +1,1 @@
+program MK : V : takes A0P, O, Vc6a : boolean; S : integer returns nothing GC80a : integer array; while - (1) = - 2 : pop 7 end end c : takes i : integer; Y : boolean array returns integer array _3o0 : boolean; do h(5 >= 5, 14 = 088, 6) end main : j2i0, N : integer; chillax end

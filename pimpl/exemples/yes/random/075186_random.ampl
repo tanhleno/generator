@@ -1,0 +1,1 @@
+program W8a : main : Q0, o0 : boolean array; X : integer; Hz, WZ6, z : integer array; o, HGlaa, D : boolean; when case - 591 <= 8 and(42) and 2 : while 18400 - 35 : chillax end end otherwise : do H(2); input s[1020]; when case 30200 : chillax end end; while true and(598) : let V[3] = 1 end; input Y3C end

@@ -1,0 +1,1 @@
+program J : K6Xa : takes d8, p, pv, P : boolean array returns integer ZL : boolean array; let A = array not 624 + 3 - 08; pop 249; pop 1; do LO4(36); input Y0; pop end main : while 90 / false and(75) and 7140 > - not(55600) : chillax end end

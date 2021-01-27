@@ -1,0 +1,1 @@
+program IA : F4 : takes W : integer; d : integer array returns integer t : integer array; let m[- true or 9] = array true; do V(473 - 4 < 5, 3, 7) end main : O, Wji0a : integer array; P, h, S, rm0, n83aa : boolean; when case - false and true and not 80 - false < false * false : chillax end case - false and(62) + false and 8 < - (2) : chillax end end

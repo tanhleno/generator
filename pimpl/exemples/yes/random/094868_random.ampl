@@ -1,0 +1,1 @@
+program A40 : main : pop; while true / 2 and 9140 : chillax end; let k_ = 22 >= 0; when case 14 - 8 : while 88 : chillax end; let f = 303 end case 829 : chillax end case 231 : pop end otherwise : chillax end; while 61900 = 881 : output "\\"; pop end; while 44 : chillax end end

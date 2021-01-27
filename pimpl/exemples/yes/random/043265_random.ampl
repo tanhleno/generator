@@ -1,0 +1,1 @@
+program f : X_ : takes o : boolean array returns integer EV4 : integer array; H8 : boolean; y, v : boolean array; chillax end main : let r[- false rem not 582] = array - 4 + true; input C[not(2) and(2) or not 69200 - 7]; input pB[5 and 181] end

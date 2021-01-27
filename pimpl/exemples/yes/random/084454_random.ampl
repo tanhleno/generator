@@ -1,0 +1,1 @@
+program C : main : j : integer; b : integer array; r3, nB70a : boolean array; do T(- false * true - (8) / 3 and 00500 - (743) /= 29 rem true + (96200), false * not 345 and 59, - C9t0 and 35500, - 88 - 81200 = 1) end

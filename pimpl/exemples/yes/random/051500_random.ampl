@@ -1,0 +1,1 @@
+program F : d : takes r4 : integer; R : boolean; T : boolean returns nothing while r7i and 2 > 75 : chillax end end y : takes y1 : integer array; w6 : boolean array returns nothing do s(- 268 - 90 = 6) end main : chillax end

@@ -1,0 +1,1 @@
+program d6Ga : v : takes D, n9, G3 : integer; h : boolean returns nothing w : boolean array; chillax end main : X440a : integer; do Q(- false = not false, (9) - true and 2 or 62 > Q); do CoRaa(not false / f and 82 or f and 2 - 36 - 8 < 4); when case - u630a - 1 - 1 : output 92 end case - 59 - 0 : let l = 1 end end

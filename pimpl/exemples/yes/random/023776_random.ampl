@@ -1,0 +1,1 @@
+program ZI90 : cb : takes rj, W : boolean returns integer N7ha : boolean array; when case false and 434 : chillax end end aB : takes n1 : boolean array; r : boolean array returns boolean let e = array 1 - 0 end Iu3 : takes sV, I, o7B, kKc, oFI : integer returns nothing output 47 end main : chillax end

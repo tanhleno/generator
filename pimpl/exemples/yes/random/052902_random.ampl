@@ -1,0 +1,1 @@
+program H : F : takes M52 : integer; zb9 : integer array returns boolean pop end CU : takes i0O0 : integer array returns boolean do ItC0a(1 - 27 >= 41); let O = 9; output 1; while 4 : chillax end; when case 6 : chillax end; pop end main : chillax end

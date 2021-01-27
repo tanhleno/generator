@@ -1,0 +1,1 @@
+program f : main : J : boolean array; let o3a0a = - y[93] + v and 6 - 831; while Etw[4350] rem false and 7 - xj1 - 0 <= - 4 + 1 : chillax end; while f and 25 < - 83 - 0 : chillax end; input i[1 - 83] end

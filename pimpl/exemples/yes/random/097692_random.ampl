@@ -1,0 +1,1 @@
+program Pa : main : when case true or not 715 - S710a and 5 + 66800 < - (1) rem(7) and 682 : do MH(- 3 - 5); pop 704; do aY(0) end case(1) = false or 66400 - 0 : output 5 . "<" end case - true and 719 : chillax end end

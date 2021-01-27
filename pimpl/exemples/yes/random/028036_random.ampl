@@ -1,0 +1,1 @@
+program azl0a : W : takes T6, a : integer array; Dl3, r2 : integer array returns nothing while false - 3 - 82 : chillax end; while - 7 = 325 : input V end end C8 : takes d, k1f0, E8a0a, mE : integer array; il10a : integer array returns integer do b(- 33 - 7 <= 2) end main : chillax end

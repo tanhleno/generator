@@ -1,0 +1,1 @@
+program KX : a : takes N6, D6Z0 : integer array returns nothing BPmaa, W0 : boolean; while - 258 and 55 - 24 = 85900 : pop end; pop 05 end T2 : takes sI, AN : boolean returns integer chillax end main : chillax end

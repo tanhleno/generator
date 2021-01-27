@@ -1,0 +1,1 @@
+program K : Ftwaa : takes g, n : integer; ss, J20aa, zZ : integer array returns boolean _, B4 : boolean array; while f and 970 < - 1 : output 44; while 1100 : chillax end end; input Sx; do Q(5, 600, 6) end main : q : boolean array; while not(431) - L(6) / not 0 - (61) or 99 = - (2) rem a + 577 and 7 + 9 : pop 494 = 67000; while 8 = 74 : output "&"; pop end; input Pp9[19] end end

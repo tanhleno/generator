@@ -1,0 +1,1 @@
+program p : u : takes F : boolean array returns nothing vri, QVV : integer array; hCH0a, tzk0a, td00, _ : integer; je : boolean array; C, z16 : boolean; chillax end k : takes fD : integer array; U9Taa : integer array returns boolean array pop; let K = 803; output 37 . "*<a" end main : chillax end

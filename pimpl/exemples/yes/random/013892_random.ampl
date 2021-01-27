@@ -1,0 +1,1 @@
+program k6 : B : takes k1e, v630a, MZ1a : integer array; M5Caa, Y : boolean; Qo : integer returns integer C06 : integer; chillax end En : takes D5, F370a, J, V8, kS10, cz, u9yaa : boolean array returns integer lC_a, t7 : integer; chillax end main : J, L780 : boolean; output - A[3] + true - 8 - 3 /= - (19) and 03; output - false - 9 . "6;" . 6 . 5 . 9440 end

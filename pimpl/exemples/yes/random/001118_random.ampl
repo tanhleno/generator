@@ -1,0 +1,1 @@
+program yL : w5 : takes p, t, hS, x0, B67, V : boolean; W, vi : boolean array; w05 : boolean returns nothing while - (2) and 6 : pop 9 end end P06a : takes T6 : integer array returns boolean array chillax end main : pop n3 and(614); when case false : chillax end otherwise : chillax end; output "" . 32 = 122 . "" . "" end

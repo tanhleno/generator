@@ -1,0 +1,1 @@
+program k : L : takes T : boolean array; N8 : boolean returns integer while - N3 or 1500 : while 0 : pop end; while 5 : chillax end end; output ""; do z(8 = 4); let W[40] = array 568; when case 510 : chillax end; input W end x : takes a73 : boolean; _720a, E, k25 : integer; J : integer array returns nothing chillax end main : chillax end

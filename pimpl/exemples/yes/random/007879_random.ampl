@@ -1,0 +1,1 @@
+program wm7 : C0 : takes e, Z, J66, R : integer array returns nothing when case 058 and 1 : input O; input i3c0 end otherwise : chillax end end aN3 : takes Yy3aa : integer array; s, n, O7, Q, D07aa, Zej : boolean array; jc4aa : integer returns boolean _0, E58 : boolean array; while - 8 <= 3 : chillax end; input S end main : chillax end

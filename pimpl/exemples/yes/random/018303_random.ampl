@@ -1,0 +1,1 @@
+program K : D45 : takes W, AH : boolean; Ls : integer array; S : boolean; i4, z3 : boolean array returns nothing when case true + 26 - 7 = - 06 - 51 : chillax end; pop 2 end main : s2 : integer; J5, dd, XT, Va, J, b0E0 : boolean; O420a : integer; y8, v, O1 : integer; while true rem(07) : output 852 = 2070 . "" . 5; do vY(4) end; while 067 <= true and 3 : chillax end end

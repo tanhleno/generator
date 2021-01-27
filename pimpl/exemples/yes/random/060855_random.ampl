@@ -1,0 +1,1 @@
+program p : Vv : takes l : integer array returns nothing fV : boolean array; chillax end main : y : boolean array; m1ja : integer array; w7, o4 : boolean array; while Pj(1450, 3) : input o2ca[60]; let V520a = 11; input g7; pop; input x end; let hPra = array - false end

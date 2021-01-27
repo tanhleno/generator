@@ -1,0 +1,1 @@
+program c : main : a : boolean; a4, Jw, TY4aa : integer; d, L : integer; o, yVC0a : boolean array; M, p, wO6 : integer array; s : boolean; let N5Naa = not not 23400 / Xmy0a and 5; do I7(- 0 * 464 and 59 /= - not 35 and 138 - 9); output "/F" . 8 = 51 end

@@ -1,0 +1,1 @@
+program jmca : d : takes ql : integer; k : boolean returns nothing chillax end j : takes I0G, J00 : boolean; F, j, Q, w910a : integer; fW80a : integer returns boolean array chillax end main : o : boolean array; chillax end

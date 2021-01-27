@@ -1,0 +1,1 @@
+program _ : p : takes D4, tosaa : integer returns boolean array let P9g[- (1) and 95] = array 6 + 06 - 7330 end main : R, m7, U5, L, y01aa, Urq, R : integer array; O1z, d : boolean array; B, R28 : integer; output 23 rem(14) >= true end

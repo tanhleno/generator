@@ -1,0 +1,1 @@
+program p1 : x : takes oFY, J, Cx8, V : integer; _4 : boolean array returns boolean array let LA[- iD and 29 or 61400 - 3] = 3 end main : u : integer; output - not false rem true and 1 - true > true and 91; input H27; while - not 43 : chillax end end

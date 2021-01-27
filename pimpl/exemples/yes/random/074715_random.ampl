@@ -1,0 +1,1 @@
+program yJ8aa : main : DN, T9 : boolean array; g6, pE8, X : boolean array; input p6s[true rem(3) * 32 + not(89) and true]; when case - false : while 51 : chillax end; pop; pop; do t(2) end otherwise : chillax end; do z(- (5) and 5 or 8000 - 63, 8 - 23) end

@@ -1,0 +1,1 @@
+program S1 : main : n : boolean; Qkt, T, ZtDaa : integer array; do Q(false, not 75300, - 9 and 63 - 1 - 7, - 19, 92); input C0; input a[- true and 0]; when case - 2 : chillax end case 98 : chillax end case 18 : chillax end case 6 : chillax end otherwise : while 443 : chillax end; pop end end

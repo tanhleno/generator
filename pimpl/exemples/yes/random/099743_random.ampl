@@ -1,0 +1,1 @@
+program X : main : while 10 and(10) * 582 and 9 : let ke20a[6] = array 1 - 6 end; while - 9 + false and 9 - 88 <= true or 2 - 8 : do A(0); when case 8 : pop end otherwise : chillax end; let S4c = 0; pop end end

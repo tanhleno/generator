@@ -1,0 +1,1 @@
+program K3 : F : takes pQ2 : boolean returns integer S, WE, x, gW, D9 : integer; u : boolean array; UT, X, J : integer; L : boolean; chillax end main : oj, Io3aa : boolean array; l, h, k, R : integer array; chillax end

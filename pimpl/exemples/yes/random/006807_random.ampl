@@ -1,0 +1,1 @@
+program b7 : j8 : takes h, p, j3, c81a : integer array; C860a, Vvi0, W010a, S, OV8aa, E8E, v : boolean array returns nothing i, e, wHh : boolean; z, S91 : integer array; Q, y38, S : integer array; let U = array false or 84 - 1600 end main : g : integer array; while not(80) or false or E : output 47 end end

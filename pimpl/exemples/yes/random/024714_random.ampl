@@ -1,0 +1,1 @@
+program P7s : O63 : takes o, v : boolean returns nothing let K5 = array true and 23500 end dFIa : takes Bu : boolean; p380 : boolean; xc, n, a, RBr : boolean returns nothing output "\t"; output "" . 005 end V : takes wbh0a : boolean array returns boolean chillax end main : l : boolean array; chillax end

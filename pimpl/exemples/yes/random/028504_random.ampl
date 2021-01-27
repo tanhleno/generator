@@ -1,0 +1,1 @@
+program S : I0A : takes Z, ph : integer array; i : boolean returns boolean array kl60, W50 : integer array; chillax end main : while - false and(31) or true - (3) and 0 + 71700 : while - 15 : chillax end; when case 5 : chillax end otherwise : chillax end end; let s = - not 955 end

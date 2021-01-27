@@ -1,0 +1,1 @@
+program P : Oz : takes j : boolean; P8P : integer; V, B, y0h0 : boolean; _8, Rp : integer array returns nothing d, P6Ta, mp10a, GD60a, c31 : integer array; chillax end S3 : takes T130 : boolean; GSv, d8j0, s57 : boolean array returns nothing p2ra : boolean; chillax end main : g, f : boolean; chillax end

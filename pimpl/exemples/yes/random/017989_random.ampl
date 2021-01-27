@@ -1,0 +1,1 @@
+program B5 : L4 : takes JDpaa, Hg : boolean; txYaa : boolean returns boolean input Oz7; pop end L : takes o : integer returns nothing Q : integer; ur70a : integer; f, P73 : boolean; P : boolean; a5 : boolean; pop 2 = 78 end main : chillax end

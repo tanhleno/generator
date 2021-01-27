@@ -1,0 +1,1 @@
+program s68 : V6q : takes G7L0a, N60 : integer; c6d0, RE1aa : boolean returns nothing j : integer array; n : integer; d, tg3aa : boolean array; H97, Rw : boolean; X : boolean; output 5 - 70600 > 30 . 0 = 4 . ""; pop end main : h : integer; while not true rem not false / (95) or not a and 8 : chillax end end

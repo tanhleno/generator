@@ -1,0 +1,1 @@
+program _ : R : takes l, K, s, F, B : boolean returns integer array when case false - 1 - 1 : chillax end; pop 9; let d[2] = 030; let K13aa = array 1; pop; pop; pop end mCVa : takes l : integer array returns nothing output 9 = 0 end main : input U7Z end

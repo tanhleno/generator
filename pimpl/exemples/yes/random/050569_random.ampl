@@ -1,0 +1,1 @@
+program B : H5S : takes LC : integer; i, e : boolean array returns boolean s4 : integer; v : boolean; z9, l : integer array; while - (3) and 69 or 377 - 8 >= 1 - 9 : chillax end; pop; while 1 = 3 : chillax end; when case 8 : pop end case 724 : chillax end; pop; do u(5); pop end main : output - true * 1 - not 11300 and 8 or 2 . - false and 1 < 9660 - 7 . - 6480 end

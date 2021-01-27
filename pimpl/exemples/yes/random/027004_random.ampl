@@ -1,0 +1,1 @@
+program B0Xa : o : takes X7t0, o7y : integer; e : integer returns nothing let s[true and 052] = - 4 - 6 /= 80; when case - 31 >= 729 : when case 8 : chillax end; when case 2 : chillax end end; when case 49900 : chillax end otherwise : pop end end main : while not e or true : chillax end end

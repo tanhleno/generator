@@ -1,0 +1,1 @@
+program Ca : Y : takes s, K3, r, r, G : integer array; Ga : boolean array; S, Y65, M9, X : integer array; T, E : integer; g : integer returns nothing when case Ab : chillax end otherwise : chillax end end main : while true + false / k0 and 26800 >= - false : input eN[- 920] end; output "^" end

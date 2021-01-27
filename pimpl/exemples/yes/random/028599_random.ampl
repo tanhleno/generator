@@ -1,0 +1,1 @@
+program r3 : FH : takes p, dB3 : integer array; m : boolean returns nothing _ : boolean array; I, H, Z : boolean; q : boolean array; pop; input pH[39] end main : l : integer; c5, yd8 : integer; chillax end

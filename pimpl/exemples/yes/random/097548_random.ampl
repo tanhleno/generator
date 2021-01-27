@@ -1,0 +1,1 @@
+program R : main : when case true * true and not 36 and 0 = true * not 6 - z and 9 : chillax end case - false <= 6 and 58 - 6 : let e[35] = array 27; let p57 = array 01 end otherwise : while 3 : chillax end end end

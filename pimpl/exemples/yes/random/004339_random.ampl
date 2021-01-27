@@ -1,0 +1,1 @@
+program n3 : nYDaa : takes d, h65, k, o : boolean; B, z : boolean array; x : boolean array returns integer array do aP((271) or 923 - 0, - 6 >= 96, 315 = 5, 62800); do z(- 5 - 58 < 1, 7); output 0 end main : chillax end

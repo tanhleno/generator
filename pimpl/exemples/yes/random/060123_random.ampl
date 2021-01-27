@@ -1,0 +1,1 @@
+program iyq : c : takes h : integer array returns nothing do B(- false and 7 + 595); pop 2 = 9; pop; output 70; let o1qa = 07 end main : when case - not(4) or 9 rem true and 6 > 874 + not 5 + 4 : let J3 = 7 end case - zw[3] / e4o and 8 : do m(9 = 2, 7, 456) end otherwise : output "" . "K" . "@" end; input I end

@@ -1,0 +1,1 @@
+program Q : N : takes v7, U : boolean; L, E, T_, v : boolean returns boolean array G3 : boolean; let x = array - (28); output "" . 9; while 9 = 70 : do rL(7) end; when case 9 : chillax end case 567 : chillax end; while 22800 : chillax end; while 4 : chillax end end main : n6Da, a : boolean array; n, Z : boolean array; e6, Q : boolean; input J[not 5870] end

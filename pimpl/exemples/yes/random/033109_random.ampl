@@ -1,0 +1,1 @@
+program C : g7M : takes l, b : integer returns nothing when case(7) and 2 : input RBR[9]; output "" end case 07 - 834 /= 1 : chillax end case 282 = 74 : chillax end case 77 : pop end; while - 77 : output "8$\"a" end end main : YU80a, mb : integer array; chillax end

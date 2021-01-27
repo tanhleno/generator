@@ -1,0 +1,1 @@
+program QS4aa : G : takes cMD, G, c39aa : integer array; K9, J : boolean array; H : boolean; nw3 : integer; S, P : integer; c : boolean returns nothing chillax end qmn : takes l3, k, r4, oZDa, d : boolean returns boolean x, J, c7c, iW : integer; w : boolean array; chillax end main : M1, w : boolean array; chillax end

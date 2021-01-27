@@ -1,0 +1,1 @@
+program M : b4La : takes d, WR, U, o, h : integer; B : boolean returns nothing when case - o > 235 : chillax end case - 571 = 5 : input hC20a end otherwise : input G; pop; pop end end main : v : boolean array; p, Gq7, w : integer array; ZP, Q990a : integer array; chillax end

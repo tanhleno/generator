@@ -1,0 +1,1 @@
+program C9 : Q : takes V : boolean array; l : integer array; V8, Km, GS, R4 : boolean array returns nothing n41, Vc, l8_ : boolean; E : integer array; NO60a : boolean; C, W : boolean; O110a : boolean; w : boolean; chillax end main : chillax end

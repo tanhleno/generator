@@ -1,0 +1,1 @@
+program HIZaa : U6l : takes Qrha : integer array; eV, hT : integer returns nothing chillax end C : takes rf, s : integer array returns nothing input M[3 - 7]; let u6X = 2 end ZI : takes H, Ei4aa : boolean array; Y : integer returns integer zp5, rC : boolean; chillax end main : output "0-a" end

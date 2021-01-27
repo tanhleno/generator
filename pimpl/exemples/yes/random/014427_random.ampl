@@ -1,0 +1,1 @@
+program o : J890 : takes u, l, Be : integer array; z : integer; r : integer; k : boolean; y : integer returns integer array while 6 and 0 or 1 : output "" end; input u71[- 6] end u : takes I : integer array; j : boolean returns boolean array chillax end main : pop end

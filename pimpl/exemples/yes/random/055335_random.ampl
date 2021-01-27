@@ -1,0 +1,1 @@
+program OOk : UnL : takes nm : integer array; Aj40, Zo00a : integer returns boolean while - 2820 and 08 > - 0 - 53 : chillax end; let Ojc[01 - 91600] = array 928 end main : S, S1 : integer; V, h8, o5p : integer array; chillax end

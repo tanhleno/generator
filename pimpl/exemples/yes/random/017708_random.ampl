@@ -1,0 +1,1 @@
+program p : D : takes e, l3 : boolean; c0 : boolean; NT8aa : integer array returns nothing N, bLH : boolean; when case not 595 and 4 + 610 : chillax end end bgF : takes CG : integer returns boolean chillax end main : qXU, _, HA : integer array; n : integer; chillax end

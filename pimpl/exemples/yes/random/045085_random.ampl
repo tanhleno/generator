@@ -1,0 +1,1 @@
+program e : KHb0 : takes K81aa : boolean array returns nothing output 8270 > 3190 end Y : takes GUN : integer array; Gb : integer; ID, N, Z : integer array; io5, l, M : boolean; V : integer; PT4a : boolean; Iv : boolean; R : boolean returns integer array z : integer; bo, u, sw : boolean; H82 : boolean; input J[1 - 51] end main : S, f0 : integer array; p : integer; chillax end

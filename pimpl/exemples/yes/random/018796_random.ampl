@@ -1,0 +1,1 @@
+program Z2 : JX : takes dr5a, r7 : boolean array; hU, i4m, C, v : integer array; z : boolean; m1Z, J : boolean; A, eM, f : boolean returns nothing chillax end L : takes h52 : integer array returns nothing do F(- 9 - 94 >= 0, 6 = 4) end main : chillax end

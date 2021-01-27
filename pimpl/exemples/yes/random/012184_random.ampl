@@ -1,0 +1,1 @@
+program I30 : p : takes ow, FV90, r : boolean returns nothing T5, V, i, jS70 : integer array; p6, b6, K : boolean array; B55, y : integer array; chillax end main : G, n : boolean; X : integer array; gM : boolean array; while - not false or false * false and 0 + (8) and 6 : chillax end end

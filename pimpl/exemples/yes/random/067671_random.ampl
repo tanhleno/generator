@@ -1,0 +1,1 @@
+program KS00a : main : do U(2 and(3) rem(07) - true, false or true and 6320 or 0890 <= not 40900 + 14 - 59300, - true and 84 <= 0070); when case - (29) + not 4 - 30 <= not 60 : pop end case - zD30 and 8 + 1 - 56 : chillax end otherwise : input Z; while 16 : chillax end end end

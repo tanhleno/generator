@@ -1,0 +1,1 @@
+program U : main : k13 : integer; W6 : boolean; when case - true : pop 5 end case not 434 <= - D : chillax end otherwise : input E end; when case - false * false /= false and 0 - 7 - 9 : chillax end; input l end

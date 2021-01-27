@@ -1,0 +1,1 @@
+program b : main : when case not F(4) / not false = w(7) - (002) and 2 : input qK9aa[237 - 429] end case true rem uC60a : while 8 : while 1 : chillax end end end case - 1 : chillax end case 36 : chillax end case 46 = 960 : chillax end case 369 : chillax end end

@@ -1,0 +1,1 @@
+program _0G : rnP0a : takes Y : boolean array; H6 : boolean array returns boolean wn, Z : integer; s : integer; h : boolean; F68 : boolean; N6 : boolean; chillax end main : input b[(65) - false * false + true] end

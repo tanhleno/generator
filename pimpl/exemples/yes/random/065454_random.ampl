@@ -1,0 +1,1 @@
+program w : v79 : takes S : integer returns nothing when case - (4) >= - 2 : do sJ60(2) end; pop end cB : takes B, Iu, Yg3 : boolean array; z, f6j, u, eO : boolean returns integer V, iXJ0a : integer; i : boolean array; pop end vhl0 : takes s : boolean array returns nothing Q : integer; chillax end main : pop; do qq(not false * (01) and 0 or false - 8) end

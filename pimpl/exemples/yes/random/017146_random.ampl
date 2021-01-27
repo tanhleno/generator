@@ -1,0 +1,1 @@
+program Q8Ta : r1 : takes E7, O5 : boolean; a, p : boolean; g, Bx : integer array; A, jEHa, q : integer returns integer chillax end s : takes r : integer array; w, V, c, F88 : integer; Tx : integer array returns boolean m : integer array; chillax end main : input k2[(06) rem not true * not 6 and 6]; output - (1250) or 68 - 82; input y[false and 0]; do j(- 9) end

@@ -1,0 +1,1 @@
+program t : Z : takes c, WR3aa : boolean array; S : integer array returns nothing do l(- 6 and 3); while 3 : chillax end; let ZGJa[3] = array 73 end Gtq0a : takes H4 : boolean array returns boolean chillax end main : b0 : integer array; input M8; pop - false - 30 - 258 end

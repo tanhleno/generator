@@ -1,0 +1,1 @@
+program Sb : f7u : takes c : boolean array; PR, Ss4 : boolean returns nothing input H; let A6 = 6; do n(3660 = 1); input E8D0[1] end O0 : takes p, Q, LF : boolean array; M, Ru9, K, q2 : boolean returns integer array J : integer; wC6 : integer; pQ9, WSo : boolean; M : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program J9 : j : takes f : integer array; g : integer returns boolean array x58aa : integer; chillax end l : takes nxv, O2 : integer returns nothing chillax end main : w : integer array; pop; when case false /= true : chillax end case false and 39100 or 08 : when case 3 : pop end otherwise : chillax end; output "S"; do W7(5) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program O : main : do Nx0a(8 + (0)); do U4(- I(60) or false and 6 or 0 - 2 /= false, (246) and 4 < 9 - 0, 29 = 6); when case 949 - 9 - 373 : chillax end case 542 : chillax end otherwise : let O = 9 end; do H(- 7040, 0); do N(88); while 9 : pop end; pop end

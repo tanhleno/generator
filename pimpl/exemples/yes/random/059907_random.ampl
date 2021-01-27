@@ -1,0 +1,1 @@
+program Y : S5H : takes ee4 : integer array returns nothing chillax end main : do K(2 and true rem(6530) or 7 / not 1 and 1, (23) + not 69 and 8 - 6, not 096 and 81000, - 17 - 75, 01900 = 3, 689, 1) end

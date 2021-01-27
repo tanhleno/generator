@@ -1,0 +1,1 @@
+program GU : E5C0 : takes i : integer returns nothing chillax end E : takes b52aa : integer array returns nothing Q : boolean array; z : integer array; z, HI5 : boolean; do q(8 - 5) end zP : takes K3X0 : integer array returns nothing while 9 = 81 : chillax end end main : chillax end

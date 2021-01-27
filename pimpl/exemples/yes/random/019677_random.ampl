@@ -1,0 +1,1 @@
+program C : A3 : takes BV, S : boolean array; WBoaa : boolean; PFR, rQ, L : boolean returns nothing I : integer array; m, z, i, A : integer array; do m(false) end u : takes H, U770a, u, _J, q, XI_, SfX : integer returns nothing G4, L : integer array; B : integer array; output ""; input E[59]; input Vrl0[94] end main : chillax end

@@ -1,0 +1,1 @@
+program YF8 : s : takes _ : boolean array returns nothing b : integer array; f : boolean array; f0Fa : integer array; input ak[- false]; input JX[- 80 - 2]; while 9250 = 5 : chillax end; input piF0a[902]; do E(8); let o = 5; pop end main : chillax end

@@ -1,0 +1,1 @@
+program Y5 : AZ : takes WkM0a, w17, y, j, Tqyaa, g_, Y : boolean; rq : integer; Q, f, R77aa : integer array returns integer output - 271 - 8 <= 2 . 53 end Ck8 : takes a : boolean array returns nothing output 2 end main : L, W, q6 : integer array; C16 : boolean array; while - true * 94 rem true + not D5 : chillax end end

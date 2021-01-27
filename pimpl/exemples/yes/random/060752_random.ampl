@@ -1,0 +1,1 @@
+program k7 : K : takes g : integer array returns nothing _9 : boolean; X2L, DZ, kB3aa, S : integer array; E : boolean array; b160a : boolean; I7K : boolean; let w = array - not 73 and 19; while - 54300 - 8 : chillax end end main : O : boolean; chillax end

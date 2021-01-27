@@ -1,0 +1,1 @@
+program d : s7q : takes ep : boolean array; y6, r : integer; c, M : integer array returns integer h : integer; while - true : let v2J = 11; when case 5 : chillax end; do m5(7); pop end end main : chillax end

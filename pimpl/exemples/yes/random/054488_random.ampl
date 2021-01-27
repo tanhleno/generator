@@ -1,0 +1,1 @@
+program N77aa : vV : takes P : integer array; E0, j5 : boolean array; o2h0, X5a, aY8, P, H, l9 : boolean; B : boolean returns integer when case false - 6280 - 1 : let f[639] = 7 end; output "" end main : chillax end

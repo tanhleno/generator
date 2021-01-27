@@ -1,0 +1,1 @@
+program v8 : d : takes L : integer returns nothing V3, Is, Q : integer; R0a, T, P, d : boolean; let Hg = array(20) and 06100; input G[1 - 2]; when case 1 : chillax end otherwise : chillax end; do t8(88) end main : U : integer; O : boolean array; chillax end

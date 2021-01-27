@@ -1,0 +1,1 @@
+program G : S10a : takes zb, V, V6 : boolean array; eGAaa : boolean returns integer output "I"; while - 8 < 95 : output "0S0a"; let c = 6 end end L : takes V : integer array; _ : boolean array returns nothing input j; let u = 23 end main : chillax end

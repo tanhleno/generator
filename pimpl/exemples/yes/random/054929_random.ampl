@@ -1,0 +1,1 @@
+program Iq : zEd : takes OQ6 : integer array; ONw0a, I : integer; g, M : boolean; M, i, k4Qa : boolean returns nothing let D6qaa[- false or 5630 - 514] = array - 82 and 49 or 340; let L[4 - 9] = array 8 end main : w7G, M0 : integer array; do sb(- not false / (0)) end

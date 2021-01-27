@@ -1,0 +1,1 @@
+program P : P1 : takes Kz : boolean; u : boolean array returns boolean h : boolean array; let D = array - 98 end main : j2d, IE : integer array; pop; input IOt; when case - 0 - 49 - 97 > - 73 - 32 : chillax end end

@@ -1,0 +1,1 @@
+program w : O : takes L : boolean array returns nothing when case not 5 and 5 + 66 - 2030 = 59 : output "0S\"" end otherwise : do NEL(3) end; while 8 - 9480 : when case 00 : chillax end; while 6 : chillax end end end main : while w[49] rem false >= - (77900) * J7C and 28 - not 76 and 23 : chillax end; pop - (40300) < - 7 - 2; while true and 59 : chillax end; let iRD = 3 = 1 end

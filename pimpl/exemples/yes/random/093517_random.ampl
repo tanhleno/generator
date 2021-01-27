@@ -1,0 +1,1 @@
+program E : main : output ""; when case - not not 9410 / not 6 and 68 - g and 8 : chillax end case true and 60 + 5120 - 6 : chillax end case 9 - 4090 >= 315 : let x8_0a = 25 end case 573 = 290 : do J(4); pop end end

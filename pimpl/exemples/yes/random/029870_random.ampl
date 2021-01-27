@@ -1,0 +1,1 @@
+program BdQaa : v3 : takes L, H : integer array returns integer array input N14[false and 81700] end B8 : takes O76aa : boolean array; x4 : integer array; E : integer; Uf, bv, G : boolean array returns boolean chillax end main : z, ow, I : integer array; tU : boolean array; let U[v[99] rem true and not 4 or not true / u5 - false and 31 + 40] = 0 rem(0) and 4 end

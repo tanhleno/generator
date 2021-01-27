@@ -1,0 +1,1 @@
+program c5 : main : when case true or true * (63200) - (7360) = - (786) * 73 and 1 : chillax end case false rem pk30a - 54 and 97 + 4 : let n = array 2; when case 213 : chillax end end case(8) or 31 - 80 : input Fb[1] end case 83 : do Y(4); while 3 : chillax end; pop end case 5 = 46600 : input m; pop end case 0 : chillax end end

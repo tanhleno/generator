@@ -1,0 +1,1 @@
+program o : M23a : takes J : boolean; s : boolean returns boolean chillax end main : e : integer; _3, t, l8, fKF0 : integer; while - 23600 = - false / true and 0 + not 0 and 2 + 5 - 3 : while - 1 - 8070 : chillax end; input r9X[5] end end

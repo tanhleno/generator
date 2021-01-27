@@ -1,0 +1,1 @@
+program j15a : i : takes S, o : boolean; Em, H : integer array; zG : boolean; Z : integer array; t : boolean array; V4 : boolean; y : boolean returns boolean array chillax end main : f79 : boolean array; while true and(9490) + (4) * true - 16300 and 3 + 1 = - not Ax / m and 3 + not 6 and 11 : chillax end end

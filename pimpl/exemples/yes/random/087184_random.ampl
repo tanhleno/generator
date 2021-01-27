@@ -1,0 +1,1 @@
+program l_ : main : G8 : integer array; let F[- not(5)] = array not not 7 / o(132); while - not x9Xa + true and 573 or 5 - 6 >= true or 209 : when case 6630 : chillax end case 7 : chillax end otherwise : pop end; while 08300 : pop end end end

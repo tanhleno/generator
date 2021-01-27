@@ -1,0 +1,1 @@
+program rRE0 : X : takes k, T : integer; E, SRs : boolean array; uv5a : integer returns nothing chillax end Z : takes d, E : boolean array returns nothing chillax end G0 : takes Fd, xP7, e : integer; y, Hz : boolean returns integer array R, At : integer array; ox2 : boolean; O : boolean; chillax end main : chillax end

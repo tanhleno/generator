@@ -1,0 +1,1 @@
+program Wk2a : i3S0 : takes x, m, E, pcbaa : boolean returns nothing pop - 5; input _j[- 2 - 7] end main : when case - (576 = 5) - (4) + false >= - false / 8 and 4 or 2 : chillax end case - true + EM + 3 - 79 < g and 6 or 7 - 7 : output "" end end

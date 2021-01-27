@@ -1,0 +1,1 @@
+program K1p : main : when case - 40 : chillax end case - 3 or 9 - 05300 - 82300 : chillax end otherwise : pop end; when case not 1 / (82) + not 5 and 601 >= - S : when case 6 : let Dg = 7650 end end case false - 35 > - 3 : chillax end case 015 - 8 >= 0 : input e8 end otherwise : chillax end end

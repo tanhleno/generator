@@ -1,0 +1,1 @@
+program P : J : takes U : integer array returns boolean while true : do N(2, 07) end; while - 75300 < 47 : let Re = 2; do M(871); pop end; do m24(2, 5); when case 0 : pop end end main : o78, I, y7, k, Y, mz6aa : integer array; kqda, G : boolean; chillax end

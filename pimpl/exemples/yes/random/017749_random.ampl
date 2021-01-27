@@ -1,0 +1,1 @@
+program h : h9 : takes FDk, Hrta : boolean; Xo : boolean array; Z, k, B : integer returns integer a4V, RU3 : integer; chillax end q : takes x : integer array returns boolean array pop 854; let H20[27600] = array 50; let y = 2510 end main : K290a, S4W, v89, E : boolean array; z : integer; output - (6) or 6 and 7 < - (27) and 437 + 5290; output "" . 7 - 9 /= 8 . 6 = 1 . 5 . 51 end

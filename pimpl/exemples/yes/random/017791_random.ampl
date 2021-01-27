@@ -1,0 +1,1 @@
+program qO : T : takes y9R, q : boolean; B9Na : boolean array; b : boolean; M8g, R : integer returns nothing t, Z : integer; let D = array - RG3 and 0 + 6; do toV(- 2 /= 1, 03100 = 91) end main : o : integer; chillax end

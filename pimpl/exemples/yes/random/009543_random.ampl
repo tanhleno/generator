@@ -1,0 +1,1 @@
+program yu80 : R : takes RH, h, w : boolean array; o8, rg, GG6, qUG, u : integer array; I : boolean; m : boolean array returns nothing chillax end main : k : integer array; oZw0a : integer; H, Mo, T2o : integer array; chillax end

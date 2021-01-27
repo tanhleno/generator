@@ -1,0 +1,1 @@
+program RY1a : Z : takes Z9, hsr, z : integer array; i18 : boolean array returns integer chillax end main : L5, d2 : boolean; do I(false + (69) * false <= - true rem false, (7), - not 5 and 6 - 25 - 5 = - 169 - 10); input l; input N; let X[5] = 5 = 60 end

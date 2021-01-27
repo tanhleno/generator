@@ -1,0 +1,1 @@
+program I3 : main : z : integer; when case - true : chillax end case - not not 5 * false and 2 + false + 28 - 7 : chillax end otherwise : pop 82; when case 1 : pop end; do i(979); output "0\t\"a" end; pop end

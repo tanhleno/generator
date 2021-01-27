@@ -1,0 +1,1 @@
+program W : P : takes n : boolean array; p9_a, R4xa, C : integer array returns nothing y, PpZ0a : integer array; L, Y6 : integer array; C : integer array; while i and 84 + 9 - 6 : do S2(5) end end main : _E4, VW, Iui0a, y : integer array; chillax end

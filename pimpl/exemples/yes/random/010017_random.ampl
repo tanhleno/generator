@@ -1,0 +1,1 @@
+program _ : FE : takes hk4, va, r8 : boolean array; o : boolean; C6 : boolean array returns boolean J, vK, a4x, B6, U : boolean array; D : integer array; a59, d39a : boolean; p : boolean; M : boolean; chillax end main : m, n : integer; Q3s0a, m4fa, vU0 : boolean array; aAd, G2 : integer; C, j1, odxaa : integer array; chillax end

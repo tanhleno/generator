@@ -1,0 +1,1 @@
+program K0r : main : xk : boolean array; pop h[887] >= - true and 4; when case - 0 rem true and 4360 + true < - true and 14000 : input z[84] end case 3 and 0 + 575 - 939 <= - 9 - 27 : chillax end case - 796 <= 8 : chillax end case 4 : input J end; when case(6) > 13 - 43000 : let R = array 25; let g = 5; do H(54) end otherwise : when case 9 : chillax end; output ""; pop end end

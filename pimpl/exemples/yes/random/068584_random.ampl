@@ -1,0 +1,1 @@
+program P720a : main : q6e, A7, A6H0, Q8, oYB, G39 : integer array; y95aa, Vo : integer; d, s : boolean array; let AUTa[- false rem Zx5(80) / true or 9 + 877 and 11 or 29] = array - 7 and 320 and not 87 and 8 + not false * false or(06) or 20800 end

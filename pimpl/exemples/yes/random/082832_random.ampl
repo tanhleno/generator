@@ -1,0 +1,1 @@
+program BqK : main : g : boolean array; while - a530a(3) : chillax end; when case - not false and true and 3 : chillax end case - false and 5 or 3360 < 397 : chillax end case - 8 - 7 /= 6 : chillax end otherwise : while 398 : pop end end; let W[- 301] = array(41100) and 94 or 8550 end

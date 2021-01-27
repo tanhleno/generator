@@ -1,0 +1,1 @@
+program yM8 : u3 : takes p2Z0a : integer array returns boolean do CGpaa(false and 1, - 72 = 0, 81 = 8, 31, 836) end main : do c(23 * true - not true rem not 4 and 0 < false, not(8) + not 72 - 1, - (16) > 0 - 8350, 809); pop end

@@ -1,0 +1,1 @@
+program x55a : a0 : takes O650 : boolean; h, J, p : boolean array; _w2 : boolean array returns boolean array input d[6 and 2 + 6 - 8]; do CIe0(- 632 - 07 <= 4) end main : s9 : boolean; input J[- false rem not 84300] end

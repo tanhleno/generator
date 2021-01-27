@@ -1,0 +1,1 @@
+program WH : a : takes J : integer returns nothing chillax end Lx8 : takes o, q : integer; A : boolean array; M : boolean array; TeT, V, h6 : boolean array returns integer chillax end main : when case true or true < - true * Y and 94 - false : let r = array 94 end case false and not 0 = (0) : chillax end end

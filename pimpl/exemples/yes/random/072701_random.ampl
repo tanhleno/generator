@@ -1,0 +1,1 @@
+program g : main : z, Y110, Q : integer array; y3qa, D1, R3 : boolean; d6X : boolean; n97 : integer array; while - YI90a[79] + false >= - not true * true and 50 : do n(6, 7); when case 92 : when case 790 : chillax end end case 919 : chillax end case 582 : chillax end; pop 5 end end

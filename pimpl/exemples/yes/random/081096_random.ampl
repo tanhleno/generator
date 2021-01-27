@@ -1,0 +1,1 @@
+program h3y : main : zCqa : boolean array; f3e, D, K2 : integer; A : integer array; k, tu, CK : integer; m31, a, Ev : boolean; e9O : boolean; Q : boolean; do Cp9a(- true or K[4] / false and 0, false * not 50 - S + 65 /= (7) and 31400, - (60) and 2 >= 190 - 8, - 489 >= 1) end

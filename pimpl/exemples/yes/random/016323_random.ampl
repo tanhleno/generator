@@ -1,0 +1,1 @@
+program qb2aa : n3 : takes e12a, x980a, q : integer returns nothing K, f4S, oW : boolean array; chillax end main : h : integer array; F, O, r, t, C, e : boolean; RY3aa, v : integer; let L0G = array o and(82) or(6) - true and 94 + 2; output(1) and 513 . "" end

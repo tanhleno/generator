@@ -1,0 +1,1 @@
+program nB70a : o : takes t : integer array returns nothing f : integer; input a6[true and 79 + 1 - 6] end I9v : takes M : boolean; g : boolean returns nothing chillax end main : oE, U, Pm : boolean array; Ue : integer; e : boolean array; S6 : boolean; pop true < not 1 and 89; while(2) + (779) > 6 + 34 : pop end; input fh end

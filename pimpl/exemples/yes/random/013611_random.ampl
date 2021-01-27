@@ -1,0 +1,1 @@
+program f3 : Z : takes vA, i, bp : integer array; f, Cs3, d, V, x, H, l : boolean; n9L0a, qW, uV, PF7aa, c : integer returns boolean J0ta, m9 : integer array; n, l7uaa : boolean array; B : boolean; g21, D : boolean; chillax end main : x4 : boolean; UAn : integer array; let Hjn[false - E7[31] or not 1 and 7 - 1] = array false end

@@ -1,0 +1,1 @@
+program b : Z1y : takes Dg8aa : boolean; V : integer array returns boolean v : integer array; when case(44) /= 4 - 2 : input I6t end end R7 : takes r : boolean array; yvRaa, tT1 : integer array; T9L : boolean array; r, _4, H : boolean returns nothing chillax end main : chillax end

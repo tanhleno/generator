@@ -1,0 +1,1 @@
+program V : C : takes h, nK : boolean; Fhc : integer array; O, _j : boolean returns nothing I3, a_y0a : boolean; i3 : boolean; M, o, Z8m : integer; j, ot : boolean; output ""; let a[- 1 - 66] = 60; when case 74400 = 41 : chillax end end main : chillax end

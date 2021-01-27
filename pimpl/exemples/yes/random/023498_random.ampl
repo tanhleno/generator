@@ -1,0 +1,1 @@
+program u : j : takes NM, s : boolean returns integer array B, V : integer; p4 : boolean; while - b >= - 2 : chillax end; pop 6 end W8 : takes PK9, fp, w : boolean returns nothing while - 6 : let L8 = 691; input l; pop end end main : chillax end

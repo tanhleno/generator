@@ -1,0 +1,1 @@
+program y : _w : takes v : integer array returns integer array e, d : integer; when case - not 4 and 40 or 5 : when case 189 : chillax end otherwise : chillax end end end E : takes h : integer; i : integer returns nothing input O[4 - 1] end F : takes yK_ : boolean returns boolean array y : boolean; m, q : boolean; chillax end main : chillax end

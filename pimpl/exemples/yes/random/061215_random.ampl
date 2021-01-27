@@ -1,0 +1,1 @@
+program P : zB : takes J : integer array returns nothing input Ht; pop end E_20 : takes v, P7s0a, u : integer returns nothing D, Y, Vkhaa : integer array; rpP : integer; K : boolean; TQ : boolean; pop 48 end y : takes n, T, f, a : boolean returns nothing chillax end main : X : integer array; k4m : integer array; e, P, qCe : boolean; input n[- w(51) * true + (6)] end

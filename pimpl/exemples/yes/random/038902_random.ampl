@@ -1,0 +1,1 @@
+program s : c : takes A : boolean array; k, T : boolean returns nothing chillax end zN : takes yiM0, kW40, T : boolean array returns integer while 37100 >= 9030 : when case 3 : chillax end; let S = 7; pop end end L : takes z18, E : integer array returns boolean array do z81(976); do Vbv(33, 9) end main : O : boolean; g : integer array; chillax end

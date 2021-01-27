@@ -1,0 +1,1 @@
+program Cc : Q : takes Kyra : boolean; a : integer array; q3, D, Q : boolean; JA : integer array; em, j : integer returns nothing K49 : integer; K9R0a : boolean; Uq, u : boolean; chillax end main : D : boolean array; do N(false / p1(37400) - 5 - (16) - 3 - 02, 67300 or false and 6 - 16 - 2650, false and 7 <= 7, - 24 > 0, 21) end

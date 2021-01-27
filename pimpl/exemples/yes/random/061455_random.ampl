@@ -1,0 +1,1 @@
+program D43a : eQw : takes b0 : integer array returns nothing pop; output "B%aa" . 4; pop 0250; let nC[9] = 9 end main : while - false rem false and not 2 <= - true : when case - 8 - 93 : do C(20); input m; pop end otherwise : chillax end end; pop end

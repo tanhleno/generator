@@ -1,0 +1,1 @@
+program w : E : takes J, H, qC, R9 : boolean array returns boolean when case - j + 01 - 642 : chillax end end c370 : takes o8F : integer array returns boolean P, i : boolean; chillax end u : takes C, R0Ja, I, o7, DlFa, b : integer; V5, f : boolean returns boolean array chillax end main : chillax end

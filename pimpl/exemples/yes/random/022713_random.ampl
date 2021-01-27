@@ -1,0 +1,1 @@
+program S : y8a : takes f, VG4 : boolean array returns nothing output 6 - 120; when case - 0330 - 514 : while 41 : chillax end end case 82 = 7 : pop; pop end case 7 : pop end; let En = array 340 end main : Oy, U6G, zsu0, D, L01a : integer; b : boolean array; do a(not 4 rem not e7 / u and 419 + not false - (4) or 7, - false > (5120) and 0660) end

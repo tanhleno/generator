@@ -1,0 +1,1 @@
+program u : v : takes h : boolean array; H2, T1, j3 : boolean; z4Waa : integer array; n060 : boolean array; r : boolean array; pD7, n, H : integer array returns nothing input P; output ""; when case 8 = 4 : chillax end; when case 9 : chillax end; pop end main : u580 : integer; when case - (04 = 741) : let v[20] = 0 = 73 end end

@@ -1,0 +1,1 @@
+program q : y : takes z, b, v : integer returns boolean J, O3, o, iP : integer array; Z, L, sg : boolean; zdA0a, GH, R8 : integer array; pop 2360 > 5; when case 8 - 13300 : chillax end case 3 = 97 : chillax end otherwise : do F7(93) end; output "g"; while 885 : pop end end main : fx0a : boolean array; z2x : integer; let u = array - not false / gY70a(9) end

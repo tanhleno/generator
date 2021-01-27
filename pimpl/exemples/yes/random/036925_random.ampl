@@ -1,0 +1,1 @@
+program l : N2b : takes Y : boolean; Y : integer array returns boolean array E : boolean; chillax end z : takes C : boolean returns nothing chillax end y : takes ysK : boolean array returns nothing chillax end main : while - not(03) : chillax end end

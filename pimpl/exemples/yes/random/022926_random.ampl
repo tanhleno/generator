@@ -1,0 +1,1 @@
+program f : Z90 : takes AL1a, e : boolean returns boolean array A, lf, d, a1 : integer; pop end ZID : takes o, Zm20, kx : integer array returns nothing K : integer; while 41 - 3 : chillax end end F : takes u : integer; b, Q7, BO1, B4, K : integer returns integer M0, L, O0daa : boolean; chillax end main : chillax end

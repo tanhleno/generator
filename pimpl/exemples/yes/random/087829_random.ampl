@@ -1,0 +1,1 @@
+program iLN0 : main : input HR9; input l; output "aM" . "n"; when case 6 - 542 : pop; when case 29 : chillax end end case 59600 = 42 : when case 7550 : chillax end; pop end; while 48 = 11600 : when case 090 : chillax end; pop end end

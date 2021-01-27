@@ -1,0 +1,1 @@
+program G5O : s04a : takes B, OW, SZ1 : boolean returns integer U3, wh, P, c, N : boolean array; chillax end main : fo, E0 : boolean array; when case true / false rem false and 551 + (85) / true and 1 - G and 5 + 2 - 1 : chillax end otherwise : while 03 = 18 : output "G"; pop end end end

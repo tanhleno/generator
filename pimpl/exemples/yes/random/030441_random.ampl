@@ -1,0 +1,1 @@
+program b : v : takes z, cJ : integer array returns nothing do i(true and 5 or 0 - 6); do A(7) end j9 : takes Q, u : integer array returns integer array output 3 end i : takes Af, cA : boolean array returns nothing chillax end main : chillax end

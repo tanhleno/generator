@@ -1,0 +1,1 @@
+program x : L : takes y : integer returns nothing output "" . 2 = 3; output 3 = 9; do _R(06); while 34 : chillax end; pop end P : takes ll2aa, jvb0 : boolean returns nothing chillax end main : output "" . "" end

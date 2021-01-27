@@ -1,0 +1,1 @@
+program ri : ebt : takes j, b : boolean; j85aa, M, M, p5, C : integer array returns integer chillax end r0 : takes k : boolean array; u, o : boolean returns boolean U9 : boolean array; chillax end BQ8 : takes E2, kj, j : integer returns boolean array aK0a, I, L : boolean array; g : boolean; chillax end main : chillax end

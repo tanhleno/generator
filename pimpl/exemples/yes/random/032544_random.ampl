@@ -1,0 +1,1 @@
+program i : t8 : takes p, c : integer returns nothing u, x, z : boolean array; K, f : boolean array; qQ : integer; chillax end Q : takes r : integer array; cDF : integer array; U5E : boolean array; C1 : boolean returns boolean array do x(82 - 8, 7930 = 3); do _4Waa(6 = 41); pop; do M(0) end main : chillax end

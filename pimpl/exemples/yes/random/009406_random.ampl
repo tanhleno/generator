@@ -1,0 +1,1 @@
+program eT : FM : takes b, y, t680 : boolean; n5u : integer array returns nothing t0 : integer array; O6f : integer array; chillax end main : ci : boolean array; f, Duwa, J, Yd : integer array; do _wk(true >= (65)) end

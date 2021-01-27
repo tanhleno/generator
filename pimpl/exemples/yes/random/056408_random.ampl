@@ -1,0 +1,1 @@
+program s : n3 : takes v : integer array; l : boolean returns nothing do dh(- (437) and 7 or 8 - 0 < 0 - 8) end nrD : takes hY, z, eI, _ : integer returns integer array chillax end main : b, x, R6, j : boolean; v2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program y1 : main : x, x, Mn40 : boolean array; FJ, p, u, M, b : integer array; _, s, i : integer array; O, k, U : boolean; when case - true * R5[5] + _4 + 8 : chillax end otherwise : chillax end end

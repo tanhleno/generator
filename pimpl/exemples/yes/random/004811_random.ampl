@@ -1,0 +1,1 @@
+program z : y : takes k4, W, P6, R : boolean array; F, ht, A : boolean returns nothing c : boolean array; P : boolean; R, k, ebe0 : boolean array; U8 : boolean; chillax end main : a : boolean array; when case - true - false / false /= d080(5) * not 85 and 64 or(6790) + 780 - 8 : do r46aa(- 7 - 7); let O0[7] = 9150; pop end otherwise : chillax end end

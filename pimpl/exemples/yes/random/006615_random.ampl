@@ -1,0 +1,1 @@
+program uEL : E : takes T, n6p, o, _ : integer; t : boolean array returns integer array output - 9 end Z4 : takes c, Q : boolean array returns nothing D, x9 : integer array; D : integer array; Fy : boolean; D : boolean; input db3 end main : chillax end

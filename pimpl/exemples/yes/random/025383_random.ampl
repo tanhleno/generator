@@ -1,0 +1,1 @@
+program U : D : takes Nt, B : integer; d, W, j : integer array returns nothing Y : boolean; let _[- true] = array - 1 and 06700 end main : while o[1] rem not true + xJ5a[74] > - false : pop; when case 7 = 0 : chillax end; let p = array 0; while 8 : chillax end; do n3g0(4) end; output "3" end

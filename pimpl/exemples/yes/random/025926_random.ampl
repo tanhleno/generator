@@ -1,0 +1,1 @@
+program a3 : R : takes P, E83 : integer; V, Nc : integer returns boolean oz, m3 : integer array; x, N4, G0, aNk0a : integer; chillax end main : j, a : boolean array; V5, S, l : integer; E : integer; Ad, i : integer; while - true * JnN(9480) rem 2 and 1 <= not(0) or true and 7 : chillax end; pop; output "" . "a" . 190 . 782 . ""; input G[- 31] end

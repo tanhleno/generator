@@ -1,0 +1,1 @@
+program B_ : Y : takes a, z080 : integer; V : integer returns nothing j, F, C : boolean array; zMpaa, c : integer; pop; input A[- 0]; let m9 = array 3 end main : input z9Waa[- not not B1 or(5) / 6 or false and 523 or 9 - 96400] end

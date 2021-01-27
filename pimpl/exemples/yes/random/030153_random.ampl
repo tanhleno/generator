@@ -1,0 +1,1 @@
+program YqW0a : o : takes F, b : integer array returns integer when case - false and 9 or 72 >= - 21 : do r(851, 8); pop end otherwise : chillax end end cc : takes I79, Sk, f, l, Gao, E, h55 : boolean array; W : boolean array; vA, S : boolean array returns nothing do X1(- 5 - 5) end main : x : boolean; if, L : integer array; chillax end

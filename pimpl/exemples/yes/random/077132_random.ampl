@@ -1,0 +1,1 @@
+program P6 : main : t, N : integer array; y, s, C, D : boolean; u : integer array; BbE, V9M : boolean array; let b7[not false] = - not not 3 - 12 /= true or 5; while not 6 * not 95 and 37 : do N(8 = 864) end; pop end

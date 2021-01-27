@@ -1,0 +1,1 @@
+program aQXa : P : takes d7E0, Y : integer array; U, Fb, vgWa, P36aa : integer array returns nothing w4daa, dN_, s : boolean; l : boolean; chillax end ev0 : takes n1M, tC : boolean array; s, DT : boolean returns boolean while 5260 - 7 : chillax end end main : mt4, hY7, K : integer; nv5 : integer array; pop - s2(5) * 33; do l(true * true) end

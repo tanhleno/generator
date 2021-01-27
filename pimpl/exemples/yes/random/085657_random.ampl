@@ -1,0 +1,1 @@
+program P : main : Z : integer array; f, VN, R, V : boolean; B : boolean; Y, k2 : integer array; V : boolean; Z0, S : boolean; c : boolean; output ""; when case - 1 * false and 49 : when case 47 : chillax end end case(87) and 8 or 475 - 9 : when case 749 : chillax end case 8 : chillax end otherwise : chillax end end case - 0 : output ""; when case 4 : chillax end end; input M end

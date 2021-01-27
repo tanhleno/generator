@@ -1,0 +1,1 @@
+program i : At : takes T76, Q, euq0a : boolean returns integer output ""; output 6 = 36800 . 4 . ""; when case 7 : while 7 : chillax end; pop end case 340 : pop end case 7 : chillax end otherwise : pop end end main : chillax end

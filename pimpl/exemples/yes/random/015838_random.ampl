@@ -1,0 +1,1 @@
+program Zd : u6k0a : takes f8r, ID, lgg0a : integer returns boolean H : integer; chillax end main : E : boolean array; H, s5 : boolean array; s, F, b : integer array; pop - false; output - false and 514 + 3 - 28800; while false and 30 or 61 : chillax end; while 3 >= 4 : chillax end end

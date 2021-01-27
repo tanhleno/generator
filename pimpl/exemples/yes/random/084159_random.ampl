@@ -1,0 +1,1 @@
+program E : main : Y : integer; v1 : boolean array; MC : integer array; qs, E : boolean array; while X[7] + true /= not(8810) : chillax end; while - not 7 and not 56 and 4 + true and 4 - 97200 <= - true - 3 : chillax end end

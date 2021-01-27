@@ -1,0 +1,1 @@
+program D1 : o : takes J : boolean array; Os, c3, S : integer; y, N : integer array; y, k : boolean returns boolean chillax end o : takes K : boolean array; C : integer array returns nothing pP, V : boolean array; chillax end main : vW : boolean; while false rem(0) <= true rem false and 0 + 48 : output "" . 420 end; input j; input O2; output 97 end

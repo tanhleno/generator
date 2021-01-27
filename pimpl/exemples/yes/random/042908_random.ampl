@@ -1,0 +1,1 @@
+program B0 : P : takes R : boolean array returns integer chillax end J : takes t5G, D220a, Z : integer array; _, j9 : integer array; x, m, q, Ex, O6 : integer array returns nothing J : boolean array; while 6740 : chillax end; when case 4 = 7680 : pop end case 36800 : chillax end; when case 0 : chillax end end main : i : integer array; input bt end

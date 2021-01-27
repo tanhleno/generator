@@ -1,0 +1,1 @@
+program I29 : G : takes I : integer array; m : integer returns boolean chillax end rP : takes Mj : boolean array; z, a : integer returns nothing chillax end V1Maa : takes Ov : integer; _N10, l, P : integer; e, aP_ : integer returns nothing q45 : boolean; output "\n" . 45400 . "" end main : chillax end

@@ -1,0 +1,1 @@
+program g : G : takes h9, P9, wa : integer array; J_, F : integer array returns integer chillax end main : when case true and true / (5) and 9 > - eC[5] : chillax end case - ee(12) : chillax end case 538 - 08800 - 4 >= 4 : output "" end end

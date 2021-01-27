@@ -1,0 +1,1 @@
+program g6 : main : y8Xaa, K : integer array; when case(5 = 87) >= - (01) and Z and 63 or(7) : chillax end case - not false + (925) and 13900 <= not 7 : input t end case(7780) and 54 : chillax end case - 8 - 7 /= 9 : pop; input C; pop end; do J(- (1) - 1 and 4280 + 1 >= - not 044 and 4); when case false and 7 or 7 - 45 : chillax end case 9280 : chillax end; pop 3 = 4 end

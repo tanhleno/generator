@@ -1,0 +1,1 @@
+program M : P : takes B4, H, j : boolean returns boolean when case - xK7 and 96400 : chillax end case - 9250 > 4 : chillax end; while 6 - 0 : do v(00); input in; pop end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program rDO0 : VR4a : takes Z, D44 : boolean; m, U9s, C : boolean returns boolean array while - (28) and 7 < 05 - 4 : chillax end; input F_ end main : input S; let uXm0[false] = array - not(1) / not 00 end

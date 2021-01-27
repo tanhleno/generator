@@ -1,0 +1,1 @@
+program P8 : uI9 : takes zO, _, xv, Py : integer returns nothing v, p, bzP : boolean array; when case not 2550 - 35 - 7 /= 2 - 6 : chillax end case 1 : chillax end; output "" . "\"^!a" . "g.0" end main : chillax end

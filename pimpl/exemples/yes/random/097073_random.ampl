@@ -1,0 +1,1 @@
+program wjQ : main : when case txEa[51000] rem 0 / (20) - true * not 3 and 66 : input G2w0[5 - 7]; when case 4 : chillax end case 3 : pop end end case 54 : pop 9 end case - true and 7 - 0 : input T; pop; output "" end; while - (291) - 8 + 48 : do qR(6, 35); while 72 : chillax end end; when case - D < 45 : chillax end otherwise : let d = 1 end; output 7 . "\"6" end

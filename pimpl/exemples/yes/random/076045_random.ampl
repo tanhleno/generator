@@ -1,0 +1,1 @@
+program i32 : main : ZB, e8 : integer; c, L740, f : integer array; fL : integer; U1 : boolean array; Jx8a, y : boolean; when case false : chillax end case not(03) rem ht2 <= 60 and 7740 : pop; let B6K0[23200] = array 84 end case false : chillax end case 2 >= 5990 : chillax end otherwise : let d56 = 3 end end

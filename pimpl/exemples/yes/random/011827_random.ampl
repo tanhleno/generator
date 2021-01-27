@@ -1,0 +1,1 @@
+program J5 : C : takes z, A, nk : boolean returns integer array E4m : boolean array; output 4620 . "" . "" . "" . ""; input nm0a[6 - 912]; let u8 = array 5 end a : takes C1a0a, KU40, a : boolean array; D : boolean returns nothing chillax end main : F4 : boolean array; v, Q, y : integer; S : integer; chillax end

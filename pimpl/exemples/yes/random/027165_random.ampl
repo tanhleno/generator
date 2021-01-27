@@ -1,0 +1,1 @@
+program E : kKh0a : takes fp, u : integer array; g7, Cj, dhl, O9 : boolean; Lb, OLy0a : boolean array; e9 : integer array returns nothing let U = array - false and 76600 + 514 - 5; do t4X(- 74 - 583, 3); output 77 . 8240 end main : t, CJz0, g, _, fq60, A : integer array; chillax end

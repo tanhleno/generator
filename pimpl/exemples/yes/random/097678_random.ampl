@@ -1,0 +1,1 @@
+program ul1aa : main : when case true and true + (06) * 5 and 8 - true or 6 : chillax end case 1 * 377 and 06 - false and 723 - 4 - 6 = Nw5 and 82 - 14 : when case 7 = 8 : chillax end case 3 : chillax end otherwise : chillax end; output "9" . ","; output "" end end

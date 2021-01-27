@@ -1,0 +1,1 @@
+program T44 : main : I, ir20a : integer; input wS0; while - false / NQ3 + (75) and 1 = - (34700) and 10800 + 1 : when case 183 = 5 : do Es(04); pop end case 28 : chillax end case 4 : chillax end; input n790a end end

@@ -1,0 +1,1 @@
+program R : oN : takes Q0c : boolean; Jb0aa : integer; fmC : integer array returns nothing b : integer array; y : integer; CI : boolean array; I : boolean; input n[(0730) and 3] end main : chillax end

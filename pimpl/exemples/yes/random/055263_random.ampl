@@ -1,0 +1,1 @@
+program kD8 : KJTa : takes g : integer array; c3, t : integer array returns nothing w, c : boolean; j_H : boolean array; chillax end main : when case not false rem true + 59 < - G : chillax end; pop not 4 and 8 or 3; when case not 2 and 54000 >= 5090 - 23 : when case 3 : pop end otherwise : chillax end; do uo(4); output "D" end end

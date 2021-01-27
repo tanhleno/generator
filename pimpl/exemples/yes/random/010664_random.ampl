@@ -1,0 +1,1 @@
+program w : v : takes nFoaa, Z36, e9 : boolean array returns boolean chillax end main : z6, fr : boolean; pop; do MS(- d[0] - true + 0 - 9, (3) and 6 - 8 < 6 - 4); when case(863) and 6 + 99 : while 54 : chillax end; let t470a = 94; do V(6); pop end case - 15500 : chillax end end

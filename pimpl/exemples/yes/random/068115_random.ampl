@@ -1,0 +1,1 @@
+program k : main : rz6, a, MFb0a, B, K3La, Y3faa, M : integer; XV3aa, I8, i : integer array; G : boolean array; J, y, v : boolean array; output i rem i and 3; do r4(Q[5] - true and 5760 or 4 - 76200) end

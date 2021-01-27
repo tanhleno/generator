@@ -1,0 +1,1 @@
+program I82a : n : takes RO, k : boolean array; B, SP90 : integer; Y1 : integer; m1, A1, n8, AFU : integer array returns boolean array Kb8, O9 : boolean array; x3 : integer; chillax end main : g1, j : integer; M, X22a : boolean; while - not 7 + not not 5 + false and 7 - 1 - 53 : chillax end end

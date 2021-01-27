@@ -1,0 +1,1 @@
+program L : l : takes L8x, X4 : integer; d_, r : boolean array returns nothing xr : integer array; chillax end p : takes Dz5, A : boolean; A, tW, zZ9, l, H6, h1 : integer array; J : boolean array; fI : integer; c : boolean array returns nothing Q, Zc, C7 : boolean array; A, xSo, s : integer; chillax end main : pop true rem(8) and 4 end

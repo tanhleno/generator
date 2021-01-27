@@ -1,0 +1,1 @@
+program O8J : u3 : takes q24, n : integer array; c : boolean returns integer array input H end c : takes s8 : boolean returns nothing chillax end main : Z5 : boolean; b0 : integer array; fz1a : boolean array; do f(- (13), true) end

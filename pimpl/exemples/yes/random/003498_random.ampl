@@ -1,0 +1,1 @@
+program B03a : _R1 : takes e, C, Y37, c, N : integer array; ydQ, u : integer array returns nothing do X(not 729 < 3) end M : takes da : boolean array; Vz10a, h, K : integer array; u, I8 : integer; FZ2, c, S, oH60a : boolean; B, Z : boolean array returns integer chillax end main : G6 : boolean array; L75, L : boolean; chillax end

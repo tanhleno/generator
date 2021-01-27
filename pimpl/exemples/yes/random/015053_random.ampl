@@ -1,0 +1,1 @@
+program PfPa : U : takes NiR0a, rl8, tK : integer array returns integer rg, f : boolean array; chillax end main : b : integer; Z1, m6 : boolean; let D8[true and not q * not 2 and 6] = array - 22 + F[156]; let B[- 3 rem not 21900 + false and 658] = array false end

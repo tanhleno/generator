@@ -1,0 +1,1 @@
+program RGS : f : takes oJ : boolean array; z0w0a : boolean returns nothing chillax end i0 : takes o : integer array returns nothing input Rd6 end xKx : takes OE, P : boolean array returns nothing chillax end main : chillax end

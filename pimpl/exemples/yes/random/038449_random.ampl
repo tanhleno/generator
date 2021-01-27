@@ -1,0 +1,1 @@
+program d69a : w : takes B : boolean array; P, SD3, I03 : integer returns nothing when case not 5070 and 3 or 5 - 6 = 0 : output 05500 . "X5"; output ""; let J = 666 end; let Z4[- 70900 - 4080] = array 9 - 943 end main : chillax end

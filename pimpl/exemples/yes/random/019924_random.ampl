@@ -1,0 +1,1 @@
+program I : C : takes r880a, o : boolean array; K : boolean array; SIP : integer array returns boolean do _(true > - 5 - 9, 87200 - 1); do c(6, 7 = 8, 76) end j : takes g0, z : integer; L5 : integer; S : boolean; IC, M : integer array; L8P : boolean returns nothing u, ux : boolean; chillax end main : q3, __10a : boolean array; yI1, C : integer array; input f5 end

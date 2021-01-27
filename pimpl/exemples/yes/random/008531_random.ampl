@@ -1,0 +1,1 @@
+program H_ : f9 : takes H, Wx, b : boolean; Y, gw80a, L, Lmmaa : integer; F : integer; s, tw, F8t, gsT : integer returns boolean chillax end main : output 309 and true + 6 and 9 <= - 7 + 20 - 6 . - true . 6 . 41 = 7 . "N" . 36 . "1"; output ""; input M_t; when case 3 : chillax end case 26 = 25 : chillax end case 7 : chillax end end

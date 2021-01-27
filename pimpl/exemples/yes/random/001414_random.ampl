@@ -1,0 +1,1 @@
+program fg00a : g : takes l, a6Qaa, w, BT, y, O : boolean array returns nothing chillax end P : takes a, I : integer returns boolean array kJ : boolean array; i : boolean; k : boolean; when case 098 = 79200 : chillax end end main : output "1" end

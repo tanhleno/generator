@@ -1,0 +1,1 @@
+program j : cpg : takes x, C : integer returns boolean output 41 - 6450; input d[08100 - 70]; when case 49 : input T; pop end otherwise : chillax end end U : takes A, y9e0 : boolean array; PPy : boolean; z17 : integer array; K, _, Wza : integer; yE, e2H : boolean returns nothing n : integer array; chillax end main : chillax end

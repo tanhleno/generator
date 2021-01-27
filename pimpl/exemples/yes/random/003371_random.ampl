@@ -1,0 +1,1 @@
+program RD_ : N4 : takes K, gt7a, r, F5, i : integer; M : integer returns nothing while - (9) and 80 + 28 - 50 < - 78 - 09 : chillax end; let I8P[44 - 188] = 0 = 6; do b5(43, 50); when case 0 : chillax end case 350 : chillax end end main : pop end

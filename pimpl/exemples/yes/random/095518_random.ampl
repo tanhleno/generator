@@ -1,0 +1,1 @@
+program E : main : when case(4 = 9) or D[40300] > - aB rem true and 7 + 6 - 9 : let D[7820] = 82 = 815; while 6 : chillax end end case(392) >= - (18700) and 2 : when case 797 = 8 : chillax end otherwise : chillax end end otherwise : chillax end; pop(00) or 2770 end

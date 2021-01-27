@@ -1,0 +1,1 @@
+program J92 : NN : takes L : boolean array; Sk, t72 : boolean; Lx, g : boolean returns nothing do o(false and 85 + 8, - 15900 - 1, 4 = 86, 2, 8); output "R"; let p = 392; output 5 . "\\00" end main : XN : integer; input p3; pop; pop 70 - 1 >= 5 end

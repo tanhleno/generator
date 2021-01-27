@@ -1,0 +1,1 @@
+program C : c27 : takes z, i, X, o, Z1 : integer; mH, v : integer; d9, O : boolean; gXUa : boolean array returns nothing chillax end main : input k34; when case e(24) <= - 007 - 5 - 33 : while 91 = 7280 : output "(V0a" end end otherwise : pop 37400; input o6; let fs = 004; pop end end

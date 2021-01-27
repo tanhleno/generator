@@ -1,0 +1,1 @@
+program P : wuP : takes ol : integer; Z, x, OW : boolean array; Ku8a : integer array; C : boolean array; J, D, F : integer returns integer U : integer array; chillax end y : takes qi7, M6, Z2 : integer array; Ps : boolean returns integer chillax end VQ : takes u : boolean returns nothing while 4 : do zfI(2) end; while 80 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program B8f : h : takes dL3, j : boolean; C, a2 : boolean returns nothing S2 : boolean; do Z(- (904) <= - 9); do e(156 - 5) end Vx : takes LY : integer array returns integer array k76 : boolean array; C3 : boolean array; chillax end main : output true or 53 and 5030 + 68100 - 302 /= true and 568; output "H" . - 3 - 1 . "\nO" . "#" . 83 . "" end

@@ -1,0 +1,1 @@
+program VX : Hu7 : takes d, A3, u0 : integer returns nothing while false and 3 + 70 - 5 : chillax end end main : V8 : integer array; FI : integer array; O, s, T : boolean array; A, f05a, D4 : integer array; chillax end

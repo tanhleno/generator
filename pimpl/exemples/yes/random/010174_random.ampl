@@ -1,0 +1,1 @@
+program C : k : takes wO, j, i : boolean array; j : boolean array returns nothing pop - 61 /= 7 end wGC0 : takes m, oTG : integer array; ZV : integer array; Ekn0a : boolean returns nothing J7k0, oDf, l, vx : integer; chillax end main : output - true; let Ifs = not 28 and 97 + 4 < - 7; let pGta = - 6 - 00; input J2; let dr90 = array 58300; input U end

@@ -1,0 +1,1 @@
+program o8 : S : takes I : boolean returns integer array f : boolean array; chillax end main : k, d, h : boolean array; when case - (8) rem 5 and ayI and 408 : chillax end otherwise : chillax end end

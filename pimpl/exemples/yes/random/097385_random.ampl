@@ -1,0 +1,1 @@
+program F07 : main : when case 75 / Wji(565) rem b and 9 + 7 or 8 or 6 - 05 : pop end; pop false and 76; when case - 985 and 179 /= 6 - 7 : chillax end; input Z; while 5 : when case 70 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program L : main : J : boolean array; f52, N : boolean array; z : integer; pop 64; when case J51 / true and 9 > - b : while 6 : while 63200 : chillax end end end case false and 735 : chillax end case 8 /= 741 : chillax end case 174 = 3 : output "]" end case 98400 : pop end case 74 : chillax end otherwise : chillax end end

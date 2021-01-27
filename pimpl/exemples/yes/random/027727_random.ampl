@@ -1,0 +1,1 @@
+program U : F : takes _mc, g57aa : integer array; m, e : boolean array returns integer array K740a : integer array; output ")" end main : while - 1 + c[2] : chillax end; do x_u(false rem 9 or(2) <= false and 00 - 6, false or 2820 - 9, 838, 9600 = 37700) end

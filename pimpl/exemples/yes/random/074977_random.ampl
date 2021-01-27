@@ -1,0 +1,1 @@
+program Q : main : V, oW : boolean array; T : boolean; Y68a, X, BE80, z, o2F0 : boolean; z, j1 : boolean array; X, _, A : integer; output ""; while - false - 396 and 1 or 76 : pop end; when case - q48 or 6 - 724 <= - 3 : let Pk = 5; when case 64 : chillax end; while 093 : chillax end end end

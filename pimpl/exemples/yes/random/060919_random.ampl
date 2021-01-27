@@ -1,0 +1,1 @@
+program p : O5R0a : takes P4 : integer array returns nothing s0m : boolean array; lx : integer; p7, dQ1aa : integer; o7 : boolean; a : boolean; g : boolean; let xn = array - not 1 - 0 end main : while - Qc(1, 75100) : chillax end end

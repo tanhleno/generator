@@ -1,0 +1,1 @@
+program q : D : takes DPo, v, ED60, u : boolean array; B, a, S : boolean array; T : boolean array; l03a : integer array; P4, r830a : integer returns integer array s : boolean array; J : boolean; a : integer; z, n : boolean; F410a : boolean; input g; let h[5 - 0] = array 3 - 3 end main : pop end

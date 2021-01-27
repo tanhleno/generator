@@ -1,0 +1,1 @@
+program _ : main : s, P8 : integer; C : integer; Ag : integer array; L : integer array; p5G : integer array; while - false / (4) : chillax end; when case not true * false - not 5 : pop end otherwise : output 7 . ""; when case 5 : chillax end end; do a(- not 8 and 39 - 5 - 110 = 29000, - 96 - 5810 = 6790); input k[7 - 5840] end

@@ -1,0 +1,1 @@
+program pi : EF : takes Wa : boolean array returns boolean k4, Bgfa, j : integer array; svE, tjjaa : integer; input L7[3]; pop; input Y4saa[5] end main : input r8L[true - 3 * not 9 and 7 - false and 15 or 3 - 5]; when case - t(4) rem Sy8 /= true and 9 - 7 - 4 : chillax end otherwise : chillax end; while true + 9 = - 56300 - 8 : chillax end end

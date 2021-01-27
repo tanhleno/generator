@@ -1,0 +1,1 @@
+program _IZ0 : QM : takes g7waa, D : integer returns nothing output ""; do U480(- 03) end main : U010a, Mgva, u : integer array; Vp : boolean; ny : boolean array; q77a, b, T : boolean; do R(- (91) / 60200 < - true or f and 4 or 6560, - 13300 and(3) - vX /= - true and 4 + 0 - 5); pop - 4 and 2 < 6 - 20000; do N((458) and 3); pop; while 6 : let w = 8450; pop end end

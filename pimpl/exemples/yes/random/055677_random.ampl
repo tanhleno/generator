@@ -1,0 +1,1 @@
+program Z : Q : takes k1 : integer array; Y : boolean; P : integer array returns boolean EsO, t450 : boolean; R63a, x0 : boolean array; w2, xg2aa, c1 : integer; let n = array(0) - 4 end IL : takes O160, a : integer returns integer array x, Ct : integer array; chillax end main : O, A, D : integer array; N : integer; chillax end

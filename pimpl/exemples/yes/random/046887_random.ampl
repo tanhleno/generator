@@ -1,0 +1,1 @@
+program JD : H050a : takes k : boolean returns integer chillax end EL80 : takes WLH, a5, A1C, X : boolean array; A, x : boolean; WT : integer array; i : boolean returns nothing ZP : boolean array; Bi, J, h9 : boolean; let wc4 = array 112 - 3 end main : input Z7 end

@@ -1,0 +1,1 @@
+program A0 : ZoKa : takes Z, s, J : boolean returns boolean TD : boolean; o : integer; U, t, K : integer array; chillax end main : let H[false rem z7(5) - (55)] = - 2 <= (0); while 85 rem not 1560 - false + 3 - 79 = - 18 and 6 : chillax end; output "" . 960 = 50500; when case 895 < 78 : chillax end case 6 : while 263 : chillax end end otherwise : chillax end end

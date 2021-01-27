@@ -1,0 +1,1 @@
+program U : H : takes L, m : boolean returns nothing oR, c : integer array; TnY0, E0, V, Z7 : integer array; chillax end h : takes b : boolean array; Y : integer array returns integer chillax end Rxbaa : takes ZJ, zF : integer returns nothing k, N : integer array; input c[7] end main : while true and true + not r / false or not 1 and 1130 - 7 : chillax end end

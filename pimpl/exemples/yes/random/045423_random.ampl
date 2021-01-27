@@ -1,0 +1,1 @@
+program e06 : Nk : takes g : boolean returns boolean array chillax end L7 : takes N4 : boolean returns nothing chillax end main : x, W450a, w1j, E : boolean array; D, E : boolean; do a61(true < 9 and not 66 and 6 or true and 01); do u_10(- (374) + false) end

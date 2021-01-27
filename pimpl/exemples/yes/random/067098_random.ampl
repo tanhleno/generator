@@ -1,0 +1,1 @@
+program EA30a : main : do S(false rem 93 and not 034 /= true and false and 1, - true and(043) - true and 36, - 6 > 10000 - 3); let m = array - N690a[6] + 3 - 002 - 8; when case - (4) and 79 : chillax end end

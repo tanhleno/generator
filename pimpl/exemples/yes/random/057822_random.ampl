@@ -1,0 +1,1 @@
+program t64aa : c9 : takes b6Z : integer array returns boolean array O : boolean; _ : integer array; P, Q, K : boolean array; output "+\"\""; let B = 6; while 73 = 2 : chillax end end main : chillax end

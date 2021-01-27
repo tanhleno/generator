@@ -1,0 +1,1 @@
+program Mf : KJ : takes D : boolean; j8v : integer; m, c, S, Vm : boolean array; h, Sr, T5ra, Vu : boolean array returns nothing do SD(- 509 and 30 /= 92700 - 4); while - 9 - 23 : chillax end; input Yx[62] end main : chillax end

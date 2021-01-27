@@ -1,0 +1,1 @@
+program OK : j3 : takes kN8a : boolean array; R, lt0 : boolean returns nothing W, w : integer array; chillax end E : takes Ols, Fw : boolean array returns integer array o, w, M, X : integer; W, sQ : integer array; KJ4, F0 : boolean; m : boolean; chillax end main : let CC = array true * false / (0) + not 5 or p end

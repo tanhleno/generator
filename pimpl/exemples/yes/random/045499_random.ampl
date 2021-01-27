@@ -1,0 +1,1 @@
+program e1 : T : takes y97 : boolean returns boolean array do U(- 2 and 3 >= - 3 - 63200); let n65a = array - 7 - 4; input R[9] end P : takes q : boolean array; Yq : integer array returns nothing o, XB7, K0 : boolean array; chillax end main : chillax end

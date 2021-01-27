@@ -1,0 +1,1 @@
+program v : main : while false : chillax end; do m(false - false and 7 or 3 - 996 < - jX and 3520 or 842, false or 77 = - 94 - 7, - 8070); when case - not 1 + 9 - 6 : chillax end otherwise : while 388 : chillax end; pop; pop end; when case 829 - 73 : output ","; input v end case 2 : output "z^"; pop end case 0 : chillax end case 56 : chillax end otherwise : chillax end end

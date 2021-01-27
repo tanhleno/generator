@@ -1,0 +1,1 @@
+program t : main : when case(9) <= - (89500) : chillax end case(3840) : chillax end case false and 22 or 2 - 6 <= - 9550 : output 8 end case 2 /= 58800 : when case 6 : chillax end end case 9 = 7 : chillax end otherwise : chillax end end

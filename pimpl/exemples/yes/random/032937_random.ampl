@@ -1,0 +1,1 @@
+program Eu : k : takes m, E : integer returns nothing j4C : integer array; r9o, e : integer; S : integer array; M : boolean; let b[- n and 3 or 7950 - 46700] = 8 end main : w0, y6 : boolean array; do R(d[3760] or true) end

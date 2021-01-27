@@ -1,0 +1,1 @@
+program L : n6 : takes ld : boolean array; O, Z, qf : boolean array; ng, u, Q0, u7 : integer array returns boolean array b1 : boolean; X, _V : integer; T, M, I : boolean; let _880 = array - (860); let aU = 0 = 130; output ",J\"a"; pop; let XCk = 2 end main : t, W : boolean; let X[- not ko(6)] = array true or(8) / (7) and 0 + true and 65 + 7 end

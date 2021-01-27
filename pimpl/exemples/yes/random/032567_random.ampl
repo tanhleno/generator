@@ -1,0 +1,1 @@
+program VRd : E : takes WJ, L : integer returns nothing C9l, Q1, w : integer; output 8 - 9; input zGV0 end o : takes M, S, fG, O : integer; d : boolean array; GmHa, Q6P, w, J : integer; k5aaa, VN, i8, t : integer array returns nothing output 1 = 8 . "\"" . "j" . "5\ta" end main : Au : boolean; Y : boolean; input P; do R52(M4(62) / not 5 and 5880 - true and 8 or 1 - 0) end

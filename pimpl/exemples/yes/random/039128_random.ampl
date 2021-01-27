@@ -1,0 +1,1 @@
+program H86 : P4 : takes n : boolean array; I, N : integer array; Q, D : boolean array returns integer let Co[- (9850) and 7] = 3 - 970 end main : pop; do V62a(- false and S9 and 16 > f or 2 - 03, - false and 1 + 08, 608) end

@@ -1,0 +1,1 @@
+program H7e0a : main : when case 6 rem d + false rem not 6 and 8 <= - (45) rem(06) and 2 + true and 6 : while - 10 = 3 : chillax end; let rG40 = 673 end; when case - 6 or(411) and 7 - 5 : do Q(6) end end

@@ -1,0 +1,1 @@
+program nU : C1 : takes GUn0a : boolean array returns nothing a : integer array; lk, H520a, QJJ0, t : boolean array; output - 040 - 20 . 0 end main : ts5a, li : integer; S, e : integer array; chillax end

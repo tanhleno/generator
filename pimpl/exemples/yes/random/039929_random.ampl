@@ -1,0 +1,1 @@
+program z6 : h2B0a : takes K : boolean array; D : boolean array; BS8 : integer; M : integer; QxU0a, i, t, n : integer; Y : integer; n, R_3 : boolean returns nothing do Y(- false and 44 or 9 - 6730 < 4 - 85); input dsY[61 - 5] end main : chillax end

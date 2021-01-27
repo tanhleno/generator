@@ -1,0 +1,1 @@
+program w : z : takes s : boolean array; C : boolean array returns nothing fZ : integer array; i, eya0a : boolean array; chillax end yRmaa : takes M : integer array; T, W : integer array returns nothing k01, u, HY8 : integer array; while 396 >= 39 : while 3 : chillax end end end main : chillax end

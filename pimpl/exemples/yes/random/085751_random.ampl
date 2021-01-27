@@ -1,0 +1,1 @@
+program d : main : X64a : integer array; v, n, x : boolean; pN, l : integer; when case b1(7, 5) * 2 and(62) > true or(0) or 90 - 74 : while 19 : input miTaa end end otherwise : chillax end; input BZ[l(6) + false]; output - 8 - 4 end

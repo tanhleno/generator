@@ -1,0 +1,1 @@
+program Z8 : m : takes Vn50a, B7C, P9 : integer array; a290a, T : integer array returns boolean array do x35aa((10), - 6 - 503 /= 98) end K : takes R : boolean array; O : integer returns integer array output 6430 . "\\" . "5" end main : q : integer array; oI70, f : boolean; chillax end

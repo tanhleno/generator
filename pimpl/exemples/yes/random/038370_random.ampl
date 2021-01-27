@@ -1,0 +1,1 @@
+program TF : n : takes xE : boolean array; k2C, O, Z : integer array returns nothing pop - 53; do Y1Ya(- 36 <= 2); input n[20] end main : r0jaa, Y6 : integer array; K : boolean; Y57, u : boolean array; chillax end

@@ -1,0 +1,1 @@
+program BVE0 : K4i0 : takes fK1a, O27a : integer; v, O : integer returns nothing u8zaa : boolean; M8e : integer; when case false : input c0F; pop; while 1300 : chillax end; pop end case 34 - 6 : chillax end end main : C : boolean array; chillax end

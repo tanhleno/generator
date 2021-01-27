@@ -1,0 +1,1 @@
+program d1 : K : takes Sp, t0, k, W : boolean; u28 : integer array returns integer Z1, w : boolean; output - 8 - 3; do _v60a(- 9 - 76 /= 6, 5330, 3); output 92 . 0 . ""; do jk(020) end main : chillax end

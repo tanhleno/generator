@@ -1,0 +1,1 @@
+program n9 : main : eP5aa, x03 : integer array; CQ6, U1laa, e : integer; T : boolean array; let M[- true or(93) and true] = array - true / (0) / tz0 and 0 + a; pop - not 65200 and 85 <= - 8; input q[AX]; while - 8 - 92 >= 85 : chillax end; while 06 : let q = 5; pop end end

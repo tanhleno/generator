@@ -1,0 +1,1 @@
+program V : q : takes Ga6 : integer array; Z : boolean; s, rFu : integer array; ko, D : integer; I : boolean; V3 : integer returns boolean do J(4 or 5, 2 - 588 < 03600, 8, 38400, 6); when case 3 /= 78 : chillax end otherwise : chillax end end main : input R2Ga[- 4] end

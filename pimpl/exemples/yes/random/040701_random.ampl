@@ -1,0 +1,1 @@
+program Z : B : takes dH : boolean array; Ef : integer; J : integer array returns integer let I[9 and 03 + 8 - 1] = - 25; pop end main : wT, c : integer array; Y29, Rz0 : boolean array; let vv1[- 52000 or(836) and true and 0 - (907) + 70 - 1] = array - (48600 = 4) and false; pop end

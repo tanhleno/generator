@@ -1,0 +1,1 @@
+program J : wz : takes D5K, T, Cud, I, C6J : integer; T04, H81aa : integer; y2da : boolean returns boolean while true and 15 : chillax end; pop 2 = 1 end Pa10 : takes s68 : boolean; W, FZ : boolean array; iW : integer array returns nothing s37 : boolean array; chillax end main : Lg : integer; chillax end

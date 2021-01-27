@@ -1,0 +1,1 @@
+program Z : Z : takes P1, S0 : boolean array returns boolean array cy20 : boolean array; chillax end main : output "7" . _ and 2; when case - (5) : chillax end case - 62200 : input e3z0[38]; output "" end case 1 - 9 : pop end case 17100 = 5 : chillax end; pop end

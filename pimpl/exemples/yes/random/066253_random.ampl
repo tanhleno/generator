@@ -1,0 +1,1 @@
+program cC7 : main : do G(- K(96400, 2) = (315)); when case E(0) - I6 + 60500 > - 3 or 7 : do R5Uaa(77 = 6, 7, 16); output "8#" . "mF" end otherwise : chillax end; output 2 - 82 . 148 = 4; do j(47 - 3); pop 4; when case 80 : chillax end otherwise : chillax end; do q(00); let V = 19; pop end

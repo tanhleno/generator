@@ -1,0 +1,1 @@
+program MY : main : Vb : boolean array; u : boolean array; J0f, c7_ : integer array; when case F[95] or 7 / W5 + 1 : pop 58 = 9 end otherwise : chillax end; when case - not false + 97 and 797 - 5 /= - 5 and 67 - 86100 : output 1610 . 20800 end case 43 <= - 7 - 5390 : chillax end case - 7 - 2090 >= 15 : chillax end end

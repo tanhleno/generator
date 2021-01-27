@@ -1,0 +1,1 @@
+program g : q : takes yQ, rX, e, S, c8 : boolean array returns integer rm, g : boolean array; K, O0baa : boolean; a8 : boolean array; input bv[- false - 9 - 9]; output "s" . 60 . "" . "r9aa"; input a[4] end main : Z4 : integer; A : integer array; chillax end

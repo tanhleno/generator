@@ -1,0 +1,1 @@
+program d : main : when case _[6450] : chillax end case not 2 rem 592 and 355 - (4) and 03100 - 68 - 620 /= false and 4 : pop; input H[0] end otherwise : while 8090 = 663 : chillax end; while 91 : pop end; output ""; while 3 : chillax end end end

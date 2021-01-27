@@ -1,0 +1,1 @@
+program B : n : takes Ks : boolean returns nothing chillax end U : takes Sl, j, n, I5y, g8U, N, s : boolean; I9 : integer array; s : boolean array returns nothing do OW(5 - 4, 92 = 272) end main : chillax end

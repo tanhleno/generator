@@ -1,0 +1,1 @@
+program C : L : takes hiu : integer returns integer array chillax end M : takes AP, k480a, NX : integer; R9 : integer array returns nothing mA, c7, v17, G7q : integer; MtD0 : boolean array; o : boolean; chillax end main : L : boolean; chillax end

@@ -1,0 +1,1 @@
+program f_ : AR1aa : takes g : integer; e : boolean array returns boolean array let h[- false + 35 - 258] = array true or 069 end main : Qe4a, SQ2, l : integer array; xtc, m : boolean array; yd6aa : boolean; J, x : integer array; input Z; let AGJ = - jKCaa /= 5; let x1ka[- (1)] = 3 - 00500 <= 3700 end

@@ -1,0 +1,1 @@
+program R : q : takes y9 : boolean array returns nothing k, v : boolean array; v, K : boolean array; chillax end y : takes t23aa, S36, q9L : integer array returns nothing dQ : boolean; pop end main : E : integer array; H : boolean; T : boolean array; W, k9 : boolean; when case - true and 8 : chillax end; input KwZa end

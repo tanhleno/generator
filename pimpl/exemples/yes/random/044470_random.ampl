@@ -1,0 +1,1 @@
+program w : C3 : takes y : boolean array returns nothing r : boolean; d3, EQS : integer; let b86 = 45 > 3 end rXQ : takes g4, ie : integer array; l : boolean returns nothing chillax end main : i, nr2 : boolean; m, KH2, v : boolean array; sd30, S2F, rR : boolean array; chillax end

@@ -1,0 +1,1 @@
+program y : h4 : takes YS : boolean array returns nothing D1 : boolean; when case - y3 and 7 = - 0 : chillax end; when case 77 : chillax end case 430 = 2 : chillax end; do y49a(868 = 3960, 87, 4) end main : A, I : boolean array; chillax end

@@ -1,0 +1,1 @@
+program C : U5ea : takes fll0, c, sY : integer; x : integer; S, s3B, J, N, _62, t : boolean; B : boolean returns nothing output "h" end K1 : takes x : integer array; d : boolean returns boolean array chillax end b : takes j : integer array; f72, y : integer array returns integer array chillax end main : pop - false * false and 3 = - (40) or 52 end

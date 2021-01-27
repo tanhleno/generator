@@ -1,0 +1,1 @@
+program j0 : s : takes Gc, fez, d2L : boolean array; O : boolean array; g5 : integer array; V5, H, u, N : integer returns nothing chillax end tGp : takes Rf1, Z : boolean returns nothing chillax end P : takes c : integer; H, V, j44 : integer array; F, t5 : boolean array returns boolean array qG : boolean array; chillax end main : Ir7, Q : boolean array; input b0 end

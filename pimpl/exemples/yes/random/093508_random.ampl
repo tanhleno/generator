@@ -1,0 +1,1 @@
+program wf : main : output ""; when case - (2) rem true or not 39 : let G2[39] = array 01000 end case not 919 + 05300 - 14 <= 57 : while 92300 : chillax end end otherwise : while 92 : pop end end end

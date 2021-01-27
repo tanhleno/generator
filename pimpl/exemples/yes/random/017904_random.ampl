@@ -1,0 +1,1 @@
+program x3h : ObWa : takes lD, W : boolean; sr : boolean array returns integer X, Cr : integer array; output - 3; when case - 32 <= 4 : input J end; output 20 . 9 . ""; pop end v7 : takes M, O : boolean array returns integer array dx, h, c, pzq0 : integer; chillax end main : chillax end

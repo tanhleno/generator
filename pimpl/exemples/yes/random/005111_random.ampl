@@ -1,0 +1,1 @@
+program _4 : m00 : takes g, V9s, i, O : boolean array; c : boolean returns nothing do h(931 >= - 284) end main : y : boolean array; output "!"; when case not not 9 / not 49100 - 0 and 1 - 1 - 0 : chillax end case 1340 and 43 <= 85 - 3 : output "y"; input K end; do Lw8aa(not 6 and 880 > - 296); output "" . "" end

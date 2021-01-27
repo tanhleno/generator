@@ -1,0 +1,1 @@
+program e : J : takes Z : boolean array; i88, NY4, n5Qa : boolean returns nothing let _ = array - false and 1; input Z; pop; when case 3 : pop end end main : qz, r : boolean array; let S9 = - not true + not 5 >= - not 44 and 8; while - 040 * true and 679 : do w(74100) end end

@@ -1,0 +1,1 @@
+program jy : Hn : takes w, qc80a : boolean; N : boolean; tV : integer returns nothing pop - 7 - 5; output "~" . "75!"; let L = array 3; when case 58500 : pop end otherwise : chillax end end main : chillax end

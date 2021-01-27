@@ -1,0 +1,1 @@
+program G : P0oaa : takes r : boolean; c3, d : integer array; L, i : integer array returns nothing chillax end main : U9, W, TT : integer; W6, a : integer; while true * true / W and 95 : do C(- 96) end end

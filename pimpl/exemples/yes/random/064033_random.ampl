@@ -1,0 +1,1 @@
+program R : a4A : takes VM : integer returns nothing chillax end main : let R[true or false or A - 1] = array not(48) * (6); let Z100a = true or 7 <= 28700; when case not 1 and 196 or 5 - 1 : chillax end otherwise : when case 270 : chillax end; while 28 : chillax end; pop end; do D(9 - 0 >= 67) end

@@ -1,0 +1,1 @@
+program o : B : takes yP7a : boolean array; NW, ZK, u : boolean; q : boolean array returns nothing v3H0, W, K : boolean array; x, hS0aa : integer; n : boolean array; B, WI : boolean; input Y0; while 54 - 631 < 4 : chillax end end V : takes m : boolean array returns nothing pop end main : output "" . "7" end

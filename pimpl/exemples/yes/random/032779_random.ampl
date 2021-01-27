@@ -1,0 +1,1 @@
+program A : Es : takes C, T : integer returns nothing X : boolean array; chillax end yzp : takes V79, q2f : boolean returns nothing I, _ : boolean array; t : boolean; when case - 0 - 899 : chillax end otherwise : output "" end; pop 428; input eE3[3] end main : chillax end

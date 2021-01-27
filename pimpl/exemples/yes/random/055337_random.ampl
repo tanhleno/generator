@@ -1,0 +1,1 @@
+program H06 : g : takes ITtaa : integer array; UX, i : integer returns integer array chillax end Uki : takes r4, dw : integer array returns boolean array pop end main : i, Z, r4 : boolean; chillax end

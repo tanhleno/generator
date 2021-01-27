@@ -1,0 +1,1 @@
+program r : main : p : boolean; e, _B : boolean; when case true + 29 < - true rem false and 25 + c + 1 - 6 : when case - 0 : pop; let Yv = 141 end case 5 = 84 : pop; pop end otherwise : chillax end; input s end case - true * d > - (5) and 44 : chillax end otherwise : input iP[6]; do srS(9); output "N4"; let x7a = 141; pop end; let T = true and 093 > - 2 - 2 end

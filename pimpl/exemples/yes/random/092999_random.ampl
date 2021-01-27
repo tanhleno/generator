@@ -1,0 +1,1 @@
+program N54 : main : output "" . - true and 9 >= - 5; input Y9i[30 / false and 8 or not 69200 and 22]; do Km(- U2Y and 7 - 5 - 46); output ""; when case 67 : input eL20; pop end otherwise : pop end; output "&" end

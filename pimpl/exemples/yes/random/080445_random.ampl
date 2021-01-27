@@ -1,0 +1,1 @@
+program P010 : main : XL70a : boolean; when case 66 + not false + true - 6090 - 7 : while 97 : chillax end; output "" end case(72) <= P or 3 - 5 : input d[7] end case - L - 7 - 24 /= - 8 : chillax end; output "" . "" . "\n" . "" . "-" . "P" end

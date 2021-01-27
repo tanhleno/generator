@@ -1,0 +1,1 @@
+program G51aa : x : takes e, d : boolean; bi : boolean returns integer do n(- (5) and 2 /= 140); pop 9 end main : L5Y0a : boolean array; while - not true / true / A and 6 or true - i - 07 - 2 : chillax end; input k0[true and true - (96) and 9 + 90800]; pop; let p[- 363 - 6540] = array - 45300 end

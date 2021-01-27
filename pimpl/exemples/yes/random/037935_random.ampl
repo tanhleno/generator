@@ -1,0 +1,1 @@
+program nU : N4t : takes o78 : boolean array; woB, S, D, M : integer returns nothing do OP(- false and 74 + 18 = 2, - 83 = 2, 01000 = 18, 7) end main : S : integer array; M370, g, DW, ukk : integer array; let uaz = r1 and r9; pop; when case - 2 and 3 or 1 - 4 : output "" . "2N\""; pop; pop; pop end case 37 : chillax end otherwise : while 8 : chillax end end end

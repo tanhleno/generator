@@ -1,0 +1,1 @@
+program b : m : takes xs : integer array returns nothing E : integer; j, G : integer array; w, t, y : integer array; chillax end main : r32 : integer; R : integer array; Y : boolean; N : boolean array; n : boolean array; b : boolean; r : boolean; Y : boolean; chillax end

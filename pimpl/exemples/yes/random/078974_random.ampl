@@ -1,0 +1,1 @@
+program W1Oa : main : m : boolean; e00, I500a : integer; i_6a, jn0a, x, v : boolean array; k : boolean; input z28a[- e and 1 / not 7 and 7]; let q[- false rem U64aa and 5200 - true and 8 - 5 - 02600] = 2 and 8 or 0 - 848; while Q : when case 359 : pop end case 36600 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program g19 : J : takes oC : boolean array returns nothing E, f1, p : boolean array; chillax end d : takes P : boolean; Y : integer array; Dqna, Y3Fa : integer; k, WM8, N9 : boolean array returns integer array chillax end main : chillax end

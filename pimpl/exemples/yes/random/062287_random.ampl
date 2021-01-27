@@ -1,0 +1,1 @@
+program P : P840 : takes w2 : integer returns boolean chillax end main : while not true / not(01) and 3 and 09 or not not 8 * true and 2 > (4) + 0 and 2 : do V0(60000 - 43); while 26 = 34 : let z5 = 96 end; when case 1 : pop end otherwise : chillax end; while 30 : chillax end end end

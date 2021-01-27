@@ -1,0 +1,1 @@
+program P5p : main : jy5 : boolean; while not J(1) / true or true * not 4 and 865 : chillax end; pop; when case - true and 7 : pop end case - 2 /= 5 : chillax end case 7 : input t end; while 84 - 1 <= 8 : pop end; when case 0 = 55 : output "\tS" end end

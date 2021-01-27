@@ -1,0 +1,1 @@
+program H : w : takes m18a : boolean array; zM2aa, NPo0a, _, vV, l, VU, U1 : integer returns nothing output "2)" . 95 = 6 end G : takes j, K : integer array returns integer output ""; do a0(5) end main : chillax end

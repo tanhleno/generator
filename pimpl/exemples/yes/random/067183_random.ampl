@@ -1,0 +1,1 @@
+program Y46 : main : do I(X1iaa(87, 5) rem not not 2 / false < - (1) and not 90 - true - 5 - 9); output "" . "" . "X&0a" . 513; while - (08) or 97 - 28 < 04 : chillax end; while - 0 < 1 : let p = 21; let Q7 = 88 end; do m(7, 1, 881); when case 14 : pop end otherwise : chillax end end

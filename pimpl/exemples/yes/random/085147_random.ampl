@@ -1,0 +1,1 @@
+program x02 : main : u7 : integer; when case - T[95] * 52 or U9za * I and 5 : input J230a; do l(07 = 2) end; do D(- as(11) >= - not 6 and 1); when case not 5 + 6 < - 4 : input N; let B = 00 end otherwise : chillax end end

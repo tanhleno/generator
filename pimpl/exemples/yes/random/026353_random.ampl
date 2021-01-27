@@ -1,0 +1,1 @@
+program h : z : takes B, _T : integer; Vx : boolean array returns nothing while - not 6 and 2 - 1220 - 39 : input Kr; pop; when case 1 : chillax end; pop end; do d(6 /= 2) end main : pop 602 / (6) and 214 or 6 or 3 - 51 > - true; pop; let i[- true + 9 - 8] = array 69100 and 19 end

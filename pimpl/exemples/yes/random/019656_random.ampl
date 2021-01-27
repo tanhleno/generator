@@ -1,0 +1,1 @@
+program zJ : m6 : takes y, u : boolean array; s180 : boolean; p74, rz4, g, DI, C, mJ : integer array; R, k : integer; n : boolean array; n : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program _ : DgE : takes Fp8a : boolean; a, U, xH, o, wI, MI90a, C : integer returns boolean B8, U, p : boolean; chillax end r : takes x : boolean; W, a : integer array; U : integer returns boolean chillax end F : takes zA9 : boolean returns boolean chillax end main : mm5aa, _, f, YU9, e3J0 : boolean array; M9A0a, Z : integer array; w36, T, F, p : integer; chillax end

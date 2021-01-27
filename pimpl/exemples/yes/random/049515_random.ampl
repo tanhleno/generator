@@ -1,0 +1,1 @@
+program T : g1F : takes n : integer; GDwa, VZ, G15, _ : boolean; Ah : boolean; u40, u29 : boolean array returns integer n, U, IW, pr, r : boolean; when case - true <= 59 : chillax end end main : output "" . - not 9 and 9 end

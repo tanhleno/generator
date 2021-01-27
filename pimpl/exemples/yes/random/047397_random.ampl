@@ -1,0 +1,1 @@
+program p : K : takes U0 : boolean returns nothing chillax end Q7 : takes I, D8, v, k : integer returns nothing while 6 - 574 : output "Y" end; while 1 : output "G"; pop end; output 6950; output "" end LGM : takes y : integer returns boolean array chillax end main : chillax end

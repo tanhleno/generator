@@ -1,0 +1,1 @@
+program u : jO : takes V : boolean; Ay : boolean array; jI7aa, Mc_, L : boolean array returns nothing XL2, BQN : integer; pop 17 <= 8 end main : input w0T[rj0[6470] / true rem P3 + (6) * false]; let Q[S(9) * not 75 and 46 + not 577 - 31] = array true / true and 94 - true end

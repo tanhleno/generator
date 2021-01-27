@@ -1,0 +1,1 @@
+program S : main : _3, d07, P, vE, N : boolean; d : boolean; o, c, L, P2I, U3 : integer; w6 : boolean; c, Q48, c4 : integer array; do i(false, - true * (4) > false + 054, - false and 3 > - 57); while - true * r and 9 <= (5) and 9 : chillax end end

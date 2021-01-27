@@ -1,0 +1,1 @@
+program s : M4Wa : takes F, Y72a, tQ, _v : boolean returns boolean k27 : boolean; let k = array - true + 65 end main : q, G : boolean; let _s = true > (7) and 2260; do _u(- false / not 45300 = (20) and 1 + 11 - 30); when case - true and 86 : output 76 end; while 8050 - 2710 : chillax end end

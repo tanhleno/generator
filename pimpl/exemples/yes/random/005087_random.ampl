@@ -1,0 +1,1 @@
+program x : H : takes K, u, Bn6aa, M : boolean array; WyT : boolean array returns nothing let X31a[true] = array - false + 1 - 4 end W04 : takes j, i, kZEa, vs : boolean returns boolean array chillax end jm : takes QE : boolean; wth0 : integer returns boolean K, jL : integer; Khw : boolean; chillax end main : chillax end

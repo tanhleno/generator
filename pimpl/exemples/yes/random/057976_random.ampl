@@ -1,0 +1,1 @@
+program PJ : IkH : takes W : integer array returns boolean array pop end k : takes J5, ax10, iV, Z, V6 : boolean array returns boolean array do c80(6) end G9 : takes i, o, e, PH : boolean array returns nothing chillax end main : h8N : boolean array; output "" . "('\"" end

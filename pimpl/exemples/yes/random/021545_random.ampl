@@ -1,0 +1,1 @@
+program h : c : takes t, d : boolean array returns integer chillax end B : takes rY, t : integer array returns nothing h, JE2 : boolean array; uFR : integer; chillax end P3 : takes pq4, D : boolean; h9, h1 : boolean array; C8, s, op, i : integer; J9, L, R : integer returns integer chillax end main : EBca : integer array; let Q = not 8; input E26 end

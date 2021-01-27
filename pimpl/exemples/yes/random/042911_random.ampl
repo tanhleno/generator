@@ -1,0 +1,1 @@
+program T1 : L0y : takes k : boolean array returns integer chillax end D : takes _, s, h : integer returns boolean chillax end main : z97 : integer array; Bg : boolean array; while xF0(9) rem(84) and not 9 - false < - 50 rem true and 1970 : chillax end end

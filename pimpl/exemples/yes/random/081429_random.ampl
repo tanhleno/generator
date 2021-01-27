@@ -1,0 +1,1 @@
+program H : main : bvg0a : boolean array; o, zfd : integer array; v6Ca, Z, s2X0a : boolean array; I : integer array; v, _0 : integer; pop; pop; let ZMb[(99) and 2] = 5 - 42 >= 90900; when case - 4 : chillax end; do X(3, 2); input E end

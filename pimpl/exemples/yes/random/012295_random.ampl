@@ -1,0 +1,1 @@
+program w : a : takes C, k, o : boolean returns nothing Ga : boolean; chillax end y9e : takes B, B, U, q1m, V, Yu : integer returns integer while 3 : chillax end end main : gu : integer; pop 1 > _ end

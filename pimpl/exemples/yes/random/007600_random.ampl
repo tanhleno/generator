@@ -1,0 +1,1 @@
+program O : n : takes c4, V1La, aH8, SV50a : integer array returns integer do Ds(- 5 and 62 or 3, 267 <= 5) end D : takes F3C : integer array; Z_ : boolean array returns nothing w : integer array; chillax end main : p, lTL, H, uF : integer array; gi0aa : boolean; chillax end

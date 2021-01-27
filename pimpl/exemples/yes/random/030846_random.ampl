@@ -1,0 +1,1 @@
+program LrH0 : N7 : takes L, i4 : integer array returns nothing e : integer; cb, B, Z2, Zw00a : boolean array; chillax end Q : takes zr : boolean; GML0, Ll, zT, o1a0a : boolean array returns nothing M : integer array; let y[- 6 - 6] = 1 = 7 end xz : takes p, PT, IY, rJ1 : integer returns nothing chillax end main : chillax end

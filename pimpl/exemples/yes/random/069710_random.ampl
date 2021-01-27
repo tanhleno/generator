@@ -1,0 +1,1 @@
+program tM : main : x, Ng, q_j, AK : boolean array; do q2(- true / false * not 6 and 3 = false rem(60) - not 9 and 5 - 4 - 31300, - true >= (2) and 9, - 26 and 074 or 59 < 8); do y(not J / (73600) and 4, - 1 + 7 - 1 <= 5) end

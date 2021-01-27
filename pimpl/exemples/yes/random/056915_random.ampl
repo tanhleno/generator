@@ -1,0 +1,1 @@
+program Z8 : pZp0 : takes k : integer array; D : integer array; a9, x : integer array returns boolean array zPl, Kxh : boolean array; chillax end main : g4, g : boolean array; input B1Ya; pop; pop; input W[- 1] end

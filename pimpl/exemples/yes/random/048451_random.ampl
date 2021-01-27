@@ -1,0 +1,1 @@
+program Z8i0a : L22aa : takes s1 : boolean returns nothing pg : boolean array; chillax end c : takes d730 : boolean array returns boolean array l5p, B7 : boolean array; pop 0310 end main : input f[- false] end

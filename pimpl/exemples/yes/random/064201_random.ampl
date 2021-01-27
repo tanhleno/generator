@@ -1,0 +1,1 @@
+program F : o4 : takes U : integer returns nothing f, Qg0, r, k, y : integer array; Y1, u, y, rD7 : integer; when case 720 /= 8 - 0 : while 0910 : chillax end; pop end case - 93 : do B0(77800) end case 7170 = 5 : chillax end otherwise : chillax end end A3 : takes h, kR4 : integer array; hS : integer array; n, D, E, U : boolean returns nothing chillax end main : chillax end

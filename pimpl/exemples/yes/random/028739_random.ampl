@@ -1,0 +1,1 @@
+program gWOaa : T : takes x, Z7 : integer array; K : integer; O : boolean array returns nothing when case - _ = 40400 - 98 : input kV[1]; output "d4" end case - 9 : chillax end case 2 : chillax end case 42 : chillax end otherwise : chillax end end main : chillax end

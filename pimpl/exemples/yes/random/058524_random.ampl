@@ -1,0 +1,1 @@
+program FE : Sz : takes c9j0 : integer array returns boolean when case(54) : chillax end case 0 > 8 : output "\n~"; do C(6) end case 7 : chillax end case 4 : chillax end case 5310 : chillax end otherwise : when case 4 : chillax end; pop end; pop; input YI end main : pop end

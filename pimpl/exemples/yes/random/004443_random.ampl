@@ -1,0 +1,1 @@
+program o : E : takes xBzaa, k3, V, H : boolean; vL, Fai0 : integer returns boolean array w : boolean array; input T; let F98[8 - 87] = array 0 end main : N8, f, ZQ : boolean array; do i9paa((2 = 7) * 2, - false or 84 <= not 071 - 88300 - 3) end

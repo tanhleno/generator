@@ -1,0 +1,1 @@
+program J : V : takes U : boolean; N6, X, y7, b5, a, i8C, P : boolean array returns nothing y : integer; j, R : boolean; K, c, I : integer; chillax end main : let i0[- false / false] = array j7 * true / (1) or A[8] end

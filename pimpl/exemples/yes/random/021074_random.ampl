@@ -1,0 +1,1 @@
+program HtT0a : YM8 : takes yl6, ic : boolean array returns boolean q, F, L, l : boolean array; chillax end r2 : takes x4u : integer array returns nothing chillax end L8C : takes M5A0 : integer array; _J, k7 : boolean returns integer array while 9 : chillax end end main : Lbga, n, T : integer; chillax end

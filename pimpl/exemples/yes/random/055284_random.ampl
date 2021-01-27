@@ -1,0 +1,1 @@
+program k : NP : takes Jv : integer array; l8, m : integer array returns nothing let D2[- P6 - 08] = array - Gvg0 end a : takes r, V3 : integer array returns nothing do e(- 99 - 5 < 8, 6 = 2, 0) end main : let Bd3[(6) rem true * false] = array - (76 = 3) / false end

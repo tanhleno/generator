@@ -1,0 +1,1 @@
+program O : l : takes H, Ao, O, F, v : integer returns integer It : boolean array; when case - (28) and 0 - 4 - 74 = - 545 : chillax end otherwise : chillax end end main : g4ta : boolean array; Q2 : boolean; chillax end

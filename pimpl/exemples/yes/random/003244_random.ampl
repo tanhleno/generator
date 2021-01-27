@@ -1,0 +1,1 @@
+program k3 : k : takes f1, H, U40, U, K : integer; t_2aa, d : integer returns nothing DF : boolean; chillax end main : fZ8, mp, K : boolean; Y : integer array; x, l, L2 : boolean; N0, _, A91, F : boolean; _, Bto : integer; chillax end

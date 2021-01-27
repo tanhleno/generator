@@ -1,0 +1,1 @@
+program n : W57aa : takes QF : boolean array returns boolean y, X, B2l0 : boolean; let A0 = 59 <= 6210 end Sy : takes G : boolean returns nothing chillax end mf6 : takes clhaa : boolean returns boolean D7Naa, y : integer; pop; when case 74 : pop end end main : pop false or Rt5a end

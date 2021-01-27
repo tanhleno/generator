@@ -1,0 +1,1 @@
+program t8 : o9 : takes km, W5, L, k3, v : integer array; b : boolean returns boolean let c8 = 3 end J : takes c, m8q0 : boolean array; F, b, g : integer array; o10 : integer array returns integer array chillax end main : U : integer array; H : boolean array; R, AA, U, y2 : boolean array; y8, s : integer array; chillax end

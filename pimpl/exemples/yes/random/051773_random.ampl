@@ -1,0 +1,1 @@
+program c : g : takes nXc : integer; F6 : boolean array; K : boolean array returns nothing I : integer; chillax end ZX80 : takes ee, k, Q, M : boolean; R : boolean; Z, xt, A, q, T : boolean; J6, P, u : integer array returns boolean output "" . 217 . "" end main : pop - not false; while - true / 6 - Z and 65 or 4 : input N06aa; do Q(8) end; output "\t'0" . "" end

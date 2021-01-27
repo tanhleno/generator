@@ -1,0 +1,1 @@
+program f : V : takes e, AfG : integer array returns integer array V730a : boolean array; kT1, pp, G : integer; while 745 - 5 : input _N[273]; pop end end main : pop; do Bc2a(- true); when case false and 0 <= 3 - 6 : chillax end case 4 : chillax end case 00400 : while 857 : chillax end; pop end case 02 : chillax end case 5 : chillax end end

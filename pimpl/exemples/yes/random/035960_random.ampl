@@ -1,0 +1,1 @@
+program jD0 : b : takes D : boolean; Wv6 : boolean array returns integer z : integer array; yVva, y, S85, g : boolean; C : integer; chillax end t4 : takes f : boolean array; vMO0a : integer array; s : integer array returns boolean n : integer; r : boolean; output "" . 36 . "7O\"a"; input z3X0a; do l(08) end main : y4s : integer; yRK, s, sH, C92, X1 : boolean array; chillax end

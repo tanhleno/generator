@@ -1,0 +1,1 @@
+program I : L : takes B : boolean; A1, C : boolean; S7 : integer; E : integer array returns boolean array Fo9 : integer array; c : integer; N, f950a, q : integer array; JD, h : boolean; pop 79 = 5 end u : takes c7, H, V, c, G5, K, o : boolean array returns nothing E : integer; eIY : boolean; N5 : boolean; chillax end main : pop - false /= (77) + 9 - 42 end

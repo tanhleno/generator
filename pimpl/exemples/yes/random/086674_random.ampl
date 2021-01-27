@@ -1,0 +1,1 @@
+program T : main : kC_0a : integer array; y7 : integer; f, K : integer; output "4"; output - A + 45 - 2 . ",4" . 86 . "0" . "3" . ""; pop 7; when case - 1 >= 826 : chillax end otherwise : chillax end; while 48 : pop; pop end end

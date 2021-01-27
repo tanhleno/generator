@@ -1,0 +1,1 @@
+program x : sn : takes F, W : integer; f : boolean; i0, b : integer; o, L : integer array returns integer output ","; pop 3 end main : output "|"; when case - false / true and 13200 : input U; while 0 : pop end end case not 5 - 19 - 6010 : chillax end case 627 < 2 : chillax end case 00 = 79 : let L5 = 32; pop end otherwise : pop; while 55 : chillax end; output "f" end end

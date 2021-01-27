@@ -1,0 +1,1 @@
+program Nu : N : takes AU : integer returns nothing chillax end main : when case 81 - not not 0 - (08) and 6 >= ZN5[57] : while 1 - 5 < 0 : chillax end; while 29 : chillax end end case(05300) rem(724) or false + 057 : chillax end case - 7 and 2 : chillax end case 4 - 63 /= 1 : output "T8" end case 10 = 3 : pop end case 2 : chillax end otherwise : chillax end end

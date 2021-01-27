@@ -1,0 +1,1 @@
+program X : k : takes r, i, IO : boolean returns integer array Z2, z, w8 : integer array; U, D : integer array; let s[- (22600) and 03000 or 4] = array - true or 87000 end main : do a(- not false + 348 * 6 or(7) and 27); when case false /= - (69) or 0 - 022 : chillax end end

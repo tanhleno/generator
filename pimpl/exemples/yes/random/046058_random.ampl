@@ -1,0 +1,1 @@
+program V : VH : takes W8 : boolean returns boolean q, F5, w, V : boolean array; chillax end jK : takes j6, X, Z, e, Je5a : integer returns nothing chillax end main : let Tq6 = array - (63); do F(not true or l) end

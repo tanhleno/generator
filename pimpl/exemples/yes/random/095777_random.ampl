@@ -1,0 +1,1 @@
+program q : main : when case - false + true : let T = 537 = 6; output "'>" end otherwise : while 7600 : chillax end end; output - not 8 and 6 > - 51 - 1; while - not 101 and 2 : while 8 : pop end; do b62a(92); pop end end

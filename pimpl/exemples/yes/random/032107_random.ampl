@@ -1,0 +1,1 @@
+program Q : R : takes GV2, C : integer returns integer Y2 : integer; a0, bX : integer; input Bk; while - 7 : when case 9570 : chillax end end; let U[0] = 8 end main : z : boolean; zwMaa, h, U5 : integer; chillax end

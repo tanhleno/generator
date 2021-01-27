@@ -1,0 +1,1 @@
+program c39aa : JkEa : takes Q : integer; U, x33aa : integer array returns integer Maw, M1T : boolean; when case - N > 9 : chillax end case 1 - 0 < 5 : chillax end case 1 = 7 : chillax end otherwise : chillax end end main : chillax end

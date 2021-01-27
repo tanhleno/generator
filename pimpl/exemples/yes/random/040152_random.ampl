@@ -1,0 +1,1 @@
+program q0 : E : takes o : boolean array; e : boolean array returns nothing y0, g, LCV : boolean array; chillax end main : li, AVV0a, oA, d3, O : integer array; c : boolean; pR, F : boolean; while - not 9 - not(284) * 532 - false + 9 - 02500 /= 0 / l and 4 or false and 955 : pop end end

@@ -1,0 +1,1 @@
+program t : DG : takes a, g : boolean; M6, r : boolean returns nothing chillax end b20 : takes M, O : boolean; Qf00a, f, d : boolean array returns boolean array pop 6 end main : while true * not cAj or m0(58500) : when case - 39900 : chillax end case 2 : when case 033 : chillax end end case 812 : chillax end end end

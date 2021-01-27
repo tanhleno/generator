@@ -1,0 +1,1 @@
+program I : E6 : takes uW, MS8 : integer; fL : boolean; E : integer array returns nothing let se[true + 9 - 4] = array(57600) or 0 - 65 end L : takes J : integer returns nothing F : boolean; o, wv, b : integer array; input c[- 1]; while 3 : let I = 8; pop end; input ABW0 end main : chillax end

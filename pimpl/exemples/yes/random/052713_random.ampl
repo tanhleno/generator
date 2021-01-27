@@ -1,0 +1,1 @@
+program g : V : takes H : integer; d : integer array; T, S : integer array; W09 : integer returns boolean while 6 - 1 : chillax end; let v = array 8; input Ze00[8000] end F : takes Tm : boolean; _Cd : integer array; tY90a : boolean array; D : integer array; c1O0 : integer; R9H, _ : boolean; H6H : boolean returns integer MzF0a, F : boolean; chillax end main : chillax end

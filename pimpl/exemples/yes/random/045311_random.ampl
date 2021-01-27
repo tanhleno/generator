@@ -1,0 +1,1 @@
+program r : y7 : takes X_2 : boolean array returns nothing while - ixW0a and 57400 : chillax end end main : while false / false = not(50800) : do YIs0(7 /= 78, 9) end; let qC[(2460) * false or(45) and 045 + 8] = array(3) + false end

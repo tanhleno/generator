@@ -1,0 +1,1 @@
+program y4 : K : takes IC1 : boolean array returns nothing when case 8 and 97 or 8 - 681 <= - 01700 : chillax end case 65 : input t; output "\tT!a" end otherwise : output ""; output "8" end end main : when case not(0) * true > - c * 6 and 76 : chillax end; pop end

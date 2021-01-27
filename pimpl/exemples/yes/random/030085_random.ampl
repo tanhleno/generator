@@ -1,0 +1,1 @@
+program WX : H9 : takes y, A : integer array returns integer At : integer; f : integer; while not 81 or 93 - 9820 = 9 - 6 : chillax end end main : pop; output "" . - 073; when case S >= - 3 - 600 : chillax end case - 7 - 357 <= 98 : input I end end

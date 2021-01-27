@@ -1,0 +1,1 @@
+program x : main : Up : boolean; do _(- 2 rem true + true, - Y rem(2) and 5, - true > 8, 17 <= 2); pop; input C[- 75300]; output 55 = 3 . 22 . 58200; do a(985 = 4, 3, 418); do hJ(4, 16400); let op20a = 6 end

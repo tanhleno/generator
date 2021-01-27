@@ -1,0 +1,1 @@
+program C48 : K : takes k, A : boolean returns nothing chillax end W : takes SY, n, A, JA : boolean array returns integer array while - 36 /= 90 : output "m" end; while 023 = 1060 : chillax end end main : chillax end

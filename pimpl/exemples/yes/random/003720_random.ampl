@@ -1,0 +1,1 @@
+program E : L7c : takes B2, e, r, e, I24a : integer array returns integer array chillax end main : _, AU5a, gS0aa, t, Z, f, a : integer array; c590, o : integer; ly : integer array; input b47[- (95700)]; while - false - 5 : input f; let i[1] = 36300; pop end; let Z[false] = array - y and 9 - 13300 end

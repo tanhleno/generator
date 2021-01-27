@@ -1,0 +1,1 @@
+program OfMa : KT : takes Sdo : integer; H, iSl0a : integer array returns nothing st : boolean array; chillax end main : s12, T, E, r780a : integer; X : boolean; A, dl, H4, n3 : boolean array; d : integer; P, N3n, lX : integer; when case 0 * (752) rem false and 0 : let CO[0 - 98] = 511 end; let lP = - not 22 and 7 or 3 - 975 end

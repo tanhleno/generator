@@ -1,0 +1,1 @@
+program m : w : takes Y, Z7 : integer array; BuA, t_, t5a0a, Ob, a1, U : integer returns nothing V, m : integer; chillax end U : takes M : integer array; X8, Y7M : boolean; _ : boolean array returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program yf : T : takes D5, Gn, E, g : integer; w : integer; z, m : integer returns boolean array do B(- 4, - 62100 - 2); input N1Ja; do omm0a(62); output "" . "" end main : f, pR, cr, sNE : integer; chillax end

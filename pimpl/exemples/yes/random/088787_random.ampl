@@ -1,0 +1,1 @@
+program _ : main : input Q5[- 700 and false and(1) and 857 + 12 or _3 and 79]; when case cZT[8] * e and 8 /= true and 2670 - 4 - 35 : output 40; output 7; output ""; input t end; input _1u[- true + 0 - 4]; let T4 = array - 1; do e04(02000 = 2, 1); output "" . ":"; pop end

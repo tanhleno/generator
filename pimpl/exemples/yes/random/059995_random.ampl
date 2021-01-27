@@ -1,0 +1,1 @@
+program _ : jy7 : takes mzYa : integer array returns nothing chillax end main : H : boolean; pop; do G7(- 7 * (752) + not 03 and 8 > - (14) and 4 - 86 - 2, - (942) and 1530 >= 10 - 96, - 1 - 480 /= 087); let s = array(4) or 70800; input J end

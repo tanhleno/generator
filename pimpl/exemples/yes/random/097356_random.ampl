@@ -1,0 +1,1 @@
+program e : main : when case 179 - P9 * not 784 : chillax end case - false < - 93 : chillax end otherwise : output "" end; input U[z8vaa - Njw0a + 126 - 941]; when case e or 9 : while 83 : chillax end end otherwise : chillax end end

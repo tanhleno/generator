@@ -1,0 +1,1 @@
+program pD : main : u34, _iN0, X34 : boolean; H : boolean; do P9(- 0 /= l or(5), 1); let AKB = array not not 44 rem true + 771 and 6; while(31) and 235 : chillax end; while 3 >= 7 : input j4 end; pop end

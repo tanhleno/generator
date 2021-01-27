@@ -1,0 +1,1 @@
+program T : main : B, B, t : boolean; IR1 : integer; a : boolean array; Q, Bl4 : boolean array; a, l1 : integer; hW : boolean; when case false + true * false : let r[- 66] = array - 5; do N(8, 7, 9) end end

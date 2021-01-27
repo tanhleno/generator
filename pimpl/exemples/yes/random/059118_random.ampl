@@ -1,0 +1,1 @@
+program sp4 : U0P : takes s170 : integer array returns integer chillax end uo5 : takes t : boolean array; U, f : boolean array; mU : boolean returns boolean array chillax end main : i : boolean array; A, I : integer; p, PCGaa, nH, f, H : boolean; h6, a, mI, V : integer array; QL2, m : boolean; chillax end

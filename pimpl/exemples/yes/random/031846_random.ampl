@@ -1,0 +1,1 @@
+program z8 : C13 : takes X, z9 : integer returns integer array m : integer; G, CY, Yob0, T : integer array; chillax end main : Xora, a : integer array; J : integer array; cr, Zn : boolean; do O(- not false, - true * (5) >= - (51) and 8) end

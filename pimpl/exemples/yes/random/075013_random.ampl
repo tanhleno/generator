@@ -1,0 +1,1 @@
+program h : main : A, V : boolean array; M : boolean; AW1aa : boolean; x, P, g1, S : integer array; while - l[46] + (338) : when case 7 : while 04 : chillax end end case 52 = 23100 : chillax end case 2 : chillax end case 05 : chillax end; while 77 = 39 : let Y0ma = 35; pop end end; input _pd0 end

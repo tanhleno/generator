@@ -1,0 +1,1 @@
+program Re40 : Qw30a : takes ej3 : integer; a : boolean; tw : integer returns nothing f650, c, J : boolean; s5 : boolean array; chillax end main : yi8aa : boolean array; output - not not 0750 and false <= - not 5 and 8130; do I(- 9940 < - 7, (40) and 5, - 2 - 7 <= 3, 88 = 7); output ""; do j3(5, 890); pop end

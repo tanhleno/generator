@@ -1,0 +1,1 @@
+program M : q : takes a : boolean array; f, Lr6aa : boolean returns boolean array output "" . "" end main : V, B, r : integer; p5, L, w40a, W : boolean array; do v(- 178 + false + true and 87400 >= - true, not(48) * false > - true and 16700 - 0490, false, - 2 - 615 < 0580) end

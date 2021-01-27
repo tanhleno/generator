@@ -1,0 +1,1 @@
+program c0 : main : Iy : integer; iV : boolean; CK : integer; W : boolean array; x, bT, Z3 : integer; w1, xV : boolean; c : boolean; N3 : boolean; while not(7) / false or O[8] and false and 0820 + (85) and 3 + 5 : chillax end end

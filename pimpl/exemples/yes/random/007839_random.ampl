@@ -1,0 +1,1 @@
+program R5 : i2Yaa : takes S, K45a, Z13a, F13aa : integer array returns nothing input N; let O[52] = 6 = 7; input y[5]; while 5 : chillax end end w : takes M, F : boolean returns integer array M, N : integer array; chillax end main : i2, FP, W83aa, l27aa, T, v, Y : boolean array; Qx2, E, z8H : boolean array; chillax end

@@ -1,0 +1,1 @@
+program o2N : y : takes Ju, v : boolean; W17, L, y1, kY8, M, I, M : integer array; b2K, C42aa, W, X6laa : integer; Q7, B2Y0a, M : boolean; p : integer array returns integer array do Y6(7, 07 = 9, 1 = 1210, 8860); while 7 - 8 = 17 : chillax end end main : E : boolean array; chillax end

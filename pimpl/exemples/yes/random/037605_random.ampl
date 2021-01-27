@@ -1,0 +1,1 @@
+program r9 : z : takes k : boolean array; W, i, H, dC_a, TZ9aa : boolean array; b : boolean returns boolean array O, A36a, SI : integer; while - false and 3 < - 3 - 8 : chillax end; when case - 10 - 9 : chillax end case 7 : chillax end case 104 : pop end otherwise : when case 647 : chillax end end end main : L2 : integer; L : boolean; _KK : integer; chillax end

@@ -1,0 +1,1 @@
+program dX : oN : takes GO : integer array returns integer chillax end Q : takes xV3, J, b4y0a : boolean array; D06a, uP, q : boolean returns nothing Z : boolean; when case 1 - 7280 : do W93a(3); pop; pop end end main : wC5 : boolean; r7 : boolean; output - 6 or not 3 and 6 = - (73) . "0" . "" end

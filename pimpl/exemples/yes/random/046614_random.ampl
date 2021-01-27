@@ -1,0 +1,1 @@
+program dU : P : takes u : boolean returns integer array _, K : integer; XQ, iN, i, M9 : boolean array; u, S : boolean; sS : boolean; PC : boolean; VZR : boolean; while - 664 : while 967 : pop end; do c5(7); pop end end main : chillax end

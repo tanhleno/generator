@@ -1,0 +1,1 @@
+program l : r0 : takes Ym, C7, hD7, R, il, zE, F1t, s6F : integer; G6, F : boolean; X, P05 : boolean; k : integer array; X : integer; A7o : integer returns nothing X, d, M7 : boolean array; ty, L7 : boolean; while not 34 and 2 or 0 - 1060 <= 61700 : chillax end; input Y end main : chillax end

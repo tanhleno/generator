@@ -1,0 +1,1 @@
+program R : G660 : takes G900a, y6, V550a, X, x640a, o4, H410 : integer returns boolean B : integer array; input g; while - 3 - 8 /= 432 : chillax end end Te : takes lE : boolean array returns integer array w, P, m : boolean array; chillax end main : pop - 1280 / fP5 and 0 end

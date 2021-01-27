@@ -1,0 +1,1 @@
+program q : C : takes h, L : boolean returns nothing chillax end b : takes A : integer array; G : integer returns integer K : boolean array; while 85 = 3 : input s; do z(57); pop end; input H7 end zh4 : takes A, J02a : integer returns nothing chillax end main : chillax end

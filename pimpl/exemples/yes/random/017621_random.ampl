@@ -1,0 +1,1 @@
+program d : CX4 : takes z3, g : boolean; z : boolean; hq, F54aa, G000a : boolean; z : boolean returns nothing VA, V, L, J : integer array; j0 : boolean array; chillax end main : m1, z6, zlV : integer array; let Hb = array - not(9) end

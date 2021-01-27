@@ -1,0 +1,1 @@
+program lG : w : takes e : integer returns nothing hyW0a : boolean; Zo : integer array; j, B, L32 : boolean array; pop; output 3 = 752 end y5 : takes Zt2 : boolean; W, g250a : integer returns boolean array chillax end main : Yup0 : integer; xN, _50a : boolean array; S6, _50, x, M3L0a : boolean; H : boolean array; pop - false - (293) - 1610 - 17000 > - 3 or 7 - 4 end

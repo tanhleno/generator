@@ -1,0 +1,1 @@
+program wW5 : tL : takes i83 : boolean array; U : integer array; W7 : boolean returns boolean array v : boolean; do b600a(true and 663 - 4 >= 406, - 45 /= 979) end main : let E[2] = array - 87 + Y6(1) and false and 368 - true - 28800 - 9 end

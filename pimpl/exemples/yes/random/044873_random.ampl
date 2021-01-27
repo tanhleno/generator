@@ -1,0 +1,1 @@
+program u : h : takes lO40a : boolean array returns nothing Up4 : integer array; e4 : boolean array; V2 : boolean; e, TB4 : boolean; when case - 40 + 4 >= - 6 - 28000 : while 4 : chillax end end case 4 - 6 : input z end; input v[- 0 - 35] end main : chillax end

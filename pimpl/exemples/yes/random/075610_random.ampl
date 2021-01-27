@@ -1,0 +1,1 @@
+program c6W : main : k, G : boolean array; when case - (9 = 65) * h <= - (9) : chillax end otherwise : input c[997]; input F end; when case(60) or 796 and 7 or 2 - 61 >= - uW4 : chillax end case - 66 - 3 < - 11 - 4 : do I(5, 3) end otherwise : output "7" end; input J[(97)] end

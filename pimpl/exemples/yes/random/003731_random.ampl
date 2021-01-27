@@ -1,0 +1,1 @@
+program ST2 : V : takes x7, M, L, W, d : integer array returns integer array S9, y, F : integer; Fh : boolean; H : boolean; C46a : boolean; chillax end d2 : takes X, u7q, k : integer; k, s2, W : integer array returns integer array pop; output "wi" . "" . "_"; output "w*" . "" end main : jI, uuo : boolean; chillax end

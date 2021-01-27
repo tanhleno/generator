@@ -1,0 +1,1 @@
+program S : Q : takes F : boolean returns boolean y, h : boolean array; let M = 84 <= 5 end main : when case Ez(15, 15400) : do l(- 5 - 4) end case false : output 3; pop end case 3 /= 97 : while 68 : pop end end end

@@ -1,0 +1,1 @@
+program V : U30a : takes r, b, E : boolean returns nothing M2g : integer; chillax end Q63aa : takes X7, w : integer array returns nothing let J[6670] = 0 = 48900; when case 2 = 13 : input b end; when case 9 : pop end case 8000 : chillax end end main : input b2[- 0240 or(5450) + (24) and 20] end

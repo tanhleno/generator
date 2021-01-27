@@ -1,0 +1,1 @@
+program O280 : mcI : takes v, Yy : integer array; P3Xaa : boolean array returns integer pop end main : B6, U040a : integer array; when case false = - K(10) : chillax end case(38) : chillax end otherwise : while 58 = 0 : chillax end; pop end end

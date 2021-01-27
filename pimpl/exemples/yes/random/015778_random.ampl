@@ -1,0 +1,1 @@
+program kJ1 : R_U0 : takes K1d0, a3, P1 : integer returns boolean chillax end R2 : takes h8 : integer returns boolean when case 0 > 696 : output ""; when case 4 : chillax end; pop end otherwise : chillax end; let Q0 = array 35400; input C; let P6ia = 5 end main : B : integer array; kt0aa, UFv, QG : integer; ONf0a : integer; V : boolean; iZ, B5N : integer; chillax end

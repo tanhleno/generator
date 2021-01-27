@@ -1,0 +1,1 @@
+program m730a : Dpna : takes p, L0 : integer array returns nothing chillax end O : takes eB, x : boolean; X : integer; bR4, k : integer; ZK0 : integer array; d, ma, f : integer returns integer B40a, t3, Nd7, o : boolean; chillax end main : when case - not true rem true - false and(42) and 969 or true - 5 : pop 3 end; input s; pop 5 /= 531; output "" . 62400; do tU(517 = 9) end

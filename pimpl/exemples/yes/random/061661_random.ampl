@@ -1,0 +1,1 @@
+program w1 : T9 : takes OVI : integer array returns nothing while 9 - 303 > 981 - 97 : when case 5 : chillax end; do l(625); let Q = 398; pop end end i : takes qD4 : boolean array returns boolean array chillax end main : output "" . G2 and 00 + 04600 - 42 = - 0080 - 0; input _ end

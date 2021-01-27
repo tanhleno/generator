@@ -1,0 +1,1 @@
+program uwna : QY : takes s4f : boolean array returns nothing chillax end CP8 : takes Jm : integer; Q : integer array; f, k, g : boolean array; R0c, C, D, z : integer; Dl, c, f : boolean returns nothing pop; when case 0 : chillax end otherwise : chillax end; let t7[348] = 9; while 106 : chillax end; input v22; pop end main : pop - false end

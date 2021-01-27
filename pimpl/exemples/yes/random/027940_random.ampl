@@ -1,0 +1,1 @@
+program e : mk : takes E, Y7 : integer array; W7, Y0 : integer array; w, B : integer returns nothing chillax end main : H0, g : boolean; Y9, R : integer; while not false rem not(712) rem(9) - not not 31 rem(0) /= true - false - 1 - 33 : let Qr[124 - 254] = array - 5 - 8; while 6 : do R(4); pop end end; input rV; pop 0 <= 0 end

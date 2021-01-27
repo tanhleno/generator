@@ -1,0 +1,1 @@
+program e3 : main : let p1[- L7(3, 5120) - not NK] = (9) or false = - V8 and 01 - 87; do Zc(- 341 or 0 and 5, not 864 and 0 < 3 - 7); when case - 96 /= 24 - 7 : chillax end case - 15 - 8 : output "47\"" end otherwise : chillax end; when case 25 /= 0 : chillax end otherwise : chillax end; output 47300 . ""; input v7[91] end

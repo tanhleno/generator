@@ -1,0 +1,1 @@
+program q : R : takes U, c : integer array; j3, k : boolean; np6 : integer; A : boolean; jIu0a, nG, Dn, rS : boolean array; Y, l : boolean; yM20a : boolean; W : boolean returns nothing W : boolean; while(514) >= - 83 - 1 : chillax end end main : o, v, hR : boolean; kA9 : integer array; X, Uy : integer array; chillax end

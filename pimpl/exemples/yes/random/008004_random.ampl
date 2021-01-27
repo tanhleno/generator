@@ -1,0 +1,1 @@
+program D : Hd : takes s140, V2B0, du5, B : integer returns boolean input Cd[- (57) and 02]; do c(- 838) end o8p : takes Y8, T : boolean returns nothing chillax end Z : takes FT, P2, O : integer returns nothing TH, F : integer; pop end main : while k0[0] / (19) * 8 and 537 < - not(5) : chillax end; input n[- not(83) or(34)]; input Kwkaa[true] end

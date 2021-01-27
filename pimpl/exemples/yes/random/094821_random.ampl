@@ -1,0 +1,1 @@
+program l8 : main : pop; while - 0 : output 341 end; while _ and 6 : while 82 : chillax end; do L1(120); do A(1520) end; when case 421 < 7 : while 9 : chillax end end; while 6 = 7 : when case 3 : chillax end; pop end; pop end

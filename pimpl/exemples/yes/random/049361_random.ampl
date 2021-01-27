@@ -1,0 +1,1 @@
+program oE : KU : takes v5 : integer; Z, m, Fc1, z690, wU : boolean; s3, A, J, d4, H, M3q : integer array returns boolean array do Xlh0a(i9 or 2 > 8); output 6 . "" . 03 end main : r, z8 : integer array; e : boolean array; let v1 = array - R01[22] + not not 20 * false + false - 21 - 5; output fY0 and 38400 > - 198 - 7 end

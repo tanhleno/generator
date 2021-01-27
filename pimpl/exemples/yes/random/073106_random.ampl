@@ -1,0 +1,1 @@
+program G : main : U5, T, b6 : integer array; output P900; while - I - true and 05 = false and 97 - 8 : let P[90] = array 99 end; do Ys((672) and 3 = 96); while - 43 - 6 > 0 : chillax end; input r end

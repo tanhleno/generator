@@ -1,0 +1,1 @@
+program d9 : Iu : takes O : integer; y1, p : integer returns boolean while - d and 63 + 3 : output 7 . "\t20a"; while 4 : chillax end end; while 2 = 7 : chillax end end x9 : takes y : integer array returns nothing z : boolean array; M6h, CTC, x : integer; let iCp0a = array - 5 - 4; let Q[12] = array 6; do g(6) end main : chillax end

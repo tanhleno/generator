@@ -1,0 +1,1 @@
+program xzW0a : E : takes mRDa, V, Q, PM, e : integer array; A : boolean array returns boolean array Ry0, W : integer; g : integer array; T, _, K : integer; do fc8a((92) and 4 + 1) end main : L : boolean; chillax end

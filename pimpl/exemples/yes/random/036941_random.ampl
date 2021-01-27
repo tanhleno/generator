@@ -1,0 +1,1 @@
+program N : b : takes V04 : boolean; f : integer array returns boolean chillax end _ : takes jPVaa, n : integer; B, R, c : boolean array returns nothing let p[98 - 03] = array - 783 - 6 end _20 : takes m8_0, BF : integer; P, cj, E7 : integer array returns integer array w0Qaa : boolean; let Y[1] = 0; while 9 : pop end end main : r : integer array; chillax end

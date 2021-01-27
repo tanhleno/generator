@@ -1,0 +1,1 @@
+program x : W1 : takes b : integer; WI9aa, vI : boolean returns nothing while true or 56 <= 7 : while 75 : chillax end end end main : pop - not false / false + 82600 and 689 + 8 /= - M + 9 - 5; while - 60300 > - false and 71 : let oxAaa[7430] = array 63500; do z(2, 1); pop end; while false : let wj5[62] = array 976 end end

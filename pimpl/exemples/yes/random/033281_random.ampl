@@ -1,0 +1,1 @@
+program N7 : uP3 : takes H9 : boolean; A, x, K, Cx, K, B : boolean returns nothing chillax end e : takes C3 : boolean returns boolean output "!2" end main : while not true rem Wv[3] : chillax end end

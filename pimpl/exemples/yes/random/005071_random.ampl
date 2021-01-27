@@ -1,0 +1,1 @@
+program yJU0a : u : takes G, G, P, qJ : boolean array; LM : boolean array returns integer pop - 478 - 8 < 0; output 03 = 38 end main : s, l, n, Z : integer; y_ : integer; do b(- not(2) * (27800) <= - (7) - Ci); input h; pop end

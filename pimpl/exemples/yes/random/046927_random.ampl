@@ -1,0 +1,1 @@
+program q : D : takes E9za : boolean returns integer chillax end W : takes m : integer array; S, K3 : integer returns nothing a : integer array; q, DfFa, h83 : boolean array; yzUa : boolean; L : boolean; Rh : boolean; do Igmaa(- 5, 394) end main : f25 : boolean; Zm, M4U : integer array; pop - d[40] <= - _n + 5 - 4 end

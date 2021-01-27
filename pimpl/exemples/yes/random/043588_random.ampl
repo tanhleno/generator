@@ -1,0 +1,1 @@
+program WI : A : takes f : boolean array returns nothing chillax end I : takes Aj : boolean array returns nothing cE7aa, h, p, zj : boolean; when case - 460 - 5 < 3 : while 500 : chillax end end case 8 : do xc(7); pop end case 4 : chillax end end main : j25aa : integer; H : integer; pop - (65900) * true or false and 4 or 3 end

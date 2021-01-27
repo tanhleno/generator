@@ -1,0 +1,1 @@
+program ng : ZUN : takes V, ay, O : integer; o8 : boolean array; O370, L : integer returns nothing G, ka, o530, L : integer array; input kE[(761)]; input G5[- 74]; while 77 : do S(9); pop end end main : chillax end

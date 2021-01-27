@@ -1,0 +1,1 @@
+program G6 : E : takes Prw, V : boolean; Y, p0 : boolean array returns nothing when case - (6) - 64 > - 4 - 6 : chillax end; while - 1 - 2850 <= 7 : input d end; do u9u0(0340 = 0, 0) end main : d0 : boolean array; F5 : integer; output(2) = d8 and 7210; pop; while - false /= - 7 - 3 : let l = array 198 end; output 200 = 0 end

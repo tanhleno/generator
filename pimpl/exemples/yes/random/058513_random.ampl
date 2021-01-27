@@ -1,0 +1,1 @@
+program R0C : jh1 : takes g000a : integer array returns boolean pop; when case - 890 <= 5 : input RIV0; let T = 2 end case 61 : chillax end case 519 : chillax end case 191 : chillax end end Z45aa : takes Z5, Y : integer array; Hf1 : integer array returns nothing chillax end iv30a : takes oy, t : boolean array; d : integer array returns nothing chillax end main : chillax end

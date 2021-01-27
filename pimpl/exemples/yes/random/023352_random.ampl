@@ -1,0 +1,1 @@
+program _460 : l : takes I, N6 : boolean returns boolean when case - true and 1 or 0 > 396 : chillax end otherwise : when case 8880 : chillax end; input q; pop end end main : let c020[- 6 and(30) and true and 2 or O[8] * 0] = array - true - L46aa(8) + not 8 and 30 end

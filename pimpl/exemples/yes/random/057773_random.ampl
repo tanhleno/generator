@@ -1,0 +1,1 @@
+program E : F8 : takes X7q0a : integer array returns boolean array TS80a, xCi : integer; I8 : boolean array; chillax end main : b, e : boolean array; H : boolean array; d, Xm60a : boolean array; U78 : integer array; when case - e[0280] / (7) / (44) and 4 : input H[- 6]; while 17800 : input Ez end end otherwise : let P = 7 end end

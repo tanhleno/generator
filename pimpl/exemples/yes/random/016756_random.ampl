@@ -1,0 +1,1 @@
+program Jk5a : K : takes t, p : boolean; M, W, WAGa, G, f1 : integer returns integer K6 : boolean array; chillax end main : k : integer; uc, k : integer array; e48, _ : boolean array; Y, K : boolean; chillax end

@@ -1,0 +1,1 @@
+program O : Nk2 : takes H1, w : boolean array; lY : integer; Q3 : boolean array; q : boolean array; Z : boolean array; F3, Q3, FJ : boolean; q, D : boolean; nNp : boolean returns nothing let O[not 630 and 6 + 15] = - 4 end main : when case - L rem 65 / true or 5270 and 9 : chillax end otherwise : chillax end end

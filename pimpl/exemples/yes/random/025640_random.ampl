@@ -1,0 +1,1 @@
+program x : ZU7 : takes g3h0, q2 : integer; C, bt : boolean returns integer array m : integer; c70a, g4, Ve, U20 : boolean; D, zq5, O : integer array; let rA00[false or 24] = 1 - 8 > 0 end main : Z : integer; I, nA : integer array; chillax end

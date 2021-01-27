@@ -1,0 +1,1 @@
+program P : K : takes V : boolean returns boolean r : integer array; b27 : integer array; I, Ej7, s1x0 : integer; dy : boolean; L : boolean; V : boolean; input ekY end main : IOv : boolean array; Pf : boolean; o1w, m, l : integer array; do u(true >= - iB(4)) end

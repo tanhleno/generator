@@ -1,0 +1,1 @@
+program oG : w : takes q7 : integer array; R1c, e, z5r, gt : integer array returns boolean array X5 : integer; input lK[- (636) and 4]; output "/1" . ""; output 08 . 9; output 1400 . "3"; output ""; input k end main : Y900a : integer; a : boolean; when case - false : chillax end end

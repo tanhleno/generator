@@ -1,0 +1,1 @@
+program Q : k : takes p : integer array; CzH0, I, U410 : boolean; lG : integer returns boolean array Lg : boolean array; input W[not 4 and 334]; while 941 : chillax end end main : r : integer; T, pbPa : integer; o, W : integer; pop - true end

@@ -1,0 +1,1 @@
+program e : p : takes l9 : integer; U, U, q34, vY : boolean returns boolean nDKa, TY : boolean; input N910a[(0)]; pop 1; do vB0(0 = 10) end main : when case - not not not 528 * true - 5 <= - not false * 3 and 0 + (3) : chillax end case O[4360] rem 44 < (649) and 66 + 6 : while 18 : output ""; pop end; input ne; pop; input uK7 end end

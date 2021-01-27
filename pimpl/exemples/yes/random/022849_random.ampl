@@ -1,0 +1,1 @@
+program E06 : s1Y : takes c, Z1 : boolean returns boolean array chillax end P : takes C290, mj, cg8 : boolean array; H6n0a : boolean returns nothing chillax end N : takes q0 : integer array; o, f, fR : integer returns integer N9, OMH : boolean; chillax end main : do t9(- 279 and true or a(7), - Y4 * 496 and 14 + (7)) end

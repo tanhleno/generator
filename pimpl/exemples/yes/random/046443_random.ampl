@@ -1,0 +1,1 @@
+program Cd : xe : takes o : boolean returns integer array chillax end S1 : takes O : boolean returns nothing chillax end b86a : takes a, _ : integer returns nothing T : integer; U : boolean; Kd60 : boolean; lyn : boolean; pop 5; while 1 : pop end; input VKQ end O9I : takes M, R3, C, z, N : boolean returns integer chillax end main : chillax end

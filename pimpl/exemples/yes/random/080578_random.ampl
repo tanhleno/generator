@@ -1,0 +1,1 @@
+program F : main : Z : boolean; while _n : when case 7 : chillax end case 7 : pop end otherwise : chillax end; input w; while 450 : pop end end; when case U(4) - true and 5 : chillax end otherwise : chillax end; input i end

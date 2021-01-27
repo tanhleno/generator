@@ -1,0 +1,1 @@
+program q : a : takes W_ : boolean array returns nothing A, e : integer array; input Rw[p5P + 4] end c2o0a : takes df, Q9n, R : integer array; u85 : integer array returns nothing let AM40a[- 2] = array - 1 - 5; when case 9 = 6 : input d end end main : y : integer array; chillax end

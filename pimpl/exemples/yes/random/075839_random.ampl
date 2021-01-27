@@ -1,0 +1,1 @@
+program B : main : vZ6aa, qz : integer; do c23aa(404 / not false + 0 = 96 and true and 91 - true, - true); pop - 8 and 6; when case not 292 and 2 or 8 : chillax end case 61 - 92 < 3 : chillax end end

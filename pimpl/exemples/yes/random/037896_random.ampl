@@ -1,0 +1,1 @@
+program s2v0 : Y : takes k9a : boolean array; f, v, R, b : integer array returns integer array chillax end b480a : takes i5 : integer returns nothing Z7z, u51aa, L : integer array; do Yow(5, 53); while 0 = 84 : do u(5) end; while 3 : chillax end end main : YC5aa, xz6 : integer; chillax end

@@ -1,0 +1,1 @@
+program chc : qq90 : takes W, K0, w, S9, A : boolean; l, c : integer; v9Qa : boolean array returns nothing U, t35 : integer array; chillax end main : when case false rem vT30a - 770 * false : do u(- 226 - 4 > 61, 9 = 6300, 27, 678); pop end; pop end

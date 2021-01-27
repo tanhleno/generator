@@ -1,0 +1,1 @@
+program i : xg : takes H : integer array; H2, A, s : boolean array; A79a : integer array returns boolean g, UL, v7u0, _, t : integer; z : boolean array; output 0 - 9730 = 57900 . "" . 3; let o[5] = 1 end lwAaa : takes S : boolean array; P9y, _75 : integer returns nothing u5R : integer array; chillax end main : input w[true] end

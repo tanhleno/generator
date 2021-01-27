@@ -1,0 +1,1 @@
+program U : f23a : takes R7q0a, i_ : integer array; zeL, M : integer array; yBJa, T, A7 : boolean array; e, H0, g6, o, Q : boolean array returns boolean u, e : integer array; FUVaa, G, e02 : boolean; s7 : integer; R, wo : boolean; R88a : boolean; do J(not 3) end main : h8 : boolean; input l[(52300 = 9)]; pop not 729 and 2 < 1 - 0 end

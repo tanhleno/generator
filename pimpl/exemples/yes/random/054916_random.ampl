@@ -1,0 +1,1 @@
+program s2 : IS : takes _DNaa : integer array; Tk, Dk : integer; zp7aa, G15, p8 : boolean array returns nothing G, L1 : integer array; F, HJ6aa, v, m : boolean; chillax end u : takes QD, cg, j6Q, EWo, l : integer array; _, l27aa : integer; G, s : integer array returns boolean array R, R, P, k : boolean array; output 60 = 727 . ""; let I = 5 end main : chillax end

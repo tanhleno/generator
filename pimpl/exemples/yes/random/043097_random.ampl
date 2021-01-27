@@ -1,0 +1,1 @@
+program O : P : takes o : boolean array returns integer I, F, g : integer; while - p or 42300 /= 8 : do s9(8) end; do g(07400 - 941) end main : t : boolean; do YSra(- 3 + (54) > - true or(21) or 0, - true, (93) and 216 - 5 < 8020 - 9); let _8[true and Xk] = 6 and 4 - 7650 < 8 - 0; while false : chillax end end

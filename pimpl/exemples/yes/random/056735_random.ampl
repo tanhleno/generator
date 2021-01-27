@@ -1,0 +1,1 @@
+program nC : x : takes z6Q : integer array; C51 : integer; HWY0a : integer array; G80aa, aeSa : integer; Q8C, F : boolean array; B, i, n7gaa : boolean array returns boolean while false and 98900 : chillax end; pop end t : takes r_L0, dR, S, XxI : boolean; eH : integer array returns integer Bd9, m0 : boolean; T, s19, SBt : boolean array; chillax end main : chillax end

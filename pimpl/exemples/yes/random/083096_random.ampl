@@ -1,0 +1,1 @@
+program o2 : main : fA : integer; U4, k, B, f28, j, i : boolean; g, oy, lV, a, T : integer array; IY : boolean array; let s0 = array - false + true * 50 and 1 - 65 - 9 - 52; pop 99 and 5; when case 6 or 2 - 12700 < - 458 : let a = array 3; output "5K"; input a4; pop end otherwise : chillax end end

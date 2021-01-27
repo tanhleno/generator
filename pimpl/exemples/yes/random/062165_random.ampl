@@ -1,0 +1,1 @@
+program a : rY5 : takes s : integer returns boolean array while - false or 3 - 2 : output "" . "" end end E6 : takes _y : boolean; M : boolean array; pBDaa : integer array; n, ye : integer array returns integer chillax end main : twl, J : integer array; chillax end

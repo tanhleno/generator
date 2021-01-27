@@ -1,0 +1,1 @@
+program A : F4 : takes QN : integer array returns integer pop - 8 /= 0 end main : L9, m5O : boolean; o : boolean array; e, R : integer; z : integer; t : integer array; k : boolean; xAWa : boolean; while - not(75) and 1 or true / not 79 and 1 > - 254 : chillax end; output B . "" . "89"; do PU((28100) < 7); input u[- 9 - 6]; do pq(1 = 6740) end

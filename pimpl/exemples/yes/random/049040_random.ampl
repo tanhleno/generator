@@ -1,0 +1,1 @@
+program a : FT50 : takes z : boolean returns nothing pop - 53600 end G : takes z4, K : integer array returns boolean l : boolean array; f0, RJKaa : integer array; pop; let k360 = array 9; output 2560; pop; when case 7 : chillax end; pop end h : takes nNe0, in : integer; O, qJ60a : boolean returns integer chillax end main : output "\n4\"" end

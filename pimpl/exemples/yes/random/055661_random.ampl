@@ -1,0 +1,1 @@
+program G : L91 : takes r6s0 : integer array; r : boolean; r : integer array; w, Y, Hs7, v, zJg : boolean; rx3 : integer array; N, v : integer array returns nothing let Hc3aa = array - false; output "" . "" . 24900; output "]=" . 5 end M2 : takes Z, D5 : boolean array returns nothing chillax end main : q0, P, P, b5 : integer array; L : integer; chillax end

@@ -1,0 +1,1 @@
+program d8 : main : P, xQ : boolean array; T6D : boolean array; pop - (3) * (11) and 0 or t9 + 23 - 8; input w[- not _w and w and 9 or 732]; when case false < - 67 - 422 : when case 56 : pop end otherwise : chillax end; output "\n"; pop; pop end otherwise : when case 53 : chillax end; while 96 : chillax end; pop end; let l = array 62 end

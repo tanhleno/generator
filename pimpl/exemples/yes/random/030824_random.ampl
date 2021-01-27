@@ -1,0 +1,1 @@
+program f : L : takes N, d : integer array returns nothing N : boolean array; while false and 2430 + 5 : chillax end; when case - 3 - 893 : pop end; let A = array 9 end VP : takes R04, I, y, c : boolean; Z, ELQ, f8 : boolean returns integer array input Y; let U = array 0; while 0 : chillax end; input g end main : m, G, B8 : boolean; chillax end

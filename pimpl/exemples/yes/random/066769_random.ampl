@@ -1,0 +1,1 @@
+program AsVaa : main : do e(- true); do h(- 4 - 8 = 0 and 958, not 3 + 7 - 1 > 1 - 6); output ""; when case - 49 - 5 : chillax end case 28 = 150 : while 88 : chillax end; pop end case 42 : chillax end case 0 : chillax end end

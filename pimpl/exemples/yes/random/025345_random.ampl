@@ -1,0 +1,1 @@
+program Rj : N5V : takes q, Q : integer; P, z, Pm10 : integer array; o02, g : integer; U, l7P, F2 : integer; HG : boolean array returns nothing t7 : integer array; chillax end main : Ie : integer array; oKg : integer; N, S : integer array; let ag = array - (7) - (725) rem d and 73 or not 5 and 2 - 81 end

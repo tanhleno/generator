@@ -1,0 +1,1 @@
+program c : j6_0 : takes R3, l, V5 : boolean array returns nothing do Y52(- false < - 1); output "" . 78; do X(144, 9, 6); do g(8, 13) end main : g : boolean array; E : boolean; u08, WcD0, DMIaa : boolean array; S2, Kp, pQ, G5 : boolean array; q, K : boolean array; C, s8 : boolean; while not 9 / (25) * 6 or true + S2 and 9 or 0 : chillax end end

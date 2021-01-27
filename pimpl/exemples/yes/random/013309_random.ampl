@@ -1,0 +1,1 @@
+program w : Dy4 : takes N, M, T : integer; R : boolean returns nothing chillax end Hq6 : takes X4U : boolean array returns integer array chillax end main : while - uz[91] and H or true + true < KR(94) and not 1 and 6 - not 57 and 21 : output "C" end end

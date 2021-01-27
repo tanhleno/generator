@@ -1,0 +1,1 @@
+program j : O3 : takes q67 : boolean array returns boolean array ivJa, s, r8R, P, G1 : boolean array; r : integer; chillax end main : while true : while - 996 - 9 : input p; while 83 : chillax end end end; let p44 = array 748 - false and 37000 - 20 - 7340; while(45) and 6 : chillax end; pop end

@@ -1,0 +1,1 @@
+program J : H : takes hk : boolean; nT7 : integer array returns nothing when case not 72 and 2 : chillax end otherwise : chillax end; input kg; while 96 = 8 : let h = 2 end end main : T, g0, uMta, E : boolean; l_, X : boolean array; pop; pop - not 521 and 2 end

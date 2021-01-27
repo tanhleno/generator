@@ -1,0 +1,1 @@
+program gA : b84 : takes u : boolean; H40a : integer returns nothing d, l : boolean array; Hul0a, l, c4, F8 : integer array; do zkO(- 693 or 71, - 005, 51, 4, 6); output 7 = 21; do DQ(19, 157, 4700) end main : while(02) and(4) / (5) - not YH9a and true or 8 and 1 : let _V = array 1 end end

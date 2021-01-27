@@ -1,0 +1,1 @@
+program Jr : F : takes E, IP, S, w, d, g_xa : integer array; i_, O : boolean array returns boolean array while - true : while 01 : chillax end end; input w1[- 1] end main : J5, Og, Y3v, F, L, E2, p : integer; cM4, K : boolean; chillax end

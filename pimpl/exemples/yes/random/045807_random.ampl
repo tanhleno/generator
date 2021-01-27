@@ -1,0 +1,1 @@
+program i : h07 : takes Sm : boolean returns boolean array output 6 - 6 . "V"; while 9 <= 5 : chillax end end Z : takes PN4 : integer array returns boolean R, u, L, O09 : boolean; chillax end main : chillax end

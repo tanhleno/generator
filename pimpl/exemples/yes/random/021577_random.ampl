@@ -1,0 +1,1 @@
+program hs : g : takes RJ, H : boolean array returns integer chillax end main : Y8s : boolean; do m(true rem not false or false / false - false and 78500 - 2 - 39 < 3 rem not 3); output - false <= 5 - 22 . - 9940 < 574 end

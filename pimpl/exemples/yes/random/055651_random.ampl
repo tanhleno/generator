@@ -1,0 +1,1 @@
+program w0 : n09aa : takes I : integer array; v : boolean; K2 : boolean returns nothing chillax end main : when case - 2 or not false : input qZ[2] end case not true / false and 6 : chillax end otherwise : chillax end end

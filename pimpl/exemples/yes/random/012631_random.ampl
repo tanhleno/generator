@@ -1,0 +1,1 @@
+program n5 : enja : takes Y, sL5, n43a : integer; rT, Yj, m, b : boolean array returns integer input J[O and 42000] end w5r : takes OW, O, k2, F, V99, C6Ka : boolean returns nothing IE, dz2a, gCw0 : boolean; E, s, hRx0a : boolean array; chillax end main : cN8 : boolean array; chillax end

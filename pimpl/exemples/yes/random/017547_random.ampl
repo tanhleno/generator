@@ -1,0 +1,1 @@
+program G7A : q3 : takes q, g9 : boolean; H, ck : integer array returns nothing while - 179 : pop 3720; let _lt = 48; output ".\\!a"; pop end; do Wkl(- 7 - 92 < 3370) end main : _, Kg, V : boolean array; chillax end

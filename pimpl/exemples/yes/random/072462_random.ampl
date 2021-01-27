@@ -1,0 +1,1 @@
+program qyN0 : main : jr_0a, F, e : integer; output "\"H0" . "7" . 9 /= 2; do bI(true, W2 or 1 - 1); do aN(- (34)); when case - 6690 - 2 > 7 : while 1530 : chillax end end case 2 : let R = 3 end case 6 : pop end case 2860 : chillax end end

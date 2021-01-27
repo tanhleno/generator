@@ -1,0 +1,1 @@
+program h : a7S0a : takes X61 : integer array returns nothing chillax end main : pop; when case - true * true and 5 : do b(9 = 3, 648, 2) end otherwise : do c(78); pop; output "4>" end; output 6250 >= 74900; pop 9 end

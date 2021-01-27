@@ -1,0 +1,1 @@
+program U : Z : takes B, I : boolean array returns boolean do WRs0(- 0 and 9 - 0 - 6, - 39500 - 056 /= 5070); when case - 2 - 115 : chillax end case 5 = 9 : chillax end; pop 0 end fnr : takes j, TZ : integer array; g : integer; Z : boolean array returns integer while 6 : let D3Ta = 87 end; let b[6] = array 2 end main : chillax end

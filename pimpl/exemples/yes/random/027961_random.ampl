@@ -1,0 +1,1 @@
+program p : S : takes nF, I : integer array; khHa, W28 : integer array; pj : integer; i, L2naa, qBB, d1M0 : integer returns integer array pop; pop 6 = 81; while 1 : let Y = 89 end; pop; input i end A : takes z : integer returns integer array chillax end main : chillax end

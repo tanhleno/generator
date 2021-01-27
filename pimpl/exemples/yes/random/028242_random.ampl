@@ -1,0 +1,1 @@
+program f : B : takes ysK, q : integer array; A2_ : boolean array; S1O, Y, _V, bj : integer array returns nothing chillax end LQ2a : takes Nk50a : integer returns nothing output 001 end main : output "K" . - false and 2; input L10[RK[2]]; input UL; let F = array 28 end

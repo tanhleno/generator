@@ -1,0 +1,1 @@
+program P9 : main : N : integer array; do A(- not not false / Z > - false or 03); when case - not _ and s - not 0 + 43700 > - true and 2 - 32 - 0 : pop end case Q and 80 - 86 - 04 = 1 : chillax end otherwise : output 814; do k(57) end end

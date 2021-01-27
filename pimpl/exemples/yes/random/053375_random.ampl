@@ -1,0 +1,1 @@
+program O : j : takes fa : integer; gJX : integer returns nothing while - t /= - 137 : chillax end; input tp end main : D : boolean; while - 5 or 78 or 69800 : pop; let hT2aa[7] = array 54; while 14 : chillax end; do O0n0(96) end end

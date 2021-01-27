@@ -1,0 +1,1 @@
+program u260 : h : takes i, d, d : integer; B : integer array; U : boolean returns nothing do N(- 93) end z5I0a : takes P280a : integer array; C : boolean returns boolean array chillax end m : takes s : integer returns integer array output 5 end mgK : takes p6baa, G, L1K, t, t : boolean array; iO : boolean array returns integer chillax end main : chillax end

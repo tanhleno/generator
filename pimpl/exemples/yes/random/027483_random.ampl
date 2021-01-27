@@ -1,0 +1,1 @@
+program kC3 : eg20a : takes w9, D2N0a : integer array; gd, H, HM : integer array; w, K : boolean returns integer array output "" end main : QA60, W5l0a, h4o0, qo7 : boolean array; J : boolean; r : boolean; B : integer array; kv : boolean; chillax end

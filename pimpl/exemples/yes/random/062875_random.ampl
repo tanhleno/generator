@@ -1,0 +1,1 @@
+program L : gp : takes K : integer returns integer array m5, S, JGr : integer array; P, N : boolean; let QS6[- true and 3] = - 1 > 17; while - 6 - 9 >= 884 : chillax end end b : takes r, E31aa, K : boolean returns nothing y, i : boolean array; N85a : boolean array; yX : boolean; K : boolean; chillax end main : d4 : boolean; chillax end

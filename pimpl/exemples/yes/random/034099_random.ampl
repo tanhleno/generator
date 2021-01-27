@@ -1,0 +1,1 @@
+program N : Y8 : takes m : boolean; uWZ, A0, J8j : integer array returns boolean f, ln2 : integer array; do dhYaa(not 67100 and 23200 or 7 - 068 = 52); do O(- 2, 2 = 5, 4, 2750); let l0 = 97800; input y[1180]; do s(0); let F = 8 end M : takes q, uf, l0, B8 : integer array returns boolean array I2t0a, ui20 : boolean array; chillax end main : kq, z55 : boolean array; pop end

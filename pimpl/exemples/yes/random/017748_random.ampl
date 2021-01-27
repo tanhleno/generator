@@ -1,0 +1,1 @@
+program H : o : takes n1, u08a : boolean; G : boolean array; hG, J2u0, A : integer returns integer chillax end main : when case - c < true * not 812 : chillax end otherwise : pop; let X = 7600; pop end end

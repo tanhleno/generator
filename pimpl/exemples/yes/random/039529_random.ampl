@@ -1,0 +1,1 @@
+program H : H9D : takes C2 : boolean array; AV8 : boolean; I, uK, C : boolean array returns boolean array do TV(- false or 0) end x3P : takes j8 : integer returns integer m, w, z : integer array; P, k : integer; while 44 - 9810 : while 5 : chillax end end; output "" end main : chillax end

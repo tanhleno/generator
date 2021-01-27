@@ -1,0 +1,1 @@
+program t : W1 : takes g : integer; Ep : boolean; M42, H9 : integer array; w52, T5, gF : boolean; c, T9, d : boolean array returns boolean array a : boolean; chillax end p : takes S, r4 : boolean array; f8 : integer array; _S, tu : boolean array returns boolean array input D end main : pop - 3 / (9) and 8 - not 3 - 42; while - true : let M[479] = 440; input e[3] end end

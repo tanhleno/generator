@@ -1,0 +1,1 @@
+program b : QQJ : takes L, y, n : boolean array returns nothing chillax end main : when case - G(970, 9) / 9 : do J(2090); input b95 end case - vW[7690] : let c[8] = 73 end otherwise : when case 77 : output "" end case 2 : pop end case 8 : chillax end; pop 0; let Y8 = 1 end; do Mb1a(Q /= - 6, 48); input Y[- true and 0] end

@@ -1,0 +1,1 @@
+program s : lj50a : takes Vaza, V79 : boolean array; z4y0 : boolean array returns nothing Pdx0, G : integer array; chillax end rl : takes CT, Cn : integer array returns integer array uP, f : integer array; mi : boolean array; do q(- 8 - 27, 5) end a : takes b69 : boolean; o : boolean; G : boolean array returns boolean T : boolean; chillax end main : s : boolean array; chillax end

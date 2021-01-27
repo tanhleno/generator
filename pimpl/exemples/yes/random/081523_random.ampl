@@ -1,0 +1,1 @@
+program B : main : f : boolean array; L5 : boolean; w1, yFF0, T, E2, XIX : boolean; while(200 = 85) rem 823 * true - (9) and false and 5 >= (734) / gHVa : while - 287 < 6 : do kx(2) end end; while a7[2460] : chillax end end

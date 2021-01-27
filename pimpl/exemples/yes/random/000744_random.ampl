@@ -1,0 +1,1 @@
+program eR : n : takes XC, G2, Z, I, C1, m3, n51 : boolean returns boolean array chillax end main : Il : integer array; X, T, F : integer array; qy : boolean; u, YJG, P8, X : integer; c : boolean array; chillax end

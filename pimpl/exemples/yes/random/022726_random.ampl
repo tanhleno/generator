@@ -1,0 +1,1 @@
+program W : p : takes o0, dR : boolean array returns nothing output ""; pop; let O3 = array 3 end main : when case true * (2) + false : chillax end case - false and v - Y630a < y180a + 8 - 3 : chillax end; let JQ[- true and(7) and 9 or not 81 and 04 + 508 - 1] = array - not true rem G; output 1 > 8; while - 9400 : chillax end end

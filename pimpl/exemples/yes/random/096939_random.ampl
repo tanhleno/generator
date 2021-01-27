@@ -1,0 +1,1 @@
+program kx : main : when case rVk0a(52, 9) : when case 3780 > 3 : chillax end case 8590 : chillax end case 33 : chillax end otherwise : chillax end; let J = array 78 end case true / false /= - not 1 : let z[229] = array 2 end otherwise : pop end end

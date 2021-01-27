@@ -1,0 +1,1 @@
+program C6 : _Q60 : takes z54, q : integer; fr : integer array; f1Jaa, b, S, Rq90, A, E : boolean; br6 : integer array returns boolean Q : boolean; pop 89100 < 61; input q[60]; let z[71] = array 720; input Y3[4870]; input ag end sCr : takes r : boolean; U : integer returns nothing S, C, kN00 : integer array; chillax end main : o4xa : integer array; i : integer; chillax end

@@ -1,0 +1,1 @@
+program T : N0 : takes lL : boolean; bM, b : boolean array returns nothing OW : boolean array; V : integer; let cg60a[- c and 3 or 1] = - 55 - 8; while - 7 : chillax end end main : KB, Sfz : integer array; uL, y2u, JkKa : integer array; d, _p, n, x970 : boolean array; g : integer array; Q3, iV30 : integer array; E : boolean; chillax end

@@ -1,0 +1,1 @@
+program K29 : o310 : takes k : boolean array; Z570, V3 : boolean array returns nothing I : boolean array; ic8, J1, A, B6X0 : boolean array; Ax7a, BkVaa : integer; Df, V : boolean; chillax end main : j, l : integer; pop end

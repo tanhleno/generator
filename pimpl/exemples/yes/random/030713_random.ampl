@@ -1,0 +1,1 @@
+program MJ5aa : l16 : takes J6, M8 : integer array returns nothing e : boolean; chillax end main : pgZ, D, S_Y : boolean array; x, A : integer array; iy, I9, m, B, k : boolean array; Q, d1, pS, d : boolean; input a; output not 20 and 29 or 8 >= - 28 - 5 . "" end

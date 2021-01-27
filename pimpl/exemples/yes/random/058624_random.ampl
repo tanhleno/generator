@@ -1,0 +1,1 @@
+program s : q : takes J : integer array returns integer array chillax end i5 : takes c : boolean array returns nothing when case - 9570 : output "'"; input A end; while 39 : while 21 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program B : U : takes o : boolean array returns integer q, lyS, w3Z, C : integer array; D : integer; av2, a : boolean; when case - true or 7 - 2 /= - 9 - 1 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program C : X55aa : takes V : integer; g : boolean array; K : boolean array returns integer F4, D39, nK : boolean; Qfa : boolean array; let n[LR7 and 74 or 805 - 00] = 4 = 48 end main : K, KO, RS : boolean; chillax end

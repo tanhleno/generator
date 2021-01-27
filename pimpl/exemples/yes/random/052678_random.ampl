@@ -1,0 +1,1 @@
+program B : vn : takes Q3 : integer; kN : integer array; V, Yb7 : boolean array; x, O8, r : boolean; A9 : integer returns integer chillax end y9Na : takes v : integer returns nothing F, Q, D3 : boolean array; while 6 : chillax end end main : while - (4970 = 1) = - true * true and 6 or 2850 : output "" . 0 . 3570 end; when case - not 2 : let Xq5 = 249; input jv1[0] end end

@@ -1,0 +1,1 @@
+program c : main : y : boolean; L : boolean; pop - (7) rem true and 01 + 3 >= - not 8; output ""; input Uh10[f and 2 + 47 - 783]; when case - 9630 > 7 : when case 8 : chillax end end case 70 = 1 : let Z = 8; pop end; while 1 = 93 : chillax end; pop 95 end

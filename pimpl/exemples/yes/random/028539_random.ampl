@@ -1,0 +1,1 @@
+program P89aa : u6 : takes v, lQ2 : integer array; bV : boolean returns integer array y4 : boolean; w6, O, n, z8 : boolean array; while 4500 and 1070 : chillax end; when case 404 : output "\nM"; let O = 7790; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program m : O4 : takes J1, d : integer; k : integer array returns nothing FR : integer; Ju3 : boolean array; do _(- (8) and 56 + 9 - 0 /= 9 - 6) end main : input P; do yO(- false); output - 2 - 2 < 1 . "2" . 53 . 27 end

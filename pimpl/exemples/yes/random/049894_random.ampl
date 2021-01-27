@@ -1,0 +1,1 @@
+program Z : O : takes ZF6 : integer; A, Vq, Q9 : boolean array returns boolean K : boolean; g : boolean; MXb, _z, mn : boolean array; q, a5 : boolean; V : boolean; b : boolean; chillax end z : takes f, XA : boolean returns boolean while 0 - 65 : chillax end end main : let t6[- J(2, 571) and false rem(33) - 0] = array not true end

@@ -1,0 +1,1 @@
+program r : pA5 : takes tA8 : integer array; Q, K, t, Gc0, L9 : boolean; n, er30, Z, q : integer; o : boolean array; rC8aa : boolean array; U5U : boolean; v : boolean returns boolean array g47, Zt9, t : integer; when case not 2 and 4 + 0 : chillax end end main : chillax end

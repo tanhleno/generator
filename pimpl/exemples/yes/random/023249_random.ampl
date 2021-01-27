@@ -1,0 +1,1 @@
+program t : I1 : takes r8, Z : boolean returns boolean B11 : boolean array; chillax end main : Q : integer array; let Nx6 = - 0; do E(- not Ua9aa / E0 - false and 52 - 2 - 27, - false and 5 or 2 - 7 <= 0310); while not 55 : chillax end end

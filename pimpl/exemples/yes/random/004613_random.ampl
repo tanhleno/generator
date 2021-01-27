@@ -1,0 +1,1 @@
+program a : F : takes D1, Q, WsN, ta : boolean; t : integer; _2 : boolean array; e3 : boolean; x, fX, t : boolean array; a : integer array; QNY : boolean; Q : boolean returns boolean chillax end e : takes R : boolean returns nothing let c2 = array - 543; pop 8 end main : output "HK0" . - false - 0; let Lh = e6 - 64 - 7510 >= 3 - 3 end

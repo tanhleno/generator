@@ -1,0 +1,1 @@
+program p1O : bV : takes Qk : boolean returns nothing chillax end N : takes S, l : integer array; Z, j, i, vX : integer returns nothing K : integer array; chillax end z : takes E : integer array; G : integer array; K1H, G, E : boolean returns nothing n, A : boolean; when case 2 = 4 : output "82"; pop end end main : chillax end

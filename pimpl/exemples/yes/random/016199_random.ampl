@@ -1,0 +1,1 @@
+program uDx : fs : takes V, jo, v : integer returns nothing chillax end b3 : takes l : integer array returns nothing Rp80a, h : boolean array; do Y(- 3 /= 8); input I4[07] end Sg : takes C : boolean array returns nothing chillax end q : takes N : integer returns boolean L : boolean; chillax end main : hR : boolean array; output ""; input N[not true] end

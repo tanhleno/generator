@@ -1,0 +1,1 @@
+program E : w : takes v, u, z, Z5 : boolean returns nothing when case(2) and 5 - 7 : do J0D(323, 6) end case 449 : let g = 4; output ""; pop end case 3 = 2 : when case 32 : chillax end; pop end otherwise : pop end end main : k, D, l : boolean array; u, S_ : boolean array; j, y19, N, l84a : boolean; chillax end

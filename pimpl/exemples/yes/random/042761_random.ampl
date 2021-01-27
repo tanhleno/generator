@@ -1,0 +1,1 @@
+program O : p : takes g : boolean array returns integer array Y : integer array; do o(- (9) and 0 - 3 - 085, 5); do t06(4 - 9, 4, 054); input omU[7] end main : So5, Y : boolean; i, U5G0a : boolean array; X : integer array; b : integer; input NP[(14 = 0) - Hd8 or 8 and 41]; input Lg5 end

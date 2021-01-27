@@ -1,0 +1,1 @@
+program C : b : takes h : boolean array; A6, VJ : boolean array returns integer array hY40 : integer array; j : integer; Nq : integer array; do lE(- (342) or 0 /= - 260) end main : let v[true + true rem true and 8] = 4 + v4 or 5 - 1 end

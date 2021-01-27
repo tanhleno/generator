@@ -1,0 +1,1 @@
+program AHX : gv : takes Ng, f580a, dad, vv7, xW, Y700a, kU40, H : boolean; si, S7aa : boolean array returns nothing do W(- Go - 9 = - 8 - 3, 6180 - 7) end main : while - (9 = 9) : let y[- 9] = 3 end; do T(- 6 / false and 652 > false and 35800 + 154 - 948) end

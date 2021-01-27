@@ -1,0 +1,1 @@
+program f : D : takes gNe0 : integer array; r, Z : integer array returns integer array chillax end main : do X8(true + (7) / false + z1); let o[false * 3 and 8960 + true and 3] = not 2 and 83 or 5 - 7 end

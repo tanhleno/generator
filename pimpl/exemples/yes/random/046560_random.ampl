@@ -1,0 +1,1 @@
+program H : u : takes O : boolean returns integer array Hz, y21, FB10a : boolean array; W, g : integer; cHb0 : integer; K : boolean; chillax end main : VV : integer; while true / 1 and not 5 and 3 + true or not 3 and 88 or 9 - 69600 = false : chillax end; do D7x0(x + I and 09 /= - (745) and 5 or 2 - 5); do C(true = 6) end

@@ -1,0 +1,1 @@
+program i : z : takes m89 : integer returns integer _w, au, Wp, k89aa, T2 : integer; N, J, X6, pp5a : boolean array; B9 : boolean; pop; output 33 . "" . "" . "" end main : O8 : boolean; u01, W : integer; chillax end

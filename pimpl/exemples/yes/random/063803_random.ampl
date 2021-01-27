@@ -1,0 +1,1 @@
+program dlwa : W : takes h : integer returns nothing chillax end tP : takes W : integer; t, G, z850a : integer returns nothing do w(680, 7 = 066) end main : output false rem 4 and 6 - false + 0 - 81 = - false . not 563 or 7 - 5 /= - 493 . "\"\"\"" . 4 = 9 . "" end

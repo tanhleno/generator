@@ -1,0 +1,1 @@
+program MA0a : GLk : takes s : boolean; z, h0D0 : integer array; L : boolean; UV : integer array; mz : integer; vh : boolean; hW0, a : boolean returns nothing M : integer array; chillax end main : pop; output "" . - 4 /= 9 end

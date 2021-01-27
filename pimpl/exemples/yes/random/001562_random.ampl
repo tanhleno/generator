@@ -1,0 +1,1 @@
+program a : W : takes Q0, V340a, x, k, T, U7 : boolean returns nothing N9, p : integer; while - s8N + 6 : when case 22800 : pop end case 1 : chillax end otherwise : chillax end end; output 1 = 19 . "1" . 9 . "]" end main : chillax end

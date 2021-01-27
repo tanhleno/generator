@@ -1,0 +1,1 @@
+program P : W : takes m, c, W : integer array returns integer array while - (4) > 1 - 7 : while 5 : chillax end; when case 913 : chillax end; input G end end a : takes C : boolean array; _ : integer returns nothing chillax end Pq : takes h, VTk0, k6h : integer array; b : boolean array returns nothing D3U : boolean array; h : boolean; pop end main : x : boolean array; chillax end

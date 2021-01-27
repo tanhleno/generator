@@ -1,0 +1,1 @@
+program G550 : t : takes n : integer; m : integer; TS : integer; sv, G1 : boolean array; t, D8 : boolean array returns nothing while - (1) and 3 : pop end end main : input z[not(62)]; pop false or 5 end

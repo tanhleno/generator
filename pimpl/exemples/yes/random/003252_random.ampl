@@ -1,0 +1,1 @@
+program I : zp9 : takes R4, v4h, a6, E, Hb : integer; EK7 : boolean; t, S : boolean array; e8 : boolean returns nothing _7 : boolean; let b[false + 17 - 27] = 8420 > 0 end main : fv : integer array; lZD : integer array; I6, U, TQJ : integer; D6 : integer array; j : boolean array; when case - not false or h(6) : pop; output "5\t!a" end end

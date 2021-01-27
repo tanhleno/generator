@@ -1,0 +1,1 @@
+program zf : o1 : takes j : integer array returns nothing SgW : boolean array; L, I540a, Cff : integer; do z(true and 1) end main : x : boolean; output "" . "56" . - 4 <= 4 . 6 = 55 . "\"%" . 7 . "h"; input H; pop 6 - 22; when case 5 - 35000 < 9 : input ENv0 end otherwise : chillax end end

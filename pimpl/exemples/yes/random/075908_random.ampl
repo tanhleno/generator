@@ -1,0 +1,1 @@
+program I : main : W39, U : integer; d, _, d, C : boolean array; Vz, p8K : boolean; uT7 : integer; when case - 91 and not Dk : chillax end; do sfp(not Q * (1) or true and 4 - 85 - 7, - not 56000 /= 41500 - 82) end

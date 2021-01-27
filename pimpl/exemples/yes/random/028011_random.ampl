@@ -1,0 +1,1 @@
+program Q : w9Jaa : takes K3, G : integer array; C2, l : integer array returns nothing chillax end main : do J3qaa(not m[484] or(3) or E4M0 >= - not 7 + false + 6, (65) / false and 3 + true or 5 - 7 = - q6G - 838, - 98400 >= - 9 - 7, - 1320 - 65600, 5 = 8) end

@@ -1,0 +1,1 @@
+program SC : b18 : takes L : boolean returns nothing chillax end main : while W29 or true > p(68800) : when case - 6 /= 3 : output ""; input C24; pop end case 10500 : chillax end case 5 : chillax end otherwise : chillax end end end

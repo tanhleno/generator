@@ -1,0 +1,1 @@
+program B : i : takes N9, F9, e, F : integer array; n4, e8Ea : boolean array; i, eq1a : boolean returns nothing chillax end main : G, m86 : integer array; N4 : integer; vy, Q, q, LB, t : boolean; do Z(not false < BT(610) * (8) or 81 and 787 - 5, - 32 rem(03) /= - 4, - false, - 4 - 98000); pop 3 and 21900 - 6 - 668 end

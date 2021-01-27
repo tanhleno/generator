@@ -1,0 +1,1 @@
+program DO : S : takes A1, Rb3a, J, v, Q2 : integer array returns boolean chillax end u82 : takes w, f, P : boolean array; zc, l8Va : integer; OB : integer returns nothing pop 107 = 8; input R; output 7 . "" end main : SK, f : boolean array; chillax end

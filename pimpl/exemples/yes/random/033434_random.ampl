@@ -1,0 +1,1 @@
+program P : V_P : takes o2 : boolean; Rb, gY, OV, h40, q : integer array returns nothing input WG7[- 50] end AN : takes P : integer array; PCn : boolean array returns boolean chillax end main : chillax end

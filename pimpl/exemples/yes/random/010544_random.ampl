@@ -1,0 +1,1 @@
+program Yi : w : takes o, t, W : boolean array returns boolean array O26, j2, PA, H : boolean array; X : integer; Ro, gNbaa, E : boolean; A, w61 : boolean; do R(- BO50 or 5) end main : ed, tzD, hir : boolean array; b, k : boolean array; chillax end

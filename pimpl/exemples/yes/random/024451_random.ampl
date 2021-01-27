@@ -1,0 +1,1 @@
+program G79 : Dt : takes R, s : boolean returns nothing u : boolean; Sv1a : integer array; do r(26, - 32, 85500 = 2, 364) end i : takes H : boolean array returns nothing chillax end f : takes i, Aw : integer array returns nothing pop 3 end z : takes EM1aa, s, h5 : integer array returns integer array uZ, oOu : boolean; L : boolean; input S[4]; do G(77) end main : chillax end

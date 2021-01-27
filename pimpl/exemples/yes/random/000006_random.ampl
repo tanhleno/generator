@@ -1,0 +1,1 @@
+program w : Fq80 : takes l, ku, Y, q7M, jj, Grwa, b, y8Gaa : boolean; L4, o, Dd, e : boolean array returns integer array fT : boolean; S8 : boolean; r : boolean array; chillax end main : qW, L : integer array; pop true - (55) end

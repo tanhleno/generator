@@ -1,0 +1,1 @@
+program P : t : takes Q, O4Aa, V, e : boolean array returns boolean array i : boolean array; while false and 8 : output 7 . "9\""; output "\\Gaa" end end P : takes Q, ja4, QG : integer array returns nothing chillax end main : chillax end

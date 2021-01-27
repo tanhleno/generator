@@ -1,0 +1,1 @@
+program F : x : takes F : integer array returns nothing xy : boolean array; chillax end M : takes U, D, w, r7, f8 : boolean; E, o8 : integer returns nothing chillax end main : J : integer array; output - not(89300) and 57800 and 5940; do D(W * (23) or ne > true and 0 + 3 - 851); do w(- true and 5 <= - 12 - 80); pop 158 end

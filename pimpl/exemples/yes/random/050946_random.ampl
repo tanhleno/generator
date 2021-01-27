@@ -1,0 +1,1 @@
+program _Y8 : t : takes L : integer; bk, w : integer array; _, fwD, _04, J84a : boolean array returns nothing input pQ6aa[917 or 49]; output "" . "3:"; pop 14; pop; while 90 : chillax end end I : takes wg9a : boolean; v : boolean array returns boolean array Y, rl8, n, L : boolean array; do YT0a(- 7 - 67, 5, 95, 476) end main : chillax end

@@ -1,0 +1,1 @@
+program B_90a : RK : takes s : integer array; S000, M : boolean; p : integer array; T6R : integer array; Szx : integer array; e, P5F : boolean returns nothing _ : integer; chillax end main : n, q : boolean; when case - true * true * (9530) and 6 > not 291 rem y : chillax end otherwise : chillax end; let m = - true and 2; input o[- 3120]; do S(- 80 - 7200) end

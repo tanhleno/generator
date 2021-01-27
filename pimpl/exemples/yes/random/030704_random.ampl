@@ -1,0 +1,1 @@
+program d6 : gi0 : takes z, s : integer array returns nothing hX : boolean; chillax end MG : takes b, n : boolean array returns integer array pop 2; while 35 : chillax end end x : takes s, Y, u, M : integer returns boolean array chillax end main : chillax end

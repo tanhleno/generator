@@ -1,0 +1,1 @@
+program o : s15 : takes o : integer; u7 : integer returns boolean array while - true and 1 : chillax end; pop 27 = 1 end P6oa : takes P, w : integer returns integer array tp : boolean array; n, E3A0, Y : integer; chillax end main : W, Q, Q : boolean array; let OlUa = array not Z950(80100) / not pNY / not 1 or Q; do V(- not 8 - s and 9); input M1[- h and 3 or 8 - 4] end

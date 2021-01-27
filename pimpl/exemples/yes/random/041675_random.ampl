@@ -1,0 +1,1 @@
+program BG : U : takes g : boolean array returns boolean array ZQI, m : integer array; z, p, k, y : integer; pop end V : takes SvR : integer array returns nothing qE3a, x : integer array; chillax end XL : takes R3, E73aa : boolean array; U : integer; R : boolean array returns nothing pop 4; input T[69]; do a(1) end main : T, T23, C6, Rt0 : boolean array; chillax end

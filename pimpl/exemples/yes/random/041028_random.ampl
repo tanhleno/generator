@@ -1,0 +1,1 @@
+program l6e : J : takes Q : boolean array; DWT0 : integer array returns integer array B, B, d55a, O2, v : boolean; QXX0 : boolean array; do i(- 01 > 7 - 69400) end main : n, pKY0, d5 : integer; chillax end

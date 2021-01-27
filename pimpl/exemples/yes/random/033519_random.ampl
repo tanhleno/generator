@@ -1,0 +1,1 @@
+program R : U : takes I : boolean; Mvda, a, c8, E9 : boolean array; E8o0 : integer array returns boolean array p, aMG, Ft8, a160a, u : integer array; AM8 : boolean; pop end y2n : takes N, ED1 : boolean; F : integer; N : boolean array returns nothing chillax end a : takes Q : boolean array; F : boolean array returns integer pop end main : chillax end

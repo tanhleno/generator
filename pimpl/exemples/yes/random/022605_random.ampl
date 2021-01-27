@@ -1,0 +1,1 @@
+program V : E : takes V, P : boolean array returns nothing h : integer array; input Y[false and 17 or 2 - 022] end main : while F1[5910] rem false rem false /= - not x * 735 and 658 : chillax end end

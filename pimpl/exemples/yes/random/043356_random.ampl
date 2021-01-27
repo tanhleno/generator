@@ -1,0 +1,1 @@
+program q : s2 : takes W : boolean array returns integer pop 5 - 179 end main : k, Z9 : boolean; do P(- false, - N7z(65500) = - not 98, - not 0 and 7250, - 12 < 764, 4); output "" . "<10" . ""; let u9[true - 60 - 2110] = array - (4240) + 86; output 05 = 7880 end

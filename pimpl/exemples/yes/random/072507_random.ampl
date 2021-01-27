@@ -1,0 +1,1 @@
+program Xq50 : main : G, s, L0Ra : integer; when case(3) - (1) or true : input l8zaa end case - true + not 5 + 7 >= not 5 + 20 : chillax end case - xqo or 8 - 192 : let LO0aa = array 8880; do g(8) end case - 0 - 64 : do lc(3); output "u" end; input O_ end

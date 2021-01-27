@@ -1,0 +1,1 @@
+program C1 : XD : takes h0, e : boolean; z5, hU, p, m : integer; L, I75 : integer array; P, m : boolean; A : integer; G : boolean; U6 : boolean; g : boolean returns nothing do _(false or 8 - 0680 < 38, 9460 - 7 >= 9); let e2 = 97 = 879 end main : q, D39, l3, u9, p : boolean array; I, M : boolean; pop; pop 7360 and 8 - 78400 - 5 end

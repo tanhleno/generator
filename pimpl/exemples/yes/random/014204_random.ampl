@@ -1,0 +1,1 @@
+program hf3 : X : takes u0X, h, h4 : integer array; w2I : boolean; Y : integer array returns nothing In : integer; when case(84) > - 64 - 2 : while 5500 : pop end end case - 1 - 3 : chillax end otherwise : chillax end; let i = 9 = 7 end main : chillax end

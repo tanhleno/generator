@@ -1,0 +1,1 @@
+program I : v : takes z : integer array returns boolean array vj1a : integer array; K, IA7aa : integer array; chillax end main : s, T, P8j, X2 : boolean; lg, G : boolean; h : boolean array; Tv6 : integer; while(307 = 4) / m[2] * 0 and 6 > not true and IX - false and 9 : let q = 9 end; while - T[357] : chillax end; when case 23 and 4 or 3 - 2 > 7 - 36 : chillax end end

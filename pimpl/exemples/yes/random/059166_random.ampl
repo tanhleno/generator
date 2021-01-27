@@ -1,0 +1,1 @@
+program K8s0 : a : takes sk : integer array returns integer chillax end main : F, A : integer array; Q : boolean; Pw, C, xp60a : integer; output 35 = not 2; when case 12 : chillax end case(2) + 2 >= - 67300 : let B = array 060; let j = 2 end case - 0 = 2 : chillax end end

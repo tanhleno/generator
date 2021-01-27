@@ -1,0 +1,1 @@
+program p4 : K5 : takes K : integer array; H8, zr : boolean; T4, d : integer array returns integer array when case false and 694 or 0 - 81 > 3 : do t(2) end otherwise : input e; do T18(1) end end main : p, _ : boolean; y9r0 : integer array; chillax end

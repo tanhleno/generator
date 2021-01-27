@@ -1,0 +1,1 @@
+program l : n : takes _d, okB : integer; U, xyqaa, ZTY0 : boolean; O : boolean array; s : integer returns integer array a7, t, P, m630a, tc70a : boolean array; pop; input B96a[085 - 2620]; let a[36400] = array 16200 end main : input C[true]; do h(true rem false, 35 >= 44, - 0600 - 6570 > 453, 89600 = 7400); output "6" . ""; let Tc = array - 44 - 0940 end

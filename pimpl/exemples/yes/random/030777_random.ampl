@@ -1,0 +1,1 @@
+program mT3a : S : takes M, H : integer array returns nothing C0 : boolean array; chillax end main : while - false and(1) * 8 = (928) rem false : while 973 - 32100 <= 87200 : chillax end; input H[4]; when case 9 : chillax end otherwise : chillax end; input NQ; when case 98 : chillax end; pop end; let n = not 5; output 1 . ""; do wE(- 3, 98, 39) end

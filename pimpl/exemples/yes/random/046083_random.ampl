@@ -1,0 +1,1 @@
+program t4 : i : takes Y81 : boolean returns boolean M1, a3, P : boolean array; output - 2 > 7750 end main : k, o : boolean; oCJa : boolean array; k, r8R0 : boolean; W : boolean array; V9w0, q, bZ4aa : boolean array; let IG[n(1) + 08 - false and 5] = array - not w2(0) or false; while - false rem true < - R and 36 - 42600 : chillax end end

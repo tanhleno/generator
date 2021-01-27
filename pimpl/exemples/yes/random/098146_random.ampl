@@ -1,0 +1,1 @@
+program Q4 : main : while - false + J(6) / not 4 and 4 : input oCtaa; pop 4; let o[2] = 476; let K = 26; input r; pop end; when case - not false + (0) and 1 - 1 - 1 : let w27aa = 6; pop end; while false >= 99 : chillax end end

@@ -1,0 +1,1 @@
+program h : j6L0 : takes ioCaa, g30 : integer returns integer F : boolean array; Z : boolean array; a, gA : integer; G, q : boolean; chillax end main : let JX3 = array - true and true + not 5 rem not 288 or 3 and 7 + 47800 - 8 end

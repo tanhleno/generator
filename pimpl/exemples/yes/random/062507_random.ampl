@@ -1,0 +1,1 @@
+program r : hiX : takes QZ : integer returns boolean TG : boolean array; y : boolean array; NA9, G4, _u4 : integer; QQ3a : boolean; NY50 : boolean; GKia : boolean; chillax end p58a : takes j : integer; xs40, CBf : integer returns boolean array j, J : boolean; chillax end W5N : takes _ : boolean array returns integer JX7 : integer; chillax end main : chillax end

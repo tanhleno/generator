@@ -1,0 +1,1 @@
+program r : m0 : takes My90a, L4, T, C1, P, Au, JSZ : boolean array; U6, gB, Q, zN4a : boolean array; iL : integer array; y : boolean returns nothing V : boolean array; chillax end T : takes k7 : boolean array returns boolean P, d : integer; chillax end o : takes c : integer returns nothing chillax end main : SOE, d, S : integer; chillax end

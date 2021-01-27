@@ -1,0 +1,1 @@
+program ED : f : takes k8 : integer array; W6 : integer array; usV0 : boolean array; p, xMU0 : boolean returns nothing chillax end ENw0a : takes R7, lHw, j : integer; u9r : integer array; j, M29 : integer array returns integer chillax end a : takes yck : integer array; i : integer array returns boolean chillax end main : pop - not false > false and 0690 - 1 - 9 end

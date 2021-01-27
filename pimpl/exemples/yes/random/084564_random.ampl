@@ -1,0 +1,1 @@
+program h0 : main : h : integer; F : integer array; when case - f(561, 8650) : let U5 = 32 = 8; let C[605] = array 1; while 9 : pop end end; input Z; output 0 - 1 . 7 = 2; let uD[48500] = 9 = 5710 end

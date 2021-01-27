@@ -1,0 +1,1 @@
+program Q : z : takes _, c : integer; r : boolean; Q, V, m9r, x, wy5, W : integer returns integer XB, f : boolean; lk, A2Ba, o4, Q : integer; pop - 0 /= 781 end main : w2 : integer; x : boolean array; do _g8aa(- 720 / true /= - false, - T[0190] - false and 4 or 23, h, - 3 - 6 /= 895) end

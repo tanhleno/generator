@@ -1,0 +1,1 @@
+program c0 : I : takes c : integer; _3 : integer returns nothing output ">gaa" . 6 = 0 end Q : takes q, N : integer array; F, x : integer array returns nothing B70, Q : integer; input fD; input o[5]; while 4 : pop end; input pN; let I = 5 end main : do M(- false / false - true /= - false or 9) end

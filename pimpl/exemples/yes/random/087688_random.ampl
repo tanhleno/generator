@@ -1,0 +1,1 @@
+program J : main : t : integer array; while - not true and(7) : while 2 - 7 >= 3940 : while 8 : chillax end; pop; pop end; pop; when case 89500 : pop end case 36 : chillax end otherwise : chillax end end end

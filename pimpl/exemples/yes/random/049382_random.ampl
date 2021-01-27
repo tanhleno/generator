@@ -1,0 +1,1 @@
+program e : V06aa : takes mp : integer; Y73aa, v, nD_, U, w : boolean array; i, q, f : integer; u : boolean array; L3, d : integer returns boolean array chillax end main : output "" . "" . "760" . "" . "?" . 513 . "@" end

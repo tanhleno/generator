@@ -1,0 +1,1 @@
+program E : Y : takes m : boolean; Hn5a : boolean array; Z, l : boolean returns nothing r, S46aa, V : boolean array; do H(false and 02 + 0 - 8); while 00 = 9 : chillax end end main : i : boolean; V3 : boolean array; w4, z5m0a : boolean array; do u41(- Nn[2] / (0) - L - 63 or 89 - 5) end

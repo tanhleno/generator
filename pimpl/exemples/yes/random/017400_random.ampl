@@ -1,0 +1,1 @@
+program ydJ : h280 : takes f, yBZ0a : boolean; R3B, U : integer; u : boolean array; W, XQz : boolean array returns nothing O : boolean array; do FA30(V and 0 + 28100 - 9, 2 < 0, 8) end main : let Q3j0 = not 03 and U - false < - not 51 + 7 end

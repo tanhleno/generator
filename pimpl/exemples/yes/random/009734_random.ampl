@@ -1,0 +1,1 @@
+program In9 : _ : takes e8, a, oT5 : boolean array; K, W : boolean; a, N2 : integer; O : boolean array; D0h : boolean array returns boolean array let WB[- T] = 8 - 37100 end main : L : integer array; chillax end

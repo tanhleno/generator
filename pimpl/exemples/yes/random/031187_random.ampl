@@ -1,0 +1,1 @@
+program v : Z78 : takes kH4aa, v : integer returns boolean array chillax end z : takes L4 : integer array; r60a : boolean array; C000a, b, m : integer array returns integer array do R(0 - 7 /= 4, 89 = 00, 6) end main : chillax end

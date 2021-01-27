@@ -1,0 +1,1 @@
+program Kd : Zb : takes g8, j : integer array returns boolean array n : integer; TY : boolean; output ""; pop; input NJy0[55]; input C83aa[4] end x14 : takes DsA, _D : integer array returns nothing pop 91 = 4 end main : chillax end

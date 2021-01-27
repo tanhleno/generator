@@ -1,0 +1,1 @@
+program oS60a : O6v : takes a, O, i8, u : integer; J : integer array returns boolean do Z((341) and 2350 or 99, - 02 < 58700); input X2; let s17a = array 1; output "" . ""; input pg7a end main : do u(- not 70500 > 4 and true); do GmBaa(- 33 / (260) and 9, - 7 and 01, - 7); input b8[- Z6 and 6 or 7590]; do u(946 - 1, 59800); output 5 . 10100 end

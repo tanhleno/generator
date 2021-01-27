@@ -1,0 +1,1 @@
+program TJ7 : g : takes a : integer; u : integer array; Cc : integer returns integer l0, A, fI, i, Ecg : integer; h : integer array; N8S, f36 : integer; u, Z : boolean; F : boolean; input _[(3)] end main : j : integer; chillax end

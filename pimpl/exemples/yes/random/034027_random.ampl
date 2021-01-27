@@ -1,0 +1,1 @@
+program C : f : takes aW : boolean; n, IE, zu3a : integer; d : integer; _k : boolean returns boolean P, m, q8, A29a : boolean array; let ey = - 22900 - 34400 end main : w : boolean; let R = array - true or 0 end

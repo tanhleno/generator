@@ -1,0 +1,1 @@
+program v1O0a : main : when case not true or not 20 = 79 - false : do Za5a(- 8 = 6); when case 435 = 35 : chillax end case 99 : pop end case 994 : chillax end otherwise : chillax end; pop 989; input D; while 61 : chillax end end case - PJ2(262) + L2I - 477 - 5 : chillax end otherwise : do o2H(3, 5, 6) end end

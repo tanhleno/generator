@@ -1,0 +1,1 @@
+program Q : main : e9, ZZ50, l : integer; input G[- (7) + 4 / false and 669 + (4) and 80 or 3 - 127]; when case not(5080) or true + 0 - 44 : pop end case - not 681 + 0 - 60 : chillax end otherwise : when case 4 : pop end otherwise : chillax end end; while - not 2 : chillax end; output 6310 . 6 end

@@ -1,0 +1,1 @@
+program BBp0 : z : takes s, wHr : integer returns integer y8W : integer array; n : boolean; pop - 57200 - 0; when case 09600 - 5 <= 85400 : do t4(9) end case 0 = 17 : let km = 9; pop end end PE1 : takes I, KwA : boolean array returns boolean let w = array - 847 end main : gi6 : boolean array; chillax end

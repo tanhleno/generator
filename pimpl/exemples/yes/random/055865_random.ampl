@@ -1,0 +1,1 @@
+program z43 : L : takes Mf : integer array; _ : boolean array; IpR : boolean array; hR, F8 : integer returns boolean array while - true and 5 - 6 : chillax end end main : Q : boolean; let F = 3 rem false and 82 > - false and 35 - 51400 - 6; input Br6 end

@@ -1,0 +1,1 @@
+program Z : fc5aa : takes LE : integer array; O2, J : boolean array; S : integer; w : integer; E : integer array; W, C, f : integer array; d, z : boolean returns boolean chillax end main : I, s, j : integer array; h1Na, F : integer; L : boolean array; G3 : boolean array; pop; pop - (17) + 3 - 5; pop end

@@ -1,0 +1,1 @@
+program H : U : takes SOV : boolean array returns nothing when case - 1 and 35300 <= 1 : output 2 end otherwise : do zj90(330) end end main : O, YJDaa, Xq, Mx : boolean; pop not S / not 6 and 3 + false and 22200; output - true > - 6 end

@@ -1,0 +1,1 @@
+program f : H : takes v5 : boolean; Yd : integer array returns nothing let kt[- not 482 and 96 or 146] = 158 - 23 /= 13 end main : l2, l : integer array; pop; input F[- not not 837 - 64 and 884]; let a[(22) or 369 - 976] = array - true - 45; when case - 0 - 701 : chillax end; while 508 = 8 : input gNN; pop end end

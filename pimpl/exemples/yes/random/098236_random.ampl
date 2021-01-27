@@ -1,0 +1,1 @@
+program n5h : main : while - false = - 0 + not 04 : when case - 1 - 62700 : chillax end end; output - false <= - 70 . 85 - 6 > 4; do zW(- 7 and 5 + 2); input Q13; output "\\"; while 0 : chillax end end

@@ -1,0 +1,1 @@
+program z : l : takes j : integer returns nothing L, r630, r : integer; when case - D and 0 or 582 - 55 = - 11 - 0 : let dq6 = array 0; when case 88900 : chillax end end otherwise : do iQ1(3) end end main : output not true * N + not 1 and 87300 <= - false or 07 - 0; let E67[false or true and 93300 - 4 - 0] = true and 2210 > - 0 end

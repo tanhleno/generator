@@ -1,0 +1,1 @@
+program W : g : takes k3 : boolean array returns nothing input T; input M[38] end K : takes r, h, I7L : boolean; TUZ, M, b : boolean; o, Q5l : integer; o76aa : boolean returns boolean chillax end main : D : boolean; when case - false and 15 + not true = - 787 - 4 - 95 - 2 : chillax end case - true >= - 07700 + 09 : chillax end end

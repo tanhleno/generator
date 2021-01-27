@@ -1,0 +1,1 @@
+program c : R : takes Oq, fG, f, a, N9, Os8aa : boolean array returns nothing aG, H : boolean; p : integer; O2 : boolean; chillax end main : let d = array - false and true - false or 89 or 0; pop - (9) and 47 - 71500 - 37 >= - 99; input la00a end

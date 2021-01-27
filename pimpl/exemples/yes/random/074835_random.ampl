@@ -1,0 +1,1 @@
+program F620 : main : y2q, b : boolean array; VYz0, Q8 : boolean array; nd40, V : boolean; H, p72, z, k : boolean array; input nH0[- true rem false * (39) - B[4] * 7 and 90 + (133) and 7 + 305 - 1] end

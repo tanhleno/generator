@@ -1,0 +1,1 @@
+program P : R910 : takes i5T : integer returns nothing do g8((147) - 4, - 4450 >= 6); output 3 = 445 . "" . "o"; pop end N8 : takes M290a : boolean array returns integer when case - 0 : while 7 : chillax end end case 345 : chillax end otherwise : chillax end end main : y : boolean; ex, d : boolean array; do X(- true >= 27 - not 52 + 44); pop end

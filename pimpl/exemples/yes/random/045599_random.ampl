@@ -1,0 +1,1 @@
+program x0j0a : Z : takes U : boolean returns boolean array Q, d : boolean; pop - 1 < 98; pop 0960; let K = array 22; when case 99 : pop end case 2 : chillax end end main : n, X : boolean; K, F, o, um : integer; _, Qd7 : boolean array; chillax end

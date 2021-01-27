@@ -1,0 +1,1 @@
+program zY40 : Mn4 : takes BZi, K0, jQ60, v6 : boolean; z110, TLa : integer array returns integer array a : integer array; _ : integer; do z(not 1 and 7 < 26 - 1, - 75 - 0 < 20, 30300); output "?"; output ""; when case 87 : chillax end case 47200 : chillax end end main : d960a, K3, at : boolean array; output - N[80] / (07) + 3 - 84 - 0 . false or 75800 - 9 . "" end

@@ -1,0 +1,1 @@
+program wO : WO : takes f : boolean array returns nothing chillax end ty : takes i, Gj : integer; c : boolean returns nothing YU30, J, faRa, Y15 : boolean; b, S6, h : boolean array; a6, mP : boolean; kW4 : boolean; chillax end main : while - false + I(8) * true or not 088 or 8 : output 74 = 4 . 0 . ""; output 3; while 498 : chillax end; input F; let W = 909; pop end end

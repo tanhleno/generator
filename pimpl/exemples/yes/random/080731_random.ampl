@@ -1,0 +1,1 @@
+program mY : main : _ : boolean array; do p_9(not F160[5] / false + true / 3 and 9090 or false and 0 - 5 < - false / false and 72 or false - 84); when case false rem(1) - r and 3 : chillax end case not 71 and 4 or 3 - 2 <= - 6 - 6320 : chillax end case 11 - 9 < 3 : input z end case 0 = 3580 : while 9 : chillax end end otherwise : chillax end end

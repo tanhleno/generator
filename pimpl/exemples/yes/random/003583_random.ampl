@@ -1,0 +1,1 @@
+program X : dO : takes G, G3Ua, JL, A, B : integer array; S4g : integer; rupaa, cX : boolean; G1 : boolean; n, _ : boolean array returns integer when case P and 90 - 3 - 1 : while 6 : pop end end end kRh : takes uv, O : boolean returns nothing chillax end v : takes Ua, O : integer array returns nothing chillax end main : input Sy[b0vaa(718) * m1 / YY9] end

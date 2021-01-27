@@ -1,0 +1,1 @@
+program Uo4 : main : W, OOJa, Cw, y01 : integer; output not v or true . ""; while - not(99) < - 2 : chillax end; when case - t and 5 - 7 : chillax end case 4 : chillax end case 8 = 11 : chillax end case 91000 : pop end case 46 : chillax end; do rJ(- 3 > 52, 569 = 259, 07, 4090); while 9 = 95300 : chillax end end

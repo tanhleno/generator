@@ -1,0 +1,1 @@
+program y2Z : q : takes E : boolean array returns nothing chillax end main : do p(xiOaa(5), - true rem 94 - false >= false and 5 + 25 - 66, a); while - true or 49900 - 8 = 086 and 16 : chillax end end

@@ -1,0 +1,1 @@
+program F : tSf : takes y, R : integer array; E : integer; e0 : boolean array returns nothing output 4 - 25 end f51 : takes T, G, eK1a, U : integer; T : integer array; t, LBc0a, O : integer; _P20 : integer returns nothing output "e" end main : chillax end

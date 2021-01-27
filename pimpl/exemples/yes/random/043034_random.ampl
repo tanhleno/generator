@@ -1,0 +1,1 @@
+program R : V78aa : takes m6 : boolean array returns integer R520, e8p0a, C, tN, W0la : boolean; chillax end main : g9, J, c620 : integer array; do x9(- false * false + 57 + (209) and 774 or 772); let yu[- not(63)] = - false <= - 317 end

@@ -1,0 +1,1 @@
+program U9Y : Q : takes Vt, D6, s, G, n2B0 : integer returns nothing chillax end J : takes D5S : integer array returns nothing i3 : integer array; chillax end main : while true rem 82 rem(3) = - 735 * (32200) and 6 + false and 57800 or 69 : chillax end; pop not 2; let BZ[- (3) and 44600] = array - not 6 and 48 end

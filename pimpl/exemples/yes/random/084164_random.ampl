@@ -1,0 +1,1 @@
+program Y : main : x : integer; F790 : boolean array; A : integer array; pop - true / 18 >= (59); when case sQ * (4) - true : pop 0; input uj end otherwise : chillax end; while not 2 and 7 + 5 < - 0 : chillax end end

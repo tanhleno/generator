@@ -1,0 +1,1 @@
+program b : Q : takes mo20a : integer array returns boolean array chillax end H00 : takes e : integer; YbBaa, P, _, R : boolean returns nothing chillax end f : takes K33 : integer array returns nothing Qef : integer array; when case 3 = 2 : pop; pop end otherwise : chillax end; pop; pop; let f1 = 31; pop end main : q, i9U0a, Fskaa, p2, Dm : integer array; chillax end

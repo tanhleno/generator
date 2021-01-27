@@ -1,0 +1,1 @@
+program _ : T8T : takes P2, a890 : boolean array returns nothing I5, D5_, MW, Q, a6A : integer array; pop - 1 >= 1; do euT(48 >= 7); output 58 . 957 . "\"" end main : J, Q, e5 : integer array; chillax end

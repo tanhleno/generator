@@ -1,0 +1,1 @@
+program y4 : Z : takes sh50a, b36aa : boolean array returns nothing cc, k4 : integer; do qr(- not 5 or 5 - 5); while 8 /= 3 : do O(0) end; pop; output 836 . "" end main : L5, TL10a, c4x, F, w : boolean; V9 : integer; z0, XC, v800 : integer array; chillax end

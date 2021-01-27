@@ -1,0 +1,1 @@
+program u : h : takes yi00a : integer array returns integer chillax end k2 : takes Q200, M46a : boolean array returns boolean input Ko[- 9 - 4] end main : f, z, E : integer; I : boolean; h : integer; X, WqMaa : integer array; I0 : boolean array; eU6a : boolean; chillax end

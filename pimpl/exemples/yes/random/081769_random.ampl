@@ -1,0 +1,1 @@
+program w170a : main : w : boolean array; _ : boolean array; nK : boolean array; while - (21 = 47900) + R02 * 82300 and 1 /= - true and true : pop end; when case(4) or(2) and 6 : let _[25] = 0; when case 8 : pop end end case - (9) and 56 or 1 < 1 - 637 : let A = array 5; let x = 95; let u = 75 end case 0 >= 20 : input h; let OJ = 31 end; pop 6 end

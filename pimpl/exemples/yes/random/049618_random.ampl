@@ -1,0 +1,1 @@
+program e : m : takes II : integer; Cp, r, z, a6ma : boolean returns nothing chillax end main : C, T50a, C : integer; input Oh; output "\n" . "" . "" . 8 . 9; input L6saa[- false and 98 or 8630 - 65800] end

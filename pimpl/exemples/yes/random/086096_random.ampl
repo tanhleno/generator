@@ -1,0 +1,1 @@
+program pL : main : u : integer array; Ty, u3 : boolean array; output "" . ""; when case not not 05 and 0 and 39 or false and 9 > - not 724 : chillax end case - false and 030 : chillax end case - 9580 > 0 : input y; do U(0) end case 3 = 711 : chillax end otherwise : chillax end end

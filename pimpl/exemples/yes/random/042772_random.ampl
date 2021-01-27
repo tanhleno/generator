@@ -1,0 +1,1 @@
+program Q : m2 : takes uR9a : boolean array returns integer array M : integer array; L : boolean array; Y230, vz, U : integer; o : boolean; while false and 9 or 00 >= 0 : chillax end; output "n6" end main : let A[- true and true * true and 31400 - not(3) and false and 54 + 30 and 9] = true rem(88) end

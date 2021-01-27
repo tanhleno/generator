@@ -1,0 +1,1 @@
+program L0 : Q : takes Uk7 : integer array; G27 : integer returns boolean do R(- n200a - 01) end p : takes G, Q : integer returns integer d05a, N : boolean array; chillax end main : pop not not 4 + 7000 or 60 - 5; do y(- not 6 * h and 1 /= not 4 + 3 - 9) end

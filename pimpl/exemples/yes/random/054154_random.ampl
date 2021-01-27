@@ -1,0 +1,1 @@
+program H : t32 : takes WQ : integer array; f, D, reg0 : integer; C : boolean array; d : boolean array returns nothing m2, Y : boolean; G : boolean array; J4, b3, U : integer; BD, X9 : boolean; k : boolean; y : boolean; output "^" end main : chillax end

@@ -1,0 +1,1 @@
+program M75 : J : takes F80 : integer array returns nothing mf4, H : boolean array; output - 9 - 86 < 8 . "" end main : let s540 = array - (5 = 18); while - false rem not 6750 and 86 - ah4 and 5 or 5000 - 24 : chillax end; when case eHs0 or 1 - 7 <= 20 : chillax end; while - 179 - 49 : pop; pop end end

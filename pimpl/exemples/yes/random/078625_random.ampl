@@ -1,0 +1,1 @@
+program zr70a : main : Cp : boolean; y, L6da, W : boolean array; AF, t2baa, Y, D, PB : boolean; hY9, m : boolean; while - (519) * 3 - C2(184) <= false and false : chillax end; output "`" . 8 - 4 . "8fa" . 29 . ""; while - (5) - 3 - 753 > 59 : chillax end; output 6 end

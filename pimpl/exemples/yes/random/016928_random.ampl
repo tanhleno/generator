@@ -1,0 +1,1 @@
+program c59 : B : takes A, Y : boolean; Z, f8, F7 : boolean array; dG60 : boolean array returns nothing g, E, S, p2M : boolean array; _ : integer array; u : boolean array; chillax end u : takes HI : integer array; u6 : boolean; Kd, P9 : integer returns nothing chillax end main : Nr : boolean array; S, l9, N, y : integer; SpF : boolean; z, p : boolean; pop end

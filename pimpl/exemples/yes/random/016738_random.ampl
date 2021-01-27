@@ -1,0 +1,1 @@
+program Ye : b : takes sT, C : boolean; mm, SV, k, KJ, U : integer array; t7, u : integer; Hif0a : boolean array; L, O : boolean array returns integer z, _ : integer array; YO : integer; C68, v, z : boolean array; chillax end main : j9 : integer; chillax end

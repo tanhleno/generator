@@ -1,0 +1,1 @@
+program B530a : O : takes NV, e : boolean array returns boolean b2, n : integer array; chillax end main : E : integer array; pop; while - false * T8s or not 048 - 9 <= - 8 - 633 - 4 : chillax end end

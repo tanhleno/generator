@@ -1,0 +1,1 @@
+program G6 : oQA : takes WXD : boolean array; u1 : boolean array; J : integer returns nothing pop; pop 67300 = 221; when case 4 : while 5 : chillax end; pop end case 4970 : pop end case 89 : chillax end end _ : takes A3 : boolean returns boolean array ru : integer array; nF70 : integer; D, F : boolean; l : boolean; chillax end main : output(08) end

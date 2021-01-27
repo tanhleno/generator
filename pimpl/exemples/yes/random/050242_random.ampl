@@ -1,0 +1,1 @@
+program Kz6 : dUd : takes W : integer; h0O0a, e9, f : integer returns integer output "(" end J : takes f : integer returns boolean array W9, N, mu6 : boolean array; PBe0 : boolean array; chillax end main : h, G : integer; KK : integer; chillax end

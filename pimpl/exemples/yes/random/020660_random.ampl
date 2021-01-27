@@ -1,0 +1,1 @@
+program q : k : takes Kr2a, u5yaa : boolean array; zg : integer returns boolean LT, YJ1, m, E7, Zg : boolean; g : boolean; Oq : boolean array; while k5 or 5 > - 34 : output "" . "" end; pop; pop 82600 end main : chillax end

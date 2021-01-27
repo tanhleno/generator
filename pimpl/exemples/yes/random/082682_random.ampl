@@ -1,0 +1,1 @@
+program E140 : main : r : boolean array; when case - h6 = - false : chillax end otherwise : input EYLa; when case 54 : pop end end; when case true rem false and 301 /= true and 1 : pop 9; when case 55 : chillax end; output "\"\""; when case 439 : chillax end; pop end end

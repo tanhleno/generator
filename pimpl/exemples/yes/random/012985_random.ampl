@@ -1,0 +1,1 @@
+program Z : Q6w : takes oKC0a, L, T5 : integer; Af30, hY : integer array; d : boolean array; vT : integer array returns nothing chillax end main : let OJv0 = 9910 / (7); pop - false and 6 or 46200 - 3 >= 775 - 08 end

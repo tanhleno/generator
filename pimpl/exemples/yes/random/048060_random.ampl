@@ -1,0 +1,1 @@
+program A5 : H : takes I : boolean returns nothing k, b, P9taa : integer array; u, v0Eaa, D, fm0 : integer array; V, U, NG : integer array; C28 : boolean; n : boolean; do H((8) and 52000 or 7 = 9 - 087, - 94 - 1, 7 = 72, 278, 9); while - 1 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program A : Uy : takes t : boolean array returns nothing F, Q, S : boolean; N : integer; oA, HW : integer; R, sn : boolean; when case(35) and 7 or 85 - 72500 > 7 - 5 : chillax end end Ir9 : takes oJ50a, U, u54 : boolean returns integer chillax end main : F : integer array; m : integer array; bg5a, ML6, K : integer array; chillax end

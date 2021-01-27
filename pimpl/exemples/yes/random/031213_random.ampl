@@ -1,0 +1,1 @@
+program T9 : r : takes e0gaa, s : integer returns boolean array chillax end main : s, Z : integer; while - 3 - false rem(14) and 40 + true and 5 : chillax end; do mx(- q6[4] or true and 6 or 843 - 2, 0 and 180 + 78 - 15, - 75300 > 14) end

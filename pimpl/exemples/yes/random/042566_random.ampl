@@ -1,0 +1,1 @@
+program N1 : G1j0 : takes g : boolean array returns integer array i, n5, C55 : boolean array; o, L6 : integer array; BPP, H : integer; while(24) + 14 - 834 : chillax end; pop 53 = 8 end i : takes M, z : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N330 : O5 : takes A7Q : boolean array returns nothing pop - 3 - 9; when case 21900 : chillax end case 1260 = 0 : let RuK = 13; pop end end main : u : integer; pFT : integer array; chillax end

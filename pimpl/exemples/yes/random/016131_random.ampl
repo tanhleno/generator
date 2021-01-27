@@ -1,0 +1,1 @@
+program H : RS : takes H, N7, b : integer returns integer while s and 346 - 0 - 7 : chillax end end r5k : takes dg, z, Y4m, _1 : boolean returns nothing XQ, d : integer array; P : boolean; qyI, K : boolean; T : boolean; chillax end main : chillax end

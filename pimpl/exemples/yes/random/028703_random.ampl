@@ -1,0 +1,1 @@
+program P : n2uaa : takes Z2, CB8 : integer array; e : integer; C, V : integer array returns nothing chillax end main : t : integer; let w[w - 39 / true and 5020 - true + 8 - 3] = true - 7 and 694 + 2 end

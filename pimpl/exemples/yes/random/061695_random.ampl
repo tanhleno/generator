@@ -1,0 +1,1 @@
+program X : x : takes X : integer returns boolean array chillax end r : takes Z, aF : boolean array; A7Na : boolean array returns boolean array X : boolean; e2, G : integer; chillax end G : takes M : integer; w160 : integer array; a, W0 : boolean array; u : boolean returns integer array q : boolean; chillax end main : while - (37) and false : chillax end end

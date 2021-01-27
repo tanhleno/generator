@@ -1,0 +1,1 @@
+program L8 : w : takes B : integer returns integer ulC, R, C : integer; a, O_U, gY0aa : boolean; fWS, m, Z35 : boolean; chillax end main : do B7X(not false, 2 / true + (174) - 0, false or 37 - 7 = 92 - 4, 6290 - 6 > 5) end

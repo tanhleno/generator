@@ -1,0 +1,1 @@
+program lT : x5da : takes f1, z, Y64a : integer; c, Vy1 : boolean array; Y : integer; M, nT : integer array; C820a : boolean array returns nothing X : integer; q8, n : boolean array; chillax end main : e : integer; o, Z0 : boolean array; B1, V7, B1, FtI0 : integer; j, O : boolean array; k : integer array; M : boolean; chillax end

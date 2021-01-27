@@ -1,0 +1,1 @@
+program V : W76 : takes U, y, gC60 : boolean returns nothing input L; while 4 : output "" end; output 3 . ""; input FWI0[3] end MF : takes l6, X50, G, v, Q5g, J5, _ : boolean array; O, I, S, GeM0 : integer array; G, R : integer array; LB : boolean returns boolean array chillax end main : chillax end

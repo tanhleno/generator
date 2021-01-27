@@ -1,0 +1,1 @@
+program S : lV : takes D, xu, CHX0a, ye : integer array returns boolean array chillax end main : sG4a, BE, ElRaa : integer array; while - 44 or(73) and 2 and 847 or X + 579 - 5 : chillax end; input ztZaa; output 60 . 55 = 3 . 6; pop end

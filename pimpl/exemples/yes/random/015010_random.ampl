@@ -1,0 +1,1 @@
+program SL6aa : J : takes y, S850, A6La : integer array returns integer chillax end L85 : takes F_, X : integer returns nothing while - 9 - 7170 : when case 598 : chillax end end end main : l : integer array; chillax end

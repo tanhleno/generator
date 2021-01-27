@@ -1,0 +1,1 @@
+program v : dBg0 : takes V5 : boolean array returns integer B0v : integer; n8 : boolean array; chillax end main : pop - true and not 65000 >= - false and 0 + 2 - 66; input H[- i(30) and true or(802)]; output 8 > 5 . 038 . "v" . 3100 end

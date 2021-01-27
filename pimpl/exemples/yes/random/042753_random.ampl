@@ -1,0 +1,1 @@
+program k : Li : takes x85a : boolean array returns integer array MM6 : integer; when case - not 97 and 2 >= - 5 : chillax end otherwise : input l; while 85 : chillax end; pop end; do I2X0a(- 90 - 95500 = 6, 45, 45) end main : input u80a[- XNx or 1] end

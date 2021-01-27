@@ -1,0 +1,1 @@
+program n3T0a : x1 : takes W4 : integer; Y : boolean; Z : boolean; nmF : integer array returns nothing C : boolean; U, M, q, o : boolean; chillax end NZ : takes pfz : integer array returns integer chillax end main : chillax end
